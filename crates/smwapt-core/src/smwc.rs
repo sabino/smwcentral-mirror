@@ -1,4 +1,4 @@
-use crate::package::{known_aliases, normalize_name, InstallKind, Package, PackageVersion};
+use crate::package::{canonical_package_name, known_aliases, InstallKind, Package, PackageVersion};
 use anyhow::{Context, Result};
 use reqwest::blocking::Client;
 use serde::Deserialize;
@@ -82,8 +82,7 @@ pub fn sync_packages(options: &SyncOptions) -> Result<Vec<Package>> {
         }
         thread::sleep(Duration::from_millis(options.delay_ms));
     }
-    packages.sort_by(|a, b| a.name.cmp(&b.name).then(a.upstream_id.cmp(&b.upstream_id)));
-    Ok(packages)
+    Ok(merge_packages(packages))
 }
 
 fn fetch_page(client: &Client, section: &str, page: u64) -> Result<Page> {
@@ -102,12 +101,12 @@ fn fetch_page(client: &Client, section: &str, page: u64) -> Result<Page> {
 
 fn record_to_package(record: FileRecord) -> Package {
     let install_kind = InstallKind::from_section(&record.section);
+    let version = version_from_record(&record);
     let aliases = known_aliases(&record.section, record.id, &record.name);
     let name = aliases
         .first()
         .cloned()
-        .unwrap_or_else(|| format!("{}-{}", record.section, normalize_name(&record.name)));
-    let version = version_from_record(&record);
+        .unwrap_or_else(|| canonical_package_name(&record.section, &record.name, &version));
     let filename = record
         .download_url
         .rsplit('/')
@@ -121,12 +120,13 @@ fn record_to_package(record: FileRecord) -> Package {
         .and_then(|value| value.as_str())
         .unwrap_or("")
         .to_string();
+    let title = record.name;
     Package {
         name,
         aliases,
         section: record.section.clone(),
         upstream_id: record.id,
-        title: record.name,
+        title: title.clone(),
         authors: record
             .authors
             .into_iter()
@@ -137,6 +137,8 @@ fn record_to_package(record: FileRecord) -> Package {
         latest_version: version.clone(),
         install_kind,
         versions: vec![PackageVersion {
+            upstream_id: record.id,
+            title,
             version,
             upstream_time: record.time,
             download_url: record.download_url,
@@ -147,6 +149,52 @@ fn record_to_package(record: FileRecord) -> Package {
             install_kind,
         }],
     }
+}
+
+fn merge_packages(mut packages: Vec<Package>) -> Vec<Package> {
+    packages.sort_by(|a, b| {
+        a.name.cmp(&b.name).then(
+            b.versions[0]
+                .upstream_time
+                .cmp(&a.versions[0].upstream_time),
+        )
+    });
+    let mut merged: Vec<Package> = Vec::new();
+    for package in packages {
+        if let Some(existing) = merged
+            .iter_mut()
+            .find(|candidate| candidate.name == package.name)
+        {
+            existing.aliases.extend(package.aliases);
+            existing.tags.extend(package.tags);
+            existing.versions.extend(package.versions);
+            existing.versions.sort_by(|a, b| {
+                version_sort_key(&b.version)
+                    .cmp(&version_sort_key(&a.version))
+                    .then(b.upstream_time.cmp(&a.upstream_time))
+            });
+            existing.aliases.sort();
+            existing.aliases.dedup();
+            existing.tags.sort();
+            existing.tags.dedup();
+            if let Some(latest) = existing.versions.first() {
+                existing.latest_version = latest.version.clone();
+                existing.upstream_id = latest.upstream_id;
+                existing.title = latest.title.clone();
+            }
+        } else {
+            merged.push(package);
+        }
+    }
+    merged
+}
+
+fn version_sort_key(version: &str) -> Vec<u64> {
+    version
+        .split(|ch: char| !ch.is_ascii_digit())
+        .filter(|part| !part.is_empty())
+        .map(|part| part.parse::<u64>().unwrap_or(0))
+        .collect()
 }
 
 fn version_from_record(record: &FileRecord) -> String {

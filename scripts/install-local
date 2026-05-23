@@ -1,0 +1,43 @@
+#!/usr/bin/env sh
+set -eu
+
+ROOT="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+PREFIX="${PREFIX:-"$HOME/.local"}"
+BINDIR="$PREFIX/bin"
+SHAREDIR="$PREFIX/share/smwapt"
+
+mkdir -p "$BINDIR" "$SHAREDIR"
+
+cargo build --release -p smwapt
+
+if command -v ninja >/dev/null 2>&1; then
+  cmake -S "$ROOT/gui" -B "$ROOT/build/gui" -GNinja
+else
+  cmake -S "$ROOT/gui" -B "$ROOT/build/gui"
+fi
+cmake --build "$ROOT/build/gui"
+
+install -m 0755 "$ROOT/target/release/smwapt" "$BINDIR/smwapt"
+install -m 0755 "$ROOT/build/gui/smwapt-gui" "$SHAREDIR/smwapt-gui"
+
+cat > "$BINDIR/smwapt-gui" <<EOF
+#!/usr/bin/env sh
+set -eu
+
+if [ -n "\${WAYLAND_DISPLAY:-}" ]; then
+  export QT_QPA_PLATFORM="\${QT_QPA_PLATFORM:-wayland;xcb}"
+  export SDL_VIDEODRIVER="\${SDL_VIDEODRIVER:-wayland}"
+  export GDK_BACKEND="\${GDK_BACKEND:-wayland,x11}"
+fi
+export NO_AT_BRIDGE="\${NO_AT_BRIDGE:-1}"
+
+exec "$SHAREDIR/smwapt-gui" "\$@"
+EOF
+chmod 0755 "$BINDIR/smwapt-gui"
+
+echo "installed smwapt to $BINDIR/smwapt"
+echo "installed smwapt-gui to $BINDIR/smwapt-gui"
+case ":$PATH:" in
+  *":$BINDIR:"*) ;;
+  *) echo "add $BINDIR to PATH to run smwapt without a full path" ;;
+esac

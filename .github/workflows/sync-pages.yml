@@ -1,0 +1,68 @@
+name: Sync static package repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      sections:
+        description: Comma-separated SMW Central sections to mirror.
+        required: true
+        default: tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic
+      max_pages:
+        description: Pages per section when full is false.
+        required: true
+        default: "1"
+      full:
+        description: Mirror every page in the selected sections.
+        type: boolean
+        required: true
+        default: false
+  schedule:
+    - cron: "17 4 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      SECTIONS: ${{ inputs.sections || 'tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic' }}
+      MAX_PAGES: ${{ inputs.max_pages || '1' }}
+      FULL_SYNC: ${{ inputs.full || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Generate static repo
+        shell: bash
+        run: |
+          set -euo pipefail
+          cmd=(cargo run --release -p smwapt -- repo sync-smwcentral --out pages --sections "$SECTIONS")
+          if [ "$FULL_SYNC" = "true" ]; then
+            cmd+=(--full)
+          else
+            cmd+=(--max-pages "$MAX_PAGES")
+          fi
+          "${cmd[@]}"
+          cargo run --release -p smwapt -- repo validate --dir pages
+          touch pages/.nojekyll
+      - name: Commit gh-pages branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin gh-pages || true
+          rm -rf /tmp/smwapt-gh-pages
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            git worktree add /tmp/smwapt-gh-pages origin/gh-pages
+          else
+            git worktree add --detach /tmp/smwapt-gh-pages
+          fi
+          rsync -a --delete --exclude .git pages/ /tmp/smwapt-gh-pages/
+          cd /tmp/smwapt-gh-pages
+          git checkout -B gh-pages
+          git add -A
+          git commit -m "repo: sync smwcentral" || exit 0
+          git push origin gh-pages

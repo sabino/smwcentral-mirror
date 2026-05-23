@@ -2,7 +2,9 @@ use anyhow::{Context, Result};
 use clap::{Args, Parser, Subcommand};
 use smwapt_core::config::Paths;
 use smwapt_core::install::{init_project, install_package, InstallOptions};
-use smwapt_core::registry::{cache_packages_from_sources, load_cached_packages, write_repository};
+use smwapt_core::registry::{
+    cache_packages_from_sources, load_cached_packages, validate_repository, write_repository,
+};
 use smwapt_core::rom::inspect_rom;
 use smwapt_core::smwc::{sync_packages, SyncOptions};
 use smwapt_core::sources::{read_sources, write_sources, Source};
@@ -36,6 +38,9 @@ enum Command {
     Show {
         package: String,
     },
+    Versions {
+        package: String,
+    },
     Policy {
         package: String,
     },
@@ -67,6 +72,10 @@ enum Command {
     Server {
         #[command(subcommand)]
         command: ServerCommand,
+    },
+    Repo {
+        #[command(subcommand)]
+        command: RepoCommand,
     },
 }
 
@@ -113,10 +122,34 @@ enum ServerCommand {
     },
 }
 
+#[derive(Debug, Subcommand)]
+enum RepoCommand {
+    SyncSmwcentral {
+        #[arg(long, default_value = "pages")]
+        out: PathBuf,
+        #[arg(long)]
+        full: bool,
+        #[arg(long)]
+        max_pages: Option<u64>,
+        #[arg(long, value_delimiter = ',')]
+        sections: Vec<String>,
+    },
+    Build {
+        #[arg(long, default_value = "pages")]
+        out: PathBuf,
+    },
+    Validate {
+        #[arg(long, default_value = "pages")]
+        dir: PathBuf,
+    },
+}
+
 #[derive(Debug, Args, Default)]
 struct InstallCliOptions {
     #[arg(long)]
     entry: Option<String>,
+    #[arg(long)]
+    version: Option<String>,
     #[arg(long)]
     target: Option<String>,
     #[arg(long)]
@@ -135,6 +168,7 @@ impl From<InstallCliOptions> for InstallOptions {
     fn from(value: InstallCliOptions) -> Self {
         Self {
             entry: value.entry,
+            version: value.version,
             target: value.target,
             map16: value.map16,
             acts_like: value.acts_like,
@@ -182,6 +216,22 @@ pub fn run() -> Result<()> {
                 })
                 .with_context(|| format!("package {package} not found"))?;
             println!("{}", serde_json::to_string_pretty(pkg)?);
+            Ok(())
+        }
+        Command::Versions { package } => {
+            let packages = load_cached_packages(&paths.cache_dir)?;
+            let pkg = packages
+                .iter()
+                .find(|pkg| {
+                    pkg.name == package || pkg.aliases.iter().any(|alias| alias == &package)
+                })
+                .with_context(|| format!("package {package} not found"))?;
+            for version in &pkg.versions {
+                println!(
+                    "{}\tsmwc-{}\t{}\t{}",
+                    version.version, version.upstream_id, version.title, version.download_url
+                );
+            }
             Ok(())
         }
         Command::List => {
@@ -256,6 +306,7 @@ pub fn run() -> Result<()> {
         },
         Command::Doctor => handle_doctor(&root),
         Command::Server { command } => handle_server(&paths, command),
+        Command::Repo { command } => handle_repo(&paths, command),
     }
 }
 
@@ -303,15 +354,7 @@ fn handle_server(paths: &Paths, command: ServerCommand) -> Result<()> {
             sections,
         } => {
             let repo_dir = repo_dir.unwrap_or_else(|| paths.repo_dir.clone());
-            let mut options = SyncOptions::default();
-            if full {
-                options.max_pages = None;
-            } else if max_pages.is_some() {
-                options.max_pages = max_pages;
-            }
-            if !sections.is_empty() {
-                options.sections = sections;
-            }
+            let options = sync_options(full, max_pages, sections);
             let packages = sync_packages(&options)?;
             write_repository(&repo_dir, packages.clone())?;
             println!(
@@ -322,6 +365,64 @@ fn handle_server(paths: &Paths, command: ServerCommand) -> Result<()> {
             Ok(())
         }
     }
+}
+
+fn handle_repo(paths: &Paths, command: RepoCommand) -> Result<()> {
+    match command {
+        RepoCommand::SyncSmwcentral {
+            out,
+            full,
+            max_pages,
+            sections,
+        } => {
+            let options = sync_options(full, max_pages, sections);
+            let packages = sync_packages(&options)?;
+            let index = write_repository(&out, packages)?;
+            println!(
+                "wrote {} packages into static repository {}",
+                index.packages.len(),
+                out.display()
+            );
+            println!("publish that directory with GitHub Pages, then add it as a source:");
+            println!("smwapt source add https://<owner>.github.io/<repo> stable main");
+            Ok(())
+        }
+        RepoCommand::Build { out } => {
+            let packages = load_cached_packages(&paths.cache_dir)?;
+            if packages.is_empty() {
+                anyhow::bail!("no cached packages found; run smwapt update or smwapt repo sync-smwcentral first");
+            }
+            let index = write_repository(&out, packages)?;
+            println!(
+                "wrote {} cached packages into static repository {}",
+                index.packages.len(),
+                out.display()
+            );
+            Ok(())
+        }
+        RepoCommand::Validate { dir } => {
+            let index = validate_repository(&dir)?;
+            println!(
+                "valid static repository: {} packages in {}",
+                index.packages.len(),
+                dir.display()
+            );
+            Ok(())
+        }
+    }
+}
+
+fn sync_options(full: bool, max_pages: Option<u64>, sections: Vec<String>) -> SyncOptions {
+    let mut options = SyncOptions::default();
+    if full {
+        options.max_pages = None;
+    } else if max_pages.is_some() {
+        options.max_pages = max_pages;
+    }
+    if !sections.is_empty() {
+        options.sections = sections;
+    }
+    options
 }
 
 fn handle_doctor(root: &Path) -> Result<()> {

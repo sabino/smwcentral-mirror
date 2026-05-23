@@ -13,6 +13,17 @@ cmake -S gui -B build/gui -GNinja
 cmake --build build/gui
 ```
 
+Install the CLI and GUI locally:
+
+```sh
+scripts/install-local
+smwapt --help
+smwapt-gui
+```
+
+By default this installs into `~/.local/bin` and `~/.local/share/smwapt`.
+Set `PREFIX=/some/path` to install somewhere else.
+
 ## Quick Start
 
 Create a small local mirror from SMW Central metadata:
@@ -30,6 +41,22 @@ In another shell:
 ./target/debug/smwapt search asar
 ```
 
+Or generate a static repository that can be served by GitHub Pages:
+
+```sh
+smwapt repo sync-smwcentral --out pages --sections tools,smwpatches,uberasm --max-pages 1
+smwapt repo validate --dir pages
+```
+
+Publish the `pages/` directory or run the included GitHub Actions workflow to
+push it to a `gh-pages` branch. Then add the Pages URL as a normal apt-style
+source:
+
+```sh
+smwapt source add https://<owner>.github.io/<repo> stable main
+smwapt update
+```
+
 Initialize a project from a verified unheadered SMW USA ROM:
 
 ```sh
@@ -42,6 +69,15 @@ Install a tool:
 
 ```sh
 ./target/debug/smwapt install asar
+```
+
+Install the latest version automatically, list available versions, or pin one:
+
+```sh
+smwapt install uberasm-retry-system
+smwapt versions uberasm-retry-system
+smwapt install uberasm-retry-system=2.0.3 --target project
+smwapt install uberasm-retry-system --version smwc-42270 --target project
 ```
 
 Install resource packages with explicit targets:
@@ -62,6 +98,8 @@ scripts/smwapt-gui-wayland
 
 The GUI uses the same `smwapt` binary and project files as the CLI. On Wayland,
 the wrapper and the GUI both set conservative Qt/SDL/GTK backend defaults.
+After `scripts/install-local`, use `smwapt-gui`; it is installed as the same
+Wayland-safe wrapper.
 
 ## Project Files
 

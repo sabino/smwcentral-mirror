@@ -43,6 +43,8 @@ pub struct Package {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct PackageVersion {
+    pub upstream_id: u64,
+    pub title: String,
     pub version: String,
     pub upstream_time: i64,
     pub download_url: String,
@@ -84,6 +86,54 @@ pub fn normalize_name(input: &str) -> String {
     out.trim_matches('-').to_string()
 }
 
+pub fn canonical_package_name(section: &str, title: &str, version: &str) -> String {
+    format!("{section}-{}", canonical_title_slug(title, version))
+}
+
+pub fn canonical_title_slug(title: &str, version: &str) -> String {
+    let normalized = normalize_name(title);
+    let version_slug = normalize_name(version);
+    let mut candidates = Vec::new();
+    if !version_slug.is_empty() {
+        candidates.push(format!("-v{version_slug}"));
+        candidates.push(format!("-{version_slug}"));
+    }
+    candidates.push("-version".to_string());
+    for suffix in candidates {
+        if let Some(stripped) = normalized.strip_suffix(&suffix) {
+            return stripped.trim_matches('-').to_string();
+        }
+    }
+    strip_generic_version_suffix(&normalized)
+}
+
+fn strip_generic_version_suffix(slug: &str) -> String {
+    let parts: Vec<&str> = slug.split('-').collect();
+    let Some(start) = parts.iter().rposition(|part| is_version_start_token(part)) else {
+        return slug.to_string();
+    };
+    if start == 0 {
+        return slug.to_string();
+    }
+    if parts[start..].iter().all(|part| is_version_token(part)) {
+        return parts[..start].join("-");
+    }
+    slug.to_string()
+}
+
+fn is_version_start_token(token: &str) -> bool {
+    if let Some(rest) = token.strip_prefix('v') {
+        return !rest.is_empty() && rest.chars().all(|ch| ch.is_ascii_digit());
+    }
+    token.chars().all(|ch| ch.is_ascii_digit())
+}
+
+fn is_version_token(token: &str) -> bool {
+    token
+        .chars()
+        .all(|ch| ch.is_ascii_alphanumeric() || ch == 'v')
+}
+
 pub fn known_aliases(section: &str, id: u64, title: &str) -> Vec<String> {
     let normalized = normalize_name(title);
     let mut aliases = Vec::new();
@@ -121,6 +171,22 @@ mod tests {
         assert_eq!(
             normalize_name("MessageBox in Minimalist Status Bar + Goal"),
             "messagebox-in-minimalist-status-bar-goal"
+        );
+    }
+
+    #[test]
+    fn canonical_names_strip_trailing_versions() {
+        assert_eq!(
+            canonical_package_name("uberasm", "Retry System v2.0.3", "2.0.3"),
+            "uberasm-retry-system"
+        );
+        assert_eq!(
+            canonical_package_name("tools", "UberASM Tool 2.1", "2.1"),
+            "tools-uberasm-tool"
+        );
+        assert_eq!(
+            canonical_package_name("smwpatches", "Retry System", "smwc-123-456"),
+            "smwpatches-retry-system"
         );
     }
 
