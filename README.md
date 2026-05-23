@@ -57,6 +57,8 @@ smwapt source add https://<owner>.github.io/<repo> stable main
 smwapt update
 ```
 
+The first public repository target for this project is `https://smw.sabino.pro`.
+
 Initialize a project from a verified unheadered SMW USA ROM:
 
 ```sh
@@ -114,3 +116,10 @@ Wayland-safe wrapper.
 
 `smwapt` manages metadata, tools, and patch/resource ZIPs from configured
 sources. It never stores ROMs in the repository and does not distribute ROMs.
+
+## Integrity Boundary
+
+Repository metadata includes apt-style hashes in `Release`. Package archive
+SHA-256 validation is enforced when a package version declares a `sha256` value.
+Hashes prove byte integrity, not authorship; signed repository metadata should
+be added before treating third-party mirrors as trusted.

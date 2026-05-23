@@ -105,6 +105,17 @@ fn install_resolved(
     }
     let entries = crate::archive::list_zip(&archive)?;
     let selected_entry = select_entry(package.install_kind, &entries, options)?;
+    if let Some(expected) = &version.sha256 {
+        if !sha256.eq_ignore_ascii_case(expected) {
+            bail!(
+                "archive hash mismatch for {} {}: expected {}, got {}",
+                package.name,
+                version.version,
+                expected,
+                sha256
+            );
+        }
+    }
     validate_install_options(package.install_kind, &install_dir, options)?;
     let backup = if package.install_kind == InstallKind::Tool || options.dry_run {
         None

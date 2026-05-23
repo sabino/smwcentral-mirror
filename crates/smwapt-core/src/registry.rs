@@ -6,6 +6,8 @@ use flate2::read::GzDecoder;
 use flate2::write::GzEncoder;
 use flate2::Compression;
 use reqwest::blocking::Client;
+use sha1::{Digest as Sha1Digest, Sha1};
+use sha2::Sha256;
 use std::fs;
 use std::io::{Read, Write};
 use std::path::{Path, PathBuf};
@@ -29,13 +31,18 @@ pub fn write_repository(repo_dir: &Path, packages: Vec<Package>) -> Result<Regis
     let dist_dir = repo_dir.join(format!("dists/{SUITE}/{COMPONENT}/{ARCH}"));
     fs::create_dir_all(&dist_dir)?;
     let packages_text = render_packages(&index.packages);
-    fs::write(dist_dir.join("Packages"), &packages_text)?;
+    let packages_bytes = packages_text.as_bytes();
+    fs::write(dist_dir.join("Packages"), packages_bytes)?;
     let mut gz = GzEncoder::new(Vec::new(), Compression::default());
-    gz.write_all(packages_text.as_bytes())?;
-    fs::write(dist_dir.join("Packages.gz"), gz.finish()?)?;
+    gz.write_all(packages_bytes)?;
+    let packages_gz = gz.finish()?;
+    fs::write(dist_dir.join("Packages.gz"), &packages_gz)?;
     fs::write(
         repo_dir.join(format!("dists/{SUITE}/Release")),
-        render_release(),
+        render_release(&[
+            ReleaseFile::new(format!("{COMPONENT}/{ARCH}/Packages"), packages_bytes),
+            ReleaseFile::new(format!("{COMPONENT}/{ARCH}/Packages.gz"), &packages_gz),
+        ]),
     )?;
     Ok(index)
 }
@@ -86,6 +93,9 @@ pub fn render_packages(packages: &[Package]) -> String {
             pkg.section, pkg.upstream_id, version.filename
         ));
         out.push_str(&format!("Size: {}\n", version.size));
+        if let Some(sha256) = &version.sha256 {
+            out.push_str(&format!("SHA256: {sha256}\n"));
+        }
         out.push_str(&format!("X-SMWC-ID: {}\n", pkg.upstream_id));
         out.push_str(&format!("X-SMWAPT-Kind: {:?}\n", pkg.install_kind));
         out.push_str(&format!("X-SMWAPT-URL: {}\n", version.download_url));
@@ -94,10 +104,46 @@ pub fn render_packages(packages: &[Package]) -> String {
     out
 }
 
-fn render_release() -> String {
-    format!(
+fn render_release(files: &[ReleaseFile]) -> String {
+    let mut out = format!(
         "Origin: smwapt\nLabel: smwapt\nSuite: {SUITE}\nCodename: {SUITE}\nArchitectures: smw\nComponents: {COMPONENT}\nDescription: SMW package registry\n"
-    )
+    );
+    out.push_str("MD5Sum:\n");
+    for file in files {
+        out.push_str(&format!(" {} {:>16} {}\n", file.md5, file.size, file.path));
+    }
+    out.push_str("SHA1:\n");
+    for file in files {
+        out.push_str(&format!(" {} {:>16} {}\n", file.sha1, file.size, file.path));
+    }
+    out.push_str("SHA256:\n");
+    for file in files {
+        out.push_str(&format!(
+            " {} {:>16} {}\n",
+            file.sha256, file.size, file.path
+        ));
+    }
+    out
+}
+
+struct ReleaseFile {
+    path: String,
+    size: usize,
+    md5: String,
+    sha1: String,
+    sha256: String,
+}
+
+impl ReleaseFile {
+    fn new(path: String, bytes: &[u8]) -> Self {
+        Self {
+            path,
+            size: bytes.len(),
+            md5: format!("{:x}", md5::compute(bytes)),
+            sha1: hex::encode(Sha1::digest(bytes)),
+            sha256: hex::encode(Sha256::digest(bytes)),
+        }
+    }
 }
 
 fn one_line(input: &str) -> String {
@@ -227,6 +273,18 @@ mod tests {
         assert!(rendered.contains("Package: asar"));
         assert!(rendered.contains("Architecture: smw"));
         assert!(rendered.contains("X-SMWC-ID: 37443"));
+    }
+
+    #[test]
+    fn release_includes_apt_style_hashes() {
+        let release = render_release(&[ReleaseFile::new(
+            "main/binary-smw/Packages".to_string(),
+            b"Package: asar\n",
+        )]);
+        assert!(release.contains("MD5Sum:\n"));
+        assert!(release.contains("SHA1:\n"));
+        assert!(release.contains("SHA256:\n"));
+        assert!(release.contains("main/binary-smw/Packages"));
     }
 
     #[test]

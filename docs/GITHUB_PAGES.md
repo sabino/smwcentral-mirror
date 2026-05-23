@@ -47,7 +47,9 @@ Pages serves.
 
 The included workflow at `.github/workflows/sync-pages.yml` runs weekly and can
 also be triggered manually. It generates `pages/`, validates it, and commits the
-static repository to the `gh-pages` branch.
+static repository to the `gh-pages` branch. It writes `smw.sabino.pro` to
+`pages/CNAME`, so the generated `gh-pages` branch is ready for that custom
+domain.
 
 In GitHub repository settings, configure Pages to serve from the `gh-pages`
 branch. The resulting source URL is:
@@ -55,3 +57,21 @@ branch. The resulting source URL is:
 ```sh
 smwapt source add https://<owner>.github.io/<repo> stable main
 ```
+
+For this repository, the intended source is:
+
+```sh
+smwapt source add https://smw.sabino.pro stable main
+```
+
+## Integrity
+
+The generated `Release` file includes apt-style `MD5Sum`, `SHA1`, and `SHA256`
+hashes for `Packages` and `Packages.gz`. `MD5Sum` is included for apt-style
+compatibility only; `SHA256` is the meaningful checksum.
+
+Package archive metadata also supports per-version `sha256`, and `smwapt
+install` rejects a downloaded archive if a package version declares a SHA-256
+hash and the bytes do not match. SMW Central metadata does not currently provide
+archive hashes in the synced package index, so full archive verification requires
+mirroring artifacts and hashing them during publication.

@@ -29,6 +29,7 @@ jobs:
       SECTIONS: ${{ inputs.sections || 'tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic' }}
       MAX_PAGES: ${{ inputs.max_pages || '1' }}
       FULL_SYNC: ${{ inputs.full || 'false' }}
+      PAGES_CNAME: smw.sabino.pro
     steps:
       - uses: actions/checkout@v4
         with:
@@ -46,6 +47,7 @@ jobs:
           fi
           "${cmd[@]}"
           cargo run --release -p smwapt -- repo validate --dir pages
+          printf '%s\n' "$PAGES_CNAME" > pages/CNAME
           touch pages/.nojekyll
       - name: Commit gh-pages branch
         shell: bash
