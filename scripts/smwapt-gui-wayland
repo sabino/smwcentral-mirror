@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+set -eu
+
+if [ -n "${WAYLAND_DISPLAY:-}" ]; then
+  export QT_QPA_PLATFORM="${QT_QPA_PLATFORM:-wayland;xcb}"
+  export SDL_VIDEODRIVER="${SDL_VIDEODRIVER:-wayland}"
+  export GDK_BACKEND="${GDK_BACKEND:-wayland,x11}"
+fi
+export NO_AT_BRIDGE="${NO_AT_BRIDGE:-1}"
+
+DIR="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+if [ -x "$DIR/build/gui/smwapt-gui" ]; then
+  exec "$DIR/build/gui/smwapt-gui" "$@"
+fi
+if [ -x "$DIR/build/smwapt-gui" ]; then
+  exec "$DIR/build/smwapt-gui" "$@"
+fi
+exec "$DIR/gui/build/smwapt-gui" "$@"
