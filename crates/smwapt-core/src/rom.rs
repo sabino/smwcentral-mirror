@@ -38,3 +38,19 @@ pub fn verify_rom(path: &Path) -> Result<RomInfo> {
     }
     Ok(info)
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use std::io::Write;
+
+    #[test]
+    fn rejects_wrong_size_rom() {
+        let temp = tempfile::NamedTempFile::new().unwrap();
+        let mut file = temp.reopen().unwrap();
+        file.write_all(b"not a rom").unwrap();
+        let info = inspect_rom(temp.path()).unwrap();
+        assert!(!info.valid_unheadered_usa);
+        assert!(verify_rom(temp.path()).is_err());
+    }
+}

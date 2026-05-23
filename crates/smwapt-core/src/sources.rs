@@ -72,3 +72,22 @@ pub fn source_cache_key(source: &Source) -> String {
         source.url, source.suite, source.component
     ))
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn parses_apt_style_source() {
+        let source = Source::parse("deb http://127.0.0.1:4789 stable main").unwrap();
+        assert_eq!(source.url, "http://127.0.0.1:4789");
+        assert_eq!(source.suite, "stable");
+        assert_eq!(source.component, "main");
+        assert_eq!(source.to_string(), "deb http://127.0.0.1:4789 stable main");
+    }
+
+    #[test]
+    fn rejects_non_deb_source() {
+        assert!(Source::parse("rpm http://127.0.0.1 stable main").is_err());
+    }
+}

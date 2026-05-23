@@ -109,3 +109,39 @@ pub fn load_cached_packages(cache_dir: &Path) -> Result<Vec<Package>> {
 fn cache_path_for_source(cache_dir: &Path, source: &Source) -> PathBuf {
     cache_dir.join(format!("{}.json", source_cache_key(source)))
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::package::{InstallKind, PackageVersion};
+
+    #[test]
+    fn renders_apt_package_stanza() {
+        let packages = vec![Package {
+            name: "asar".to_string(),
+            aliases: vec!["asar".to_string()],
+            section: "tools".to_string(),
+            upstream_id: 37443,
+            title: "Asar v1.91".to_string(),
+            authors: vec!["RPG Hacker".to_string()],
+            tags: vec![],
+            description: String::new(),
+            latest_version: "smwc-37443".to_string(),
+            install_kind: InstallKind::Tool,
+            versions: vec![PackageVersion {
+                version: "smwc-37443".to_string(),
+                upstream_time: 0,
+                download_url: "https://example.invalid/asar.zip".to_string(),
+                filename: "asar.zip".to_string(),
+                size: 42,
+                sha256: None,
+                dependencies: vec![],
+                install_kind: InstallKind::Tool,
+            }],
+        }];
+        let rendered = render_packages(&packages);
+        assert!(rendered.contains("Package: asar"));
+        assert!(rendered.contains("Architecture: smw"));
+        assert!(rendered.contains("X-SMWC-ID: 37443"));
+    }
+}
