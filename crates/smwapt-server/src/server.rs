@@ -68,7 +68,10 @@ async fn search_packages(
                 || pkg.name.contains(&needle)
                 || pkg.title.to_ascii_lowercase().contains(&needle)
                 || pkg.aliases.iter().any(|alias| alias.contains(&needle))
-                || pkg.tags.iter().any(|tag| tag.to_ascii_lowercase().contains(&needle))
+                || pkg
+                    .tags
+                    .iter()
+                    .any(|tag| tag.to_ascii_lowercase().contains(&needle))
         })
         .cloned()
         .collect();

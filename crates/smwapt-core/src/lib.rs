@@ -5,7 +5,7 @@ pub mod manifest;
 pub mod package;
 pub mod registry;
 pub mod rom;
-pub mod sources;
 pub mod smwc;
+pub mod sources;
 
 pub use package::{InstallKind, Package, PackageVersion};

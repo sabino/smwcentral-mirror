@@ -45,7 +45,11 @@ pub fn init_project(root: &Path, rom: &Path, copy_rom: Option<&Path>) -> Result<
     Ok(manifest)
 }
 
-pub fn install_package(root: &Path, query: &str, options: &InstallOptions) -> Result<InstallRecord> {
+pub fn install_package(
+    root: &Path,
+    query: &str,
+    options: &InstallOptions,
+) -> Result<InstallRecord> {
     let paths = Paths::new(root);
     let packages = registry::load_cached_packages(&paths.cache_dir)?;
     let package = packages
@@ -96,7 +100,14 @@ fn install_resolved(
         Some(backup_rom(root, Path::new(&manifest.rom))?)
     };
     let command = if !options.dry_run {
-        run_installer(root, package, &install_dir, &manifest, selected_entry.as_deref(), options)?
+        run_installer(
+            root,
+            package,
+            &install_dir,
+            &manifest,
+            selected_entry.as_deref(),
+            options,
+        )?
     } else {
         None
     };
@@ -111,11 +122,17 @@ fn install_resolved(
         target: effective_target(package.install_kind, options),
         backup,
         command,
-        status: if options.dry_run { "dry-run" } else { "installed" }.to_string(),
+        status: if options.dry_run {
+            "dry-run"
+        } else {
+            "installed"
+        }
+        .to_string(),
     };
     if !options.dry_run {
         let mut lock = read_lockfile(root)?;
-        lock.installed.retain(|existing| existing.name != record.name);
+        lock.installed
+            .retain(|existing| existing.name != record.name);
         lock.installed.push(record.clone());
         write_lockfile(root, &lock)?;
     }
@@ -126,9 +143,10 @@ fn download_archive(root: &Path, package: &Package) -> Result<PathBuf> {
     let paths = Paths::new(root);
     fs::create_dir_all(&paths.downloads_dir)?;
     let version = &package.versions[0];
-    let path = paths
-        .downloads_dir
-        .join(format!("{}-{}-{}", package.name, package.upstream_id, version.filename));
+    let path = paths.downloads_dir.join(format!(
+        "{}-{}-{}",
+        package.name, package.upstream_id, version.filename
+    ));
     if path.exists() {
         return Ok(path);
     }
@@ -164,17 +182,25 @@ fn select_entry(
 ) -> Result<Option<String>> {
     match kind {
         InstallKind::Tool | InstallKind::AssetOnly => Ok(None),
-        InstallKind::AsarPatch | InstallKind::UberAsm | InstallKind::GpsBlock => {
-            Ok(Some(choose_entry(entries, options.entry.as_deref(), ".asm")?))
-        }
+        InstallKind::AsarPatch | InstallKind::UberAsm | InstallKind::GpsBlock => Ok(Some(
+            choose_entry(entries, options.entry.as_deref(), ".asm")?,
+        )),
         InstallKind::PixiSprite => {
             if let Ok(entry) = choose_entry(entries, options.entry.as_deref(), ".json") {
                 Ok(Some(entry))
             } else {
-                Ok(Some(choose_entry(entries, options.entry.as_deref(), ".cfg")?))
+                Ok(Some(choose_entry(
+                    entries,
+                    options.entry.as_deref(),
+                    ".cfg",
+                )?))
             }
         }
-        InstallKind::AddMusicKMusic => Ok(Some(choose_entry(entries, options.entry.as_deref(), ".txt")?)),
+        InstallKind::AddMusicKMusic => Ok(Some(choose_entry(
+            entries,
+            options.entry.as_deref(),
+            ".txt",
+        )?)),
     }
 }
 
@@ -197,22 +223,64 @@ fn run_installer(
 ) -> Result<Option<String>> {
     match package.install_kind {
         InstallKind::Tool | InstallKind::AssetOnly => Ok(None),
-        InstallKind::AsarPatch => run_asar(root, install_dir, selected_entry.context("missing asm entry")?, &manifest.rom),
-        InstallKind::UberAsm => run_uberasm(root, install_dir, selected_entry.context("missing asm entry")?, &manifest.rom, options),
-        InstallKind::GpsBlock => run_gps(root, install_dir, selected_entry.context("missing asm entry")?, &manifest.rom, options),
-        InstallKind::PixiSprite => run_pixi(root, install_dir, selected_entry.context("missing sprite entry")?, &manifest.rom, options),
-        InstallKind::AddMusicKMusic => run_addmusick(root, install_dir, selected_entry.context("missing music entry")?, &manifest.rom, options),
+        InstallKind::AsarPatch => run_asar(
+            root,
+            install_dir,
+            selected_entry.context("missing asm entry")?,
+            &manifest.rom,
+        ),
+        InstallKind::UberAsm => run_uberasm(
+            root,
+            install_dir,
+            selected_entry.context("missing asm entry")?,
+            &manifest.rom,
+            options,
+        ),
+        InstallKind::GpsBlock => run_gps(
+            root,
+            install_dir,
+            selected_entry.context("missing asm entry")?,
+            &manifest.rom,
+            options,
+        ),
+        InstallKind::PixiSprite => run_pixi(
+            root,
+            install_dir,
+            selected_entry.context("missing sprite entry")?,
+            &manifest.rom,
+            options,
+        ),
+        InstallKind::AddMusicKMusic => run_addmusick(
+            root,
+            install_dir,
+            selected_entry.context("missing music entry")?,
+            &manifest.rom,
+            options,
+        ),
     }
 }
 
 fn run_asar(root: &Path, install_dir: &Path, entry: &str, rom: &str) -> Result<Option<String>> {
     let asar = find_tool_executable(root, "asar", "asar.exe")?;
     let patch = install_dir.join(entry);
-    run_command(asar.parent().unwrap_or(root), &asar, &[patch.as_path(), Path::new(rom)])
+    run_command(
+        asar.parent().unwrap_or(root),
+        &asar,
+        &[patch.as_path(), Path::new(rom)],
+    )
 }
 
-fn run_uberasm(root: &Path, install_dir: &Path, entry: &str, rom: &str, options: &InstallOptions) -> Result<Option<String>> {
-    let target = options.target.as_deref().context("UberASM install requires --target")?;
+fn run_uberasm(
+    root: &Path,
+    install_dir: &Path,
+    entry: &str,
+    rom: &str,
+    options: &InstallOptions,
+) -> Result<Option<String>> {
+    let target = options
+        .target
+        .as_deref()
+        .context("UberASM install requires --target")?;
     let tool_dir = tool_dir(root, "uberasm-tool")?;
     let bucket = target.split(':').next().unwrap_or("level");
     let dest_subdir = match bucket {
@@ -224,52 +292,118 @@ fn run_uberasm(root: &Path, install_dir: &Path, entry: &str, rom: &str, options:
     };
     let dest_name = Path::new(entry).file_name().context("entry filename")?;
     fs::create_dir_all(tool_dir.join(dest_subdir))?;
-    fs::copy(install_dir.join(entry), tool_dir.join(dest_subdir).join(dest_name))?;
-    write_uberasm_list(&tool_dir, target, dest_subdir, dest_name.to_string_lossy().as_ref(), rom)?;
+    fs::copy(
+        install_dir.join(entry),
+        tool_dir.join(dest_subdir).join(dest_name),
+    )?;
+    write_uberasm_list(
+        &tool_dir,
+        target,
+        dest_subdir,
+        dest_name.to_string_lossy().as_ref(),
+        rom,
+    )?;
     let exe = find_in_dir(&tool_dir, "UberASMTool.exe")?;
     run_command(&tool_dir, &exe, &[Path::new("list.txt"), Path::new(rom)])
 }
 
-fn run_gps(root: &Path, install_dir: &Path, entry: &str, rom: &str, options: &InstallOptions) -> Result<Option<String>> {
-    let map16 = options.map16.as_deref().context("GPS block install requires --map16")?;
+fn run_gps(
+    root: &Path,
+    install_dir: &Path,
+    entry: &str,
+    rom: &str,
+    options: &InstallOptions,
+) -> Result<Option<String>> {
+    let map16 = options
+        .map16
+        .as_deref()
+        .context("GPS block install requires --map16")?;
     let acts_like = options.acts_like.as_deref().unwrap_or("0130");
     let tool_dir = tool_dir(root, "gps")?;
     let dest_name = Path::new(entry).file_name().context("entry filename")?;
     fs::create_dir_all(tool_dir.join("blocks"))?;
-    fs::copy(install_dir.join(entry), tool_dir.join("blocks").join(dest_name))?;
-    fs::write(tool_dir.join("list.txt"), format!("{map16}:{acts_like} {}\n", dest_name.to_string_lossy()))?;
+    fs::copy(
+        install_dir.join(entry),
+        tool_dir.join("blocks").join(dest_name),
+    )?;
+    fs::write(
+        tool_dir.join("list.txt"),
+        format!("{map16}:{acts_like} {}\n", dest_name.to_string_lossy()),
+    )?;
     let exe = find_in_dir(&tool_dir, "gps.exe")?;
     run_command(&tool_dir, &exe, &[Path::new(rom)])
 }
 
-fn run_pixi(root: &Path, install_dir: &Path, entry: &str, rom: &str, options: &InstallOptions) -> Result<Option<String>> {
-    let slot = options.sprite_slot.as_deref().context("PIXI sprite install requires --sprite-slot")?;
+fn run_pixi(
+    root: &Path,
+    install_dir: &Path,
+    entry: &str,
+    rom: &str,
+    options: &InstallOptions,
+) -> Result<Option<String>> {
+    let slot = options
+        .sprite_slot
+        .as_deref()
+        .context("PIXI sprite install requires --sprite-slot")?;
     let tool_dir = tool_dir(root, "pixi")?;
     let dest_name = Path::new(entry).file_name().context("entry filename")?;
     fs::create_dir_all(tool_dir.join("sprites"))?;
-    fs::copy(install_dir.join(entry), tool_dir.join("sprites").join(dest_name))?;
-    fs::write(tool_dir.join("list.txt"), format!("{slot} {}\n", dest_name.to_string_lossy()))?;
+    fs::copy(
+        install_dir.join(entry),
+        tool_dir.join("sprites").join(dest_name),
+    )?;
+    fs::write(
+        tool_dir.join("list.txt"),
+        format!("{slot} {}\n", dest_name.to_string_lossy()),
+    )?;
     let exe = find_in_dir(&tool_dir, "pixi.exe")?;
     run_command(&tool_dir, &exe, &[Path::new(rom)])
 }
 
-fn run_addmusick(root: &Path, install_dir: &Path, entry: &str, rom: &str, options: &InstallOptions) -> Result<Option<String>> {
-    let slot = options.song_slot.as_deref().context("AddMusicK install requires --song-slot")?;
+fn run_addmusick(
+    root: &Path,
+    install_dir: &Path,
+    entry: &str,
+    rom: &str,
+    options: &InstallOptions,
+) -> Result<Option<String>> {
+    let slot = options
+        .song_slot
+        .as_deref()
+        .context("AddMusicK install requires --song-slot")?;
     let tool_dir = tool_dir(root, "addmusick")?;
     let dest_name = Path::new(entry).file_name().context("entry filename")?;
     fs::create_dir_all(tool_dir.join("music/smwapt"))?;
-    fs::copy(install_dir.join(entry), tool_dir.join("music/smwapt").join(dest_name))?;
-    fs::write(tool_dir.join("Addmusic_list.txt"), format!("{slot} music/smwapt/{}\n", dest_name.to_string_lossy()))?;
+    fs::copy(
+        install_dir.join(entry),
+        tool_dir.join("music/smwapt").join(dest_name),
+    )?;
+    fs::write(
+        tool_dir.join("Addmusic_list.txt"),
+        format!("{slot} music/smwapt/{}\n", dest_name.to_string_lossy()),
+    )?;
     let exe = find_in_dir(&tool_dir, "AddmusicK.exe")?;
     run_command(&tool_dir, &exe, &[Path::new(rom)])
 }
 
-fn write_uberasm_list(tool_dir: &Path, target: &str, subdir: &str, filename: &str, rom: &str) -> Result<()> {
+fn write_uberasm_list(
+    tool_dir: &Path,
+    target: &str,
+    subdir: &str,
+    filename: &str,
+    rom: &str,
+) -> Result<()> {
     let mut content = format!("rom: {rom}\n\n");
     match target.split_once(':') {
-        Some(("level", value)) => content.push_str(&format!("level:\n{value} {subdir}/{filename}\n")),
-        Some(("gamemode", value)) => content.push_str(&format!("gamemode:\n{value} {subdir}/{filename}\n")),
-        Some(("overworld", value)) => content.push_str(&format!("overworld:\n{value} {subdir}/{filename}\n")),
+        Some(("level", value)) => {
+            content.push_str(&format!("level:\n{value} {subdir}/{filename}\n"))
+        }
+        Some(("gamemode", value)) => {
+            content.push_str(&format!("gamemode:\n{value} {subdir}/{filename}\n"))
+        }
+        Some(("overworld", value)) => {
+            content.push_str(&format!("overworld:\n{value} {subdir}/{filename}\n"))
+        }
         Some(("library", _)) | Some(("global", _)) | Some(("statusbar", _)) | None => {
             content.push_str(&format!("global:\n{subdir}/{filename}\n"))
         }
@@ -280,7 +414,13 @@ fn write_uberasm_list(tool_dir: &Path, target: &str, subdir: &str, filename: &st
 }
 
 fn run_command(cwd: &Path, exe: &Path, args: &[&Path]) -> Result<Option<String>> {
-    let mut command = if exe.extension().and_then(|ext| ext.to_str()).map(|ext| ext.eq_ignore_ascii_case("exe")).unwrap_or(false) && !cfg!(windows) {
+    let mut command = if exe
+        .extension()
+        .and_then(|ext| ext.to_str())
+        .map(|ext| ext.eq_ignore_ascii_case("exe"))
+        .unwrap_or(false)
+        && !cfg!(windows)
+    {
         let mut cmd = Command::new("wine");
         cmd.arg(exe);
         cmd
@@ -293,7 +433,9 @@ fn run_command(cwd: &Path, exe: &Path, args: &[&Path]) -> Result<Option<String>>
         command.arg(arg);
     }
     let printable = format!("{:?}", command);
-    let output = command.output().with_context(|| format!("running {printable}"))?;
+    let output = command
+        .output()
+        .with_context(|| format!("running {printable}"))?;
     if !output.status.success() {
         bail!(
             "installer failed: {}\nstdout:\n{}\nstderr:\n{}",
@@ -307,15 +449,30 @@ fn run_command(cwd: &Path, exe: &Path, args: &[&Path]) -> Result<Option<String>>
 
 pub fn apply_visible_env(command: &mut Command) {
     if env::var_os("WAYLAND_DISPLAY").is_some() {
-        command.env("QT_QPA_PLATFORM", env::var("QT_QPA_PLATFORM").unwrap_or_else(|_| "wayland;xcb".to_string()));
-        command.env("SDL_VIDEODRIVER", env::var("SDL_VIDEODRIVER").unwrap_or_else(|_| "wayland".to_string()));
-        command.env("GDK_BACKEND", env::var("GDK_BACKEND").unwrap_or_else(|_| "wayland,x11".to_string()));
+        command.env(
+            "QT_QPA_PLATFORM",
+            env::var("QT_QPA_PLATFORM").unwrap_or_else(|_| "wayland;xcb".to_string()),
+        );
+        command.env(
+            "SDL_VIDEODRIVER",
+            env::var("SDL_VIDEODRIVER").unwrap_or_else(|_| "wayland".to_string()),
+        );
+        command.env(
+            "GDK_BACKEND",
+            env::var("GDK_BACKEND").unwrap_or_else(|_| "wayland,x11".to_string()),
+        );
     }
-    command.env("NO_AT_BRIDGE", env::var("NO_AT_BRIDGE").unwrap_or_else(|_| "1".to_string()));
+    command.env(
+        "NO_AT_BRIDGE",
+        env::var("NO_AT_BRIDGE").unwrap_or_else(|_| "1".to_string()),
+    );
 }
 
 fn is_installed(root: &Path, name: &str) -> Result<bool> {
-    Ok(read_lockfile(root)?.installed.iter().any(|record| record.name == name))
+    Ok(read_lockfile(root)?
+        .installed
+        .iter()
+        .any(|record| record.name == name))
 }
 
 fn tool_dir(root: &Path, name: &str) -> Result<PathBuf> {
@@ -327,7 +484,9 @@ fn tool_dir(root: &Path, name: &str) -> Result<PathBuf> {
         .filter(|path| path.is_dir())
         .collect::<Vec<_>>();
     versions.sort();
-    versions.pop().with_context(|| format!("tool {name} is not installed"))
+    versions
+        .pop()
+        .with_context(|| format!("tool {name} is not installed"))
 }
 
 fn find_tool_executable(root: &Path, tool: &str, exe: &str) -> Result<PathBuf> {
@@ -338,7 +497,12 @@ fn find_tool_executable(root: &Path, tool: &str, exe: &str) -> Result<PathBuf> {
 fn find_in_dir(dir: &Path, exe: &str) -> Result<PathBuf> {
     for entry in walkdir::WalkDir::new(dir) {
         let entry = entry?;
-        if entry.file_type().is_file() && entry.file_name().to_string_lossy().eq_ignore_ascii_case(exe) {
+        if entry.file_type().is_file()
+            && entry
+                .file_name()
+                .to_string_lossy()
+                .eq_ignore_ascii_case(exe)
+        {
             return Ok(entry.path().to_path_buf());
         }
     }

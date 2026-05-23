@@ -87,9 +87,10 @@ pub fn sync_packages(options: &SyncOptions) -> Result<Vec<Package>> {
 }
 
 fn fetch_page(client: &Client, section: &str, page: u64) -> Result<Page> {
-    let mut req = client
-        .get(BASE_URL)
-        .query(&[("a", "getsectionlist"), ("s", section), ("u", "0")]);
+    let mut req =
+        client
+            .get(BASE_URL)
+            .query(&[("a", "getsectionlist"), ("s", section), ("u", "0")]);
     let page_s;
     if page > 1 {
         page_s = page.to_string();
@@ -126,7 +127,11 @@ fn record_to_package(record: FileRecord) -> Package {
         section: record.section.clone(),
         upstream_id: record.id,
         title: record.name,
-        authors: record.authors.into_iter().map(|author| author.name).collect(),
+        authors: record
+            .authors
+            .into_iter()
+            .map(|author| author.name)
+            .collect(),
         tags: record.tags.unwrap_or_default(),
         description,
         latest_version: version.clone(),
@@ -169,7 +174,8 @@ fn dependencies_for(kind: InstallKind) -> Vec<String> {
 }
 
 fn urlencoding_like_decode(input: &str) -> String {
-    input.replace("%20", " ")
+    input
+        .replace("%20", " ")
         .replace("%28", "(")
         .replace("%29", ")")
         .replace("%2B", "+")

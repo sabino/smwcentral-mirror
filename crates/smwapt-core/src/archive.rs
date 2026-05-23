@@ -27,7 +27,8 @@ pub fn sha256_file(path: &Path) -> Result<String> {
 
 pub fn list_zip(path: &Path) -> Result<Vec<ArchiveEntry>> {
     let file = File::open(path).with_context(|| format!("opening archive {}", path.display()))?;
-    let mut zip = ZipArchive::new(file).with_context(|| format!("reading zip {}", path.display()))?;
+    let mut zip =
+        ZipArchive::new(file).with_context(|| format!("reading zip {}", path.display()))?;
     let mut entries = Vec::new();
     for i in 0..zip.len() {
         let entry = zip.by_index(i)?;
@@ -44,7 +45,8 @@ pub fn list_zip(path: &Path) -> Result<Vec<ArchiveEntry>> {
 pub fn extract_zip(path: &Path, dest: &Path) -> Result<Vec<ArchiveEntry>> {
     fs::create_dir_all(dest).with_context(|| format!("creating {}", dest.display()))?;
     let file = File::open(path).with_context(|| format!("opening archive {}", path.display()))?;
-    let mut zip = ZipArchive::new(file).with_context(|| format!("reading zip {}", path.display()))?;
+    let mut zip =
+        ZipArchive::new(file).with_context(|| format!("reading zip {}", path.display()))?;
     let mut entries = Vec::new();
     for i in 0..zip.len() {
         let mut entry = zip.by_index(i)?;
@@ -70,7 +72,11 @@ pub fn extract_zip(path: &Path, dest: &Path) -> Result<Vec<ArchiveEntry>> {
     Ok(entries)
 }
 
-pub fn choose_entry(entries: &[ArchiveEntry], requested: Option<&str>, extension: &str) -> Result<String> {
+pub fn choose_entry(
+    entries: &[ArchiveEntry],
+    requested: Option<&str>,
+    extension: &str,
+) -> Result<String> {
     if let Some(requested) = requested {
         if entries.iter().any(|entry| entry.path == requested) {
             return Ok(requested.to_string());

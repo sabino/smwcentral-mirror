@@ -32,13 +32,17 @@ pub fn write_repository(repo_dir: &Path, packages: Vec<Package>) -> Result<Regis
     let mut gz = GzEncoder::new(Vec::new(), Compression::default());
     gz.write_all(packages_text.as_bytes())?;
     fs::write(dist_dir.join("Packages.gz"), gz.finish()?)?;
-    fs::write(repo_dir.join(format!("dists/{SUITE}/Release")), render_release())?;
+    fs::write(
+        repo_dir.join(format!("dists/{SUITE}/Release")),
+        render_release(),
+    )?;
     Ok(index)
 }
 
 pub fn load_repository(repo_dir: &Path) -> Result<RegistryIndex> {
     let path = repo_dir.join("index.json");
-    let content = fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
+    let content =
+        fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
     serde_json::from_str(&content).with_context(|| format!("parsing {}", path.display()))
 }
 
@@ -51,7 +55,10 @@ pub fn render_packages(packages: &[Package]) -> String {
         out.push_str(&format!("Section: {}\n", pkg.section));
         out.push_str("Architecture: smw\n");
         out.push_str(&format!("Maintainer: {}\n", pkg.authors.join(", ")));
-        out.push_str(&format!("Filename: pool/{}/{}/{}\n", pkg.section, pkg.upstream_id, version.filename));
+        out.push_str(&format!(
+            "Filename: pool/{}/{}/{}\n",
+            pkg.section, pkg.upstream_id, version.filename
+        ));
         out.push_str(&format!("Size: {}\n", version.size));
         out.push_str(&format!("X-SMWC-ID: {}\n", pkg.upstream_id));
         out.push_str(&format!("X-SMWAPT-Kind: {:?}\n", pkg.install_kind));
@@ -93,7 +100,10 @@ pub fn cache_packages_from_sources(sources: &[Source], cache_dir: &Path) -> Resu
         all.extend(packages);
     }
     all.sort_by(|a, b| a.name.cmp(&b.name));
-    fs::write(cache_dir.join("packages.json"), serde_json::to_string_pretty(&all)?)?;
+    fs::write(
+        cache_dir.join("packages.json"),
+        serde_json::to_string_pretty(&all)?,
+    )?;
     Ok(all)
 }
 
@@ -102,7 +112,8 @@ pub fn load_cached_packages(cache_dir: &Path) -> Result<Vec<Package>> {
     if !path.exists() {
         return Ok(Vec::new());
     }
-    let content = fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
+    let content =
+        fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
     serde_json::from_str(&content).with_context(|| format!("parsing {}", path.display()))
 }
 

@@ -63,9 +63,9 @@ pub struct RegistryIndex {
 
 impl RegistryIndex {
     pub fn find(&self, query: &str) -> Option<&Package> {
-        self.packages.iter().find(|pkg| {
-            pkg.name == query || pkg.aliases.iter().any(|alias| alias == query)
-        })
+        self.packages
+            .iter()
+            .find(|pkg| pkg.name == query || pkg.aliases.iter().any(|alias| alias == query))
     }
 }
 
@@ -118,12 +118,17 @@ mod tests {
     #[test]
     fn normalizes_package_names() {
         assert_eq!(normalize_name("UberASM Tool 2.1"), "uberasm-tool-2-1");
-        assert_eq!(normalize_name("MessageBox in Minimalist Status Bar + Goal"), "messagebox-in-minimalist-status-bar-goal");
+        assert_eq!(
+            normalize_name("MessageBox in Minimalist Status Bar + Goal"),
+            "messagebox-in-minimalist-status-bar-goal"
+        );
     }
 
     #[test]
     fn maps_known_tool_aliases() {
         assert!(known_aliases("tools", 37443, "Asar v1.91").contains(&"asar".to_string()));
-        assert!(known_aliases("tools", 39036, "UberASM Tool 2.1").contains(&"uberasm-tool".to_string()));
+        assert!(
+            known_aliases("tools", 39036, "UberASM Tool 2.1").contains(&"uberasm-tool".to_string())
+        );
     }
 }

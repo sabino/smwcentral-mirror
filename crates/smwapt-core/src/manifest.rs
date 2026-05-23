@@ -53,7 +53,8 @@ pub fn lockfile_path(root: &Path) -> PathBuf {
 
 pub fn read_manifest(root: &Path) -> Result<ProjectManifest> {
     let path = manifest_path(root);
-    let content = fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
+    let content =
+        fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
     toml::from_str(&content).with_context(|| format!("parsing {}", path.display()))
 }
 
@@ -71,7 +72,8 @@ pub fn read_lockfile(root: &Path) -> Result<Lockfile> {
     if !path.exists() {
         return Ok(Lockfile::default());
     }
-    let content = fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
+    let content =
+        fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
     serde_json::from_str(&content).with_context(|| format!("parsing {}", path.display()))
 }
 

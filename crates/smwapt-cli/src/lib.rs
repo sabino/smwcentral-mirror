@@ -4,14 +4,18 @@ use smwapt_core::config::Paths;
 use smwapt_core::install::{init_project, install_package, InstallOptions};
 use smwapt_core::registry::{cache_packages_from_sources, load_cached_packages, write_repository};
 use smwapt_core::rom::inspect_rom;
-use smwapt_core::sources::{read_sources, write_sources, Source};
 use smwapt_core::smwc::{sync_packages, SyncOptions};
+use smwapt_core::sources::{read_sources, write_sources, Source};
 use smwapt_server::server::{run_server, ServerOptions};
 use std::net::SocketAddr;
 use std::path::{Path, PathBuf};
 
 #[derive(Debug, Parser)]
-#[command(name = "smwapt", version, about = "Apt-style package manager for SMW hacking resources")]
+#[command(
+    name = "smwapt",
+    version,
+    about = "Apt-style package manager for SMW hacking resources"
+)]
 struct Cli {
     #[arg(long, default_value = ".")]
     root: PathBuf,
@@ -173,7 +177,9 @@ pub fn run() -> Result<()> {
             let packages = load_cached_packages(&paths.cache_dir)?;
             let pkg = packages
                 .iter()
-                .find(|pkg| pkg.name == package || pkg.aliases.iter().any(|alias| alias == &package))
+                .find(|pkg| {
+                    pkg.name == package || pkg.aliases.iter().any(|alias| alias == &package)
+                })
                 .with_context(|| format!("package {package} not found"))?;
             println!("{}", serde_json::to_string_pretty(pkg)?);
             Ok(())
@@ -181,7 +187,10 @@ pub fn run() -> Result<()> {
         Command::List => {
             let lock = smwapt_core::manifest::read_lockfile(&root)?;
             for record in lock.installed {
-                println!("{}\t{}\t{}\t{}", record.name, record.version, record.status, record.installed_at);
+                println!(
+                    "{}\t{}\t{}\t{}",
+                    record.name, record.version, record.status, record.installed_at
+                );
             }
             Ok(())
         }
@@ -220,7 +229,10 @@ pub fn run() -> Result<()> {
                 .iter()
                 .find(|record| record.name == id || record.installed_at.starts_with(&id))
                 .with_context(|| format!("history id/package {id} not found"))?;
-            let backup = record.backup.as_ref().context("selected record has no ROM backup")?;
+            let backup = record
+                .backup
+                .as_ref()
+                .context("selected record has no ROM backup")?;
             std::fs::copy(backup, &manifest.rom)?;
             println!("restored {}", backup);
             Ok(())
@@ -230,7 +242,9 @@ pub fn run() -> Result<()> {
                 let rom = rom.unwrap_or_else(|| {
                     smwapt_core::manifest::read_manifest(&root)
                         .map(|m| PathBuf::from(m.rom))
-                        .unwrap_or_else(|_| PathBuf::from("/home/sabino/Downloads/Super Mario World (USA) (2).sfc"))
+                        .unwrap_or_else(|_| {
+                            PathBuf::from("/home/sabino/Downloads/Super Mario World (USA) (2).sfc")
+                        })
                 });
                 let info = inspect_rom(&rom)?;
                 println!(
@@ -253,7 +267,11 @@ fn handle_source(paths: &Paths, command: SourceCommand) -> Result<()> {
                 println!("{source}");
             }
         }
-        SourceCommand::Add { url, suite, component } => {
+        SourceCommand::Add {
+            url,
+            suite,
+            component,
+        } => {
             let source = Source::parse(&format!("deb {url} {suite} {component}"))?;
             if !sources.contains(&source) {
                 sources.push(source);
@@ -278,7 +296,12 @@ fn handle_server(paths: &Paths, command: ServerCommand) -> Result<()> {
             println!("serving {} at http://{}", repo_dir.display(), bind);
             rt.block_on(run_server(ServerOptions { repo_dir, bind }))
         }
-        ServerCommand::Sync { repo_dir, full, max_pages, sections } => {
+        ServerCommand::Sync {
+            repo_dir,
+            full,
+            max_pages,
+            sections,
+        } => {
             let repo_dir = repo_dir.unwrap_or_else(|| paths.repo_dir.clone());
             let mut options = SyncOptions::default();
             if full {
@@ -291,7 +314,11 @@ fn handle_server(paths: &Paths, command: ServerCommand) -> Result<()> {
             }
             let packages = sync_packages(&options)?;
             write_repository(&repo_dir, packages.clone())?;
-            println!("synced {} packages into {}", packages.len(), repo_dir.display());
+            println!(
+                "synced {} packages into {}",
+                packages.len(),
+                repo_dir.display()
+            );
             Ok(())
         }
     }
@@ -304,10 +331,16 @@ fn handle_doctor(root: &Path) -> Result<()> {
     }
     let paths = Paths::new(root);
     println!("sources={}", paths.sources_list.display());
-    println!("cached_packages={}", load_cached_packages(&paths.cache_dir)?.len());
+    println!(
+        "cached_packages={}",
+        load_cached_packages(&paths.cache_dir)?.len()
+    );
     if let Ok(manifest) = smwapt_core::manifest::read_manifest(root) {
         let info = inspect_rom(Path::new(&manifest.rom))?;
-        println!("rom={} valid_unheadered_usa={}", info.path, info.valid_unheadered_usa);
+        println!(
+            "rom={} valid_unheadered_usa={}",
+            info.path, info.valid_unheadered_usa
+        );
     } else {
         println!("project=not initialized");
     }
