@@ -2,7 +2,7 @@
 
 `smwapt` repositories are static by design: the live server and GitHub Pages
 both expose the same package metadata model. The server adds an HTTP API, while
-Pages serves JSON API files, `index.json`, and apt-style
+Pages serves a generated homepage, JSON API files, and apt-style
 `dists/stable/main/binary-smw` metadata files.
 
 ## Static JSON API
@@ -11,12 +11,16 @@ GitHub Pages cannot run dynamic API code, so `smwapt` generates read-only JSON
 files at stable API-shaped paths:
 
 ```text
-/index.json
+/
 /api/v1/index.json
 /api/v1/packages.json
 /api/v1/packages/<package>.json
 /api/v1/sections/<section>.json
 ```
+
+The root path serves a static HTML homepage with source setup commands, package
+counts, direct catalog links, and browser-side package search. The full
+machine-readable repository index is `/api/v1/index.json`.
 
 Examples:
 
@@ -68,8 +72,9 @@ smwapt search retry
 ```
 
 `smwapt update` first tries the live server endpoint at `/api/v1/packages`.
-If that is not present, it falls back to `/index.json`, which is what GitHub
-Pages serves.
+If that is not present, it falls back to `/api/v1/packages.json` and then
+`/api/v1/index.json`, which are the static files GitHub Pages serves. A legacy
+`/index.json` fallback is still accepted for older generated repositories.
 
 ## Automatic Sync
 

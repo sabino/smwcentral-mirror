@@ -58,10 +58,10 @@ smwapt update
 ```
 
 The first public repository target for this project is `https://smw.sabino.pro`.
-It is static JSON plus apt-style metadata:
+It has a static homepage/search UI plus JSON API and apt-style metadata:
 
 ```text
-/index.json
+/
 /api/v1/index.json
 /api/v1/packages.json
 /api/v1/packages/<package>.json

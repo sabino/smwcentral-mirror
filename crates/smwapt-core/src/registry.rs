@@ -25,11 +25,13 @@ pub fn write_repository(repo_dir: &Path, packages: Vec<Package>) -> Result<Regis
         packages,
     };
     fs::create_dir_all(repo_dir)?;
-    fs::write(
-        repo_dir.join("index.json"),
-        serde_json::to_string_pretty(&index)?,
-    )?;
+    let legacy_index_path = repo_dir.join("index.json");
+    if legacy_index_path.exists() {
+        fs::remove_file(&legacy_index_path)
+            .with_context(|| format!("removing {}", legacy_index_path.display()))?;
+    }
     write_static_api(repo_dir, &index)?;
+    write_homepage(repo_dir, &index)?;
     let dist_dir = repo_dir.join(format!("dists/{SUITE}/{COMPONENT}/{ARCH}"));
     fs::create_dir_all(&dist_dir)?;
     let packages_text = render_packages(&index.packages);
@@ -50,7 +52,12 @@ pub fn write_repository(repo_dir: &Path, packages: Vec<Package>) -> Result<Regis
 }
 
 pub fn load_repository(repo_dir: &Path) -> Result<RegistryIndex> {
-    let path = repo_dir.join("index.json");
+    let api_path = repo_dir.join("api/v1/index.json");
+    let path = if api_path.exists() {
+        api_path
+    } else {
+        repo_dir.join("index.json")
+    };
     let content =
         fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
     serde_json::from_str(&content).with_context(|| format!("parsing {}", path.display()))
@@ -61,8 +68,14 @@ pub fn validate_repository(repo_dir: &Path) -> Result<RegistryIndex> {
     let packages_path = repo_dir.join(format!("dists/{SUITE}/{COMPONENT}/{ARCH}/Packages"));
     let packages_gz_path = packages_path.with_file_name("Packages.gz");
     let release_path = repo_dir.join(format!("dists/{SUITE}/Release"));
+    let homepage_path = repo_dir.join("index.html");
     let api_packages_path = repo_dir.join("api/v1/packages.json");
     let api_index_path = repo_dir.join("api/v1/index.json");
+    let homepage = fs::read_to_string(&homepage_path)
+        .with_context(|| format!("reading {}", homepage_path.display()))?;
+    if !homepage.contains("data-smwapt-homepage") {
+        anyhow::bail!("{} is not a smwapt homepage", homepage_path.display());
+    }
     fs::read_to_string(&packages_path)
         .with_context(|| format!("reading {}", packages_path.display()))?;
     let gz = fs::File::open(&packages_gz_path)
@@ -108,6 +121,346 @@ pub fn validate_repository(repo_dir: &Path) -> Result<RegistryIndex> {
     }
     Ok(index)
 }
+
+fn write_homepage(repo_dir: &Path, index: &RegistryIndex) -> Result<()> {
+    fs::write(repo_dir.join("index.html"), render_homepage(index)?)?;
+    Ok(())
+}
+
+fn render_homepage(index: &RegistryIndex) -> Result<String> {
+    let section_counts_json = serde_json::to_string(&section_counts(&index.packages))?;
+    Ok(HOMEPAGE_TEMPLATE
+        .replace("__GENERATED_AT__", &html_escape(&index.generated_at))
+        .replace("__PACKAGE_COUNT__", &index.packages.len().to_string())
+        .replace("__SECTION_COUNTS__", &section_counts_json))
+}
+
+fn section_counts(packages: &[Package]) -> BTreeMap<String, usize> {
+    let mut counts = BTreeMap::new();
+    for package in packages {
+        *counts.entry(package.section.clone()).or_insert(0) += 1;
+    }
+    counts
+}
+
+fn html_escape(input: &str) -> String {
+    input
+        .replace('&', "&amp;")
+        .replace('<', "&lt;")
+        .replace('>', "&gt;")
+        .replace('"', "&quot;")
+}
+
+const HOMEPAGE_TEMPLATE: &str = r#"<!doctype html>
+<html lang="en" data-smwapt-homepage>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>smwapt</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f4ef;
+      --panel: #ffffff;
+      --ink: #171717;
+      --muted: #62605a;
+      --line: #d8d3c8;
+      --accent: #b3212d;
+      --accent-dark: #7e1420;
+      --code: #242424;
+      --code-bg: #efebe3;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    a { color: var(--accent-dark); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    .shell { max-width: 1180px; margin: 0 auto; padding: 28px 20px 48px; }
+    header {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 24px;
+      align-items: end;
+      padding: 28px 0 22px;
+      border-bottom: 1px solid var(--line);
+    }
+    h1 { margin: 0; font-size: clamp(42px, 8vw, 86px); line-height: 0.95; letter-spacing: 0; }
+    .lede { max-width: 720px; margin: 18px 0 0; color: var(--muted); font-size: 18px; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(130px, 1fr));
+      gap: 10px;
+      min-width: 300px;
+    }
+    .stat {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 14px;
+    }
+    .stat b { display: block; font-size: 28px; line-height: 1; }
+    .stat span { display: block; margin-top: 6px; color: var(--muted); font-size: 13px; }
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(280px, 380px) minmax(0, 1fr);
+      gap: 22px;
+      align-items: start;
+      margin-top: 22px;
+    }
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+    }
+    h2 { margin: 0 0 12px; font-size: 18px; }
+    pre {
+      margin: 0;
+      overflow-x: auto;
+      white-space: pre;
+      color: var(--code);
+      background: var(--code-bg);
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 14px;
+      font: 13px/1.45 ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+    }
+    .links { display: grid; gap: 9px; margin-top: 16px; }
+    .searchbar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    input {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 9px 12px;
+      font: inherit;
+      color: var(--ink);
+      background: #fff;
+    }
+    button {
+      min-height: 42px;
+      border: 1px solid var(--accent-dark);
+      border-radius: 6px;
+      padding: 0 14px;
+      color: #fff;
+      background: var(--accent);
+      font: inherit;
+      cursor: pointer;
+    }
+    .meta { color: var(--muted); font-size: 13px; }
+    .results { display: grid; gap: 10px; margin-top: 14px; }
+    .package {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 14px;
+      background: #fff;
+    }
+    .package h3 { margin: 0; font-size: 16px; line-height: 1.25; }
+    .package .name { margin-top: 4px; color: var(--muted); font: 12px/1.4 ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; overflow-wrap: anywhere; }
+    .badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; }
+    .badge {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 3px 8px;
+      color: var(--muted);
+      background: #faf9f6;
+      font-size: 12px;
+    }
+    .package-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; font-size: 13px; }
+    .sections { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 12px; }
+    .error { color: var(--accent-dark); }
+    footer { margin-top: 24px; color: var(--muted); font-size: 13px; }
+    @media (max-width: 820px) {
+      header, .grid { grid-template-columns: 1fr; }
+      .stats { min-width: 0; }
+      .shell { padding: 18px 14px 36px; }
+      .searchbar { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div>
+        <h1>smwapt</h1>
+        <p class="lede">A static package repository for Super Mario World ROM hack tools, patches, ASM, music, graphics, and other SMW Central resources.</p>
+      </div>
+      <div class="stats" aria-label="repository stats">
+        <div class="stat"><b id="package-count">__PACKAGE_COUNT__</b><span>packages indexed</span></div>
+        <div class="stat"><b id="section-count">0</b><span>sections</span></div>
+      </div>
+    </header>
+
+    <div class="grid">
+      <section aria-labelledby="use-source-title">
+        <h2 id="use-source-title">Use This Source</h2>
+        <pre>smwapt source add https://smw.sabino.pro stable main
+smwapt update
+smwapt search retry</pre>
+        <div class="links">
+          <a href="api/v1/packages.json">Package list JSON</a>
+          <a href="api/v1/index.json">Full repository JSON</a>
+          <a href="dists/stable/main/binary-smw/Packages.gz">Packages.gz catalog</a>
+          <a href="dists/stable/Release">Release hashes</a>
+        </div>
+        <div class="sections" id="sections"></div>
+        <p class="meta">Generated <span id="generated-at">__GENERATED_AT__</span>.</p>
+      </section>
+
+      <section aria-labelledby="search-title">
+        <h2 id="search-title">Search Packages</h2>
+        <form class="searchbar" id="search-form">
+          <input id="query" type="search" autocomplete="off" placeholder="Search name, title, section, tag, alias, or install kind">
+          <button type="submit">Search</button>
+        </form>
+        <div class="meta" id="result-meta">Loading package index...</div>
+        <div class="results" id="results"></div>
+      </section>
+    </div>
+
+    <footer>ROMs are not distributed by this repository. Package payloads are downloaded from configured upstream URLs.</footer>
+  </main>
+
+  <script>
+    const initialSectionCounts = __SECTION_COUNTS__;
+    const state = { packages: [] };
+    const byId = (id) => document.getElementById(id);
+
+    function fmt(value) {
+      return new Intl.NumberFormat("en").format(value);
+    }
+
+    function setText(id, value) {
+      byId(id).textContent = value;
+    }
+
+    function addText(parent, tag, className, value) {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      node.textContent = value;
+      parent.appendChild(node);
+      return node;
+    }
+
+    function addLink(parent, label, href) {
+      const link = document.createElement("a");
+      link.textContent = label;
+      link.href = href;
+      parent.appendChild(link);
+      return link;
+    }
+
+    function renderSections(counts) {
+      const holder = byId("sections");
+      holder.replaceChildren();
+      Object.entries(counts).forEach(([section, count]) => {
+        const chip = document.createElement("span");
+        chip.className = "badge";
+        chip.textContent = `${section}: ${fmt(count)}`;
+        holder.appendChild(chip);
+      });
+    }
+
+    function latestVersion(pkg) {
+      if (pkg.latest_version) return pkg.latest_version;
+      if (pkg.versions && pkg.versions.length) return pkg.versions[0].version;
+      return "unknown";
+    }
+
+    function packageHaystack(pkg) {
+      return [
+        pkg.name,
+        pkg.title,
+        pkg.section,
+        pkg.install_kind,
+        latestVersion(pkg),
+        ...(pkg.aliases || []),
+        ...(pkg.tags || [])
+      ].join(" ").toLowerCase();
+    }
+
+    function renderPackage(pkg) {
+      const row = document.createElement("article");
+      row.className = "package";
+      addText(row, "h3", "", pkg.title || pkg.name);
+      addText(row, "div", "name", pkg.name);
+
+      const badges = document.createElement("div");
+      badges.className = "badges";
+      [pkg.section, pkg.install_kind, `version ${latestVersion(pkg)}`, `smwc ${pkg.upstream_id}`]
+        .filter(Boolean)
+        .forEach((value) => addText(badges, "span", "badge", value));
+      row.appendChild(badges);
+
+      const links = document.createElement("div");
+      links.className = "package-links";
+      addLink(links, "API", `api/v1/packages/${encodeURIComponent(pkg.name)}.json`);
+      const current = pkg.versions && pkg.versions.length ? pkg.versions[0] : null;
+      if (current && current.download_url) addLink(links, "Download", current.download_url);
+      row.appendChild(links);
+      return row;
+    }
+
+    function runSearch() {
+      const query = byId("query").value.trim().toLowerCase();
+      const words = query.split(/\s+/).filter(Boolean);
+      const matches = state.packages.filter((pkg) => {
+        if (!words.length) return true;
+        const haystack = packageHaystack(pkg);
+        return words.every((word) => haystack.includes(word));
+      });
+      const shown = matches.slice(0, 100);
+      const results = byId("results");
+      results.replaceChildren(...shown.map(renderPackage));
+      setText("result-meta", `${fmt(matches.length)} matches${matches.length > shown.length ? `, showing first ${shown.length}` : ""}`);
+    }
+
+    async function loadRepository() {
+      renderSections(initialSectionCounts);
+      try {
+        const [indexResponse, packagesResponse] = await Promise.all([
+          fetch("api/v1/index.json", { cache: "no-store" }),
+          fetch("api/v1/packages.json", { cache: "no-store" })
+        ]);
+        if (!indexResponse.ok) throw new Error(`index HTTP ${indexResponse.status}`);
+        if (!packagesResponse.ok) throw new Error(`packages HTTP ${packagesResponse.status}`);
+        const index = await indexResponse.json();
+        const packages = await packagesResponse.json();
+        state.packages = Array.isArray(packages) ? packages : (index.packages || []);
+        setText("package-count", fmt(state.packages.length));
+        setText("generated-at", index.generated_at || "__GENERATED_AT__");
+        const counts = {};
+        state.packages.forEach((pkg) => { counts[pkg.section] = (counts[pkg.section] || 0) + 1; });
+        setText("section-count", Object.keys(counts).length.toString());
+        renderSections(counts);
+        runSearch();
+      } catch (error) {
+        const meta = byId("result-meta");
+        meta.replaceChildren();
+        addText(meta, "span", "error", `Could not load package index: ${error.message}`);
+      }
+    }
+
+    byId("search-form").addEventListener("submit", (event) => {
+      event.preventDefault();
+      runSearch();
+    });
+    byId("query").addEventListener("input", runSearch);
+    setText("section-count", Object.keys(initialSectionCounts).length.toString());
+    loadRepository();
+  </script>
+</body>
+</html>
+"#;
 
 fn write_static_api(repo_dir: &Path, index: &RegistryIndex) -> Result<()> {
     let api_dir = repo_dir.join("api/v1");
@@ -245,8 +598,12 @@ fn fetch_source_packages(client: &Client, source: &Source) -> Result<Vec<Package
             if let Ok(packages) = fetch_live_packages(client, &static_api_url) {
                 return Ok(packages);
             }
-            let index_url = format!("{}/index.json", source.url);
-            fetch_static_index(client, source, &index_url).with_context(|| {
+            let static_index_url = format!("{}/api/v1/index.json", source.url);
+            if let Ok(packages) = fetch_static_index(client, source, &static_index_url) {
+                return Ok(packages);
+            }
+            let legacy_index_url = format!("{}/index.json", source.url);
+            fetch_static_index(client, source, &legacy_index_url).with_context(|| {
                 format!(
                     "source {} was neither a smwapt server API nor a static repository; API error: {api_error:#}",
                     source.url
@@ -388,9 +745,48 @@ mod tests {
         let index = validate_repository(dir.path()).unwrap();
         assert_eq!(index.packages.len(), 1);
         assert_eq!(index.packages[0].name, "asar");
+        assert!(dir.path().join("index.html").exists());
+        assert!(!dir.path().join("index.json").exists());
         assert!(dir.path().join("api/v1/index.json").exists());
         assert!(dir.path().join("api/v1/packages.json").exists());
         assert!(dir.path().join("api/v1/packages/asar.json").exists());
         assert!(dir.path().join("api/v1/sections/tools.json").exists());
+    }
+
+    #[test]
+    fn renders_static_homepage() {
+        let index = RegistryIndex {
+            generated_at: "2026-05-23T00:00:00Z".to_string(),
+            suite: SUITE.to_string(),
+            component: COMPONENT.to_string(),
+            packages: vec![Package {
+                name: "asar".to_string(),
+                aliases: vec!["asar".to_string()],
+                section: "tools".to_string(),
+                upstream_id: 37443,
+                title: "Asar v1.91".to_string(),
+                authors: vec!["RPG Hacker".to_string()],
+                tags: vec![],
+                description: String::new(),
+                latest_version: "1.91".to_string(),
+                install_kind: InstallKind::Tool,
+                versions: vec![PackageVersion {
+                    upstream_id: 37443,
+                    title: "Asar v1.91".to_string(),
+                    version: "1.91".to_string(),
+                    upstream_time: 0,
+                    download_url: "https://example.invalid/asar.zip".to_string(),
+                    filename: "asar.zip".to_string(),
+                    size: 42,
+                    sha256: None,
+                    dependencies: vec![],
+                    install_kind: InstallKind::Tool,
+                }],
+            }],
+        };
+        let html = render_homepage(&index).unwrap();
+        assert!(html.contains("data-smwapt-homepage"));
+        assert!(html.contains("api/v1/packages.json"));
+        assert!(html.contains("smwapt source add https://smw.sabino.pro stable main"));
     }
 }
