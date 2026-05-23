@@ -206,7 +206,7 @@ const HOMEPAGE_TEMPLATE: &str = r#"<!doctype html>
     .stat span { display: block; margin-top: 6px; color: var(--muted); font-size: 13px; }
     .grid {
       display: grid;
-      grid-template-columns: minmax(280px, 380px) minmax(0, 1fr);
+      grid-template-columns: minmax(310px, 390px) minmax(0, 1fr);
       gap: 22px;
       align-items: start;
       margin-top: 22px;
@@ -220,8 +220,9 @@ const HOMEPAGE_TEMPLATE: &str = r#"<!doctype html>
     h2 { margin: 0 0 12px; font-size: 18px; }
     pre {
       margin: 0;
-      overflow-x: auto;
-      white-space: pre;
+      overflow-x: visible;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
       color: var(--code);
       background: var(--code-bg);
       border: 1px solid var(--line);
@@ -257,6 +258,13 @@ const HOMEPAGE_TEMPLATE: &str = r#"<!doctype html>
       cursor: pointer;
     }
     .meta { color: var(--muted); font-size: 13px; }
+    .result-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-top: 2px;
+    }
     .results { display: grid; gap: 10px; margin-top: 14px; }
     .package {
       border: 1px solid var(--line);
@@ -277,6 +285,31 @@ const HOMEPAGE_TEMPLATE: &str = r#"<!doctype html>
     }
     .package-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; font-size: 13px; }
     .sections { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 12px; }
+    .pager {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 8px;
+      margin-top: 14px;
+    }
+    .pager button {
+      min-height: 34px;
+      padding: 0 10px;
+      color: var(--accent-dark);
+      background: #fff;
+      border-color: var(--line);
+    }
+    .pager button:disabled {
+      cursor: not-allowed;
+      color: #aaa;
+      background: #f5f2eb;
+    }
+    .page-label {
+      min-width: 86px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+    }
     .error { color: var(--accent-dark); }
     footer { margin-top: 24px; color: var(--muted); font-size: 13px; }
     @media (max-width: 820px) {
@@ -322,8 +355,16 @@ smwapt search retry</pre>
           <input id="query" type="search" autocomplete="off" placeholder="Search name, title, section, tag, alias, or install kind">
           <button type="submit">Search</button>
         </form>
-        <div class="meta" id="result-meta">Loading package index...</div>
+        <div class="result-head">
+          <div class="meta" id="result-meta">Loading package index...</div>
+          <div class="meta">10 per page</div>
+        </div>
         <div class="results" id="results"></div>
+        <div class="pager" id="pager" hidden>
+          <button type="button" id="prev-page">Previous</button>
+          <span class="page-label" id="page-label">Page 1</span>
+          <button type="button" id="next-page">Next</button>
+        </div>
       </section>
     </div>
 
@@ -332,7 +373,8 @@ smwapt search retry</pre>
 
   <script>
     const initialSectionCounts = __SECTION_COUNTS__;
-    const state = { packages: [] };
+    const pageSize = 10;
+    const state = { packages: [], matches: [], page: 1 };
     const byId = (id) => document.getElementById(id);
 
     function fmt(value) {
@@ -410,34 +452,47 @@ smwapt search retry</pre>
       return row;
     }
 
+    function updatePager(totalPages) {
+      const pager = byId("pager");
+      pager.hidden = state.matches.length <= pageSize;
+      byId("prev-page").disabled = state.page <= 1;
+      byId("next-page").disabled = state.page >= totalPages;
+      setText("page-label", `Page ${state.page} of ${totalPages}`);
+    }
+
+    function renderSearchResults() {
+      const totalPages = Math.max(1, Math.ceil(state.matches.length / pageSize));
+      if (state.page > totalPages) state.page = totalPages;
+      const offset = (state.page - 1) * pageSize;
+      const shown = state.matches.slice(offset, offset + pageSize);
+      const results = byId("results");
+      results.replaceChildren(...shown.map(renderPackage));
+      const first = state.matches.length ? offset + 1 : 0;
+      const last = offset + shown.length;
+      setText("result-meta", `${fmt(state.matches.length)} matches${state.matches.length ? `, showing ${fmt(first)}-${fmt(last)}` : ""}`);
+      updatePager(totalPages);
+    }
+
     function runSearch() {
       const query = byId("query").value.trim().toLowerCase();
       const words = query.split(/\s+/).filter(Boolean);
-      const matches = state.packages.filter((pkg) => {
+      state.matches = state.packages.filter((pkg) => {
         if (!words.length) return true;
         const haystack = packageHaystack(pkg);
         return words.every((word) => haystack.includes(word));
       });
-      const shown = matches.slice(0, 100);
-      const results = byId("results");
-      results.replaceChildren(...shown.map(renderPackage));
-      setText("result-meta", `${fmt(matches.length)} matches${matches.length > shown.length ? `, showing first ${shown.length}` : ""}`);
+      state.page = 1;
+      renderSearchResults();
     }
 
     async function loadRepository() {
       renderSections(initialSectionCounts);
       try {
-        const [indexResponse, packagesResponse] = await Promise.all([
-          fetch("api/v1/index.json", { cache: "no-store" }),
-          fetch("api/v1/packages.json", { cache: "no-store" })
-        ]);
-        if (!indexResponse.ok) throw new Error(`index HTTP ${indexResponse.status}`);
+        const packagesResponse = await fetch("api/v1/packages.json", { cache: "no-store" });
         if (!packagesResponse.ok) throw new Error(`packages HTTP ${packagesResponse.status}`);
-        const index = await indexResponse.json();
         const packages = await packagesResponse.json();
-        state.packages = Array.isArray(packages) ? packages : (index.packages || []);
+        state.packages = Array.isArray(packages) ? packages : [];
         setText("package-count", fmt(state.packages.length));
-        setText("generated-at", index.generated_at || "__GENERATED_AT__");
         const counts = {};
         state.packages.forEach((pkg) => { counts[pkg.section] = (counts[pkg.section] || 0) + 1; });
         setText("section-count", Object.keys(counts).length.toString());
@@ -455,6 +510,19 @@ smwapt search retry</pre>
       runSearch();
     });
     byId("query").addEventListener("input", runSearch);
+    byId("prev-page").addEventListener("click", () => {
+      if (state.page > 1) {
+        state.page -= 1;
+        renderSearchResults();
+      }
+    });
+    byId("next-page").addEventListener("click", () => {
+      const totalPages = Math.max(1, Math.ceil(state.matches.length / pageSize));
+      if (state.page < totalPages) {
+        state.page += 1;
+        renderSearchResults();
+      }
+    });
     setText("section-count", Object.keys(initialSectionCounts).length.toString());
     loadRepository();
   </script>
