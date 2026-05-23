@@ -1,6 +1,7 @@
 use crate::package::{canonical_package_name, known_aliases, InstallKind, Package, PackageVersion};
 use anyhow::{Context, Result};
 use reqwest::blocking::Client;
+use reqwest::StatusCode;
 use serde::Deserialize;
 use std::thread;
 use std::time::Duration;
@@ -24,6 +25,7 @@ impl Default for SyncOptions {
                 "smwblocks".to_string(),
                 "smwsprites".to_string(),
                 "smwmusic".to_string(),
+                "smwgraphics".to_string(),
             ],
             max_pages: Some(1),
             delay_ms: 1_150,
@@ -86,17 +88,37 @@ pub fn sync_packages(options: &SyncOptions) -> Result<Vec<Package>> {
 }
 
 fn fetch_page(client: &Client, section: &str, page: u64) -> Result<Page> {
-    let mut req =
-        client
-            .get(BASE_URL)
-            .query(&[("a", "getsectionlist"), ("s", section), ("u", "0")]);
-    let page_s;
-    if page > 1 {
-        page_s = page.to_string();
-        req = req.query(&[("n", page_s.as_str())]);
+    let mut wait = Duration::from_secs(10);
+    for attempt in 1..=6 {
+        let mut req =
+            client
+                .get(BASE_URL)
+                .query(&[("a", "getsectionlist"), ("s", section), ("u", "0")]);
+        let page_s;
+        if page > 1 {
+            page_s = page.to_string();
+            req = req.query(&[("n", page_s.as_str())]);
+        }
+        let response = req.send()?;
+        if response.status() == StatusCode::TOO_MANY_REQUESTS {
+            let retry_after = response
+                .headers()
+                .get(reqwest::header::RETRY_AFTER)
+                .and_then(|value| value.to_str().ok())
+                .and_then(|value| value.parse::<u64>().ok())
+                .map(Duration::from_secs)
+                .unwrap_or(wait);
+            if attempt == 6 {
+                response.error_for_status()?;
+            }
+            thread::sleep(retry_after);
+            wait = (wait * 2).min(Duration::from_secs(120));
+            continue;
+        }
+        let response = response.error_for_status()?;
+        return Ok(response.json()?);
     }
-    let response = req.send()?.error_for_status()?;
-    Ok(response.json()?)
+    unreachable!("retry loop either returns or errors")
 }
 
 fn record_to_package(record: FileRecord) -> Package {

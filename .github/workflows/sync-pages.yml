@@ -6,7 +6,7 @@ on:
       sections:
         description: Comma-separated SMW Central sections to mirror.
         required: true
-        default: tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic
+        default: tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic,smwgraphics
       max_pages:
         description: Pages per section when full is false.
         required: true
@@ -26,7 +26,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     env:
-      SECTIONS: ${{ inputs.sections || 'tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic' }}
+      SECTIONS: ${{ inputs.sections || 'tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic,smwgraphics' }}
       MAX_PAGES: ${{ inputs.max_pages || '1' }}
       FULL_SYNC: ${{ inputs.full || 'false' }}
       PAGES_CNAME: smw.sabino.pro

@@ -8,6 +8,7 @@ use flate2::Compression;
 use reqwest::blocking::Client;
 use sha1::{Digest as Sha1Digest, Sha1};
 use sha2::Sha256;
+use std::collections::BTreeMap;
 use std::fs;
 use std::io::{Read, Write};
 use std::path::{Path, PathBuf};
@@ -28,6 +29,7 @@ pub fn write_repository(repo_dir: &Path, packages: Vec<Package>) -> Result<Regis
         repo_dir.join("index.json"),
         serde_json::to_string_pretty(&index)?,
     )?;
+    write_static_api(repo_dir, &index)?;
     let dist_dir = repo_dir.join(format!("dists/{SUITE}/{COMPONENT}/{ARCH}"));
     fs::create_dir_all(&dist_dir)?;
     let packages_text = render_packages(&index.packages);
@@ -59,6 +61,8 @@ pub fn validate_repository(repo_dir: &Path) -> Result<RegistryIndex> {
     let packages_path = repo_dir.join(format!("dists/{SUITE}/{COMPONENT}/{ARCH}/Packages"));
     let packages_gz_path = packages_path.with_file_name("Packages.gz");
     let release_path = repo_dir.join(format!("dists/{SUITE}/Release"));
+    let api_packages_path = repo_dir.join("api/v1/packages.json");
+    let api_index_path = repo_dir.join("api/v1/index.json");
     fs::read_to_string(&packages_path)
         .with_context(|| format!("reading {}", packages_path.display()))?;
     let gz = fs::File::open(&packages_gz_path)
@@ -76,7 +80,68 @@ pub fn validate_repository(repo_dir: &Path) -> Result<RegistryIndex> {
     }
     fs::read_to_string(&release_path)
         .with_context(|| format!("reading {}", release_path.display()))?;
+    let api_packages: Vec<Package> = serde_json::from_str(
+        &fs::read_to_string(&api_packages_path)
+            .with_context(|| format!("reading {}", api_packages_path.display()))?,
+    )
+    .with_context(|| format!("parsing {}", api_packages_path.display()))?;
+    if api_packages.len() != index.packages.len() {
+        anyhow::bail!(
+            "{} has {} packages, expected {}",
+            api_packages_path.display(),
+            api_packages.len(),
+            index.packages.len()
+        );
+    }
+    let api_index: RegistryIndex = serde_json::from_str(
+        &fs::read_to_string(&api_index_path)
+            .with_context(|| format!("reading {}", api_index_path.display()))?,
+    )
+    .with_context(|| format!("parsing {}", api_index_path.display()))?;
+    if api_index.packages.len() != index.packages.len() {
+        anyhow::bail!(
+            "{} has {} packages, expected {}",
+            api_index_path.display(),
+            api_index.packages.len(),
+            index.packages.len()
+        );
+    }
     Ok(index)
+}
+
+fn write_static_api(repo_dir: &Path, index: &RegistryIndex) -> Result<()> {
+    let api_dir = repo_dir.join("api/v1");
+    fs::create_dir_all(api_dir.join("packages"))?;
+    fs::create_dir_all(api_dir.join("sections"))?;
+    fs::write(
+        api_dir.join("index.json"),
+        serde_json::to_string_pretty(index)?,
+    )?;
+    fs::write(
+        api_dir.join("packages.json"),
+        serde_json::to_string_pretty(&index.packages)?,
+    )?;
+
+    let mut sections: BTreeMap<&str, Vec<&Package>> = BTreeMap::new();
+    for package in &index.packages {
+        fs::write(
+            api_dir
+                .join("packages")
+                .join(format!("{}.json", package.name)),
+            serde_json::to_string_pretty(package)?,
+        )?;
+        sections
+            .entry(package.section.as_str())
+            .or_default()
+            .push(package);
+    }
+    for (section, packages) in sections {
+        fs::write(
+            api_dir.join("sections").join(format!("{section}.json")),
+            serde_json::to_string_pretty(&packages)?,
+        )?;
+    }
+    Ok(())
 }
 
 pub fn render_packages(packages: &[Package]) -> String {
@@ -176,6 +241,10 @@ fn fetch_source_packages(client: &Client, source: &Source) -> Result<Vec<Package
     match fetch_live_packages(client, &api_url) {
         Ok(packages) => return Ok(packages),
         Err(api_error) => {
+            let static_api_url = format!("{}/api/v1/packages.json", source.url);
+            if let Ok(packages) = fetch_live_packages(client, &static_api_url) {
+                return Ok(packages);
+            }
             let index_url = format!("{}/index.json", source.url);
             fetch_static_index(client, source, &index_url).with_context(|| {
                 format!(
@@ -272,6 +341,7 @@ mod tests {
         let rendered = render_packages(&packages);
         assert!(rendered.contains("Package: asar"));
         assert!(rendered.contains("Architecture: smw"));
+        assert!(rendered.contains("Filename: pool/tools/37443/asar.zip"));
         assert!(rendered.contains("X-SMWC-ID: 37443"));
     }
 
@@ -318,5 +388,9 @@ mod tests {
         let index = validate_repository(dir.path()).unwrap();
         assert_eq!(index.packages.len(), 1);
         assert_eq!(index.packages[0].name, "asar");
+        assert!(dir.path().join("api/v1/index.json").exists());
+        assert!(dir.path().join("api/v1/packages.json").exists());
+        assert!(dir.path().join("api/v1/packages/asar.json").exists());
+        assert!(dir.path().join("api/v1/sections/tools.json").exists());
     }
 }

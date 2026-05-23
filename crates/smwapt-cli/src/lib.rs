@@ -416,6 +416,7 @@ fn sync_options(full: bool, max_pages: Option<u64>, sections: Vec<String>) -> Sy
     let mut options = SyncOptions::default();
     if full {
         options.max_pages = None;
+        options.delay_ms = 3_000;
     } else if max_pages.is_some() {
         options.max_pages = max_pages;
     }

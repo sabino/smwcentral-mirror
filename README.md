@@ -58,6 +58,21 @@ smwapt update
 ```
 
 The first public repository target for this project is `https://smw.sabino.pro`.
+It is static JSON plus apt-style metadata:
+
+```text
+/index.json
+/api/v1/index.json
+/api/v1/packages.json
+/api/v1/packages/<package>.json
+/api/v1/sections/<section>.json
+/dists/stable/main/binary-smw/Packages
+/dists/stable/main/binary-smw/Packages.gz
+```
+
+`Packages.gz` is a compressed metadata index/catalog, not a package archive.
+Clients download it during update, then download only the selected package's
+upstream archive when installing.
 
 Initialize a project from a verified unheadered SMW USA ROM:
 

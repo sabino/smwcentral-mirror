@@ -2,7 +2,35 @@
 
 `smwapt` repositories are static by design: the live server and GitHub Pages
 both expose the same package metadata model. The server adds an HTTP API, while
-Pages serves `index.json` plus apt-style `dists/stable/main/binary-smw` files.
+Pages serves JSON API files, `index.json`, and apt-style
+`dists/stable/main/binary-smw` metadata files.
+
+## Static JSON API
+
+GitHub Pages cannot run dynamic API code, so `smwapt` generates read-only JSON
+files at stable API-shaped paths:
+
+```text
+/index.json
+/api/v1/index.json
+/api/v1/packages.json
+/api/v1/packages/<package>.json
+/api/v1/sections/<section>.json
+```
+
+Examples:
+
+```text
+/api/v1/packages.json
+/api/v1/packages/uberasm-retry-system.json
+/api/v1/sections/uberasm.json
+```
+
+The apt-style `Packages` and `Packages.gz` files are metadata indexes for
+compatibility with apt conventions. They are not package archives and do not
+contain package payloads. `smwapt update` downloads the catalog; `smwapt install`
+then downloads only the selected package version archive from the URL in that
+catalog entry.
 
 ## Generate Locally
 
@@ -14,7 +42,7 @@ smwapt repo validate --dir pages
 Use `--full` to mirror every page in the selected SMW Central sections:
 
 ```sh
-smwapt repo sync-smwcentral --out pages --sections tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic --full
+smwapt repo sync-smwcentral --out pages --sections tools,smwpatches,uberasm,smwblocks,smwsprites,smwmusic,smwgraphics --full
 ```
 
 Commit the generated `pages/` directory if you want the package index and
