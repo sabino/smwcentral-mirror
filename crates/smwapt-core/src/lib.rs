@@ -7,3 +7,5 @@ pub mod registry;
 pub mod rom;
 pub mod sources;
 pub mod smwc;
+
+pub use package::{InstallKind, Package, PackageVersion};

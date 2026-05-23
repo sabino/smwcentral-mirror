@@ -1,0 +1,111 @@
+use crate::package::{Package, RegistryIndex};
+use crate::sources::{source_cache_key, Source};
+use anyhow::{Context, Result};
+use chrono::Utc;
+use flate2::write::GzEncoder;
+use flate2::Compression;
+use reqwest::blocking::Client;
+use std::fs;
+use std::io::Write;
+use std::path::{Path, PathBuf};
+
+pub const SUITE: &str = "stable";
+pub const COMPONENT: &str = "main";
+pub const ARCH: &str = "binary-smw";
+
+pub fn write_repository(repo_dir: &Path, packages: Vec<Package>) -> Result<RegistryIndex> {
+    let index = RegistryIndex {
+        generated_at: Utc::now().to_rfc3339(),
+        suite: SUITE.to_string(),
+        component: COMPONENT.to_string(),
+        packages,
+    };
+    fs::create_dir_all(repo_dir)?;
+    fs::write(
+        repo_dir.join("index.json"),
+        serde_json::to_string_pretty(&index)?,
+    )?;
+    let dist_dir = repo_dir.join(format!("dists/{SUITE}/{COMPONENT}/{ARCH}"));
+    fs::create_dir_all(&dist_dir)?;
+    let packages_text = render_packages(&index.packages);
+    fs::write(dist_dir.join("Packages"), &packages_text)?;
+    let mut gz = GzEncoder::new(Vec::new(), Compression::default());
+    gz.write_all(packages_text.as_bytes())?;
+    fs::write(dist_dir.join("Packages.gz"), gz.finish()?)?;
+    fs::write(repo_dir.join(format!("dists/{SUITE}/Release")), render_release())?;
+    Ok(index)
+}
+
+pub fn load_repository(repo_dir: &Path) -> Result<RegistryIndex> {
+    let path = repo_dir.join("index.json");
+    let content = fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
+    serde_json::from_str(&content).with_context(|| format!("parsing {}", path.display()))
+}
+
+pub fn render_packages(packages: &[Package]) -> String {
+    let mut out = String::new();
+    for pkg in packages {
+        let version = &pkg.versions[0];
+        out.push_str(&format!("Package: {}\n", pkg.name));
+        out.push_str(&format!("Version: {}\n", version.version));
+        out.push_str(&format!("Section: {}\n", pkg.section));
+        out.push_str("Architecture: smw\n");
+        out.push_str(&format!("Maintainer: {}\n", pkg.authors.join(", ")));
+        out.push_str(&format!("Filename: pool/{}/{}/{}\n", pkg.section, pkg.upstream_id, version.filename));
+        out.push_str(&format!("Size: {}\n", version.size));
+        out.push_str(&format!("X-SMWC-ID: {}\n", pkg.upstream_id));
+        out.push_str(&format!("X-SMWAPT-Kind: {:?}\n", pkg.install_kind));
+        out.push_str(&format!("X-SMWAPT-URL: {}\n", version.download_url));
+        out.push_str(&format!("Description: {}\n\n", one_line(&pkg.title)));
+    }
+    out
+}
+
+fn render_release() -> String {
+    format!(
+        "Origin: smwapt\nLabel: smwapt\nSuite: {SUITE}\nCodename: {SUITE}\nArchitectures: smw\nComponents: {COMPONENT}\nDescription: SMW package registry\n"
+    )
+}
+
+fn one_line(input: &str) -> String {
+    input.split_whitespace().collect::<Vec<_>>().join(" ")
+}
+
+pub fn cache_packages_from_sources(sources: &[Source], cache_dir: &Path) -> Result<Vec<Package>> {
+    fs::create_dir_all(cache_dir)?;
+    let client = Client::builder()
+        .user_agent("smwapt/0.1")
+        .timeout(std::time::Duration::from_secs(20))
+        .build()?;
+    let mut all = Vec::new();
+    for source in sources {
+        let url = format!("{}/api/v1/packages", source.url);
+        let packages: Vec<Package> = client
+            .get(&url)
+            .send()
+            .with_context(|| format!("fetching {url}"))?
+            .error_for_status()
+            .with_context(|| format!("fetching {url}"))?
+            .json()
+            .with_context(|| format!("parsing {url}"))?;
+        let path = cache_path_for_source(cache_dir, source);
+        fs::write(&path, serde_json::to_string_pretty(&packages)?)?;
+        all.extend(packages);
+    }
+    all.sort_by(|a, b| a.name.cmp(&b.name));
+    fs::write(cache_dir.join("packages.json"), serde_json::to_string_pretty(&all)?)?;
+    Ok(all)
+}
+
+pub fn load_cached_packages(cache_dir: &Path) -> Result<Vec<Package>> {
+    let path = cache_dir.join("packages.json");
+    if !path.exists() {
+        return Ok(Vec::new());
+    }
+    let content = fs::read_to_string(&path).with_context(|| format!("reading {}", path.display()))?;
+    serde_json::from_str(&content).with_context(|| format!("parsing {}", path.display()))
+}
+
+fn cache_path_for_source(cache_dir: &Path, source: &Source) -> PathBuf {
+    cache_dir.join(format!("{}.json", source_cache_key(source)))
+}
