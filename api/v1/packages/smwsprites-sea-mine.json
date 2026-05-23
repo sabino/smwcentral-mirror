@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-sea-mine",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38095,
+  "title": "Sea Mine",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "bomb",
+    "enemy",
+    "explosion",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "The floating spike ball is officially called a mine but it doesn't actually behave like one because it doesn't explode. This one is an actual mine which will detonate itself.<br>\r\n<br>\r\nOptions include:<br>\r\n<ul><li>Explosion by range</li>\r\n<li>Explosion on player contact</li>\r\n<li>Explosion on kicked sprites</li>\r\n<li>Explosion on fireball</li>\r\n<li>Explosion on ground</li></ul><br>\r\nRequested by <span class=\"un-outer\" title=\"AmperSam\"><span title=\"Administrator\" class=\"icon icon-admin\"></span><a href=\"/?p=profile&amp;id=41223\" style=\"color: #ee0066;\" class=\"un\">AmperSam</a></span> who thought a non-exploding mine is too ridiculous.",
+  "latest_version": "smwc-38095-1735579307",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38095,
+      "title": "Sea Mine",
+      "version": "smwc-38095-1735579307",
+      "upstream_time": 1735579307,
+      "download_url": "https://dl.smwcentral.net/38095/Sea%20Mine.zip",
+      "filename": "Sea Mine.zip",
+      "size": 6906,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

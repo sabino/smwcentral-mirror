@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bounce-block-underwater-push",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28561,
+  "title": "Bounce Block Underwater Push",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "block",
+    "lorom",
+    "sa-1",
+    "swim",
+    "water"
+  ],
+  "description": "Normally, bounce blocks such as note blocks or ?-block don't push the player downwards underwater. This patch makes it so that when you're underwater and swimming with an item, you get pushed downwards a little like in Super Mario Maker.<br>\r\n<br>\r\nNote that it is not compatible with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=17202\">Press X to Item Swim</a> while patches like <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19865\">All Switch Blocks Have Powerups</a> requires you to adjust some settings. It also doesn't affect custom blocks such as <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19775\">these</a> either.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"buckaroodle610\"><a href=\"/?p=profile&amp;id=49721\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">buckaroodle610</a></span>.",
+  "latest_version": "smwc-28561-1643963074",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28561,
+      "title": "Bounce Block Underwater Push",
+      "version": "smwc-28561-1643963074",
+      "upstream_time": 1643963074,
+      "download_url": "https://dl.smwcentral.net/28561/BounceSpriteWaterPush.zip",
+      "filename": "BounceSpriteWaterPush.zip",
+      "size": 987,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-sunshine-blooper-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25993,
+  "title": "Sunshine Blooper v1.0",
+  "authors": [
+    "Eminus",
+    "Von Fahrenheit"
+  ],
+  "tags": [
+    "hybrid",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This is a Blooper based on its Super Mario Sunshine appearance. It will move around and spit ink at the player. It can be placed in ceilings as well. Setting the extra bit will prevent the sprite from moving. It's quite customizable and features easy GFX remapping.<br>\r\n<br>\r\nRequested for the Strongest Sprite Workshop 2020 by FedoraFriday",
+  "latest_version": "smwc-25993-1614688479",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25993,
+      "title": "Sunshine Blooper v1.0",
+      "version": "smwc-25993-1614688479",
+      "upstream_time": 1614688479,
+      "download_url": "https://dl.smwcentral.net/25993/SunshineBlooper.zip",
+      "filename": "SunshineBlooper.zip",
+      "size": 10636,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

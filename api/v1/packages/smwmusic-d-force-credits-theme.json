@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-d-force-credits-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16523,
+  "title": "D-Force - Credits Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "An ending credits song variation of Soviet Union (USSR) anthem from D-Force (USA)/Dimension Force (Japan).",
+  "latest_version": "smwc-16523-1510129181",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16523,
+      "title": "D-Force - Credits Theme",
+      "version": "smwc-16523-1510129181",
+      "upstream_time": 1510129181,
+      "download_url": "https://dl.smwcentral.net/16523/D-Force%20%28SNES%29%20-%20Credits%20Theme.zip",
+      "filename": "D-Force (SNES) - Credits Theme.zip",
+      "size": 32015,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-jaseishou-the-last-comer-mankind-salvation-plan-the-greatest-salvation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18436,
+  "title": "Touhou Jaseishou ~ The Last Comer - Mankind Salvation Plan ~ The Greatest Salvation",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "The last boss's theme in the Danmakufu Touhou game \"The Last Comer\", Iesua Nazarenus.<br>\r\n<br>\r\nEarported by yours truly (yes I can't believe I managed to make it either), fits all the kinds of those long neverending annoying final levels where you have tons of gimmicks all the time and if you die you have to redo all of it. The song itself is very long and varied, so long levels are the way to go.<br>\r\n<br>\r\nNote that it's slightly different from the Idol version (available on my Youtube), since I had to downsample the biggest samples (the organ, the bell and the strings+organ sample).<br>\r\n<br>\r\nAlso, not compatible with Yoshi's SFX. It uses the #noYoshi sample group, except that this time it's incorporated within the .txt. No need to add stuff in Addmusic_sample_groups.txt anymore!<br>\r\n<br>\r\nEDIT: Added a version that is compatible with all global songs, but with less echo.<br>\r\n",
+  "latest_version": "smwc-18436-1542661180",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18436,
+      "title": "Touhou Jaseishou ~ The Last Comer - Mankind Salvation Plan ~ The Greatest Salvation",
+      "version": "smwc-18436-1542661180",
+      "upstream_time": 1542661180,
+      "download_url": "https://dl.smwcentral.net/18436/GreatestF2.zip",
+      "filename": "GreatestF2.zip",
+      "size": 138677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

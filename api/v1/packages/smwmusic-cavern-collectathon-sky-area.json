@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-cavern-collectathon-sky-area",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37302,
+  "title": "Cavern Collectathon - Sky ~ Area 4 (Interior)",
+  "authors": [
+    "Segment1Zone2",
+    "wolfram"
+  ],
+  "tags": [
+    "ambient",
+    "athletic",
+    "calm",
+    "night",
+    "sky",
+    "space"
+  ],
+  "description": "The fourth area exterior theme from <a href=\"https://www.smwcentral.net/?p=viewthread&t=126748\">Cavern Collectathon</a>.<br>\r\n<br>\r\nOmits Thunder, @7 (Bonus End) and @15 (Yoshi).",
+  "latest_version": "smwc-37302-1709238417",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37302,
+      "title": "Cavern Collectathon - Sky ~ Area 4 (Interior)",
+      "version": "smwc-37302-1709238417",
+      "upstream_time": 1709238417,
+      "download_url": "https://dl.smwcentral.net/37302/Cavern%20Collectathon%20-%20Sky%20~%20Area%204%20%28Interior%29.zip",
+      "filename": "Cavern Collectathon - Sky ~ Area 4 (Interior).zip",
+      "size": 48759,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37301,
+      "title": "Cavern Collectathon - Sky ~ Area 4 (Exterior)",
+      "version": "smwc-37301-1709238422",
+      "upstream_time": 1709238422,
+      "download_url": "https://dl.smwcentral.net/37301/Cavern%20Collectathon%20-%20Sky%20~%20Area%204%20%28Exterior%29.zip",
+      "filename": "Cavern Collectathon - Sky ~ Area 4 (Exterior).zip",
+      "size": 46953,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

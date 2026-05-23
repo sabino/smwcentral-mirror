@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-dash-jump-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15736,
+  "title": "Dash jump block",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "dash",
+    "long jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "When running on top of the block at full speed (and full dash timer), pressing jump produces a really high jump.<br>\r\n<br>\r\nI highly recommend \"Player X speed fix\" patch to prevent a loss of speed when holding left or right.",
+  "latest_version": "smwc-15736-1502998730",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15736,
+      "title": "Dash jump block",
+      "version": "smwc-15736-1502998730",
+      "upstream_time": 1502998730,
+      "download_url": "https://dl.smwcentral.net/15736/DashJumpBlock.zip",
+      "filename": "DashJumpBlock.zip",
+      "size": 1247,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-key-coin-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21072,
+  "title": "Key Coin Block",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "coin",
+    "key",
+    "lorom",
+    "sa-1",
+    "smoke"
+  ],
+  "description": "This block will give a coin when you have a key a touch it and disappear in a puff.",
+  "latest_version": "smwc-21072-1568185076",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21072,
+      "title": "Key Coin Block",
+      "version": "smwc-21072-1568185076",
+      "upstream_time": 1568185076,
+      "download_url": "https://dl.smwcentral.net/21072/Key%20Coin.zip",
+      "filename": "Key Coin.zip",
+      "size": 707,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

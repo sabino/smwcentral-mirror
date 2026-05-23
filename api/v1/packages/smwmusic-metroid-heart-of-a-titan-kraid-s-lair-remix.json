@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-metroid-heart-of-a-titan-kraid-s-lair-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25438,
+  "title": "Metroid - Heart of a Titan ~ Kraid's Lair (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "cutscene",
+    "dark",
+    "fire"
+  ],
+  "description": "Did a remix of <a href=\"https://youtu.be/k5l9twdrbxk\" rel=\"nofollow\">Kraid's Lair</a> from Metroid. Just started getting into the Metroid series as of recently, but I've been a fan of this song ever since I first heard it in Super Smash Bros Melee in the early 2000s (how I was introduced to the series).<br>\r\n<br>\r\nThis baby is great for caverns, dark castles / towers, and dark cutscenes.<br>\r\n<br>\r\n<b><span style=\"color: #920dff;\">Important:</span></b><br>\r\nThere is a \"!READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n- \"Bonus End\" & Thunder SFX are disabled.",
+  "latest_version": "smwc-25438-1607735895",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25438,
+      "title": "Metroid - Heart of a Titan ~ Kraid's Lair (Remix)",
+      "version": "smwc-25438-1607735895",
+      "upstream_time": 1607735895,
+      "download_url": "https://dl.smwcentral.net/25438/Kraid%27s%20Lair.zip",
+      "filename": "Kraid%27s Lair.zip",
+      "size": 78439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

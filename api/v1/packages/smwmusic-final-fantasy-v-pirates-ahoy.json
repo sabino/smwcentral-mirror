@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-fantasy-v-pirates-ahoy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27977,
+  "title": "Final Fantasy V - Pirates Ahoy!",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "sewer",
+    "temple"
+  ],
+  "description": "Could fit with dungeon theme",
+  "latest_version": "smwc-27977-1632342360",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27977,
+      "title": "Final Fantasy V - Pirates Ahoy!",
+      "version": "smwc-27977-1632342360",
+      "upstream_time": 1632342360,
+      "download_url": "https://dl.smwcentral.net/27977/Final%20Fantasy%20V%20-%20Pirates%20Ahoy%21.zip",
+      "filename": "Final Fantasy V - Pirates Ahoy%21.zip",
+      "size": 41979,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-kirby-super-star-meta-knight-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32209,
+  "title": "Kirby Super Star - Meta Knight's Theme",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "space",
+    "tense"
+  ],
+  "description": "Meta Knight's Theme from Kirby Super Star, played in the battle with Meta Knight in Revenge of Meta Knight.",
+  "latest_version": "smwc-32209-1664445300",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32209,
+      "title": "Kirby Super Star - Meta Knight's Theme",
+      "version": "smwc-32209-1664445300",
+      "upstream_time": 1664445300,
+      "download_url": "https://dl.smwcentral.net/32209/Kirby%20Super%20Star%20-%20Meta%20Knight%27s%20Theme.zip",
+      "filename": "Kirby Super Star - Meta Knight%27s Theme.zip",
+      "size": 61223,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28623,
+      "title": "Kirby Super Star - Meta Knight's Theme",
+      "version": "smwc-28623-1638312347",
+      "upstream_time": 1638312347,
+      "download_url": "https://dl.smwcentral.net/28623/Meta%20Knight%27s%20Theme.zip",
+      "filename": "Meta Knight%27s Theme.zip",
+      "size": 34492,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-f1-pole-position-mexico-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32853,
+  "title": "F1 Pole Position - Mexico City",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "overworld",
+    "title"
+  ],
+  "description": "An intense-turned-upbeat song that could work for a title screen or like an intense overworld I guess?",
+  "latest_version": "smwc-32853-1678877541",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32853,
+      "title": "F1 Pole Position - Mexico City",
+      "version": "smwc-32853-1678877541",
+      "upstream_time": 1678877541,
+      "download_url": "https://dl.smwcentral.net/32853/mexicocity.zip",
+      "filename": "mexicocity.zip",
+      "size": 36650,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

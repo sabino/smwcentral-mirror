@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dragon-warrior-chateau-ladutorm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29906,
+  "title": "Dragon Warrior - Chateau Ladutorm",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "castle",
+    "retro",
+    "temple"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for castles, temples, or fantasy settings.",
+  "latest_version": "smwc-29906-1654007429",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29906,
+      "title": "Dragon Warrior - Chateau Ladutorm",
+      "version": "smwc-29906-1654007429",
+      "upstream_time": 1654007429,
+      "download_url": "https://dl.smwcentral.net/29906/DragonQuest02TantegelCastle.zip",
+      "filename": "DragonQuest02TantegelCastle.zip",
+      "size": 45501,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

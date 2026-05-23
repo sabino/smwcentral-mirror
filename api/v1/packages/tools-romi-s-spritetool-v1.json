@@ -1,0 +1,33 @@
+{
+  "name": "tools-romi-s-spritetool-v1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 14583,
+  "title": "Romi's Spritetool - v1.41",
+  "authors": [
+    "Romi",
+    "mikeyk"
+  ],
+  "tags": [
+    "asar",
+    "inserter",
+    "sprites"
+  ],
+  "description": "This tool adds sprites to your Super Mario World ROM, hence its name. This is like Mikeyk's Spritetool but you can insert sprites with both Xkas and TRASM now.<br>\r\n<br>\r\nRomi's sprite tool also fixes some bugs such as the 'carried status' bug, 'silver POW' glitch, and so on.<br>\r\n<br>\r\nJackTheSpades edit: Added Asar support. To make the tool use asar, replace the 1 at the bottom of xkas cfg files with a 2.<br>\r\nNote that the CFG editor does not know this yet, so don't use it.",
+  "latest_version": "smwc-14583-1488222436",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 14583,
+      "title": "Romi's Spritetool - v1.41",
+      "version": "smwc-14583-1488222436",
+      "upstream_time": 1488222436,
+      "download_url": "https://dl.smwcentral.net/14583/st141.zip",
+      "filename": "st141.zip",
+      "size": 1126978,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

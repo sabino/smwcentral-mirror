@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-fixed-color-data-nmi-optimizer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18596,
+  "title": "Fixed Color Data NMI Optimizer",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "color",
+    "lorom",
+    "optimize",
+    "sa-1",
+    "v-blank"
+  ],
+  "description": "tldr: gives some more time during NMI, no freespace/ram needed<br>\r\n<br>\r\nthe routine at $00AE47 converts the background color so that it can be stored to the fixed color data register ($2132). unfortunately, the routine is lengthy, using loops and tables and indexes and watnot. this patch shortens the routine by both cycle count (old: 244 cycles | new: 59 cycles) and byte count (3 free bytes at end) by means of clever and extreme haxage.<br>\r\n<br>\r\nincluded is a text file that shows just how long my routine takes, and how long the old one took.<br>\r\n<br>\r\n<br>\r\n<br>\r\ni originally developed the routine for my homebrew but adapted it for smw",
+  "latest_version": "smwc-18596-1547910625",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18596,
+      "title": "Fixed Color Data NMI Optimizer",
+      "version": "smwc-18596-1547910625",
+      "upstream_time": 1547910625,
+      "download_url": "https://dl.smwcentral.net/18596/optimize_2132_store.zip",
+      "filename": "optimize_2132_store.zip",
+      "size": 1643,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

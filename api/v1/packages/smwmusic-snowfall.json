@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-snowfall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8567,
+  "title": "Snowfall",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "ice",
+    "overworld"
+  ],
+  "description": "A somewhat Christmas-like custom composition for ice submaps",
+  "latest_version": "smwc-8567-1398076338",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8567,
+      "title": "Snowfall",
+      "version": "smwc-8567-1398076338",
+      "upstream_time": 1398076338,
+      "download_url": "https://dl.smwcentral.net/8567/Snowfall.zip",
+      "filename": "Snowfall.zip",
+      "size": 63577,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

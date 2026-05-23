@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-snowy-mountain-adventure",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7512,
+  "title": "Snowy Mountain Adventure",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "night"
+  ],
+  "description": "As the title says this onewould fit snowy and icey levels very well, though I think it could work very well with night levels also.",
+  "latest_version": "smwc-7512-1319953172",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7512,
+      "title": "Snowy Mountain Adventure",
+      "version": "smwc-7512-1319953172",
+      "upstream_time": 1319953172,
+      "download_url": "https://dl.smwcentral.net/7512/Snowy%20Mountain%20Adventure.zip",
+      "filename": "Snowy Mountain Adventure.zip",
+      "size": 68859,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

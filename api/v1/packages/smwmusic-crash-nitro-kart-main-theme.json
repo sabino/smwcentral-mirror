@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-nitro-kart-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38434,
+  "title": "Crash Nitro Kart - Main Theme",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "title"
+  ],
+  "description": "The upbeat and triumphant main theme of Crash Nitro Kart.<br>\r\n<br>\r\nThis includes three variations of this track, which can be defined in the .txt file:<br>\r\n<br>\r\n0 - Normal version, plays on the main menu<br>\r\n1 - XBox version of the menu theme, which is slightly longer by featuring an extended bassline (0:39, 0x03DE)<br>\r\n2 - Opening version, has an intro and an extension, this port is slightly different than the original version as that version features an abridged version of the main motif that gets mixed with the intro voices, and this version keeps it on the same length as the menu versions (1:04, 0x04EC)",
+  "latest_version": "smwc-38434-1732573665",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38434,
+      "title": "Crash Nitro Kart - Main Theme",
+      "version": "smwc-38434-1732573665",
+      "upstream_time": 1732573665,
+      "download_url": "https://dl.smwcentral.net/38434/CNK%20-%20Main%20Theme.zip",
+      "filename": "CNK - Main Theme.zip",
+      "size": 195362,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

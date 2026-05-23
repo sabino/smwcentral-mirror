@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-trials-of-mana-strange-medicine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17344,
+  "title": "Trials of Mana - Strange Medicine",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "forest",
+    "tense"
+  ],
+  "description": "(Also known as \"Seiken Densetsu 3\" in Japan)<br>\r\n<br>\r\nMusic from SD3. Good for forest and/or castle stages.",
+  "latest_version": "smwc-17344-1522665393",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17344,
+      "title": "Trials of Mana - Strange Medicine",
+      "version": "smwc-17344-1522665393",
+      "upstream_time": 1522665393,
+      "download_url": "https://dl.smwcentral.net/17344/%5BS%5D%20SecretOfMana.zip",
+      "filename": "%5BS%5D SecretOfMana.zip",
+      "size": 65324,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

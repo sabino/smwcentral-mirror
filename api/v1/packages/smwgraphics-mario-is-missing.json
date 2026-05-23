@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-mario-is-missing",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 2371,
+  "title": "Mario is Missing",
+  "authors": [
+    "Bandit"
+  ],
+  "tags": [
+    "8-bit",
+    "cutscene",
+    "grassland",
+    "needs remoderation"
+  ],
+  "description": "~Enjoy",
+  "latest_version": "smwc-2371-1426628471",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 2371,
+      "title": "Mario is Missing",
+      "version": "smwc-2371-1426628471",
+      "upstream_time": 1426628471,
+      "download_url": "https://dl.smwcentral.net/2371/MiM%20Overworld%20tiles.zip",
+      "filename": "MiM Overworld tiles.zip",
+      "size": 40377,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1147,
+      "title": "Mario is Missing",
+      "version": "smwc-1147-1409319517",
+      "upstream_time": 1409319517,
+      "download_url": "https://dl.smwcentral.net/1147/mimdont.zip",
+      "filename": "mimdont.zip",
+      "size": 2240,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

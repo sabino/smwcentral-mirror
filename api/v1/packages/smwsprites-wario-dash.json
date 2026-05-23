@@ -1,0 +1,46 @@
+{
+  "name": "smwsprites-wario-dash",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3484,
+  "title": "Wario Dash",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "abilities",
+    "ability",
+    "asar 2 remoderation",
+    "dash",
+    "lorom",
+    "pacifist",
+    "physics",
+    "power-up",
+    "power-ups",
+    "powerup",
+    "powerups",
+    "running",
+    "sa-1",
+    "uberasm",
+    "wario"
+  ],
+  "description": "This sprite will give Mario the Wario Dash ability when he collects it.<br>\r\n<br>\r\nWhile dashing (which replaces running), Mario's speed, pose, and colors change and he's invincible. He loses the ability if he gets hit or gets another powerup.<br>\r\n<br>\r\nBecause this sprite isn't a custom powerup, it requires UberASM to function. Check the readme for more information. Check the ASM files for customization options.",
+  "latest_version": "smwc-3484-1255616709",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3484,
+      "title": "Wario Dash",
+      "version": "smwc-3484-1255616709",
+      "upstream_time": 1255616709,
+      "download_url": "https://dl.smwcentral.net/3484/Wario%20Dash.zip",
+      "filename": "Wario Dash.zip",
+      "size": 3328,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

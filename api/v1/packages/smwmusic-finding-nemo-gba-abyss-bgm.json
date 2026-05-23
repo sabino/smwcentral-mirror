@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-finding-nemo-gba-abyss-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9389,
+  "title": "Finding Nemo (GBA) - Abyss (BGM 3)",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark",
+    "sad",
+    "water"
+  ],
+  "description": "A somber song that would fit a mysterious area or sad situation.",
+  "latest_version": "smwc-9389-1413476800",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9389,
+      "title": "Finding Nemo (GBA) - Abyss (BGM 3)",
+      "version": "smwc-9389-1413476800",
+      "upstream_time": 1413476800,
+      "download_url": "https://dl.smwcentral.net/9389/abyss.zip",
+      "filename": "abyss.zip",
+      "size": 30685,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

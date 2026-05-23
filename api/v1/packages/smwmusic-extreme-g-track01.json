@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-extreme-g-track01",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30619,
+  "title": "Extreme-G - Track01",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "chase",
+    "industrial",
+    "space",
+    "urban"
+  ],
+  "description": "A Techno song from Extreme-G.",
+  "latest_version": "smwc-30619-1659228013",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30619,
+      "title": "Extreme-G - Track01",
+      "version": "smwc-30619-1659228013",
+      "upstream_time": 1659228013,
+      "download_url": "https://dl.smwcentral.net/30619/Track01.zip",
+      "filename": "Track01.zip",
+      "size": 84398,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

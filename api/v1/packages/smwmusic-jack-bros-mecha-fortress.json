@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-jack-bros-mecha-fortress",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16137,
+  "title": "Jack Bros - Mecha Fortress",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "industrial"
+  ],
+  "description": "Could fit with factory and castle theme",
+  "latest_version": "smwc-16137-1504979806",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16137,
+      "title": "Jack Bros - Mecha Fortress",
+      "version": "smwc-16137-1504979806",
+      "upstream_time": 1504979806,
+      "download_url": "https://dl.smwcentral.net/16137/Mecha%20Fortress.zip",
+      "filename": "Mecha Fortress.zip",
+      "size": 31496,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

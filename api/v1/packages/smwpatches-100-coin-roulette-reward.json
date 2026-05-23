@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-100-coin-roulette-reward",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 10882,
+  "title": "100-Coin Roulette Reward",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "100 coins",
+    "1up",
+    "asar 2 remoderation",
+    "lorom",
+    "luck",
+    "needs remoderation",
+    "powerup",
+    "roulette",
+    "slots"
+  ],
+  "description": "This patch replaces the standard reward of a 1UP every time the player collects 100 coins with a little roulette that can give the player one out of an adjustable pool of rewards.<br>\r\nBy default the rewards are a Mushroom, a slightly shorter Starman, a Fire Flower and a Feather.<br>\r\nHowever, these can easily be added to or edited, as long as you have the code for what you're trying to accomplish.<br>\r\n<br>\r\nTo use the reward in-game, the player has to first press a (adjustable) button to bring the roulette to a stop, and then can activate the reward whenever they want within a certain timespan, after which the powerup will start to fade and ultimately disappear.<br>\r\nIt might be worth it to explain this in a message box somewhere near the beginning of your game.<br>\r\n<br>\r\n<br>\r\nGraphics are included, though they assume that you use <a href=\"http://www.smwcentral.net/?p=section&a=details&id=4897\">Ladida's GFX DMA-er patch</a> and even then still overwrite the flopping Cheep-Cheep (this can be edited to instead overwrite something else easily).",
+  "latest_version": "smwc-10882-1428211282",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 10882,
+      "title": "100-Coin Roulette Reward",
+      "version": "smwc-10882-1428211282",
+      "upstream_time": 1428211282,
+      "download_url": "https://dl.smwcentral.net/10882/100coinslut.zip",
+      "filename": "100coinslut.zip",
+      "size": 12571,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

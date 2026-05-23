@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-rudra-no-hihou-strange-encounter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33097,
+  "title": "Rudra no Hihou - Strange Encounter",
+  "authors": [
+    "Ahrion",
+    "Zavok"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "fire",
+    "tense",
+    "theme"
+  ],
+  "description": "Could fit a boss or chase theme. Strange Encounter from Rudra no Hihou",
+  "latest_version": "smwc-33097-1684741576",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33097,
+      "title": "Rudra no Hihou - Strange Encounter",
+      "version": "smwc-33097-1684741576",
+      "upstream_time": 1684741576,
+      "download_url": "https://dl.smwcentral.net/33097/Rudra%20no%20Hihou%20-%20Strange%20Encounter%20%28U%29.zip",
+      "filename": "Rudra no Hihou - Strange Encounter (U).zip",
+      "size": 34982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32291,
+      "title": "Rudra no Hihou - Strange Encounter",
+      "version": "smwc-32291-1674939247",
+      "upstream_time": 1674939247,
+      "download_url": "https://dl.smwcentral.net/32291/Strange%20Encounter.zip",
+      "filename": "Strange Encounter.zip",
+      "size": 90499,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

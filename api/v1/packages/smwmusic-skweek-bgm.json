@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-skweek-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26057,
+  "title": "Skweek - BGM 2",
+  "authors": [
+    "yoshi9429"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "cutscene",
+    "tense",
+    "yoshi drums"
+  ],
+  "description": "Skweek music 1 theme.<br>\r\nI think it is useful athletic stage.",
+  "latest_version": "smwc-26057-1615156367",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26057,
+      "title": "Skweek - BGM 2",
+      "version": "smwc-26057-1615156367",
+      "upstream_time": 1615156367,
+      "download_url": "https://dl.smwcentral.net/26057/Skweek%20-%20Music%201.zip",
+      "filename": "Skweek - Music 1.zip",
+      "size": 94508,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

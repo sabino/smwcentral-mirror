@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lost-in-the-dunes",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21325,
+  "title": "Lost in The Dunes",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "desert",
+    "night"
+  ],
+  "description": "It's a simple composition for desert or night scenery.",
+  "latest_version": "smwc-21325-1571710571",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21325,
+      "title": "Lost in The Dunes",
+      "version": "smwc-21325-1571710571",
+      "upstream_time": 1571710571,
+      "download_url": "https://dl.smwcentral.net/21325/Lost%20in%20The%20Dunes.zip",
+      "filename": "Lost in The Dunes.zip",
+      "size": 63442,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-destination-piano",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7869,
+  "title": "Final Destination (Piano version)",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "dark",
+    "final",
+    "title"
+  ],
+  "description": "First completely custom song I ever submitted to SMWC's Music section. This song was originally composed for my band, but 'played' in the piano. This song might be good for cutscenes or sad, calm places... It's my entry for the third round of SMWCIdol 3, South Division, too. Enjoy!<br>\r\n<br>\r\n<br>\r\nUpdate (11/10/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 879 bytes.",
+  "latest_version": "smwc-7869-1314204639",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7869,
+      "title": "Final Destination (Piano version)",
+      "version": "smwc-7869-1314204639",
+      "upstream_time": 1314204639,
+      "download_url": "https://dl.smwcentral.net/7869/Custom%20-%20Final.Destination%20%28Piano%20Version%29.zip",
+      "filename": "Custom - Final.Destination (Piano Version).zip",
+      "size": 47230,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-mario-only-and-sprite-only-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 19967,
+  "title": "Mario-Only and Sprite-Only Blocks",
+  "authors": [
+    "ASMagician Maks"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1",
+    "solid",
+    "sprite",
+    "yoshi"
+  ],
+  "description": "The classic blocks that are only solid for Mario or sprites which makes a lot of new setups possible.<br>\r\nThis version allows you to make multiple different blocks like ledges and slopes only solid for either just by using 1 asm file.<br>\r\nIt also contains settings for whether blocks solid for Mario should also be solid for his fireballs and/or Yoshi and vice versa.<br>\r\n",
+  "latest_version": "smwc-19967-1558204402",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 19967,
+      "title": "Mario-Only and Sprite-Only Blocks",
+      "version": "smwc-19967-1558204402",
+      "upstream_time": 1558204402,
+      "download_url": "https://dl.smwcentral.net/19967/mario%20solid%20and%20sprite%20solid%20blocks.zip",
+      "filename": "mario solid and sprite solid blocks.zip",
+      "size": 1598,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

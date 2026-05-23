@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-64-the-crystal-shards-aqua-star",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16869,
+  "title": "Kirby 64: The Crystal Shards - Aqua Star 3",
+  "authors": [
+    "Taffy"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "water"
+  ],
+  "description": "The very tropical and upbeat music heard in the third stage of Aqua Star in Kirby 64 - The Crystal Shards.<br>\r\n<br>\r\nWould fit any aquatic/semi-aquatic levels.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-16869-1515289151",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16869,
+      "title": "Kirby 64: The Crystal Shards - Aqua Star 3",
+      "version": "smwc-16869-1515289151",
+      "upstream_time": 1515289151,
+      "download_url": "https://dl.smwcentral.net/16869/aqua%20star%203.zip",
+      "filename": "aqua star 3.zip",
+      "size": 31825,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

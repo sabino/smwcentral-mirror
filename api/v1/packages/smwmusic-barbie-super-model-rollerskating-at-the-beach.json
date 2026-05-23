@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-barbie-super-model-rollerskating-at-the-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23581,
+  "title": "Barbie: Super Model - Rollerskating at the Beach",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "overworld",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "A very strange (and sort of broken) song from a Barbie game for the SNES. Despite this, it has an inexplicable charm to it.<br>\r\n<br>\r\nDue to its short length, it's probably best suited for things like title screens and overworlds, probably for less serious hacks.",
+  "latest_version": "smwc-23581-1594356324",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23581,
+      "title": "Barbie: Super Model - Rollerskating at the Beach",
+      "version": "smwc-23581-1594356324",
+      "upstream_time": 1594356324,
+      "download_url": "https://dl.smwcentral.net/23581/roller.zip",
+      "filename": "roller.zip",
+      "size": 33183,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

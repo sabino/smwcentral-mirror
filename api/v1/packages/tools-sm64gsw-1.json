@@ -1,0 +1,33 @@
+{
+  "name": "tools-sm64gsw-1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 26017,
+  "title": "SM64GSW 1.2 (Linux & Windows)",
+  "authors": [
+    "alex_free"
+  ],
+  "tags": [
+    "chksum64 alternative",
+    "cic bypass",
+    "gameshark",
+    "sm64"
+  ],
+  "description": "An open source command line program that writes N64 GameShark codes into a USA Super Mario 64 ROM file and modifies the CIC check. This is also effectively an alternative to the CHKSUM64 program, that unlike CHKSUM64 works in Mupen64Plus. Please see the website for full documentation.",
+  "latest_version": "smwc-26017-1620241219",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 26017,
+      "title": "SM64GSW 1.2 (Linux & Windows)",
+      "version": "smwc-26017-1620241219",
+      "upstream_time": 1620241219,
+      "download_url": "https://dl.smwcentral.net/26017/sm64gsw-1.2.zip",
+      "filename": "sm64gsw-1.2.zip",
+      "size": 920398,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

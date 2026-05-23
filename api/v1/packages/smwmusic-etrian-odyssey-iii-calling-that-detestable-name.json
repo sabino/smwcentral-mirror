@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-etrian-odyssey-iii-calling-that-detestable-name",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37985,
+  "title": "Etrian Odyssey III - Calling That Detestable Name",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "fire",
+    "tense"
+  ],
+  "description": "The final battle theme of the game.<br>\r\n<br>\r\nNote: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Yoshi mount, P-Switch, Thunder/Firework/Blargg ",
+  "latest_version": "smwc-37985-1721921239",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37985,
+      "title": "Etrian Odyssey III - Calling That Detestable Name",
+      "version": "smwc-37985-1721921239",
+      "upstream_time": 1721921239,
+      "download_url": "https://dl.smwcentral.net/37985/Calling%20That%20Detestable%20Name.zip",
+      "filename": "Calling That Detestable Name.zip",
+      "size": 106009,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

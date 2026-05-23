@@ -1,0 +1,87 @@
+{
+  "name": "smwmusic-metal-slug",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38283,
+  "title": "Metal Slug 4 - Final Madness",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "dark",
+    "desert",
+    "final",
+    "fire",
+    "industrial",
+    "jungle",
+    "mountain",
+    "mysterious",
+    "ruins",
+    "tense",
+    "water"
+  ],
+  "description": "The final boss music from Metal Slug 4. It starts creepy, and then goes like your typical final boss music.",
+  "latest_version": "smwc-38283-1733028678",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38283,
+      "title": "Metal Slug 4 - Final Madness",
+      "version": "smwc-38283-1733028678",
+      "upstream_time": 1733028678,
+      "download_url": "https://dl.smwcentral.net/38283/ms4final.zip",
+      "filename": "ms4final.zip",
+      "size": 33139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26257,
+      "title": "Metal Slug 3 - Pyramid (Mega Man X2 Style)",
+      "version": "smwc-26257-1616609907",
+      "upstream_time": 1616609907,
+      "download_url": "https://dl.smwcentral.net/26257/MS3PyramidMMX2.zip",
+      "filename": "MS3PyramidMMX2.zip",
+      "size": 74398,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10877,
+      "title": "Metal Slug 3 - Hard Water",
+      "version": "smwc-10877-1425435425",
+      "upstream_time": 1425435425,
+      "download_url": "https://dl.smwcentral.net/10877/Hard%20Water.zip",
+      "filename": "Hard Water.zip",
+      "size": 99976,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7626,
+      "title": "Metal Slug 3 - Pyramid",
+      "version": "smwc-7626-1323417715",
+      "upstream_time": 1323417715,
+      "download_url": "https://dl.smwcentral.net/7626/Metal%20Slug%203%20-%20Pyramid.zip",
+      "filename": "Metal Slug 3 - Pyramid.zip",
+      "size": 72911,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

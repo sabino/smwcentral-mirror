@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-poison-mushroom",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42310,
+  "title": "Poison Mushroom",
+  "authors": [
+    "AmperSam",
+    "JackTheSpades",
+    "mikeyk"
+  ],
+  "tags": [
+    "lorom",
+    "poison mushroom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "Applying this patch will specify that an existing sprite number will be a Poison Mushroom instead (ideally an unused one). <br>\r\n<br>\r\nSetting the Extra Bit of the sprite in Lunar Magic will make this sprite a kill variant Mushroom. This requires PIXI to be applied to your project.<br>\r\n<br>\r\n<br>\r\n",
+  "latest_version": "1.1.2",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42310,
+      "title": "Poison Mushroom",
+      "version": "1.1.2",
+      "upstream_time": 1777953527,
+      "download_url": "https://dl.smwcentral.net/42310/poison_mushroom_v1.1.2.zip",
+      "filename": "poison_mushroom_v1.1.2.zip",
+      "size": 5558,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

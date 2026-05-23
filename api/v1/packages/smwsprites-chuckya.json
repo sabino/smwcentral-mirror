@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-chuckya",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3399,
+  "title": "Chuckya",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "chuckya",
+    "dynamic",
+    "enemy",
+    "lorom"
+  ],
+  "description": "This is that SM64 sprite that resembles a giant purple Bob-Omb that can pick Mario up and throw him into the distance. (Mario can kill him by using the same method) Since it is dynamic, you will have to install dsx.asm. No credit needed.",
+  "latest_version": "smwc-3399-1244152536",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3399,
+      "title": "Chuckya",
+      "version": "smwc-3399-1244152536",
+      "upstream_time": 1244152536,
+      "download_url": "https://dl.smwcentral.net/3399/chuckya.zip",
+      "filename": "chuckya.zip",
+      "size": 12848,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

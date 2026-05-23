@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-atlantian-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12715,
+  "title": "Atlantian Temple",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "calm",
+    "ghost house",
+    "ruins",
+    "sad",
+    "sewer",
+    "temple",
+    "water",
+    "yoshi drums"
+  ],
+  "description": "A melancholy song that could fit undersea temples and ghost houses.<br>\r\n<br>\r\nIncludes a version with Yoshi drums, if you're into that sort of thing.",
+  "latest_version": "smwc-12715-1447620054",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12715,
+      "title": "Atlantian Temple",
+      "version": "smwc-12715-1447620054",
+      "upstream_time": 1447620054,
+      "download_url": "https://dl.smwcentral.net/12715/Atlantian%20Temple.zip",
+      "filename": "Atlantian Temple.zip",
+      "size": 148554,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

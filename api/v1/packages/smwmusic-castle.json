@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32988,
+  "title": "castle",
+  "authors": [
+    "Retr0Cat"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "ghost house",
+    "industrial",
+    "tense"
+  ],
+  "description": "A song for castles.",
+  "latest_version": "smwc-32988-1674577497",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32988,
+      "title": "castle",
+      "version": "smwc-32988-1674577497",
+      "upstream_time": 1674577497,
+      "download_url": "https://dl.smwcentral.net/32988/castle.zip",
+      "filename": "castle.zip",
+      "size": 33132,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

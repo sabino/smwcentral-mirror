@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-electric-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20776,
+  "title": "Electric Block",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "block sprite",
+    "enemy",
+    "hurt block",
+    "json",
+    "lorom",
+    "sa-1",
+    "solid",
+    "water"
+  ],
+  "description": "This is a simple block sprite that hurts player if it's in water.<br>\r\n<br>\r\nCredit is optional, requested by httpERROR404.<br>\r\n<br>\r\nNow PIXI compatible.",
+  "latest_version": "smwc-20776-1564739001",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20776,
+      "title": "Electric Block",
+      "version": "smwc-20776-1564739001",
+      "upstream_time": 1564739001,
+      "download_url": "https://dl.smwcentral.net/20776/ElectricBlock%20%5BPIXI%5D.zip",
+      "filename": "ElectricBlock %5BPIXI%5D.zip",
+      "size": 1909,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

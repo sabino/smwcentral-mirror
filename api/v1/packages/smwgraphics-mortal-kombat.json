@@ -1,0 +1,58 @@
+{
+  "name": "smwgraphics-mortal-kombat",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 19213,
+  "title": "Mortal Kombat 2 - Dead Pool (simplified)",
+  "authors": [
+    "Ayami"
+  ],
+  "tags": [
+    "castle",
+    "haunted",
+    "needs remoderation",
+    "sans serif",
+    "sewer"
+  ],
+  "description": "A simplified version of the background of the Dead Pool stage in Mortal Kombat 2 (SNES). Even simplified, it's still a detailed background, so it uses BG1, BG2 and BG3, and also 4 full palette rows, keep that in mind.<br>\r\n<br>\r\nBy the way, even if this is a background by itself, with the help of invisible cement blocks you can use this like a both FG-BG tileset (kinda like MK2 does).",
+  "latest_version": "smwc-19213-1552529274",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 19213,
+      "title": "Mortal Kombat 2 - Dead Pool (simplified)",
+      "version": "smwc-19213-1552529274",
+      "upstream_time": 1552529274,
+      "download_url": "https://dl.smwcentral.net/19213/MK2%20Dead%20Pool.zip",
+      "filename": "MK2 Dead Pool.zip",
+      "size": 13747,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19212,
+      "title": "Mortal Kombat 2 - Armory",
+      "version": "smwc-19212-1552529108",
+      "upstream_time": 1552529108,
+      "download_url": "https://dl.smwcentral.net/19212/MK2%20Armory.zip",
+      "filename": "MK2 Armory.zip",
+      "size": 17239,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2417,
+      "title": "Mortal Kombat 2",
+      "version": "smwc-2417-1409317924",
+      "upstream_time": 1409317924,
+      "download_url": "https://dl.smwcentral.net/2417/Mortal%20Kombat%202%20Font.zip",
+      "filename": "Mortal Kombat 2 Font.zip",
+      "size": 999,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

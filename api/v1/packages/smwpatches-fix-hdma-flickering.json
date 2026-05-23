@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-fix-hdma-flickering",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 35281,
+  "title": "Fix HDMA Flickering",
+  "authors": [
+    "anonimzwx"
+  ],
+  "tags": [
+    "flickering",
+    "hdma",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes HDMA flicker that happens when there's v-blank overflow due to DMA. Usually because of too many animations or tile updates.",
+  "latest_version": "smwc-35281-1701381634",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 35281,
+      "title": "Fix HDMA Flickering",
+      "version": "smwc-35281-1701381634",
+      "upstream_time": 1701381634,
+      "download_url": "https://dl.smwcentral.net/35281/FixHDMAFlickering.zip",
+      "filename": "FixHDMAFlickering.zip",
+      "size": 349,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

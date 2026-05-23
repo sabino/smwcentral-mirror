@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-comet-summoner-compile-logo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41166,
+  "title": "Comet Summoner - Compile Logo",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "Jingle that plays when starting up Comet Summoner and Compile logo shows up.<br>\r\nIf you'd like a glimmering star-themed jingle for your intro jingle, here you go.",
+  "latest_version": "smwc-41166-1772338583",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41166,
+      "title": "Comet Summoner - Compile Logo",
+      "version": "smwc-41166-1772338583",
+      "upstream_time": 1772338583,
+      "download_url": "https://dl.smwcentral.net/41166/Comet%20Summoner%20-%20Compile%20Logo%20.zip",
+      "filename": "Comet Summoner - Compile Logo .zip",
+      "size": 28517,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-pocky-rocky-2-encounter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36790,
+  "title": "Pocky & Rocky 2 - Encounter 2",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "Fits on maps.",
+  "latest_version": "smwc-36790-1708310698",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36790,
+      "title": "Pocky & Rocky 2 - Encounter 2",
+      "version": "smwc-36790-1708310698",
+      "upstream_time": 1708310698,
+      "download_url": "https://dl.smwcentral.net/36790/Encounter%202%20-%20%5BU%5D.zip",
+      "filename": "Encounter 2 - %5BU%5D.zip",
+      "size": 31995,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36789,
+      "title": "Pocky & Rocky 2 - Encounter 2",
+      "version": "smwc-36789-1708310681",
+      "upstream_time": 1708310681,
+      "download_url": "https://dl.smwcentral.net/36789/Encounter%202.zip",
+      "filename": "Encounter 2.zip",
+      "size": 44522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

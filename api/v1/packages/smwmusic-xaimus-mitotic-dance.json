@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-xaimus-mitotic-dance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21848,
+  "title": "xaimus - mitotic dance",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "chase",
+    "dark",
+    "space"
+  ],
+  "description": "My winning entry to the first ever Super Famicompo.",
+  "latest_version": "smwc-21848-1578925460",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21848,
+      "title": "xaimus - mitotic dance",
+      "version": "smwc-21848-1578925460",
+      "upstream_time": 1578925460,
+      "download_url": "https://dl.smwcentral.net/21848/mitotic_.zip",
+      "filename": "mitotic_.zip",
+      "size": 51391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

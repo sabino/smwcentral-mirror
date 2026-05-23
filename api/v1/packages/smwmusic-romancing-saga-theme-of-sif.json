@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-romancing-saga-theme-of-sif",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29148,
+  "title": "Romancing SaGa - Theme of Sif",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "cutscene"
+  ],
+  "description": "A heroic theme from Romancing Saga.",
+  "latest_version": "smwc-29148-1643568480",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29148,
+      "title": "Romancing SaGa - Theme of Sif",
+      "version": "smwc-29148-1643568480",
+      "upstream_time": 1643568480,
+      "download_url": "https://dl.smwcentral.net/29148/Romancing%20Saga%20-%20Theme%20of%20Sif.zip",
+      "filename": "Romancing Saga - Theme of Sif.zip",
+      "size": 57761,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

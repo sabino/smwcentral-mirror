@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-paper-mario-goomba-village",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23101,
+  "title": "Paper Mario - Goomba Village",
+  "authors": [
+    "Dispace",
+    "Zavok"
+  ],
+  "tags": [
+    "grassland",
+    "town"
+  ],
+  "description": "Song that Goomba Village from Paper Mario. Good for a town lub grassland.",
+  "latest_version": "smwc-23101-1590899371",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23101,
+      "title": "Paper Mario - Goomba Village",
+      "version": "smwc-23101-1590899371",
+      "upstream_time": 1590899371,
+      "download_url": "https://dl.smwcentral.net/23101/Paper%20Mario%20-%20Goomba%20Village.zip",
+      "filename": "Paper Mario - Goomba Village.zip",
+      "size": 31523,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

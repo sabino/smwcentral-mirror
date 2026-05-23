@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-legend-of-prince-valiant-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29803,
+  "title": "The Legend of Prince Valiant - Title Screen",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "grassland",
+    "retro",
+    "temple"
+  ],
+  "description": "The Title Screen theme from an odd NES game called The Legend of Prince Valiant, Developed and Published by Ocean.<br>\r\n<br>\r\nCan fit your medieval levels, as well as retro castles.<br>\r\n<br>\r\nThere's an option in the .txt file to change between the NSF Rip and the ROM Rip.",
+  "latest_version": "smwc-29803-1656625883",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29803,
+      "title": "The Legend of Prince Valiant - Title Screen",
+      "version": "smwc-29803-1656625883",
+      "upstream_time": 1656625883,
+      "download_url": "https://dl.smwcentral.net/29803/The%20Legend%20of%20Prince%20Valiant%20%28NES%29%20-%20Title.zip",
+      "filename": "The Legend of Prince Valiant (NES) - Title.zip",
+      "size": 78566,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

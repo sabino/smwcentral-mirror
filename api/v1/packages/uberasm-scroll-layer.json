@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-scroll-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 24696,
+  "title": "Scroll Layer 3 with L/R",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "layer 3",
+    "lorom",
+    "sa-1",
+    "scroll",
+    "tides"
+  ],
+  "description": "This UberASM will scroll layer 3 up and down when L/R are pressed (L = up, R = down). This is meant to be used with tides: if you override the layer 3 settings, make sure the vertical scroll is set to None. Also, the code disables L/R scrolling to not interfere with this.<br>\r\nIn the asm file you can customize the min and max position you can scroll to, and the speed (set in 256th of a pixel per frame, to allow for more fine-tuned speeds). It requires 1 byte of freeram.<br>\r\n",
+  "latest_version": "smwc-24696-1601578895",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 24696,
+      "title": "Scroll Layer 3 with L/R",
+      "version": "smwc-24696-1601578895",
+      "upstream_time": 1601578895,
+      "download_url": "https://dl.smwcentral.net/24696/MoveLayer3LR.zip",
+      "filename": "MoveLayer3LR.zip",
+      "size": 636,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

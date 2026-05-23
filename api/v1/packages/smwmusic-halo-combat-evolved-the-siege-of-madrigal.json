@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-halo-combat-evolved-the-siege-of-madrigal",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28138,
+  "title": "Halo: Combat Evolved - The Siege of Madrigal",
+  "authors": [
+    "Deathray"
+  ],
+  "tags": [
+    "sad"
+  ],
+  "description": "This sad and short song is most notably used as an easter egg in the Bungie Halo games, starting with Halo CE and ending with Halo Reach, even appearing in their later games like Destiny.",
+  "latest_version": "smwc-28138-1630206905",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28138,
+      "title": "Halo: Combat Evolved - The Siege of Madrigal",
+      "version": "smwc-28138-1630206905",
+      "upstream_time": 1630206905,
+      "download_url": "https://dl.smwcentral.net/28138/siege.zip",
+      "filename": "siege.zip",
+      "size": 20748,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

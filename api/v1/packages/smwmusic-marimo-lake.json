@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-marimo-lake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14201,
+  "title": "Marimo Lake",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "An Eastern-style waltz inspired by my entry for the Summer 2016 ExGFX contest.  Would suit a calm water level in a Wutai setting.",
+  "latest_version": "smwc-14201-1472610876",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14201,
+      "title": "Marimo Lake",
+      "version": "smwc-14201-1472610876",
+      "upstream_time": 1472610876,
+      "download_url": "https://dl.smwcentral.net/14201/Marimo%20Lake.zip",
+      "filename": "Marimo Lake.zip",
+      "size": 31757,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "name": "smwmusic-super-mario-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40996,
+  "title": "Super Mario World 2: Yoshi's Island - Bowser (MMX2 Style)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "boss",
+    "calm",
+    "carnival",
+    "castle",
+    "cave",
+    "credits",
+    "cutscene",
+    "dark",
+    "final",
+    "fire",
+    "forest",
+    "game over",
+    "ghost house",
+    "goal",
+    "grassland",
+    "industrial",
+    "misc",
+    "miss",
+    "mountain",
+    "overworld",
+    "ruins",
+    "sewer",
+    "sky",
+    "spooky",
+    "star",
+    "temple",
+    "tense",
+    "title",
+    "town",
+    "upbeat"
+  ],
+  "description": "The theme played during the final fight against Giant Baby Bowser from Super Mario World 2: Yoshi's Island on the SNES, remixed in an MMX2 style.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Stivi\"><span title=\"Stivi donated $10.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=28842\" style=\"color: var(--user-color-2);\" class=\"un\">Stivi</a></span>.",
+  "latest_version": "smwc-40996-1764367305",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40996,
+      "title": "Super Mario World 2: Yoshi's Island - Bowser (MMX2 Style)",
+      "version": "smwc-40996-1764367305",
+      "upstream_time": 1764367305,
+      "download_url": "https://dl.smwcentral.net/40996/Yoshi%27s%20Island%20-%20Bowser%20%28MMX2%20Style%29.zip",
+      "filename": "Yoshi%27s Island - Bowser (MMX2 Style).zip",
+      "size": 120126,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38631,
+      "title": "Super Mario World 2: Yoshi's Island - Transform",
+      "version": "smwc-38631-1728410801",
+      "upstream_time": 1728410801,
+      "download_url": "https://dl.smwcentral.net/38631/Transform.zip",
+      "filename": "Transform.zip",
+      "size": 30915,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38630,
+      "title": "Super Mario World 2: Yoshi's Island - Bonus Fanfare",
+      "version": "smwc-38630-1728410787",
+      "upstream_time": 1728410787,
+      "download_url": "https://dl.smwcentral.net/38630/Bonus%20Fanfare.zip",
+      "filename": "Bonus Fanfare.zip",
+      "size": 30687,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38629,
+      "title": "Super Mario World 2: Yoshi's Island - World Complete",
+      "version": "smwc-38629-1728410256",
+      "upstream_time": 1728410256,
+      "download_url": "https://dl.smwcentral.net/38629/World%20Complete.zip",
+      "filename": "World Complete.zip",
+      "size": 30681,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38626,
+      "title": "Super Mario World 2: Yoshi's Island - Bowser",
+      "version": "smwc-38626-1728409775",
+      "upstream_time": 1728409775,
+      "download_url": "https://dl.smwcentral.net/38626/Bowser.zip",
+      "filename": "Bowser.zip",
+      "size": 104714,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38625,
+      "title": "Super Mario World 2: Yoshi's Island - Bonus Game",
+      "version": "smwc-38625-1728409759",
+      "upstream_time": 1728409759,
+      "download_url": "https://dl.smwcentral.net/38625/Bonus%20Game.zip",
+      "filename": "Bonus Game.zip",
+      "size": 32999,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38624,
+      "title": "Super Mario World 2: Yoshi's Island - Luigi is Rescued",
+      "version": "smwc-38624-1728409721",
+      "upstream_time": 1728409721,
+      "download_url": "https://dl.smwcentral.net/38624/Luigi%27s%20Rescue.zip",
+      "filename": "Luigi%27s Rescue.zip",
+      "size": 31954,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38623,
+      "title": "Super Mario World 2: Yoshi's Island - Bowser Clear",
+      "version": "smwc-38623-1728409705",
+      "upstream_time": 1728409705,
+      "download_url": "https://dl.smwcentral.net/38623/Bowser%20Clear.zip",
+      "filename": "Bowser Clear.zip",
+      "size": 31391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38622,
+      "title": "Super Mario World 2: Yoshi's Island - Powerful Infant",
+      "version": "smwc-38622-1728409673",
+      "upstream_time": 1728409673,
+      "download_url": "https://dl.smwcentral.net/38622/Powerful%20Infant.zip",
+      "filename": "Powerful Infant.zip",
+      "size": 33180,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38613,
+      "title": "Super Mario World 2: Yoshi's Island - Big Boss Clear",
+      "version": "smwc-38613-1728408415",
+      "upstream_time": 1728408415,
+      "download_url": "https://dl.smwcentral.net/38613/Big%20Boss%20Clear.zip",
+      "filename": "Big Boss Clear.zip",
+      "size": 31319,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38612,
+      "title": "Super Mario World 2: Yoshi's Island - Big Boss",
+      "version": "smwc-38612-1728408398",
+      "upstream_time": 1728408398,
+      "download_url": "https://dl.smwcentral.net/38612/Big%20Boss.zip",
+      "filename": "Big Boss.zip",
+      "size": 137892,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38611,
+      "title": "Super Mario World 2: Yoshi's Island - Room Before Boss",
+      "version": "smwc-38611-1728408371",
+      "upstream_time": 1728408371,
+      "download_url": "https://dl.smwcentral.net/38611/In%20Front%20of%20the%20Boss%27%20Room.zip",
+      "filename": "In Front of the Boss%27 Room.zip",
+      "size": 31049,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38610,
+      "title": "Super Mario World 2: Yoshi's Island - Game Over",
+      "version": "smwc-38610-1728407905",
+      "upstream_time": 1728407905,
+      "download_url": "https://dl.smwcentral.net/38610/Game%20Over.zip",
+      "filename": "Game Over.zip",
+      "size": 31633,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38609,
+      "title": "Super Mario World 2: Yoshi's Island - Player Down",
+      "version": "smwc-38609-1728407891",
+      "upstream_time": 1728407891,
+      "download_url": "https://dl.smwcentral.net/38609/Player%20Down.zip",
+      "filename": "Player Down.zip",
+      "size": 32073,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38608,
+      "title": "Super Mario World 2: Yoshi's Island - Overworld",
+      "version": "smwc-38608-1728407871",
+      "upstream_time": 1728407871,
+      "download_url": "https://dl.smwcentral.net/38608/Overworld.zip",
+      "filename": "Overworld.zip",
+      "size": 32470,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38607,
+      "title": "Super Mario World 2: Yoshi's Island - Athletic",
+      "version": "smwc-38607-1728407854",
+      "upstream_time": 1728407854,
+      "download_url": "https://dl.smwcentral.net/38607/Athletic.zip",
+      "filename": "Athletic.zip",
+      "size": 69336,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38606,
+      "title": "Super Mario World 2: Yoshi's Island - Mini-Boss",
+      "version": "smwc-38606-1728407827",
+      "upstream_time": 1728407827,
+      "download_url": "https://dl.smwcentral.net/38606/Mid-Boss.zip",
+      "filename": "Mid-Boss.zip",
+      "size": 68024,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38605,
+      "title": "Super Mario World 2: Yoshi's Island - Kamek's Theme",
+      "version": "smwc-38605-1728407308",
+      "upstream_time": 1728407308,
+      "download_url": "https://dl.smwcentral.net/38605/Kamek.zip",
+      "filename": "Kamek.zip",
+      "size": 64665,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38604,
+      "title": "Super Mario World 2: Yoshi's Island - Castle & Fortress",
+      "version": "smwc-38604-1728407277",
+      "upstream_time": 1728407277,
+      "download_url": "https://dl.smwcentral.net/38604/Castle%20%26%20Fortress.zip",
+      "filename": "Castle %26 Fortress.zip",
+      "size": 32707,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38603,
+      "title": "Super Mario World 2: Yoshi's Island - Underground",
+      "version": "smwc-38603-1728407257",
+      "upstream_time": 1728407257,
+      "download_url": "https://dl.smwcentral.net/38603/Underground.zip",
+      "filename": "Underground.zip",
+      "size": 32986,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38602,
+      "title": "Super Mario World 2: Yoshi's Island - Score",
+      "version": "smwc-38602-1728407157",
+      "upstream_time": 1728407157,
+      "download_url": "https://dl.smwcentral.net/38602/Score.zip",
+      "filename": "Score.zip",
+      "size": 66769,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38601,
+      "title": "Super Mario World 2: Yoshi's Island - Goal",
+      "version": "smwc-38601-1728407145",
+      "upstream_time": 1728407145,
+      "download_url": "https://dl.smwcentral.net/38601/Goal.zip",
+      "filename": "Goal.zip",
+      "size": 30986,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38600,
+      "title": "Super Mario World 2: Yoshi's Island - Flower Garden",
+      "version": "smwc-38600-1728406621",
+      "upstream_time": 1728406621,
+      "download_url": "https://dl.smwcentral.net/38600/Flower%20Garden.zip",
+      "filename": "Flower Garden.zip",
+      "size": 69952,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38599,
+      "title": "Super Mario World 2: Yoshi's Island - Game Start",
+      "version": "smwc-38599-1728406605",
+      "upstream_time": 1728406605,
+      "download_url": "https://dl.smwcentral.net/38599/Game%20Start.zip",
+      "filename": "Game Start.zip",
+      "size": 30724,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38598,
+      "title": "Super Mario World 2: Yoshi's Island - Training Course",
+      "version": "smwc-38598-1728406585",
+      "upstream_time": 1728406585,
+      "download_url": "https://dl.smwcentral.net/38598/Practice%20Course.zip",
+      "filename": "Practice Course.zip",
+      "size": 31204,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38597,
+      "title": "Super Mario World 2: Yoshi's Island - Yoshi Start Demo",
+      "version": "smwc-38597-1728406545",
+      "upstream_time": 1728406545,
+      "download_url": "https://dl.smwcentral.net/38597/Yoshi%27s%20Start%20Demo.zip",
+      "filename": "Yoshi%27s Start Demo.zip",
+      "size": 32050,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38596,
+      "title": "Super Mario World 2: Yoshi's Island - Yoshi's Island",
+      "version": "smwc-38596-1728406502",
+      "upstream_time": 1728406502,
+      "download_url": "https://dl.smwcentral.net/38596/Yoshi%27s%20Island.zip",
+      "filename": "Yoshi%27s Island.zip",
+      "size": 32766,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35381,
+      "title": "Super Mario World 2: Yoshi's Island - Waltz Of The Magikoopa 🎃 ~ Castle & Fortress (Halloween Special Remix)",
+      "version": "smwc-35381-1699225175",
+      "upstream_time": 1699225175,
+      "download_url": "https://dl.smwcentral.net/35381/Waltz%20Of%20The%20Magikoopa.zip",
+      "filename": "Waltz Of The Magikoopa.zip",
+      "size": 398565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34518,
+      "title": "Super Mario World 2: Yoshi's Island - Flower Garden (Bowser Strikes Back Remix)",
+      "version": "smwc-34518-1690701656",
+      "upstream_time": 1690701656,
+      "download_url": "https://dl.smwcentral.net/34518/data.zip",
+      "filename": "data.zip",
+      "size": 44354,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33018,
+      "title": "Super Mario World 2: Yoshi's Island - Flower Garden",
+      "version": "smwc-33018-1680558170",
+      "upstream_time": 1680558170,
+      "download_url": "https://dl.smwcentral.net/33018/yi%20flower%20garden2.zip",
+      "filename": "yi flower garden2.zip",
+      "size": 35608,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23137,
+      "title": "Super Mario World 2: Yoshi's Island - Mini-Boss",
+      "version": "smwc-23137-1590735419",
+      "upstream_time": 1590735419,
+      "download_url": "https://dl.smwcentral.net/23137/yimidbos.zip",
+      "filename": "yimidbos.zip",
+      "size": 31503,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20485,
+      "title": "Super Mario World 2: Yoshi's Island Soundtrack",
+      "version": "smwc-20485-1572575684",
+      "upstream_time": 1572575684,
+      "download_url": "https://dl.smwcentral.net/20485/Yoshi%27s%20Island%20Soundtrack.zip",
+      "filename": "Yoshi%27s Island Soundtrack.zip",
+      "size": 6280886,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15598,
+      "title": "Super Mario World 2: Yoshi's Island - Fortress Boss",
+      "version": "smwc-15598-1496262170",
+      "upstream_time": 1496262170,
+      "download_url": "https://dl.smwcentral.net/15598/Yoshi%27s%20Island%20-%20Fortress%20Boss.zip",
+      "filename": "Yoshi%27s Island - Fortress Boss.zip",
+      "size": 32648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13345,
+      "title": "Super Mario World 2: Yoshi's Island - Latin Island (Athletic cover)",
+      "version": "smwc-13345-1456673791",
+      "upstream_time": 1456673791,
+      "download_url": "https://dl.smwcentral.net/13345/Latin%20Island.zip",
+      "filename": "Latin Island.zip",
+      "size": 66869,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8101,
+      "title": "Super Mario World 2: Yoshi's Island - Flower Garden",
+      "version": "smwc-8101-1319646295",
+      "upstream_time": 1319646295,
+      "download_url": "https://dl.smwcentral.net/8101/MakeEggsThrowEggs.zip",
+      "filename": "MakeEggsThrowEggs.zip",
+      "size": 68273,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7518,
+      "title": "Super Mario World 2: Yoshi's Island - Story Dialogue Remix",
+      "version": "smwc-7518-1325401357",
+      "upstream_time": 1325401357,
+      "download_url": "https://dl.smwcentral.net/7518/CUSTOM%20-%20Story%20Dialogue%20Remix%20%28Yoshi%27s%20Island%29.zip",
+      "filename": "CUSTOM - Story Dialogue Remix (Yoshi%27s Island).zip",
+      "size": 67725,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7422,
+      "title": "Super Mario World 2: Yoshi's Island - Castle",
+      "version": "smwc-7422-1319377067",
+      "upstream_time": 1319377067,
+      "download_url": "https://dl.smwcentral.net/7422/YI-Castle.zip",
+      "filename": "YI-Castle.zip",
+      "size": 67394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7393,
+      "title": "Super Mario World 2: Yoshi's Island - Athletic",
+      "version": "smwc-7393-1317957271",
+      "upstream_time": 1317957271,
+      "download_url": "https://dl.smwcentral.net/7393/Yoshi%27s%20Island%20-%20Hop%21%20Hop%21%20Donut%20Lifts.zip",
+      "filename": "Yoshi%27s Island - Hop%21 Hop%21 Donut Lifts.zip",
+      "size": 67788,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7374,
+      "title": "Super Mario World 2: Yoshi's Island - Bonus Challenge",
+      "version": "smwc-7374-1320380601",
+      "upstream_time": 1320380601,
+      "download_url": "https://dl.smwcentral.net/7374/YI%20-%20BONUS%20CHALLENGE%21.zip",
+      "filename": "YI - BONUS CHALLENGE%21.zip",
+      "size": 72098,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7373,
+      "title": "Super Mario World 2: Yoshi's Island - World Map",
+      "version": "smwc-7373-1319647538",
+      "upstream_time": 1319647538,
+      "download_url": "https://dl.smwcentral.net/7373/SMW2-WorldMap.zip",
+      "filename": "SMW2-WorldMap.zip",
+      "size": 563585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

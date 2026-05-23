@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-buster-beetle",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3292,
+  "title": "Buster Beetle",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "beetle",
+    "buster beetle",
+    "buzzy beetle",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "throw",
+    "throw block"
+  ],
+  "description": "The Buster Beetle from Super Mario Bros. 3. It will walk (falling off ledges). It will pick up any Throw Blocks in its way and throw them at Mario in attempt to hurt him. Any attack can defeat it.<br>\r\n<br>\r\nMake sure to specify the sprite number (from list.txt) of the block (buster_block.cfg) in buster.asm! Check the ASM files for customization options.",
+  "latest_version": "smwc-3292-1208951730",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3292,
+      "title": "Buster Beetle",
+      "version": "smwc-3292-1208951730",
+      "upstream_time": 1208951730,
+      "download_url": "https://dl.smwcentral.net/3292/Buster%20Beetle.zip",
+      "filename": "Buster Beetle.zip",
+      "size": 7559,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

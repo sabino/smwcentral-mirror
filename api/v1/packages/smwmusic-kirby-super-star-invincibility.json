@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-kirby-super-star-invincibility",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40571,
+  "title": "Kirby Super Star - Invincibility",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "star"
+  ],
+  "description": "The iconic Invincibility Lolipop theme from Kirby, from how it appeared in Kirby Super Star.<br>\r\n<br>\r\nIf you are using a version of AddmusicK before 1.0.9, change the #define amkversion in the text file to 0 (Insert size will be 0x020C bytes)<br>\r\n<br>\r\nAnd there is more information in the Readme if you plan on using this as a global song.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Aaron_Grella\"><a href=\"/?p=profile&amp;id=35976\" style=\"color: var(--user-color-2);\" class=\"un\">Aaron_Grella</a></span>.",
+  "latest_version": "smwc-40571-1758124636",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40571,
+      "title": "Kirby Super Star - Invincibility",
+      "version": "smwc-40571-1758124636",
+      "upstream_time": 1758124636,
+      "download_url": "https://dl.smwcentral.net/40571/Invincibility_KSS.zip",
+      "filename": "Invincibility_KSS.zip",
+      "size": 74255,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ronaldinho-soccer",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22878,
+  "title": "Ronaldinho Soccer 64 - Title Screen",
+  "authors": [
+    "Hazel",
+    "bebn legg"
+  ],
+  "tags": [
+    "bonus",
+    "misc",
+    "title"
+  ],
+  "description": "*3D Text and sphere procedurally appear*<br>\r\n<br>\r\nThe title screen music from a Brazilian N64 pirate of some soccer game, now a meme for some reason, <s>and one that will most likely die before this even gets moderated</s>.<br>\r\n<br>\r\nUses a big chunk of ARAM because of the voice samples so it barely fits by default, but you can change more samples to optimized instead of default should you need that extra ARAM.<br>\r\n<br>\r\nHAHAHAHA",
+  "latest_version": "smwc-22878-1590096076",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22878,
+      "title": "Ronaldinho Soccer 64 - Title Screen",
+      "version": "smwc-22878-1590096076",
+      "upstream_time": 1590096076,
+      "download_url": "https://dl.smwcentral.net/22878/ronaldinho.zip",
+      "filename": "ronaldinho.zip",
+      "size": 85379,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

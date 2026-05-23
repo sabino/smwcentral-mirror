@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-dark-room-spotlight",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3378,
+  "title": "Dark Room Spotlight",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "effect",
+    "lorom",
+    "spotlight"
+  ],
+  "description": "This is a disassembly of sprite C6 in SMW, the dark room spotlight.",
+  "latest_version": "smwc-3378-1280246730",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3378,
+      "title": "Dark Room Spotlight",
+      "version": "smwc-3378-1280246730",
+      "upstream_time": 1280246730,
+      "download_url": "https://dl.smwcentral.net/3378/SMWSDIS%20-%20sprite%20C6%20-%20spotlight.zip",
+      "filename": "SMWSDIS - sprite C6 - spotlight.zip",
+      "size": 2880,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

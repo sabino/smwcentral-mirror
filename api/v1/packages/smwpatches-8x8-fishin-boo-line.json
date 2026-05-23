@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-8x8-fishin-boo-line",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 39883,
+  "title": "8x8 Fishin' Boo Line",
+  "authors": [
+    "ASMagician Maks"
+  ],
+  "tags": [
+    "lorom",
+    "oam",
+    "sa-1",
+    "tile"
+  ],
+  "description": "This patch makes the line of Fishin' Boo's fishing rod be drawn using 6 8x8 tiles instead of 3 16x16 tiles.<br>\r\n<br>\r\nRequires No More Sprite Tile Limits patch or SA-1 Pack to display properly in levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"AmperSam\"><a href=\"/?p=profile&amp;id=41223\" style=\"color: #ee0066;\" class=\"un\">AmperSam</a></span>.",
+  "latest_version": "smwc-39883-1755558077",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 39883,
+      "title": "8x8 Fishin' Boo Line",
+      "version": "smwc-39883-1755558077",
+      "upstream_time": 1755558077,
+      "download_url": "https://dl.smwcentral.net/39883/8x8fishinbooline.zip",
+      "filename": "8x8fishinbooline.zip",
+      "size": 1427,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

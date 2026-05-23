@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-all-levels-message-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 22823,
+  "title": "All-Levels Message Block",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "Custom message/info blocks are usually limited to a specific level, or a few levels if you make use of buttons pressed or something similar. This block on the other hand can load messages 1 and 2 from any main level (OW-enterable) in the game. Like the vanilla info box sprite, the block determines whether it displays message 1 or 2 depending on its X position.<br>\r\n<br>\r\nThe catch? The block gets the translevel value from the low byte of its map16 value. This means to make use of every level message, you'll need to reserve a range of xx00-xx5F (ideally the same page) of your map16 for the block. You can make use of GPS's range feature in the list.txt to quickly insert the block into the necessary map16 values. That's still a lot of saved hassle compared to copying and editing asm files for each level you want to fetch messages from!<br>\r\n<br>\r\nSee the included readme for usage notes and explanation of the translevel format.<br>\r\n<br>\r\nUses 1 byte of freeram and includes a small UberASM to preserve the original translevel number of the levels the block is used in.<br>\r\n<br>\r\nIncludes \"ExGFX\" which is the vanilla info box graphic, and a palette file which slightly modifies palette row 7.<br>\r\n<br>\r\nCredit is unnecessary but appreciated.",
+  "latest_version": "smwc-22823-1592804158",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 22823,
+      "title": "All-Levels Message Block",
+      "version": "smwc-22823-1592804158",
+      "upstream_time": 1592804158,
+      "download_url": "https://dl.smwcentral.net/22823/Info%20Block.zip",
+      "filename": "Info Block.zip",
+      "size": 3123,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

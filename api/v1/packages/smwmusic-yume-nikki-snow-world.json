@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-yume-nikki-snow-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20009,
+  "title": "Yume Nikki - Snow World",
+  "authors": [
+    "Tob"
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "snow",
+    "space"
+  ],
+  "description": "The short and calm theme from Yume Nikki's Snow World aka Snow Valley. Would work well on, who guessed it, snow themed Overworlds. Although maybe this would work for Space Overworlds too.<br>\r\nSpecial thanks to LHB and Pinci for helping me out with this port.",
+  "latest_version": "smwc-20009-1558491430",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20009,
+      "title": "Yume Nikki - Snow World",
+      "version": "smwc-20009-1558491430",
+      "upstream_time": 1558491430,
+      "download_url": "https://dl.smwcentral.net/20009/snow_world.zip",
+      "filename": "snow_world.zip",
+      "size": 20773,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cave-of-doom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7283,
+  "title": "Cave of Doom",
+  "authors": [
+    "gpetry"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "final"
+  ],
+  "description": "Cave song I made. Fits scary caves and castles.",
+  "latest_version": "smwc-7283-1319739115",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7283,
+      "title": "Cave of Doom",
+      "version": "smwc-7283-1319739115",
+      "upstream_time": 1319739115,
+      "download_url": "https://dl.smwcentral.net/7283/Cave%20of%20Doom%20-%20Custom%20by%20Gpetry.zip",
+      "filename": "Cave of Doom - Custom by Gpetry.zip",
+      "size": 72950,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

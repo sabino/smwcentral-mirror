@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-ruby-sapphire-emerald-battle-wild-pok-mon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27860,
+  "title": "Pokémon Ruby/Sapphire/Emerald - Battle! Wild Pokémon",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "The iconic theme from Pokémon RSE that plays when you encounter a wild Pokémon!<br>\r\n<br>\r\nCan fit in tense areas or boss battles.<br>\r\n<br>\r\nEdit: Updated to use GAIN remote commands instead of ADSR ones because it wasn't being processed in game.",
+  "latest_version": "smwc-27860-1630334421",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27860,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Battle! Wild Pokémon",
+      "version": "smwc-27860-1630334421",
+      "upstream_time": 1630334421,
+      "download_url": "https://dl.smwcentral.net/27860/Pokemon%20RSE%20-%20Wild%20Pokemon%20Encounter%21.zip",
+      "filename": "Pokemon RSE - Wild Pokemon Encounter%21.zip",
+      "size": 32394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

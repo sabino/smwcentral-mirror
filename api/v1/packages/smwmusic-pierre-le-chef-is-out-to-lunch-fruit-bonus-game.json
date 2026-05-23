@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pierre-le-chef-is-out-to-lunch-fruit-bonus-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36695,
+  "title": "Pierre Le Chef is... Out to Lunch - Fruit Bonus Game",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus",
+    "carnival"
+  ],
+  "description": "Part of the Pierre Le Chef is... Out to Lunch soundtrack.",
+  "latest_version": "smwc-36695-1706027199",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36695,
+      "title": "Pierre Le Chef is... Out to Lunch - Fruit Bonus Game",
+      "version": "smwc-36695-1706027199",
+      "upstream_time": 1706027199,
+      "download_url": "https://dl.smwcentral.net/36695/Fruit%20Bonus%20Game.zip",
+      "filename": "Fruit Bonus Game.zip",
+      "size": 31772,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

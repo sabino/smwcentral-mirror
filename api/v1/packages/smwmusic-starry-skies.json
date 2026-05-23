@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-starry-skies",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10492,
+  "title": "Starry Skies",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "night",
+    "sky"
+  ],
+  "description": "A custom song i wrote while i was inspired by Stickerbush Symphony. Could fit nighttime or sky levels. Please give credit when used.",
+  "latest_version": "smwc-10492-1421035319",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10492,
+      "title": "Starry Skies",
+      "version": "smwc-10492-1421035319",
+      "upstream_time": 1421035319,
+      "download_url": "https://dl.smwcentral.net/10492/starry%20skies.zip",
+      "filename": "starry skies.zip",
+      "size": 47409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

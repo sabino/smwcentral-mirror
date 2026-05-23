@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-spelunker-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23152,
+  "title": "Spelunker - Level 1",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "cave",
+    "grassland",
+    "retro"
+  ],
+  "description": "Part of Tornado's 8-bit music pack. A cheery song that can fit in more upbeat caves and grasslands.",
+  "latest_version": "smwc-23152-1590786334",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23152,
+      "title": "Spelunker - Level 1",
+      "version": "smwc-23152-1590786334",
+      "upstream_time": 1590786334,
+      "download_url": "https://dl.smwcentral.net/23152/Spelunker-Level1.zip",
+      "filename": "Spelunker-Level1.zip",
+      "size": 48831,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

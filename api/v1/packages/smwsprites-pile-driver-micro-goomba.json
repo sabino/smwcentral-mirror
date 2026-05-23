@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pile-driver-micro-goomba",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16217,
+  "title": "Pile Driver Micro Goomba",
+  "authors": [
+    "edit1754",
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is that jumping block from a few levels in Super Mario Bros. 3.  The sprite was originally made by edit1754, but I updated it to use with PIXI.",
+  "latest_version": "smwc-16217-1505500612",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16217,
+      "title": "Pile Driver Micro Goomba",
+      "version": "smwc-16217-1505500612",
+      "upstream_time": 1505500612,
+      "download_url": "https://dl.smwcentral.net/16217/Pile%20Driver%20Micro%20Goomba.zip",
+      "filename": "Pile Driver Micro Goomba.zip",
+      "size": 4057,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-passcode-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 13642,
+  "title": "Passcode blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "passcode",
+    "password"
+  ],
+  "description": "Unlike everybody else, this passcode depends on lunar magic exanimation's manuel trigger to show to the player the inputted passcode. It contains 4 number blocks, 4 up/down controller blocks, and a door. See readme for details.<br>\r\n<br>\r\n<b><span style=\"color: #ffff00;\">NEW FEATURE:</span></b> A randomized password. Great for those don't want their password to be shared by other players (let's play and walkthrough). This requires uberasm though and the \"Better Random Number Generator\" (not mandatory, but highly recommended) patch.",
+  "latest_version": "smwc-13642-1463710301",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 13642,
+      "title": "Passcode blocks",
+      "version": "smwc-13642-1463710301",
+      "upstream_time": 1463710301,
+      "download_url": "https://dl.smwcentral.net/13642/Passcode.zip",
+      "filename": "Passcode.zip",
+      "size": 12879,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

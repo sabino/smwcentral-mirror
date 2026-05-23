@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-super-mario-maker-keys-pink-coin",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13946,
+  "title": "Super Mario Maker - Keys & Pink Coin",
+  "authors": [
+    "lx5"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "key",
+    "lorom",
+    "needs remoderation",
+    "pink coin",
+    "super mario maker"
+  ],
+  "description": "This pack installs some ASM hacks to allow Mario to have keys following him, as well a pink coin that gives Mario a key.<br>\r\n<br>\r\nBe sure to read the included readme!<br>\r\n<br>\r\nVideo in action: <a href=\"https://www.youtube.com/watch?v=yyuuZYVF5n4\" rel=\"nofollow\">https://www.youtube.com/watch?v=yyuuZYVF5n4</a><br>\r\n<br>\r\nNote: This resource has partial SA-1 support; blocks and sprites included in this patch aren't SA-1 compatible and the default freeRAM in the patch may cause crashes on SA-1 ROMs.",
+  "latest_version": "smwc-13946-1468193578",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13946,
+      "title": "Super Mario Maker - Keys & Pink Coin",
+      "version": "smwc-13946-1468193578",
+      "upstream_time": 1468193578,
+      "download_url": "https://dl.smwcentral.net/13946/smm_keys.zip",
+      "filename": "smm_keys.zip",
+      "size": 14068,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

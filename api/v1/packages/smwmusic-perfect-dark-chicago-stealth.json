@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-perfect-dark-chicago-stealth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40043,
+  "title": "Perfect Dark - Chicago Stealth",
+  "authors": [
+    "MarkVD100"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "dark",
+    "ghost house",
+    "night",
+    "spooky"
+  ],
+  "description": "A calming ambient dark theme that plays in the fifth level in Perfect Dark, located in Chicago's Chinatown. Fitting for dark places or ghost house levels.",
+  "latest_version": "smwc-40043-1753938927",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40043,
+      "title": "Perfect Dark - Chicago Stealth",
+      "version": "smwc-40043-1753938927",
+      "upstream_time": 1753938927,
+      "download_url": "https://dl.smwcentral.net/40043/Perfect%20Dark%20-%20Chicago%20Stealth.zip",
+      "filename": "Perfect Dark - Chicago Stealth.zip",
+      "size": 33993,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7065,
+      "title": "Perfect Dark - Chicago Stealth",
+      "version": "smwc-7065-1311930706",
+      "upstream_time": 1311930706,
+      "download_url": "https://dl.smwcentral.net/7065/Perfect%20Dark%20-%20Chicago%20Stealth.zip",
+      "filename": "Perfect Dark - Chicago Stealth.zip",
+      "size": 67013,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

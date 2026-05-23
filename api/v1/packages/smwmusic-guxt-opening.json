@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-guxt-opening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23792,
+  "title": "Guxt - Opening",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "overworld",
+    "space"
+  ],
+  "description": "Guxt opening arrangement for Smw, looks good on space maps",
+  "latest_version": "smwc-23792-1596248679",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23792,
+      "title": "Guxt - Opening",
+      "version": "smwc-23792-1596248679",
+      "upstream_time": 1596248679,
+      "download_url": "https://dl.smwcentral.net/23792/Opening.zip",
+      "filename": "Opening.zip",
+      "size": 43838,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-cherrygrove-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24307,
+  "title": "Pokémon Gold/Silver/Crystal - Cherrygrove City",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "retro",
+    "town",
+    "urban"
+  ],
+  "description": "A cute village theme, suitable for most overworlds and quiet levels, such as the Yoshi's house.<br>\r\n<br>\r\nSong is very shot, I can't believe it wasn't covered until now :)",
+  "latest_version": "smwc-24307-1599030004",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24307,
+      "title": "Pokémon Gold/Silver/Crystal - Cherrygrove City",
+      "version": "smwc-24307-1599030004",
+      "upstream_time": 1599030004,
+      "download_url": "https://dl.smwcentral.net/24307/gsc_cherrygrove_0_1.zip",
+      "filename": "gsc_cherrygrove_0_1.zip",
+      "size": 31542,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

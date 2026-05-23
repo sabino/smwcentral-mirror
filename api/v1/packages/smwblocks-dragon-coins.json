@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-dragon-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 28965,
+  "title": "Dragon Coins",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "dragon coin",
+    "lorom",
+    "map16",
+    "on-off",
+    "sa-1",
+    "solid"
+  ],
+  "description": "A block which is a recreation of SMW's own Dragon Coins. It can be customised to spawn different blocks, only be collected under certain conditions (such as by a switch) and acts like different Map16 tile otherwise as well as coming with three different sizes.<br>\r\n<br>\r\nRead the readme for more information.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Francium\"><a href=\"/?p=profile&amp;id=51240\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Francium</a></span>",
+  "latest_version": "smwc-28965-1662491673",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 28965,
+      "title": "Dragon Coins",
+      "version": "smwc-28965-1662491673",
+      "upstream_time": 1662491673,
+      "download_url": "https://dl.smwcentral.net/28965/DragonCoins.zip",
+      "filename": "DragonCoins.zip",
+      "size": 20507,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

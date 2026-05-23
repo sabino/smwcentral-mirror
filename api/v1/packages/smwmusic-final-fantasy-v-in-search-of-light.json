@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-v-in-search-of-light",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33433,
+  "title": "Final Fantasy V - In Search of Light",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "castle",
+    "crystal",
+    "final"
+  ],
+  "description": "The true final dungeon theme of Final Fantasy 5.<br>\r\nYou can get the best sword at here. <br>\r\n",
+  "latest_version": "smwc-33433-1688193420",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33433,
+      "title": "Final Fantasy V - In Search of Light",
+      "version": "smwc-33433-1688193420",
+      "upstream_time": 1688193420,
+      "download_url": "https://dl.smwcentral.net/33433/FF5%20-%20Searching%20the%20Light.zip",
+      "filename": "FF5 - Searching the Light.zip",
+      "size": 62765,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

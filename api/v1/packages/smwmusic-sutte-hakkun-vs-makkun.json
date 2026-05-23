@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sutte-hakkun-vs-makkun",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22734,
+  "title": "Sutte Hakkun - Vs. Makkun",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "boss",
+    "star",
+    "title"
+  ],
+  "description": "A cute little song that plays while you race the purple Makkun's in Sutte Hakkun. Good for invincibility music, short boss fights or title screens",
+  "latest_version": "smwc-22734-1588299089",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22734,
+      "title": "Sutte Hakkun - Vs. Makkun",
+      "version": "smwc-22734-1588299089",
+      "upstream_time": 1588299089,
+      "download_url": "https://dl.smwcentral.net/22734/Sutte%20Hakkun%20-%20Vs.%20Makkun.zip",
+      "filename": "Sutte Hakkun - Vs. Makkun.zip",
+      "size": 37460,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22294,
+      "title": "Sutte Hakkun - Vs. Makkun",
+      "version": "smwc-22294-1583975610",
+      "upstream_time": 1583975610,
+      "download_url": "https://dl.smwcentral.net/22294/Sutte%20Hakkun%20-%20Vs.%20Makkun.zip",
+      "filename": "Sutte Hakkun - Vs. Makkun.zip",
+      "size": 32647,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

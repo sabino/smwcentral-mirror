@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-bamboo-forest",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 5794,
+  "title": "Bamboo Forest",
+  "authors": [
+    "sunwarrior25"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "needs remoderation",
+    "wood"
+  ],
+  "description": "A tileset that can be taken as either simple or complex.<br>\r\n<br>\r\nMakes use of Super Mario World's grassland palette. The included Map16 tiles pull from FG3. Feel free to Remap as necessary.",
+  "latest_version": "smwc-5794-1378495234",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 5794,
+      "title": "Bamboo Forest",
+      "version": "smwc-5794-1378495234",
+      "upstream_time": 1378495234,
+      "download_url": "https://dl.smwcentral.net/5794/Bamboo.zip",
+      "filename": "Bamboo.zip",
+      "size": 3116,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2636,
+      "title": "Bamboo Forest",
+      "version": "smwc-2636-1414860563",
+      "upstream_time": 1414860563,
+      "download_url": "https://dl.smwcentral.net/2636/%5BFG%5D%20Bamboo%20Froest.zip",
+      "filename": "%5BFG%5D Bamboo Froest.zip",
+      "size": 4719,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

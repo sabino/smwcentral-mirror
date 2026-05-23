@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-gijinka-hammer-bro",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20893,
+  "title": "Gijinka Hammer Bro",
+  "authors": [
+    "Eminus"
+  ],
+  "tags": [
+    "hammer bro",
+    "needs remoderation"
+  ],
+  "description": "Requested by GreenHammerBro.<br>\r\nA gijinka Hammer Bro. If you don't know what gijinka means, it's when a non-human character gets turned into one<br>\r\n<br>\r\nThis updated submission is meant to be used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16730\">Sonikku's Hammer Bro sprite</a>. <span style=\"color: #ffff00;\"><b>The files you'll find there are already included in this submission!!!</b></span> I'm linking his work to give proper credit and so you know where to find extra info.<br>\r\n<br>\r\n<br>\r\nI needed to include the sprite's files here because I had to edit the sprite's tilemap and the \"held\" position of the hammer (in HammerBro.asm) as well as the palette to green (in HammerBro.cfg & .json). Aside from the .bin file, the rest of the files Sonikku provides are unmodified but they're still included here for convenience. Gloomy told me all this was justified and okay to do<br>\r\n<br>\r\nNote: if you look at the GFX file, you'll notice there seems to be some regular bro tiles still. These belong to the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16695\">Fire Bro</a>, another sprite by Sonikku which uses these tiles only. These custom sprite graphics were included in the Hammer Bro's original .bin file. If you're new, know that you can just copy/paste my graphics into your own exGFX file, just make sure they're laid out the same! That is what we call \"tileset mixing\" my friend",
+  "latest_version": "smwc-20893-1568210677",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20893,
+      "title": "Gijinka Hammer Bro",
+      "version": "smwc-20893-1568210677",
+      "upstream_time": 1568210677,
+      "download_url": "https://dl.smwcentral.net/20893/Gijinka_Hammer_Bro.zip",
+      "filename": "Gijinka_Hammer_Bro.zip",
+      "size": 8207,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

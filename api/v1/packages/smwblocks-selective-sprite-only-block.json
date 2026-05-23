@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-selective-sprite-only-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 36813,
+  "title": "Selective Sprite Only Block",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "customizable",
+    "lorom",
+    "passthrough",
+    "sa-1",
+    "solid",
+    "sprite",
+    "sprite contact"
+  ],
+  "description": "A \"sprite only\" block that you can customize. Enable or disable a sprite's interaction by setting its corresponding bit in the tables.<br>\r\nOne table for vanilla sprites, one table for custom sprites -- 32 bytes each.<br>\r\n<br>\r\nThere's also defines to customize other aspects of the block -- whether it interacts with stunned sprites, Mario, fireballs and cape -- as well to change the \"act like\" setting for when a sprite (or anything else) doesn't interact with the block.<br>\r\n<br>\r\nAll relevant information is included within the asm file -- including about how to use and which sprites are enabled or disabled by default.<br>\r\n<br>\r\nOh, and it's compatible with both LoROM and sa1.<br>\r\n<br>\r\nHave fun!",
+  "latest_version": "smwc-36813-1727212951",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 36813,
+      "title": "Selective Sprite Only Block",
+      "version": "smwc-36813-1727212951",
+      "upstream_time": 1727212951,
+      "download_url": "https://dl.smwcentral.net/36813/selective_spriteonly_block.zip",
+      "filename": "selective_spriteonly_block.zip",
+      "size": 1816,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

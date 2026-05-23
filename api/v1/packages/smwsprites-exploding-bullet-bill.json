@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-exploding-bullet-bill",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3419,
+  "title": "Exploding Bullet Bill",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "bullet bill",
+    "enemy",
+    "exploding",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Bullet Bill that, when touching walls, explodes. If it doesn't touch walls for a while, it will explode. If the extra bit is set, it goes faster. Time before exploding, as well as speed is configurable via ASM file.<br>\r\nMade on the request of Majora252.",
+  "latest_version": "smwc-3419-1249257126",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3419,
+      "title": "Exploding Bullet Bill",
+      "version": "smwc-3419-1249257126",
+      "upstream_time": 1249257126,
+      "download_url": "https://dl.smwcentral.net/3419/ExplodingBullet.zip",
+      "filename": "ExplodingBullet.zip",
+      "size": 1560,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-world-game-over-coltrane",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20797,
+  "title": "Super Mario World - Game Over (Coltrane Version)",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "game over"
+  ],
+  "description": "Rate 5/5 stars or you'll never be able to play the Coltrane Changes ever again.",
+  "latest_version": "smwc-20797-1564717351",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20797,
+      "title": "Super Mario World - Game Over (Coltrane Version)",
+      "version": "smwc-20797-1564717351",
+      "upstream_time": 1564717351,
+      "download_url": "https://dl.smwcentral.net/20797/Super%20Mario%20World%20-%20Game%20Over%20%28RU%20Version%29.zip",
+      "filename": "Super Mario World - Game Over (RU Version).zip",
+      "size": 30326,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

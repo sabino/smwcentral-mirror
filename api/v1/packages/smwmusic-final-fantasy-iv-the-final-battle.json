@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-final-fantasy-iv-the-final-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29952,
+  "title": "Final Fantasy IV - The Final Battle",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Epic and dark boss theme from FF4, good for final bosses/areas.",
+  "latest_version": "smwc-29952-1651386781",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29952,
+      "title": "Final Fantasy IV - The Final Battle",
+      "version": "smwc-29952-1651386781",
+      "upstream_time": 1651386781,
+      "download_url": "https://dl.smwcentral.net/29952/Final%20Fantasy%20IV%20-%20The%20Final%20Battle.zip",
+      "filename": "Final Fantasy IV - The Final Battle.zip",
+      "size": 70857,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11552,
+      "title": "Final Fantasy IV - The Final Battle",
+      "version": "smwc-11552-1437618192",
+      "upstream_time": 1437618192,
+      "download_url": "https://dl.smwcentral.net/11552/ff4%20Final%20Battle.zip",
+      "filename": "ff4 Final Battle.zip",
+      "size": 33902,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shadowrun-snes-morgue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40796,
+  "title": "Shadowrun (SNES) - Morgue",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "industrial",
+    "urban"
+  ],
+  "description": "Don't get caught hacking into the Matrix.",
+  "latest_version": "smwc-40796-1763407202",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40796,
+      "title": "Shadowrun (SNES) - Morgue",
+      "version": "smwc-40796-1763407202",
+      "upstream_time": 1763407202,
+      "download_url": "https://dl.smwcentral.net/40796/Morgue.zip",
+      "filename": "Morgue.zip",
+      "size": 65342,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

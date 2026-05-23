@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-asterix-obelix-the-lake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34746,
+  "title": "Asterix & Obelix - The Lake",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "temple"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nGood for desert or pyramid.",
+  "latest_version": "smwc-34746-1691404588",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34746,
+      "title": "Asterix & Obelix - The Lake",
+      "version": "smwc-34746-1691404588",
+      "upstream_time": 1691404588,
+      "download_url": "https://dl.smwcentral.net/34746/Asterix%20and%20Obelix%20-%2014%20The%20Lake.zip",
+      "filename": "Asterix and Obelix - 14 The Lake.zip",
+      "size": 81719,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

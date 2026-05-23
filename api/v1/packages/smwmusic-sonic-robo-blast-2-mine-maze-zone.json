@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sonic-robo-blast-2-mine-maze-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37031,
+  "title": "Sonic Robo Blast 2 - Mine Maze Zone 1 (Arrangement)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark"
+  ],
+  "description": "Could fit on mine maze levels.",
+  "latest_version": "smwc-37031-1711416615",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37031,
+      "title": "Sonic Robo Blast 2 - Mine Maze Zone 1 (Arrangement)",
+      "version": "smwc-37031-1711416615",
+      "upstream_time": 1711416615,
+      "download_url": "https://dl.smwcentral.net/37031/mmz1_arrangement.zip",
+      "filename": "mmz1_arrangement.zip",
+      "size": 33095,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37019,
+      "title": "Sonic Robo Blast 2 - Mine Maze Zone 2 (Arrangement)",
+      "version": "smwc-37019-1710479595",
+      "upstream_time": 1710479595,
+      "download_url": "https://dl.smwcentral.net/37019/mmz2%20arrangement.zip",
+      "filename": "mmz2 arrangement.zip",
+      "size": 32261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

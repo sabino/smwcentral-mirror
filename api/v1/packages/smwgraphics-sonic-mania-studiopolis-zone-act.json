@@ -1,0 +1,47 @@
+{
+  "name": "smwgraphics-sonic-mania-studiopolis-zone-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 37409,
+  "title": "Sonic Mania - Studiopolis Zone (Act 1)",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "2bpp",
+    "carnival",
+    "city",
+    "needs remoderation",
+    "night",
+    "patch needed"
+  ],
+  "description": "This was released at Winter C3 2024. This is a remake of the Sonic Mania - Studiopolis Zone - Act 1 BG. Design is mostly original. Layer 3 was quite hard to adapt to SMW, but did it. FG2 shouldn't be a problem since it doesn't overwrite SMW tiles used for FG.<br>\r\nFor layer 3, it's wise to use either a sprite status bar or the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18862\">Remove Status Bar </a>patch. This might also fit a casino.",
+  "latest_version": "smwc-37409-1710003437",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 37409,
+      "title": "Sonic Mania - Studiopolis Zone (Act 1)",
+      "version": "smwc-37409-1710003437",
+      "upstream_time": 1710003437,
+      "download_url": "https://dl.smwcentral.net/37409/Sonic%20Mania%20-%20Studiopolis%20Zone%20Remake%20-%20Act%201.zip",
+      "filename": "Sonic Mania - Studiopolis Zone Remake - Act 1.zip",
+      "size": 16589,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 16916,
+      "title": "Sonic Mania - Studiopolis Zone (Act 1)",
+      "version": "smwc-16916-1516850282",
+      "upstream_time": 1516850282,
+      "download_url": "https://dl.smwcentral.net/16916/Studiopolis.zip",
+      "filename": "Studiopolis.zip",
+      "size": 9452,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

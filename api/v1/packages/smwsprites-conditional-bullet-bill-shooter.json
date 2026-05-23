@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-conditional-bullet-bill-shooter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26729,
+  "title": "Conditional Bullet Bill Shooter",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "bullet",
+    "bullet bill",
+    "lorom",
+    "sa-1",
+    "shooter"
+  ],
+  "description": "A bullet bill shooter that will only shoot depending on a flag, such as the ON/OFF switch, the P-switch, etc. The extra bit determines if it shoots when this flag is either set or clear.<br>\r\n<br>\r\nThe extra bytes also allow for setting any of the 8 directions, toggling the proximity check and setting up a shooting timer manually per shooter.",
+  "latest_version": "smwc-26729-1626798772",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26729,
+      "title": "Conditional Bullet Bill Shooter",
+      "version": "smwc-26729-1626798772",
+      "upstream_time": 1626798772,
+      "download_url": "https://dl.smwcentral.net/26729/condbulletshooter.zip",
+      "filename": "condbulletshooter.zip",
+      "size": 2888,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

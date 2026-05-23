@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-sell-powerup",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4050,
+  "title": "Sell Powerup",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "powerup",
+    "sell"
+  ],
+  "description": "You can sell your powerup with this custom block, with coins in return. Of course, the sound effects and the amount of money you gain is adjustable. Don't even think of crediting me.",
+  "latest_version": "smwc-4050-1409410398",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4050,
+      "title": "Sell Powerup",
+      "version": "smwc-4050-1409410398",
+      "upstream_time": 1409410398,
+      "download_url": "https://dl.smwcentral.net/4050/sellpower.zip",
+      "filename": "sellpower.zip",
+      "size": 593,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

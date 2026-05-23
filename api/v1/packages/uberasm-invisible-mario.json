@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-invisible-mario",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 22636,
+  "title": "Invisible Mario",
+  "authors": [
+    "edidari"
+  ],
+  "tags": [
+    "invisible",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This uberasm hides the player's graphic.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-22636-1587742781",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 22636,
+      "title": "Invisible Mario",
+      "version": "smwc-22636-1587742781",
+      "upstream_time": 1587742781,
+      "download_url": "https://dl.smwcentral.net/22636/Invisible%20Mario.zip",
+      "filename": "Invisible Mario.zip",
+      "size": 266,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

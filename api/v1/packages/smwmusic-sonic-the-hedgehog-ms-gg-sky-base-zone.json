@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-ms-gg-sky-base-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21899,
+  "title": "Sonic the Hedgehog (MS/GG) - Sky Base Zone",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "boss",
+    "cave",
+    "chase",
+    "cutscene",
+    "industrial",
+    "tense",
+    "yoshi drums"
+  ],
+  "description": "The thrilling and short-but-sweet music that plays in Sky Base Zone in the 8-bit version of Sonic 1. Great for any fast-paced areas that are that happy kind of thrilling.<br>\r\n<br>\r\nAlso, since I had the channel space, this includes a version that's Yoshi drum-compatible! Make sure to use the correct version, since the channels cut for SFX is different (although probably not noticeable either way).<br>\r\n<br>\r\nRequested by Mr Scotsman.",
+  "latest_version": "smwc-21899-1578862632",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21899,
+      "title": "Sonic the Hedgehog (MS/GG) - Sky Base Zone",
+      "version": "smwc-21899-1578862632",
+      "upstream_time": 1578862632,
+      "download_url": "https://dl.smwcentral.net/21899/sky%20base.zip",
+      "filename": "sky base.zip",
+      "size": 95385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8571,
+      "title": "Sonic the Hedgehog (MS/GG) - Sky Base Zone",
+      "version": "smwc-8571-1398076621",
+      "upstream_time": 1398076621,
+      "download_url": "https://dl.smwcentral.net/8571/Sky%20Base%20Zone.zip",
+      "filename": "Sky Base Zone.zip",
+      "size": 65590,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-flying-brown-platforms",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40031,
+  "title": "Flying Brown Platforms",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "smb1"
+  ],
+  "description": "Brown platforms that move back and forth. The extra bit determines if it moves Left/Right or Up/Down. You can control how far they go with the extra byte.<br>\r\n<br>\r\nim requesting this because i don't have the skill required to edit the in-game version and the castles in my unfinished game are based on SMB and SMB:LL castles.<br>\r\nRequested by Elie Barnes",
+  "latest_version": "smwc-40031-1764723851",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40031,
+      "title": "Flying Brown Platforms",
+      "version": "smwc-40031-1764723851",
+      "upstream_time": 1764723851,
+      "download_url": "https://dl.smwcentral.net/40031/smb1-3.zip",
+      "filename": "smb1-3.zip",
+      "size": 2461,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-boss-race",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38488,
+  "title": "Crash Team Racing - Boss Race",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "grassland"
+  ],
+  "description": "A fast paced theme that plays when racing against a boss in CTR.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38488-1726850833",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38488,
+      "title": "Crash Team Racing - Boss Race",
+      "version": "smwc-38488-1726850833",
+      "upstream_time": 1726850833,
+      "download_url": "https://dl.smwcentral.net/38488/CTR%20-%20Boss%20Race.zip",
+      "filename": "CTR - Boss Race.zip",
+      "size": 132742,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

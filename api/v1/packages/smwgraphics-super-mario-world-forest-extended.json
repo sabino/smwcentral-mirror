@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-forest-extended",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 26472,
+  "title": "Super Mario World - Forest (Extended)",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "forest",
+    "needs remoderation"
+  ],
+  "description": "An extended version of the vanilla Super Mario World forest tile set redrawn to be made compatible with default ground objects, such as slopes and ledges.<br>\r\n<br>\r\nThis can be used as a drop-in replacement for other FG3 tile sets, such as 15 in normal theme levels, etc.<br>\r\n<br>\r\nUses vanilla palettes and includes a map16 file for re-mapped forest assets: small and wide tree trunks (with branches), the overhead leaves, and grass tufts (as shown in the sample level). ",
+  "latest_version": "smwc-26472-1616004865",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 26472,
+      "title": "Super Mario World - Forest (Extended)",
+      "version": "smwc-26472-1616004865",
+      "upstream_time": 1616004865,
+      "download_url": "https://dl.smwcentral.net/26472/SMW%20Forest%20Extended.zip",
+      "filename": "SMW Forest Extended.zip",
+      "size": 4086,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

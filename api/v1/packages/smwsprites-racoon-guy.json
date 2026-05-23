@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-racoon-guy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 13896,
+  "title": "Racoon Guy",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "lorom",
+    "racoon",
+    "sa-1",
+    "shy guy"
+  ],
+  "description": "This sprite will follow the player around and jump when the player jumps.<br>\r\n<br>\r\nRequested by Roberto zampari<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-13896-1471083776",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 13896,
+      "title": "Racoon Guy",
+      "version": "smwc-13896-1471083776",
+      "upstream_time": 1471083776,
+      "download_url": "https://dl.smwcentral.net/13896/racoonguy.zip",
+      "filename": "racoonguy.zip",
+      "size": 4933,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

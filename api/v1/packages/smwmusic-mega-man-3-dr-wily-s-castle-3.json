@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-mega-man-3-dr-wily-s-castle-3",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35023,
+  "title": "Mega Man 3 - Dr. Wily's Castle 3 & 4",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "industrial",
+    "sad",
+    "tense"
+  ],
+  "description": "The very struggly sad song from Mega Man 3. I tried to be as accurate as possible to the original. It'd fit final-y levels.<br>\r\nA big thank you to Segment1Zone2 for the detailed feedback, and to musicalman for the really good NES samples.",
+  "latest_version": "smwc-35023-1701559585",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35023,
+      "title": "Mega Man 3 - Dr. Wily's Castle 3 & 4",
+      "version": "smwc-35023-1701559585",
+      "upstream_time": 1701559585,
+      "download_url": "https://dl.smwcentral.net/35023/mm3wily2.zip",
+      "filename": "mm3wily2.zip",
+      "size": 36054,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26995,
+      "title": "Mega Man 3 - Dr. Wily's Castle 3 & 4",
+      "version": "smwc-26995-1623789081",
+      "upstream_time": 1623789081,
+      "download_url": "https://dl.smwcentral.net/26995/Mega%20Man%203%20-%20Wily%20Fortress%202.zip",
+      "filename": "Mega Man 3 - Wily Fortress 2.zip",
+      "size": 65411,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 12983,
+      "title": "Mega Man 3 - Dr. Wily's Castle 3 & 4",
+      "version": "smwc-12983-1452571803",
+      "upstream_time": 1452571803,
+      "download_url": "https://dl.smwcentral.net/12983/Mega%20Man%203%20-%20Skull%20Castle%202.zip",
+      "filename": "Mega Man 3 - Skull Castle 2.zip",
+      "size": 31644,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

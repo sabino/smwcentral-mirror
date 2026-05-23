@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-final-fantasy-iii-the-djinn-s-curse",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30650,
+  "title": "Final Fantasy III - The Djinn's Curse",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "ghost house",
+    "mysterious",
+    "retro",
+    "ruins",
+    "spooky",
+    "town"
+  ],
+  "description": "(Also known as \"Jinn the Fire\")<br>\r\n<br>\r\nA weird and mysterious song for a cursed locale. Comes from Final Fantasy 3 for the NES (Japanese numbering)<br>\r\n<br>\r\nSamples: Addams Family Values by KevinM",
+  "latest_version": "smwc-30650-1651105018",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30650,
+      "title": "Final Fantasy III - The Djinn's Curse",
+      "version": "smwc-30650-1651105018",
+      "upstream_time": 1651105018,
+      "download_url": "https://dl.smwcentral.net/30650/FF3JinnTheFire.zip",
+      "filename": "FF3JinnTheFire.zip",
+      "size": 52034,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

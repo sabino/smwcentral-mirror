@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-gradius-nemesis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19687,
+  "title": "Gradius / Nemesis 2 (MSX) - Dancing Venus",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "chase",
+    "tense"
+  ],
+  "description": "\"Dancing Venus\" from Gradius / Nemesis 2 on the MSX re-arranged using Gradius 3 samples.",
+  "latest_version": "smwc-19687-1555720502",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19687,
+      "title": "Gradius / Nemesis 2 (MSX) - Dancing Venus",
+      "version": "smwc-19687-1555720502",
+      "upstream_time": 1555720502,
+      "download_url": "https://dl.smwcentral.net/19687/dancing%20venus.zip",
+      "filename": "dancing venus.zip",
+      "size": 46962,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

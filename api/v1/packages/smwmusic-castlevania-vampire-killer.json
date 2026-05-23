@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-castlevania-vampire-killer",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33091,
+  "title": "Castlevania - Vampire Killer",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "dark",
+    "fire",
+    "night",
+    "retro"
+  ],
+  "description": "Could fit a castle theme. Vampire Killer from Castlevania",
+  "latest_version": "smwc-33091-1680326211",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33091,
+      "title": "Castlevania - Vampire Killer",
+      "version": "smwc-33091-1680326211",
+      "upstream_time": 1680326211,
+      "download_url": "https://dl.smwcentral.net/33091/Castlevania%20-%20Vampire%20Killer.zip",
+      "filename": "Castlevania - Vampire Killer.zip",
+      "size": 32598,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23147,
+      "title": "Castlevania - Vampire Killer",
+      "version": "smwc-23147-1590785579",
+      "upstream_time": 1590785579,
+      "download_url": "https://dl.smwcentral.net/23147/Castlevania-VampireKiller.zip",
+      "filename": "Castlevania-VampireKiller.zip",
+      "size": 50423,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7680,
+      "title": "Castlevania - Vampire Killer",
+      "version": "smwc-7680-1319467632",
+      "upstream_time": 1319467632,
+      "download_url": "https://dl.smwcentral.net/7680/Vampire%20Killer.zip",
+      "filename": "Vampire Killer.zip",
+      "size": 66174,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-shark-dolphins",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 23996,
+  "title": "Super Mario World (Pre-release) - Shark Dolphins",
+  "authors": [
+    "ChaosComposer"
+  ],
+  "tags": [
+    "dolphin",
+    "needs remoderation"
+  ],
+  "description": "These sharks are original graphics assets from early in Super Mario World's development. These graphics allow us to see how they would have looked in game.<br>\r\n<br>\r\nThere are two files included: one is an implementation of the original sprites taken from early development, and another is a remastered version that I made that makes for a more polished animation, as the original sprite is somewhat jarring when animated.<br>\r\n<br>\r\nI include the original graphics as well because I believe there is some importance to them.<br>\r\n<br>\r\nFor use with SP4=6; no palette adjustment necessary.<br>\r\n<br>\r\nsource: https://twitter.com/IsoFrieze/status/1286736169674440705",
+  "latest_version": "smwc-23996-1595634156",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 23996,
+      "title": "Super Mario World (Pre-release) - Shark Dolphins",
+      "version": "smwc-23996-1595634156",
+      "upstream_time": 1595634156,
+      "download_url": "https://dl.smwcentral.net/23996/DolphinSharks.zip",
+      "filename": "DolphinSharks.zip",
+      "size": 4437,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-quake",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3880,
+  "title": "Quake",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "shatter",
+    "stun"
+  ],
+  "description": "This block will shake the ground, stun the player and sprites when touched. It then erases itself. It can play a configurable sound effect too.",
+  "latest_version": "smwc-3880-1409870332",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3880,
+      "title": "Quake",
+      "version": "smwc-3880-1409870332",
+      "upstream_time": 1409870332,
+      "download_url": "https://dl.smwcentral.net/3880/quake.zip",
+      "filename": "quake.zip",
+      "size": 396,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

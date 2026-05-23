@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-romancing-saga-3-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22918,
+  "title": "Romancing SaGa 3 - Battle 2",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "One of the intense battle themes from RSG3. Fits well in any of those tense fast-paced sections here and there.",
+  "latest_version": "smwc-22918-1590042738",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22918,
+      "title": "Romancing SaGa 3 - Battle 2",
+      "version": "smwc-22918-1590042738",
+      "upstream_time": 1590042738,
+      "download_url": "https://dl.smwcentral.net/22918/rsg3battle2.zip",
+      "filename": "rsg3battle2.zip",
+      "size": 34624,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20404,
+      "title": "Romancing SaGa 3 - Battle 2",
+      "version": "smwc-20404-1562470895",
+      "upstream_time": 1562470895,
+      "download_url": "https://dl.smwcentral.net/20404/RS3Boss.zip",
+      "filename": "RS3Boss.zip",
+      "size": 81115,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

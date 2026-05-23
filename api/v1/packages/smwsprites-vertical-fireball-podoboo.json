@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-vertical-fireball-podoboo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3604,
+  "title": "Vertical Fireball / Podoboo",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lava",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 33 in SMW, the vertical fireball (or Podoboo, if you prefer).  I also included an alternate version that will be upside-down when the extra bit is set.",
+  "latest_version": "smwc-3604-1277767880",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3604,
+      "title": "Vertical Fireball / Podoboo",
+      "version": "smwc-3604-1277767880",
+      "upstream_time": 1277767880,
+      "download_url": "https://dl.smwcentral.net/3604/SMWSDIS%20-%20sprite%2033%20-%20vertical%20fireball.zip",
+      "filename": "SMWSDIS - sprite 33 - vertical fireball.zip",
+      "size": 5338,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

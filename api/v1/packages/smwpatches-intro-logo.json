@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-intro-logo",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21279,
+  "title": "Intro Logo",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "lorom",
+    "nintendo presents",
+    "sa-1"
+  ],
+  "description": "Since people should stay away from d4s's HDMA kit (there are many better ways of installing HDMA into your hack), but some of them still like the intro HDMA + Nintendo logo, I made it in patch form. This patch simply makes a Nintendo logo appear at load-up, with the respective HDMA gradient. The patch is relatively customizable. No credit necessary.",
+  "latest_version": "smwc-21279-1570589850",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21279,
+      "title": "Intro Logo",
+      "version": "smwc-21279-1570589850",
+      "upstream_time": 1570589850,
+      "download_url": "https://dl.smwcentral.net/21279/Intro%20Logo.zip",
+      "filename": "Intro Logo.zip",
+      "size": 5195,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

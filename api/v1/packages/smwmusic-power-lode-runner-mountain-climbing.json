@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-power-lode-runner-mountain-climbing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35857,
+  "title": "Power Lode Runner - Mountain Climbing",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "mountain",
+    "urban"
+  ],
+  "description": "Mountain Climbing from Power Lode Runner. Good for outdoor and/or athletic levels.<br>\r\n<br>\r\nPorted for <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>'s hack, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35848\">Christmas Island 2</a>.",
+  "latest_version": "smwc-35857-1704636098",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35857,
+      "title": "Power Lode Runner - Mountain Climbing",
+      "version": "smwc-35857-1704636098",
+      "upstream_time": 1704636098,
+      "download_url": "https://dl.smwcentral.net/35857/PLR%20-%20Mountain%20Climbing.zip",
+      "filename": "PLR - Mountain Climbing.zip",
+      "size": 96408,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35856,
+      "title": "Power Lode Runner - Mountain Climbing",
+      "version": "smwc-35856-1704636580",
+      "upstream_time": 1704636580,
+      "download_url": "https://dl.smwcentral.net/35856/Power_Lode_Runner_-_Mountain_Climbing.zip",
+      "filename": "Power_Lode_Runner_-_Mountain_Climbing.zip",
+      "size": 47110,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-s-dream-land-title-screen-snes-arrange",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16976,
+  "title": "Kirby's Dream Land - Title Screen (SNES Arrange)",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "title"
+  ],
+  "description": "For title screens (what else????)<br>\r\n<span style=\"color: #80EE80;\">For overworlds too ;3</span>",
+  "latest_version": "smwc-16976-1516189733",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16976,
+      "title": "Kirby's Dream Land - Title Screen (SNES Arrange)",
+      "version": "smwc-16976-1516189733",
+      "upstream_time": 1516189733,
+      "download_url": "https://dl.smwcentral.net/16976/kdltitlescreen.zip",
+      "filename": "kdltitlescreen.zip",
+      "size": 48144,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-mad-stalker-x68000-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11973,
+  "title": "Mad Stalker (X68000) - Stage 5",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "chase",
+    "final",
+    "fire",
+    "industrial",
+    "night",
+    "space",
+    "tense"
+  ],
+  "description": "An uptempo, somewhat tense song with a rockin' bassline. Could work for castles/factories.",
+  "latest_version": "smwc-11973-1444423884",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11973,
+      "title": "Mad Stalker (X68000) - Stage 5",
+      "version": "smwc-11973-1444423884",
+      "upstream_time": 1444423884,
+      "download_url": "https://dl.smwcentral.net/11973/mss5.zip",
+      "filename": "mss5.zip",
+      "size": 80690,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

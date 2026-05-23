@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-donkey-kong-country-bonus-room-opened",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28900,
+  "title": "Donkey Kong Country - Bonus Room Opened",
+  "authors": [
+    "StackDino"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "A Donkey Kong Country sound effect that plays when a bonus entrance is opened.<br>\r\n",
+  "latest_version": "smwc-28900-1643144623",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28900,
+      "title": "Donkey Kong Country - Bonus Room Opened",
+      "version": "smwc-28900-1643144623",
+      "upstream_time": 1643144623,
+      "download_url": "https://dl.smwcentral.net/28900/dkc_bonus_room_opened_sfx.zip",
+      "filename": "dkc_bonus_room_opened_sfx.zip",
+      "size": 31278,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

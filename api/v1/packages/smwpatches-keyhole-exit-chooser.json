@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-keyhole-exit-chooser",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 37066,
+  "title": "Keyhole Exit Chooser",
+  "authors": [
+    "simon.caio"
+  ],
+  "tags": [
+    "exit",
+    "key",
+    "keyhole",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Adds a free ram flag for the keyhole in order to choose which exit to trigger.  In the screenshot, the coin counter shows which exit is currently selected (1 = normal, 2 = secret 1).",
+  "latest_version": "smwc-37066-1712508006",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 37066,
+      "title": "Keyhole Exit Chooser",
+      "version": "smwc-37066-1712508006",
+      "upstream_time": 1712508006,
+      "download_url": "https://dl.smwcentral.net/37066/KeyHoleExitChooser.zip",
+      "filename": "KeyHoleExitChooser.zip",
+      "size": 731,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

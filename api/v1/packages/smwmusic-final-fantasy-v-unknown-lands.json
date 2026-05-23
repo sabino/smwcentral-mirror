@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-final-fantasy-v-unknown-lands",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34415,
+  "title": "Final Fantasy V - Unknown Lands",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "mysterious",
+    "night",
+    "overworld",
+    "sky"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>",
+  "latest_version": "smwc-34415-1694484052",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34415,
+      "title": "Final Fantasy V - Unknown Lands",
+      "version": "smwc-34415-1694484052",
+      "upstream_time": 1694484052,
+      "download_url": "https://dl.smwcentral.net/34415/Unknown%20Lands.zip",
+      "filename": "Unknown Lands.zip",
+      "size": 72605,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21076,
+      "title": "Final Fantasy V - Unknown Lands",
+      "version": "smwc-21076-1567837945",
+      "upstream_time": 1567837945,
+      "download_url": "https://dl.smwcentral.net/21076/FFV-UnknownLands.zip",
+      "filename": "FFV-UnknownLands.zip",
+      "size": 33289,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

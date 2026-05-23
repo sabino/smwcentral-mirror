@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-donkey-kong-country-bad-boss-boogie",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10392,
+  "title": "Donkey Kong Country - Bad Boss Boogie",
+  "authors": [
+    "Slash Man"
+  ],
+  "tags": [
+    "boss",
+    "ruins"
+  ],
+  "description": "A hectic boss theme used in Donkey Kong Country<br>\r\n<br>\r\nUpdate (09/11/19): Updated to use .brr instead of .bnk as per remoderation.",
+  "latest_version": "smwc-10392-1419884902",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10392,
+      "title": "Donkey Kong Country - Bad Boss Boogie",
+      "version": "smwc-10392-1419884902",
+      "upstream_time": 1419884902,
+      "download_url": "https://dl.smwcentral.net/10392/Donkey%20Kong%20Country%20-%20Bad%20Boss%20Boogie.zip",
+      "filename": "Donkey Kong Country - Bad Boss Boogie.zip",
+      "size": 58335,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

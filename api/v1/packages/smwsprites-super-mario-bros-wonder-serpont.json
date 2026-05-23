@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-super-mario-bros-wonder-serpont",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41766,
+  "title": "Super Mario Bros. Wonder - Serpont",
+  "authors": [
+    "DrippingYellow"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "pot",
+    "sa-1",
+    "snake"
+  ],
+  "description": "A snake enemy from Super Mario Bros. Wonder that hides in a pot.<br>\r\n<br>\r\nIt will emerge from the pot when the player approaches it. This pot gives the Serpont immunity to fireballs, but shatters when the player jumps on it, causing it to move faster. Stomping on it again will squish it. Alternatively, spin jumping on it (or stomping on it with Yoshi) will immediately kill it.<br>\r\n<br>\r\nIf the extra bit is set, it will spawn already moving. Its extended/extra bytes determine its pot tile and its properties, alongside its X speed before and after breaking its pot, allowing for custom \"angry\" variants and the like.<br>\r\n<br>\r\nAdditionally, this sprite should be initialized properly when spawned by a generator or another sprite like a Lakitu. See the top of the .asm file for more information.",
+  "latest_version": "smwc-41766-1773715993",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41766,
+      "title": "Super Mario Bros. Wonder - Serpont",
+      "version": "smwc-41766-1773715993",
+      "upstream_time": 1773715993,
+      "download_url": "https://dl.smwcentral.net/41766/Serpont.zip",
+      "filename": "Serpont.zip",
+      "size": 7978,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

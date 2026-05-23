@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-super-mario-3d-land-plus-clock",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 35729,
+  "title": "Super Mario 3D Land - Plus Clock",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "counter",
+    "lorom",
+    "map16",
+    "sa-1",
+    "sprite needed",
+    "time"
+  ],
+  "description": "A set of blocks which replicate the Plus Clocks from, among others, Super Mario 3D Land.<br>\r\nThese can add either 10 seconds or 100 seconds of time by default but the value is customisable.<br>\r\n<br>\r\nComes with two versions: One which just adds time to the time and another which spawns a score sprite and add some time that way.<br>\r\n<br>\r\nNo credits necessary.",
+  "latest_version": "smwc-35729-1717169761",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 35729,
+      "title": "Super Mario 3D Land - Plus Clock",
+      "version": "smwc-35729-1717169761",
+      "upstream_time": 1717169761,
+      "download_url": "https://dl.smwcentral.net/35729/Plus%20Clocks.zip",
+      "filename": "Plus Clocks.zip",
+      "size": 10474,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

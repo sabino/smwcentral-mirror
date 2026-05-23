@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-bonk-shoot-the-smiley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19428,
+  "title": "Super Bonk - Shoot the Smiley!",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "grassland",
+    "sky",
+    "space"
+  ],
+  "description": "Song from Super Bonk's homonymous minigame, it could fit a bonus/sky area.",
+  "latest_version": "smwc-19428-1553385104",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19428,
+      "title": "Super Bonk - Shoot the Smiley!",
+      "version": "smwc-19428-1553385104",
+      "upstream_time": 1553385104,
+      "download_url": "https://dl.smwcentral.net/19428/Shoot%20the%20Smiley%21.zip",
+      "filename": "Shoot the Smiley%21.zip",
+      "size": 60621,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

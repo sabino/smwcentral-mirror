@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-synthesis-atlantic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8018,
+  "title": "Synthesis - Atlantic",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "cave",
+    "retro",
+    "water"
+  ],
+  "description": "A very nice water custom composition.",
+  "latest_version": "smwc-8018-1313745762",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8018,
+      "title": "Synthesis - Atlantic",
+      "version": "smwc-8018-1313745762",
+      "upstream_time": 1313745762,
+      "download_url": "https://dl.smwcentral.net/8018/CUSTOM%20-%20Synthesis%20-%20Atlantic.zip",
+      "filename": "CUSTOM - Synthesis - Atlantic.zip",
+      "size": 66875,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

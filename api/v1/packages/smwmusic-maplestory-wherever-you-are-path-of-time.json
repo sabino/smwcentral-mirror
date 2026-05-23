@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-maplestory-wherever-you-are-path-of-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24776,
+  "title": "MapleStory - Wherever You Are (Path of Time)",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "carnival",
+    "dark",
+    "night",
+    "temple"
+  ],
+  "description": "Music used in Ludibrium's Path of Time.",
+  "latest_version": "smwc-24776-1607464607",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24776,
+      "title": "MapleStory - Wherever You Are (Path of Time)",
+      "version": "smwc-24776-1607464607",
+      "upstream_time": 1607464607,
+      "download_url": "https://dl.smwcentral.net/24776/MapleStory%20-%20Wherever%20You%20Are.zip",
+      "filename": "MapleStory - Wherever You Are.zip",
+      "size": 84751,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

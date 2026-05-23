@@ -1,0 +1,39 @@
+{
+  "name": "smwblocks-switch-pack",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15344,
+  "title": "Switch Pack",
+  "authors": [
+    "MarioE"
+  ],
+  "tags": [
+    "hurt",
+    "kill",
+    "lorom",
+    "on-off",
+    "p-switch",
+    "sa-1",
+    "shatter",
+    "switch"
+  ],
+  "description": "This is a large pack of various switch-based blocks such as p-switch and on/off. Read the included readme for more information.",
+  "latest_version": "smwc-15344-1501622655",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15344,
+      "title": "Switch Pack",
+      "version": "smwc-15344-1501622655",
+      "upstream_time": 1501622655,
+      "download_url": "https://dl.smwcentral.net/15344/switch.zip",
+      "filename": "switch.zip",
+      "size": 2101,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-arcana-silent-forest-of-doubt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38457,
+  "title": "Arcana - Silent Forest of Doubt",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "dark",
+    "dark forest",
+    "forest",
+    "ghost house",
+    "overworld"
+  ],
+  "description": "An eerie song from Arcana/Cardmaster. Good for Ghost Houses or overworld maps",
+  "latest_version": "smwc-38457-1727716693",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38457,
+      "title": "Arcana - Silent Forest of Doubt",
+      "version": "smwc-38457-1727716693",
+      "upstream_time": 1727716693,
+      "download_url": "https://dl.smwcentral.net/38457/Arcana-Cardmaster%20-%20Silent%20Forest%20of%20Doubt.zip",
+      "filename": "Arcana-Cardmaster - Silent Forest of Doubt.zip",
+      "size": 31067,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33692,
+      "title": "Arcana - Silent Forest of Doubt",
+      "version": "smwc-33692-1693543668",
+      "upstream_time": 1693543668,
+      "download_url": "https://dl.smwcentral.net/33692/Arcana%20-%20Silent%20Forest%20of%20Doubt%20%28Sampled%29%28AMK%29.zip",
+      "filename": "Arcana - Silent Forest of Doubt (Sampled)(AMK).zip",
+      "size": 43171,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

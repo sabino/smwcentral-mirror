@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-random-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21340,
+  "title": "Random ? Block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "item",
+    "lorom",
+    "question block",
+    "random",
+    "sa-1"
+  ],
+  "description": "? Block will a random item in it. You can configure the items in the table in the .ASM.<br>\r\nNote that the table must contain eight entries and that it contains map16 tile numbers, so there's some limits on what you can generate.",
+  "latest_version": "smwc-21340-1571619169",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21340,
+      "title": "Random ? Block",
+      "version": "smwc-21340-1571619169",
+      "upstream_time": 1571619169,
+      "download_url": "https://dl.smwcentral.net/21340/Random%20Question%20Block.zip",
+      "filename": "Random Question Block.zip",
+      "size": 795,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

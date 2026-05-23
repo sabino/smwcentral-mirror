@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-mystery-dungeon-red-blue-rescue-team-frosty-grotto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20916,
+  "title": "Pokémon Mystery Dungeon: Red/Blue Rescue Team - Frosty Grotto",
+  "authors": [
+    "Lumy"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "forest",
+    "ice",
+    "spooky",
+    "tense"
+  ],
+  "description": "An ominous and unsettling icy song that plays in Frosty Grotto. Although this was originally made for an icy area, it can also work for dark forests.",
+  "latest_version": "smwc-20916-1566321916",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20916,
+      "title": "Pokémon Mystery Dungeon: Red/Blue Rescue Team - Frosty Grotto",
+      "version": "smwc-20916-1566321916",
+      "upstream_time": 1566321916,
+      "download_url": "https://dl.smwcentral.net/20916/PMD%20Frosty%20Grotto%20v3.zip",
+      "filename": "PMD Frosty Grotto v3.zip",
+      "size": 66509,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

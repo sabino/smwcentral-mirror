@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-mystery-caves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38495,
+  "title": "Crash Team Racing - Mystery Caves",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "fire",
+    "jungle"
+  ],
+  "description": "An upbeat and fast paced theme that plays in Mystery Caves, a prehistoric lava cave themed race track.<br>\r\n<br>\r\nYou can define in the .txt file if you want to use the normal version or the pre-console version which is slightly longer.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38495-1726851902",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38495,
+      "title": "Crash Team Racing - Mystery Caves",
+      "version": "smwc-38495-1726851902",
+      "upstream_time": 1726851902,
+      "download_url": "https://dl.smwcentral.net/38495/CTR%20-%20Mystery%20Caves.zip",
+      "filename": "CTR - Mystery Caves.zip",
+      "size": 198490,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

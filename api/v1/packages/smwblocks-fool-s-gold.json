@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-fool-s-gold",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3862,
+  "title": "Fool's Gold",
+  "authors": [
+    "Ultimaximus"
+  ],
+  "tags": [
+    "coin",
+    "hurt",
+    "lorom"
+  ],
+  "description": "Hurts the player unless he has more than a customizable number of coins.",
+  "latest_version": "smwc-3862-1409086581",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3862,
+      "title": "Fool's Gold",
+      "version": "smwc-3862-1409086581",
+      "upstream_time": 1409086581,
+      "download_url": "https://dl.smwcentral.net/3862/foolsgold.zip",
+      "filename": "foolsgold.zip",
+      "size": 387,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

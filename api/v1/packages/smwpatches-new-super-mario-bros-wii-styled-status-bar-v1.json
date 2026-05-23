@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-new-super-mario-bros-wii-styled-status-bar-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14775,
+  "title": "New Super Mario Bros. Wii Styled Status Bar v1.7",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation",
+    "sa-1",
+    "sprite",
+    "sprite status bar",
+    "status bar"
+  ],
+  "description": "This patch replaces SMW's original status bar with a HUD similar (but not identical) to the one in New Super Mario Bros. Wii.<br>\r\nIt's not layer 3 so you can have full Layer 3 backgrounds without them cutting off. For this same reason I reccomend that you install No More Sprite Tile Limits.<br>\r\nIt has options to make it 1 or 2 rows wide, and some other things.<br>\r\n<br>\r\nCredit is appreciated.<br>\r\n<br>\r\nUpdate 1.5 (15/12/2016): Added support for LX5's Star Coins Patch.<br>\r\nUpdate 1.6 (07/01/2017): Fixed GFX when the message box closes<br>\r\nUpdate 1.7 (12/01/2017): Fixed game over bug, thanks to Luansilva12.",
+  "latest_version": "smwc-14775-1484707064",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14775,
+      "title": "New Super Mario Bros. Wii Styled Status Bar v1.7",
+      "version": "smwc-14775-1484707064",
+      "upstream_time": 1484707064,
+      "download_url": "https://dl.smwcentral.net/14775/NSMBWii-SpriteSB%20v1.7.zip",
+      "filename": "NSMBWii-SpriteSB v1.7.zip",
+      "size": 19080,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

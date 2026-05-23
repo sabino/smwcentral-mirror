@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-e-v-o-search-for-eden-new-destinations",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13229,
+  "title": "E.V.O.: Search for Eden - New Destinations",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "cutscene",
+    "desert",
+    "grassland"
+  ],
+  "description": "A adventure song comes from EVO.",
+  "latest_version": "smwc-13229-1454785733",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13229,
+      "title": "E.V.O.: Search for Eden - New Destinations",
+      "version": "smwc-13229-1454785733",
+      "upstream_time": 1454785733,
+      "download_url": "https://dl.smwcentral.net/13229/EVO%20Search%20for%20Eden%20-%20New%20Destinations%20%28Unsampled%29.zip",
+      "filename": "EVO Search for Eden - New Destinations (Unsampled).zip",
+      "size": 31788,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11483,
+      "title": "E.V.O.: Search for Eden - New Destinations",
+      "version": "smwc-11483-1435118881",
+      "upstream_time": 1435118881,
+      "download_url": "https://dl.smwcentral.net/11483/EVO%20Search%20for%20Eden%20-%20New%20Destinations.zip",
+      "filename": "EVO Search for Eden - New Destinations.zip",
+      "size": 50594,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

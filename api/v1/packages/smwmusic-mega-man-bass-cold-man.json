@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-mega-man-bass-cold-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25779,
+  "title": "Mega Man & Bass - Cold Man",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "ice",
+    "snow"
+  ],
+  "description": "Cold Man's theme from Megaman & Bass.",
+  "latest_version": "smwc-25779-1612043194",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25779,
+      "title": "Mega Man & Bass - Cold Man",
+      "version": "smwc-25779-1612043194",
+      "upstream_time": 1612043194,
+      "download_url": "https://dl.smwcentral.net/25779/Cold%20Man.zip",
+      "filename": "Cold Man.zip",
+      "size": 37186,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23557,
+      "title": "Mega Man & Bass - Cold Man",
+      "version": "smwc-23557-1594089616",
+      "upstream_time": 1594089616,
+      "download_url": "https://dl.smwcentral.net/23557/Rockman%20%26%20Forte%20-%20Cold%20Man.zip",
+      "filename": "Rockman %26 Forte - Cold Man.zip",
+      "size": 76495,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

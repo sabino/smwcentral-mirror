@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-minish-cap-royal-crypt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20172,
+  "title": "The Legend of Zelda: The Minish Cap - Royal Crypt",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "ghost house",
+    "night",
+    "ruins"
+  ],
+  "description": "A spooky song which is pretty much an enhanced version of the Dungeon theme from the first Zelda game. It's got the same melody. Good song for spooky settings, but castles also work well for this song.<br>\r\n<br>\r\nRequester: Brutapode89<br>\r\nMIDI credit: B1itz Lunar",
+  "latest_version": "smwc-20172-1560023043",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20172,
+      "title": "The Legend of Zelda: The Minish Cap - Royal Crypt",
+      "version": "smwc-20172-1560023043",
+      "upstream_time": 1560023043,
+      "download_url": "https://dl.smwcentral.net/20172/Royal%20Crypt.zip",
+      "filename": "Royal Crypt.zip",
+      "size": 59871,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

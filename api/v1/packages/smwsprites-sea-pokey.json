@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-sea-pokey",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41128,
+  "title": "Sea Pokey",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "boss",
+    "fire",
+    "lorom",
+    "pokey",
+    "sa-1",
+    "water"
+  ],
+  "description": "This boss will throw fire particles at Mario. Sometimes it will throw a thrown-block. You can defeat it by throwing carryable sprites at him. Everytime his HP decreases, it will enter in a frenzy state, jumping around and stunning Mario everytime it hits the ground.<br>\r\n<br>\r\nWhen this boss is defeated, it will end the level.<br>\r\n<br>\r\nThere are lots of things that can be customised in the ASM file:<br>\r\n<br>\r\n-Particles to spawn (extended sprite).<br>\r\n<br>\r\n-Tiles to be used by the sprite.<br>\r\n<br>\r\n-Time between jumps.<br>\r\n<br>\r\n-HP.<br>\r\n<br>\r\nYou can customise a lot of things even for each HP. Check the ASM file for details.",
+  "latest_version": "smwc-41128-1764296022",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41128,
+      "title": "Sea Pokey",
+      "version": "smwc-41128-1764296022",
+      "upstream_time": 1764296022,
+      "download_url": "https://dl.smwcentral.net/41128/SeaPokey.zip",
+      "filename": "SeaPokey.zip",
+      "size": 6951,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

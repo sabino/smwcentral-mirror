@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-multiple-coins-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 28593,
+  "title": "Multiple Coins Block",
+  "authors": [
+    "Mapping_bl"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This coin will give to the player a customizable amount of coins (SA-1 compatible) (Major Flare: now the amount is customizable).",
+  "latest_version": "smwc-28593-1634856787",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 28593,
+      "title": "Multiple Coins Block",
+      "version": "smwc-28593-1634856787",
+      "upstream_time": 1634856787,
+      "download_url": "https://dl.smwcentral.net/28593/Two_Coins.zip",
+      "filename": "Two_Coins.zip",
+      "size": 507,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-permanent-winged-yoshi",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 16103,
+  "title": "Permanent Winged Yoshi",
+  "authors": [
+    "HuFlungDu",
+    "mathie"
+  ],
+  "tags": [
+    "fly",
+    "lorom",
+    "sa-1",
+    "super fx",
+    "wings",
+    "yoshi"
+  ],
+  "description": "This code gives wings and flight physics to Yoshi, in a manner very similar to that of sublevels 0C8/1C8.<br>\r\n<br>\r\nBase code by HuFlungDu, corrected and made hybrid by Mathos.",
+  "latest_version": "smwc-16103-1503756905",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 16103,
+      "title": "Permanent Winged Yoshi",
+      "version": "smwc-16103-1503756905",
+      "upstream_time": 1503756905,
+      "download_url": "https://dl.smwcentral.net/16103/YoshiFly.zip",
+      "filename": "YoshiFly.zip",
+      "size": 551,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

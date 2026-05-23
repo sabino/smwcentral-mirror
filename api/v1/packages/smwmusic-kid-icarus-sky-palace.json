@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kid-icarus-sky-palace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8117,
+  "title": "Kid Icarus - Sky Palace",
+  "authors": [
+    "Hadron"
+  ],
+  "tags": [
+    "grassland",
+    "sky"
+  ],
+  "description": "Simple and upbeat theme from Kid Icarus, this would work well for cloud areas.",
+  "latest_version": "smwc-8117-1314132860",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8117,
+      "title": "Kid Icarus - Sky Palace",
+      "version": "smwc-8117-1314132860",
+      "upstream_time": 1314132860,
+      "download_url": "https://dl.smwcentral.net/8117/Kid%20Icarus%20-%20Sky%20Palace.zip",
+      "filename": "Kid Icarus - Sky Palace.zip",
+      "size": 67042,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

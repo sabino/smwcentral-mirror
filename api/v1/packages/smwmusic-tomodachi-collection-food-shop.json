@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tomodachi-collection-food-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40550,
+  "title": "Tomodachi Collection - Food Shop",
+  "authors": [
+    "lordlydumbass"
+  ],
+  "tags": [
+    "bonus",
+    "grassland",
+    "title",
+    "town",
+    "upbeat"
+  ],
+  "description": "Cute sounding song from Tomodachi Collection, the Japan-only DS prequel to Tomodachi Life.<br>\r\n<br>\r\nFits overworlds or bonus rooms",
+  "latest_version": "smwc-40550-1758124195",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40550,
+      "title": "Tomodachi Collection - Food Shop",
+      "version": "smwc-40550-1758124195",
+      "upstream_time": 1758124195,
+      "download_url": "https://dl.smwcentral.net/40550/Tomodachi%20Collection%20-%20Food%20Mart.zip",
+      "filename": "Tomodachi Collection - Food Mart.zip",
+      "size": 76064,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

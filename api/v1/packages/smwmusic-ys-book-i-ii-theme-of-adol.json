@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-ys-book-i-ii-theme-of-adol",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31824,
+  "title": "Ys Book I & II - Theme of Adol",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "ambient",
+    "athletic",
+    "credits",
+    "cutscene",
+    "overworld",
+    "retro",
+    "title"
+  ],
+  "description": "Adol Christin's first theme song in <i>Ys I</i>, composed by Yuzo Koshiro. This music is originally unused in the game, but it was later arranged by Ryo Yonemitsu to be repurposed as an intro cutscene theme for Hudson-developed TurboGrafx-CD version, <i>Ys Book I & II</i>. This song didn't return in the remake, <i>Ys I & II Chronicles</i>.<br>\r\n<br>\r\nThis port is likewise an amalgamation of the PC-8801 version and the arranged TurboGrafx-CD version. The general composition is based on the PC88 version (and thus doesn't include the extended guitar solo added by Yonemitsu), and some extra parts and instrument choices are based on the TGCD version.<br>\r\n<br>\r\nThis port uses the optimized SMW sample set.",
+  "latest_version": "smwc-31824-1672088633",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31824,
+      "title": "Ys Book I & II - Theme of Adol",
+      "version": "smwc-31824-1672088633",
+      "upstream_time": 1672088633,
+      "download_url": "https://dl.smwcentral.net/31824/Ys%20Book%20I%2C%20II%20Theme%20of%20Adol.zip",
+      "filename": "Ys Book I%2C II Theme of Adol.zip",
+      "size": 69192,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

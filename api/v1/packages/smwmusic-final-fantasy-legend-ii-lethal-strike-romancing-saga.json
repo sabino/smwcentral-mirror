@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-legend-ii-lethal-strike-romancing-saga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25970,
+  "title": "Final Fantasy Legend II - Lethal Strike (Romancing SaGa 1 Mix)",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "A normal battle theme from <i>Final Fantasy Legend II</i>, redone with the instruments of <i>Romancing SaGa</i> on SNES. Based on the DS remake, <i>Goddess of Destiny</i>.<br>\r\n<br>\r\nThis port uses the optimized SMW sample set.",
+  "latest_version": "smwc-25970-1613969670",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25970,
+      "title": "Final Fantasy Legend II - Lethal Strike (Romancing SaGa 1 Mix)",
+      "version": "smwc-25970-1613969670",
+      "upstream_time": 1613969670,
+      "download_url": "https://dl.smwcentral.net/25970/Final%20Fantasy%20Legend%20II%20Lethal%20Strike.zip",
+      "filename": "Final Fantasy Legend II Lethal Strike.zip",
+      "size": 74017,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

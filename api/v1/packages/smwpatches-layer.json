@@ -1,0 +1,119 @@
+{
+  "name": "smwpatches-layer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 34713,
+  "title": "Layer 2 Climb Fix",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "buoyancy",
+    "climb",
+    "fall",
+    "falling",
+    "game over",
+    "hack",
+    "interaction",
+    "layer 2",
+    "layer 3",
+    "lorom",
+    "message",
+    "needs remoderation",
+    "net",
+    "optimize",
+    "sa-1",
+    "speed",
+    "time up",
+    "vine"
+  ],
+  "description": "Fixes an issue where, when scrolling layer 2, if the player holds onto the ivy or wire mesh of layer 2, they do not scroll together.<br>\r\n<br>\r\n-Caution-<br>\r\n -It scrolls along with touching the ivy or wire mesh on layer 2, even if only slightly. It is recommended that ivy and wire mesh are not overlapped or adjacent to layer 1 and layer 2.<br>\r\n -Not applicable to sprites.",
+  "latest_version": "smwc-34713-1712262183",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 34713,
+      "title": "Layer 2 Climb Fix",
+      "version": "smwc-34713-1712262183",
+      "upstream_time": 1712262183,
+      "download_url": "https://dl.smwcentral.net/34713/Layer%202%20Climb%20Fix.zip",
+      "filename": "Layer 2 Climb Fix.zip",
+      "size": 1880,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    },
+    {
+      "upstream_id": 28493,
+      "title": "Layer 2 Ledge Drop Fix",
+      "version": "smwc-28493-1643241887",
+      "upstream_time": 1643241887,
+      "download_url": "https://dl.smwcentral.net/28493/Layer2LedgeFix.zip",
+      "filename": "Layer2LedgeFix.zip",
+      "size": 830,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    },
+    {
+      "upstream_id": 16366,
+      "title": "Layer 2 Buoyancy Optimization",
+      "version": "smwc-16366-1509235963",
+      "upstream_time": 1509235963,
+      "download_url": "https://dl.smwcentral.net/16366/layer2_buoyancy_optimize.zip",
+      "filename": "layer2_buoyancy_optimize.zip",
+      "size": 549,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    },
+    {
+      "upstream_id": 12273,
+      "title": "Layer 3 Position Fix",
+      "version": "smwc-12273-1445194228",
+      "upstream_time": 1445194228,
+      "download_url": "https://dl.smwcentral.net/12273/Layer%203%20Position%20Fix.zip",
+      "filename": "Layer 3 Position Fix.zip",
+      "size": 882,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    },
+    {
+      "upstream_id": 11319,
+      "title": "Layer 3 Time Up/Game Over patch",
+      "version": "smwc-11319-1445014410",
+      "upstream_time": 1445014410,
+      "download_url": "https://dl.smwcentral.net/11319/l3tugo.zip",
+      "filename": "l3tugo.zip",
+      "size": 838,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    },
+    {
+      "upstream_id": 4365,
+      "title": "Layer 3 Tide Current Adjuster",
+      "version": "smwc-4365-1280748109",
+      "upstream_time": 1280748109,
+      "download_url": "https://dl.smwcentral.net/4365/L3C.zip",
+      "filename": "L3C.zip",
+      "size": 1323,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

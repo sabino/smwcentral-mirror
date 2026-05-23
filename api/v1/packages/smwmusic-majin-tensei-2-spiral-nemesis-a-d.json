@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-majin-tensei-2-spiral-nemesis-a-d",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30220,
+  "title": "Majin Tensei 2: Spiral Nemesis - A.D. 1995 Story",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "title",
+    "urban"
+  ],
+  "description": "Don't let the first 30 seconds of the intro mislead you. The actual song is quite catchy.<br>\r\nBecause the beginning is an extreme contrast to the rest of the song, I made a second version without the first 30 seconds (which I would usually prefer).",
+  "latest_version": "smwc-30220-1658847967",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30220,
+      "title": "Majin Tensei 2: Spiral Nemesis - A.D. 1995 Story",
+      "version": "smwc-30220-1658847967",
+      "upstream_time": 1658847967,
+      "download_url": "https://dl.smwcentral.net/30220/AD1995Story.zip",
+      "filename": "AD1995Story.zip",
+      "size": 135956,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

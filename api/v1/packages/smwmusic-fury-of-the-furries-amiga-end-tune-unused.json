@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-fury-of-the-furries-amiga-end-tune-unused",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37497,
+  "title": "Fury of the Furries (Amiga) - End Tune (Unused)",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "credits",
+    "cutscene"
+  ],
+  "description": "Cool tune for credits.<br>\r\nNot compatible with thunder, bonus end, Yoshi, P-Switch, Starman and goal clear.",
+  "latest_version": "smwc-37497-1715539002",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37497,
+      "title": "Fury of the Furries (Amiga) - End Tune (Unused)",
+      "version": "smwc-37497-1715539002",
+      "upstream_time": 1715539002,
+      "download_url": "https://dl.smwcentral.net/37497/End%20Tune.zip",
+      "filename": "End Tune.zip",
+      "size": 101864,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

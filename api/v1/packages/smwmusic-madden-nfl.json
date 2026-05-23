@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-madden-nfl",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10983,
+  "title": "Madden NFL '96 - We Will Rock You (Clapping)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "misc"
+  ],
+  "description": "Ever wanted to make a football stadium in SMW but couldn't find any suiting background noise? Me neither, but now this exists just in case.",
+  "latest_version": "smwc-10983-1427756287",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10983,
+      "title": "Madden NFL '96 - We Will Rock You (Clapping)",
+      "version": "smwc-10983-1427756287",
+      "upstream_time": 1427756287,
+      "download_url": "https://dl.smwcentral.net/10983/nflclap.zip",
+      "filename": "nflclap.zip",
+      "size": 24450,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

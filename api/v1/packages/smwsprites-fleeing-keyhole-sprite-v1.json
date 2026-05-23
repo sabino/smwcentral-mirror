@@ -1,0 +1,41 @@
+{
+  "name": "smwsprites-fleeing-keyhole-sprite-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 37761,
+  "title": "Fleeing Keyhole Sprite V1.0",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "enemy",
+    "fly",
+    "key",
+    "keyhole",
+    "lorom",
+    "message",
+    "movement",
+    "pacifist",
+    "sa-1",
+    "secret exit"
+  ],
+  "description": "Fleeing Keyhole V1.0:<br>\r\n<br>\r\nDescription: This is are a variant of the Vanilla Original SMW Sprite 0E: Keyhole, but, when the player are close to this in certain range, he'll start fleeing away of the player! This come with various options that let you make more interesting the behaviours of this custom keyhole sprite!<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nUse Extra Bit & 2 Extra Bytes with features!<br>\r\nAllow customize the sprite easily with a bunch of defines!<br>\r\n<br>\r\nMore details are on the documentation (Readme) file!<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=127259\">Requested</a> by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>",
+  "latest_version": "smwc-37761-1725605652",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 37761,
+      "title": "Fleeing Keyhole Sprite V1.0",
+      "version": "smwc-37761-1725605652",
+      "upstream_time": 1725605652,
+      "download_url": "https://dl.smwcentral.net/37761/Fleeing%20Keyhole%20V1.0.zip",
+      "filename": "Fleeing Keyhole V1.0.zip",
+      "size": 14262,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

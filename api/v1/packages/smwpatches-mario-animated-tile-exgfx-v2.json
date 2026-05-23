@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-mario-animated-tile-exgfx-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21364,
+  "title": "Mario + Animated Tile ExGFX v2.1",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "graphics",
+    "lorom"
+  ],
+  "description": "This is the Mario ExGFX patch. It will install an ASM hack which will enable you to insert ExGFX for each seperate level and the titlescreen for GFX32 and GFX33. The ExGFX files that should be used should be the same size as the ones included inside the patch.<br>\r\nThis version fixes a pretty serious bug where garbled graphics are uploaded in places where player ExGFX aren't used.",
+  "latest_version": "smwc-21364-1581861000",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21364,
+      "title": "Mario + Animated Tile ExGFX v2.1",
+      "version": "smwc-21364-1581861000",
+      "upstream_time": 1581861000,
+      "download_url": "https://dl.smwcentral.net/21364/MarioExGFX.zip",
+      "filename": "MarioExGFX.zip",
+      "size": 20520,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

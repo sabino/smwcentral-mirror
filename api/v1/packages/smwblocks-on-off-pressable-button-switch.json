@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-on-off-pressable-button-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 13816,
+  "title": "ON/OFF pressable button switch",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "on off",
+    "p-switch",
+    "puzzle"
+  ],
+  "description": "These 4 blocks are pressable button switches similar to the on/off switch.<br>\r\nUnlike the SMW vanilla on/off switch where you have to \"bump\" the switch, you instead have to \"press\" the switch to activate it (like a p-switch).",
+  "latest_version": "smwc-13816-1466863087",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 13816,
+      "title": "ON/OFF pressable button switch",
+      "version": "smwc-13816-1466863087",
+      "upstream_time": 1466863087,
+      "download_url": "https://dl.smwcentral.net/13816/OnOffButtons.zip",
+      "filename": "OnOffButtons.zip",
+      "size": 149931,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

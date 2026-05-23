@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-optimize-background-tilemap-buffering",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41813,
+  "title": "Optimize Background Tilemap Buffering",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "optimization",
+    "optimize",
+    "sa-1"
+  ],
+  "description": "This patch optimizes the routine at $058126, which is the routine that decompresses and buffers the layer 2 background tilemap into <a href=\"https://smwc.me/m/smw/ram/7EB900\">$7EB900</a>. This routine is incredibly inefficient and can be simplified greatly.<br>\r\n<br>\r\nThe reduction in load time will vary based on the background used (with no effect for layer 2 levels), but this saved around 248 scanlines loading Yoshi's Island 1 in vanilla (no FastROM, no Lunar Magic, or anything else).",
+  "latest_version": "V1.1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41813,
+      "title": "Optimize Background Tilemap Buffering",
+      "version": "V1.1.1",
+      "upstream_time": 1778214039,
+      "download_url": "https://dl.smwcentral.net/41813/OptimizeBGBufferingV1.1.1.zip",
+      "filename": "OptimizeBGBufferingV1.1.1.zip",
+      "size": 1810,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mygg-techno62party",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39283,
+  "title": "Mygg - Techno62Party",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "industrial"
+  ],
+  "description": "Note: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Stage Clear, Starman, P-Switch, Yoshi mount, Thunder/Firework/Blargg ",
+  "latest_version": "smwc-39283-1746008123",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39283,
+      "title": "Mygg - Techno62Party",
+      "version": "smwc-39283-1746008123",
+      "upstream_time": 1746008123,
+      "download_url": "https://dl.smwcentral.net/39283/Techno62Party.zip",
+      "filename": "Techno62Party.zip",
+      "size": 107680,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

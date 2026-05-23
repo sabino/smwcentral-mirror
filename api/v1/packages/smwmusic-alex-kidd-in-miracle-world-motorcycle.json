@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-alex-kidd-in-miracle-world-motorcycle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34560,
+  "title": "Alex Kidd in Miracle World - Motorcycle",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "carnival"
+  ],
+  "description": "Part of the Alex Kidd in Miracle World soundtrack.",
+  "latest_version": "smwc-34560-1690723221",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34560,
+      "title": "Alex Kidd in Miracle World - Motorcycle",
+      "version": "smwc-34560-1690723221",
+      "upstream_time": 1690723221,
+      "download_url": "https://dl.smwcentral.net/34560/Motorcycle.zip",
+      "filename": "Motorcycle.zip",
+      "size": 31421,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

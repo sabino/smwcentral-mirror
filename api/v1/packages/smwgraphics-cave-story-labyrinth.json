@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-cave-story-labyrinth",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 695,
+  "title": "Cave Story - Labyrinth",
+  "authors": [
+    "Raibys"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "needs remoderation",
+    "ruins"
+  ],
+  "description": "The BG from the Labyrinth area in Cave Story. Included is not only the palette for the BG, but an alternate palette file to make it compatible with my Labyrinth FG set I submitted earlier.<br>\r\n<br>\r\nCredit would be nice, but is not required. Enjoy. ^_^",
+  "latest_version": "smwc-695-1388933617",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 695,
+      "title": "Cave Story - Labyrinth",
+      "version": "smwc-695-1388933617",
+      "upstream_time": 1388933617,
+      "download_url": "https://dl.smwcentral.net/695/Cave%20Story%20-%20Labyrinth.zip",
+      "filename": "Cave Story - Labyrinth.zip",
+      "size": 3305,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 619,
+      "title": "Cave Story - Labyrinth",
+      "version": "smwc-619-1388933425",
+      "upstream_time": 1388933425,
+      "download_url": "https://dl.smwcentral.net/619/Cave%20Story%20-%20LabyrinthFG.zip",
+      "filename": "Cave Story - LabyrinthFG.zip",
+      "size": 6100,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

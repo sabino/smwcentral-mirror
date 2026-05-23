@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-knuckles-chaotix-this-horizon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37113,
+  "title": "Knuckles' Chaotix - This Horizon",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "bonus",
+    "credits",
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "The optimistic title theme from Knuckles' Chaotix.<br>\r\n<br>\r\n@17's time to shine.",
+  "latest_version": "smwc-37113-1709185334",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37113,
+      "title": "Knuckles' Chaotix - This Horizon",
+      "version": "smwc-37113-1709185334",
+      "upstream_time": 1709185334,
+      "download_url": "https://dl.smwcentral.net/37113/thishorizon.zip",
+      "filename": "thishorizon.zip",
+      "size": 33354,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

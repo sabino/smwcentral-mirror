@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-fire-spitting-jumping-piranha-plant-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18667,
+  "title": "Fire-Spitting Jumping Piranha Plant SFX",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "lorom",
+    "piranha",
+    "piranha plant",
+    "sa-1",
+    "sfx",
+    "sprite"
+  ],
+  "description": "This tiny ASM hack will give the Fire-Spitting Jumping Pirahna Plant a sound effect, when he spits the fireballs! Read the ASM file for more info.<br>\r\n<br>\r\nConverted to Asar format.",
+  "latest_version": "smwc-18667-1545288673",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18667,
+      "title": "Fire-Spitting Jumping Piranha Plant SFX",
+      "version": "smwc-18667-1545288673",
+      "upstream_time": 1545288673,
+      "download_url": "https://dl.smwcentral.net/18667/Fire-Spitting%20Piranha%20SFX.zip",
+      "filename": "Fire-Spitting Piranha SFX.zip",
+      "size": 412,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

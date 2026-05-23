@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-inverted-question-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 17187,
+  "title": "Inverted Question Blocks",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "bounce block",
+    "bounce sprite",
+    "customizable",
+    "lorom",
+    "question block",
+    "question blocks",
+    "sa-1"
+  ],
+  "description": "These are a set of Question blocks that only Mario can activate from above. Some vague instructions can be found in each Block's files. You'll have to play with the defines to get what you want.<br>\r\n\t<br>\r\nOne more thing!<br>\r\n\t<br>\r\nIf you want one of these blocks to be more like an Invisible Coin Block that Mario can only activate from above, make the Acts Like setting 25 instead of 130.<br>\r\n\t<br>\r\n\tThat's 'bout it!<br>\r\n\t\t~ Mandew",
+  "latest_version": "smwc-17187-1520692818",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 17187,
+      "title": "Inverted Question Blocks",
+      "version": "smwc-17187-1520692818",
+      "upstream_time": 1520692818,
+      "download_url": "https://dl.smwcentral.net/17187/Inverted%20Question%20Blocks.zip",
+      "filename": "Inverted Question Blocks.zip",
+      "size": 9955,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-birdo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16799,
+  "title": "Birdo",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "lorom",
+    "rideable",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "The miniboss creature from SMB2 that spits eggs and fireballs. Projectiles are included.<br>\r\n<br>\r\nThis sprite was part of mikeyk's SMB2 Updated sprites pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16799-1513884418",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16799,
+      "title": "Birdo",
+      "version": "smwc-16799-1513884418",
+      "upstream_time": 1513884418,
+      "download_url": "https://dl.smwcentral.net/16799/SMB2Birdo.zip",
+      "filename": "SMB2Birdo.zip",
+      "size": 13580,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

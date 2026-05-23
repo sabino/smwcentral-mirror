@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-ruby-sapphire-emerald-meteor-falls-cave-of-origin",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32097,
+  "title": "Pokémon Ruby/Sapphire/Emerald - Meteor Falls / Cave of Origin",
+  "authors": [
+    "84GSMeister"
+  ],
+  "tags": [
+    "cave",
+    "dark"
+  ],
+  "description": "Cave of Origin theme from GBA Pokémon games Ruby, Sapphire & Emerald<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span><br>\r\n<br>\r\nIf you want to give the sound more \"harshness\" like on the GBA, best thing would probably be to disable interpolation on ZSnes's sound settings.",
+  "latest_version": "smwc-32097-1674326551",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32097,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Meteor Falls / Cave of Origin",
+      "version": "smwc-32097-1674326551",
+      "upstream_time": 1674326551,
+      "download_url": "https://dl.smwcentral.net/32097/Pokemon%20GBA%20Cave%20of%20Origin.zip",
+      "filename": "Pokemon GBA Cave of Origin.zip",
+      "size": 76312,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

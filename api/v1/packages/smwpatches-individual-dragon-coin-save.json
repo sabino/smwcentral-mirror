@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-individual-dragon-coin-save",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40225,
+  "title": "Individual Dragon Coin Save",
+  "authors": [
+    "JackTheSpades",
+    "lx5",
+    "worldpeace"
+  ],
+  "tags": [
+    "collectible",
+    "dragon coin",
+    "lorom",
+    "midway point",
+    "sa-1",
+    "save"
+  ],
+  "description": "This patch allows each individual (vanilla) dragon coin to be saved once it's collected. Unlike the other method, you don't need to replace all dragon coins with 5 different custom objects for every level. Refer to the comments in dcsave.asm and sram_instruction.txt for details.<br>\r\n<br>\r\nNow compatible with LM 3.00 (as well as 2.5x) and the retry patch as requested.<br>\r\n<br>\r\nFixed a bug that the patch refers to $13BF before it is updated properly. Thanks goes to flabort for reporting this.<br>\r\n<br>\r\n<br>\r\nJackEdit: Added option for only saving when the midway point is collected (needs 8 bytes of freeram more) and to disable the transparent blocks if you'd rather have them not appear at all like the vanilla game.<br>\r\n<br>\r\nlx5:<br>\r\n- Fixed wrong communication with the Retry Patch on a SA-1 ROM (requires my <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22887\">Retry Patch update</a>)<br>\r\n- Fixed a bug where the patch would fail to detect the level being played<br>\r\n<a href=\"https://github.com/TheLX5/SMW-Patches/tree/master/Individual%20Dragon%20Coin%20Save\" rel=\"nofollow\">GitHub</a><br>\r\n<br>\r\nKevin:<br>\r\n- Fixed bug where the Yoshi Coins wouldn't work properly when placed on subscreen boundaries (since this patch isn't compatible with imamelia's fix).",
+  "latest_version": "smwc-40225-1754199796",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40225,
+      "title": "Individual Dragon Coin Save",
+      "version": "smwc-40225-1754199796",
+      "upstream_time": 1754199796,
+      "download_url": "https://dl.smwcentral.net/40225/Individual%20Dragon%20Coin%20Save.zip",
+      "filename": "Individual Dragon Coin Save.zip",
+      "size": 5489,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

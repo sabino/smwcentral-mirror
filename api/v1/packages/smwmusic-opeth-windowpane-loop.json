@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-opeth-windowpane-loop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24446,
+  "title": "Opeth - Windowpane (loop 2)",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "cave",
+    "dark",
+    "forest",
+    "mysterious",
+    "overworld",
+    "spooky"
+  ],
+  "description": "A shorter loop that can fit a range of overworld situations such as forest, cave, etc.<br>\r\n<br>\r\nSince the midi I have found for this is decent, let me know if you would like to see another section of the song ported.",
+  "latest_version": "smwc-24446-1602032890",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24446,
+      "title": "Opeth - Windowpane (loop 2)",
+      "version": "smwc-24446-1602032890",
+      "upstream_time": 1602032890,
+      "download_url": "https://dl.smwcentral.net/24446/windowpane2_0_1.zip",
+      "filename": "windowpane2_0_1.zip",
+      "size": 33190,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24445,
+      "title": "Opeth - Windowpane (loop 1)",
+      "version": "smwc-24445-1602032845",
+      "upstream_time": 1602032845,
+      "download_url": "https://dl.smwcentral.net/24445/windowpane1_0_1.zip",
+      "filename": "windowpane1_0_1.zip",
+      "size": 33568,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

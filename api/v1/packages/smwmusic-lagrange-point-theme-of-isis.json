@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lagrange-point-theme-of-isis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25353,
+  "title": "Lagrange Point - Theme of Isis",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "overworld",
+    "retro",
+    "space",
+    "tense"
+  ],
+  "description": "The introductory song from the game.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25353-1607677930",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25353,
+      "title": "Lagrange Point - Theme of Isis",
+      "version": "smwc-25353-1607677930",
+      "upstream_time": 1607677930,
+      "download_url": "https://dl.smwcentral.net/25353/Lagrange%20Point%20-%20Theme%20of%20Isis.zip",
+      "filename": "Lagrange Point - Theme of Isis.zip",
+      "size": 159227,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

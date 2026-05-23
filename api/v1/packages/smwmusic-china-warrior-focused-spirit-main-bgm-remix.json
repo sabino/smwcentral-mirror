@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-china-warrior-focused-spirit-main-bgm-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28002,
+  "title": "China Warrior - Focused Spirit ~ Main BGM (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "ahtletic",
+    "bonus",
+    "mountain",
+    "night",
+    "ruins",
+    "temple"
+  ],
+  "description": "Did an arrangement of the <a href=\"https://youtu.be/vucFl_tr51k\" rel=\"nofollow\">Main BGM</a> from China Warrior (aka The Kung Fu in Japan) for the TurboGrafx-16 / PC-Engine. Yeah, a game where you play as knock-off Bruce Lee and beat up some nuns has a banger OST (even though it's like 3 full songs and a couple jingles). Ended up playing this on my TurboGrafx-16 Mini back in December and fell in love with this theme.<br>\r\n<br>\r\nI actually did start this port way back in April before getting too caught up on other songs. Luckily, I was able to get it finished now, and thank god I did. This song deserves some love, even if you don't ever plan on ever playing the game.<br>\r\n<br>\r\nThis is pretty lengthy song and also a great fit for auto-scrollers.<br>\r\n<br>\r\n<b><span style=\"color: #920dff;\">Important:</span></b><br>\r\nThere are also customizable pitches for this song that you can adjust in the song's txt file:<br>\r\n1. C Minor (Original Pitch, turned on default)<br>\r\n2. C# Minor (Custom Pitch 1)<br>\r\n3. B Minor (Custom Pitch 2)",
+  "latest_version": "smwc-28002-1632510870",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28002,
+      "title": "China Warrior - Focused Spirit ~ Main BGM (Remix)",
+      "version": "smwc-28002-1632510870",
+      "upstream_time": 1632510870,
+      "download_url": "https://dl.smwcentral.net/28002/Focused%20Spirit.zip",
+      "filename": "Focused Spirit.zip",
+      "size": 97779,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

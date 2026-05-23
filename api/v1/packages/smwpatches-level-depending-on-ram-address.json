@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-level-depending-on-ram-address",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40191,
+  "title": "Level Depending On Ram Address",
+  "authors": [
+    "Deflaktor"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "The level number of an overworld tile changes after a particular RAM address has been set. This can be done for any number of levels, and each can change depending on a different address. Check out the readme and the asm files for more info.",
+  "latest_version": "smwc-40191-1753729165",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40191,
+      "title": "Level Depending On Ram Address",
+      "version": "smwc-40191-1753729165",
+      "upstream_time": 1753729165,
+      "download_url": "https://dl.smwcentral.net/40191/LevelDependingOnRAM.zip",
+      "filename": "LevelDependingOnRAM.zip",
+      "size": 3251,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

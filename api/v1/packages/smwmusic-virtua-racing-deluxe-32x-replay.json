@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-virtua-racing-deluxe-32x-replay",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23971,
+  "title": "Virtua Racing Deluxe (32X) - Replay",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "credits",
+    "final",
+    "space"
+  ],
+  "description": "Here's the absolute banger from the 32X version of Virtua Racing, which is, oddly enough might I add, made for a Replay theme of all things; oh well, ain't complaining, this song is great haha (actually one of my favorite singular Genesis tunes too) :V<br>\r\n<br>\r\nAnyway, this would be mainly used for credits/staff roll music (I think), but athletic, space/abstract and final level music could also fit here if you want ¯\\_(ツ)_/¯<br>\r\n<br>\r\nNote: The optimized version removes the voice and \"F1 racing car\" samples and some of the echo, along with @12 (so no Yoshis), but there's the original version still if you can insert it somehow",
+  "latest_version": "smwc-23971-1596064968",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23971,
+      "title": "Virtua Racing Deluxe (32X) - Replay",
+      "version": "smwc-23971-1596064968",
+      "upstream_time": 1596064968,
+      "download_url": "https://dl.smwcentral.net/23971/vrdreplay.zip",
+      "filename": "vrdreplay.zip",
+      "size": 134347,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

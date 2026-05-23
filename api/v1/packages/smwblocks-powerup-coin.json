@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-powerup-coin",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41119,
+  "title": "Powerup Coin",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "powerup",
+    "sa-1"
+  ],
+  "description": "A coin that gives the player a powerup of their choice, as well as a configurable amount of coins. Becomes solid when the blue P-Switch is active.",
+  "latest_version": "smwc-41119-1764549009",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41119,
+      "title": "Powerup Coin",
+      "version": "smwc-41119-1764549009",
+      "upstream_time": 1764549009,
+      "download_url": "https://dl.smwcentral.net/41119/powerup_coin.zip",
+      "filename": "powerup_coin.zip",
+      "size": 1058,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

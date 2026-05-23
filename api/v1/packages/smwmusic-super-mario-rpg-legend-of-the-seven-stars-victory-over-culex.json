@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-victory-over-culex",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37239,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Victory Over Culex",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "misc"
+  ],
+  "description": "The song from when you beat Culex in Super Mario RPG. Remix of Final Fantasy IV's victory theme.",
+  "latest_version": "smwc-37239-1709503408",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37239,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Victory Over Culex",
+      "version": "smwc-37239-1709503408",
+      "upstream_time": 1709503408,
+      "download_url": "https://dl.smwcentral.net/37239/Culex%20Victory.zip",
+      "filename": "Culex Victory.zip",
+      "size": 38514,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

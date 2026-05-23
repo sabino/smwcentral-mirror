@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-change-acts-like-when-slippery",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41123,
+  "title": "Change Acts Like When Slippery",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "slippery"
+  ],
+  "description": "This block will change acts like settings if the level is slippery.",
+  "latest_version": "smwc-41123-1764282880",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41123,
+      "title": "Change Acts Like When Slippery",
+      "version": "smwc-41123-1764282880",
+      "upstream_time": 1764282880,
+      "download_url": "https://dl.smwcentral.net/41123/slippery_acts_like.zip",
+      "filename": "slippery_acts_like.zip",
+      "size": 404,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

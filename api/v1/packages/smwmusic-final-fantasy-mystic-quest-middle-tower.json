@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-final-fantasy-mystic-quest-middle-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25197,
+  "title": "Final Fantasy: Mystic Quest - Middle Tower",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "cutscene",
+    "dark",
+    "tense"
+  ],
+  "description": "Middle Tower, also known as Focus Tower. Useful for short segments.",
+  "latest_version": "smwc-25197-1607410197",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25197,
+      "title": "Final Fantasy: Mystic Quest - Middle Tower",
+      "version": "smwc-25197-1607410197",
+      "upstream_time": 1607410197,
+      "download_url": "https://dl.smwcentral.net/25197/Middle%20Tower%20Sampled.zip",
+      "filename": "Middle Tower Sampled.zip",
+      "size": 61666,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22193,
+      "title": "Final Fantasy: Mystic Quest - Middle Tower",
+      "version": "smwc-22193-1582696319",
+      "upstream_time": 1582696319,
+      "download_url": "https://dl.smwcentral.net/22193/Middle%20Tower.zip",
+      "filename": "Middle Tower.zip",
+      "size": 36459,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

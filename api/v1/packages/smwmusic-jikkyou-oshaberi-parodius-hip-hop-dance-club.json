@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-jikkyou-oshaberi-parodius-hip-hop-dance-club",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26443,
+  "title": "Jikkyou Oshaberi Parodius - Hip Hop Dance Club",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "title",
+    "urban"
+  ],
+  "description": "A SNES remix of \"That's the way I like it\" by KC & The Sunshine Band.<br>\r\nRequested by Anorakun.",
+  "latest_version": "smwc-26443-1617739062",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26443,
+      "title": "Jikkyou Oshaberi Parodius - Hip Hop Dance Club",
+      "version": "smwc-26443-1617739062",
+      "upstream_time": 1617739062,
+      "download_url": "https://dl.smwcentral.net/26443/Hip%20Hop%20Dance%20Club.zip",
+      "filename": "Hip Hop Dance Club.zip",
+      "size": 83685,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

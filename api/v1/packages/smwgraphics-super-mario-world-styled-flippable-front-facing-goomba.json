@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-flippable-front-facing-goomba",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20272,
+  "title": "Super Mario World Styled Flippable Front Facing Goomba",
+  "authors": [
+    "succo"
+  ],
+  "tags": [
+    "goomba",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "This is a front facing SMW Goomba, it is to be used with this patch <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12479\">here</a> which makes the Goomba animate by flipping it's first walking frame. This frees up a little more space for graphics and could be useful for custom sprites that use custom GFX. A small tutorial for using this in conjunction with Blind Devil's Classic Goomba is in the readme.",
+  "latest_version": "smwc-20272-1562619815",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20272,
+      "title": "Super Mario World Styled Flippable Front Facing Goomba",
+      "version": "smwc-20272-1562619815",
+      "upstream_time": 1562619815,
+      "download_url": "https://dl.smwcentral.net/20272/frontgaloomba.zip",
+      "filename": "frontgaloomba.zip",
+      "size": 3356,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-metal-slug-assault-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10369,
+  "title": "Metal Slug - Assault Theme",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final",
+    "industrial"
+  ],
+  "description": "A powerful song from one of the most famous arcade games, Metal Slug. It potentially fits athletic levels and boss battles.",
+  "latest_version": "smwc-10369-1424452439",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10369,
+      "title": "Metal Slug - Assault Theme",
+      "version": "smwc-10369-1424452439",
+      "upstream_time": 1424452439,
+      "download_url": "https://dl.smwcentral.net/10369/Metal%20Slug%20-%20Assault%20theme.zip",
+      "filename": "Metal Slug - Assault theme.zip",
+      "size": 81000,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

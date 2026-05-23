@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-time-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7406,
+  "title": "Time Tower",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "bonus",
+    "castle"
+  ],
+  "description": "This one suits a clock-themed area (whatever that is),  or just any other castle / tower.",
+  "latest_version": "smwc-7406-1319959679",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7406,
+      "title": "Time Tower",
+      "version": "smwc-7406-1319959679",
+      "upstream_time": 1319959679,
+      "download_url": "https://dl.smwcentral.net/7406/TimeTower.zip",
+      "filename": "TimeTower.zip",
+      "size": 69909,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-zelda-ii-the-adventure-of-link-palace-arr",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11765,
+  "title": "Zelda II: The Adventure of Link - Palace (arr.)",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "temple",
+    "tense"
+  ],
+  "description": "A custom arrangement of the dark palace theme from Zelda 2 in G-minor.<br>\r\nWould fit well in a castle or an otherwise important moment in a level.<br>\r\n<br>\r\nSMW version has less echo.",
+  "latest_version": "smwc-11765-1439220432",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11765,
+      "title": "Zelda II: The Adventure of Link - Palace (arr.)",
+      "version": "smwc-11765-1439220432",
+      "upstream_time": 1439220432,
+      "download_url": "https://dl.smwcentral.net/11765/Zelda%202%20-%20Palace.zip",
+      "filename": "Zelda 2 - Palace.zip",
+      "size": 110432,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

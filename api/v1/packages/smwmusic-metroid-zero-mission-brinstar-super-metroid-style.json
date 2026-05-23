@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-metroid-zero-mission-brinstar-super-metroid-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26933,
+  "title": "Metroid: Zero Mission - Brinstar (Super Metroid Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "(Super Brinstar)",
+  "latest_version": "smwc-26933-1622339452",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26933,
+      "title": "Metroid: Zero Mission - Brinstar (Super Metroid Style)",
+      "version": "smwc-26933-1622339452",
+      "upstream_time": 1622339452,
+      "download_url": "https://dl.smwcentral.net/26933/MZM_BS_SM.zip",
+      "filename": "MZM_BS_SM.zip",
+      "size": 61985,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-nitro-kart-invincibility-all-variations",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38454,
+  "title": "Crash Nitro Kart - Invincibility (All Variations)",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "p-switch",
+    "star"
+  ],
+  "description": "A short tribal 3 second loop with bongos and a xylophone melody that changes depending on the mask used.<br>\r\n<br>\r\nYou can define in the .txt file which variation you want to use:<br>\r\n0 - Aku-Aku <br>\r\n1 - Uka-Uka (0x00B2)<br>\r\n2 - Velo Mask (0x00B5)",
+  "latest_version": "smwc-38454-1732638682",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38454,
+      "title": "Crash Nitro Kart - Invincibility (All Variations)",
+      "version": "smwc-38454-1732638682",
+      "upstream_time": 1732638682,
+      "download_url": "https://dl.smwcentral.net/38454/CNK%20-%20Inivincibility%20%28All%20Variations%29.zip",
+      "filename": "CNK - Inivincibility (All Variations).zip",
+      "size": 94090,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

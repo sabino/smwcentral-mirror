@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-manufacturing-destruction",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10988,
+  "title": "Manufacturing Destruction",
+  "authors": [
+    "Mayonnai"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "industrial"
+  ],
+  "description": "Might fit for darker factory levels.",
+  "latest_version": "smwc-10988-1426392150",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10988,
+      "title": "Manufacturing Destruction",
+      "version": "smwc-10988-1426392150",
+      "upstream_time": 1426392150,
+      "download_url": "https://dl.smwcentral.net/10988/manufacturing_destruction.zip",
+      "filename": "manufacturing_destruction.zip",
+      "size": 33678,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

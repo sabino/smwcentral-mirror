@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-pass-through-ledge-by-pressing-a",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41220,
+  "title": "Pass-Through Ledge by Pressing A",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "ledge",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Unlike other passable ledges, this one requires the player to hold down and tap A to fall through. This is useful if you want the player to have freedom to duck and duck-jump without having to fall through. <br>\r\n<br>\r\nHowever, if the player is riding Yoshi, it requires only to tap down to fall through.",
+  "latest_version": "smwc-41220-1764816620",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41220,
+      "title": "Pass-Through Ledge by Pressing A",
+      "version": "smwc-41220-1764816620",
+      "upstream_time": 1764816620,
+      "download_url": "https://dl.smwcentral.net/41220/Press%20Down%20Ledge.zip",
+      "filename": "Press Down Ledge.zip",
+      "size": 1120,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

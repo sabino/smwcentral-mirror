@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-coin-game-cloud-s-coin",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30708,
+  "title": "Coin Game Cloud's Coin",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bonus",
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of extended sprite 0A in SMW, Coin Game Cloud's Coin.",
+  "latest_version": "smwc-30708-1670587600",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30708,
+      "title": "Coin Game Cloud's Coin",
+      "version": "smwc-30708-1670587600",
+      "upstream_time": 1670587600,
+      "download_url": "https://dl.smwcentral.net/30708/Coin%20Cloud%27s%20Coin%20Disassembly.zip",
+      "filename": "Coin Cloud%27s Coin Disassembly.zip",
+      "size": 2788,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-overworld-event-debugger",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28395,
+  "title": "Overworld Event Debugger",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "debug",
+    "event",
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "With this patch, pressing A, B, X or Y while on a level tile in the overworld will activate, respectively, the normal exit or secret exits 1, 2 and 3 and run the corresponding event instantly.<br>\r\n<br>\r\nThe patch includes a table of which events are allowed to be ran for each level (which is useful for contests/a showoff), but for actual debugging purposes, it's possible to circumvent that table and allow any button press to run any event in any level tile. The table also allows for specified levels to be enterable as normal.<br>\r\n<br>\r\nThis patch can be very easily removed from your hack.",
+  "latest_version": "smwc-28395-1632764449",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28395,
+      "title": "Overworld Event Debugger",
+      "version": "smwc-28395-1632764449",
+      "upstream_time": 1632764449,
+      "download_url": "https://dl.smwcentral.net/28395/eventdebug.zip",
+      "filename": "eventdebug.zip",
+      "size": 1884,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

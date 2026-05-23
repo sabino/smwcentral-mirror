@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-sparkster-steel-works",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27121,
+  "title": "Sparkster - Steel Works",
+  "authors": [
+    "K.T.B."
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "chase",
+    "dark",
+    "fire",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "A heavy rock theme from the SNES version of Rocket Knight Adventures 2. It could work in a factory / industrial setting. I could also see this being used in a fire-based level, possibly.<br>\r\n<br>\r\nChannels 7 and 8 are unused, meaning in-game sound effects won't hinder the song.<br>\r\n<br>\r\nRequested by Infinity.",
+  "latest_version": "smwc-27121-1624213544",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27121,
+      "title": "Sparkster - Steel Works",
+      "version": "smwc-27121-1624213544",
+      "upstream_time": 1624213544,
+      "download_url": "https://dl.smwcentral.net/27121/KTB%20sparkstersteelworks.zip",
+      "filename": "KTB sparkstersteelworks.zip",
+      "size": 76862,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

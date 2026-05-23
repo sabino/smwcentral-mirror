@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-diadra-empty-white-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26697,
+  "title": "Diadra Empty - White Night",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark",
+    "ice",
+    "night",
+    "overworld",
+    "snow"
+  ],
+  "description": "Weapon selection screen's music from Diadra Empty.<br>\r\nIt's a little bit short and repetitive.",
+  "latest_version": "smwc-26697-1619842696",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26697,
+      "title": "Diadra Empty - White Night",
+      "version": "smwc-26697-1619842696",
+      "upstream_time": 1619842696,
+      "download_url": "https://dl.smwcentral.net/26697/White%20Night.zip",
+      "filename": "White Night.zip",
+      "size": 60367,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

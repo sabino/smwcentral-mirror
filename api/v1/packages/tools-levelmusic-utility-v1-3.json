@@ -1,0 +1,33 @@
+{
+  "name": "tools-levelmusic-utility-v1-3",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 5836,
+  "title": "LevelMusic Utility v1.3.2",
+  "authors": [
+    "ExoticMatter"
+  ],
+  "tags": [
+    "editor",
+    "music",
+    "sa-1",
+    "utility"
+  ],
+  "description": "LevelMusic is a custom level music bypass that covers for the two main issues with the standard Music Bypass feature in Lunar Magic:<ul><li>Custom music does not work with mode 7 bosses.</li>\r\n<li>The music does not fade between levels that have different music.</li></ul>LevelMusic, on the other hand, has neither of these limitations.<br>\r\n<br>\r\nThis Utility allows you to apply, reconfigure, and remove LevelMusic without boring you with the nitty gritty details; changing level music is now convenient and can be done without even leaving Lunar Magic.<br>\r\n<br>\r\nThis Utility requires the .NET Framework 2.0 or higher.<br>\r\n<br>\r\nSee the readme for instructions on how to add this to your Lunar Magic toolbar.<br>\r\n<br>\r\nThe latest update adds an option to export your ROM's LevelMusic table whenever it is modified; this update simplifies porting hacks that use LevelMusic to a clean ROM.",
+  "latest_version": "smwc-5836-1388314692",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 5836,
+      "title": "LevelMusic Utility v1.3.2",
+      "version": "smwc-5836-1388314692",
+      "upstream_time": 1388314692,
+      "download_url": "https://dl.smwcentral.net/5836/lvmus-util-v1.3.2.zip",
+      "filename": "lvmus-util-v1.3.2.zip",
+      "size": 31446,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

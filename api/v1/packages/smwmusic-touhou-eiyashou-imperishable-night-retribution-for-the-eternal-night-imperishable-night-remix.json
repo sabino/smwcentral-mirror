@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-eiyashou-imperishable-night-retribution-for-the-eternal-night-imperishable-night-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24112,
+  "title": "Touhou Eiyashou ~ Imperishable Night - Retribution for the Eternal Night ~ Imperishable Night (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "night",
+    "tense"
+  ],
+  "description": "A remix of the fourth stage theme in Touhou 8: Imperishable Night. Another one of my favorite stage themes in any Touhou game.<br>\r\n<br>\r\nPerfect for night, athletic, forest, and intense stages.<br>\r\n<br>\r\n<b>Note:</b><br>\r\nThere is a \"!READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n- @7 is disabled.<br>\r\n<br>\r\nThere are also two customizable pitches for this song that you can adjust in the song's txt file:<br>\r\n- F Minor (Original Pitch, turned on default)<br>\r\n- F# Minor (Custom Pitch)",
+  "latest_version": "smwc-24112-1597559438",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24112,
+      "title": "Touhou Eiyashou ~ Imperishable Night - Retribution for the Eternal Night ~ Imperishable Night (Remix)",
+      "version": "smwc-24112-1597559438",
+      "upstream_time": 1597559438,
+      "download_url": "https://dl.smwcentral.net/24112/Imperishable_Night.zip",
+      "filename": "Imperishable_Night.zip",
+      "size": 127924,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

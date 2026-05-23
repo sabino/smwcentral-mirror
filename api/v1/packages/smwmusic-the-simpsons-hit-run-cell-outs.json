@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-the-simpsons-hit-run-cell-outs",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22660,
+  "title": "The Simpsons: Hit & Run - CELL-OUTS",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "chase",
+    "final",
+    "ghost house",
+    "spooky",
+    "tense"
+  ],
+  "description": "Massive halloween-y song from Hit & Run, you hear it in many missions, the most memorable one is perhaps the one where you race professor Frink and his fancy invisible hovercar. The song would suit long athletics levels, due to all the different melodies inside this.<br>\r\n<br>\r\nUPDATE: Made it compatible with all sfx/global songs.",
+  "latest_version": "smwc-22660-1587749005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22660,
+      "title": "The Simpsons: Hit & Run - CELL-OUTS",
+      "version": "smwc-22660-1587749005",
+      "upstream_time": 1587749005,
+      "download_url": "https://dl.smwcentral.net/22660/cell-outs.zip",
+      "filename": "cell-outs.zip",
+      "size": 83872,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

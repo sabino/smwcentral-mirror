@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-disable-cape-flight",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 35322,
+  "title": "Disable Cape Flight",
+  "authors": [
+    "Heitor Porfirio"
+  ],
+  "tags": [
+    "cape",
+    "feather",
+    "flight",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This simple UberASM code will disable Mario's flight with the Feather Cape, but it will still be able to carry items and run.<br>\r\n<br>\r\nUnlike the <a href=\"https://smwc.me/w/13\">tweak</a> that does that same function, this UberASM can be applied in a per-level basis! But you can also use it in all levels through GameMode 14.",
+  "latest_version": "smwc-35322-1701345133",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 35322,
+      "title": "Disable Cape Flight",
+      "version": "smwc-35322-1701345133",
+      "upstream_time": 1701345133,
+      "download_url": "https://dl.smwcentral.net/35322/Disable%20Cape%20Flight.zip",
+      "filename": "Disable Cape Flight.zip",
+      "size": 242,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-dxrk-rave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39107,
+  "title": "Dxrk ダーク - RAVE",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "mysterious",
+    "night",
+    "tense",
+    "urban"
+  ],
+  "description": "A near 1:1 phonk port on the SNES!<br>\r\n<br>\r\nFits best in dark, castle, lava levels.",
+  "latest_version": "smwc-39107-1740682839",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39107,
+      "title": "Dxrk ダーク - RAVE",
+      "version": "smwc-39107-1740682839",
+      "upstream_time": 1740682839,
+      "download_url": "https://dl.smwcentral.net/39107/DxrkRave.zip",
+      "filename": "DxrkRave.zip",
+      "size": 139978,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

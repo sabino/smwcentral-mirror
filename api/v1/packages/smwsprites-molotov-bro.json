@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-molotov-bro",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3297,
+  "title": "Molotov Bro.",
+  "authors": [
+    "Koyuki"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This guy throws molotov bombs at mario. The molotov bomb turns to fire when it touches the ground.",
+  "latest_version": "smwc-3297-1210535161",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3297,
+      "title": "Molotov Bro.",
+      "version": "smwc-3297-1210535161",
+      "upstream_time": 1210535161,
+      "download_url": "https://dl.smwcentral.net/3297/Molotov%20Bro.zip",
+      "filename": "Molotov Bro.zip",
+      "size": 9115,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

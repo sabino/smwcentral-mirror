@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-chrono-trigger-manoria-cathedral",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21225,
+  "title": "Chrono Trigger - Manoria Cathedral",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cathedral",
+    "cutscene",
+    "night",
+    "ruins",
+    "sad"
+  ],
+  "description": "Short song that could be used in a resting area or at the entrance of a cathedral.",
+  "latest_version": "smwc-21225-1569612406",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21225,
+      "title": "Chrono Trigger - Manoria Cathedral",
+      "version": "smwc-21225-1569612406",
+      "upstream_time": 1569612406,
+      "download_url": "https://dl.smwcentral.net/21225/115%20Manoria%20Cathedral.zip",
+      "filename": "115 Manoria Cathedral.zip",
+      "size": 42703,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20720,
+      "title": "Chrono Trigger - Manoria Cathedral",
+      "version": "smwc-20720-1563649063",
+      "upstream_time": 1563649063,
+      "download_url": "https://dl.smwcentral.net/20720/Chrono%20Trigger%20-%20Manoria%20Cathedral.zip",
+      "filename": "Chrono Trigger - Manoria Cathedral.zip",
+      "size": 30631,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

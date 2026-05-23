@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-lake-caverns",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20154,
+  "title": "Pokémon Diamond/Pearl/Platinum - Lake Caverns",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "cutscene",
+    "ruins",
+    "water"
+  ],
+  "description": "Suitable for caves with water, mostly pre-boss battle.",
+  "latest_version": "smwc-20154-1559962993",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20154,
+      "title": "Pokémon Diamond/Pearl/Platinum - Lake Caverns",
+      "version": "smwc-20154-1559962993",
+      "upstream_time": 1559962993,
+      "download_url": "https://dl.smwcentral.net/20154/Lake%20Caverns.zip",
+      "filename": "Lake Caverns.zip",
+      "size": 87552,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

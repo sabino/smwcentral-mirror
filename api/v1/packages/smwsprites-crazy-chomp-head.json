@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-crazy-chomp-head",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22800,
+  "title": "Crazy Chomp Head",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bouncing",
+    "chomp",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a chomp head that bounces and chases player. It'll occasionally jump higher.<br>\r\n<br>\r\nOn extra bit it'll be sleepy and won't chase untill player gets close.<br>\r\n<br>\r\nCredit is optional. Requested by StrikeForcer.",
+  "latest_version": "smwc-22800-1588975881",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22800,
+      "title": "Crazy Chomp Head",
+      "version": "smwc-22800-1588975881",
+      "upstream_time": 1588975881,
+      "download_url": "https://dl.smwcentral.net/22800/CrazyChomp.zip",
+      "filename": "CrazyChomp.zip",
+      "size": 5971,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

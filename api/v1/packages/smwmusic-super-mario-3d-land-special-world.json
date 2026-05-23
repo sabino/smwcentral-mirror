@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-3d-land-special-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20533,
+  "title": "Super Mario 3D Land - Special World 8 (Remix)",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "overworld"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nVery nice tune I discovered by accident; in theory the drums+bass build as the player progress through the game, but I decided to make a little remix.",
+  "latest_version": "smwc-20533-1562583337",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20533,
+      "title": "Super Mario 3D Land - Special World 8 (Remix)",
+      "version": "smwc-20533-1562583337",
+      "upstream_time": 1562583337,
+      "download_url": "https://dl.smwcentral.net/20533/Super%20Mario%203D%20Land%20-%20Special%20World%208%20%28remix%29.zip",
+      "filename": "Super Mario 3D Land - Special World 8 (remix).zip",
+      "size": 37947,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

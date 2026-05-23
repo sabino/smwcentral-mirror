@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-frieren-beyond-journey-s-end-zoltraak",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38672,
+  "title": "Frieren: Beyond Journey's End - Zoltraak",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "forest",
+    "tense",
+    "upbeat"
+  ],
+  "description": "The epic and celtic sounding theme from the Frieren: Beyond Journey's End anime. Good for boss fights, and possibly levels as well depending on the amount of intensity it might have.",
+  "latest_version": "smwc-38672-1739566068",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38672,
+      "title": "Frieren: Beyond Journey's End - Zoltraak",
+      "version": "smwc-38672-1739566068",
+      "upstream_time": 1739566068,
+      "download_url": "https://dl.smwcentral.net/38672/zoltraak.zip",
+      "filename": "zoltraak.zip",
+      "size": 141422,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

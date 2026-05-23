@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-phoenix-wright-ace-attorney-trials-and-tribulations-pursuit-catch-the-culprit-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17093,
+  "title": "Phoenix Wright: Ace Attorney: Trials and Tribulations - Pursuit ~ Catch the Culprit (Arrangement)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "tense"
+  ],
+  "description": "This is the Pursuit theme from Trials and Tribulations, which IMO is one of the best Pursuit themes from the entire series (right up there with AJ:AA's and AAI2's IMO; Cornered is overrated as fuck, tho it's still pretty good), and this is a bit of an arrangement of it, tho the only notable change to the melody here is the pitch bends lol. Mostly useful for cutscenes and maybe boss fights if it fits the intensity well enough.<br>\r\n<br>\r\nBtw, this port is using a custom sample group (mostly because it wouldn't fit otherwise), so a few SFX won't really work correctly; still tho, I hope this is fine enough!",
+  "latest_version": "smwc-17093-1519708179",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17093,
+      "title": "Phoenix Wright: Ace Attorney: Trials and Tribulations - Pursuit ~ Catch the Culprit (Arrangement)",
+      "version": "smwc-17093-1519708179",
+      "upstream_time": 1519708179,
+      "download_url": "https://dl.smwcentral.net/17093/t%26t%20pursuit.zip",
+      "filename": "t%26t pursuit.zip",
+      "size": 94975,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

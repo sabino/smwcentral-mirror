@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-galaxy-first-steps",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8853,
+  "title": "Super Mario Galaxy - First Steps",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "A very short song from Super Mario Galaxy. Could work for heroic cutscenes.",
+  "latest_version": "smwc-8853-1412114386",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8853,
+      "title": "Super Mario Galaxy - First Steps",
+      "version": "smwc-8853-1412114386",
+      "upstream_time": 1412114386,
+      "download_url": "https://dl.smwcentral.net/8853/SMG%20-%20First%20Steps.zip",
+      "filename": "SMG - First Steps.zip",
+      "size": 76361,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-nokia-ringtone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21881,
+  "title": "Nokia Ringtone",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "game over",
+    "misc",
+    "miss"
+  ],
+  "description": "nokia's ringtone.<br>\r\nIncludes a version which begins with SMW's death SFX, intended to be used as miss theme. The one that doesn't might be a nice game over theme.",
+  "latest_version": "smwc-21881-1578435897",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21881,
+      "title": "Nokia Ringtone",
+      "version": "smwc-21881-1578435897",
+      "upstream_time": 1578435897,
+      "download_url": "https://dl.smwcentral.net/21881/Nokia%20Ringtone.zip",
+      "filename": "Nokia Ringtone.zip",
+      "size": 61491,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

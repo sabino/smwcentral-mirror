@@ -1,0 +1,31 @@
+{
+  "name": "tools-graphic-editor",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 15530,
+  "title": "Graphic Editor",
+  "authors": [
+    "mzuenni"
+  ],
+  "tags": [
+    "graphics",
+    "palette"
+  ],
+  "description": "A Graphic Editor like YY_CHR specialised for SMW Graphics<br>\r\n(LM .palmask update and some other changes)<br>\r\nUpdate:<br>\r\nFinally removed the org.eclipse.swt for clippboard support which makes the program much smaller :D<br>\r\n<br>\r\nCan edit mode 7 files like GFX27.bin",
+  "latest_version": "smwc-15530-1499523567",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 15530,
+      "title": "Graphic Editor",
+      "version": "smwc-15530-1499523567",
+      "upstream_time": 1499523567,
+      "download_url": "https://dl.smwcentral.net/15530/Graphic%20Editor.zip",
+      "filename": "Graphic Editor.zip",
+      "size": 326334,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

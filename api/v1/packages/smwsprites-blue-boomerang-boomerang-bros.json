@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-blue-boomerang-boomerang-bros",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35773,
+  "title": "Blue Boomerang / Boomerang Bros.",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "blue boomerang",
+    "boomerang",
+    "boomerang bros",
+    "e-reader",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "super mario advance 4"
+  ],
+  "description": "The Blue Boomerang from Super Mario Advance 4's e-Reader levels.<br>\r\n<br>\r\nIt can be picked up and thrown, and it will kill enemies in a similar way to a thrown shell. It cannot be thrown up or placed back down once it's been picked up.<br>\r\n<br>\r\nAdditionally, it includes an updated Boomerang Bros. sprite which will throw a new Extended Sprite -- it functions similarly to the existing sprite, but it will turn into the carriable Blue Boomerang once the Boomerang Bros. that threw it is defeated.<br>\r\n<br>\r\nIf you're using my other Boomerang Bros. sprite, you can replace it with this version and it should work without issue.",
+  "latest_version": "smwc-35773-1736256585",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35773,
+      "title": "Blue Boomerang / Boomerang Bros.",
+      "version": "smwc-35773-1736256585",
+      "upstream_time": 1736256585,
+      "download_url": "https://dl.smwcentral.net/35773/Blue_Boomerang.zip",
+      "filename": "Blue_Boomerang.zip",
+      "size": 12238,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

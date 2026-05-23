@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-metroid-tourian",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36742,
+  "title": "Super Metroid - Tourian",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "dark",
+    "environmental",
+    "sewer",
+    "water"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36742-1706162401",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36742,
+      "title": "Super Metroid - Tourian",
+      "version": "smwc-36742-1706162401",
+      "upstream_time": 1706162401,
+      "download_url": "https://dl.smwcentral.net/36742/20%20Tourian.zip",
+      "filename": "20 Tourian.zip",
+      "size": 207105,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

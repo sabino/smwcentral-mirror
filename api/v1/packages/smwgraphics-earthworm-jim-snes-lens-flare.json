@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-earthworm-jim-snes-lens-flare",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 22405,
+  "title": "Earthworm Jim (SNES) - Lens Flare",
+  "authors": [
+    "DTA450"
+  ],
+  "tags": [
+    "2bpp",
+    "realistic"
+  ],
+  "description": "A sun reflection graphic used in the first level of Earthworm Jim.<br>\r\nIn the original game this is a 'layer 2 background', but I converted it so it can be used as layer 3.<br>\r\n<br>\r\nIt includes 3 ExGFX files (one for the tilemap), two sample levels (one of two allow priority above other layers), and two palettes (one of two make it more visible).<br>\r\n",
+  "latest_version": "smwc-22405-1588565242",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 22405,
+      "title": "Earthworm Jim (SNES) - Lens Flare",
+      "version": "smwc-22405-1588565242",
+      "upstream_time": 1588565242,
+      "download_url": "https://dl.smwcentral.net/22405/EJ%20-%20Sunlight.zip",
+      "filename": "EJ - Sunlight.zip",
+      "size": 6560,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

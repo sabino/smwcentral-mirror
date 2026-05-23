@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-vii-those-who-fight-further",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12221,
+  "title": "Final Fantasy VII - Those Who Fight Further",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "(Also known as \"Fight On!\" or \"Still More Fighting\") <br>\r\n <br>\r\nThe well-known boss battle theme from Final Fantasy VII, now in SMW.<br>\r\n<br>\r\nPlease note that, because of the big amount of samples and their size, this isn't compatible with Yoshi's SFX nor the \"Thunder\" (explosion) SFX.<br>\r\nIt's not compatible with the original P-Switch music either.",
+  "latest_version": "smwc-12221-1446259769",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12221,
+      "title": "Final Fantasy VII - Those Who Fight Further",
+      "version": "smwc-12221-1446259769",
+      "upstream_time": 1446259769,
+      "download_url": "https://dl.smwcentral.net/12221/Final%20Fantasy%20VII%20-%20Still%20More%20Fighting.zip",
+      "filename": "Final Fantasy VII - Still More Fighting.zip",
+      "size": 139879,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

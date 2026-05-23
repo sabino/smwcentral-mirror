@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-rhythm-heaven-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22471,
+  "title": "Rhythm Heaven - Remix 9",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "bonus",
+    "boss",
+    "carnival",
+    "chase",
+    "switch palace",
+    "upbeat"
+  ],
+  "description": "The funky and all-over-the-place (as with most Rhythm Heaven music) music of the 9th Remix from Rhythm Heaven on the DS, prominently featuring the evil moais that nobody likes, but now with sunglasses!<br>\r\n<br>\r\nAlso my entry to 72hoSPC #6.<br>\r\n<br>\r\nIt's a song that's a bit chaotic. I suppose it could fit puzzles, bosses, or maybe even a rhythmic level.<br>\r\n<br>\r\nOn a more technical note, fitting the business of this song into 8 channels was Very messy and there's several instances of multiple of the original's channels/melodies being crammed into one SNES channel.",
+  "latest_version": "smwc-22471-1585701395",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22471,
+      "title": "Rhythm Heaven - Remix 9",
+      "version": "smwc-22471-1585701395",
+      "upstream_time": 1585701395,
+      "download_url": "https://dl.smwcentral.net/22471/remix%209.zip",
+      "filename": "remix 9.zip",
+      "size": 37477,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

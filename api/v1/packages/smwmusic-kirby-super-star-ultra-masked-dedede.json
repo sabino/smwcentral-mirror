@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-kirby-super-star-ultra-masked-dedede",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18208,
+  "title": "Kirby Super Star Ultra - Masked Dedede",
+  "authors": [
+    "Barrels O' Fun"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "A fast paced boss theme which plays when you fight Masked Dedede. It could be used during a special and/or unique Boss.",
+  "latest_version": "smwc-18208-1538186253",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18208,
+      "title": "Kirby Super Star Ultra - Masked Dedede",
+      "version": "smwc-18208-1538186253",
+      "upstream_time": 1538186253,
+      "download_url": "https://dl.smwcentral.net/18208/Kirby%20Super%20Star%20Ultra%20-%20Masked%20Dedede.zip",
+      "filename": "Kirby Super Star Ultra - Masked Dedede.zip",
+      "size": 72486,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7358,
+      "title": "Kirby Super Star Ultra - Masked Dedede",
+      "version": "smwc-7358-1312575559",
+      "upstream_time": 1312575559,
+      "download_url": "https://dl.smwcentral.net/7358/KSSU-MaskedDeDeDe.zip",
+      "filename": "KSSU-MaskedDeDeDe.zip",
+      "size": 69018,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

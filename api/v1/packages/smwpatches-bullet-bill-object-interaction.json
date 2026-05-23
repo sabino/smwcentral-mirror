@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bullet-bill-object-interaction",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24492,
+  "title": "Bullet Bill Object Interaction",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "bullet bill",
+    "interaction",
+    "lorom",
+    "object",
+    "sa-1"
+  ],
+  "description": "This patch gives Bullet Bills interaction with objects, and causes them to turn/flip if they make contact with solid objects. You can either apply the patch globally, or use a FreeRAM-based toggle which allows you to give Bullet Bills interaction on a per-level basis with UberASM (or with your own triggers if you want to use it creatively!).<br>\r\n<br>\r\nThe patch also tweaks the sprite-object interaction routine for Bullet Bills, to fix interaction issues when using the patch with moving layer 2 or slopes.<br>\r\n<br>\r\nSee the .asm file for customization options and usage notes.",
+  "latest_version": "smwc-24492-1604543330",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24492,
+      "title": "Bullet Bill Object Interaction",
+      "version": "smwc-24492-1604543330",
+      "upstream_time": 1604543330,
+      "download_url": "https://dl.smwcentral.net/24492/BillObjInteraction.zip",
+      "filename": "BillObjInteraction.zip",
+      "size": 3045,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-majora-s-mask-stone-tower-temple-normal",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17128,
+  "title": "The Legend of Zelda: Majora's Mask - Stone Tower Temple (normal)",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "dark",
+    "desert",
+    "mountain",
+    "ruins",
+    "temple"
+  ],
+  "description": "This is quite an eerie ancient-sounding piece of music. It might be useful in ruins or temples or the like, though its dark and serious tone may only lend itself to specific circumstances. Just a word of caution: the echo on this port was turned up to add a lot of spacious effect to the music, and while that IMHO makes it sound awesome, it might be annoying when SFX are using it. So if you find the echo to be too loud on the SFX, either modify the echo settings in the txt, or just leave echo to the music.<br>\r\n<br>\r\nThis port was requested by Lolyoshi. I hope you and others like it :). All samples used in this port were ripped from the game.<br>\r\n<br>\r\nUpdated: fixed title, tweaked mixing a bit to more closely match the original",
+  "latest_version": "smwc-17128-1518954100",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17128,
+      "title": "The Legend of Zelda: Majora's Mask - Stone Tower Temple (normal)",
+      "version": "smwc-17128-1518954100",
+      "upstream_time": 1518954100,
+      "download_url": "https://dl.smwcentral.net/17128/loz_stone.zip",
+      "filename": "loz_stone.zip",
+      "size": 69660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

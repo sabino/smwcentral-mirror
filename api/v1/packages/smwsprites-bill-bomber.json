@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-bill-bomber",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23690,
+  "title": "Bill Bomber",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "banzai bill",
+    "bill",
+    "bomb",
+    "bullet bill",
+    "enemy",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Bullet Bill throws Bob-ombs at Mario. If the extra bit is set, it will be a Bill Banzai, it will be invincible and it will throw 3 Bob-ombs at the same time.<br>\r\n<br>\r\n(Rykon-V73): Small change: You can edit sound effects, tilemap, palettes and the contact routine.",
+  "latest_version": "smwc-23690-1594955705",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23690,
+      "title": "Bill Bomber",
+      "version": "smwc-23690-1594955705",
+      "upstream_time": 1594955705,
+      "download_url": "https://dl.smwcentral.net/23690/Bill%20Bomber.zip",
+      "filename": "Bill Bomber.zip",
+      "size": 5119,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

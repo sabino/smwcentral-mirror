@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-samplicity",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8007,
+  "title": "Samplicity",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "athletic",
+    "final"
+  ],
+  "description": "A powerful athletic theme<br>\r\n<br>\r\n<br>\r\nUpdate (11/10/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 384 bytes.",
+  "latest_version": "smwc-8007-1313983034",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8007,
+      "title": "Samplicity",
+      "version": "smwc-8007-1313983034",
+      "upstream_time": 1313983034,
+      "download_url": "https://dl.smwcentral.net/8007/Samplicity..zip",
+      "filename": "Samplicity..zip",
+      "size": 57397,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

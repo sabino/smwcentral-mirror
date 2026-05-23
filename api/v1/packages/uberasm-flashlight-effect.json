@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-flashlight-effect",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 32547,
+  "title": "Flashlight Effect",
+  "authors": [
+    "Incognito"
+  ],
+  "tags": [
+    "dark",
+    "effect",
+    "lorom",
+    "sa-1",
+    "spotlight"
+  ],
+  "description": "With this code and the included GFX resources, you can create a spotlight effect that follows the player. GFX includes small and big spotlight circles. It can be set be on layer 1 (not recommend), layer 2 or layer 3.<br>\r\n<br>\r\nMake sure you set the scrolling in both directions to \"None\" for the affected layer.<br>\r\n<br>\r\nNote that due to hardware limitations, sprite palettes 8-B are unaffected by the spotlight and will always appear in full visibility. In addition, the colors for the spotlight need to be inverted from how they'll appear in game if you intend on using a custom palette for the spotlight.<br>\r\n<br>\r\nIf you want to put the spotlight on layer 3 or while making use of mode 0, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32548\">here are some graphics you can use</a>.",
+  "latest_version": "smwc-32547-1688073475",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 32547,
+      "title": "Flashlight Effect",
+      "version": "smwc-32547-1688073475",
+      "upstream_time": 1688073475,
+      "download_url": "https://dl.smwcentral.net/32547/Flashlight.zip",
+      "filename": "Flashlight.zip",
+      "size": 6656,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

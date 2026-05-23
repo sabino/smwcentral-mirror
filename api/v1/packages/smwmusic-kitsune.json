@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kitsune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20946,
+  "title": "Kitsune^2 - Rainbow Tylenol (Arrangement)",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "fire"
+  ],
+  "description": "Could fit with castle theme",
+  "latest_version": "smwc-20946-1566324903",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20946,
+      "title": "Kitsune^2 - Rainbow Tylenol (Arrangement)",
+      "version": "smwc-20946-1566324903",
+      "upstream_time": 1566324903,
+      "download_url": "https://dl.smwcentral.net/20946/Rainbow%20Tylenol.zip",
+      "filename": "Rainbow Tylenol.zip",
+      "size": 57755,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-item-memory-table-expansion",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27830,
+  "title": "Item Memory Table Expansion",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "coin",
+    "dragon coin",
+    "item memory",
+    "lorom",
+    "object",
+    "objectool",
+    "sa-1",
+    "tile"
+  ],
+  "description": "\tIt is a patch that expands the item memory table and makes it possible to store coin acquisition records etc. in units of 1 tile both vertically and horizontally.<br>\r\nEliminates the loss of untaken coins above and below the taken coins when warp you to another level. The same applies to Yoshi blocks.<br>\r\nIn addition, you can use a dedicated memory table for each level to record earned coins at more levels.<br>\r\nIt is also possible to share a memory table at several levels.<br>\r\nBy moving the level, in addition to erasing all coins at the source level, it is also possible to initialize the memory table.<br>\r\nIt also comes with a memory table read routine for Objectool 0.5.<br>\r\n<br>\r\nIf you exceed the memory table usage permission range, Mario's graphic will be strange and you can see that it exceeds the permission range. The permission range can be expanded.<br>\r\n<br>\r\nIt uses a lot of FreeRAM. Also consider using a patch that adds FreeRAM.<br>\r\n<br>\r\n-Caution-<br>\r\nIf layer 2 is used as the terrain and coins overlap at the initial positions of layer 1 and layer 2, even if only one coin is acquired, it will be recorded in the memory table as if both coins were acquired.",
+  "latest_version": "smwc-27830-1639514917",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27830,
+      "title": "Item Memory Table Expansion",
+      "version": "smwc-27830-1639514917",
+      "upstream_time": 1639514917,
+      "download_url": "https://dl.smwcentral.net/27830/Item%20Memory%20Table%20Expansion.zip",
+      "filename": "Item Memory Table Expansion.zip",
+      "size": 5890,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-carrot-top-lifts",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25418,
+  "title": "Carrot Top Lifts",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "carrot top lift",
+    "lift",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of the Carrot Top Lifts, sprites B7 and B8. The extra bit determines which of the original sprites it acts like.",
+  "latest_version": "smwc-25418-1607746299",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25418,
+      "title": "Carrot Top Lifts",
+      "version": "smwc-25418-1607746299",
+      "upstream_time": 1607746299,
+      "download_url": "https://dl.smwcentral.net/25418/SMWSDIS%20-%20sprites%20B7%20%26%20B8%20-%20Carrot%20Top%20Lifts.zip",
+      "filename": "SMWSDIS - sprites B7 %26 B8 - Carrot Top Lifts.zip",
+      "size": 4076,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

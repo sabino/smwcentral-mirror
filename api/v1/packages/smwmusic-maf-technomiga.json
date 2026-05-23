@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-maf-technomiga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39753,
+  "title": "Maf - Technomiga",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "castle",
+    "industrial",
+    "upbeat"
+  ],
+  "description": "A fun, groovy tracker song I found on ModArchive. Fitting for bonus areas, switch palaces, abstract levels and castles.",
+  "latest_version": "smwc-39753-1748301149",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39753,
+      "title": "Maf - Technomiga",
+      "version": "smwc-39753-1748301149",
+      "upstream_time": 1748301149,
+      "download_url": "https://dl.smwcentral.net/39753/Technomiga.zip",
+      "filename": "Technomiga.zip",
+      "size": 137756,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

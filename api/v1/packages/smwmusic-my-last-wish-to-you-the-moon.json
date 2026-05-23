@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-my-last-wish-to-you-the-moon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39099,
+  "title": "My Last Wish to You, the Moon",
+  "authors": [
+    "Archbishop Weeble-Wobble"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "mysterious",
+    "overworld"
+  ],
+  "description": "A short, emotional, Touhou inspired piece. Can be used for cutscenes and overworlds.<br>\r\n<br>\r\nThis song has a customizable loop option within the txt. Instructions are placed inside the txt.<br>\r\n<br>\r\nNon-looped: 0x02CF<br>\r\nLooped: 0x02E1",
+  "latest_version": "smwc-39099-1737746959",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39099,
+      "title": "My Last Wish to You, the Moon",
+      "version": "smwc-39099-1737746959",
+      "upstream_time": 1737746959,
+      "download_url": "https://dl.smwcentral.net/39099/My%20Last%20Wish%20to%20You%2C%20the%20Moon.zip",
+      "filename": "My Last Wish to You%2C the Moon.zip",
+      "size": 90021,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

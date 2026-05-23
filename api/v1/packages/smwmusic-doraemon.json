@@ -1,0 +1,79 @@
+{
+  "name": "smwmusic-doraemon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32332,
+  "title": "Doraemon 2: Nobita no Toys Land Daibouken - Athletic Mountain",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "game over",
+    "grassland",
+    "mountain",
+    "sky"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>",
+  "latest_version": "smwc-32332-1675023537",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32332,
+      "title": "Doraemon 2: Nobita no Toys Land Daibouken - Athletic Mountain",
+      "version": "smwc-32332-1675023537",
+      "upstream_time": 1675023537,
+      "download_url": "https://dl.smwcentral.net/32332/Athletic%20Mountain.zip",
+      "filename": "Athletic Mountain.zip",
+      "size": 60904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28460,
+      "title": "Doraemon 2: Nobita no Toys Land Daibouken - Game Over",
+      "version": "smwc-28460-1638053396",
+      "upstream_time": 1638053396,
+      "download_url": "https://dl.smwcentral.net/28460/Doraemon2GameOver%20%28Unsampled%29.zip",
+      "filename": "Doraemon2GameOver (Unsampled).zip",
+      "size": 30861,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28459,
+      "title": "Doraemon 2: Nobita no Toys Land Daibouken - Game Over",
+      "version": "smwc-28459-1638053263",
+      "upstream_time": 1638053263,
+      "download_url": "https://dl.smwcentral.net/28459/Doraemon2GameOver.zip",
+      "filename": "Doraemon2GameOver.zip",
+      "size": 23739,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7443,
+      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Old Western Town",
+      "version": "smwc-7443-1316536480",
+      "upstream_time": 1316536480,
+      "download_url": "https://dl.smwcentral.net/7443/Doraemon%203%20-%20Old%20Western%20Town.zip",
+      "filename": "Doraemon 3 - Old Western Town.zip",
+      "size": 73864,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

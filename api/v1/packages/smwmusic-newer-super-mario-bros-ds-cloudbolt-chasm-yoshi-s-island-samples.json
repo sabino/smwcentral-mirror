@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-newer-super-mario-bros-ds-cloudbolt-chasm-yoshi-s-island-samples",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32638,
+  "title": "Newer Super Mario Bros. DS - Cloudbolt Chasm (Yoshi's Island Samples)",
+  "authors": [
+    "Enderdavid_HD"
+  ],
+  "tags": [
+    "athletic",
+    "rain",
+    "sky"
+  ],
+  "description": "This is a sampled port of the music from Newer Super Mario Bros. DS in the level Cloudbolt Chasm. It has the samples from yoshi's island. It is also a Minor remix of the yoshi's island athletic theme. <br>\r\nWorks for thunderstorm levels or for levels with a dark theme.<br>\r\n<br>\r\nWorks with the lightning SFX.<br>\r\n<br>\r\nThe Zip file contains a version with echo and one without echo.",
+  "latest_version": "smwc-32638-1680324391",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32638,
+      "title": "Newer Super Mario Bros. DS - Cloudbolt Chasm (Yoshi's Island Samples)",
+      "version": "smwc-32638-1680324391",
+      "upstream_time": 1680324391,
+      "download_url": "https://dl.smwcentral.net/32638/NewerSMB%20DS%20Cloudbolt%20Chasm%20%28YI%20Samples%29.zip",
+      "filename": "NewerSMB DS Cloudbolt Chasm (YI Samples).zip",
+      "size": 74341,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-bandicoot-toxic-waste",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38117,
+  "title": "Crash Bandicoot - Toxic Waste",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "industrial",
+    "sewer",
+    "urban"
+  ],
+  "description": "A fast paced theme that plays in Toxic Waste, the last factory level in Crash Bandicoot, which as the name suggests is full of toxic waste.<br>\r\n<br>\r\nUpdate (02/16): updated the open hi-hat sample to be the one from the game<br>\r\nUpdate (07/20): updated the guitar and closed hi-hat samples, optimized one of the sfx samples<br>\r\n",
+  "latest_version": "smwc-38117-1722300804",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38117,
+      "title": "Crash Bandicoot - Toxic Waste",
+      "version": "smwc-38117-1722300804",
+      "upstream_time": 1722300804,
+      "download_url": "https://dl.smwcentral.net/38117/CB%20-%20Toxic%20Waste.zip",
+      "filename": "CB - Toxic Waste.zip",
+      "size": 101982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

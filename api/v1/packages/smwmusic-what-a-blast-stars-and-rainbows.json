@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-what-a-blast-stars-and-rainbows",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34823,
+  "title": "What-A-Blast! - Stars and Rainbows",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "sky"
+  ],
+  "description": "Song released from the C3 Winter 2016 Event for the SMW hack, What-a-Blast!",
+  "latest_version": "smwc-34823-1691757715",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34823,
+      "title": "What-A-Blast! - Stars and Rainbows",
+      "version": "smwc-34823-1691757715",
+      "upstream_time": 1691757715,
+      "download_url": "https://dl.smwcentral.net/34823/%5BU%5D%20%28CUSTOM%29%20Stars%20and%20Rainbows.zip",
+      "filename": "%5BU%5D (CUSTOM) Stars and Rainbows.zip",
+      "size": 31974,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34822,
+      "title": "What-A-Blast! - Stars and Rainbows",
+      "version": "smwc-34822-1691757670",
+      "upstream_time": 1691757670,
+      "download_url": "https://dl.smwcentral.net/34822/%5BS%5D%20%28CUSTOM%29%20Stars%20and%20Rainbows.zip",
+      "filename": "%5BS%5D (CUSTOM) Stars and Rainbows.zip",
+      "size": 78388,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-earthbound-the-jolly-flying-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7191,
+  "title": "EarthBound - The Jolly Flying Man",
+  "authors": [
+    "Sinister Pixel"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "cutscene",
+    "overworld",
+    "town"
+  ],
+  "description": "The theme that plays in Magicant when Ness meets the Flying Men. Could be used for tropical areas like beaches.",
+  "latest_version": "smwc-7191-1406670267",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7191,
+      "title": "EarthBound - The Jolly Flying Man",
+      "version": "smwc-7191-1406670267",
+      "upstream_time": 1406670267,
+      "download_url": "https://dl.smwcentral.net/7191/Earthbound%20-%20The%20Jolly%20Flying%20Man.zip",
+      "filename": "Earthbound - The Jolly Flying Man.zip",
+      "size": 67811,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-kart-super-circuit-boo-lake-broken-pier",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18255,
+  "title": "Mario Kart: Super Circuit - Boo Lake / Broken Pier",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "ghost house",
+    "night",
+    "spooky",
+    "tense"
+  ],
+  "description": "This is the spooky sounding music that plays on 2 of the courses in Mario Kart: Super Circuit. It's a bit more upbeat than most haunted songs. Fitting for a ghost house level or a spooky night level.<br>\r\n<br>\r\nEDITS: Lowered master volume (239 &#8594; 232). Added an extreme vibrato fade to one of the channels.",
+  "latest_version": "smwc-18255-1538866560",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18255,
+      "title": "Mario Kart: Super Circuit - Boo Lake / Broken Pier",
+      "version": "smwc-18255-1538866560",
+      "upstream_time": 1538866560,
+      "download_url": "https://dl.smwcentral.net/18255/Boo%20Pier.zip",
+      "filename": "Boo Pier.zip",
+      "size": 33236,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

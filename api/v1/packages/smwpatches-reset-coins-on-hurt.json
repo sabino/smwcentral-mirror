@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-reset-coins-on-hurt",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19251,
+  "title": "Reset Coins on Hurt",
+  "authors": [
+    "MovementThruPortals"
+  ],
+  "tags": [
+    "coins",
+    "hurt",
+    "kill",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Applying this patch will make Mario's coins reset when he gets hurt or killed.",
+  "latest_version": "smwc-19251-1551705155",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19251,
+      "title": "Reset Coins on Hurt",
+      "version": "smwc-19251-1551705155",
+      "upstream_time": 1551705155,
+      "download_url": "https://dl.smwcentral.net/19251/coinreset.zip",
+      "filename": "coinreset.zip",
+      "size": 544,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

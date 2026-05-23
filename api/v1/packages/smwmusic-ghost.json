@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ghost",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12352,
+  "title": "Ghost",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "That one Idol 7 Round 0 entry that was received lukewarmly.",
+  "latest_version": "smwc-12352-1446261188",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12352,
+      "title": "Ghost",
+      "version": "smwc-12352-1446261188",
+      "upstream_time": 1446261188,
+      "download_url": "https://dl.smwcentral.net/12352/2SPOOKY.zip",
+      "filename": "2SPOOKY.zip",
+      "size": 30681,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

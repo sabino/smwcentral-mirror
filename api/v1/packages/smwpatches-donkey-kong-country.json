@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-donkey-kong-country",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 16422,
+  "title": "Donkey Kong Country 2 Navigation Arrows",
+  "authors": [
+    "Alcaro",
+    "carol",
+    "lx5",
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "dkc2",
+    "lorom",
+    "navigation",
+    "overworld",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Shows arrows in the direction Mario can walk in the overworld.<br>\r\n<br>\r\nIt originally came with the old Overworld Sprite Tool as a custom sprite, I, LX5, converted it to a patch.",
+  "latest_version": "smwc-16422-1509871733",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 16422,
+      "title": "Donkey Kong Country 2 Navigation Arrows",
+      "version": "smwc-16422-1509871733",
+      "upstream_time": 1509871733,
+      "download_url": "https://dl.smwcentral.net/16422/arrows.zip",
+      "filename": "arrows.zip",
+      "size": 1844,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

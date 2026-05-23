@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-hydrothermal-hollow",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11148,
+  "title": "Hydrothermal Hollow",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "tense",
+    "water"
+  ],
+  "description": "A track I originally composed for the 1st round of Idol 6. I guess I took a bit of inspiration from WaterWorld. Anyway, this could be used for really deep areas, preferably underwater.",
+  "latest_version": "smwc-11148-1428110676",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11148,
+      "title": "Hydrothermal Hollow",
+      "version": "smwc-11148-1428110676",
+      "upstream_time": 1428110676,
+      "download_url": "https://dl.smwcentral.net/11148/hh.zip",
+      "filename": "hh.zip",
+      "size": 27001,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

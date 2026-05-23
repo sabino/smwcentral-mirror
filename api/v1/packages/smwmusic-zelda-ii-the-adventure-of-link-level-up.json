@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-zelda-ii-the-adventure-of-link-level-up",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29104,
+  "title": "Zelda II: The Adventure of Link - Level Up",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "misc",
+    "nintedo presents"
+  ],
+  "description": "The Level Up Fanfare from Zelda 2 on the NES.<br>\r\n<br>\r\nCan be used in short celebratory cutscenes.<br>\r\n<br>\r\nIt can also be used a global song comfortably, since the samples are rather light-weight, though that requires some music knowledge.<br>\r\n<br>\r\nUpdate: Reduced insert size, improved accuracy.",
+  "latest_version": "smwc-29104-1643573478",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29104,
+      "title": "Zelda II: The Adventure of Link - Level Up",
+      "version": "smwc-29104-1643573478",
+      "upstream_time": 1643573478,
+      "download_url": "https://dl.smwcentral.net/29104/Zelda%202%20The%20Adventure%20of%20Link%20-%20Level%20Up.zip",
+      "filename": "Zelda 2 The Adventure of Link - Level Up.zip",
+      "size": 30917,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

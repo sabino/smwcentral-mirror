@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-more-fireballs",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41647,
+  "title": "More Fireballs",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "abilities",
+    "lorom",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This patch will allow you to shoot more than two fireballs, up to 10, in fact (though high values should be avoided when using other extended sprites or the mode 7 bosses).<br>\r\n<br>\r\nRequires 10 bytes of freespace in bank $02.",
+  "latest_version": "smwc-41647-1771447475",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41647,
+      "title": "More Fireballs",
+      "version": "smwc-41647-1771447475",
+      "upstream_time": 1771447475,
+      "download_url": "https://dl.smwcentral.net/41647/MoreFireballs.zip",
+      "filename": "MoreFireballs.zip",
+      "size": 649,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

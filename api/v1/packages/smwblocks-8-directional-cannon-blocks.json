@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-8-directional-cannon-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41238,
+  "title": "8-Directional Cannon Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "cannon",
+    "lorom",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "These block contains 16 cannon blocks, button-dependent and automatic ones, each with 8 different directions, as well as 2 stopper blocks and a solid block that is only passable when Mario is being launched.<br>\r\n<br>\r\nWhen launched, Mario will shoot in a straight line, so place them carefully.<br>\r\n<br>\r\nThe button based cannons are used if the player is waiting for enemies to get out of his way, whereas the automatic ones are used for areas to blast the player from one place to another quickly.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">(12/7/2025)<br>\r\n* Fixed a label being uppercase confusing UberASMTool 2.0 and newer.<br>\r\n<br>\r\n(10/2/2022)<br>\r\n* Made Sa-1 Hybrid<br>\r\n* Made to work with UberASM Tool<br>\r\n* Moved a few defines over to cannon_defs.txt <br>\r\n* Added defines for the sound the cannons make </div></div>",
+  "latest_version": "smwc-41238-1765160588",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41238,
+      "title": "8-Directional Cannon Blocks",
+      "version": "smwc-41238-1765160588",
+      "upstream_time": 1765160588,
+      "download_url": "https://dl.smwcentral.net/41238/Cannon%20Blocks.zip",
+      "filename": "Cannon Blocks.zip",
+      "size": 73840,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

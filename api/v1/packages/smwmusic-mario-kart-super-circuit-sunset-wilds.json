@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-kart-super-circuit-sunset-wilds",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25699,
+  "title": "Mario Kart: Super Circuit - Sunset Wilds",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "town"
+  ],
+  "description": "The music that plays in the Sunset Wilds track from Mario Kart Super Circuit. Fitting for old-west styled desert levels. <br>\r\n<br>\r\nReleased in C3 2021, but made in 2017.",
+  "latest_version": "smwc-25699-1610999161",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25699,
+      "title": "Mario Kart: Super Circuit - Sunset Wilds",
+      "version": "smwc-25699-1610999161",
+      "upstream_time": 1610999161,
+      "download_url": "https://dl.smwcentral.net/25699/MKSC%20-%20Sunset%20Wilds.zip",
+      "filename": "MKSC - Sunset Wilds.zip",
+      "size": 62696,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

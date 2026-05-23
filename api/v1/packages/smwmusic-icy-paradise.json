@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-icy-paradise",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8367,
+  "title": "Icy Paradise",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "ice"
+  ],
+  "description": "A simple song for typical ice levels.",
+  "latest_version": "smwc-8367-1359426402",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8367,
+      "title": "Icy Paradise",
+      "version": "smwc-8367-1359426402",
+      "upstream_time": 1359426402,
+      "download_url": "https://dl.smwcentral.net/8367/Icy%20Paradise.zip",
+      "filename": "Icy Paradise.zip",
+      "size": 63648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

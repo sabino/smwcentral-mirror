@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-maker-smb3-ghost-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18237,
+  "title": "Super Mario Maker - SMB3 Ghost House",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "ghost house",
+    "spooky"
+  ],
+  "description": "A Super Mario All-Stars style arrangement of the Super Mario Bros. 3 ghost house theme from Super Mario Maker.",
+  "latest_version": "smwc-18237-1538527706",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18237,
+      "title": "Super Mario Maker - SMB3 Ghost House",
+      "version": "smwc-18237-1538527706",
+      "upstream_time": 1538527706,
+      "download_url": "https://dl.smwcentral.net/18237/smb3ghosthouse.zip",
+      "filename": "smb3ghosthouse.zip",
+      "size": 30911,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

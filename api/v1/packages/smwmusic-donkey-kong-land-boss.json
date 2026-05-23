@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-donkey-kong-land-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27413,
+  "title": "Donkey Kong Land - Boss",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "boss"
+  ],
+  "description": "Could fit a boss battle.",
+  "latest_version": "smwc-27413-1627264264",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27413,
+      "title": "Donkey Kong Land - Boss",
+      "version": "smwc-27413-1627264264",
+      "upstream_time": 1627264264,
+      "download_url": "https://dl.smwcentral.net/27413/Donkey%20Kong%20Land%20-%20Boss.zip",
+      "filename": "Donkey Kong Land - Boss.zip",
+      "size": 31978,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7294,
+      "title": "Donkey Kong Land - Boss",
+      "version": "smwc-7294-1312186809",
+      "upstream_time": 1312186809,
+      "download_url": "https://dl.smwcentral.net/7294/Donkey%20Kong%20Land%20-%20Boss.zip",
+      "filename": "Donkey Kong Land - Boss.zip",
+      "size": 67449,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

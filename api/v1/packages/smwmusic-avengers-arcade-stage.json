@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-avengers-arcade-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33621,
+  "title": "Avengers (Arcade) - Stage 2",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "credits",
+    "urban"
+  ],
+  "description": "A jazzy stage theme from Capcom's arcade game <i>Avengers</i>. Could fit athletic levels.",
+  "latest_version": "smwc-33621-1693078201",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33621,
+      "title": "Avengers (Arcade) - Stage 2",
+      "version": "smwc-33621-1693078201",
+      "upstream_time": 1693078201,
+      "download_url": "https://dl.smwcentral.net/33621/Avengers%20Stage%202%20v1.1.zip",
+      "filename": "Avengers Stage 2 v1.1.zip",
+      "size": 33731,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

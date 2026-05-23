@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-and-that-makes-me-booster",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19713,
+  "title": "Super Mario RPG: Legend of the Seven Stars - And That Makes Me Booster!",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "desert",
+    "mountain",
+    "town",
+    "urban"
+  ],
+  "description": "An unsampled port of \"And My Name's Booster\" from Super Mario RPG on the SNES. Since it was originally used in a tower, you could use this in a tower as well, but it also could fit in a athletic level, an urban/city, or a cave level due to the very deep echo as well, in my opinion.",
+  "latest_version": "smwc-19713-1555874798",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19713,
+      "title": "Super Mario RPG: Legend of the Seven Stars - And That Makes Me Booster!",
+      "version": "smwc-19713-1555874798",
+      "upstream_time": 1555874798,
+      "download_url": "https://dl.smwcentral.net/19713/mynamesbooster.zip",
+      "filename": "mynamesbooster.zip",
+      "size": 34656,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19149,
+      "title": "Super Mario RPG: Legend of the Seven Stars - And That Makes Me Booster!",
+      "version": "smwc-19149-1550453673",
+      "upstream_time": 1550453673,
+      "download_url": "https://dl.smwcentral.net/19149/And%20my%20Name%27s%20Booster.zip",
+      "filename": "And my Name%27s Booster.zip",
+      "size": 55244,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

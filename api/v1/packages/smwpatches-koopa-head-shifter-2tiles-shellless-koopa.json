@@ -1,0 +1,41 @@
+{
+  "name": "smwpatches-koopa-head-shifter-2tiles-shellless-koopa",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28759,
+  "title": "Koopa Head Shifter + 2Tiles ShellLess Koopa",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "graphics",
+    "koopa",
+    "koopas",
+    "lorom",
+    "net koopa",
+    "sa-1",
+    "shell-less",
+    "super koopa",
+    "tile"
+  ],
+  "description": "You can shift the drawing position of the head of Koopa.<br>\r\nThe Shell-less Koopa is also drawn with two tiles.<br>\r\n<br>\r\nThe koopa troopa graphic is a slightly edited version of <a href=\"https://mfgg.net/index.php?act=resdb&param=02&c=1&id=14984\" rel=\"nofollow\">this</a> one.<br>\r\n<br>\r\nThis is not supported by the special world \"Mask Koopa\".",
+  "latest_version": "smwc-28759-1652592710",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28759,
+      "title": "Koopa Head Shifter + 2Tiles ShellLess Koopa",
+      "version": "smwc-28759-1652592710",
+      "upstream_time": 1652592710,
+      "download_url": "https://dl.smwcentral.net/28759/Koopa%20head%20shifter%20%2B%202Tiles%20ShellLess%20Koopa.zip",
+      "filename": "Koopa head shifter + 2Tiles ShellLess Koopa.zip",
+      "size": 13404,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

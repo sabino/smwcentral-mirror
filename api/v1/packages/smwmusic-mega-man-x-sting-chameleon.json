@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mega-man-x-sting-chameleon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29445,
+  "title": "Mega Man X - Sting Chameleon",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "industrial",
+    "jungle",
+    "tense"
+  ],
+  "description": "The Theme played in Sting Chameleon's Stage from Mega Man X.<br>\r\n<br>\r\nFeatured in the Winter C3 2022's \"I Port Occasionally\" Pack.",
+  "latest_version": "smwc-29445-1645751957",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29445,
+      "title": "Mega Man X - Sting Chameleon",
+      "version": "smwc-29445-1645751957",
+      "upstream_time": 1645751957,
+      "download_url": "https://dl.smwcentral.net/29445/Mega%20Man%20X%20-%20Sting%20Chameleon.zip",
+      "filename": "Mega Man X - Sting Chameleon.zip",
+      "size": 44130,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20659,
+      "title": "Mega Man X - Sting Chameleon",
+      "version": "smwc-20659-1563329722",
+      "upstream_time": 1563329722,
+      "download_url": "https://dl.smwcentral.net/20659/MMXChameleon.zip",
+      "filename": "MMXChameleon.zip",
+      "size": 69035,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

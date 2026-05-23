@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-gradius-iii-easter-stone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26361,
+  "title": "Gradius III - Easter Stone",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "final",
+    "fire",
+    "industrial",
+    "space",
+    "tense"
+  ],
+  "description": "Pretty intense track from Gradius III which'd especially suit factory or space levels.<br>\r\n<br>\r\nRequested by Stivi",
+  "latest_version": "smwc-26361-1617251395",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26361,
+      "title": "Gradius III - Easter Stone",
+      "version": "smwc-26361-1617251395",
+      "upstream_time": 1617251395,
+      "download_url": "https://dl.smwcentral.net/26361/easterstone.zip",
+      "filename": "easterstone.zip",
+      "size": 60793,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-v-fate-in-haze",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11524,
+  "title": "Final Fantasy V - Fate in Haze",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "fire",
+    "water"
+  ],
+  "description": "(Also known as \"Fate in Haze\", for some reason)<br>\r\n<br>\r\nA mysterious song could fit with a watery or lava cave theme.",
+  "latest_version": "smwc-11524-1436816557",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11524,
+      "title": "Final Fantasy V - Fate in Haze",
+      "version": "smwc-11524-1436816557",
+      "upstream_time": 1436816557,
+      "download_url": "https://dl.smwcentral.net/11524/Final%20Fantasy%20V%20-%20Fate%20in%20Haze.zip",
+      "filename": "Final Fantasy V - Fate in Haze.zip",
+      "size": 68694,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

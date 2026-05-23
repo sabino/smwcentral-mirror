@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castlevania-ii-belmont-s-revenge-original-sin",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18840,
+  "title": "Castlevania II: Belmont's Revenge - Original Sin",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "This is the first Dracula stage theme from Castlevania II: Belmont's Revenge. It's very fast paced and epic, which would definitely fit a chase scene and/or a \"final stretch before the final boss\" sorta scenario quite well.",
+  "latest_version": "smwc-18840-1547142079",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18840,
+      "title": "Castlevania II: Belmont's Revenge - Original Sin",
+      "version": "smwc-18840-1547142079",
+      "upstream_time": 1547142079,
+      "download_url": "https://dl.smwcentral.net/18840/Original%20Sin.zip",
+      "filename": "Original Sin.zip",
+      "size": 60710,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

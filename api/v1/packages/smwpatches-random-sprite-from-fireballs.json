@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-random-sprite-from-fireballs",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12467,
+  "title": "Random Sprite From Fireballs",
+  "authors": [
+    "DiscoTheBat",
+    "Iceguy"
+  ],
+  "tags": [
+    "asm",
+    "fireball",
+    "flower",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch will make hack the turn sprites into coin routine to generate random sprites instead. You specify the sprites in the .ASM file.<br>\r\n<br>\r\nAlso, the patch has been updated to make use of SA-1 and it has been merged into one, so you have option to choose if you want the fireball to only spawn custom sprites or normal sprites.",
+  "latest_version": "smwc-12467-1450396002",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12467,
+      "title": "Random Sprite From Fireballs",
+      "version": "smwc-12467-1450396002",
+      "upstream_time": 1450396002,
+      "download_url": "https://dl.smwcentral.net/12467/firespr.zip",
+      "filename": "firespr.zip",
+      "size": 1023,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

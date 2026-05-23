@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-end-level-w-special-world-passed-effects",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4028,
+  "title": "End level w/ special world passed effects",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "exit",
+    "goal",
+    "level end",
+    "lorom",
+    "special world"
+  ],
+  "description": "This block, when touched, fades the screen, activates the normal or secret exit and activates the special world effects. Read the included note otherwise it might not work properly.",
+  "latest_version": "smwc-4028-1426267919",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4028,
+      "title": "End level w/ special world passed effects",
+      "version": "smwc-4028-1426267919",
+      "upstream_time": 1426267919,
+      "download_url": "https://dl.smwcentral.net/4028/exitsp.zip",
+      "filename": "exitsp.zip",
+      "size": 927,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

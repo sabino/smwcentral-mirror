@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-marble-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23579,
+  "title": "Sonic the Hedgehog - Marble Zone",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "ruins",
+    "swamp",
+    "temple"
+  ],
+  "description": "The somewhat slow and sad second stage theme of Sonic the Hedgehog. Fitting, for a stage whose gameplay is in fact very slow compared to what you'd expect from Sonic.<br>\r\n<br>\r\nThere's two customizable parameters here: vibrato and octave. You can choose between a slow, subtle vibrato, or a fast and pronounced one. You can also boost the octave of the lead by one since I accidentally defined the octave incorrectly when starting the port and thought to myself, \"hey, this isn't too bad\".",
+  "latest_version": "smwc-23579-1594403907",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23579,
+      "title": "Sonic the Hedgehog - Marble Zone",
+      "version": "smwc-23579-1594403907",
+      "upstream_time": 1594403907,
+      "download_url": "https://dl.smwcentral.net/23579/marble_zone.zip",
+      "filename": "marble_zone.zip",
+      "size": 132031,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

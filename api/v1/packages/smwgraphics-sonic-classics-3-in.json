@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-sonic-classics-3-in",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 40120,
+  "title": "Sonic Classics 3-In-1 - Game Select",
+  "authors": [
+    "Bonobi"
+  ],
+  "tags": [
+    "bonus",
+    "patch needed"
+  ],
+  "description": "A very simple background that can be used for bonus stages. This is the Layer 3 version. <br>\r\nWARNING: to see the background fully, you would need a sprite status bar or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">a way to hide it</a>. ",
+  "latest_version": "smwc-40120-1752771199",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 40120,
+      "title": "Sonic Classics 3-In-1 - Game Select",
+      "version": "smwc-40120-1752771199",
+      "upstream_time": 1752771199,
+      "download_url": "https://dl.smwcentral.net/40120/Sonic3in1MenuLayer3.zip",
+      "filename": "Sonic3in1MenuLayer3.zip",
+      "size": 2212,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 40119,
+      "title": "Sonic Classics 3-In-1 - Game Select",
+      "version": "smwc-40119-1752770293",
+      "upstream_time": 1752770293,
+      "download_url": "https://dl.smwcentral.net/40119/Sonic3in1MenuBG.zip",
+      "filename": "Sonic3in1MenuBG.zip",
+      "size": 2305,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

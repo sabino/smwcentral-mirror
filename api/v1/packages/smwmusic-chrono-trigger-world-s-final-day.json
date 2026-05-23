@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-chrono-trigger-world-s-final-day",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7931,
+  "title": "Chrono Trigger - World's Final Day",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "A short and sad song from Chrono Trigger. Plays when you lose a battle, but also briefly in Arris Dome. Good for sad cutscenes, I'd say.",
+  "latest_version": "smwc-7931-1312194427",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7931,
+      "title": "Chrono Trigger - World's Final Day",
+      "version": "smwc-7931-1312194427",
+      "upstream_time": 1312194427,
+      "download_url": "https://dl.smwcentral.net/7931/CT-WorldsFinalDay.zip",
+      "filename": "CT-WorldsFinalDay.zip",
+      "size": 66572,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

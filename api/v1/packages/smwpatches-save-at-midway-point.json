@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-save-at-midway-point",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 29142,
+  "title": "Save at Midway Point",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "midway point",
+    "sa-1",
+    "save"
+  ],
+  "description": "This small patch saves the game when a midway point gets collected. It's preferably to be used with a patch like <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12921\">Autosave</a> because preserving the savedata only at midway point collection is weird.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Impetus\"><a href=\"/?p=profile&amp;id=4404\" style=\"color: #b19cd9;\" class=\"un unavailable inactive\">Impetus</a></span>.",
+  "latest_version": "smwc-29142-1667219801",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 29142,
+      "title": "Save at Midway Point",
+      "version": "smwc-29142-1667219801",
+      "upstream_time": 1667219801,
+      "download_url": "https://dl.smwcentral.net/29142/midway_point_save.zip",
+      "filename": "midway_point_save.zip",
+      "size": 928,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

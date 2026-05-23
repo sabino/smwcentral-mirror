@@ -1,0 +1,39 @@
+{
+  "name": "uberasm-overworld-event-exit-indicators",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 17274,
+  "title": "Overworld Event/Exit Indicators",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "events",
+    "exits",
+    "layer 3",
+    "lorom",
+    "overworld",
+    "overworld border",
+    "sa-1"
+  ],
+  "description": "This piece of ASM makes tiles appear in the overworld border, to show if levels have one, two, or no exits, and also if said exits/events were triggered. Useful for tracking normal and secret exits in general.<br>\r\n<br>\r\nIt's recommended to use this in gamemodes D and E. Also it's currently incompatible with the 'more OW levels and events' patch.",
+  "latest_version": "smwc-17274-1526172392",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 17274,
+      "title": "Overworld Event/Exit Indicators",
+      "version": "smwc-17274-1526172392",
+      "upstream_time": 1526172392,
+      "download_url": "https://dl.smwcentral.net/17274/ExitIndicators.zip",
+      "filename": "ExitIndicators.zip",
+      "size": 4505,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

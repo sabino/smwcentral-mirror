@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-earthbound-winters-white",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32510,
+  "title": "EarthBound - Winters White",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "mountain",
+    "overworld",
+    "snow",
+    "town"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-32510-1675225932",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32510,
+      "title": "EarthBound - Winters White",
+      "version": "smwc-32510-1675225932",
+      "upstream_time": 1675225932,
+      "download_url": "https://dl.smwcentral.net/32510/064%20Winters%20White.zip",
+      "filename": "064 Winters White.zip",
+      "size": 54447,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21513,
+      "title": "EarthBound - Winters White",
+      "version": "smwc-21513-1574628871",
+      "upstream_time": 1574628871,
+      "download_url": "https://dl.smwcentral.net/21513/Earthbound%20-%20Winters%20White.zip",
+      "filename": "Earthbound - Winters White.zip",
+      "size": 43616,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

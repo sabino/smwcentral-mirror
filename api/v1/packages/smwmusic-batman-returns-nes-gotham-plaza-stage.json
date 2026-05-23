@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-batman-returns-nes-gotham-plaza-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31526,
+  "title": "Batman Returns (NES) - Gotham Plaza (Stage 1)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "dark",
+    "retro",
+    "tense",
+    "urban"
+  ],
+  "description": "The sinister and dark theme played on the first stage from Batman Returns for the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31526-1663844063",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31526,
+      "title": "Batman Returns (NES) - Gotham Plaza (Stage 1)",
+      "version": "smwc-31526-1663844063",
+      "upstream_time": 1663844063,
+      "download_url": "https://dl.smwcentral.net/31526/Batman%20Returns%20%28NES%29%20-%20Gotham%20Plaza%20%28Stage%201%29.zip",
+      "filename": "Batman Returns (NES) - Gotham Plaza (Stage 1).zip",
+      "size": 47114,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dokapon-kingdom-lava-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17242,
+  "title": "Dokapon Kingdom - Lava Cave",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "fire",
+    "overworld"
+  ],
+  "description": "Track 26 of Dokapon Kingdom's OST. This theme plays inside the Lava Cave. I highly recommend this theme for a dangerous overworld map. It could work if used for an underground sub level as well.",
+  "latest_version": "smwc-17242-1521055047",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17242,
+      "title": "Dokapon Kingdom - Lava Cave",
+      "version": "smwc-17242-1521055047",
+      "upstream_time": 1521055047,
+      "download_url": "https://dl.smwcentral.net/17242/Lava%20Cave.zip",
+      "filename": "Lava Cave.zip",
+      "size": 31284,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

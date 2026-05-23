@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-wet-time-for-fish",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 34477,
+  "title": "Wet Time (for) Fish",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "cheep cheep",
+    "lorom",
+    "sa-1",
+    "splash",
+    "sprites"
+  ],
+  "description": "Also known as the Wet Time (for) Fish patch -- or the WTF patch -- is a patch that adjusts a visual effect that Cheep Cheeps have in vanilla SMW.<br>\r\n<br>\r\nI learned approximately 30 minutes ago that Cheep Cheeps have a splash effect when they bounce around out of water. This effect is does not appear in levels where Sprite Buoyancy is disabled, which is where most of the flopping Cheep Cheeps are found (like the Forest of Illusion).<br>\r\n<br>\r\nWith this patch, the effect is adjusted. Now, Cheep Cheeps that exit water will have a timer set that lasts approximately 8.5 seconds. Any time it bounces around, it will display the splash effect when it makes contact with the ground.<br>\r\nAfter the timer is up, the effect no longer appears until it re-enters and re-exits water again.<br>\r\n<br>\r\nDefines exist that will enable the effect for Cheep Cheeps spawned from the Bubble or Exploding Block sprites as well.<br>\r\n<br>\r\n<br>\r\n<s>This really isn't a particularly useful patch.</s>",
+  "latest_version": "smwc-34477-1696625718",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 34477,
+      "title": "Wet Time (for) Fish",
+      "version": "smwc-34477-1696625718",
+      "upstream_time": 1696625718,
+      "download_url": "https://dl.smwcentral.net/34477/WetTimeFish.zip",
+      "filename": "WetTimeFish.zip",
+      "size": 672,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crazy-bus-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39680,
+  "title": "Crazy Bus - Title Screen",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "title"
+  ],
+  "description": "This song is like if an NES said \"I have no mouth and I must scream\"",
+  "latest_version": "smwc-39680-1748281287",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39680,
+      "title": "Crazy Bus - Title Screen",
+      "version": "smwc-39680-1748281287",
+      "upstream_time": 1748281287,
+      "download_url": "https://dl.smwcentral.net/39680/Crazy%20Bus%20Title%20Screen.zip",
+      "filename": "Crazy Bus Title Screen.zip",
+      "size": 32578,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

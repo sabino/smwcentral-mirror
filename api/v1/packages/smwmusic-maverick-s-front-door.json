@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-maverick-s-front-door",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27240,
+  "title": "Maverick's Front Door",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "final",
+    "industrial",
+    "overworld"
+  ],
+  "description": "A really short song meant for cutscenes.<br>\r\nCould also fit in an overworld, maybe...<br>\r\n<br>\r\nBe aware that sound effects sound a bit weird.",
+  "latest_version": "smwc-27240-1625319698",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27240,
+      "title": "Maverick's Front Door",
+      "version": "smwc-27240-1625319698",
+      "upstream_time": 1625319698,
+      "download_url": "https://dl.smwcentral.net/27240/Maverick%27s%20Front%20Door.zip",
+      "filename": "Maverick%27s Front Door.zip",
+      "size": 71630,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

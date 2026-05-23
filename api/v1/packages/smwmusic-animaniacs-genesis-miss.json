@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-animaniacs-genesis-miss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8299,
+  "title": "Animaniacs (Genesis) - Miss",
+  "authors": [
+    "Hobz"
+  ],
+  "tags": [
+    "miss"
+  ],
+  "description": "The comedic Animaniacs death theme.",
+  "latest_version": "smwc-8299-1349453501",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8299,
+      "title": "Animaniacs (Genesis) - Miss",
+      "version": "smwc-8299-1349453501",
+      "upstream_time": 1349453501,
+      "download_url": "https://dl.smwcentral.net/8299/Animaniacs%20-%20Song%20Test%2011.zip",
+      "filename": "Animaniacs - Song Test 11.zip",
+      "size": 66218,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-jazz-jackrabbit-industrius",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7617,
+  "title": "Jazz Jackrabbit - Industrius",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "cave",
+    "industrial"
+  ],
+  "description": "A very accurate port which would definitely suit either factories or underground areas.<br>\r\n<br>\r\n<br>\r\nUpdate (12/23/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.",
+  "latest_version": "smwc-7617-1406465760",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7617,
+      "title": "Jazz Jackrabbit - Industrius",
+      "version": "smwc-7617-1406465760",
+      "upstream_time": 1406465760,
+      "download_url": "https://dl.smwcentral.net/7617/JJIndustrius.zip",
+      "filename": "JJIndustrius.zip",
+      "size": 56087,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11130,
+  "title": "Lufia II: Rise of the Sinistrals - Tower",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "castle"
+  ],
+  "description": "This is the music from the tower dungeons in Lufia 2.",
+  "latest_version": "smwc-11130-1428200532",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11130,
+      "title": "Lufia II: Rise of the Sinistrals - Tower",
+      "version": "smwc-11130-1428200532",
+      "upstream_time": 1428200532,
+      "download_url": "https://dl.smwcentral.net/11130/Lufia%202%20-%20Tower.zip",
+      "filename": "Lufia 2 - Tower.zip",
+      "size": 31510,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

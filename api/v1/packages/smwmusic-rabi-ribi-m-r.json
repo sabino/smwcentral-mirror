@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-rabi-ribi-m-r",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20965,
+  "title": "Rabi-Ribi - M.R.",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "spooky"
+  ],
+  "description": "The song playing in the creepypasta boss battle against Miru in Rabi-Ribi. Fits boss battles, dark athletic levels and creepy chases.",
+  "latest_version": "smwc-20965-1566840316",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20965,
+      "title": "Rabi-Ribi - M.R.",
+      "version": "smwc-20965-1566840316",
+      "upstream_time": 1566840316,
+      "download_url": "https://dl.smwcentral.net/20965/MR.zip",
+      "filename": "MR.zip",
+      "size": 32275,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

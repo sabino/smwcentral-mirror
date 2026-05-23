@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-kick-and-drop-override-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40704,
+  "title": "Kick and Drop Override Fix",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This simple patch fixes a bug that happens if you kick or drop a Bob-Omb the same frame it explodes, and a similar thing with custom blocks that would <a href=\"https://www.smwcentral.net/?p=viewthread&t=74028\">fail to delete a carried sprite the same frame the player kicks or drop a sprite</a>.",
+  "latest_version": "smwc-40704-1764722095",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40704,
+      "title": "Kick and Drop Override Fix",
+      "version": "smwc-40704-1764722095",
+      "upstream_time": 1764722095,
+      "download_url": "https://dl.smwcentral.net/40704/KickDropOverrideFix.zip",
+      "filename": "KickDropOverrideFix.zip",
+      "size": 1492,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

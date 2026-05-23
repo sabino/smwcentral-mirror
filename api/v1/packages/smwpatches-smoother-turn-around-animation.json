@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-smoother-turn-around-animation",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41437,
+  "title": "Smoother Turn Around Animation",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "enhancement",
+    "lorom",
+    "sa-1",
+    "turning"
+  ],
+  "description": "This simple patch makes it so when Mario turns from a standstill or while in the air, he'll face the camera for a few frames, much like he does when holding an item while turning. This makes the animation look a bit smoother.<br>\r\n<br>\r\nOriginally released on day 4 of Summer C3 2021, but I never submitted it to the section until now.",
+  "latest_version": "smwc-41437-1775940975",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41437,
+      "title": "Smoother Turn Around Animation",
+      "version": "smwc-41437-1775940975",
+      "upstream_time": 1775940975,
+      "download_url": "https://dl.smwcentral.net/41437/SmootherTurnAroundAnimation.zip",
+      "filename": "SmootherTurnAroundAnimation.zip",
+      "size": 708,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

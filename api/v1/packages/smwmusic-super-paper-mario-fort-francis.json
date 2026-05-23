@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-paper-mario-fort-francis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28530,
+  "title": "Super Paper Mario - Fort Francis",
+  "authors": [
+    "princess22"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "industrial"
+  ],
+  "description": "The theme that plays in Fort Francis in the game Super Paper Mario.",
+  "latest_version": "smwc-28530-1638062533",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28530,
+      "title": "Super Paper Mario - Fort Francis",
+      "version": "smwc-28530-1638062533",
+      "upstream_time": 1638062533,
+      "download_url": "https://dl.smwcentral.net/28530/FortFrancis.zip",
+      "filename": "FortFrancis.zip",
+      "size": 48472,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

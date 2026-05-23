@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-super-family-tennis-story-mode-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13124,
+  "title": "Super Family Tennis - Story Mode Intro",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "calm",
+    "carnival",
+    "cutscene",
+    "grassland",
+    "overworld",
+    "sky",
+    "town"
+  ],
+  "description": "A short, happy song. Perfect for towns, could also work for overworlds or cutscenes.",
+  "latest_version": "smwc-13124-1453420497",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13124,
+      "title": "Super Family Tennis - Story Mode Intro",
+      "version": "smwc-13124-1453420497",
+      "upstream_time": 1453420497,
+      "download_url": "https://dl.smwcentral.net/13124/sft-storyintro.zip",
+      "filename": "sft-storyintro.zip",
+      "size": 30585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

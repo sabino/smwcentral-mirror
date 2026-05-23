@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-castlevania-aria-of-sorrow-castle-corridor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26355,
+  "title": "Castlevania: Aria of Sorrow - Castle Corridor",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "final"
+  ],
+  "description": "A song that can work for intense levels, may them be athletic, vertical or final in general.<br>\r\n<br>\r\nRequested unsampled by Infinity.",
+  "latest_version": "smwc-26355-1615228315",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26355,
+      "title": "Castlevania: Aria of Sorrow - Castle Corridor",
+      "version": "smwc-26355-1615228315",
+      "upstream_time": 1615228315,
+      "download_url": "https://dl.smwcentral.net/26355/caria_castle_corridor_0_2.zip",
+      "filename": "caria_castle_corridor_0_2.zip",
+      "size": 35560,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10366,
+      "title": "Castlevania: Aria of Sorrow - Castle Corridor",
+      "version": "smwc-10366-1424326320",
+      "upstream_time": 1424326320,
+      "download_url": "https://dl.smwcentral.net/10366/Castlevania%20AOS%20-%20Castle%20Corridor.zip",
+      "filename": "Castlevania AOS - Castle Corridor.zip",
+      "size": 79678,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8020,
+      "title": "Castlevania: Aria of Sorrow - Castle Corridor",
+      "version": "smwc-8020-1312185286",
+      "upstream_time": 1312185286,
+      "download_url": "https://dl.smwcentral.net/8020/AoSCastle.zip",
+      "filename": "AoSCastle.zip",
+      "size": 69379,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

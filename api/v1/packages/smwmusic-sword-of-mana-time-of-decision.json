@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-sword-of-mana-time-of-decision",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26749,
+  "title": "Sword of Mana - Time of Decision",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "ghose house",
+    "ghost house"
+  ],
+  "description": "Time of Decision from Sword of Mana. (RS3 Sampled Styled)",
+  "latest_version": "smwc-26749-1621056038",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26749,
+      "title": "Sword of Mana - Time of Decision",
+      "version": "smwc-26749-1621056038",
+      "upstream_time": 1621056038,
+      "download_url": "https://dl.smwcentral.net/26749/Time%20of%20Decision%20%28U%29.zip",
+      "filename": "Time of Decision (U).zip",
+      "size": 30998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26748,
+      "title": "Sword of Mana - Time of Decision",
+      "version": "smwc-26748-1621056042",
+      "upstream_time": 1621056042,
+      "download_url": "https://dl.smwcentral.net/26748/Time%20of%20Decision%20%28S%29.zip",
+      "filename": "Time of Decision (S).zip",
+      "size": 47242,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

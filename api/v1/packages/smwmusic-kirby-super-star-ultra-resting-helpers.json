@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-kirby-super-star-ultra-resting-helpers",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25963,
+  "title": "Kirby Super Star Ultra - Resting Helpers",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sky",
+    "space",
+    "water"
+  ],
+  "description": "A short calm version of the Ripple Star song from Kirby 64, played at rest areas from The Arena variations.",
+  "latest_version": "smwc-25963-1613968538",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25963,
+      "title": "Kirby Super Star Ultra - Resting Helpers",
+      "version": "smwc-25963-1613968538",
+      "upstream_time": 1613968538,
+      "download_url": "https://dl.smwcentral.net/25963/Kirby%20Super%20Star%20Ultra%20-%20Helpers%27%20Rest.zip",
+      "filename": "Kirby Super Star Ultra - Helpers%27 Rest.zip",
+      "size": 34402,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8274,
+      "title": "Kirby Super Star Ultra - Resting Helpers",
+      "version": "smwc-8274-1343860741",
+      "upstream_time": 1343860741,
+      "download_url": "https://dl.smwcentral.net/8274/KSSU%20Helper%20Rest%20Area.zip",
+      "filename": "KSSU Helper Rest Area.zip",
+      "size": 63802,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

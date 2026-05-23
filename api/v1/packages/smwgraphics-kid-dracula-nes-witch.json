@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-kid-dracula-nes-witch",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 41848,
+  "title": "Kid Dracula (NES) - Witch",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "2bpp",
+    "mega mole",
+    "retro"
+  ],
+  "description": "The cute witch seen in the Kid Dracula game for the NES. Repurposed to be a Mega Mole reskin.<br>\r\n<br>\r\nBy default, it works with palette row 8.<br>\r\n<br>\r\nI also included palette files with the colors seen in the source material and an edited disassembly, which removes the gravity of the Mega Mole sprite, meant to be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=37432\">PIXI.<br>\r\n</a><br>\r\n<span class=\"un-outer\" title=\"imamelia\"><span title=\"imamelia donated $50.00.\" class=\"icon icon-donor\"></span><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=3471\" style=\"color: var(--user-color-1);\" class=\"un\">imamelia</a></span> should be credited if you use the provided modified asm.<br>\r\n<br>\r\nA good fit for retro themed levels. ",
+  "latest_version": "smwc-41848-1773015806",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 41848,
+      "title": "Kid Dracula (NES) - Witch",
+      "version": "smwc-41848-1773015806",
+      "upstream_time": 1773015806,
+      "download_url": "https://dl.smwcentral.net/41848/Kid%20Dracula%20%28NES%29%20-%20Witch%20%28%2B%20Modified%20Mega%20Mole%20asm%29.zip",
+      "filename": "Kid Dracula (NES) - Witch (+ Modified Mega Mole asm).zip",
+      "size": 7198,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

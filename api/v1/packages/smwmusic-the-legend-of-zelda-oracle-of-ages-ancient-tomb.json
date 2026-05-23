@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-oracle-of-ages-ancient-tomb",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7044,
+  "title": "The Legend of Zelda: Oracle of Ages - Ancient Tomb",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "overworld"
+  ],
+  "description": "The dark song played in level 8 of Oracle of Ages. May suit a dark area or a cutscene.",
+  "latest_version": "smwc-7044-1320213345",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7044,
+      "title": "The Legend of Zelda: Oracle of Ages - Ancient Tomb",
+      "version": "smwc-7044-1320213345",
+      "upstream_time": 1320213345,
+      "download_url": "https://dl.smwcentral.net/7044/Oracle%20of%20Ages%20-%20Ancient%20Tomb.zip",
+      "filename": "Oracle of Ages - Ancient Tomb.zip",
+      "size": 64192,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

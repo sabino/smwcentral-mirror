@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-blargg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3501,
+  "title": "Blargg",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "blaarg",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A disassembly of the Blargg (sprite A8), commented.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3501-1251990646",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3501,
+      "title": "Blargg",
+      "version": "smwc-3501-1251990646",
+      "upstream_time": 1251990646,
+      "download_url": "https://dl.smwcentral.net/3501/Blargg.zip",
+      "filename": "Blargg.zip",
+      "size": 2870,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-metroid-samus-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22528,
+  "title": "Metroid - Samus Fanfare",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "fanfare",
+    "goal",
+    "misc"
+  ],
+  "description": "Samus's appearance fanfare as heard in many Metroid games.",
+  "latest_version": "smwc-22528-1585706286",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22528,
+      "title": "Metroid - Samus Fanfare",
+      "version": "smwc-22528-1585706286",
+      "upstream_time": 1585706286,
+      "download_url": "https://dl.smwcentral.net/22528/Metroid%20-%20Samus%20Fanfare.zip",
+      "filename": "Metroid - Samus Fanfare.zip",
+      "size": 30926,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

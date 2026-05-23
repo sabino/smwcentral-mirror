@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-battle-gym-leader-kanto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18364,
+  "title": "Pokémon Gold/Silver/Crystal - Battle! Gym Leader (Kanto)",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "boss",
+    "retro"
+  ],
+  "description": "This is a port of the battle theme from the generation II Pokémon games that plays when challenging the Kanto gym leaders. This only uses 3 channels and 2 samples to give off the simplistic vibes that the original song had. Best used for bosses or other battle scenes.<br>\r\n<br>\r\nMIDI credit: Joo *Johnnyz* Buaes ",
+  "latest_version": "smwc-18364-1540518509",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18364,
+      "title": "Pokémon Gold/Silver/Crystal - Battle! Gym Leader (Kanto)",
+      "version": "smwc-18364-1540518509",
+      "upstream_time": 1540518509,
+      "download_url": "https://dl.smwcentral.net/18364/Kanto%20Gym%20Leader%20Battle%20GSC.zip",
+      "filename": "Kanto Gym Leader Battle GSC.zip",
+      "size": 32019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

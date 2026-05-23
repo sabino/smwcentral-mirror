@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-new-super-mario-bros-spin-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26565,
+  "title": "New Super Mario Bros - Spin Block",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "dsx",
+    "dynamic",
+    "dynamic sprites",
+    "lorom",
+    "new super mario bros",
+    "nsmb",
+    "sa-1",
+    "spin"
+  ],
+  "description": "This is a Super Mario World themed recreation of the Spin Block from New Super Mario Bros, typically seen in \"Athletic\" levels. When Mario stands on the platform, it will rev up and start spinning Mario. Pressing B will make him jump off the platform normally, but pressing A will launch him into the sky with a spin-float ability. You can then let Mario slowly float back down, or make him dive down fast by pressing down. When diving, Mario can break through turnblocks.<br>\r\n<br>\r\nRequires <a href=\"https://www.smwcentral.net/?p=section&a=details&id=13184\">DSX</a> (already applied by default if you're using SA-1).",
+  "latest_version": "smwc-26565-1622027970",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26565,
+      "title": "New Super Mario Bros - Spin Block",
+      "version": "smwc-26565-1622027970",
+      "upstream_time": 1622027970,
+      "download_url": "https://dl.smwcentral.net/26565/NSMBSpinBlock.zip",
+      "filename": "NSMBSpinBlock.zip",
+      "size": 11411,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

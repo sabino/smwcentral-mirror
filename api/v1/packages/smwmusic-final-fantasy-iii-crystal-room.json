@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-iii-crystal-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38008,
+  "title": "Final Fantasy III - Crystal Room",
+  "authors": [
+    "Alex"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "As its name stands, this short loop is used in crystal rooms, normally previous to a boss fight.",
+  "latest_version": "smwc-38008-1724335857",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38008,
+      "title": "Final Fantasy III - Crystal Room",
+      "version": "smwc-38008-1724335857",
+      "upstream_time": 1724335857,
+      "download_url": "https://dl.smwcentral.net/38008/Final%20Fantasy%20III%20-%20Crystal%20Room%20%28unsampled%29.zip",
+      "filename": "Final Fantasy III - Crystal Room (unsampled).zip",
+      "size": 30742,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

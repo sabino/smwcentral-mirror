@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-chucks",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39323,
+  "title": "Chucks",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "chuck",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of all Chuck sprites in Super Mario World, which are sprites 46 and 91 through 98, which are Diggin', Chargin', Splittin', Bouncin', Whistlin', Clappin', Duplicate Chargin', Puntin' and Pitchin' Chucks, respectively.",
+  "latest_version": "smwc-39323-1761943774",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39323,
+      "title": "Chucks",
+      "version": "smwc-39323-1761943774",
+      "upstream_time": 1761943774,
+      "download_url": "https://dl.smwcentral.net/39323/Chucks%20Disassembly.zip",
+      "filename": "Chucks Disassembly.zip",
+      "size": 28075,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

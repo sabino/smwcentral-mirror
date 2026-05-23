@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-inside-the-deku-tree",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41510,
+  "title": "The Legend of Zelda: Ocarina of Time - Inside the Deku Tree",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "dark",
+    "forest",
+    "mysterious",
+    "night",
+    "overworld",
+    "ruins",
+    "temple",
+    "water"
+  ],
+  "description": "The first dungeon music from Ocarina of Time. Good for dark, mysterious zones and areas with lots of vegetation.",
+  "latest_version": "smwc-41510-1772325299",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41510,
+      "title": "The Legend of Zelda: Ocarina of Time - Inside the Deku Tree",
+      "version": "smwc-41510-1772325299",
+      "upstream_time": 1772325299,
+      "download_url": "https://dl.smwcentral.net/41510/Ocarina%20of%20Time%20-%20Inside%20the%20Deku%20Tree.zip",
+      "filename": "Ocarina of Time - Inside the Deku Tree.zip",
+      "size": 64285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

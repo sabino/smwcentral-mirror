@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-skyland",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 18903,
+  "title": "Skyland",
+  "authors": [
+    "PercentN"
+  ],
+  "tags": [
+    "needs remoderation",
+    "sky",
+    "temple"
+  ],
+  "description": "A custom sky themed tileset. These graphics are set up to allow users to still use all the extra tiles in the FG1 slot, minus the bushes and slanted pipe of course. This set also contains upside down slopes if you would like to use them. Also contains pillars, blocks, and ledges which can be used for temples/ruins.<br>\r\n<br>\r\nNOTES: <br>\r\n- Make sure to set the GFX Header (the purple poison shroom) to Underground in order to get the upside down slope interaction to work correctly.<br>\r\n- Also contains tiles that allow pipes to be placed on top of clouds correctly.<br>\r\n<br>\r\nCompatible tiles from FG1:<br>\r\n- Doors<br>\r\n- Vines<br>\r\n- Arrow sign<br>\r\n- Moon<br>\r\n- Translucent block<br>\r\n- Nets (and all edges)<br>\r\n- Triangle block<br>\r\n- Goal posts<br>\r\n- Midway point<br>\r\n- Star block<br>\r\n- On/Off switch",
+  "latest_version": "smwc-18903-1548359448",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 18903,
+      "title": "Skyland",
+      "version": "smwc-18903-1548359448",
+      "upstream_time": 1548359448,
+      "download_url": "https://dl.smwcentral.net/18903/Skylandz.zip",
+      "filename": "Skylandz.zip",
+      "size": 7882,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

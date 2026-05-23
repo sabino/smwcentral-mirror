@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33346,
+  "title": "Megami Tensei Gaiden: Last Bible II - Dungeon",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "retro",
+    "temple"
+  ],
+  "description": "Dungeon from Last Bible II.",
+  "latest_version": "smwc-33346-1680581305",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33346,
+      "title": "Megami Tensei Gaiden: Last Bible II - Dungeon",
+      "version": "smwc-33346-1680581305",
+      "upstream_time": 1680581305,
+      "download_url": "https://dl.smwcentral.net/33346/Last%20Bible%20II%20-%20Dungeon.zip",
+      "filename": "Last Bible II - Dungeon.zip",
+      "size": 32652,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

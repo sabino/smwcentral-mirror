@@ -1,0 +1,31 @@
+{
+  "name": "tools-hxd-hex-editor-and-disk-editor",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 28982,
+  "title": "HxD - Hex Editor and Disk Editor",
+  "authors": [
+    "Maël Hörz"
+  ],
+  "tags": [
+    "hex",
+    "hex editor"
+  ],
+  "description": "HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.<br>\r\n<br>\r\nThe easy to use interface offers features such as searching and replacing, exporting, checksums/digests, insertion of byte patterns, a file shredder, concatenation or splitting of files, statistics and much more.",
+  "latest_version": "smwc-28982-1643146239",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 28982,
+      "title": "HxD - Hex Editor and Disk Editor",
+      "version": "smwc-28982-1643146239",
+      "upstream_time": 1643146239,
+      "download_url": "https://dl.smwcentral.net/28982/HxDPortableSetup.zip",
+      "filename": "HxDPortableSetup.zip",
+      "size": 3348102,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

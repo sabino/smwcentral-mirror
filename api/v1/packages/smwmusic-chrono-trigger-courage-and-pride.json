@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-chrono-trigger-courage-and-pride",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25007,
+  "title": "Chrono Trigger - Courage and Pride",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "cutscene"
+  ],
+  "description": "The triumphant song that plays in Guardia Castle in Chrono Trigger (it's also my favorite CT song :P).<br>\r\n<br>\r\nNot compatible with the \"Bonus End\" song.",
+  "latest_version": "smwc-25007-1605816058",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25007,
+      "title": "Chrono Trigger - Courage and Pride",
+      "version": "smwc-25007-1605816058",
+      "upstream_time": 1605816058,
+      "download_url": "https://dl.smwcentral.net/25007/Courage%20and%20Pride.zip",
+      "filename": "Courage and Pride.zip",
+      "size": 65781,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

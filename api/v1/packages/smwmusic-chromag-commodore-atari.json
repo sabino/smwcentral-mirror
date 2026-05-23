@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-chromag-commodore-atari",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39270,
+  "title": "Chromag - Commodore Atari 500",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Funky track, used for one of the newer BEET JAM levels",
+  "latest_version": "smwc-39270-1741210180",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39270,
+      "title": "Chromag - Commodore Atari 500",
+      "version": "smwc-39270-1741210180",
+      "upstream_time": 1741210180,
+      "download_url": "https://dl.smwcentral.net/39270/Commodore%20Atari%20500.zip",
+      "filename": "Commodore Atari 500.zip",
+      "size": 74825,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "smwgraphics-kirby-s-dream-land-3-ripple-field",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 37342,
+  "title": "Kirby's Dream Land 3 - Ripple Field 4",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "2bpp",
+    "beach",
+    "needs remoderation",
+    "ocean",
+    "patch needed",
+    "ruins",
+    "sky"
+  ],
+  "description": "BG was released at Winter C3 2024. Changed the starting Y position of layer 3 to 9 in order to make the layer 3 BG visible.<br>\r\nI did fight the corner of the sand tiles in terms of palettes. Wasn't bad.<br>\r\nNo credit needed.<br>\r\n<br>\r\nPlease use it with the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18862\"> Remove Status Bar </a> or any other sprite status bar patches. Or even uberasm to remove the status bar.",
+  "latest_version": "smwc-37342-1709424351",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 37342,
+      "title": "Kirby's Dream Land 3 - Ripple Field 4",
+      "version": "smwc-37342-1709424351",
+      "upstream_time": 1709424351,
+      "download_url": "https://dl.smwcentral.net/37342/Kirby%27s%20Dream%20Land%203%20-%20Ripple%20Field%20-%20Stage%204-good.zip",
+      "filename": "Kirby%27s Dream Land 3 - Ripple Field - Stage 4-good.zip",
+      "size": 2865,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 9183,
+      "title": "Kirby's Dream Land 3 - Ripple Field 4 ",
+      "version": "smwc-9183-1410294482",
+      "upstream_time": 1410294482,
+      "download_url": "https://dl.smwcentral.net/9183/KDL3%20Ripple%20Field%204.zip",
+      "filename": "KDL3 Ripple Field 4.zip",
+      "size": 5127,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2524,
+      "title": "Kirby's Dream Land 3 - Ripple Field 3",
+      "version": "smwc-2524-1398131958",
+      "upstream_time": 1398131958,
+      "download_url": "https://dl.smwcentral.net/2524/KDL3-RF3BG.zip",
+      "filename": "KDL3-RF3BG.zip",
+      "size": 9415,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

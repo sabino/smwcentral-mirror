@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-4-episode-i-mad-gear-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28293,
+  "title": "Sonic The Hedgehog 4: Episode I - Mad Gear Zone Act 3",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "chase",
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "The song played on the last act of Mad Gear Zone.<br>\r\n<br>\r\nCan be used in Tense, fast-paced levels and final castles.<br>\r\n<br>\r\nEdit: Made the echo a bit better.<br>\r\nEdit 2: Optimized it a bit, thanks to bebn legg!<br>\r\nEdit 3: More small optimizations as well as adding some tweaks and extra commands to make it more accurate, at the cost of 21 bytes.",
+  "latest_version": "smwc-28293-1632803379",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28293,
+      "title": "Sonic The Hedgehog 4: Episode I - Mad Gear Zone Act 3",
+      "version": "smwc-28293-1632803379",
+      "upstream_time": 1632803379,
+      "download_url": "https://dl.smwcentral.net/28293/Sonic%20The%20Hedgehog%204%20Episode%20I%20-%20Mad%20Gear%20Zone%20%28Act%203%29.zip",
+      "filename": "Sonic The Hedgehog 4 Episode I - Mad Gear Zone (Act 3).zip",
+      "size": 33642,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27109,
+      "title": "Sonic The Hedgehog 4: Episode I - Mad Gear Zone Act 3",
+      "version": "smwc-27109-1623961698",
+      "upstream_time": 1623961698,
+      "download_url": "https://dl.smwcentral.net/27109/Mad_Gear_Zone_Act_3_Sampled.zip",
+      "filename": "Mad_Gear_Zone_Act_3_Sampled.zip",
+      "size": 62530,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

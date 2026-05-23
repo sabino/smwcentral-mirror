@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-spanky-s-quest-ending",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30578,
+  "title": "Spanky's Quest - Ending",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "sky",
+    "water"
+  ],
+  "description": "Could fit a credits sequence.<br>\r\nIncludes the original version as well as a looped version, which could also be used for normal gameplay as well (change it with the #define at the top of the txt file).",
+  "latest_version": "smwc-30578-1652384382",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30578,
+      "title": "Spanky's Quest - Ending",
+      "version": "smwc-30578-1652384382",
+      "upstream_time": 1652384382,
+      "download_url": "https://dl.smwcentral.net/30578/Spanky%27s%20Quest%20-%20Ending.zip",
+      "filename": "Spanky%27s Quest - Ending.zip",
+      "size": 90543,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

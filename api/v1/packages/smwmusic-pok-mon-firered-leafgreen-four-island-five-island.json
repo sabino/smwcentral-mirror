@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pok-mon-firered-leafgreen-four-island-five-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17907,
+  "title": "Pokémon FireRed/LeafGreen - Four Island / Five Island",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "town"
+  ],
+  "description": "16-bit version of the lively Pokémon Gold music. <br>\r\nIt can be used on animated levels, like cities, calm fields, or perhaps on happy maps.",
+  "latest_version": "smwc-17907-1532534820",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17907,
+      "title": "Pokémon FireRed/LeafGreen - Four Island / Five Island",
+      "version": "smwc-17907-1532534820",
+      "upstream_time": 1532534820,
+      "download_url": "https://dl.smwcentral.net/17907/SeviiIsland4-Azalea.zip",
+      "filename": "SeviiIsland4-Azalea.zip",
+      "size": 34738,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

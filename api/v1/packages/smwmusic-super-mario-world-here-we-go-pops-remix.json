@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-world-here-we-go-pops-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9524,
+  "title": "Super Mario World - Here We Go (Pops Remix)",
+  "authors": [
+    "lu9"
+  ],
+  "tags": [
+    "credits",
+    "grassland",
+    "sky",
+    "title"
+  ],
+  "description": "A well known MIDI rendition of the SMW Theme, now ported to SMW. It fits the ending and credits scene, or maybe even the overworld theme.",
+  "latest_version": "smwc-9524-1420905523",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9524,
+      "title": "Super Mario World - Here We Go (Pops Remix)",
+      "version": "smwc-9524-1420905523",
+      "upstream_time": 1420905523,
+      "download_url": "https://dl.smwcentral.net/9524/smw_pops.zip",
+      "filename": "smw_pops.zip",
+      "size": 32347,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

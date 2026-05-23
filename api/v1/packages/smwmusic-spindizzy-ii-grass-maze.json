@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-spindizzy-ii-grass-maze",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13150,
+  "title": "Spindizzy II - Grass Maze",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "cave",
+    "grassland",
+    "industrial",
+    "mountain",
+    "overworld",
+    "swamp"
+  ],
+  "description": "A groovy song that could fit a lategame grassland or something.",
+  "latest_version": "smwc-13150-1454206617",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13150,
+      "title": "Spindizzy II - Grass Maze",
+      "version": "smwc-13150-1454206617",
+      "upstream_time": 1454206617,
+      "download_url": "https://dl.smwcentral.net/13150/grassmaze.zip",
+      "filename": "grassmaze.zip",
+      "size": 33153,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

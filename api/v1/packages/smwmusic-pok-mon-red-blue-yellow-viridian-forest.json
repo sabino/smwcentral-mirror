@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-viridian-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23124,
+  "title": "Pokémon Red/Blue/Yellow - Viridian Forest",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "dark",
+    "forest"
+  ],
+  "description": "The song that plays in Viridian Forest in the first generation Pokémon games (Red/Blue/Yellow).<br>\r\n<br>\r\nRequested by Brutapode89.<br>\r\n<br>\r\nFits forests, levels or overworlds.<br>\r\n<br>\r\nUpdate: Changed ADSR, and fixed the noise channel.",
+  "latest_version": "smwc-23124-1590688863",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23124,
+      "title": "Pokémon Red/Blue/Yellow - Viridian Forest",
+      "version": "smwc-23124-1590688863",
+      "upstream_time": 1590688863,
+      "download_url": "https://dl.smwcentral.net/23124/Pokemon%20RBY%20-%20Viridian%20Forest.zip",
+      "filename": "Pokemon RBY - Viridian Forest.zip",
+      "size": 30827,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-ix-vamo-alla-flamenco",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33711,
+  "title": "Final Fantasy IX - Vamo'alla Flamenco",
+  "authors": [
+    "SviSvi"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "desert"
+  ],
+  "description": "A lively flamenco piece that could suit desert levels or boss fights.",
+  "latest_version": "smwc-33711-1693315387",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33711,
+      "title": "Final Fantasy IX - Vamo'alla Flamenco",
+      "version": "smwc-33711-1693315387",
+      "upstream_time": 1693315387,
+      "download_url": "https://dl.smwcentral.net/33711/Vamo%27alla%20Flamenco.zip",
+      "filename": "Vamo%27alla Flamenco.zip",
+      "size": 68188,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

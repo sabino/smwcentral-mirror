@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32176,
+  "title": "The Legend of Zelda - Overworld",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "mountain",
+    "mountainous",
+    "overworld"
+  ],
+  "description": "Could fit a grassland or mountain levels.",
+  "latest_version": "smwc-32176-1675233159",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32176,
+      "title": "The Legend of Zelda - Overworld",
+      "version": "smwc-32176-1675233159",
+      "upstream_time": 1675233159,
+      "download_url": "https://dl.smwcentral.net/32176/The%20Legend%20of%20Zelda%20-%20Overworld.zip",
+      "filename": "The Legend of Zelda - Overworld.zip",
+      "size": 31997,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8107,
+      "title": "The Legend of Zelda - Overworld",
+      "version": "smwc-8107-1320213701",
+      "upstream_time": 1320213701,
+      "download_url": "https://dl.smwcentral.net/8107/Zelda-theme.zip",
+      "filename": "Zelda-theme.zip",
+      "size": 70989,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

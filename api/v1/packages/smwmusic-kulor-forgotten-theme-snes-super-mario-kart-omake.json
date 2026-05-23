@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-kulor-forgotten-theme-snes-super-mario-kart-omake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39338,
+  "title": "Kulor - Forgotten Theme [SNES Super Mario Kart Omake]",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "ice",
+    "industrial",
+    "menu",
+    "night",
+    "overworld",
+    "snow",
+    "town"
+  ],
+  "description": "A Super Mario Kart-style theme composed by Kulor.<br>\r\n<br>\r\nDespite SMK having fairly abrasive instruments, there's something cozy about it.<br>\r\n<br>\r\nCheck out the original <a href=\"https://www.youtube.com/watch?v=W4U3JWorsK0\" rel=\"nofollow\">here</a>!",
+  "latest_version": "smwc-39338-1743010092",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39338,
+      "title": "Kulor - Forgotten Theme [SNES Super Mario Kart Omake]",
+      "version": "smwc-39338-1743010092",
+      "upstream_time": 1743010092,
+      "download_url": "https://dl.smwcentral.net/39338/smk-omake.zip",
+      "filename": "smk-omake.zip",
+      "size": 34857,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

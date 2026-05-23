@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-is-missing-city-secured",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16066,
+  "title": "Mario Is Missing - City Secured",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "misc"
+  ],
+  "description": "The City Secured theme from Mario Is Missing.",
+  "latest_version": "smwc-16066-1504143175",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16066,
+      "title": "Mario Is Missing - City Secured",
+      "version": "smwc-16066-1504143175",
+      "upstream_time": 1504143175,
+      "download_url": "https://dl.smwcentral.net/16066/City%20Secured.zip",
+      "filename": "City Secured.zip",
+      "size": 30510,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-carrying-fixes-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14878,
+  "title": "Carrying Fixes v2.0",
+  "authors": [
+    "Romi"
+  ],
+  "tags": [
+    "carrying",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This fixes the double carrying glitch and the carry-items-while-flying glitch, and can be changed to disallow carrying items while climbing too.<br>\r\n<br>\r\nGHB edit: Optimized the code.",
+  "latest_version": "smwc-14878-1483496817",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14878,
+      "title": "Carrying Fixes v2.0",
+      "version": "smwc-14878-1483496817",
+      "upstream_time": 1483496817,
+      "download_url": "https://dl.smwcentral.net/14878/Carry%20Fix.zip",
+      "filename": "Carry Fix.zip",
+      "size": 1180,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-hoopster",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16130,
+  "title": "Hoopster",
+  "authors": [
+    "Romi"
+  ],
+  "tags": [
+    "bug",
+    "carriable",
+    "forest",
+    "lorom",
+    "rideable",
+    "sa-1",
+    "sky",
+    "smb2"
+  ],
+  "description": "The ladybug from SMB2. It climbs on vines back and forth, is rideable and can be carried. It also gets faster when the player approaches.<br>\r\n<br>\r\nThis sprite was part of Romi's Sprite Package, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16130-1504027704",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16130,
+      "title": "Hoopster",
+      "version": "smwc-16130-1504027704",
+      "upstream_time": 1504027704,
+      "download_url": "https://dl.smwcentral.net/16130/SMB2Hoopster.zip",
+      "filename": "SMB2Hoopster.zip",
+      "size": 4281,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

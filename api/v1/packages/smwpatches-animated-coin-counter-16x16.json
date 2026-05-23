@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-animated-coin-counter-16x16",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12402,
+  "title": "Animated Coin Counter (16x16)",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "animated",
+    "asar 2 remoderation",
+    "coin",
+    "counter",
+    "lorom",
+    "needs remoderation",
+    "sa-1"
+  ],
+  "description": "This will add an animated coin counter on the status bar. Unlike the other one which was just one 8x8, this is 16x16.",
+  "latest_version": "smwc-12402-1451616967",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12402,
+      "title": "Animated Coin Counter (16x16)",
+      "version": "smwc-12402-1451616967",
+      "upstream_time": 1451616967,
+      "download_url": "https://dl.smwcentral.net/12402/anitile.zip",
+      "filename": "anitile.zip",
+      "size": 634,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

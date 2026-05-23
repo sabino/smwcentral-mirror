@@ -1,0 +1,47 @@
+{
+  "name": "smwgraphics-shin-kidou-senki-gundam-wing-endless-duel-wing-wing-zero-stage",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20261,
+  "title": "Shin Kidou Senki Gundam Wing: Endless Duel - Wing & Wing Zero Stage",
+  "authors": [
+    "Ayami",
+    "Rykon-V73"
+  ],
+  "tags": [
+    "block",
+    "city",
+    "future",
+    "mechanical",
+    "needs remoderation"
+  ],
+  "description": "I ripped the FG of the future city level of Shin Kidou Senki Gundam Wing: Endless Duel(Super Famicom). I used Shiny Ninetales' BG3' empty tiles to fit my own GFX. A sacrifice was needed, but I did manage to recreate a few animated tiles. The order is included in Information.txt. To be used in level with BG horizontal scroll=None and Vertical Scroll=None. I added the 'future' tag, as in for levels that happened in the future.<br>\r\n<br>\r\n<b>UPDATE</b>: Added ExGFX1CA. This one has the FG tiles, but excludes the BG tiles. Perfect for people who want to insert a different BG here.<br>\r\n<b>UPDATE2</b>: Added the 2nd sample level. Includes ExGFX1CA. Good if you want to use a different BG.",
+  "latest_version": "smwc-20261-1561926336",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20261,
+      "title": "Shin Kidou Senki Gundam Wing: Endless Duel - Wing & Wing Zero Stage",
+      "version": "smwc-20261-1561926336",
+      "upstream_time": 1561926336,
+      "download_url": "https://dl.smwcentral.net/20261/Shin%20Kidou%20Senki%20Gundam%20Wing%20Endless%20Duel%20Wing%20%26%20Wing%20Zero%20Stage.zip",
+      "filename": "Shin Kidou Senki Gundam Wing Endless Duel Wing %26 Wing Zero Stage.zip",
+      "size": 23964,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19944,
+      "title": "Shin Kidou Senki Gundam Wing: Endless Duel - Wing & Wing Zero Stage",
+      "version": "smwc-19944-1558748160",
+      "upstream_time": 1558748160,
+      "download_url": "https://dl.smwcentral.net/19944/GWED%20Wing%20%26%20Wing%20Zero%20Stage.zip",
+      "filename": "GWED Wing %26 Wing Zero Stage.zip",
+      "size": 10573,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

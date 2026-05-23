@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-portal-2-robot-waiting-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23121,
+  "title": "Portal 2 - Robot Waiting Room #1",
+  "authors": [
+    "TadeLn"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "calm",
+    "mysterious",
+    "overworld",
+    "space"
+  ],
+  "description": "Short song, good for special overworld / special levels.<br>\r\n<br>\r\nOrginal song: https://www.thinkwithportals.com/music.php<br>\r\nThis port on YouTube: https://youtu.be/wQOER80kiHw",
+  "latest_version": "smwc-23121-1590907994",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23121,
+      "title": "Portal 2 - Robot Waiting Room #1",
+      "version": "smwc-23121-1590907994",
+      "upstream_time": 1590907994,
+      "download_url": "https://dl.smwcentral.net/23121/Aperture%20Science%20Psychoacoustic%20Labolatories%20-%20Robot%20Waiting%20Room%20%231.zip",
+      "filename": "Aperture Science Psychoacoustic Labolatories - Robot Waiting Room %231.zip",
+      "size": 32218,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23112,
+      "title": "Portal 2 - Robot Waiting Room #4",
+      "version": "smwc-23112-1590978750",
+      "upstream_time": 1590978750,
+      "download_url": "https://dl.smwcentral.net/23112/Aperture%20Science%20Psychoacoustic%20Labolatories%20-%20Robot%20Waiting%20Room%20%234.zip",
+      "filename": "Aperture Science Psychoacoustic Labolatories - Robot Waiting Room %234.zip",
+      "size": 32062,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

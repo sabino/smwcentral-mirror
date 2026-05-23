@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-prayer-for-safety",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39063,
+  "title": "EarthBound - Prayer for Safety",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "tense"
+  ],
+  "description": "The eerie song that plays during the final boss fight in Earthbound when you pray for people to help you win the battle. While not that complicated of a piece, this is one of my favorite songs in Earthbound.",
+  "latest_version": "smwc-39063-1740606443",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39063,
+      "title": "EarthBound - Prayer for Safety",
+      "version": "smwc-39063-1740606443",
+      "upstream_time": 1740606443,
+      "download_url": "https://dl.smwcentral.net/39063/Earthbound_-_Prayer_for_Safety.zip",
+      "filename": "Earthbound_-_Prayer_for_Safety.zip",
+      "size": 57610,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

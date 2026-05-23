@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-suu",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16230,
+  "title": "Suu",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "forest",
+    "ghost house",
+    "lorom",
+    "sa-1",
+    "sml",
+    "spider",
+    "super mario land"
+  ],
+  "description": "A spider from Super Mario Land that will drop at the player when they approach, then rise back to its initial position.<br>\r\n<br>\r\nThis sprite was part of smkdan's Super Mario Land sprites pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16230-1504719083",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16230,
+      "title": "Suu",
+      "version": "smwc-16230-1504719083",
+      "upstream_time": 1504719083,
+      "download_url": "https://dl.smwcentral.net/16230/Suu.zip",
+      "filename": "Suu.zip",
+      "size": 5622,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-romancing-saga-sailing-the-ocean",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29170,
+  "title": "Romancing SaGa - Sailing the Ocean",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "mysterious",
+    "night",
+    "sad",
+    "water"
+  ],
+  "description": "A soothing and slightly melancholic song from Romancing Saga.",
+  "latest_version": "smwc-29170-1643569031",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29170,
+      "title": "Romancing SaGa - Sailing the Ocean",
+      "version": "smwc-29170-1643569031",
+      "upstream_time": 1643569031,
+      "download_url": "https://dl.smwcentral.net/29170/Romancing%20Saga%20-%20Sailing%20the%20Ocean.zip",
+      "filename": "Romancing Saga - Sailing the Ocean.zip",
+      "size": 52004,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

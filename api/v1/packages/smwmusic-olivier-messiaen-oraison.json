@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-olivier-messiaen-oraison",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28273,
+  "title": "Olivier Messiaen - Oraison",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "dark",
+    "mysterious",
+    "sad"
+  ],
+  "description": "A harrowing, yet infinitely peaceful piece by Messiaen, originally performed on the ondes martenot. If you want to shock your players into a humble silence, this is the right port for you.<br>\r\n<br>\r\nBeware: this song doesn't loop!",
+  "latest_version": "smwc-28273-1635710076",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28273,
+      "title": "Olivier Messiaen - Oraison",
+      "version": "smwc-28273-1635710076",
+      "upstream_time": 1635710076,
+      "download_url": "https://dl.smwcentral.net/28273/_Oraison.zip",
+      "filename": "_Oraison.zip",
+      "size": 32000,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

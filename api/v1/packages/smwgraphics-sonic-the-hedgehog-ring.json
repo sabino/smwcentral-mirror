@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-sonic-the-hedgehog-ring",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 19345,
+  "title": "Sonic The Hedgehog - Ring",
+  "authors": [
+    "nlxt"
+  ],
+  "tags": [
+    "coin",
+    "needs remoderation",
+    "status bar"
+  ],
+  "description": "These are the rings of sonic the hedgehog. this is useful for sonic hacks or something like mario in the world of sonic. the rings use a palette that serves to take the original colors of the rings also looks good without palette but to be as the original is used the palette. also has purple ring or blue coin because the palette is to the perfection and also edits the coin counter making the HUD coin is a ring. Affects a little bit the other blocks that use palette 6 but almost nothing.<br>\r\n<br>\r\n<i>Moderator's note: included an alternate version that doesn't overwrite the vanilla colors (vanilla: colors 1 to 4; alternate: colors 8 to B). Uncheck \"Enable original game's palette animation\" in the Edit Animation Settings dialog (Lunar Magic's coin button) to disable the Yoshi coin palette animation in the level, so the \"colors 1 to 4\" version doesn't flash, just like in Sonic The Hedgehog.</i>",
+  "latest_version": "smwc-19345-1553355914",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 19345,
+      "title": "Sonic The Hedgehog - Ring",
+      "version": "smwc-19345-1553355914",
+      "upstream_time": 1553355914,
+      "download_url": "https://dl.smwcentral.net/19345/Sonic%20-%20Rings.zip",
+      "filename": "Sonic - Rings.zip",
+      "size": 15383,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

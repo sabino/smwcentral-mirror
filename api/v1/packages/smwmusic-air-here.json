@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-air-here",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15900,
+  "title": "AIR - Here",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sad",
+    "sky"
+  ],
+  "description": "Could fit with any calm sad theme",
+  "latest_version": "smwc-15900-1501288967",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15900,
+      "title": "AIR - Here",
+      "version": "smwc-15900-1501288967",
+      "upstream_time": 1501288967,
+      "download_url": "https://dl.smwcentral.net/15900/AIR%20-%20Here.zip",
+      "filename": "AIR - Here.zip",
+      "size": 31995,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

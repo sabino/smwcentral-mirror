@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ship-shape",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32558,
+  "title": "Ship Shape",
+  "authors": [
+    "VanishingPoint"
+  ],
+  "tags": [
+    "airship",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Fun little army band song. Consider using in an airship theme world or victory cutscene.",
+  "latest_version": "smwc-32558-1680302592",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32558,
+      "title": "Ship Shape",
+      "version": "smwc-32558-1680302592",
+      "upstream_time": 1680302592,
+      "download_url": "https://dl.smwcentral.net/32558/Ship%20Shape.zip",
+      "filename": "Ship Shape.zip",
+      "size": 30508,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

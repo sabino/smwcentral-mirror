@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-shinto-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30069,
+  "title": "Touhou Kaikidan ~ Mystic Square - Shinto Shrine",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "sad"
+  ],
+  "description": "神社<br>\r\nBad ending theme from Touhou Kaikidan.<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.<br>\r\n<br>\r\n2022-05-10 Edit<br>\r\n - Switching #5 and #6",
+  "latest_version": "smwc-30069-1652535845",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30069,
+      "title": "Touhou Kaikidan ~ Mystic Square - Shinto Shrine",
+      "version": "smwc-30069-1652535845",
+      "upstream_time": 1652535845,
+      "download_url": "https://dl.smwcentral.net/30069/th5_18.zip",
+      "filename": "th5_18.zip",
+      "size": 30959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

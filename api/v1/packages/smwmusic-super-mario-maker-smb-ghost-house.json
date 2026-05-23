@@ -1,0 +1,62 @@
+{
+  "name": "smwmusic-super-mario-maker-smb-ghost-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25788,
+  "title": "Super Mario Maker - SMB Ghost House",
+  "authors": [
+    "Nino94_54"
+  ],
+  "tags": [
+    "cave",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "𝖂𝖊𝖑𝖈𝖔𝖒𝖊 to my new 𝓹𝓸𝓻𝓽!!<br>\r\n<br>\r\nA port of the SMB1 ghost house from SMM2, The best port at now, Enjoy!<br>\r\nFits in Ghost Houses/Castles/Overworlds",
+  "latest_version": "smwc-25788-1612126891",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25788,
+      "title": "Super Mario Maker - SMB Ghost House",
+      "version": "smwc-25788-1612126891",
+      "upstream_time": 1612126891,
+      "download_url": "https://dl.smwcentral.net/25788/gostjaus.zip",
+      "filename": "gostjaus.zip",
+      "size": 31904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25011,
+      "title": "Super Mario Maker - SMB Ghost House",
+      "version": "smwc-25011-1605727321",
+      "upstream_time": 1605727321,
+      "download_url": "https://dl.smwcentral.net/25011/smm2ghosthousesmb1.zip",
+      "filename": "smm2ghosthousesmb1.zip",
+      "size": 31680,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18236,
+      "title": "Super Mario Maker - SMB Ghost House",
+      "version": "smwc-18236-1538527832",
+      "upstream_time": 1538527832,
+      "download_url": "https://dl.smwcentral.net/18236/smbghosthouse.zip",
+      "filename": "smbghosthouse.zip",
+      "size": 30704,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

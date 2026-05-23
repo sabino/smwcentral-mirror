@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-timer-change",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3974,
+  "title": "Timer Change",
+  "authors": [
+    "Incognito",
+    "lolcats439"
+  ],
+  "tags": [
+    "lorom",
+    "timer"
+  ],
+  "description": "Sets the timer to a fixed time -- in this case, 040 (40 SMW seconds left).<br>\r\n<br>\r\ntimeonce.asm only runs once per level, which means it will not set the timer to said fixed time a second time.<br>\r\ntimehold.asm runs continuously when touched and as such, the timer will stay the same while touching the block.",
+  "latest_version": "smwc-3974-1409004595",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3974,
+      "title": "Timer Change",
+      "version": "smwc-3974-1409004595",
+      "upstream_time": 1409004595,
+      "download_url": "https://dl.smwcentral.net/3974/timer.zip",
+      "filename": "timer.zip",
+      "size": 703,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-yoshi-s-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31230,
+  "title": "Mario & Luigi: Partners in Time - Yoshi's Island",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "beach",
+    "town"
+  ],
+  "description": "This is the music from the area behind Yoshi Village in Mario & Luigi: Partners in Time.",
+  "latest_version": "smwc-31230-1666460856",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31230,
+      "title": "Mario & Luigi: Partners in Time - Yoshi's Island",
+      "version": "smwc-31230-1666460856",
+      "upstream_time": 1666460856,
+      "download_url": "https://dl.smwcentral.net/31230/Mario%20%26%20Luigi_-%20Partners%20in%20Time%20-%20Yoshi%27s%20Island.zip",
+      "filename": "Mario %26 Luigi_- Partners in Time - Yoshi%27s Island.zip",
+      "size": 34561,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-megamanx-met",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 8860,
+  "title": "MegamanX - Met",
+  "authors": [
+    "anonimzwx"
+  ],
+  "tags": [
+    "lorom",
+    "megaman x",
+    "met",
+    "metool",
+    "mmx"
+  ],
+  "description": "MegamanX - Met:<br>\r\n<a href=\"https://www.youtube.com/watch?v=8hM4QpO-3KY&feature=youtu.be\" rel=\"nofollow\">https://www.youtube.com/watch?v=8hM4QpO-3KY&feature=youtu.be</a><br>\r\n<br>\r\nIf the extra bit is clear it will shoot a bullet towards the player. If it is set it will not do that.",
+  "latest_version": "smwc-8860-1407785104",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 8860,
+      "title": "MegamanX - Met",
+      "version": "smwc-8860-1407785104",
+      "upstream_time": 1407785104,
+      "download_url": "https://dl.smwcentral.net/8860/Met.zip",
+      "filename": "Met.zip",
+      "size": 11900,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

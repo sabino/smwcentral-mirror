@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-jelly-boy-fire-pits",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18133,
+  "title": "Jelly Boy - Fire Pits",
+  "authors": [
+    "DanTheVP"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ghost house",
+    "mysterious",
+    "spooky"
+  ],
+  "description": "This is a dark and spooky track that can be a fairly versatile track as there is no imposing lead/melody line. It could work well as music for any level that fits it's theme, but will feel at home in slow to medium paced levels, or levels with platforming but not at a high rate of speed. Might also work well for a puzzle level.",
+  "latest_version": "smwc-18133-1536460881",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18133,
+      "title": "Jelly Boy - Fire Pits",
+      "version": "smwc-18133-1536460881",
+      "upstream_time": 1536460881,
+      "download_url": "https://dl.smwcentral.net/18133/Fire%20Pits.zip",
+      "filename": "Fire Pits.zip",
+      "size": 60110,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

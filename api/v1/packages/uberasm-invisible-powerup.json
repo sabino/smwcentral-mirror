@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-invisible-powerup",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 24495,
+  "title": "Invisible Powerup",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "invisible",
+    "lorom",
+    "power",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This powerup will allow you to walk through enemies and walls for a period of time. Includes: the patch itself, a sprite, and a block. I think I tested it pretty well, so I hope it doesn't get rejected for that reason. <a href=\"http://www.youtube.com/watch?v=M_zhru3HW1s\" rel=\"nofollow\">Video.</a> Ignore the status bar and one hit kill in the video.",
+  "latest_version": "smwc-24495-1602776140",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 24495,
+      "title": "Invisible Powerup",
+      "version": "smwc-24495-1602776140",
+      "upstream_time": 1602776140,
+      "download_url": "https://dl.smwcentral.net/24495/InvisiblePower.zip",
+      "filename": "InvisiblePower.zip",
+      "size": 2759,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

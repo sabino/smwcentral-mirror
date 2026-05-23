@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-batman-gb-title-screen-arranged",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17106,
+  "title": "Batman (GB) - Title Screen (Arranged)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "cutscene",
+    "tense",
+    "title"
+  ],
+  "description": "The Title theme for the GB version of Sunsoft's own Batman game (IIRC, the NES was the original one or something, idk). Use this when you need a not too suspense-filled and short intro theme, which could also serve as a title screen theme (no shit lol) that starts right after the intro. Not much useful for everything else tho.",
+  "latest_version": "smwc-17106-1518553494",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17106,
+      "title": "Batman (GB) - Title Screen (Arranged)",
+      "version": "smwc-17106-1518553494",
+      "upstream_time": 1518553494,
+      "download_url": "https://dl.smwcentral.net/17106/Batman%20%28GB%29%20-%20Title%20Screen.zip",
+      "filename": "Batman (GB) - Title Screen.zip",
+      "size": 81807,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

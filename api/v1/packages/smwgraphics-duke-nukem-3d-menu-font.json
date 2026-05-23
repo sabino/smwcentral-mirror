@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-duke-nukem-3d-menu-font",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 29976,
+  "title": "Duke Nukem 3D - Menu Font",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "cutscene",
+    "sans serif",
+    "title screen"
+  ],
+  "description": "This is the pixel font originally used for menus in Duke Nukem 3D. Originally a 16x12 font, I've adapted it to be 16x16 and usable in levels as a title screen or cutscene font. <br>\r\n<br>\r\nThis font is a full A-Z, 0-9 set in one graphics file with minimal punctuation. Uses one palette row and the colours are laid out in a gradient for easy changing. See the sample level for details.",
+  "latest_version": "smwc-29976-1646058926",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 29976,
+      "title": "Duke Nukem 3D - Menu Font",
+      "version": "smwc-29976-1646058926",
+      "upstream_time": 1646058926,
+      "download_url": "https://dl.smwcentral.net/29976/Duke%20Nukem%203D%20-%20Menu%20Font.zip",
+      "filename": "Duke Nukem 3D - Menu Font.zip",
+      "size": 3844,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

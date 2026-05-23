@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-castlevania-assassin-stalker-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8282,
+  "title": "Castlevania - Assassin (Stalker Remix)",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "dark",
+    "night"
+  ],
+  "description": "A remix of the 2nd stage theme from the original Castlevania. Would best suit a night area.",
+  "latest_version": "smwc-8282-1345218534",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8282,
+      "title": "Castlevania - Assassin (Stalker Remix)",
+      "version": "smwc-8282-1345218534",
+      "upstream_time": 1345218534,
+      "download_url": "https://dl.smwcentral.net/8282/Assassin.zip",
+      "filename": "Assassin.zip",
+      "size": 64960,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

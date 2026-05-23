@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-deltarune-black-knife",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41915,
+  "title": "Deltarune - Black Knife",
+  "authors": [
+    "PolyPlayer"
+  ],
+  "tags": [
+    "boss",
+    "chaotic",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Toby Fox's Black Knife from Deltarune (Chapter 3)<br>\r\nCould be used in boss battles, specifically final bosses.<br>\r\n<br>\r\nSamples were taken from stormstudio1's Black Knife FLP recreation on Youtube.<br>\r\n<br>\r\n3/11/2026: Edited to fix pitch bends at 1:53",
+  "latest_version": "smwc-41915-1774817665",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41915,
+      "title": "Deltarune - Black Knife",
+      "version": "smwc-41915-1774817665",
+      "upstream_time": 1774817665,
+      "download_url": "https://dl.smwcentral.net/41915/%5BU%5D%20DELTARUNE%20Chapter%203%20-%20Black%20Knife.zip",
+      "filename": "%5BU%5D DELTARUNE Chapter 3 - Black Knife.zip",
+      "size": 34889,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41892,
+      "title": "Deltarune - Black Knife",
+      "version": "3",
+      "upstream_time": 1776909030,
+      "download_url": "https://dl.smwcentral.net/41892/Deltarune%20-%20Black%20Knife.zip",
+      "filename": "Deltarune - Black Knife.zip",
+      "size": 80851,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

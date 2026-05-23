@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-smb3-statue-laser",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3692,
+  "title": "SMB3 Statue Laser",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "enemy",
+    "laser",
+    "lorom",
+    "sa-1",
+    "smb 3",
+    "smb3",
+    "statue"
+  ],
+  "description": "This shooter will shoot a long stream of laser, much like the ones in SMB3 Bowser's castle statues.<br>\r\n<br>\r\nThe neat thing about this shooter is that it uses cluster sprites, so the laser stream is able to cover more than the half of the screen vertically. It also evaporates any sprite on contact.<br>\r\n<br>\r\nThe sprite is incompatible with other cluster sprites (boo ceiling, boo ring, etc).",
+  "latest_version": "smwc-3692-1320543226",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3692,
+      "title": "SMB3 Statue Laser",
+      "version": "smwc-3692-1320543226",
+      "upstream_time": 1320543226,
+      "download_url": "https://dl.smwcentral.net/3692/SMB3%20Statue%20Laser.zip",
+      "filename": "SMB3 Statue Laser.zip",
+      "size": 10324,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

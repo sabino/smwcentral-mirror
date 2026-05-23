@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-bouncing-power-thwomp-thwimp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 17724,
+  "title": "Bouncing Power Thwomp/Thwimp",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "stun",
+    "thwimp",
+    "thwomp"
+  ],
+  "description": "This is Thwomp/Thwimp that bounces up 'n down and stun player when he/she's on ground.<br>\r\n<br>\r\nOriginally from Thwomp pack by yoshicookiezeus.",
+  "latest_version": "smwc-17724-1530523271",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 17724,
+      "title": "Bouncing Power Thwomp/Thwimp",
+      "version": "smwc-17724-1530523271",
+      "upstream_time": 1530523271,
+      "download_url": "https://dl.smwcentral.net/17724/Bouncy%20Power%20Thwomp%20%27n%20Thimp.zip",
+      "filename": "Bouncy Power Thwomp %27n Thimp.zip",
+      "size": 1771,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

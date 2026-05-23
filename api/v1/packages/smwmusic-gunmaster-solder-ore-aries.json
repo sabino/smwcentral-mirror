@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-gunmaster-solder-ore-aries",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34019,
+  "title": "GunMaster - Solder Ore / Aries",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "fire",
+    "industrial",
+    "retro",
+    "space",
+    "tense"
+  ],
+  "description": "I made a second version where I changed the percussion and bass samples because I didn't like the ones from the original version (especially the percussions from the Oki chip).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"crm0622\"><a href=\"/?p=profile&amp;id=34911\" style=\"color: var(--user-color-2);\" class=\"un\">crm0622</a></span>",
+  "latest_version": "smwc-34019-1690238014",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34019,
+      "title": "GunMaster - Solder Ore / Aries",
+      "version": "smwc-34019-1690238014",
+      "upstream_time": 1690238014,
+      "download_url": "https://dl.smwcentral.net/34019/Solder%20Ore.zip",
+      "filename": "Solder Ore.zip",
+      "size": 140979,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

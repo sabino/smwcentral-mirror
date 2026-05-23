@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-trampoline-block-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41122,
+  "title": "Trampoline Block v1.2",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "boost",
+    "bounce",
+    "lorom",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "Acts as 025 or 130.<br>\r\n<br>\r\nInspired by NSMB's Bouncy Mushrooms in <a href=\"http://www.mariowiki.com/World_1-5_%28New_Super_Mario_Bros.%29\" rel=\"nofollow\">World 1-5</a>.<br>\r\n<br>\r\nUnlike all other boost blocks, in order to bounce high, it requires the player to tap and hold the jump/spinjump button the instant they land on top of the block rather than also requiring just to hold the jump/spinjump button <i>before</i> landing.<br>\r\n<br>\r\nUses 3 bytes of freeram:<br>\r\n-!FreeRam_TimedJump is the margin of error range that allows the player to press a button within the window of time when bounced.<br>\r\n-!FreeRam_Ylow and !FreeRam_Yhi is a fix to prevent slightly higher jump.",
+  "latest_version": "smwc-41122-1764281528",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41122,
+      "title": "Trampoline Block v1.2",
+      "version": "smwc-41122-1764281528",
+      "upstream_time": 1764281528,
+      "download_url": "https://dl.smwcentral.net/41122/Trampoline%20Block%20v1.2.zip",
+      "filename": "Trampoline Block v1.2.zip",
+      "size": 3023,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

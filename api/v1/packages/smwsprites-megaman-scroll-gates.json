@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-megaman-scroll-gates",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 13541,
+  "title": "Megaman Scroll Gates",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "door",
+    "lorom",
+    "mega man",
+    "pacifist",
+    "sa-1",
+    "scroll"
+  ],
+  "description": "This door stops the screen from scrolling past it. But if the player touches it, the door will open, dragging the player and the screen to the other side and then closing. Useful if you want a \"separate room screen\" effect. Must be placed on a screen border or Mario will die when he walks through.",
+  "latest_version": "smwc-13541-1460239292",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 13541,
+      "title": "Megaman Scroll Gates",
+      "version": "smwc-13541-1460239292",
+      "upstream_time": 1460239292,
+      "download_url": "https://dl.smwcentral.net/13541/MegamanScrollGate.zip",
+      "filename": "MegamanScrollGate.zip",
+      "size": 37108,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

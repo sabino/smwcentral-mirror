@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-custom-pipe-dwelling-lakitu",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26416,
+  "title": "Custom Pipe Dwelling Lakitu",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "enemy",
+    "lakitu",
+    "lorom",
+    "pipe",
+    "sa-1"
+  ],
+  "description": "This is a custom version of the Pipe Dwelling Lakitu (sprite 4B), based on the disassembly by Mathos and Nekohdot. The main feature is the possibility to change which sprite is thrown by Lakitu with the extra bytes:<br>\r\n- Extra byte 1: sprite number to throw.<br>\r\n- Extra byte 2: sprite state to spawn the sprite in (useful to spawn carryable/kicked items).<br>\r\n- Extra byte 3: X speed to throw it at.<br>\r\n- Extra byte 4: Y speed to throw it at.<br>\r\nAdditionally the extra bit set will make it spawn a custom sprite instead.<br>\r\nBy default it will throw silver coins when the silver P-Switch is active, but it can be disabled in the file. Also a few smaller improvements were added (shared subroutines stuff, change .cfg to .json with custom sprite list entries, made it use the palette from the json file instead of being hardcoded, added defines for the tilemap).<br>\r\n",
+  "latest_version": "smwc-26416-1616346739",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26416,
+      "title": "Custom Pipe Dwelling Lakitu",
+      "version": "smwc-26416-1616346739",
+      "upstream_time": 1616346739,
+      "download_url": "https://dl.smwcentral.net/26416/CustomPipeLakitu.zip",
+      "filename": "CustomPipeLakitu.zip",
+      "size": 3635,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

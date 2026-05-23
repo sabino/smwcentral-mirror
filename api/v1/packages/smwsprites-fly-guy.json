@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-fly-guy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22373,
+  "title": "Fly Guy",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "shyguy",
+    "smw2",
+    "yoshi's island"
+  ],
+  "description": "The flying Shyguy from SMW2:YI that holds an item and drops when killed.<br>\r\n<br>\r\nThis sprite was part of smkdan's YI Pack 3, and was resubmitted separately after the remoderation for ease of search and to fit current standards.<br>\r\n<br>\r\n(Rykon-V73): Added .json file for the regular sprite and its extra bit version.",
+  "latest_version": "smwc-22373-1583975875",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22373,
+      "title": "Fly Guy",
+      "version": "smwc-22373-1583975875",
+      "upstream_time": 1583975875,
+      "download_url": "https://dl.smwcentral.net/22373/fly%20guy_edited.zip",
+      "filename": "fly guy_edited.zip",
+      "size": 6853,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

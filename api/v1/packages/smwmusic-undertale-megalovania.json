@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-undertale-megalovania",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13771,
+  "title": "Undertale - MEGALOVANIA",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "Good for fights against the weakest enemies.<br>\r\n<br>\r\nAlso I had to delete a bunch of samples, so no yoshis or thunders.",
+  "latest_version": "smwc-13771-1464998635",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13771,
+      "title": "Undertale - MEGALOVANIA",
+      "version": "smwc-13771-1464998635",
+      "upstream_time": 1464998635,
+      "download_url": "https://dl.smwcentral.net/13771/megalovania.zip",
+      "filename": "megalovania.zip",
+      "size": 86961,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

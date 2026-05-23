@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-gremlins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31300,
+  "title": "Gremlins 2: The New Batch - The Office",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "boss",
+    "ghost house",
+    "mysterious",
+    "retro",
+    "tense"
+  ],
+  "description": "Banger track from a NES game by Sunsoft. One of the few good NES games based on a movie.<br>\r\n<br>\r\nSamples: NES synth samples sets from Samples of Insanity by musicalman; bass sample ripped from another Sunsoft game by myself.",
+  "latest_version": "smwc-31300-1668086641",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31300,
+      "title": "Gremlins 2: The New Batch - The Office",
+      "version": "smwc-31300-1668086641",
+      "upstream_time": 1668086641,
+      "download_url": "https://dl.smwcentral.net/31300/Gremlins2Office.zip",
+      "filename": "Gremlins2Office.zip",
+      "size": 43966,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-talesweaver-second-run",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19828,
+  "title": "Talesweaver - Second Run",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "ice",
+    "sky"
+  ],
+  "description": "Chill piano piece from Talesweaver. Could fit ice or cloud maps.",
+  "latest_version": "smwc-19828-1556608181",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19828,
+      "title": "Talesweaver - Second Run",
+      "version": "smwc-19828-1556608181",
+      "upstream_time": 1556608181,
+      "download_url": "https://dl.smwcentral.net/19828/secondrun.zip",
+      "filename": "secondrun.zip",
+      "size": 67913,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

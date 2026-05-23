@@ -1,0 +1,72 @@
+{
+  "name": "smwmusic-sonic-cd-jp-eu-tidal-tempest-zone-good-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35860,
+  "title": "Sonic CD (JP/EU) - Tidal Tempest Zone (Good Future)",
+  "authors": [
+    "schema_tuna"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "calm",
+    "castle",
+    "cave",
+    "industrial",
+    "night",
+    "overworld",
+    "ruins",
+    "sewer",
+    "space",
+    "temple",
+    "water"
+  ],
+  "description": "A relaxed take on this Sonic CD tune. Good for chill water levels, especially if it has tide.",
+  "latest_version": "smwc-35860-1704430795",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35860,
+      "title": "Sonic CD (JP/EU) - Tidal Tempest Zone (Good Future)",
+      "version": "smwc-35860-1704430795",
+      "upstream_time": 1704430795,
+      "download_url": "https://dl.smwcentral.net/35860/TidalTempestG.zip",
+      "filename": "TidalTempestG.zip",
+      "size": 51895,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22778,
+      "title": "Sonic CD (JP/EU) - Tidal Tempest Zone (Good Future)",
+      "version": "smwc-22778-1587864740",
+      "upstream_time": 1587864740,
+      "download_url": "https://dl.smwcentral.net/22778/SCD%20JP-Tidal%20Tempest%20G.zip",
+      "filename": "SCD JP-Tidal Tempest G.zip",
+      "size": 32924,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17197,
+      "title": "Sonic CD (JP/EU) - Tidal Tempest Zone (Good Future)",
+      "version": "smwc-17197-1521151031",
+      "upstream_time": 1521151031,
+      "download_url": "https://dl.smwcentral.net/17197/Sonic%20CD%20%28JP%29%20-%20Tidal%20Tempest%20%28Good%20Future%29.zip",
+      "filename": "Sonic CD (JP) - Tidal Tempest (Good Future).zip",
+      "size": 69588,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

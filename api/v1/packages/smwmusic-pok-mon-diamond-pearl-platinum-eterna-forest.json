@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-eterna-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27082,
+  "title": "Pokémon Diamond/Pearl/Platinum - Eterna Forest",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "forest"
+  ],
+  "description": "A somewhat accurate port of this great song from Pokémon DPPt. Originally made for Super Famicompo 2, but that one wasn't usable at all in SMW, so I've now made an optimized version that can be used (included also the original SPC for completeness).<br>\r\n<br>\r\nNote: not compatible with Bonus end, Thunder SFX/Blarggs/Fireworks and P-Switch.",
+  "latest_version": "smwc-27082-1621841697",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27082,
+      "title": "Pokémon Diamond/Pearl/Platinum - Eterna Forest",
+      "version": "smwc-27082-1621841697",
+      "upstream_time": 1621841697,
+      "download_url": "https://dl.smwcentral.net/27082/Eterna%20Forest.zip",
+      "filename": "Eterna Forest.zip",
+      "size": 227711,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

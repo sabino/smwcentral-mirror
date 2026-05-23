@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-dr-mario-chill",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7530,
+  "title": "Dr. Mario - Chill",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "cave",
+    "ice"
+  ],
+  "description": "his is the classic track from all of the Dr. Mario games, though this version is based off of the GB/NES version. Would suit a variety of places, but an ice cave comes to mind.",
+  "latest_version": "smwc-7530-1319816048",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7530,
+      "title": "Dr. Mario - Chill",
+      "version": "smwc-7530-1319816048",
+      "upstream_time": 1319816048,
+      "download_url": "https://dl.smwcentral.net/7530/dmc.zip",
+      "filename": "dmc.zip",
+      "size": 69696,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

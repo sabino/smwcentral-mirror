@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-tweeter-giant-tweeter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16802,
+  "title": "Tweeter + Giant Tweeter",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "carriable",
+    "enemy",
+    "lorom",
+    "rideable",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "The masked bird-like creature from SMB2 that hops while walking. Extra bit determines if it'll be a regular or a giant Tweeter.<br>\r\n<br>\r\nThis sprite was part of mikeyk's SMB2 Updated sprites pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16802-1513885406",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16802,
+      "title": "Tweeter + Giant Tweeter",
+      "version": "smwc-16802-1513885406",
+      "upstream_time": 1513885406,
+      "download_url": "https://dl.smwcentral.net/16802/SMB2Tweeter%2BGiant.zip",
+      "filename": "SMB2Tweeter+Giant.zip",
+      "size": 8067,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mighty-morphin-power-rangers-player-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28505,
+  "title": "Mighty Morphin' Power Rangers - Player Select",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "credits",
+    "title"
+  ],
+  "description": "Short song played during the player selection screen.<br>\r\nRequested by <span class=\"un-outer\" title=\"Devazure\"><span title=\"Devazure donated $25.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=93\" style=\"color: #3e75d9;\" class=\"un\">Devazure</a></span>",
+  "latest_version": "smwc-28505-1637977862",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28505,
+      "title": "Mighty Morphin' Power Rangers - Player Select",
+      "version": "smwc-28505-1637977862",
+      "upstream_time": 1637977862,
+      "download_url": "https://dl.smwcentral.net/28505/MMPRPlayerSelect.zip",
+      "filename": "MMPRPlayerSelect.zip",
+      "size": 74243,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

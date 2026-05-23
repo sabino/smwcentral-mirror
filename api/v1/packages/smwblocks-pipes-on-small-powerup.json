@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-pipes-on-small-powerup",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3954,
+  "title": "Pipes on Small Powerup",
+  "authors": [
+    "tmercswims"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "small"
+  ],
+  "description": "Both a horizontal and vertical pipe that the player can only enter when small. Note: the vertical pipes need both a left version (vleft.asm) and a right version (vright.asm) for it to work accurately. They need to be placed to the left and right of eachother, too. This problem doesn't quite apply to horizontal pipes.",
+  "latest_version": "smwc-3954-1426208302",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3954,
+      "title": "Pipes on Small Powerup",
+      "version": "smwc-3954-1426208302",
+      "upstream_time": 1426208302,
+      "download_url": "https://dl.smwcentral.net/3954/small%20pipes.zip",
+      "filename": "small pipes.zip",
+      "size": 1103,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

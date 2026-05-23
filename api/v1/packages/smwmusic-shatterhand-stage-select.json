@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shatterhand-stage-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7634,
+  "title": "Shatterhand - Stage Select",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "final",
+    "industrial",
+    "overworld"
+  ],
+  "description": "A powerful and upbeat song that would best fit a factory submap or a stage select screen.",
+  "latest_version": "smwc-7634-1339318625",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7634,
+      "title": "Shatterhand - Stage Select",
+      "version": "smwc-7634-1339318625",
+      "upstream_time": 1339318625,
+      "download_url": "https://dl.smwcentral.net/7634/Stage%20Select.zip",
+      "filename": "Stage Select.zip",
+      "size": 61399,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

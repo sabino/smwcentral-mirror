@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-pok-mon-heartgold-soulsilver-route",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14955,
+  "title": "Pokémon HeartGold/SoulSilver - Route 3",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "mountain",
+    "overworld",
+    "town"
+  ],
+  "description": "One of the route themes from Pokemon HGSS. Could fit cheery overworlds, grass zones, and so on.",
+  "latest_version": "smwc-14955-1486649551",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14955,
+      "title": "Pokémon HeartGold/SoulSilver - Route 3",
+      "version": "smwc-14955-1486649551",
+      "upstream_time": 1486649551,
+      "download_url": "https://dl.smwcentral.net/14955/Route%203.zip",
+      "filename": "Route 3.zip",
+      "size": 71794,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

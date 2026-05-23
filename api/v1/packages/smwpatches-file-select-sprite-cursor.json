@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-file-select-sprite-cursor",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40138,
+  "title": "File Select Sprite Cursor",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "cursor",
+    "lorom",
+    "oam",
+    "sa-1"
+  ],
+  "description": "This simple patch replaces the blinking layer 3 cursor with a sprite cursor which either blinks or oscillates.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"simon.caio\"><a href=\"/?p=profile&amp;id=39400\" style=\"color: var(--user-color-2);\" class=\"un\">simon.caio</a></span>.<br>\r\n<br>\r\nNo credits necessary<br>\r\n<br>\r\nUpdate 2025-07-20 (gemstonezVA): Changed a \"warnpc\" to an \"assert pc() &lt;=\" to fix an upcoming Asar 2.0 deprecation.",
+  "latest_version": "smwc-40138-1753036922",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40138,
+      "title": "File Select Sprite Cursor",
+      "version": "smwc-40138-1753036922",
+      "upstream_time": 1753036922,
+      "download_url": "https://dl.smwcentral.net/40138/File%20Select%20Sprite%20Cursor.zip",
+      "filename": "File Select Sprite Cursor.zip",
+      "size": 6152,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

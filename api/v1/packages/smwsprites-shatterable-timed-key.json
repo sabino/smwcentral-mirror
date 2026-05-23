@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-shatterable-timed-key",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39045,
+  "title": "Shatterable/Timed Key",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "key",
+    "lorom",
+    "sa-1",
+    "solid"
+  ],
+  "description": "A key, which can be set to be timed to disappear and/or shatter, like a purple turn block. The extra bit controls whether it shatters when in contact with a wall and the first extension byte controls the timer, which can be from 00 (not timed) to FF (17 real life seconds).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>.",
+  "latest_version": "smwc-39045-1738026757",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39045,
+      "title": "Shatterable/Timed Key",
+      "version": "smwc-39045-1738026757",
+      "upstream_time": 1738026757,
+      "download_url": "https://dl.smwcentral.net/39045/shatterable_key%20%28fix%29.zip",
+      "filename": "shatterable_key (fix).zip",
+      "size": 4338,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-ground-pound-koopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24088,
+  "title": "Ground Pound Koopa",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "enemy",
+    "koopa",
+    "lorom",
+    "sa-1",
+    "stun"
+  ],
+  "description": "A Ground Pound Koopa from Romi's Sprite Tool, converted and ready to be inserted with PIXI.",
+  "latest_version": "smwc-24088-1596505192",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24088,
+      "title": "Ground Pound Koopa",
+      "version": "smwc-24088-1596505192",
+      "upstream_time": 1596505192,
+      "download_url": "https://dl.smwcentral.net/24088/GroundPoundKoopa.zip",
+      "filename": "GroundPoundKoopa.zip",
+      "size": 4327,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

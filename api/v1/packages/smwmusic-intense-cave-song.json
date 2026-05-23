@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-intense-cave-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11056,
+  "title": "Intense Cave Song",
+  "authors": [
+    "Eli Moskowitz"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark",
+    "final"
+  ],
+  "description": "<a href=\"https://www.youtube.com/watch?v=5gdNMin0M18\" rel=\"nofollow\">This is just a SMW Music that nobody knows the name.</a> I have no idea if this is a port or composition. I used the ears to port this music.",
+  "latest_version": "smwc-11056-1428024940",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11056,
+      "title": "Intense Cave Song",
+      "version": "smwc-11056-1428024940",
+      "upstream_time": 1428024940,
+      "download_url": "https://dl.smwcentral.net/11056/Unknown%20Music.zip",
+      "filename": "Unknown Music.zip",
+      "size": 32439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

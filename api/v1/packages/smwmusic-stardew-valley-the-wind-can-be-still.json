@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-stardew-valley-the-wind-can-be-still",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17797,
+  "title": "Stardew Valley - The Wind Can Be Still",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "ice",
+    "sad"
+  ],
+  "description": "This is a very slow and relaxing theme from Stardew Valley. It sounds \"cold\". In the game, it plays during the winter season, so I'd probably use this port for an area just as similar.<br>\r\n<br>\r\nEXTRA NOTES: This is exactly how it was in Idol 9 round 3. I should mention that this port does NOT loop. It just ends, like the original SMW credits theme. <br>\r\n",
+  "latest_version": "smwc-17797-1531357688",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17797,
+      "title": "Stardew Valley - The Wind Can Be Still",
+      "version": "smwc-17797-1531357688",
+      "upstream_time": 1531357688,
+      "download_url": "https://dl.smwcentral.net/17797/The%20Wind%20Can%20Be%20Still.zip",
+      "filename": "The Wind Can Be Still.zip",
+      "size": 33633,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

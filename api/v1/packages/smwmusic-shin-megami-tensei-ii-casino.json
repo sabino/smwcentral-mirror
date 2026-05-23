@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-casino",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37267,
+  "title": "Shin Megami Tensei II - Casino",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene"
+  ],
+  "description": "Plays in the casino in SMT 2 and SMT if…",
+  "latest_version": "smwc-37267-1713581099",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37267,
+      "title": "Shin Megami Tensei II - Casino",
+      "version": "smwc-37267-1713581099",
+      "upstream_time": 1713581099,
+      "download_url": "https://dl.smwcentral.net/37267/SMT2%20Casino.zip",
+      "filename": "SMT2 Casino.zip",
+      "size": 38861,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

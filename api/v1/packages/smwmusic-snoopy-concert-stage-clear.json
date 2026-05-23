@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-snoopy-concert-stage-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22467,
+  "title": "Snoopy Concert - Stage Clear",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "A small fanfare that plays at the end of the character stages from said game.",
+  "latest_version": "smwc-22467-1585211496",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22467,
+      "title": "Snoopy Concert - Stage Clear",
+      "version": "smwc-22467-1585211496",
+      "upstream_time": 1585211496,
+      "download_url": "https://dl.smwcentral.net/22467/Snoopy%20Concert%20-%20Stage%20Clear.zip",
+      "filename": "Snoopy Concert - Stage Clear.zip",
+      "size": 62440,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

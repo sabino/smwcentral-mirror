@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37256,
+  "title": "Shin Megami Tensei - Shop",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cutscene"
+  ],
+  "description": "Also known as 'Classroom‘ in SMT if…<br>\r\n",
+  "latest_version": "smwc-37256-1713416618",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37256,
+      "title": "Shin Megami Tensei - Shop",
+      "version": "smwc-37256-1713416618",
+      "upstream_time": 1713416618,
+      "download_url": "https://dl.smwcentral.net/37256/SMT%20Shop.zip",
+      "filename": "SMT Shop.zip",
+      "size": 43520,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

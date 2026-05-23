@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sword-of-mana-mana-sanctuary",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17368,
+  "title": "Sword of Mana - Mana Sanctuary",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "sky",
+    "space",
+    "temple"
+  ],
+  "description": "This is the surprisingly peaceful song played in the final dungeon of Sword of Mana.  It would best suit a cloud or space level.",
+  "latest_version": "smwc-17368-1523603849",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17368,
+      "title": "Sword of Mana - Mana Sanctuary",
+      "version": "smwc-17368-1523603849",
+      "upstream_time": 1523603849,
+      "download_url": "https://dl.smwcentral.net/17368/Mana%20Sanctuary.zip",
+      "filename": "Mana Sanctuary.zip",
+      "size": 30897,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-playable-title-screen",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40142,
+  "title": "Playable Title Screen",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "title screen"
+  ],
+  "description": "This patch lets the player play freely in the title screen level, rather than having a prerecorded movie play. In case of death, the level will just restart (with two different options: play the death animation and restart, or restart right away. The first option requires AddmusicK or the death song will be wrong). The file select menu will appear once a certain button(s) is pressed (by default, start or select). Check the asm file for the customization options.<br>\r\nIdea by crm0622.<br>\r\n<br>\r\n(By the way, it's compatible with the retry patch, but there'll be no prompt/instant retry during the title screen).<br>\r\n<br>\r\nUpdate 2025-07-20 (gemstonezVA): Changed a \"warnpc\" to an \"assert pc() &lt;=\" to fix an upcoming Asar 2.0 deprecation.",
+  "latest_version": "smwc-40142-1753051726",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40142,
+      "title": "Playable Title Screen",
+      "version": "smwc-40142-1753051726",
+      "upstream_time": 1753051726,
+      "download_url": "https://dl.smwcentral.net/40142/PlayTitleScreen.zip",
+      "filename": "PlayTitleScreen.zip",
+      "size": 1221,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

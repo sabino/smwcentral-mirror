@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-start-select-advanced",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 23369,
+  "title": "Start + Select Advanced",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "exit",
+    "goal",
+    "kill",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch gives each level a different effect when you start+select out of them. Potential options include<br>\r\n<ul><li>Vanilla</li>\r\n<li>Always exit</li>\r\n<li>Klll when not beaten</li>\r\n<li>Activate exit</li>\r\n<li>No action</li></ul><br>\r\nInspired by LOLRyan2006 the Goombud.",
+  "latest_version": "smwc-23369-1595565319",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 23369,
+      "title": "Start + Select Advanced",
+      "version": "smwc-23369-1595565319",
+      "upstream_time": 1595565319,
+      "download_url": "https://dl.smwcentral.net/23369/Start%2BSelect%20Advanced.zip",
+      "filename": "Start+Select Advanced.zip",
+      "size": 1209,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

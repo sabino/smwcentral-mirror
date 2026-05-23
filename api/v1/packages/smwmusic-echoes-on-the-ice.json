@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-echoes-on-the-ice",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26529,
+  "title": "Echoes on the Ice",
+  "authors": [
+    "VecchiaZim"
+  ],
+  "tags": [
+    "ambient",
+    "ice",
+    "sky",
+    "snow",
+    "space",
+    "water"
+  ],
+  "description": "Meant for anything bright and sparkly, ice, snow, space, etc.",
+  "latest_version": "smwc-26529-1617747292",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26529,
+      "title": "Echoes on the Ice",
+      "version": "smwc-26529-1617747292",
+      "upstream_time": 1617747292,
+      "download_url": "https://dl.smwcentral.net/26529/Echoes%20on%20the%20Ice.zip",
+      "filename": "Echoes on the Ice.zip",
+      "size": 32801,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

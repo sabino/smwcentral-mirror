@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-suikoden-ii-carried-on-rippling-waves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10405,
+  "title": "Suikoden II - Carried on Rippling Waves",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "forest",
+    "grassland",
+    "overworld",
+    "sky",
+    "title",
+    "town"
+  ],
+  "description": "A calm song that could be used for a happy grassland or cutscene. It could also work for a nice town or credits theme.",
+  "latest_version": "smwc-10405-1419885162",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10405,
+      "title": "Suikoden II - Carried on Rippling Waves",
+      "version": "smwc-10405-1419885162",
+      "upstream_time": 1419885162,
+      "download_url": "https://dl.smwcentral.net/10405/Carried%20on%20the%20Rippling%20Waves.zip",
+      "filename": "Carried on the Rippling Waves.zip",
+      "size": 44400,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

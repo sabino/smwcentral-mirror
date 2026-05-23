@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-fire-spitting-piranha-plant",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3645,
+  "title": "Fire-Spitting Piranha Plant",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "piranha",
+    "piranha plant",
+    "plant",
+    "sa-1"
+  ],
+  "description": "This is a Piranha Plant that spits fireballs once it is all the way out of the pipe.  It will spit just one pair of fireballs if the extra bit is clear, but it will spit three pairs if the extra bit is set.",
+  "latest_version": "smwc-3645-1278413297",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3645,
+      "title": "Fire-Spitting Piranha Plant",
+      "version": "smwc-3645-1278413297",
+      "upstream_time": 1278413297,
+      "download_url": "https://dl.smwcentral.net/3645/Fire-Spitting%20Piranha%20Plant.zip",
+      "filename": "Fire-Spitting Piranha Plant.zip",
+      "size": 4508,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

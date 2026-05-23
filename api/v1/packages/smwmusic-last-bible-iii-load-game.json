@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-last-bible-iii-load-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29231,
+  "title": "Last Bible III - Load Game",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "snow",
+    "title",
+    "town"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nHappy song that could fit a menu or title screen.",
+  "latest_version": "smwc-29231-1642934543",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29231,
+      "title": "Last Bible III - Load Game",
+      "version": "smwc-29231-1642934543",
+      "upstream_time": 1642934543,
+      "download_url": "https://dl.smwcentral.net/29231/03%20Load%20Game.zip",
+      "filename": "03 Load Game.zip",
+      "size": 48261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

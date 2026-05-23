@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-yoshi-s-island-ds-jungle-swamp",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38583,
+  "title": "Yoshi's Island DS - Jungle / Swamp",
+  "authors": [
+    "Anonymous",
+    "Rykon-V73"
+  ],
+  "tags": [
+    "jungle",
+    "swamp"
+  ],
+  "description": "The Foreground graphics from Yoshi's Island DS. Uses FG3 and BG2. Example for assembling the tiles is in the .mwl. <br>\r\n<br>\r\nCredit's up to you.<br>\r\n<br>\r\nUpdate:<br>\r\nUpdated the tileset a bit. Palette comes from the game. You can change the pillar's colors using the .pal and .palmask files provided in the archive.<br>\r\n<br>\r\nThis is compatible with the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=38582\">Yoshi's Island DS - Jungle / Swamp Background</a>.",
+  "latest_version": "smwc-38583-1728066236",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38583,
+      "title": "Yoshi's Island DS - Jungle / Swamp",
+      "version": "smwc-38583-1728066236",
+      "upstream_time": 1728066236,
+      "download_url": "https://dl.smwcentral.net/38583/Yoshi%27s%20Island%20DS%20-%20JungleForeground.zip",
+      "filename": "Yoshi%27s Island DS - JungleForeground.zip",
+      "size": 11819,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 38582,
+      "title": "Yoshi's Island DS - Jungle / Swamp",
+      "version": "smwc-38582-1728065921",
+      "upstream_time": 1728065921,
+      "download_url": "https://dl.smwcentral.net/38582/Yoshi%27s%20Island%20DS%20-%20Jungle%20-%20Background.zip",
+      "filename": "Yoshi%27s Island DS - Jungle - Background.zip",
+      "size": 10516,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

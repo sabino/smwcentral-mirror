@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-on-off-conveyor-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4000,
+  "title": "ON/OFF Conveyor Blocks",
+  "authors": [
+    "Protoman"
+  ],
+  "tags": [
+    "conveyor",
+    "lorom",
+    "move",
+    "onoff switch"
+  ],
+  "description": "A block that moves Mario to the right when the ON/OFF Switch is ON, and vice versa.<br>\r\n<br>\r\nSome credit to ninja boy for helping me through this.<br>\r\n<br>\r\nDemonstration: <a href=\"http://www.youtube.com/watch?v=icLoyhlnHbo\" rel=\"nofollow\">Click.</a>",
+  "latest_version": "smwc-4000-1437924682",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4000,
+      "title": "ON/OFF Conveyor Blocks",
+      "version": "smwc-4000-1437924682",
+      "upstream_time": 1437924682,
+      "download_url": "https://dl.smwcentral.net/4000/onoffconveyor.zip",
+      "filename": "onoffconveyor.zip",
+      "size": 720,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

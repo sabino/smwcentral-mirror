@@ -1,0 +1,30 @@
+{
+  "name": "tools-human-readable-map16-v0-1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 29843,
+  "title": "Human Readable Map16 v0.1.0",
+  "authors": [
+    "underway"
+  ],
+  "tags": [
+    "map16"
+  ],
+  "description": "A command line tool for converting Lunar Magic's full-game-export map16 files to a human readable text format and back.<br>\r\n<br>\r\nFor basic usage see the included README.md (you can open .md files with notepad if you don't have a way to view markdown files specifically).<br>\r\n<br>\r\nNote that currently, only full-game-export map16 files are supported (blue question mark block in Lunar Magic's map16 editor).<br>\r\n<br>\r\nFor source code see the github repo in the website field.<br>\r\n<br>\r\nWorks well with Lunar Helper v1.1.0 and Lunar Monitor v0.4.0, which can automatically convert to and from this format.",
+  "latest_version": "smwc-29843-1647308485",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 29843,
+      "title": "Human Readable Map16 v0.1.0",
+      "version": "smwc-29843-1647308485",
+      "upstream_time": 1647308485,
+      "download_url": "https://dl.smwcentral.net/29843/human-readable-map16-cli.zip",
+      "filename": "human-readable-map16-cli.zip",
+      "size": 67946,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-new-super-mario-bros-forest",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1311,
+  "title": "New Super Mario Bros. - Forest 2",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "forest",
+    "needs remoderation"
+  ],
+  "description": "This BG isn't posiible to use with my NSMB FG release.",
+  "latest_version": "smwc-1311-1403945634",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1311,
+      "title": "New Super Mario Bros. - Forest 2",
+      "version": "smwc-1311-1403945634",
+      "upstream_time": 1403945634,
+      "download_url": "https://dl.smwcentral.net/1311/nsmb%20-%20forest2.zip",
+      "filename": "nsmb - forest2.zip",
+      "size": 7690,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 943,
+      "title": "New Super Mario Bros. - Forest",
+      "version": "smwc-943-1394221900",
+      "upstream_time": 1394221900,
+      "download_url": "https://dl.smwcentral.net/943/NSMB-Forest.zip",
+      "filename": "NSMB-Forest.zip",
+      "size": 10579,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

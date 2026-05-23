@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-super-mario-bros-mega-mushroom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40081,
+  "title": "New Super Mario Bros. - Mega Mushroom",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "athletic",
+    "chaotic",
+    "upbeat"
+  ],
+  "description": "A port of the \"Mega Mushroom\" from New Super Mario Bros.<br>\r\nThis could work well as a boss theme, since it can't be used as the \"Starman\" theme due to being sampled.<br>\r\n<br>\r\nUpdate:<br>\r\n-Further optimized: reduced from 0x0532 to 0x04E6.<br>\r\n-Replaced the sample used in channels 3, 4, and 7.<br>\r\n-Includes a version with echo (0x04F7) and another without echo.",
+  "latest_version": "smwc-40081-1763535764",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40081,
+      "title": "New Super Mario Bros. - Mega Mushroom",
+      "version": "smwc-40081-1763535764",
+      "upstream_time": 1763535764,
+      "download_url": "https://dl.smwcentral.net/40081/NSMB_Mega_Mushroom_v3.zip",
+      "filename": "NSMB_Mega_Mushroom_v3.zip",
+      "size": 121271,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

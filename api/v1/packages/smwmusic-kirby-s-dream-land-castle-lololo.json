@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-kirby-s-dream-land-castle-lololo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23104,
+  "title": "Kirby's Dream Land - Castle Lololo",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "industrial",
+    "retro",
+    "tense"
+  ],
+  "description": "A hectic theme that can fit castles or factories.<br>\r\n<br>\r\nUpdate 31/05: Fixed wrong pitches on #1.",
+  "latest_version": "smwc-23104-1591327601",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23104,
+      "title": "Kirby's Dream Land - Castle Lololo",
+      "version": "smwc-23104-1591327601",
+      "upstream_time": 1591327601,
+      "download_url": "https://dl.smwcentral.net/23104/kdl_lololo_0_1.zip",
+      "filename": "kdl_lololo_0_1.zip",
+      "size": 32039,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

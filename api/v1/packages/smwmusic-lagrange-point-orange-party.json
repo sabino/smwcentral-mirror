@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lagrange-point-orange-party",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25373,
+  "title": "Lagrange Point - Orange Party",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "carnival",
+    "cutscene",
+    "overworld",
+    "title",
+    "town"
+  ],
+  "description": "The wacky song played at a small city.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25373-1607761754",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25373,
+      "title": "Lagrange Point - Orange Party",
+      "version": "smwc-25373-1607761754",
+      "upstream_time": 1607761754,
+      "download_url": "https://dl.smwcentral.net/25373/Lagrange%20Point%20-%20Orange%20Party.zip",
+      "filename": "Lagrange Point - Orange Party.zip",
+      "size": 133668,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

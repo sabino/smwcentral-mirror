@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-straight-fireballs",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 22296,
+  "title": "Straight Fireballs",
+  "authors": [
+    "ASM"
+  ],
+  "tags": [
+    "extended sprites",
+    "fireball",
+    "hex edits",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch causes the player's fireballs to travel in a straight line without bouncing. Fireballs are destroyed upon contact with any surface.",
+  "latest_version": "smwc-22296-1583193407",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 22296,
+      "title": "Straight Fireballs",
+      "version": "smwc-22296-1583193407",
+      "upstream_time": 1583193407,
+      "download_url": "https://dl.smwcentral.net/22296/straight_fireballs.zip",
+      "filename": "straight_fireballs.zip",
+      "size": 462,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

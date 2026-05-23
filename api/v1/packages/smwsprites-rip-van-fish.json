@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-rip-van-fish",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41922,
+  "title": "Rip Van Fish",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "fish",
+    "lorom",
+    "rip van fish",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 3D, the Rip Van Fish. Unlike the older disassembly, it fixes some oddities with slopes, removes a lot of irrelevant code, and has more defines to edit it in a more user friendly way.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span> who brought the issues with the older disassembly to my attention.",
+  "latest_version": "smwc-41922-1774389433",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41922,
+      "title": "Rip Van Fish",
+      "version": "smwc-41922-1774389433",
+      "upstream_time": 1774389433,
+      "download_url": "https://dl.smwcentral.net/41922/New%20Rip%20Van%20Fish%20Disassembly.zip",
+      "filename": "New Rip Van Fish Disassembly.zip",
+      "size": 3828,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

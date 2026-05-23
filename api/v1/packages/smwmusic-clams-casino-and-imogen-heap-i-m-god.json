@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-clams-casino-and-imogen-heap-i-m-god",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33014,
+  "title": "Clams Casino and Imogen Heap - I'm God",
+  "authors": [
+    "Jonah"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "night"
+  ],
+  "description": "feat. MC Ride<br>\r\n<br>\r\nNot compatible, with blargg/thunder, bonus end, starman, or p-switch. <br>\r\nThe lead samples are also tied to the default tempo, so best not to use it in a level that can have the \"time is running out\" tempo hike.",
+  "latest_version": "smwc-33014-1682951051",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33014,
+      "title": "Clams Casino and Imogen Heap - I'm God",
+      "version": "smwc-33014-1682951051",
+      "upstream_time": 1682951051,
+      "download_url": "https://dl.smwcentral.net/33014/imgod.zip",
+      "filename": "imgod.zip",
+      "size": 99230,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

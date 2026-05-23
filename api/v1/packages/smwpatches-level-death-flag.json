@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-level-death-flag",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 30315,
+  "title": "Level Death Flag",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "death",
+    "lorom",
+    "object",
+    "sa-1"
+  ],
+  "description": "This simple patch adds in a death flag to your levels i.e. should a player die from a midway point, the level will be flagged and the player may or may not miss bonuses until the level is beaten.<br>\r\n<br>\r\nIt includes custom pipes and custom door as examples.",
+  "latest_version": "smwc-30315-1701211066",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 30315,
+      "title": "Level Death Flag",
+      "version": "smwc-30315-1701211066",
+      "upstream_time": 1701211066,
+      "download_url": "https://dl.smwcentral.net/30315/Level%20Death%20Flag.zip",
+      "filename": "Level Death Flag.zip",
+      "size": 7132,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

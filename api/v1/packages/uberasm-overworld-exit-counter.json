@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-overworld-exit-counter",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 26450,
+  "title": "Overworld Exit Counter",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "counter",
+    "exits",
+    "lorom",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "A simple UberASM code to display the exit counter on the overworld border.",
+  "latest_version": "smwc-26450-1624931227",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 26450,
+      "title": "Overworld Exit Counter",
+      "version": "smwc-26450-1624931227",
+      "upstream_time": 1624931227,
+      "download_url": "https://dl.smwcentral.net/26450/Overworld%20Exit%20Counter%20-%20Readme.zip",
+      "filename": "Overworld Exit Counter - Readme.zip",
+      "size": 1661,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

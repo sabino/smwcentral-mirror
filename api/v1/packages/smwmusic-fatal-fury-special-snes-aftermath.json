@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-fatal-fury-special-snes-aftermath",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40525,
+  "title": "Fatal Fury Special (SNES) - Aftermath",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "menu"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+  "latest_version": "smwc-40525-1756759188",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40525,
+      "title": "Fatal Fury Special (SNES) - Aftermath",
+      "version": "smwc-40525-1756759188",
+      "upstream_time": 1756759188,
+      "download_url": "https://dl.smwcentral.net/40525/Aftermath.zip",
+      "filename": "Aftermath.zip",
+      "size": 63481,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

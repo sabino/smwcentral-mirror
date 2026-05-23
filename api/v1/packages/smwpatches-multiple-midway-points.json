@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-multiple-midway-points",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17409,
+  "title": "Multiple Midway Points",
+  "authors": [
+    "Kaijyuu",
+    "MarioFanGamer",
+    "lx5"
+  ],
+  "tags": [
+    "lorom",
+    "midway points",
+    "multiple",
+    "needs remoderation",
+    "sa-1",
+    "secondary entrance"
+  ],
+  "description": "This patch has the following features:<br>\r\n<br>\r\n- Allows you to have up to 256 midway points in every level.<br>\r\n- Allows you to use any level's midway entrance, from 000-1FF, for any level. You're no longer restricted to using the midway entrance in the starting level.<br>\r\n- Allows you to use secondary entrances as well.<br>\r\n<br>\r\nSee included readme for further information.",
+  "latest_version": "1.7",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17409,
+      "title": "Multiple Midway Points",
+      "version": "1.7",
+      "upstream_time": 1524408020,
+      "download_url": "https://dl.smwcentral.net/17409/multi_midway_1.7.zip",
+      "filename": "multi_midway_1.7.zip",
+      "size": 10827,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

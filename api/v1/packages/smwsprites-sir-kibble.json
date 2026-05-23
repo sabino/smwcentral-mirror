@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-sir-kibble",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34719,
+  "title": "Sir Kibble",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "enemy",
+    "kirby",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "An enemy from the Kirby series that will walk back and forth and occasionally toss the boomerang blade from his head.<br>\r\n<br>\r\nThere are several customisation options in the ASM file, so make sure to check it out. They include the speeds of Sir Kibble and his blade, walking and tossing ranges, sound effects, the behavior of the blade when Sir Kibble is killed and more.<br>\r\n<br>\r\nThe enclosed graphics are by <span class=\"un-outer\" title=\"Jammerjab\"><a href=\"/?p=profile&amp;id=35465\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Jammerjab</a></span>, so make sure to credit them if used!",
+  "latest_version": "smwc-34719-1701929586",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34719,
+      "title": "Sir Kibble",
+      "version": "smwc-34719-1701929586",
+      "upstream_time": 1701929586,
+      "download_url": "https://dl.smwcentral.net/34719/sir_kibble.zip",
+      "filename": "sir_kibble.zip",
+      "size": 6352,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

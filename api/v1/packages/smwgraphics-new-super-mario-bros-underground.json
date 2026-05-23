@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-new-super-mario-bros-underground",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 21850,
+  "title": "New Super Mario Bros. - Underground",
+  "authors": [
+    "Demon2Warrior",
+    "MORC"
+  ],
+  "tags": [
+    "cave",
+    "needs remoderation"
+  ],
+  "description": "New Super Mario Bros. underground background ripped by Demon2Warrior on The Spriters Resource and converted to SMW by MORC.<br>\r\n<br>\r\nThis background is compatible with the NSMB underground foreground by Rykon-V73 and Treeki.<br>\r\nThis works in vertical levels with H-Scroll:variable and V-Scroll:variable.<br>\r\nExGFX259 goes on BG1 and ExGFX25A goes on BG2.<br>\r\n<br>\r\nThanks to TheMorganah and the MarioHacks blog for the tutorial explaining how to convert the graphics.",
+  "latest_version": "smwc-21850-1583004469",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 21850,
+      "title": "New Super Mario Bros. - Underground",
+      "version": "smwc-21850-1583004469",
+      "upstream_time": 1583004469,
+      "download_url": "https://dl.smwcentral.net/21850/NSMB%20Underground%20BG.zip",
+      "filename": "NSMB Underground BG.zip",
+      "size": 8501,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 939,
+      "title": "New Super Mario Bros. - Underground",
+      "version": "smwc-939-1397384738",
+      "upstream_time": 1397384738,
+      "download_url": "https://dl.smwcentral.net/939/NSMB%20Underground.zip",
+      "filename": "NSMB Underground.zip",
+      "size": 11245,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

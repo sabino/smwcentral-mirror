@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-and-luigi-superstar-saga-teehee-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22601,
+  "title": "Mario and Luigi: Superstar Saga - Teehee Valley",
+  "authors": [
+    "MegaNerd14"
+  ],
+  "tags": [
+    "desert",
+    "overworld"
+  ],
+  "description": "The music used in Teehee Valley in Mario and Luigi: Superstar Saga. Good for your desert areas.<br>\r\n<br>\r\nVersion 1.34",
+  "latest_version": "smwc-22601-1586122936",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22601,
+      "title": "Mario and Luigi: Superstar Saga - Teehee Valley",
+      "version": "smwc-22601-1586122936",
+      "upstream_time": 1586122936,
+      "download_url": "https://dl.smwcentral.net/22601/Teehee%20Valley.zip",
+      "filename": "Teehee Valley.zip",
+      "size": 57429,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

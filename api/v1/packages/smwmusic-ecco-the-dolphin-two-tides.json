@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ecco-the-dolphin-two-tides",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21875,
+  "title": "Ecco the Dolphin - Two Tides",
+  "authors": [
+    "Anonymous"
+  ],
+  "tags": [
+    "temple",
+    "water"
+  ],
+  "description": "This song plays in Ecco 1 from Sega Genesis. I find it very atmospherical, though I'm unsure what it'd be useful for, maybe sort of water temples?",
+  "latest_version": "smwc-21875-1579571005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21875,
+      "title": "Ecco the Dolphin - Two Tides",
+      "version": "smwc-21875-1579571005",
+      "upstream_time": 1579571005,
+      "download_url": "https://dl.smwcentral.net/21875/twotides.zip",
+      "filename": "twotides.zip",
+      "size": 35154,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

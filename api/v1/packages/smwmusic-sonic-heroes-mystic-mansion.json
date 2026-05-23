@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-heroes-mystic-mansion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26030,
+  "title": "Sonic Heroes - Mystic Mansion",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "castle",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "One of the fan favourites from Sonic Heroes, fully sampled with stuff done up as accurately as I could manage when I made it.<br>\r\n<br>\r\nNOTE: Not compatible with Yoshi or anything that uses the Thunder SFX sound. It wasn't gonna fit otherwise.",
+  "latest_version": "smwc-26030-1614573358",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26030,
+      "title": "Sonic Heroes - Mystic Mansion",
+      "version": "smwc-26030-1614573358",
+      "upstream_time": 1614573358,
+      "download_url": "https://dl.smwcentral.net/26030/Sonic%20Heroes%20-%20Mystic%20Mansion.zip",
+      "filename": "Sonic Heroes - Mystic Mansion.zip",
+      "size": 88230,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

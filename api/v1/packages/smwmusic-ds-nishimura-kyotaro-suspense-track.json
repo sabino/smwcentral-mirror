@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ds-nishimura-kyotaro-suspense-track",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17993,
+  "title": "DS Nishimura Kyotaro Suspense - Track 0015",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "forest",
+    "night"
+  ],
+  "description": "A very calm, relaxing song that would fit a forest or nighttime atmosphere well.<br>\r\n<br>\r\nYou may need to lower echo delay to make this work for you, as it cuts pretty close. It also removes samples required for Yoshi and Blargg SFX, so you can't use either of those in a level with this song (not that you'd have Blarggs in this kind of setting anyway, but you never know...). Credit to Pinci for the piano samples.<br>\r\n<br>\r\n(also if anyone knows if there's an official name for this song please let me know!)",
+  "latest_version": "smwc-17993-1533514680",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17993,
+      "title": "DS Nishimura Kyotaro Suspense - Track 0015",
+      "version": "smwc-17993-1533514680",
+      "upstream_time": 1533514680,
+      "download_url": "https://dl.smwcentral.net/17993/track0015.zip",
+      "filename": "track0015.zip",
+      "size": 83418,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

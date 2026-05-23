@@ -1,0 +1,60 @@
+{
+  "name": "smwgraphics-bubsy",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 32357,
+  "title": "Bubsy 2 - My Penguin for a Horse",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "abstract",
+    "block",
+    "desert",
+    "forest",
+    "mountain",
+    "needs remoderation",
+    "pyramid"
+  ],
+  "description": "This is seen where Bubsy has to go through a forest-like area to advance.<br>\r\nThe palette is quite easy to edit and parallax scrolling is added.<br>\r\nCredit MarioFanGamer for the Parallax HDMA Toolkit.<br>\r\nThe code is in the 'Level' folder and the required code in the 'library' folder.<br>\r\nThere are six lines of code to edit. Edit only the scroll speeds, not scanline positioning.<br>\r\nIn db $00 : dw $0040,$00BE, only edit $0040, as it's the scrolling speed. <br>\r\nEnjoy!",
+  "latest_version": "smwc-32357-1665889580",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 32357,
+      "title": "Bubsy 2 - My Penguin for a Horse",
+      "version": "smwc-32357-1665889580",
+      "upstream_time": 1665889580,
+      "download_url": "https://dl.smwcentral.net/32357/Bubsy%20II%20-%20My%20Penguin%20for%20a%20Horse.zip",
+      "filename": "Bubsy II - My Penguin for a Horse.zip",
+      "size": 14088,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 32153,
+      "title": "Bubsy 2 (SNES) - Level Select",
+      "version": "smwc-32153-1663636970",
+      "upstream_time": 1663636970,
+      "download_url": "https://dl.smwcentral.net/32153/Bubsy%202%20-%20Level%20Select.zip",
+      "filename": "Bubsy 2 - Level Select.zip",
+      "size": 6954,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1825,
+      "title": "Bubsy 2 - Pyramid ",
+      "version": "smwc-1825-1409476160",
+      "upstream_time": 1409476160,
+      "download_url": "https://dl.smwcentral.net/1825/ZippityZip.zip",
+      "filename": "ZippityZip.zip",
+      "size": 5002,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

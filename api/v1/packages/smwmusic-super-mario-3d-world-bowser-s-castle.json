@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-3d-world-bowser-s-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40655,
+  "title": "Super Mario 3D World - Bowser's Castle",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "castle",
+    "chaotic",
+    "final"
+  ],
+  "description": "A great castle theme. Made by BetaCovers.<br>\r\n<br>\r\nHere:<br>\r\nhttps://youtu.be/YIu81ZCqGBo<br>\r\n",
+  "latest_version": "smwc-40655-1766605209",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40655,
+      "title": "Super Mario 3D World - Bowser's Castle",
+      "version": "smwc-40655-1766605209",
+      "upstream_time": 1766605209,
+      "download_url": "https://dl.smwcentral.net/40655/Bowser%20Castle.zip",
+      "filename": "Bowser Castle.zip",
+      "size": 77007,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

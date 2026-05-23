@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-zx80-system-font",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16489,
+  "title": "ZX80 System Font",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "monospace",
+    "sans serif"
+  ],
+  "description": "System typeface from British home computer ZX80 (1980). Except lower cases and a few symbols.",
+  "latest_version": "smwc-16489-1508860867",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16489,
+      "title": "ZX80 System Font",
+      "version": "smwc-16489-1508860867",
+      "upstream_time": 1508860867,
+      "download_url": "https://dl.smwcentral.net/16489/ZX80%20System%20Font.zip",
+      "filename": "ZX80 System Font.zip",
+      "size": 7252,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

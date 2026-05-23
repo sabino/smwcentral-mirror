@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-morton-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3694,
+  "title": "Morton Boss",
+  "authors": [
+    "7601"
+  ],
+  "tags": [
+    "boss",
+    "bullet",
+    "bullet shooter",
+    "koopalings",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A 48x48 boss which moves between the left and right edges of the screen. It can shoot bullets and it will get faster after each hit. By default, it takes 5 hits to kill it. It can display its HP on the status bar.<br>\r\n<br>\r\nCheck the ASM file for customization options.<br>\r\n<br>\r\nGive credit to me.<br>\r\n<br>\r\n<i>Tester's Note:</i> Sprite palette 4 (also included as a palette file) gives Morton his correct colors. The boss is very easy to defeat by itself.",
+  "latest_version": "smwc-3694-1298227826",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3694,
+      "title": "Morton Boss",
+      "version": "smwc-3694-1298227826",
+      "upstream_time": 1298227826,
+      "download_url": "https://dl.smwcentral.net/3694/Morton%20Boss.zip",
+      "filename": "Morton Boss.zip",
+      "size": 4668,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

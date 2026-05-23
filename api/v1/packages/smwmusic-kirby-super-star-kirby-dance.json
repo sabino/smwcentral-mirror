@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-kirby-super-star-kirby-dance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22086,
+  "title": "Kirby Super Star - Kirby Dance",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "The short yet cheerful and upbeat Kirby Dance from Kirby Super Star.",
+  "latest_version": "smwc-22086-1583301722",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22086,
+      "title": "Kirby Super Star - Kirby Dance",
+      "version": "smwc-22086-1583301722",
+      "upstream_time": 1583301722,
+      "download_url": "https://dl.smwcentral.net/22086/kirbydance.zip",
+      "filename": "kirbydance.zip",
+      "size": 65205,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

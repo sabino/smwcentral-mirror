@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-punch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3266,
+  "title": "Punch",
+  "authors": [
+    "Schwa"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "punch",
+    "sa-1",
+    "wario land 2"
+  ],
+  "description": "Straight from Wario Land II, with differences. He energetically hops along the ground, and upon seeing you he delivers a furious Straight Punch, which will send you flying if it connects. If stomped on, bumped from behind or hit with a fireball, he will not be defeated; instead he just hides in his helmet and is pushed back a bit. The only ways to beat it is with a Star or thrown item. Yoshi can eat it too.<br>\r\n<br>\r\nDetails are included in the ASM file, and GFX are included in the ZIP. They use SP3.<br>\r\n<br>\r\nGive credit if used or tweaked.",
+  "latest_version": "smwc-3266-1205986911",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3266,
+      "title": "Punch",
+      "version": "smwc-3266-1205986911",
+      "upstream_time": 1205986911,
+      "download_url": "https://dl.smwcentral.net/3266/Punch.zip",
+      "filename": "Punch.zip",
+      "size": 5846,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

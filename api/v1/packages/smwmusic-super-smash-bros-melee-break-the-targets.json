@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-smash-bros-melee-break-the-targets",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30919,
+  "title": "Super Smash Bros. Melee - Break The Targets",
+  "authors": [
+    "dansalvato"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "switch palace"
+  ],
+  "description": "This track is jazzy, fast-paced, and short in length; it appears during minigames in Super Smash Bros. Melee, and would be most suitable for bonus stages, minigames, or switch palaces in SMW as well.<br>\r\n<br>\r\nInserting this song higher up in the song list (i.e. with a smaller song ID value) may allow you to fit more into ARAM.<br>\r\n<br>\r\nNot compatible with P-Switch, Thunder, Game Over, Bonus End, or Star.<br>\r\n",
+  "latest_version": "smwc-30919-1658867546",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30919,
+      "title": "Super Smash Bros. Melee - Break The Targets",
+      "version": "smwc-30919-1658867546",
+      "upstream_time": 1658867546,
+      "download_url": "https://dl.smwcentral.net/30919/Break%20The%20Targets.zip",
+      "filename": "Break The Targets.zip",
+      "size": 116895,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

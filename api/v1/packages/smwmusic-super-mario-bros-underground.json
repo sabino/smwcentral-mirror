@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-super-mario-bros-underground",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38978,
+  "title": "Super Mario Bros. - Underground",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "retro"
+  ],
+  "description": "The iconic underground theme from Super Mario Bros. on the NES.",
+  "latest_version": "smwc-38978-1736527996",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38978,
+      "title": "Super Mario Bros. - Underground",
+      "version": "smwc-38978-1736527996",
+      "upstream_time": 1736527996,
+      "download_url": "https://dl.smwcentral.net/38978/Super%20Mario%20Bros.%20-%20Underground.zip",
+      "filename": "Super Mario Bros. - Underground.zip",
+      "size": 35098,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8135,
+      "title": "Super Mario Bros. - Underground (8 Variations)",
+      "version": "smwc-8135-1406555015",
+      "upstream_time": 1406555015,
+      "download_url": "https://dl.smwcentral.net/8135/SMB1%20Underground%20%288Var%29.zip",
+      "filename": "SMB1 Underground (8Var).zip",
+      "size": 248927,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

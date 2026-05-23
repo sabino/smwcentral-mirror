@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-battalion-bossanova",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7047,
+  "title": "Battalion Bossanova",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "boss",
+    "castle"
+  ],
+  "description": "The song that was to be used in the castles in Mario's Time Quest. Would suit a castle or possibly a cave.",
+  "latest_version": "smwc-7047-1319819255",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7047,
+      "title": "Battalion Bossanova",
+      "version": "smwc-7047-1319819255",
+      "upstream_time": 1319819255,
+      "download_url": "https://dl.smwcentral.net/7047/Battalion%20Bossanova.zip",
+      "filename": "Battalion Bossanova.zip",
+      "size": 67369,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

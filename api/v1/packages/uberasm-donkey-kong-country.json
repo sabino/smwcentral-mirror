@@ -1,0 +1,39 @@
+{
+  "name": "uberasm-donkey-kong-country",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40812,
+  "title": "Donkey Kong Country 2 Navigation Arrows",
+  "authors": [
+    "Alcaro",
+    "Arinsu",
+    "carol",
+    "lx5",
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "lorom",
+    "navigation",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Remember carol's old DKC2 Navigation Arrows? They're back, in UberASM form!<br>\r\nWhat this resource does is show arrows in the directions Mario can walk in while on the overworld.<br>\r\nThis originally shipped with <span class=\"un-outer\" title=\"carol\"><a href=\"/?p=profile&amp;id=685\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">carol</a></span>'s overworld sprite tool. When that tool was updated by <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span> and <span class=\"un-outer\" title=\"wiiqwertyuiop\"><a href=\"/?p=profile&amp;id=9801\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">wiiqwertyuiop</a></span>, they updated the arrows for its use there as well. <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> then converted them into a patch.<br>\r\nThis version, by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>, cleans some code up and adds support for Kevin's <a href=\"https://smwc.me/s/35761\">Custom Hardcoded Paths</a> patch. Unlike the arrows in patch form, this also works with BOWSIE.<br>\r\n<br>\r\nInsert as overworld * code, <i>not</i> as gamemode 0E code, else I've noticed they won't really work.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Samantha\"><span title=\"Samantha donated $5.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=24030\" style=\"color: var(--user-color-3);\" class=\"un\">Samantha</a></span> during C3 Winter 2025.",
+  "latest_version": "smwc-40812-1760658410",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40812,
+      "title": "Donkey Kong Country 2 Navigation Arrows",
+      "version": "smwc-40812-1760658410",
+      "upstream_time": 1760658410,
+      "download_url": "https://dl.smwcentral.net/40812/DKC2%20Arrows.zip",
+      "filename": "DKC2 Arrows.zip",
+      "size": 1866,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

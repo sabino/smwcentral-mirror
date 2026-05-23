@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-alex-craxton-loader-tune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19529,
+  "title": "Alex Craxton - Loader Tune 1",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "title"
+  ],
+  "description": "Made for Nikku4211. Here's what the song is, according to him:<br>\r\n\"Loader Tune 1, composed by Alex Craxton in 1992 in MOD format for the Commodore Amiga. It's also known as 'loadsong.mod' after its DOS filename.\"<br>\r\nIt's an at least 95% accurate port of the song, with the tunings and all. I even improved on it a bit as well. <br>\r\n<br>\r\nI have no idea where this would fit. My only guess is that it would kinda fit well in a title screen? I dunno. Use it wherever.<br>\r\n",
+  "latest_version": "smwc-19529-1554072668",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19529,
+      "title": "Alex Craxton - Loader Tune 1",
+      "version": "smwc-19529-1554072668",
+      "upstream_time": 1554072668,
+      "download_url": "https://dl.smwcentral.net/19529/loadsong.zip",
+      "filename": "loadsong.zip",
+      "size": 30047,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

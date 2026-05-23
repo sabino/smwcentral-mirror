@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bouncy-cloud",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29002,
+  "title": "Bouncy Cloud",
+  "authors": [
+    "Donut"
+  ],
+  "tags": [
+    "bouncy",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "A cloud you can bounce off, based off NSMBWii's bouncy clouds. You'll bounce higher when holding A or B. The heights (Y speeds for the player) as well as the sound effects can be configured in the .asm file.",
+  "latest_version": "smwc-29002-1644333235",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29002,
+      "title": "Bouncy Cloud",
+      "version": "smwc-29002-1644333235",
+      "upstream_time": 1644333235,
+      "download_url": "https://dl.smwcentral.net/29002/bouncycloud.zip",
+      "filename": "bouncycloud.zip",
+      "size": 2568,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-cluster-ash-particle-effect",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35145,
+  "title": "Cluster Ash Particle Effect",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "effect",
+    "lava",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a cluster effect inspired but not directly based of by <span class=\"un-outer\" title=\"Ladida\"><a href=\"/?p=profile&amp;id=4842\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Ladida</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30466\">Cluster Effects Pack</a> which resembles ash particles coming from a fire source or lava. The individual particles are spawned using the RNG to make them appear less uniform so good bye, playback consistency!<br>\r\n<br>\r\nRead the readme for more information.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Heitor Porfirio\"><a href=\"/?p=profile&amp;id=52362\" style=\"color: var(--user-color-2);\" class=\"un\">Heitor Porfirio</a></span>.",
+  "latest_version": "smwc-35145-1717982776",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35145,
+      "title": "Cluster Ash Particle Effect",
+      "version": "smwc-35145-1717982776",
+      "upstream_time": 1717982776,
+      "download_url": "https://dl.smwcentral.net/35145/Ash%20Particle%20Cluster%20Effect.zip",
+      "filename": "Ash Particle Cluster Effect.zip",
+      "size": 5681,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

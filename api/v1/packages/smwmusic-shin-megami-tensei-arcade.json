@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shin-megami-tensei-arcade",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37258,
+  "title": "Shin Megami Tensei - Arcade",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "urban"
+  ],
+  "description": "Plays in various dungeons. Also known as 'School‘ in SMT if…<br>\r\n",
+  "latest_version": "smwc-37258-1713468562",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37258,
+      "title": "Shin Megami Tensei - Arcade",
+      "version": "smwc-37258-1713468562",
+      "upstream_time": 1713468562,
+      "download_url": "https://dl.smwcentral.net/37258/SMT%20Arcade.zip",
+      "filename": "SMT Arcade.zip",
+      "size": 45275,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

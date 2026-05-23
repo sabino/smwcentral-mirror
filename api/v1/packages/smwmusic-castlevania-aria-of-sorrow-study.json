@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-castlevania-aria-of-sorrow-study",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35681,
+  "title": "Castlevania: Aria of Sorrow - Study",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "ghost house",
+    "overworld",
+    "tense"
+  ],
+  "description": "Study from Castlevania: Aria of Sorrow. Suitable for castle themes and dark areas/overworlds.",
+  "latest_version": "smwc-35681-1704098285",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35681,
+      "title": "Castlevania: Aria of Sorrow - Study",
+      "version": "smwc-35681-1704098285",
+      "upstream_time": 1704098285,
+      "download_url": "https://dl.smwcentral.net/35681/Castlevania%20AoS%20-%20Study.zip",
+      "filename": "Castlevania AoS - Study.zip",
+      "size": 33695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-melody-of-the-stars",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7463,
+  "title": "Melody of the Stars",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sky"
+  ],
+  "description": "Could suit those sad cutscenes or a calm, night area.",
+  "latest_version": "smwc-7463-1317999993",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7463,
+      "title": "Melody of the Stars",
+      "version": "smwc-7463-1317999993",
+      "upstream_time": 1317999993,
+      "download_url": "https://dl.smwcentral.net/7463/Melody%20of%20the%20Stars.zip",
+      "filename": "Melody of the Stars.zip",
+      "size": 64725,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

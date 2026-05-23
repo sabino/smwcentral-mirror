@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-funky-smw",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21098,
+  "title": "funky-smw",
+  "authors": [
+    "Janno27"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "title",
+    "urban"
+  ],
+  "description": "Relaxed grassland theme. Good for intro stages or title screens possibly.",
+  "latest_version": "smwc-21098-1567556944",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21098,
+      "title": "funky-smw",
+      "version": "smwc-21098-1567556944",
+      "upstream_time": 1567556944,
+      "download_url": "https://dl.smwcentral.net/21098/smwc%20submission.zip",
+      "filename": "smwc submission.zip",
+      "size": 34046,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

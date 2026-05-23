@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-magic-jewelry-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22439,
+  "title": "Magic Jewelry - BGM 8",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "castle",
+    "grassland",
+    "night",
+    "overworld",
+    "sky"
+  ],
+  "description": "Song that Stage 8 from Magic Jewelry. Good a for clouds or bonus levels.<br>\r\n<br>\r\nRequested by WTFmarioworld.",
+  "latest_version": "smwc-22439-1585704804",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22439,
+      "title": "Magic Jewelry - BGM 8",
+      "version": "smwc-22439-1585704804",
+      "upstream_time": 1585704804,
+      "download_url": "https://dl.smwcentral.net/22439/Magic%20Jewelry%20-%20BGM%208.zip",
+      "filename": "Magic Jewelry - BGM 8.zip",
+      "size": 31454,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22075,
+      "title": "Magic Jewelry - BGM 5",
+      "version": "smwc-22075-1581966017",
+      "upstream_time": 1581966017,
+      "download_url": "https://dl.smwcentral.net/22075/Magic%20Jewelry%20-%20BGM%205.zip",
+      "filename": "Magic Jewelry - BGM 5.zip",
+      "size": 31208,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

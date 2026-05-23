@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-5-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9197,
+  "title": "5-Boss",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase"
+  ],
+  "description": "My entry for the entrance round for the 2013 SMWC Idol.<br>\r\n<br>\r\nIt didn't even place. :(",
+  "latest_version": "smwc-9197-1412474678",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9197,
+      "title": "5-Boss",
+      "version": "smwc-9197-1412474678",
+      "upstream_time": 1412474678,
+      "download_url": "https://dl.smwcentral.net/9197/SMWCI%20-%205boss.zip",
+      "filename": "SMWCI - 5boss.zip",
+      "size": 33414,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

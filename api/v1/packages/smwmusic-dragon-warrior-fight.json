@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dragon-warrior-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29908,
+  "title": "Dragon Warrior - Fight",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "retro",
+    "tense"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for bosses or chase sequences.",
+  "latest_version": "smwc-29908-1654007948",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29908,
+      "title": "Dragon Warrior - Fight",
+      "version": "smwc-29908-1654007948",
+      "upstream_time": 1654007948,
+      "download_url": "https://dl.smwcentral.net/29908/DragonQuest06AMonsterDrawsNear.zip",
+      "filename": "DragonQuest06AMonsterDrawsNear.zip",
+      "size": 41423,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-abstraction",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11449,
+  "title": "Abstraction",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "dark",
+    "overworld",
+    "sad"
+  ],
+  "description": "A calm, melancholic composition. Could fit very well in abstract overworlds.",
+  "latest_version": "smwc-11449-1436663728",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11449,
+      "title": "Abstraction",
+      "version": "smwc-11449-1436663728",
+      "upstream_time": 1436663728,
+      "download_url": "https://dl.smwcentral.net/11449/Abstraction.zip",
+      "filename": "Abstraction.zip",
+      "size": 31015,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

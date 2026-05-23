@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-ardy-lightfoot-lumberjack-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18582,
+  "title": "Ardy Lightfoot - Lumberjack Forest",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland",
+    "sky",
+    "town"
+  ],
+  "description": "Port of \"Lumberjack Forest\", which uses the original samples.<br>\r\nIt obviously fits forest levels, preferably short ones.",
+  "latest_version": "smwc-18582-1543592870",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18582,
+      "title": "Ardy Lightfoot - Lumberjack Forest",
+      "version": "smwc-18582-1543592870",
+      "upstream_time": 1543592870,
+      "download_url": "https://dl.smwcentral.net/18582/Lumberjack.zip",
+      "filename": "Lumberjack.zip",
+      "size": 61784,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8267,
+      "title": "Ardy Lightfoot - Lumberjack Forest",
+      "version": "smwc-8267-1343859300",
+      "upstream_time": 1343859300,
+      "download_url": "https://dl.smwcentral.net/8267/Lumberjack%20Forest.zip",
+      "filename": "Lumberjack Forest.zip",
+      "size": 65466,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

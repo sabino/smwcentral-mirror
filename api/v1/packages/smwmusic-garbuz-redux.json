@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-garbuz-redux",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7314,
+  "title": "Garbuz Redux",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "credits",
+    "title"
+  ],
+  "description": "This would suit an Overworld or maybe an ending or an intro.",
+  "latest_version": "smwc-7314-1319816684",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7314,
+      "title": "Garbuz Redux",
+      "version": "smwc-7314-1319816684",
+      "upstream_time": 1319816684,
+      "download_url": "https://dl.smwcentral.net/7314/Garbuz%20Redux.zip",
+      "filename": "Garbuz Redux.zip",
+      "size": 71674,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

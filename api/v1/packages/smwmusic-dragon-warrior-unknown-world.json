@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dragon-warrior-unknown-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25073,
+  "title": "Dragon Warrior - Unknown World",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "retro"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for overworlds and calm areas.",
+  "latest_version": "smwc-25073-1604719714",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25073,
+      "title": "Dragon Warrior - Unknown World",
+      "version": "smwc-25073-1604719714",
+      "upstream_time": 1604719714,
+      "download_url": "https://dl.smwcentral.net/25073/DragonQuest04KingdomOfAlefgard.zip",
+      "filename": "DragonQuest04KingdomOfAlefgard.zip",
+      "size": 41994,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

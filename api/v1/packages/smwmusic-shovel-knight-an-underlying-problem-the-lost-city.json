@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shovel-knight-an-underlying-problem-the-lost-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26150,
+  "title": "Shovel Knight - An Underlying Problem (The Lost City)",
+  "authors": [
+    "Goomba-24"
+  ],
+  "tags": [
+    "cave",
+    "fire"
+  ],
+  "description": "This is a port of the Lost City/Mole Knight level theme from Shovel Knight. It could work well for lava-themed cave stages.<br>\r\n<br>\r\nIf the song seems too loud, open the .txt file you get from the download, and change the number underneath the box that says \"Master Volume\" as needed (leave the w).",
+  "latest_version": "smwc-26150-1615564754",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26150,
+      "title": "Shovel Knight - An Underlying Problem (The Lost City)",
+      "version": "smwc-26150-1615564754",
+      "upstream_time": 1615564754,
+      "download_url": "https://dl.smwcentral.net/26150/An%20Underlying%20Problem%20%28The%20Lost%20City%29.zip",
+      "filename": "An Underlying Problem (The Lost City).zip",
+      "size": 36186,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

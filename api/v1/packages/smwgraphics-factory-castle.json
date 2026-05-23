@@ -1,0 +1,34 @@
+{
+  "name": "smwgraphics-factory-castle",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 23417,
+  "title": "Factory / Castle",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "castle",
+    "industrial",
+    "mechanical",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "This took a long time to draw. Here's what I did and followed the moderator's suggestions:<br>\r\n<br>\r\n-changed the name of this tileset to an appropiate one;<br>\r\n-all the big barrels act like tile 100 above and tile 25 below and all small barrels act like tile 100;<br>\r\n-horizontal and vertical lasers animate now. I wanted to make them stationary, but that didn't work;<br>\r\n-'hill tripping' is removed now;<br>\r\n-fixed scrolling settings;<br>\r\n-added the moderator's color suggestion and re-organized the BG a bit;<br>\r\n<br>\r\n-removed the white sparkles on the BG windows. Some SNES games kept those, but yeah did the change;<br>\r\n-layer 3 BG has been reworked now. Original clouds have been added, some inspiration from SMB3 and the lightning is way better.<br>\r\n<br>\r\nIf you do use the lightning, then make a custom block with it. <br>\r\n<br>\r\nUse it with a custom status bar patch like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21562\"> Minimalist Status Bar </a> or the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21573\"> Super Mario Bros. 3 Status Bar </a> for better results, since using with the SMW vanilla status bar causes cutoff in the layer 3.<br>\r\n<br>\r\nGive credit, if used.",
+  "latest_version": "smwc-23417-1594538054",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 23417,
+      "title": "Factory / Castle",
+      "version": "smwc-23417-1594538054",
+      "upstream_time": 1594538054,
+      "download_url": "https://dl.smwcentral.net/23417/Factory-Castle%20tileset.zip",
+      "filename": "Factory-Castle tileset.zip",
+      "size": 21485,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-pressable-on-off-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3890,
+  "title": "Pressable ON/OFF Switch",
+  "authors": [
+    "x-treme"
+  ],
+  "tags": [
+    "lorom",
+    "on off"
+  ],
+  "description": "Give credit if used.<br>\r\n<br>\r\nRequested by MachoMan<br>\r\n<br>\r\nonoff.asm = if mario is on it, change the on/off switch to on<br>\r\noffon.asm = if mario is on it, change the on/off switch to off<br>\r\nswitchon.asm = change on/off status to on<br>\r\nswitchoff.asm = change on/off status to off<br>\r\n<br>\r\nVideo: http://www.youtube.com/watch?v=8HfKVdQMyE8",
+  "latest_version": "smwc-3890-1426301289",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3890,
+      "title": "Pressable ON/OFF Switch",
+      "version": "smwc-3890-1426301289",
+      "upstream_time": 1426301289,
+      "download_url": "https://dl.smwcentral.net/3890/switchs.zip",
+      "filename": "switchs.zip",
+      "size": 1624,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

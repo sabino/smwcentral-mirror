@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-timed-platform-sound-effects",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 39434,
+  "title": "Timed Platform Sound Effects",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sound",
+    "sprite"
+  ],
+  "description": "This patch gives sprite BA, the orange timed platform, sound effects when ticking down or falling, similar to Super Mario Advance 2.<br>\r\nAs a gif wouldn't do this submission justice, here's an example video:<br>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Bw4Oot8u1QE\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Blizzard Buffalo\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Blizzard Buffalo</a></span>.",
+  "latest_version": "smwc-39434-1753382664",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 39434,
+      "title": "Timed Platform Sound Effects",
+      "version": "smwc-39434-1753382664",
+      "upstream_time": 1753382664,
+      "download_url": "https://dl.smwcentral.net/39434/Timed%20Platform%20SFX.zip",
+      "filename": "Timed Platform SFX.zip",
+      "size": 1093,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

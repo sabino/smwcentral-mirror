@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-breaktime",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41212,
+  "title": "Breaktime...",
+  "authors": [
+    "PyroKastrix"
+  ],
+  "tags": [
+    "abstract",
+    "bonus"
+  ],
+  "description": "Unused music track I made for an unfinished platformer project I made last year. Could fit in bonus rooms, cutscenes, or abstract-themed areas.<br>\r\n<br>\r\nUPDATE 12.3.2025: It took me 4 months to realize that the drums were half an octave too low. There was also a note that cut off way too early so I fixed that too.",
+  "latest_version": "smwc-41212-1767308407",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41212,
+      "title": "Breaktime...",
+      "version": "smwc-41212-1767308407",
+      "upstream_time": 1767308407,
+      "download_url": "https://dl.smwcentral.net/41212/Breaktime.zip",
+      "filename": "Breaktime.zip",
+      "size": 73797,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

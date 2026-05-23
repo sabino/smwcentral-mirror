@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-desert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7866,
+  "title": "Desert",
+  "authors": [
+    "Fyord"
+  ],
+  "tags": [
+    "desert",
+    "jungle",
+    "overworld",
+    "ruins",
+    "temple"
+  ],
+  "description": "A piece composed to suit desert levels. Sounds very Middle Eastern.",
+  "latest_version": "smwc-7866-1318061512",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7866,
+      "title": "Desert",
+      "version": "smwc-7866-1318061512",
+      "upstream_time": 1318061512,
+      "download_url": "https://dl.smwcentral.net/7866/CUSTOM%20-%20Desert.zip",
+      "filename": "CUSTOM - Desert.zip",
+      "size": 67516,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

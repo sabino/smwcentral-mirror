@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-hard-brick",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3934,
+  "title": "Hard Brick",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "below",
+    "hard",
+    "lorom",
+    "shatter"
+  ],
+  "description": "A brick that will shatter when hit from below a defined # of times, optionally with a sound.",
+  "latest_version": "smwc-3934-1409010139",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3934,
+      "title": "Hard Brick",
+      "version": "smwc-3934-1409010139",
+      "upstream_time": 1409010139,
+      "download_url": "https://dl.smwcentral.net/3934/hardbrick.zip",
+      "filename": "hardbrick.zip",
+      "size": 492,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

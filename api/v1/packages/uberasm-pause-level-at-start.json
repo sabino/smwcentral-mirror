@@ -1,0 +1,33 @@
+{
+  "name": "uberasm-pause-level-at-start",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 22584,
+  "title": "Pause Level at Start",
+  "authors": [
+    "dtothefourth"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Pauses the level on start/retry and dims the screen until any button is pressed.<br>\r\n<br>\r\nGives the player a moment to prepare and look at a level before starting or recover between attempts especially when in combination with instant retry.",
+  "latest_version": "smwc-22584-1588134827",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 22584,
+      "title": "Pause Level at Start",
+      "version": "smwc-22584-1588134827",
+      "upstream_time": 1588134827,
+      "download_url": "https://dl.smwcentral.net/22584/PauseLevelAtStart.zip",
+      "filename": "PauseLevelAtStart.zip",
+      "size": 479,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

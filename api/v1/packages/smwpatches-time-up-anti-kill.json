@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-time-up-anti-kill",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21155,
+  "title": "Time Up Anti-Kill",
+  "authors": [
+    "Chdata"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "time",
+    "timer"
+  ],
+  "description": "Time going to zero doesn't kill you in a specific level with this patch applied.",
+  "latest_version": "smwc-21155-1569806074",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21155,
+      "title": "Time Up Anti-Kill",
+      "version": "smwc-21155-1569806074",
+      "upstream_time": 1569806074,
+      "download_url": "https://dl.smwcentral.net/21155/Time%20Up%20Antikill.zip",
+      "filename": "Time Up Antikill.zip",
+      "size": 464,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-route",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22637,
+  "title": "Pokémon Red/Blue/Yellow - Route 3",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland",
+    "mountain",
+    "overworld",
+    "retro"
+  ],
+  "description": "Unsampled port of the song that plays in Routes 3 to 10 and 16 to 22 in the first generation Pokémon games (Red, Blue and Yellow).<br>\r\n<br>\r\nMy first port that uses noise.<br>\r\n<br>\r\nFits grasslands and mountains, levels or overworld maps.",
+  "latest_version": "smwc-22637-1587859003",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22637,
+      "title": "Pokémon Red/Blue/Yellow - Route 3",
+      "version": "smwc-22637-1587859003",
+      "upstream_time": 1587859003,
+      "download_url": "https://dl.smwcentral.net/22637/Pokemon%20RBY%20-%20Route%203.zip",
+      "filename": "Pokemon RBY - Route 3.zip",
+      "size": 30891,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22444,
+      "title": "Pokémon Red/Blue/Yellow - Route 1",
+      "version": "smwc-22444-1586195557",
+      "upstream_time": 1586195557,
+      "download_url": "https://dl.smwcentral.net/22444/Pokemon%20RBY%20-%20Route%201.zip",
+      "filename": "Pokemon RBY - Route 1.zip",
+      "size": 30877,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8213,
+      "title": "Pokémon Red/Blue/Yellow - Route 1",
+      "version": "smwc-8213-1339274393",
+      "upstream_time": 1339274393,
+      "download_url": "https://dl.smwcentral.net/8213/Pokemon%20RBG%20-%20Route%201.zip",
+      "filename": "Pokemon RBG - Route 1.zip",
+      "size": 61871,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7861,
+      "title": "Pokémon Red/Blue/Yellow - Route 12",
+      "version": "smwc-7861-1314130035",
+      "upstream_time": 1314130035,
+      "download_url": "https://dl.smwcentral.net/7861/Pokemon%20RBY%20-%20Route%2012.zip",
+      "filename": "Pokemon RBY - Route 12.zip",
+      "size": 70340,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

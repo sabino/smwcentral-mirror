@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-peach-world-frog-grotto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25634,
+  "title": "Super Peach World - Frog Grotto",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "The cave theme from my hack Super Peach World.<br>\r\nSupports Yoshi Drums!<br>\r\nPlease credit me if used :)",
+  "latest_version": "smwc-25634-1610484984",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25634,
+      "title": "Super Peach World - Frog Grotto",
+      "version": "smwc-25634-1610484984",
+      "upstream_time": 1610484984,
+      "download_url": "https://dl.smwcentral.net/25634/SPW%20-%20FrogGrotto.zip",
+      "filename": "SPW - FrogGrotto.zip",
+      "size": 95912,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

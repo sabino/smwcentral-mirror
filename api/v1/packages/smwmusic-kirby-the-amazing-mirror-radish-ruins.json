@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-the-amazing-mirror-radish-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11068,
+  "title": "Kirby & The Amazing Mirror - Radish Ruins",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "castle",
+    "ruins",
+    "temple"
+  ],
+  "description": "The intense song played in Radish Ruins.  It's a good fit for a temple or ancient ruins-themed castle.",
+  "latest_version": "smwc-11068-1427466915",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11068,
+      "title": "Kirby & The Amazing Mirror - Radish Ruins",
+      "version": "smwc-11068-1427466915",
+      "upstream_time": 1427466915,
+      "download_url": "https://dl.smwcentral.net/11068/Radish%20Ruins.zip",
+      "filename": "Radish Ruins.zip",
+      "size": 32194,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

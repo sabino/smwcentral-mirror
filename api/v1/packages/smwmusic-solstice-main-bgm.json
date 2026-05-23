@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-solstice-main-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22124,
+  "title": "Solstice - Main BGM",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "ruins",
+    "temple",
+    "tense"
+  ],
+  "description": "The song that plays on the dungeon from Solstice.<br>\r\nTried to make an arrangement using samples from Equinox. It includes a very silent, and a loud volume versions.",
+  "latest_version": "smwc-22124-1581964388",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22124,
+      "title": "Solstice - Main BGM",
+      "version": "smwc-22124-1581964388",
+      "upstream_time": 1581964388,
+      "download_url": "https://dl.smwcentral.net/22124/Solstice%20-%20Main%20BGM%20Sampled.zip",
+      "filename": "Solstice - Main BGM Sampled.zip",
+      "size": 84762,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22123,
+      "title": "Solstice - Main BGM",
+      "version": "smwc-22123-1581964222",
+      "upstream_time": 1581964222,
+      "download_url": "https://dl.smwcentral.net/22123/Solstice%20-%20Main%20BGM.zip",
+      "filename": "Solstice - Main BGM.zip",
+      "size": 33134,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

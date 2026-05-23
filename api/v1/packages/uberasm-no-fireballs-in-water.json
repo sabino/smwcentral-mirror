@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-no-fireballs-in-water",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40158,
+  "title": "No Fireballs in Water",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "ability",
+    "fireball",
+    "lorom",
+    "player",
+    "sa-1",
+    "water"
+  ],
+  "description": "This uberASM code disables shooting fireballs when in water.",
+  "latest_version": "smwc-40158-1753255625",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40158,
+      "title": "No Fireballs in Water",
+      "version": "smwc-40158-1753255625",
+      "upstream_time": 1753255625,
+      "download_url": "https://dl.smwcentral.net/40158/NoFireInWater_RemodUpdate.zip",
+      "filename": "NoFireInWater_RemodUpdate.zip",
+      "size": 932,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

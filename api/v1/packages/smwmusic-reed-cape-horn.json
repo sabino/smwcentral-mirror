@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-reed-cape-horn",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41724,
+  "title": "Reed - Cape Horn",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Funky track used for BEET JAM's 5th level.<br>\r\n<br>\r\nNote: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Stage Clear, Starman, P-Switch, Yoshi mount, Thunder/Firework/Blargg <br>\r\n<br>\r\nUPDATE Feb 21th 2026: Updated a few wrong instrument calls in a loop in the main percussion channel. This was noticed by <span class=\"un-outer\" title=\"Fyre150\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=42439\" style=\"color: var(--user-color-3);\" class=\"un\">Fyre150</a></span>",
+  "latest_version": "smwc-41724-1772241078",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41724,
+      "title": "Reed - Cape Horn",
+      "version": "smwc-41724-1772241078",
+      "upstream_time": 1772241078,
+      "download_url": "https://dl.smwcentral.net/41724/Cape%20Horn.zip",
+      "filename": "Cape Horn.zip",
+      "size": 107558,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

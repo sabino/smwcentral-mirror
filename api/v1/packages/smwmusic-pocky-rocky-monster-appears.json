@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-pocky-rocky-monster-appears",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37579,
+  "title": "Pocky & Rocky - Monster Appears",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "cutscene",
+    "tense"
+  ],
+  "description": "奇々怪界 謎の黒マント - ボス現る！",
+  "latest_version": "smwc-37579-1717170622",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37579,
+      "title": "Pocky & Rocky - Monster Appears",
+      "version": "smwc-37579-1717170622",
+      "upstream_time": 1717170622,
+      "download_url": "https://dl.smwcentral.net/37579/kiki%2013.zip",
+      "filename": "kiki 13.zip",
+      "size": 41859,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37556,
+      "title": "Pocky & Rocky - Monster Appears",
+      "version": "smwc-37556-1717170619",
+      "upstream_time": 1717170619,
+      "download_url": "https://dl.smwcentral.net/37556/kiki%2013%20U.zip",
+      "filename": "kiki 13 U.zip",
+      "size": 30936,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

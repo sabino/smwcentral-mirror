@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-smw-smb-underground-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7775,
+  "title": "SMW & SMB Underground Remix",
+  "authors": [
+    "mario90"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "A remix that includes tunes from the SMW and SMB underground themes. Best for cave and sewer levels.",
+  "latest_version": "smwc-7775-1319900637",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7775,
+      "title": "SMW & SMB Underground Remix",
+      "version": "smwc-7775-1319900637",
+      "upstream_time": 1319900637,
+      "download_url": "https://dl.smwcentral.net/7775/SMW%26SMB%20Underground%20Remix%20-%20Original.zip",
+      "filename": "SMW%26SMB Underground Remix - Original.zip",
+      "size": 67027,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

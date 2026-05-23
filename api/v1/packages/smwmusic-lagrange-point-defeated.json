@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-lagrange-point-defeated",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25381,
+  "title": "Lagrange Point - Defeated",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "game over",
+    "retro",
+    "sad"
+  ],
+  "description": "A small song played when you lose a battle.<br>\r\nStandalone version using SMW samples only.",
+  "latest_version": "smwc-25381-1607723203",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25381,
+      "title": "Lagrange Point - Defeated",
+      "version": "smwc-25381-1607723203",
+      "upstream_time": 1607723203,
+      "download_url": "https://dl.smwcentral.net/25381/Lagrange%20Point%20-%20Defeated%20%28Unsampled%29.zip",
+      "filename": "Lagrange Point - Defeated (Unsampled).zip",
+      "size": 31416,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25380,
+      "title": "Lagrange Point - Defeated",
+      "version": "smwc-25380-1607723130",
+      "upstream_time": 1607723130,
+      "download_url": "https://dl.smwcentral.net/25380/Lagrange%20Point%20-%20Defeated.zip",
+      "filename": "Lagrange Point - Defeated.zip",
+      "size": 136340,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

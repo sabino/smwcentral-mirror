@@ -1,0 +1,57 @@
+{
+  "name": "smwmusic-moviemovies1-fuckbuddies-mod",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40697,
+  "title": "MovieMovies1 - fuckbuddies.mod",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "dark",
+    "fire",
+    "industrial",
+    "menu",
+    "night",
+    "overworld",
+    "retro",
+    "upbeat",
+    "urban"
+  ],
+  "description": "A groovy tracker song. I randomly stumbled on <span class=\"un-outer\" title=\"Nanako\"><span title=\"Nanako donated $5.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=17572\" style=\"color: #ff9800;\" class=\"un\">Nanako</a></span>'s port of it, then marathoned it over an evening. It sounds simple enough, but the details on that lead are actually quite complex to recreate!<br>\r\n<br>\r\n<img src=\"https://cloud.smwcentral.net/s/pSFXf55oHW4mrra/download\" alt=\"\">",
+  "latest_version": "smwc-40697-1760113628",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40697,
+      "title": "MovieMovies1 - fuckbuddies.mod",
+      "version": "smwc-40697-1760113628",
+      "upstream_time": 1760113628,
+      "download_url": "https://dl.smwcentral.net/40697/fuckbuddies.zip",
+      "filename": "fuckbuddies.zip",
+      "size": 32885,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35544,
+      "title": "MovieMovies1 - fuckbuddies.mod",
+      "version": "smwc-35544-1701700226",
+      "upstream_time": 1701700226,
+      "download_url": "https://dl.smwcentral.net/35544/MovieMovies1_-_Fuckbuddies.zip",
+      "filename": "MovieMovies1_-_Fuckbuddies.zip",
+      "size": 92283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

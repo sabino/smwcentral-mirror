@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-random-chance-sprite-spawner",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42074,
+  "title": "Random Chance Sprite Spawner",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "random",
+    "sa-1",
+    "spawn",
+    "uberasm needed"
+  ],
+  "description": "This helper sprite will replace itself with another sprite with a given probability. If it fails, nothing will spawn.<br>\r\n<br>\r\nRespawn when going offscreen and returned is handled in two ways, via the <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track</pre></div> define.<br>\r\n<ul><li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track = 0</pre></div>, the spawn succeeds, and you go off-screen and return, the sprite's probability to spawn is re-rolled.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track = 1</pre></div>, the spawn succeeds, and you go off-screen and return, the sprite will ALWAYS spawn again. This feature requires 32 bytes of free RAM and, if you're not clearing RAM elsewhere, UberASM.</li></ul><br>\r\n<br>\r\nCan spawn a vanilla or custom sprite, with the extra bit clear or set, with any given X/Y offset, and with up to four extra bytes.",
+  "latest_version": "smwc-42074-1775269547",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42074,
+      "title": "Random Chance Sprite Spawner",
+      "version": "smwc-42074-1775269547",
+      "upstream_time": 1775269547,
+      "download_url": "https://dl.smwcentral.net/42074/Random%20Chance%20Spawner.zip",
+      "filename": "Random Chance Spawner.zip",
+      "size": 4218,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-goldeneye",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7203,
+  "title": "GoldenEye 007 - James Bond Theme",
+  "authors": [
+    "spigmike"
+  ],
+  "tags": [
+    "castle",
+    "dark"
+  ],
+  "description": "The (fairly) popular theme from all of the James Bond Games and most of the movies. Good for spy and factory/indoor levels.",
+  "latest_version": "smwc-7203-1313906389",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7203,
+      "title": "GoldenEye 007 - James Bond Theme",
+      "version": "smwc-7203-1313906389",
+      "upstream_time": 1313906389,
+      "download_url": "https://dl.smwcentral.net/7203/JBTheme.zip",
+      "filename": "JBTheme.zip",
+      "size": 68819,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

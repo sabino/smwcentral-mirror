@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-smart-hot-foot",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23824,
+  "title": "Smart Hot Foot",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Alternative names: Dumb Hot Foot, Confused Hot Foot and Random Hot Foot.<br>\r\n<br>\r\nThis hotfoot will chase the player for a bit, the walk the other way for a little bit and continue on chasing after that.<br>\r\n<br>\r\nCredit is unecessary. Requested by CalHal.",
+  "latest_version": "smwc-23824-1595729378",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23824,
+      "title": "Smart Hot Foot",
+      "version": "smwc-23824-1595729378",
+      "upstream_time": 1595729378,
+      "download_url": "https://dl.smwcentral.net/23824/Smart%20Hotfoot.zip",
+      "filename": "Smart Hotfoot.zip",
+      "size": 4490,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

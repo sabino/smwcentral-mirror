@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-nintendo-presents-logo-expansion-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19373,
+  "title": "Nintendo Presents Logo Expansion v1.3",
+  "authors": [
+    "Roy",
+    "ghettoyouth"
+  ],
+  "tags": [
+    "lorom",
+    "nintendo presents",
+    "sa-1"
+  ],
+  "description": "This patch will expand the Nintendo Presents Logo to a 64x64 sprite tile.",
+  "latest_version": "smwc-19373-1552968731",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19373,
+      "title": "Nintendo Presents Logo Expansion v1.3",
+      "version": "smwc-19373-1552968731",
+      "upstream_time": 1552968731,
+      "download_url": "https://dl.smwcentral.net/19373/LogoExpand.zip",
+      "filename": "LogoExpand.zip",
+      "size": 2177,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

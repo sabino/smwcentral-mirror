@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-dkcr-styled-sprite-status-bar",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24026,
+  "title": "DKCR Styled Sprite Status Bar",
+  "authors": [
+    "Ladida",
+    "lx5",
+    "wye"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "counter",
+    "dkc",
+    "layer 3",
+    "lorom",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "This patch replaces SMW's original status bar with a system similar to that of the Donkey Kong Country Returns series. Counters are implemented as sprites that show up only when necessary and slide in and out on their own.<br>\r\n<br>\r\nNote that this patch disables the timer, as well as the score and bonus star counters.<br>\r\nMake sure to read the readme for instructions and possible drawbacks!<br>\r\n<br>\r\n(January 31, 2015: lives are now limited to 99 instead of overflowing the counter.)<br>\r\n(May 27, 2015: Updated Ladida's Mario GFX DMA patch; all graphics now fit into GFX00.)<br>\r\n(January 9, 2018: Now SA-1 compatible!)<br>\r\n(July 6, 2018: Massive update with a handful of bugs fixed and features added, including the ability to show all counters by pausing the game.)<br>\r\n(April 24, 2019: Now compatible with Custom Powerups!)<br>\r\n(July 26, 2020: Fixes a IRQ bug if you don't use VWF Dialogues.)",
+  "latest_version": "smwc-24026-1604240346",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24026,
+      "title": "DKCR Styled Sprite Status Bar",
+      "version": "smwc-24026-1604240346",
+      "upstream_time": 1604240346,
+      "download_url": "https://dl.smwcentral.net/24026/dkcr_sprite_status_bar.zip",
+      "filename": "dkcr_sprite_status_bar.zip",
+      "size": 41816,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

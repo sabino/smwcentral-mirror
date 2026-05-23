@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-mega-man-bass-king-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25786,
+  "title": "Mega Man & Bass - King Castle",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "King's Fortress from Megaman & Bass.",
+  "latest_version": "smwc-25786-1612129688",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25786,
+      "title": "Mega Man & Bass - King Castle",
+      "version": "smwc-25786-1612129688",
+      "upstream_time": 1612129688,
+      "download_url": "https://dl.smwcentral.net/25786/King%27s%20Fortress.zip",
+      "filename": "King%27s Fortress.zip",
+      "size": 33548,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22632,
+      "title": "Mega Man & Bass - King Castle",
+      "version": "smwc-22632-1587858659",
+      "upstream_time": 1587858659,
+      "download_url": "https://dl.smwcentral.net/22632/KingCastle.zip",
+      "filename": "KingCastle.zip",
+      "size": 32514,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20866,
+      "title": "Mega Man & Bass - King Castle",
+      "version": "smwc-20866-1565719372",
+      "upstream_time": 1565719372,
+      "download_url": "https://dl.smwcentral.net/20866/KingCastle.zip",
+      "filename": "KingCastle.zip",
+      "size": 64677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

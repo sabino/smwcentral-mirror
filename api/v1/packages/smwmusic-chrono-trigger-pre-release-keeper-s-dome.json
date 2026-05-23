@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-chrono-trigger-pre-release-keeper-s-dome",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22675,
+  "title": "Chrono Trigger Pre-Release - Keeper's Dome",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "mystery",
+    "overworld",
+    "pre-boss"
+  ],
+  "description": "A short creepy song that plays on the pre-release version when you unlock the sealed doors.",
+  "latest_version": "smwc-22675-1587315632",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22675,
+      "title": "Chrono Trigger Pre-Release - Keeper's Dome",
+      "version": "smwc-22675-1587315632",
+      "upstream_time": 1587315632,
+      "download_url": "https://dl.smwcentral.net/22675/Chrono%20Trigger%20Pre-Release%20-%20Keeper%27s%20Dome.zip",
+      "filename": "Chrono Trigger Pre-Release - Keeper%27s Dome.zip",
+      "size": 58252,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

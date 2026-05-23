@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-chaos-mecha-green-hill-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41435,
+  "title": "Sonic the Hedgehog Chaos - Mecha Green Hill Zone",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "industrial"
+  ],
+  "description": "Song from Sonic the Hedgehog Chaos on the SMS/GG. Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>.",
+  "latest_version": "smwc-41435-1776619534",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41435,
+      "title": "Sonic the Hedgehog Chaos - Mecha Green Hill Zone",
+      "version": "smwc-41435-1776619534",
+      "upstream_time": 1776619534,
+      "download_url": "https://dl.smwcentral.net/41435/mechagreenhill%20.zip",
+      "filename": "mechagreenhill .zip",
+      "size": 35264,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wagyan-paradise-jewel-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23666,
+  "title": "Wagyan Paradise - Jewel Cave",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "cave",
+    "mysterious",
+    "water"
+  ],
+  "description": "The Jewel Cave theme from Wagyan Paradise. It's mysterious-sounding! It could also fit in underwater and low-visibility levels.",
+  "latest_version": "smwc-23666-1594366274",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23666,
+      "title": "Wagyan Paradise - Jewel Cave",
+      "version": "smwc-23666-1594366274",
+      "upstream_time": 1594366274,
+      "download_url": "https://dl.smwcentral.net/23666/WPJewelCave.zip",
+      "filename": "WPJewelCave.zip",
+      "size": 39484,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

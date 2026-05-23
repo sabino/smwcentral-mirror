@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-s-time-machine-third-floor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7410,
+  "title": "Mario's Time Machine - Third Floor",
+  "authors": [
+    "FPI"
+  ],
+  "tags": [
+    "castle",
+    "dark"
+  ],
+  "description": "This is also the piece of music you can hear in TSRPR's 'Bowser's Palace'. A very good and catchy castle theme with very small insertion size.",
+  "latest_version": "smwc-7410-1320221045",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7410,
+      "title": "Mario's Time Machine - Third Floor",
+      "version": "smwc-7410-1320221045",
+      "upstream_time": 1320221045,
+      "download_url": "https://dl.smwcentral.net/7410/Mario%27s_Time_Machine_-_Third_Floor.zip",
+      "filename": "Mario%27s_Time_Machine_-_Third_Floor.zip",
+      "size": 73748,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-nemesis-ii-msx-air-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24905,
+  "title": "Nemesis II (MSX) - Air Battle",
+  "authors": [
+    "Yuzu"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "fire",
+    "space"
+  ],
+  "description": "Alt. Title: Gradius II (MSX) - Air Battle<br>\r\nLong time no see. <br>\r\n<br>\r\nFrom a Konami Shotting Game was released on some MSX Computers.<br>\r\n",
+  "latest_version": "smwc-24905-1606590432",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24905,
+      "title": "Nemesis II (MSX) - Air Battle",
+      "version": "smwc-24905-1606590432",
+      "upstream_time": 1606590432,
+      "download_url": "https://dl.smwcentral.net/24905/NemesisII_Air.zip",
+      "filename": "NemesisII_Air.zip",
+      "size": 34429,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

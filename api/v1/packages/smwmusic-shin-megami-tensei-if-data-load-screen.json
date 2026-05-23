@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-if-data-load-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37253,
+  "title": "Shin Megami Tensei if... - Data Load Screen",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "Plays during the save state selection screen<br>\r\n",
+  "latest_version": "smwc-37253-1712646934",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37253,
+      "title": "Shin Megami Tensei if... - Data Load Screen",
+      "version": "smwc-37253-1712646934",
+      "upstream_time": 1712646934,
+      "download_url": "https://dl.smwcentral.net/37253/SMT%20if%20Data%20Load%20Screen.zip",
+      "filename": "SMT if Data Load Screen.zip",
+      "size": 37370,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

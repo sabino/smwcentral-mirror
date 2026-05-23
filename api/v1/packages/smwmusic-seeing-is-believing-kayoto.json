@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-seeing-is-believing-kayoto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32420,
+  "title": "Seeing Is Believing - Kayoto",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "credits",
+    "space"
+  ],
+  "description": "One of the songs featured in the 1991 Amiga demo \"Seeing is Believing\" by the Anarchy group.<br>\r\nNot compatible with \"Bonus End\", Yoshi, P-Switch and Thunder SFX/Blarggs/Fireworks.",
+  "latest_version": "smwc-32420-1677650094",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32420,
+      "title": "Seeing Is Believing - Kayoto",
+      "version": "smwc-32420-1677650094",
+      "upstream_time": 1677650094,
+      "download_url": "https://dl.smwcentral.net/32420/kayoto.zip",
+      "filename": "kayoto.zip",
+      "size": 157095,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

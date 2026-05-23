@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-iv-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7628,
+  "title": "Final Fantasy IV - Fanfare",
+  "authors": [
+    "Toastypk"
+  ],
+  "tags": [
+    "bonus",
+    "goal"
+  ],
+  "description": "The well-known victory theme of Final Fantasy IV, it's a great alternate to the 'goal' or 'boss defeated' music.",
+  "latest_version": "smwc-7628-1320048956",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7628,
+      "title": "Final Fantasy IV - Fanfare",
+      "version": "smwc-7628-1320048956",
+      "upstream_time": 1320048956,
+      "download_url": "https://dl.smwcentral.net/7628/FF4-Victory.zip",
+      "filename": "FF4-Victory.zip",
+      "size": 72823,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

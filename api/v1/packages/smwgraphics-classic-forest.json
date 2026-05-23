@@ -1,0 +1,56 @@
+{
+  "name": "smwgraphics-classic-forest",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27069,
+  "title": "Classic Forest 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "falling spike",
+    "forest",
+    "needs remoderation"
+  ],
+  "description": "Here's a lush forest foreground based on vanilla Palette 0.  It doesn't need a custom palette, but I included an optional autumn-themed palette in case you want to do an autumn forest stage.",
+  "latest_version": "smwc-27069-1621625439",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27069,
+      "title": "Classic Forest 2021",
+      "version": "smwc-27069-1621625439",
+      "upstream_time": 1621625439,
+      "download_url": "https://dl.smwcentral.net/27069/Classic%20Forest%202021.zip",
+      "filename": "Classic Forest 2021.zip",
+      "size": 5760,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19751,
+      "title": "Classic Forest 2",
+      "version": "smwc-19751-1558447453",
+      "upstream_time": 1558447453,
+      "download_url": "https://dl.smwcentral.net/19751/ClassicForest2.zip",
+      "filename": "ClassicForest2.zip",
+      "size": 6879,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13071,
+      "title": "Classic Forest",
+      "version": "smwc-13071-1453241511",
+      "upstream_time": 1453241511,
+      "download_url": "https://dl.smwcentral.net/13071/ClassicForest.zip",
+      "filename": "ClassicForest.zip",
+      "size": 4663,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

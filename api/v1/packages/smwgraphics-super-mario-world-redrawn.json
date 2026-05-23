@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-redrawn",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 5914,
+  "title": "Super Mario World Redrawn",
+  "authors": [
+    "icegoom"
+  ],
+  "tags": [
+    "needs remoderation",
+    "redrawn"
+  ],
+  "description": "Icegoom's original description: \"I've played a lot of SMW hacks. Many of them have really cool graphical changes. But one thing that always bugged me was that no matter how extensive the changes were elsewhere, there were always a certain amount of old SMW sprites left over. You can't rip climbing Koopas, Urchins, Fishin' Boo, or Bowser's Clown Car from other games. So I set out to redraw every single sprite in the game in a Gameboy Advance/Nintendo DS style. Along the way, I also started doing foreground objects.<br>\r\n<br>\r\nBasically, this hack is here for anyone starting work on a Super Mario World hack who wants a complete and stylistically consistent spriteset. The sprites themselves are basically done, although I'll tweak them quite a bit for the next release. The foregrounds are in an incomplete state, and I haven't even started replacing the backgrounds yet. The overworld's had extensive work done on it, but there are a lot of screwed up palettes I haven't bothered to fix yet.<br>\r\n<br>\r\nAnyhoo, these sprites are here for whoever wants them. Completely open source, no credit necessary. Just focus on making some fun Super Mario World hacks, guys.\"<br>\r\n<br>\r\nIt's had some modifications from the version hosted in hacks section, some things might be different as the overworld, palettes of some sprites, so you'll have to fix some things yourself with Overworld Editor and with external tools as Tweaker as for some sprites.<br>\r\n<br>\r\nIt also includes a folder with alternate redrawn graphics in case you feel like trying different versions of graphics icegoom has made before. With this said, hope you enjoy it! ",
+  "latest_version": "smwc-5914-1387202718",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 5914,
+      "title": "Super Mario World Redrawn",
+      "version": "smwc-5914-1387202718",
+      "upstream_time": 1387202718,
+      "download_url": "https://dl.smwcentral.net/5914/SMWRedrawn.zip",
+      "filename": "SMWRedrawn.zip",
+      "size": 221913,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

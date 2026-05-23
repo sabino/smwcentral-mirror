@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-invincibility-while-ducking",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 42025,
+  "title": "Invincibility While Ducking",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "controller",
+    "duck",
+    "invincibility",
+    "lorom",
+    "player",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "This block will make the player invincible when they're ducking, either when standing on it or while inside it. Inspired by <a href=\"https://smwc.me/s/19384\">this patch</a> I made a while ago.<br>\r\n<br>\r\nIncludes an assortment of visual effects, such as going behind layers, flashing, sparkling, and setting custom poses.",
+  "latest_version": "1.1.1",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 42025,
+      "title": "Invincibility While Ducking",
+      "version": "1.1.1",
+      "upstream_time": 1777406507,
+      "download_url": "https://dl.smwcentral.net/42025/Invincible%20Duck%20Block%20v1.1.1.zip",
+      "filename": "Invincible Duck Block v1.1.1.zip",
+      "size": 1928,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

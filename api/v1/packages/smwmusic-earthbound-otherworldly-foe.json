@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-otherworldly-foe",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24212,
+  "title": "EarthBound - Otherworldly Foe",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "dark",
+    "night"
+  ],
+  "description": "A two boss song from Earthbound. Fits dangerous dark areas.",
+  "latest_version": "smwc-24212-1601598261",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24212,
+      "title": "EarthBound - Otherworldly Foe",
+      "version": "smwc-24212-1601598261",
+      "upstream_time": 1601598261,
+      "download_url": "https://dl.smwcentral.net/24212/Earthbound%20-%20Otherworldly%20Foe.zip",
+      "filename": "Earthbound - Otherworldly Foe.zip",
+      "size": 59259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

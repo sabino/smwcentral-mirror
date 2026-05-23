@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-timed-on-off-switch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26550,
+  "title": "Timed ON/OFF Switch",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "lorom",
+    "onoff switch",
+    "pacifist",
+    "sa-1",
+    "timed"
+  ],
+  "description": "This is a block sprite that when hit from below, will flip the ON/OFF switch for a set duration of time, before reverting back. You can set the duration before reverting on a per-sprite basis. You can also set a duration multiplier, and optionally have each switch display a \"!\" symbol when the ON/OFF switch is about to revert.<br>\r\n<br>\r\nRequested by Stivi.",
+  "latest_version": "smwc-26550-1618219118",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26550,
+      "title": "Timed ON/OFF Switch",
+      "version": "smwc-26550-1618219118",
+      "upstream_time": 1618219118,
+      "download_url": "https://dl.smwcentral.net/26550/TimedOnOff.zip",
+      "filename": "TimedOnOff.zip",
+      "size": 5071,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-course-clear-modifier",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41426,
+  "title": "\"Course Clear\" Modifier",
+  "authors": [
+    "adakkusu-san"
+  ],
+  "tags": [
+    "course clear",
+    "hex edits",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch allows you to change the \"Course Clear!\" text and some other text at the end of the level to what you want. The patch is largely commented.",
+  "latest_version": "smwc-41426-1768518245",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41426,
+      "title": "\"Course Clear\" Modifier",
+      "version": "smwc-41426-1768518245",
+      "upstream_time": 1768518245,
+      "download_url": "https://dl.smwcentral.net/41426/courseclearasar2.zip",
+      "filename": "courseclearasar2.zip",
+      "size": 1133,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

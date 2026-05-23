@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pectoris-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7274,
+  "title": "Pectoris City",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "cave",
+    "industrial",
+    "space",
+    "town"
+  ],
+  "description": "An industrious track that could fit areas like a town or a factory. It could also work for a nice mine theme.",
+  "latest_version": "smwc-7274-1336551516",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7274,
+      "title": "Pectoris City",
+      "version": "smwc-7274-1336551516",
+      "upstream_time": 1336551516,
+      "download_url": "https://dl.smwcentral.net/7274/Pectoris%20City.zip",
+      "filename": "Pectoris City.zip",
+      "size": 44383,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

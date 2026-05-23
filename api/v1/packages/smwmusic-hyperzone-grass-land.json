@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-hyperzone-grass-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22482,
+  "title": "HyperZone - Grass Land",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "grassland",
+    "misc"
+  ],
+  "description": "This is my Hyper Zone - Grass Land port but unsampled since the samples fit pretty well. Useful for grasslands with a bit of vanilla atmosphere to them.",
+  "latest_version": "smwc-22482-1585702180",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22482,
+      "title": "HyperZone - Grass Land",
+      "version": "smwc-22482-1585702180",
+      "upstream_time": 1585702180,
+      "download_url": "https://dl.smwcentral.net/22482/Hyper%20Zone%20-%20Grass%20Land%20%28Unsampled%29.zip",
+      "filename": "Hyper Zone - Grass Land (Unsampled).zip",
+      "size": 32837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22481,
+      "title": "HyperZone - Grass Land",
+      "version": "smwc-22481-1585701995",
+      "upstream_time": 1585701995,
+      "download_url": "https://dl.smwcentral.net/22481/Hyper%20Zone%20-%20Grass%20Land.zip",
+      "filename": "Hyper Zone - Grass Land.zip",
+      "size": 82798,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

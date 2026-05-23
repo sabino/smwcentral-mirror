@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-castle-destruction-cutscene-exgfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 26857,
+  "title": "Castle Destruction Cutscene ExGFX",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "exgfx",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch allows you to load custom (Ex)GFX files for each of the 7 castle destruction cutscenes. To do so, just edit the tables sp1-sp4,fg1-fg3,bg1 in the asm file.<br>\r\nNote: you can't insert GFX files in slots BG2-BG3, and you can only use (Ex)GFX numbers $00-$FF.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"SimFan96\"><a href=\"/?p=profile&amp;id=34677\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">SimFan96</a></span>.",
+  "latest_version": "smwc-26857-1625041625",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 26857,
+      "title": "Castle Destruction Cutscene ExGFX",
+      "version": "smwc-26857-1625041625",
+      "upstream_time": 1625041625,
+      "download_url": "https://dl.smwcentral.net/26857/castle_custscene_exgfx.zip",
+      "filename": "castle_custscene_exgfx.zip",
+      "size": 1006,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

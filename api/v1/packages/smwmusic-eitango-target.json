@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-eitango-target",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26070,
+  "title": "Eitango Target 1900 DS - Notes",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "bonus",
+    "overworld"
+  ],
+  "description": "Directly ripped from an obscure Nintendo DS game.<br>\r\n<br>\r\nCould fit with happy overworld/bonus theme",
+  "latest_version": "smwc-26070-1615237075",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26070,
+      "title": "Eitango Target 1900 DS - Notes",
+      "version": "smwc-26070-1615237075",
+      "upstream_time": 1615237075,
+      "download_url": "https://dl.smwcentral.net/26070/Eitango%20Target%201900%20DS%20-%20Notes.zip",
+      "filename": "Eitango Target 1900 DS - Notes.zip",
+      "size": 96891,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

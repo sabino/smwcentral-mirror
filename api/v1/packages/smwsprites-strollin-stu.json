@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-strollin-stu",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36852,
+  "title": "Strollin' Stu",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Strollin' Stus are squat, pudgy creatures, somewhat similar to Goombas, that are native to Isle Delfino. They have bulbous noses, high-tucked spotted trousers, and a waddling gait.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36852-1727513346",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36852,
+      "title": "Strollin' Stu",
+      "version": "smwc-36852-1727513346",
+      "upstream_time": 1727513346,
+      "download_url": "https://dl.smwcentral.net/36852/Strollin%27%20Stu.zip",
+      "filename": "Strollin%27 Stu.zip",
+      "size": 3450,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

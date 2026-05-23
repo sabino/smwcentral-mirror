@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-stage-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10864,
+  "title": "Mega Man - Stage Select",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Short song, good for intros/cutscenes/submaps/etc.",
+  "latest_version": "smwc-10864-1425431247",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10864,
+      "title": "Mega Man - Stage Select",
+      "version": "smwc-10864-1425431247",
+      "upstream_time": 1425431247,
+      "download_url": "https://dl.smwcentral.net/10864/stageselect.zip",
+      "filename": "stageselect.zip",
+      "size": 34345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

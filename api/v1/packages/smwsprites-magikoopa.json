@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-magikoopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3504,
+  "title": "Magikoopa",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "disassembly",
+    "enemy",
+    "kamek",
+    "lorom",
+    "magic",
+    "magical",
+    "magikoopa",
+    "sa-1"
+  ],
+  "description": "A disassembly of the Magikoopa (sprite 1F), commented and ready to be inserted with PIXI.",
+  "latest_version": "smwc-3504-1252096215",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3504,
+      "title": "Magikoopa",
+      "version": "smwc-3504-1252096215",
+      "upstream_time": 1252096215,
+      "download_url": "https://dl.smwcentral.net/3504/Magikoopa.zip",
+      "filename": "Magikoopa.zip",
+      "size": 4986,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

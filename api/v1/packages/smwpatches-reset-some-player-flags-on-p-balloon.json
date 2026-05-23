@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-reset-some-player-flags-on-p-balloon",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32387,
+  "title": "Reset Some Player Flags on P-Balloon",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "cape",
+    "flag",
+    "flying",
+    "lorom",
+    "p-balloon",
+    "p-meter",
+    "sa-1",
+    "sliding",
+    "spin jump"
+  ],
+  "description": "Fix a problem where taking a P-balloon does not reset a Mario's some flags that should be reset.<br>\r\n<br>\r\nThe problem as shown in the screenshot will be resolved.",
+  "latest_version": "smwc-32387-1671625149",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32387,
+      "title": "Reset Some Player Flags on P-Balloon",
+      "version": "smwc-32387-1671625149",
+      "upstream_time": 1671625149,
+      "download_url": "https://dl.smwcentral.net/32387/Reset%20Mario%27s%20some%20Flags%20on%20P-Balloon.zip",
+      "filename": "Reset Mario%27s some Flags on P-Balloon.zip",
+      "size": 1881,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

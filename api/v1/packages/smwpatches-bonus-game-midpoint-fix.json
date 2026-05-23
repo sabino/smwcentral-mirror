@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bonus-game-midpoint-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17738,
+  "title": "Bonus Game Midpoint Fix",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "bonus game",
+    "lorom",
+    "midpoints",
+    "needs remoderation",
+    "sa-1"
+  ],
+  "description": "This patch fixes the bug where dying during the bonus game causes the midpoint flag to be set for the level you were in previously. $7E13CE and $7E1DE9 also no longer need to be set before overworld load to trigger overworld events and $7E1DE9 can be used as free RAM on either the overworld or levels.",
+  "latest_version": "smwc-17738-1533521280",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17738,
+      "title": "Bonus Game Midpoint Fix",
+      "version": "smwc-17738-1533521280",
+      "upstream_time": 1533521280,
+      "download_url": "https://dl.smwcentral.net/17738/BonusGameMidpointFix.zip",
+      "filename": "BonusGameMidpointFix.zip",
+      "size": 835,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

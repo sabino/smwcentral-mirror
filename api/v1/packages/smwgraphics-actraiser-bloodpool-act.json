@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-actraiser-bloodpool-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38417,
+  "title": "ActRaiser - Bloodpool (Act 1)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "lake",
+    "night",
+    "swamp"
+  ],
+  "description": "The second action stage of Actraiser, a poisonous swamp. <br>\r\n<br>\r\n Just like the original game, using parallax scrolling in this background is highly recommended.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Much more accurate to the source material, at the cost of an extra palette row.  It's now extremely optimized,  having a lot of free space in BG2 now.  Palette and map 16 are also better organized. Background loops properly now.",
+  "latest_version": "smwc-38417-1727735820",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38417,
+      "title": "ActRaiser - Bloodpool (Act 1)",
+      "version": "smwc-38417-1727735820",
+      "upstream_time": 1727735820,
+      "download_url": "https://dl.smwcentral.net/38417/ActRaiser%20-%20Bloodpool%20%28Act%201%29.zip",
+      "filename": "ActRaiser - Bloodpool (Act 1).zip",
+      "size": 4977,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-adder-egg",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14503,
+  "title": "ADDER EGG",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "title"
+  ],
+  "description": "A pretty short rock-inspired song. Might be good for title screens and chase levels.<br>\r\n<br>\r\nSMWC Idol 8 Round 1 entry.",
+  "latest_version": "smwc-14503-1477186384",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14503,
+      "title": "ADDER EGG",
+      "version": "smwc-14503-1477186384",
+      "upstream_time": 1477186384,
+      "download_url": "https://dl.smwcentral.net/14503/idol.zip",
+      "filename": "idol.zip",
+      "size": 36400,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-minish-cap-cave-of-flames",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31609,
+  "title": "The Legend of Zelda: The Minish Cap - Cave of Flames",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "fire",
+    "temple",
+    "tense"
+  ],
+  "description": "Port originally made for a 72hoSPC contest.<br>\r\n<br>\r\nThis plays during the game's second dungeon. The song is a bit repetitive, so make sure not to use it in long levels!",
+  "latest_version": "smwc-31609-1659124871",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31609,
+      "title": "The Legend of Zelda: The Minish Cap - Cave of Flames",
+      "version": "smwc-31609-1659124871",
+      "upstream_time": 1659124871,
+      "download_url": "https://dl.smwcentral.net/31609/MinishFlames.zip",
+      "filename": "MinishFlames.zip",
+      "size": 80406,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

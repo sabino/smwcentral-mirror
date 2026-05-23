@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-spawn-a-coin-on-star-kill",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 23854,
+  "title": "Spawn a Coin On Star Kill",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1",
+    "star"
+  ],
+  "description": "This patch makes killing sprites with a star spawn a coin, as if they were killed with a fireball. There are some exceptions that can be changed in .asm.<br>\r\n<br>\r\nCredit is optional. Reqested by RollingRigatonis.",
+  "latest_version": "smwc-23854-1594912247",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 23854,
+      "title": "Spawn a Coin On Star Kill",
+      "version": "smwc-23854-1594912247",
+      "upstream_time": 1594912247,
+      "download_url": "https://dl.smwcentral.net/23854/CoinOnStarKill.zip",
+      "filename": "CoinOnStarKill.zip",
+      "size": 4040,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

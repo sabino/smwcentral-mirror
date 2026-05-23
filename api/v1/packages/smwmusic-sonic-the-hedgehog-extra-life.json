@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-extra-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11704,
+  "title": "Sonic the Hedgehog - Extra Life",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "Good for stage clear.",
+  "latest_version": "smwc-11704-1439219487",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11704,
+      "title": "Sonic the Hedgehog - Extra Life",
+      "version": "smwc-11704-1439219487",
+      "upstream_time": 1439219487,
+      "download_url": "https://dl.smwcentral.net/11704/Extra%20Life.zip",
+      "filename": "Extra Life.zip",
+      "size": 30732,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

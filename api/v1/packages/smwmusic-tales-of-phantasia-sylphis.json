@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-tales-of-phantasia-sylphis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29120,
+  "title": "Tales of Phantasia - Sylphis'",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sad",
+    "temple"
+  ],
+  "description": "A calm song that sounds a bit sad in a few places.<br>\r\nI have ported a second version without the wind which I personally prefer and which is more universally applicable.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span>",
+  "latest_version": "smwc-29120-1645197540",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29120,
+      "title": "Tales of Phantasia - Sylphis'",
+      "version": "smwc-29120-1645197540",
+      "upstream_time": 1645197540,
+      "download_url": "https://dl.smwcentral.net/29120/Sylphis.zip",
+      "filename": "Sylphis.zip",
+      "size": 99697,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

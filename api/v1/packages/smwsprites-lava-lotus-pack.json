@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-lava-lotus-pack",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3395,
+  "title": "Lava Lotus Pack",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lava",
+    "lorom",
+    "lotus",
+    "sa-1",
+    "smb3",
+    "water"
+  ],
+  "description": "A pack of Lava Lotuses, including the one from SMB3 and additional types of lotus. It includes a Changing Lotus, Hungry Lotus, Spawning Lotus and a custom spore projectile.",
+  "latest_version": "smwc-3395-1242499421",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3395,
+      "title": "Lava Lotus Pack",
+      "version": "smwc-3395-1242499421",
+      "upstream_time": 1242499421,
+      "download_url": "https://dl.smwcentral.net/3395/LavaLotusPack.zip",
+      "filename": "LavaLotusPack.zip",
+      "size": 16424,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

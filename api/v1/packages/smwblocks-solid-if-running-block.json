@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-solid-if-running-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 5786,
+  "title": "Solid if Running Block",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "lorom",
+    "speed",
+    "surface"
+  ],
+  "description": "Inspired by the sheer surfaces seen in Sonic Chaos' Gigalopolis and Mecha Green Hill Zones, this block will be solid if Mario is running at at least a certain speed, but passable if he isn't.",
+  "latest_version": "smwc-5786-1410233727",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 5786,
+      "title": "Solid if Running Block",
+      "version": "smwc-5786-1410233727",
+      "upstream_time": 1410233727,
+      "download_url": "https://dl.smwcentral.net/5786/SolidIfRunning.zip",
+      "filename": "SolidIfRunning.zip",
+      "size": 521,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

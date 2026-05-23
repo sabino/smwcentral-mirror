@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-hybrid-big-boo-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28506,
+  "title": "Hybrid Big Boo Boss",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "big boo",
+    "big boo boss",
+    "boo",
+    "boss",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a hybrid between Big Boo and Big Boo Boss. It'll chase the player like regular boo, and can be defeated like a boss variant.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Beefy Chud\"><a href=\"/?p=profile&amp;id=51386\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Beefy Chud</a></span>.",
+  "latest_version": "smwc-28506-1644793706",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28506,
+      "title": "Hybrid Big Boo Boss",
+      "version": "smwc-28506-1644793706",
+      "upstream_time": 1644793706,
+      "download_url": "https://dl.smwcentral.net/28506/HybridBooBoss.zip",
+      "filename": "HybridBooBoss.zip",
+      "size": 4133,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

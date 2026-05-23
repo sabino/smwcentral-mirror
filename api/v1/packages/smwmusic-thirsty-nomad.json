@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-thirsty-nomad",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7776,
+  "title": "Thirsty Nomad",
+  "authors": [
+    "gpetry"
+  ],
+  "tags": [
+    "desert"
+  ],
+  "description": "Definitely fits as a calm, arid desert theme.",
+  "latest_version": "smwc-7776-1319959569",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7776,
+      "title": "Thirsty Nomad",
+      "version": "smwc-7776-1319959569",
+      "upstream_time": 1319959569,
+      "download_url": "https://dl.smwcentral.net/7776/Thirsty%20Nomad%20-%20Composed%20By%20GPetry.zip",
+      "filename": "Thirsty Nomad - Composed By GPetry.zip",
+      "size": 71226,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

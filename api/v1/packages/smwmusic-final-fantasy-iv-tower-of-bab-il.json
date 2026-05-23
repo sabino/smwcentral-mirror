@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-iv-tower-of-bab-il",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20065,
+  "title": "Final Fantasy IV - Tower of Bab-il",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "castle",
+    "overworld"
+  ],
+  "description": "(Also known as \"The Tower of Babel\")<br>\r\n<br>\r\nis not the same as the original, but serves for some levels or maps",
+  "latest_version": "smwc-20065-1559186764",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20065,
+      "title": "Final Fantasy IV - Tower of Bab-il",
+      "version": "smwc-20065-1559186764",
+      "upstream_time": 1559186764,
+      "download_url": "https://dl.smwcentral.net/20065/The%20Tower%20of%20Babel.zip",
+      "filename": "The Tower of Babel.zip",
+      "size": 60435,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

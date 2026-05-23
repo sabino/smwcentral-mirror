@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-cave-raider",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7388,
+  "title": "Cave Raider",
+  "authors": [
+    "gpetry"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "Composed it to sound like a cave/volcano song. Ended up sounding like a CAVE ADVENTURE song. So, Hope you like it!",
+  "latest_version": "smwc-7388-1319880945",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7388,
+      "title": "Cave Raider",
+      "version": "smwc-7388-1319880945",
+      "upstream_time": 1319880945,
+      "download_url": "https://dl.smwcentral.net/7388/Cave%20Raider%20-%20Custom%20by%20Gpetry.zip",
+      "filename": "Cave Raider - Custom by Gpetry.zip",
+      "size": 72478,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

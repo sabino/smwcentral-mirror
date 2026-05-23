@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-one-way-scroll",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 17094,
+  "title": "One-Way Scroll",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "camera",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch disables scrolling in a specified direction (either left, right, up, or down). This can be used to create an effect similar to SMB, where the screen can only scroll right and not left.",
+  "latest_version": "smwc-17094-1518884664",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 17094,
+      "title": "One-Way Scroll",
+      "version": "smwc-17094-1518884664",
+      "upstream_time": 1518884664,
+      "download_url": "https://dl.smwcentral.net/17094/SMBScroll.zip",
+      "filename": "SMBScroll.zip",
+      "size": 525,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

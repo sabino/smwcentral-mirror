@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-hurt-kill-on-sound-effect-trigger-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41071,
+  "title": "Hurt/Kill on Sound Effect Trigger V1.1",
+  "authors": [
+    "Kevin",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "hurt",
+    "kill",
+    "lorom",
+    "sa-1",
+    "sfx",
+    "sound effect"
+  ],
+  "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: var(--user-color-2);\" class=\"un\">Golden Yoshi</a></span>.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Made this use UberASMTool 2.0's end label to make this less janky.<br>\r\n- Added 3 tables that allow you to customize which sounds hurt/kill you. By default, the pause, time running out, the Yoshi drum commands, and AddmusicK's pause/echo commands don't hurt you.<br>\r\n- Made it so this UberASM doesn't run during level end or no Yoshi intros.",
+  "latest_version": "smwc-41071-1763939200",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41071,
+      "title": "Hurt/Kill on Sound Effect Trigger V1.1",
+      "version": "smwc-41071-1763939200",
+      "upstream_time": 1763939200,
+      "download_url": "https://dl.smwcentral.net/41071/kill_on_sfx_V1_1.zip",
+      "filename": "kill_on_sfx_V1_1.zip",
+      "size": 898,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

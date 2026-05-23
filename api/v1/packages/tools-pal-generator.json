@@ -1,0 +1,32 @@
+{
+  "name": "tools-pal-generator",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 18497,
+  "title": ".pal Generator",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "command-line",
+    "generator",
+    "palette"
+  ],
+  "description": "This tool creates .pal files from screenshots of Lunar Magic's palette editor.<br>\r\nMay or may not be useful when you edit palettes in an external tool and don't want to copy each color back over manually.<br>\r\n<br>\r\nMake sure to read the readme for usage instructions and a tiny bit of further information.<br>\r\n<br>\r\n(July 8, 2018: now supports screenshots made with monitor scaling settings of 100%, 125%, 150%, 175% and 200%, and also auto-closes on drag-'n'-drop when no errors occurred)",
+  "latest_version": "smwc-18497-1542753676",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 18497,
+      "title": ".pal Generator",
+      "version": "smwc-18497-1542753676",
+      "upstream_time": 1542753676,
+      "download_url": "https://dl.smwcentral.net/18497/palGenerator_1.2.zip",
+      "filename": "palGenerator_1.2.zip",
+      "size": 809658,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

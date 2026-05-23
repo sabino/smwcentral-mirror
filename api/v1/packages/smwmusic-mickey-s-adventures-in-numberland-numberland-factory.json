@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mickey-s-adventures-in-numberland-numberland-factory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13965,
+  "title": "Mickey's Adventures in Numberland - Numberland Factory",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grassland",
+    "sky"
+  ],
+  "description": "A great song for athletic levels, but maybe not for actual factories.",
+  "latest_version": "smwc-13965-1470061789",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13965,
+      "title": "Mickey's Adventures in Numberland - Numberland Factory",
+      "version": "smwc-13965-1470061789",
+      "upstream_time": 1470061789,
+      "download_url": "https://dl.smwcentral.net/13965/Numberland%20Factory.zip",
+      "filename": "Numberland Factory.zip",
+      "size": 33087,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

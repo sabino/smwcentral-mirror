@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-yellow-unused-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20627,
+  "title": "Pokémon Yellow - Unused Theme",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "night",
+    "tense"
+  ],
+  "description": "Requested by Strikeforcer. Good for before boss rooms or ominous areas.",
+  "latest_version": "smwc-20627-1563237827",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20627,
+      "title": "Pokémon Yellow - Unused Theme",
+      "version": "smwc-20627-1563237827",
+      "upstream_time": 1563237827,
+      "download_url": "https://dl.smwcentral.net/20627/Pokemon%20Yellow%20-%20Unused%20Theme.zip",
+      "filename": "Pokemon Yellow - Unused Theme.zip",
+      "size": 30707,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

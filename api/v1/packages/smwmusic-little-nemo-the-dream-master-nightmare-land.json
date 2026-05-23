@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-little-nemo-the-dream-master-nightmare-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26852,
+  "title": "Little Nemo: The Dream Master - Nightmare Land",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "final",
+    "forest",
+    "retro",
+    "tense"
+  ],
+  "description": "Little Nemo was a fun little game for the NES. This track is lively and dynamic but tense. It would be good for late game levels.<br>\r\n<br>\r\nRequested by Darkbloom. Samples are the NES synth sample sets by musicalman from Samples of Insanity.",
+  "latest_version": "smwc-26852-1622217175",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26852,
+      "title": "Little Nemo: The Dream Master - Nightmare Land",
+      "version": "smwc-26852-1622217175",
+      "upstream_time": 1622217175,
+      "download_url": "https://dl.smwcentral.net/26852/LittleNemo-NightmareLand.zip",
+      "filename": "LittleNemo-NightmareLand.zip",
+      "size": 35330,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7278,
+      "title": "Little Nemo: The Dream Master - Nightmare Land",
+      "version": "smwc-7278-1317997387",
+      "upstream_time": 1317997387,
+      "download_url": "https://dl.smwcentral.net/7278/Little%20Nemo%20-%20The%20Dream%20Master%20-%20%27Nightmare%20Land%27.zip",
+      "filename": "Little Nemo - The Dream Master - %27Nightmare Land%27.zip",
+      "size": 67685,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

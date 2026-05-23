@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-magical-pop-n-the-final-trial",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20500,
+  "title": "Magical Pop'n - The Final Trial",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "night"
+  ],
+  "description": "Requested by OG_Phantom_. Song that The Final Trial from Magical Pop'n. Good a for castle levels.",
+  "latest_version": "smwc-20500-1562796295",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20500,
+      "title": "Magical Pop'n - The Final Trial",
+      "version": "smwc-20500-1562796295",
+      "upstream_time": 1562796295,
+      "download_url": "https://dl.smwcentral.net/20500/The%20Final%20Trial.zip",
+      "filename": "The Final Trial.zip",
+      "size": 32721,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-the-amazing-mirror-peppermint-palace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27895,
+  "title": "Kirby & The Amazing Mirror - Peppermint Palace",
+  "authors": [
+    "BeanJammin"
+  ],
+  "tags": [
+    "ice",
+    "overworld",
+    "snow"
+  ],
+  "description": "Wintery bop from the ice region in Kirby & the Amazing Mirror! Great for cheerful and snowy levels or overworlds~",
+  "latest_version": "smwc-27895-1630344022",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27895,
+      "title": "Kirby & The Amazing Mirror - Peppermint Palace",
+      "version": "smwc-27895-1630344022",
+      "upstream_time": 1630344022,
+      "download_url": "https://dl.smwcentral.net/27895/PeppermintPalace_.zip",
+      "filename": "PeppermintPalace_.zip",
+      "size": 33429,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

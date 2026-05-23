@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-super-bounce-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 22934,
+  "title": "Super Bounce Blocks",
+  "authors": [
+    "dogemaster"
+  ],
+  "tags": [
+    "bounce",
+    "lorom",
+    "on-off",
+    "sa-1"
+  ],
+  "description": "These are configurable bounce blocks that will bounce Mario and sprites UP! Unlike some other bounce blocks these will actually bounce sprites up when entering from the side.<br>\r\nAmazing features include:<br>\r\nPreserves X speed!<br>\r\nOn/Off Shenanigans!<br>\r\nSettings to not interact with sprites / Mario.<br>\r\nGFX/ExGFX files included!",
+  "latest_version": "smwc-22934-1594056311",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 22934,
+      "title": "Super Bounce Blocks",
+      "version": "smwc-22934-1594056311",
+      "upstream_time": 1594056311,
+      "download_url": "https://dl.smwcentral.net/22934/SuperBounceBlocks.zip",
+      "filename": "SuperBounceBlocks.zip",
+      "size": 3733,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

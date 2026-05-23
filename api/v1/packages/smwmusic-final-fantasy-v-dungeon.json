@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-v-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11484,
+  "title": "Final Fantasy V - Dungeon",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "fire",
+    "water"
+  ],
+  "description": "(Also known as \"Fate in Haze\", for some reason)<br>\r\n<br>\r\nA mysterious song could fit with a watery or lava cave theme.",
+  "latest_version": "smwc-11484-1436662818",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11484,
+      "title": "Final Fantasy V - Dungeon",
+      "version": "smwc-11484-1436662818",
+      "upstream_time": 1436662818,
+      "download_url": "https://dl.smwcentral.net/11484/Final%20Fantasy%20V%20-%20Fate%20in%20Haze%20%28Unsampled%29.zip",
+      "filename": "Final Fantasy V - Fate in Haze (Unsampled).zip",
+      "size": 32665,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

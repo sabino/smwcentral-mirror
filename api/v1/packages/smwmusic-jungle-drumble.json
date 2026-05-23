@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-jungle-drumble",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27060,
+  "title": "Jungle Drumble",
+  "authors": [
+    "Plasmariel",
+    "brickblock369"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "jungle",
+    "overworld",
+    "swamp"
+  ],
+  "description": "Composed by Plasmariel, ported by brickblock369.<br>\r\nGroovy shuffle tune that would work well in world maps.",
+  "latest_version": "smwc-27060-1621841423",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27060,
+      "title": "Jungle Drumble",
+      "version": "smwc-27060-1621841423",
+      "upstream_time": 1621841423,
+      "download_url": "https://dl.smwcentral.net/27060/Jungle%20Drumble.zip",
+      "filename": "Jungle Drumble.zip",
+      "size": 64047,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

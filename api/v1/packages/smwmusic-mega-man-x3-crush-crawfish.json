@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-mega-man-x3-crush-crawfish",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38301,
+  "title": "Mega Man X3 - Crush Crawfish",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "final",
+    "fire",
+    "industrial",
+    "mountain",
+    "tense",
+    "water"
+  ],
+  "description": "Crush Crawfish from Mega Man X3.",
+  "latest_version": "smwc-38301-1727364710",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38301,
+      "title": "Mega Man X3 - Crush Crawfish",
+      "version": "smwc-38301-1727364710",
+      "upstream_time": 1727364710,
+      "download_url": "https://dl.smwcentral.net/38301/Mega_Man_X3_-_Crush_Crawfish.zip",
+      "filename": "Mega_Man_X3_-_Crush_Crawfish.zip",
+      "size": 62163,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28500,
+      "title": "Mega Man X3 - Crush Crawfish",
+      "version": "smwc-28500-1635999491",
+      "upstream_time": 1635999491,
+      "download_url": "https://dl.smwcentral.net/28500/Mega%20Man%20X3%20-%20Crush%20Crawfish.zip",
+      "filename": "Mega Man X3 - Crush Crawfish.zip",
+      "size": 34957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

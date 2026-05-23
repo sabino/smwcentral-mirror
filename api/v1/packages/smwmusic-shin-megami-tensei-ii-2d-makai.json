@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-2d-makai",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38078,
+  "title": "Shin Megami Tensei II - 2D: Makai",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld",
+    "ruins",
+    "sad"
+  ],
+  "description": "One of the overworld themes from Shin Megami Tensei II",
+  "latest_version": "smwc-38078-1721925995",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38078,
+      "title": "Shin Megami Tensei II - 2D: Makai",
+      "version": "smwc-38078-1721925995",
+      "upstream_time": 1721925995,
+      "download_url": "https://dl.smwcentral.net/38078/SMT2%202D%20Makai.zip",
+      "filename": "SMT2 2D Makai.zip",
+      "size": 61467,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

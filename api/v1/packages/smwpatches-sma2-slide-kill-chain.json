@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-sma2-slide-kill-chain",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12574,
+  "title": "SMA2 Slide Kill Chain",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sliding",
+    "star"
+  ],
+  "description": "This patch fixes a bug where if Mario kills a sprite by sliding into it, it keeps giving you 200 points and playing the same \"kill enemy\" sound effect, rather than a having it be a style similar to consecutive stomps.<br>\r\nIt also fixes a bug where if the star timer runs out, the kill counter doesn't reset until the player touches an enemy and takes damage.",
+  "latest_version": "smwc-12574-1448156556",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12574,
+      "title": "SMA2 Slide Kill Chain",
+      "version": "smwc-12574-1448156556",
+      "upstream_time": 1448156556,
+      "download_url": "https://dl.smwcentral.net/12574/SlideKillChain.zip",
+      "filename": "SlideKillChain.zip",
+      "size": 1209,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-overworld-exit-smoother",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21037,
+  "title": "Overworld Exit Smoother",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "player",
+    "pose",
+    "sa-1"
+  ],
+  "description": "This patch makes Mario not instantly warp to the target position and wait for a short while when walking onto an exit tile, but instead keep walking during the entire transition.<br>\r\n<br>\r\n<b><span style=\"color: #ff0000;\">Incompatible with 2P mode!</span></b>",
+  "latest_version": "smwc-21037-1581525939",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21037,
+      "title": "Overworld Exit Smoother",
+      "version": "smwc-21037-1581525939",
+      "upstream_time": 1581525939,
+      "download_url": "https://dl.smwcentral.net/21037/owexitsmooth.zip",
+      "filename": "owexitsmooth.zip",
+      "size": 869,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

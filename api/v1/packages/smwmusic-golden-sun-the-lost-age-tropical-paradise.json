@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-golden-sun-the-lost-age-tropical-paradise",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7340,
+  "title": "Golden Sun: The Lost Age - Tropical Paradise",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "beach",
+    "submap"
+  ],
+  "description": "A good choice for a beach or island level, and even better for a submap.",
+  "latest_version": "smwc-7340-1320134206",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7340,
+      "title": "Golden Sun: The Lost Age - Tropical Paradise",
+      "version": "smwc-7340-1320134206",
+      "upstream_time": 1320134206,
+      "download_url": "https://dl.smwcentral.net/7340/GS2tropical.zip",
+      "filename": "GS2tropical.zip",
+      "size": 70234,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

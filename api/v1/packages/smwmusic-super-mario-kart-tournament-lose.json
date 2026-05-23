@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-kart-tournament-lose",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16480,
+  "title": "Super Mario Kart - Tournament Lose",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "bonus",
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "This is the music that plays when you finish the tournament in 4th place.",
+  "latest_version": "smwc-16480-1508492393",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16480,
+      "title": "Super Mario Kart - Tournament Lose",
+      "version": "smwc-16480-1508492393",
+      "upstream_time": 1508492393,
+      "download_url": "https://dl.smwcentral.net/16480/Tournament%20Lose.zip",
+      "filename": "Tournament Lose.zip",
+      "size": 31394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

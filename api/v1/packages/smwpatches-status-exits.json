@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-status-exits",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12484,
+  "title": "Status Exits",
+  "authors": [
+    "Netto Takashi"
+  ],
+  "tags": [
+    "counter",
+    "exits",
+    "lorom",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "This shows how many exits have been found in the status bar. The counter position can be changed. Contains two patches, one for 99 exits and under, and another for 100 and up. Credit to Ice Man for the original patch that only went to 9.",
+  "latest_version": "smwc-12484-1455077957",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12484,
+      "title": "Status Exits",
+      "version": "smwc-12484-1455077957",
+      "upstream_time": 1455077957,
+      "download_url": "https://dl.smwcentral.net/12484/Status%20Exits.zip",
+      "filename": "Status Exits.zip",
+      "size": 1815,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

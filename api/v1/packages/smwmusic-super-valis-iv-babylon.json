@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-valis-iv-babylon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40628,
+  "title": "Super Valis IV - Babylon",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "Music from the third level of Super Valis IV<br>\r\n<br>\r\nLike all songs from Super Valis IV, this one has an extremely high echo delay value, so the following Global Songs / SFX are not compatible:<br>\r\nBonus End, Thunder/Firework/Blargg",
+  "latest_version": "smwc-40628-1759077214",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40628,
+      "title": "Super Valis IV - Babylon",
+      "version": "smwc-40628-1759077214",
+      "upstream_time": 1759077214,
+      "download_url": "https://dl.smwcentral.net/40628/Babylon.zip",
+      "filename": "Babylon.zip",
+      "size": 52885,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

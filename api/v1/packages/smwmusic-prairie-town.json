@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-prairie-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12079,
+  "title": "Prairie Town",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "town"
+  ],
+  "description": "Original Composition. A peaceful, lighthearted rural tune. Could be used in towns, grasslands, or as map music.",
+  "latest_version": "smwc-12079-1445887935",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12079,
+      "title": "Prairie Town",
+      "version": "smwc-12079-1445887935",
+      "upstream_time": 1445887935,
+      "download_url": "https://dl.smwcentral.net/12079/PrairieTown.zip",
+      "filename": "PrairieTown.zip",
+      "size": 31408,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

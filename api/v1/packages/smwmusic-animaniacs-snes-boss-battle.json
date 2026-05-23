@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-animaniacs-snes-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27352,
+  "title": "Animaniacs (SNES) - Boss Battle",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "First boss music from SNES Animaniacs. <a href=\"https://www.smwcentral.net/?p=viewthread&t=118202\">Requested by MastaBuizness.</a>",
+  "latest_version": "smwc-27352-1625118258",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27352,
+      "title": "Animaniacs (SNES) - Boss Battle",
+      "version": "smwc-27352-1625118258",
+      "upstream_time": 1625118258,
+      "download_url": "https://dl.smwcentral.net/27352/Animaniacs%20-%20Boss%20Battle.zip",
+      "filename": "Animaniacs - Boss Battle.zip",
+      "size": 82000,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

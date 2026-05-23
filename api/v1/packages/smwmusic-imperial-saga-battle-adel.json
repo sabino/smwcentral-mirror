@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-imperial-saga-battle-adel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35725,
+  "title": "Imperial SaGa - Battle ~ Adel",
+  "authors": [
+    "doranarasi",
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "tense"
+  ],
+  "description": "The main battle theme from Imperial SaGa, arranged for SNES by doranarasi. Good for bosses and intense levels.",
+  "latest_version": "smwc-35725-1705018182",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35725,
+      "title": "Imperial SaGa - Battle ~ Adel",
+      "version": "smwc-35725-1705018182",
+      "upstream_time": 1705018182,
+      "download_url": "https://dl.smwcentral.net/35725/IS%20-%20Battle%20~%20Adel...zip",
+      "filename": "IS - Battle ~ Adel...zip",
+      "size": 68128,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35724,
+      "title": "Imperial SaGa - Battle ~ Adel",
+      "version": "smwc-35724-1705017626",
+      "upstream_time": 1705017626,
+      "download_url": "https://dl.smwcentral.net/35724/Imperial%20SaGa%20-%20Battle%20~%20Adel..zip",
+      "filename": "Imperial SaGa - Battle ~ Adel..zip",
+      "size": 74876,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

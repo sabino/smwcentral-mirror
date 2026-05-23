@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-ransom-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3907,
+  "title": "Ransom Block",
+  "authors": [
+    "randoguy101"
+  ],
+  "tags": [
+    "coins",
+    "kill",
+    "lorom"
+  ],
+  "description": "If you do not have at least a set amount of coins, you will get killed. If you do, however, you are rewarded with a set sprite.",
+  "latest_version": "smwc-3907-1425954213",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3907,
+      "title": "Ransom Block",
+      "version": "smwc-3907-1425954213",
+      "upstream_time": 1425954213,
+      "download_url": "https://dl.smwcentral.net/3907/ransom.zip",
+      "filename": "ransom.zip",
+      "size": 1501,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

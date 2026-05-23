@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-summer-hammer-time-beach-and-cave",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 31844,
+  "title": "Summer Hammer Time - Beach and Cave",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "beach",
+    "cave",
+    "patch needed"
+  ],
+  "description": "Handdrawn beach and cave tileset I originally made for my CLDC 2016 entry, named Summer Hammer Time. Contains FG, BG, Layer 3 graphics, tilemap and an ExAnimation GFX file to be used with the beach BG.<br>\r\n<br>\r\nRecommended to use Lui37's \"Move Layer 3 to subscreen fix\" patch as well, unless you want your status bar to go behind layers 1 and 2. Or use a sprite status bar.<br>\r\n<br>\r\nNope Edit: Very minor fixes to sample levels; unused palette rows were wiped out, added them back in to save users a step in inserting these. The animated tiles in the beach background were set to slots so they would change animation on the same frame.",
+  "latest_version": "smwc-31844-1660674602",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 31844,
+      "title": "Summer Hammer Time - Beach and Cave",
+      "version": "smwc-31844-1660674602",
+      "upstream_time": 1660674602,
+      "download_url": "https://dl.smwcentral.net/31844/summerhammerbeachcave.zip",
+      "filename": "summerhammerbeachcave.zip",
+      "size": 12881,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-sonic-3-knuckles-launch-base-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29006,
+  "title": "Sonic 3 & Knuckles - Launch Base Zone Act 1",
+  "authors": [
+    "Fyre150"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "industrial",
+    "ruins",
+    "town",
+    "urban"
+  ],
+  "description": "GO! G-GO! <br>\r\n<br>\r\nNote: Incompatible with Thunder SFX/Blarggs.",
+  "latest_version": "smwc-29006-1641758924",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29006,
+      "title": "Sonic 3 & Knuckles - Launch Base Zone Act 1",
+      "version": "smwc-29006-1641758924",
+      "upstream_time": 1641758924,
+      "download_url": "https://dl.smwcentral.net/29006/S3%26K%20-%20Launch%20Base%20Zone%20Act%201.zip",
+      "filename": "S3%26K - Launch Base Zone Act 1.zip",
+      "size": 103645,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23547,
+      "title": "Sonic 3 & Knuckles - Launch Base Zone Act 1",
+      "version": "smwc-23547-1594233031",
+      "upstream_time": 1594233031,
+      "download_url": "https://dl.smwcentral.net/23547/lunch%20base%201.zip",
+      "filename": "lunch base 1.zip",
+      "size": 41007,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

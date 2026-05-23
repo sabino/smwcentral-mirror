@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-super-mario-bros-smw-themed-flag-flagpole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24651,
+  "title": "Super Mario Bros & SMW Themed Flag/Flagpole",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "flag",
+    "goal point",
+    "lorom",
+    "sa-1",
+    "smb1",
+    "smw styled"
+  ],
+  "description": "This is the goal flagpole seen in the original Super Mario Bros and countless Mario games since.<br>\r\n<br>\r\nOnce Mario grabs the pole, he will slide down, and once both he and the flag reach the base, the level will end. The higher Mario grabs the pole, the more points he gets, and if he grabs the top of the pole, he gets a 1-up.<br>\r\n<br>\r\nYou can customize what reward Mario gets for grabbing the top of the flagpole, choosing between points, or a 1-up, a new powerup status, or both. You can also set the exit type for the goal flag to be the normal exit, or any one of the 3 secret exits. Both options are controlled with the extra bytes - see the asm file for details, and usage notes.<br>\r\n<br>\r\nIncludes the original SMB style flag/flagpole, and a Super Mario World themed recreation with an animated flag.<br>\r\n<br>\r\nRequires a small hijack to take care of Yoshi interaction.<br>\r\n<br>\r\nUpdate: Added a \"stop time\" option to the 1st extra byte by setting the highest bit, and added a define for the level end song that plays.",
+  "latest_version": "smwc-24651-1604808477",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24651,
+      "title": "Super Mario Bros & SMW Themed Flag/Flagpole",
+      "version": "smwc-24651-1604808477",
+      "upstream_time": 1604808477,
+      "download_url": "https://dl.smwcentral.net/24651/SMB%2BSMWFlagpole.zip",
+      "filename": "SMB+SMWFlagpole.zip",
+      "size": 26470,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

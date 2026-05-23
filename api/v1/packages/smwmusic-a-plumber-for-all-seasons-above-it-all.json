@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-a-plumber-for-all-seasons-above-it-all",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27921,
+  "title": "A Plumber For All Seasons - Above It All",
+  "authors": [
+    "Kevin",
+    "wye"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sky"
+  ],
+  "description": "Calm song fitting for sky overworlds.",
+  "latest_version": "smwc-27921-1631653620",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27921,
+      "title": "A Plumber For All Seasons - Above It All",
+      "version": "smwc-27921-1631653620",
+      "upstream_time": 1631653620,
+      "download_url": "https://dl.smwcentral.net/27921/APFAS%20-%20Above%20It%20All.zip",
+      "filename": "APFAS - Above It All.zip",
+      "size": 32262,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

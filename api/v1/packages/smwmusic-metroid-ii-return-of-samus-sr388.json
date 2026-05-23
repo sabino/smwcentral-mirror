@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-metroid-ii-return-of-samus-sr388",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16316,
+  "title": "Metroid II: Return of Samus - SR388",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "cave",
+    "fire",
+    "grassland",
+    "misc",
+    "retro"
+  ],
+  "description": "With Metroid 2 re-released on 3DS I thought I'd release this old port.<br>\r\n<br>\r\nHeroic upbeat song at the start of Metroid 2.",
+  "latest_version": "smwc-16316-1505796220",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16316,
+      "title": "Metroid II: Return of Samus - SR388",
+      "version": "smwc-16316-1505796220",
+      "upstream_time": 1505796220,
+      "download_url": "https://dl.smwcentral.net/16316/Metroid%202%20-%20SR388.zip",
+      "filename": "Metroid 2 - SR388.zip",
+      "size": 35753,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

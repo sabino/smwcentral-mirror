@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-street-fighter-ii-world-warrior-zangief-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21429,
+  "title": "Street Fighter II: World Warrior - Zangief's Theme",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "industrial",
+    "urban"
+  ],
+  "description": "An unsampled port of the music from Street Fighter II. Good for factory levels. Based on the arcade CPS-1 version (The World Warrior, Champion Edition, Turbo).",
+  "latest_version": "smwc-21429-1574560968",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21429,
+      "title": "Street Fighter II: World Warrior - Zangief's Theme",
+      "version": "smwc-21429-1574560968",
+      "upstream_time": 1574560968,
+      "download_url": "https://dl.smwcentral.net/21429/Zangief%20Theme%20CPS1%20Version%202.zip",
+      "filename": "Zangief Theme CPS1 Version 2.zip",
+      "size": 32890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

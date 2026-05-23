@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-game-boy-startup",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25274,
+  "title": "Game Boy - Startup",
+  "authors": [
+    "Masked Man"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "The classic startup sound from the Game Boy (the second handheld made by Nintendo, succeeding the Game & Watch). You will remember this as a '90s kid (or an '80s kid if you bought it during its release). Good for a \"Nintendo Presents\" screen.",
+  "latest_version": "smwc-25274-1607654652",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25274,
+      "title": "Game Boy - Startup",
+      "version": "smwc-25274-1607654652",
+      "upstream_time": 1607654652,
+      "download_url": "https://dl.smwcentral.net/25274/GameBoy_.zip",
+      "filename": "GameBoy_.zip",
+      "size": 30378,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-better-timer-passable-block-v2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 9022,
+  "title": "Better Timer Passable Block v2.0",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "passable",
+    "sa-1",
+    "solid",
+    "timer"
+  ],
+  "description": "This solid block will become passable when a specific timer (default: blue P-Switch, look in the .asm) isn't zero.<br>\r\n<br>\r\nUnlike other timer conditional solid blocks, this one will not become solid when the player is inside the block; it keeps the timer from hitting zero. This makes it impossible to die or zip quickly downwards through the floor.",
+  "latest_version": "smwc-9022-1430503339",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 9022,
+      "title": "Better Timer Passable Block v2.0",
+      "version": "smwc-9022-1430503339",
+      "upstream_time": 1430503339,
+      "download_url": "https://dl.smwcentral.net/9022/timerpass2.0.zip",
+      "filename": "timerpass2.0.zip",
+      "size": 1031,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

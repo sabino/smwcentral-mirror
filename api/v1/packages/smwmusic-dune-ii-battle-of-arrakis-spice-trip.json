@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dune-ii-battle-of-arrakis-spice-trip",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39306,
+  "title": "Dune II: Battle of Arrakis -  Spice Trip",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious",
+    "tense",
+    "title"
+  ],
+  "description": "Song from Dune II on the Genesis. Song that can be used in cutscenes or using the looped version in levels.<br>\r\nThe different versions easily be changed by setting the LOOPING variable in the MML.",
+  "latest_version": "smwc-39306-1748795999",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39306,
+      "title": "Dune II: Battle of Arrakis -  Spice Trip",
+      "version": "smwc-39306-1748795999",
+      "upstream_time": 1748795999,
+      "download_url": "https://dl.smwcentral.net/39306/spicetrip.zip",
+      "filename": "spicetrip.zip",
+      "size": 142413,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

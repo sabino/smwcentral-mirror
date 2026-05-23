@@ -1,0 +1,39 @@
+{
+  "name": "uberasm-airjump-with-jump-counter",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40919,
+  "title": "Airjump with Jump Counter",
+  "authors": [
+    "HammerBrother",
+    "RussianMan"
+  ],
+  "tags": [
+    "airjump",
+    "airspin",
+    "counter",
+    "jump",
+    "lorom",
+    "sa-1",
+    "spinjump"
+  ],
+  "description": "This is <span class=\"un-outer\" title=\"HammerBrother\"><a href=\"/?p=profile&amp;id=18802\" style=\"color: var(--user-color-1);\" class=\"un\">HammerBrother</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14759\">Airjump</a> uberASM code, but with a jump counter attached to the player that can count up to 9, or count down to 0, or just show infinity.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"1UPdudes\"><span title=\"1UPdudes donated $8.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=6549\" style=\"color: var(--user-color-2);\" class=\"un\">1UPdudes</a></span>.",
+  "latest_version": "smwc-40919-1761943914",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40919,
+      "title": "Airjump with Jump Counter",
+      "version": "smwc-40919-1761943914",
+      "upstream_time": 1761943914,
+      "download_url": "https://dl.smwcentral.net/40919/Airjumps%2BJump%20Counter_asar2.zip",
+      "filename": "Airjumps+Jump Counter_asar2.zip",
+      "size": 2977,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

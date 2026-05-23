@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-prize-koopas",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14442,
+  "title": "Prize Koopas",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "bonus",
+    "bonus game",
+    "koopa",
+    "lorom",
+    "prize",
+    "random",
+    "sa-1"
+  ],
+  "description": "This simple sprite consists in five koopa shells that hold a prize. They will hide Mario, show their prizes, then spin fastly, and end up in a random position, so the player can choose the shell of his choice and win the prize it holds.<br>\r\n<br>\r\nThese koopas only end the level in a standard bonus game (levels 0 and 100, or using <a href=\"http://www.smwcentral.net/?p=section&a=details&id=12749\">this patch</a>), so make sure that you don't enter an exitless level when you put these!<br>\r\n<br>\r\nThe prizes by default are: Nothing, 10 coins, Flower, Feather, and 1-Up. Please read the instructions if you want to change them.<br>\r\n<br>\r\nIncludes an optional palette.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-14442-1475280452",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14442,
+      "title": "Prize Koopas",
+      "version": "smwc-14442-1475280452",
+      "upstream_time": 1475280452,
+      "download_url": "https://dl.smwcentral.net/14442/Prize%20Koopas.zip",
+      "filename": "Prize Koopas.zip",
+      "size": 22651,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

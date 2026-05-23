@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-cave-water",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 32830,
+  "title": "Super Mario World - Cave Water",
+  "authors": [
+    "Picayune"
+  ],
+  "tags": [
+    "2bpp",
+    "water"
+  ],
+  "description": "A layer 3 variant of the water seen in cave levels In SMW. You can set it to act like tides or something else.<br>\r\n(Note in order to not have Mario be pushed by a current you may have to use a <a href=\"https://smwc.me/w/80\">hex edit</a>. Also note that you may have to mess around with the “Initial Y Position” values which can be found in the layer 3 settings)<br>\r\n",
+  "latest_version": "smwc-32830-1672173194",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 32830,
+      "title": "Super Mario World - Cave Water",
+      "version": "smwc-32830-1672173194",
+      "upstream_time": 1672173194,
+      "download_url": "https://dl.smwcentral.net/32830/SMW%20Cave%20Water%20L3.zip",
+      "filename": "SMW Cave Water L3.zip",
+      "size": 3679,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

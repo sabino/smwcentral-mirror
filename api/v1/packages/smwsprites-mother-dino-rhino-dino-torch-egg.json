@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-mother-dino-rhino-dino-torch-egg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42183,
+  "title": "Mother Dino Rhino + Dino Torch Egg",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "dino rhino",
+    "egg",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Dino Rhino that occasionally lays eggs with Dino Torches inside. The eggs will hatch immediately.<br>\r\n<br>\r\nIf the extra bit is set, this sprite is instead an independent Dino Torch egg. It will hatch when the player is in close proximity, like baby Yoshi eggs.<br>\r\n<br>\r\nThe .asm file features many customisation options, including changing which sprite hatches out of the egg and even which sprite the Dino Rhino becomes when stomped.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42183,
+      "title": "Mother Dino Rhino + Dino Torch Egg",
+      "version": "V1.0.1",
+      "upstream_time": 1776088092,
+      "download_url": "https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip",
+      "filename": "mother_dino_rhino_and_egg_asar2.zip",
+      "size": 7018,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

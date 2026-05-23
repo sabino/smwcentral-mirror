@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-surfing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41803,
+  "title": "Pokémon Diamond/Pearl/Platinum - Surfing",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "ambient",
+    "beach",
+    "sea",
+    "water"
+  ],
+  "description": "A horribly slow surfing and a parade of random encounters.<br>\r\nBut the incredibly nostalgic music (though you get into battles before you can even finish listening)<br>\r\n<br>\r\nCould fit well with water levels.<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b>This song will change some SFX little bit and not compatible with:<br>\r\nP-switch, Bonus end, Thunder</b></span>",
+  "latest_version": "smwc-41803-1776620431",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41803,
+      "title": "Pokémon Diamond/Pearl/Platinum - Surfing",
+      "version": "smwc-41803-1776620431",
+      "upstream_time": 1776620431,
+      "download_url": "https://dl.smwcentral.net/41803/Surfing%20%28DPPt%29.zip",
+      "filename": "Surfing (DPPt).zip",
+      "size": 174927,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

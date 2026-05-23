@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-chrono-cross-garden-of-the-gods",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24384,
+  "title": "Chrono Cross - Garden of the Gods",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "night"
+  ],
+  "description": "Song that Garden of the Gods from Chrono Cross. Could fit a cutscenes.",
+  "latest_version": "smwc-24384-1601513155",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24384,
+      "title": "Chrono Cross - Garden of the Gods",
+      "version": "smwc-24384-1601513155",
+      "upstream_time": 1601513155,
+      "download_url": "https://dl.smwcentral.net/24384/Garden%20of%20the%20Gods.zip",
+      "filename": "Garden of the Gods.zip",
+      "size": 30712,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

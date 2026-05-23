@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-marble-madness-aerial-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8476,
+  "title": "Marble Madness - Aerial (Level 3)",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "cutscene",
+    "dark"
+  ],
+  "description": "The music that plays in the third level of Marble Madness, along with only the intro of it.",
+  "latest_version": "smwc-8476-1404261093",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8476,
+      "title": "Marble Madness - Aerial (Level 3)",
+      "version": "smwc-8476-1404261093",
+      "upstream_time": 1404261093,
+      "download_url": "https://dl.smwcentral.net/8476/Marble%20Madness%20-%20Arial.zip",
+      "filename": "Marble Madness - Arial.zip",
+      "size": 124341,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

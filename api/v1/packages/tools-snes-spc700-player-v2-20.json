@@ -1,0 +1,32 @@
+{
+  "name": "tools-snes-spc700-player-v2-20",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 35673,
+  "title": "SNES SPC700 Player v2.20.1",
+  "authors": [
+    "degrade-factory"
+  ],
+  "tags": [
+    "music",
+    "player",
+    "spc"
+  ],
+  "description": "This is probably the best SPC player of them all. It has a myriad of features: speed/pitch change, channel mute, echo disable, DSP pitch/volume registers, etc.<br>\r\nUse the left and right arrow keys to toggle the data viewed during SPC playback.<br>\r\n<br>\r\nSee the Github page for the Changelog:<br>\r\n<a href=\"https://github.com/dgrfactory/spcplay/releases/\" rel=\"nofollow\">https://github.com/dgrfactory/spcplay/releases/</a>",
+  "latest_version": "smwc-35673-1708898431",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 35673,
+      "title": "SNES SPC700 Player v2.20.1",
+      "version": "smwc-35673-1708898431",
+      "upstream_time": 1708898431,
+      "download_url": "https://dl.smwcentral.net/35673/spcplay-2.20.1.8272.zip",
+      "filename": "spcplay-2.20.1.8272.zip",
+      "size": 116579,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

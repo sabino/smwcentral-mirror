@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castlevania-aria-of-sorrow-underground-reservoir",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21387,
+  "title": "Castlevania: Aria of Sorrow - Underground Reservoir",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "cave",
+    "environmental",
+    "ice",
+    "water"
+  ],
+  "description": "As the name suggests, this plays in the Underground Reservoir area in the game. It's the obligatory cave/water section of Dracula's castle!<br>\r\n<br>\r\nThis is my first attempt at a non-SNES port, but I guess it doesn't really count because the GBA is somewhat similar to the SNES hardware-wise :P<br>\r\n<br>\r\nAnyway, huge thanks to musicalman for his Samples of Insanity pack! That's where I got most of the samples I used here. And thanks to Pinci too, for helping me find a water SFX sample!<br>\r\n<br>\r\nWarning: Incompatible with Blarggs and the Thunder SFX! Also, please don't use this for level 0/100, because the Bonus End jingle won't play correctly. I figured these two samples were fine to exclude since the song doesn't quite fit a lava (Blargg), dramatic/final (Thunder) or bonus level.",
+  "latest_version": "smwc-21387-1572559669",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21387,
+      "title": "Castlevania: Aria of Sorrow - Underground Reservoir",
+      "version": "smwc-21387-1572559669",
+      "upstream_time": 1572559669,
+      "download_url": "https://dl.smwcentral.net/21387/AoSReservoir.zip",
+      "filename": "AoSReservoir.zip",
+      "size": 82851,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

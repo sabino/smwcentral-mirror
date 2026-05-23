@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-peach-world-strawberry-nebula",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25638,
+  "title": "Super Peach World - Strawberry Nebula",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "ice",
+    "space"
+  ],
+  "description": "Port of part of my song Strawberry Nebula https://soundcloud.com/jea-1/strawberry-nebula<br>\r\nUsed as an overworld theme in my hack Super Peach World. Could fit in ice or space themed areas.<br>\r\nPlease credit me if used :)",
+  "latest_version": "smwc-25638-1610577840",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25638,
+      "title": "Super Peach World - Strawberry Nebula",
+      "version": "smwc-25638-1610577840",
+      "upstream_time": 1610577840,
+      "download_url": "https://dl.smwcentral.net/25638/SPW%20-%20Strawberry%20Nebula.zip",
+      "filename": "SPW - Strawberry Nebula.zip",
+      "size": 54735,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

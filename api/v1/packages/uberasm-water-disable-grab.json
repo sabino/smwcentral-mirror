@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-water-disable-grab",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 27313,
+  "title": "Water Disable Grab",
+  "authors": [
+    "MarkAlarm"
+  ],
+  "tags": [
+    "items",
+    "lorom",
+    "sa-1",
+    "swim"
+  ],
+  "description": "The name is pretty much self explanatory, but this piece of code disables grabbing items underwater. Given how springs, p switches, and keys act solid while the player isn't grabbing them, these could be useful in blocking the player after they do certain actions. Might also be interesting in a kaizo sense, given how shells work underwater.",
+  "latest_version": "smwc-27313-1629476060",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 27313,
+      "title": "Water Disable Grab",
+      "version": "smwc-27313-1629476060",
+      "upstream_time": 1629476060,
+      "download_url": "https://dl.smwcentral.net/27313/WaterDisableGrab.zip",
+      "filename": "WaterDisableGrab.zip",
+      "size": 418,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

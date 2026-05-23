@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-display-vwf-message",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3728,
+  "title": "Display VWF Message",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "vwf dialogues"
+  ],
+  "description": "<b>This won't work unless you patch RPG Hacker's VWF Dialogues Patch!</b><br>\r\nThis sprite behaves like Super Mario World's \"Display Level Message 1\" sprite, except it will load a specific VWF message number (00-FF) by using the extra properties in Lunar Magic. Make sure you change the defines in the sprite to match addresses used by your VWF patch.",
+  "latest_version": "smwc-3728-1308058920",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3728,
+      "title": "Display VWF Message",
+      "version": "smwc-3728-1308058920",
+      "upstream_time": 1308058920,
+      "download_url": "https://dl.smwcentral.net/3728/%5BSprite%5D%20Display%20VWF%20Message.zip",
+      "filename": "%5BSprite%5D Display VWF Message.zip",
+      "size": 520,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

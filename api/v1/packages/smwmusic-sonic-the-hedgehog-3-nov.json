@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-3-nov",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33360,
+  "title": "Sonic the Hedgehog 3 (Nov. 1993 Prototype) - Knuckles",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "bonus",
+    "boss",
+    "cutscene",
+    "industrial",
+    "mysterious",
+    "overworld",
+    "tense",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "This super tense theme fits in most action-based cutscenes and levels.",
+  "latest_version": "smwc-33360-1688192172",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33360,
+      "title": "Sonic the Hedgehog 3 (Nov. 1993 Prototype) - Knuckles",
+      "version": "smwc-33360-1688192172",
+      "upstream_time": 1688192172,
+      "download_url": "https://dl.smwcentral.net/33360/Knuckles%20Theme%20%281993%20Prototype%29.zip",
+      "filename": "Knuckles Theme (1993 Prototype).zip",
+      "size": 59012,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29334,
+      "title": "Sonic the Hedgehog 3 (Nov. 1993 Prototype) - Competition Menu",
+      "version": "smwc-29334-1645724601",
+      "upstream_time": 1645724601,
+      "download_url": "https://dl.smwcentral.net/29334/compe.zip",
+      "filename": "compe.zip",
+      "size": 33877,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

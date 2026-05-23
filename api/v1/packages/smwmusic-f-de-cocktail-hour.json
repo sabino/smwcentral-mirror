@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-f-de-cocktail-hour",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33788,
+  "title": "FΛDE - Cocktail Hour",
+  "authors": [
+    "SweatyNoodle"
+  ],
+  "tags": [
+    "abstract",
+    "retro",
+    "urban"
+  ],
+  "description": "A cool Namco WSG original song by FLDE ported to SMW.<br>\r\n<br>\r\nThe original song can be found <a href=\"https://youtu.be/ucL0NTdKdb4\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-33788-1690109756",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33788,
+      "title": "FΛDE - Cocktail Hour",
+      "version": "smwc-33788-1690109756",
+      "upstream_time": 1690109756,
+      "download_url": "https://dl.smwcentral.net/33788/CocktailHour.zip",
+      "filename": "CocktailHour.zip",
+      "size": 94118,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

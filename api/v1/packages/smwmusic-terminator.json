@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-terminator",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32581,
+  "title": "Terminator 2: Judgement Day - Driving",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "chase",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "The overworld music of the game.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"DaWildGrim\"><a href=\"/?p=profile&amp;id=31130\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">DaWildGrim</a></span>.",
+  "latest_version": "smwc-32581-1675278680",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32581,
+      "title": "Terminator 2: Judgement Day - Driving",
+      "version": "smwc-32581-1675278680",
+      "upstream_time": 1675278680,
+      "download_url": "https://dl.smwcentral.net/32581/Terminator%202%20-%20Driving.zip",
+      "filename": "Terminator 2 - Driving.zip",
+      "size": 65241,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "name": "smwmusic-digimon-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32715,
+  "title": "Digimon World 2 - Core Tower",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "castle",
+    "cave",
+    "chase",
+    "dark",
+    "environmental",
+    "final",
+    "fire",
+    "industrial",
+    "mountain",
+    "mysterious",
+    "sewer",
+    "temple",
+    "water"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Alex\"><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=40776\" style=\"color: #5b2df0;\" class=\"un\">Alex</a></span><br>\r\n<br>\r\nNote: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus-End, P-Switch, Yoshi, Thunder/Firework/Blargg",
+  "latest_version": "smwc-32715-1680293766",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32715,
+      "title": "Digimon World 2 - Core Tower",
+      "version": "smwc-32715-1680293766",
+      "upstream_time": 1680293766,
+      "download_url": "https://dl.smwcentral.net/32715/Core%20Tower.zip",
+      "filename": "Core Tower.zip",
+      "size": 97705,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32530,
+      "title": "Digimon World 2 - Chaos Tower",
+      "version": "smwc-32530-1674931117",
+      "upstream_time": 1674931117,
+      "download_url": "https://dl.smwcentral.net/32530/ChaosTower.zip",
+      "filename": "ChaosTower.zip",
+      "size": 104723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28562,
+      "title": "Digimon World 3 - Sewer Ambience",
+      "version": "smwc-28562-1638064163",
+      "upstream_time": 1638064163,
+      "download_url": "https://dl.smwcentral.net/28562/Sewer%20Ambience.zip",
+      "filename": "Sewer Ambience.zip",
+      "size": 81181,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23708,
+      "title": "Digimon World 3 - Wind Prairie",
+      "version": "smwc-23708-1595702470",
+      "upstream_time": 1595702470,
+      "download_url": "https://dl.smwcentral.net/23708/Wind%20Prairie.zip",
+      "filename": "Wind Prairie.zip",
+      "size": 60391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18480,
+      "title": "Digimon World 3 - Badlands",
+      "version": "smwc-18480-1542603765",
+      "upstream_time": 1542603765,
+      "download_url": "https://dl.smwcentral.net/18480/Badlands.zip",
+      "filename": "Badlands.zip",
+      "size": 57505,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

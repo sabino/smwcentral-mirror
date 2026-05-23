@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castlevania-iii-dracula-s-curse-riddle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10387,
+  "title": "Castlevania III: Dracula's Curse - Riddle",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "night"
+  ],
+  "description": "The song that plays in the the next-to-last level in the game. Could probably fit pretty intense, fast paced and maybe also spooky areas.",
+  "latest_version": "smwc-10387-1419688293",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10387,
+      "title": "Castlevania III: Dracula's Curse - Riddle",
+      "version": "smwc-10387-1419688293",
+      "upstream_time": 1419688293,
+      "download_url": "https://dl.smwcentral.net/10387/riddle.zip",
+      "filename": "riddle.zip",
+      "size": 68519,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

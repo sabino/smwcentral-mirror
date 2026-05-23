@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-block-kuzushi-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30159,
+  "title": "Block Kuzushi - Game Over",
+  "authors": [
+    "Masked Man"
+  ],
+  "tags": [
+    "game over",
+    "miss"
+  ],
+  "description": "Time to port music from a <i>Breakout</i> clone!<br>\r\n<br>\r\nA simple game over jingle, good for misses. I even put in a define flag that allows you to add the death SFX at the beginning.<br>\r\n<br>\r\nThis one is hard to port due to the game's sound driver (programmed by OeRSTED) not being supported by vgmtrans. So I used SPCtoMML, and optimized it as soon as I could, even changing the instrument pitch data.<br>\r\n<br>\r\nThis is the sampled version.",
+  "latest_version": "smwc-30159-1656524838",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30159,
+      "title": "Block Kuzushi - Game Over",
+      "version": "smwc-30159-1656524838",
+      "upstream_time": 1656524838,
+      "download_url": "https://dl.smwcentral.net/30159/Block%20Kuzushi%20-%20Game%20Over%20%28unsampled%29.zip",
+      "filename": "Block Kuzushi - Game Over (unsampled).zip",
+      "size": 60890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30158,
+      "title": "Block Kuzushi - Game Over",
+      "version": "smwc-30158-1656524844",
+      "upstream_time": 1656524844,
+      "download_url": "https://dl.smwcentral.net/30158/Block%20Kuzushi%20-%20Game%20Over.zip",
+      "filename": "Block Kuzushi - Game Over.zip",
+      "size": 61372,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-aladdin-snes-one-step-ahead",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32539,
+  "title": "Aladdin (SNES) - One Step Ahead",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "town"
+  ],
+  "description": "An old Aladdin port of mine.<br>\r\nCould be suitable for athletic themed level.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span><br>\r\n<br>\r\nUpdate 29.01.2023: Lengths and tempo adjusted to eliminate slowdown.",
+  "latest_version": "smwc-32539-1677642127",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32539,
+      "title": "Aladdin (SNES) - One Step Ahead",
+      "version": "smwc-32539-1677642127",
+      "upstream_time": 1677642127,
+      "download_url": "https://dl.smwcentral.net/32539/OneStepAhead.zip",
+      "filename": "OneStepAhead.zip",
+      "size": 70703,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

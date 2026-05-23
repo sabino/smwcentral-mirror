@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-better-powerdown",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13800,
+  "title": "Better Powerdown",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "nsmb",
+    "powerdown",
+    "sa-1",
+    "sm3dl",
+    "sm3dw",
+    "sma2",
+    "smb3"
+  ],
+  "description": "Unlike as the other powerdown patches here around this one has got an own powerdown animation for each powerup status. You can add more animations for each powreup state too! The automatic reserve item drop is also changed a bit as you can change it to either no autodrop or only autodrop if big. Read the readme for more information.<br>\r\n<br>\r\nNow added support for the SA-1 pack. Also added an instruction how to use it with more power ups.",
+  "latest_version": "smwc-13800-1465628119",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13800,
+      "title": "Better Powerdown",
+      "version": "smwc-13800-1465628119",
+      "upstream_time": 1465628119,
+      "download_url": "https://dl.smwcentral.net/13800/Better%20Powerdown.zip",
+      "filename": "Better Powerdown.zip",
+      "size": 3952,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-gauntlet-nes-title-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16415,
+  "title": "Gauntlet (NES) - Title Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "title"
+  ],
+  "description": "A good friendly castle theme.",
+  "latest_version": "smwc-16415-1507533931",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16415,
+      "title": "Gauntlet (NES) - Title Theme",
+      "version": "smwc-16415-1507533931",
+      "upstream_time": 1507533931,
+      "download_url": "https://dl.smwcentral.net/16415/Gauntlet%20%28NES%29%20-%20Title%20Theme.zip",
+      "filename": "Gauntlet (NES) - Title Theme.zip",
+      "size": 63597,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

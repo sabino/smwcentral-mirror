@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-kill-player-on-sprite-contact",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 32232,
+  "title": "Kill Player on Sprite Contact",
+  "authors": [
+    "zynnoir"
+  ],
+  "tags": [
+    "kill",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "A block that kills the player when a sprite touches it. This block will work with Yoshi if idle or running, but not if being ridden. Sprites that do not interact with objects, such as bullet bills, will not trigger death. Carry-able sprites will trigger death even if being held.",
+  "latest_version": "smwc-32232-1664740294",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 32232,
+      "title": "Kill Player on Sprite Contact",
+      "version": "smwc-32232-1664740294",
+      "upstream_time": 1664740294,
+      "download_url": "https://dl.smwcentral.net/32232/kill.zip",
+      "filename": "kill.zip",
+      "size": 328,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

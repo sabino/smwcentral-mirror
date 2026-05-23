@@ -1,0 +1,93 @@
+{
+  "name": "smwmusic-mario-paint-flyswatter-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27857,
+  "title": "Mario Paint - Flyswatter ~ Level 3",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "boss",
+    "chase",
+    "cutscene",
+    "tense"
+  ],
+  "description": "Flyswatter round 3 music. <br>\r\n<br>\r\nUPDATE: Completely redid the port with NintSPC because silly me didn't know how to use it at the time.",
+  "latest_version": "smwc-27857-1629748495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27857,
+      "title": "Mario Paint - Flyswatter ~ Level 3",
+      "version": "smwc-27857-1629748495",
+      "upstream_time": 1629748495,
+      "download_url": "https://dl.smwcentral.net/27857/Flyswatter%20Round%203.zip",
+      "filename": "Flyswatter Round 3.zip",
+      "size": 35087,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26802,
+      "title": "Mario Paint - Flyswatter ~ Level 1",
+      "version": "smwc-26802-1621267371",
+      "upstream_time": 1621267371,
+      "download_url": "https://dl.smwcentral.net/26802/15%20Flyswatter%20~%20Level%201%20%5BU%5D.zip",
+      "filename": "15 Flyswatter ~ Level 1 %5BU%5D.zip",
+      "size": 33487,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26801,
+      "title": "Mario Paint - Flyswatter ~ Level 1",
+      "version": "smwc-26801-1621267373",
+      "upstream_time": 1621267373,
+      "download_url": "https://dl.smwcentral.net/26801/15%20Flyswatter%20~%20Level%201.zip",
+      "filename": "15 Flyswatter ~ Level 1.zip",
+      "size": 36370,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26800,
+      "title": "Mario Paint - Flyswatter ~ Level 2",
+      "version": "smwc-26800-1621266350",
+      "upstream_time": 1621266350,
+      "download_url": "https://dl.smwcentral.net/26800/16%20Flyswatter%20~%20Level%202%20%5BU%5D.zip",
+      "filename": "16 Flyswatter ~ Level 2 %5BU%5D.zip",
+      "size": 32521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26799,
+      "title": "Mario Paint - Flyswatter ~ Level 2",
+      "version": "smwc-26799-1621266352",
+      "upstream_time": 1621266352,
+      "download_url": "https://dl.smwcentral.net/26799/16%20Flyswatter%20~%20Level%202.zip",
+      "filename": "16 Flyswatter ~ Level 2.zip",
+      "size": 35299,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

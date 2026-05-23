@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-spring-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29458,
+  "title": "New Super Mario Classic - Spring Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "forest",
+    "overworld"
+  ],
+  "description": "Could fit on spring season submaps or overworld areas. This music was played on World 5 (Spring Parkway) from My Overworld Contest 2021 Entry.",
+  "latest_version": "smwc-29458-1643605788",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29458,
+      "title": "New Super Mario Classic - Spring Submap",
+      "version": "smwc-29458-1643605788",
+      "upstream_time": 1643605788,
+      "download_url": "https://dl.smwcentral.net/29458/NSMC%20Spring%20Submap.zip",
+      "filename": "NSMC Spring Submap.zip",
+      "size": 33129,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

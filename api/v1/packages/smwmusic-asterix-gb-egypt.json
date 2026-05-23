@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-asterix-gb-egypt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21579,
+  "title": "Asterix (GB) - Egypt",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "town"
+  ],
+  "description": "fits well in deserts or mountains",
+  "latest_version": "smwc-21579-1576379593",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21579,
+      "title": "Asterix (GB) - Egypt",
+      "version": "smwc-21579-1576379593",
+      "upstream_time": 1576379593,
+      "download_url": "https://dl.smwcentral.net/21579/asterix%20-%20Egypt.zip",
+      "filename": "asterix - Egypt.zip",
+      "size": 22065,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8297,
+      "title": "Asterix (GB) - Egypt",
+      "version": "smwc-8297-1346475379",
+      "upstream_time": 1346475379,
+      "download_url": "https://dl.smwcentral.net/8297/Asterix%20-%20Egypt.zip",
+      "filename": "Asterix - Egypt.zip",
+      "size": 67139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-treasure-conflix-title",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22959,
+  "title": "Treasure Conflix - Title",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "sky",
+    "space",
+    "title"
+  ],
+  "description": "The title screen theme from Treasure Conflix. This was requested by Deeke.<br>\r\n<br>\r\nPlease note that if you want to use this in a level and don't want three channels to permanently disappear when you pause the game, you can either patch <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22960\">this</a> to your ROM or open the .txt file of the port and delete every instance of $F4 $01!",
+  "latest_version": "smwc-22959-1590259639",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22959,
+      "title": "Treasure Conflix - Title",
+      "version": "smwc-22959-1590259639",
+      "upstream_time": 1590259639,
+      "download_url": "https://dl.smwcentral.net/22959/ConflixTitle.zip",
+      "filename": "ConflixTitle.zip",
+      "size": 78187,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22843,
+      "title": "Treasure Conflix - Title",
+      "version": "smwc-22843-1589344271",
+      "upstream_time": 1589344271,
+      "download_url": "https://dl.smwcentral.net/22843/Title.zip",
+      "filename": "Title.zip",
+      "size": 32060,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

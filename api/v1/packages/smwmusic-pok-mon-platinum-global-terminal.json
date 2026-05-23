@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-pok-mon-platinum-global-terminal",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39596,
+  "title": "Pokémon Platinum - Global Terminal",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "abstract",
+    "retro",
+    "sky",
+    "space",
+    "upbeat"
+  ],
+  "description": "An iconic song from Pokémon Platinum.<br>\r\n<br>\r\nFor this one, I used longer echo delay for more <b>SPACE</b> feeling.",
+  "latest_version": "smwc-39596-1744427492",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39596,
+      "title": "Pokémon Platinum - Global Terminal",
+      "version": "smwc-39596-1744427492",
+      "upstream_time": 1744427492,
+      "download_url": "https://dl.smwcentral.net/39596/Global%20Terminal.zip",
+      "filename": "Global Terminal.zip",
+      "size": 87902,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38680,
+      "title": "Pokémon Platinum - Global Terminal",
+      "version": "smwc-38680-1730060441",
+      "upstream_time": 1730060441,
+      "download_url": "https://dl.smwcentral.net/38680/Global%20Terminal.zip",
+      "filename": "Global Terminal.zip",
+      "size": 37183,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

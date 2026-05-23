@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-parachute-spiny",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32255,
+  "title": "Parachute Spiny",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "spiny",
+    "spiny egg"
+  ],
+  "description": "This is a spiny that uses a parachute to descend.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"SmashNcrab\"><a href=\"/?p=profile&amp;id=50633\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">SmashNcrab</a></span>.",
+  "latest_version": "smwc-32255-1664739413",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32255,
+      "title": "Parachute Spiny",
+      "version": "smwc-32255-1664739413",
+      "upstream_time": 1664739413,
+      "download_url": "https://dl.smwcentral.net/32255/ParachuteSpiny.zip",
+      "filename": "ParachuteSpiny.zip",
+      "size": 5288,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

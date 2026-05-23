@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-multiple-star-songs",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 23967,
+  "title": "Multiple Star Songs",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "music",
+    "sa-1",
+    "star"
+  ],
+  "description": "Allows you to choose a different star song every each submap when you get a star. The songs are configurable in the .asm file.<br>\r\n<br>\r\nUpdate: Added SA-1 and asar support.",
+  "latest_version": "smwc-23967-1595591995",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 23967,
+      "title": "Multiple Star Songs",
+      "version": "smwc-23967-1595591995",
+      "upstream_time": 1595591995,
+      "download_url": "https://dl.smwcentral.net/23967/MultipleStarSongs.zip",
+      "filename": "MultipleStarSongs.zip",
+      "size": 524,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

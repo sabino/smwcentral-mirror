@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-note-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 35881,
+  "title": "Note Blocks",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "note block",
+    "sa-1",
+    "sprite needed"
+  ],
+  "description": "A near identical replica of SMW's note blocks. Can be set up to be bounced on the sides but can't be used to spawn an item. Included with it is a variation which shatters either on use or at least when bounced on (requested by <span class=\"un-outer\" title=\"SJandCharlieTheCat\"><a href=\"/?p=profile&amp;id=39397\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">SJandCharlieTheCat</a></span>).",
+  "latest_version": "v1.0.1",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 35881,
+      "title": "Note Blocks",
+      "version": "v1.0.1",
+      "upstream_time": 1732030658,
+      "download_url": "https://dl.smwcentral.net/35881/Note%20Blocks.zip",
+      "filename": "Note Blocks.zip",
+      "size": 8544,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

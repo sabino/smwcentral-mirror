@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-spelunky-yeti-caves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22851,
+  "title": "Spelunky - Yeti Caves",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave",
+    "ice"
+  ],
+  "description": "More Spelunky ports!<br>\r\n<br>\r\nUpdate 5/2/2020: The tuning of the alto sax was slightly off and it's been annoying me, so I've finally decided to fix it.",
+  "latest_version": "smwc-22851-1588542781",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22851,
+      "title": "Spelunky - Yeti Caves",
+      "version": "smwc-22851-1588542781",
+      "upstream_time": 1588542781,
+      "download_url": "https://dl.smwcentral.net/22851/Spelunky%20-%20Yeti%20Caves.zip",
+      "filename": "Spelunky - Yeti Caves.zip",
+      "size": 64692,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

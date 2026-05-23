@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-nintendo-presents-rupee-sfx",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35356,
+  "title": "The Legend of Zelda: A Link to the Past - Nintendo Presents (Rupee SFX)",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "The Rupee soundeffect from A Link to the Past that's also played in the Nintendo Presents screen.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RichardDS90\"><a href=\"/?p=profile&amp;id=48619\" style=\"color: var(--user-color-1);\" class=\"un\">RichardDS90</a></span>",
+  "latest_version": "smwc-35356-1698417461",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35356,
+      "title": "The Legend of Zelda: A Link to the Past - Nintendo Presents (Rupee SFX)",
+      "version": "smwc-35356-1698417461",
+      "upstream_time": 1698417461,
+      "download_url": "https://dl.smwcentral.net/35356/Rupee.zip",
+      "filename": "Rupee.zip",
+      "size": 30495,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

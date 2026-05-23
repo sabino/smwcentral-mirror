@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-paragoomba-flies-in-a-range",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18932,
+  "title": "Paragoomba, flies in a range",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Goomba which follows a flight pattern similar to that of the red parakoopas. The extra bit determines which.",
+  "latest_version": "smwc-18932-1547338151",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18932,
+      "title": "Paragoomba, flies in a range",
+      "version": "smwc-18932-1547338151",
+      "upstream_time": 1547338151,
+      "download_url": "https://dl.smwcentral.net/18932/Parakoopa-like%20Goomba.zip",
+      "filename": "Parakoopa-like Goomba.zip",
+      "size": 1628,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-epic-pinball-crash-and-burn",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20574,
+  "title": "Epic Pinball - Crash and Burn",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "final",
+    "tense"
+  ],
+  "description": "Omits @21 and @7.<br>\r\nThe tense music that plays on the Crash and Burn table in Epic Pinball for the MS-DOS. Could be used for a tense level or a final level of some sort.",
+  "latest_version": "smwc-20574-1562899673",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20574,
+      "title": "Epic Pinball - Crash and Burn",
+      "version": "smwc-20574-1562899673",
+      "upstream_time": 1562899673,
+      "download_url": "https://dl.smwcentral.net/20574/Epic%20Pinball%20-%20Crash%20and%20Burn.zip",
+      "filename": "Epic Pinball - Crash and Burn.zip",
+      "size": 102208,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

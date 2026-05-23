@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-rotating-timed-lift",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32359,
+  "title": "Rotating Timed Lift",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "rotating",
+    "rotating platform",
+    "sa-1",
+    "timed lift"
+  ],
+  "description": "A fusion between Grey platform on a chain (sprite A3) and Timed lift (sprite BA), this platform will rotate until its timer runs out and it'll fall offscreen.<br>\r\n<br>\r\nOriginally made for Mad Scientist ASM Contest 2022.",
+  "latest_version": "smwc-32359-1677623738",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32359,
+      "title": "Rotating Timed Lift",
+      "version": "smwc-32359-1677623738",
+      "upstream_time": 1677623738,
+      "download_url": "https://dl.smwcentral.net/32359/Rotating%20Timed%20Lift.zip",
+      "filename": "Rotating Timed Lift.zip",
+      "size": 8976,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

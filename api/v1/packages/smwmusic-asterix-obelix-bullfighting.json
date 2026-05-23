@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-asterix-obelix-bullfighting",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34756,
+  "title": "Asterix & Obelix - Bullfighting",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nA boss theme.",
+  "latest_version": "smwc-34756-1691404828",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34756,
+      "title": "Asterix & Obelix - Bullfighting",
+      "version": "smwc-34756-1691404828",
+      "upstream_time": 1691404828,
+      "download_url": "https://dl.smwcentral.net/34756/Asterix%20and%20Obelix%20-%2024%20Bullfighting.zip",
+      "filename": "Asterix and Obelix - 24 Bullfighting.zip",
+      "size": 83907,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

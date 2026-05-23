@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-pac-man-game-start",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39242,
+  "title": "Pac-Man - Game Start",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "The famous music that plays when you start Pac-Man.<br>\r\n<br>\r\n#define TUNING 1 will play the arcade tuning.<br>\r\n#define TUNING 0 (or any other number) will play the standard tuning.",
+  "latest_version": "smwc-39242-1740513293",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39242,
+      "title": "Pac-Man - Game Start",
+      "version": "smwc-39242-1740513293",
+      "upstream_time": 1740513293,
+      "download_url": "https://dl.smwcentral.net/39242/Pac-Man%20-%20Game%20Start%20%28Sampled%29..zip",
+      "filename": "Pac-Man - Game Start (Sampled)..zip",
+      "size": 62568,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39241,
+      "title": "Pac-Man - Game Start",
+      "version": "smwc-39241-1740513252",
+      "upstream_time": 1740513252,
+      "download_url": "https://dl.smwcentral.net/39241/Pac-Man%20-%20Game%20Start..zip",
+      "filename": "Pac-Man - Game Start..zip",
+      "size": 61139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-robot-taisen-original-generation",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20370,
+  "title": "Super Robot Taisen: Original Generation 2 - Final Mission",
+  "authors": [
+    "Ayami"
+  ],
+  "tags": [
+    "needs remoderation",
+    "space"
+  ],
+  "description": "The map of the final mission in Super Robot Taisen: Original Generation 2 (GBA), re-arranged as a background.<br>\r\n<br>\r\nThis is a HUGE background; it uses FG1, FG2, BG1, BG2 and BG3, only leaving FG3 free, <b>but only some FG1 animations are compatible</b> (see last screenshot), which needed to be set manually (of course they're already included in the sample level). It also uses almost 3 full Map16 pages.",
+  "latest_version": "smwc-20370-1563081576",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20370,
+      "title": "Super Robot Taisen: Original Generation 2 - Final Mission",
+      "version": "smwc-20370-1563081576",
+      "upstream_time": 1563081576,
+      "download_url": "https://dl.smwcentral.net/20370/SRT%20OG2%20Final%20Mission.zip",
+      "filename": "SRT OG2 Final Mission.zip",
+      "size": 20194,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-one-time-flower",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41073,
+  "title": "One Time Flower",
+  "authors": [
+    "4thDragon"
+  ],
+  "tags": [
+    "customizable",
+    "flower",
+    "level asm",
+    "lorom",
+    "powerdown",
+    "powerup",
+    "sa-1"
+  ],
+  "description": "An UberASM that allows you to shoot only once when you have a fire flower and makes Mario small again. It's a little customizable.",
+  "latest_version": "smwc-41073-1763747009",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41073,
+      "title": "One Time Flower",
+      "version": "smwc-41073-1763747009",
+      "upstream_time": 1763747009,
+      "download_url": "https://dl.smwcentral.net/41073/onetimeflower.zip",
+      "filename": "onetimeflower.zip",
+      "size": 839,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

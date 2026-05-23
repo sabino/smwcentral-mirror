@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-super-mario",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3838,
+  "title": "Super Mario 64 Lava",
+  "authors": [
+    "Caracc"
+  ],
+  "tags": [
+    "hurt mario",
+    "lava",
+    "lorom",
+    "sm64"
+  ],
+  "description": "My first custom block. Stick it under your normal lava surface. The player will take damage and bounce high into the air. If already small, he'll die. Kills sprites on contact too.",
+  "latest_version": "smwc-3838-1409410048",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3838,
+      "title": "Super Mario 64 Lava",
+      "version": "smwc-3838-1409410048",
+      "upstream_time": 1409410048,
+      "download_url": "https://dl.smwcentral.net/3838/sm64lava.zip",
+      "filename": "sm64lava.zip",
+      "size": 574,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

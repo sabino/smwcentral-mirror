@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-trading-card-game-hall-of-honor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20461,
+  "title": "Pokémon Trading Card Game - Hall of Honor",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "retro",
+    "title"
+  ],
+  "description": "Moral of the story: Porting in 7/8 time is jank",
+  "latest_version": "smwc-20461-1562634371",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20461,
+      "title": "Pokémon Trading Card Game - Hall of Honor",
+      "version": "smwc-20461-1562634371",
+      "upstream_time": 1562634371,
+      "download_url": "https://dl.smwcentral.net/20461/Pokemon%20Trading%20Card%20Game%20-%20Hall%20of%20Honor.zip",
+      "filename": "Pokemon Trading Card Game - Hall of Honor.zip",
+      "size": 30771,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

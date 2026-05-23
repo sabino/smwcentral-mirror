@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mario-kart-ds-snes-koopa-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33626,
+  "title": "Mario Kart DS - SNES Koopa Beach 2 (Alternate Mix)",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "forest",
+    "grassland",
+    "sky"
+  ],
+  "description": "The upbeat piece which plays in Super Mario Kart's Koopa Beach courses.<br>\r\n<br>\r\nThis is an alternate mix which takes some inspiration from the remix in Mario Kart DS.",
+  "latest_version": "smwc-33626-1685555147",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33626,
+      "title": "Mario Kart DS - SNES Koopa Beach 2 (Alternate Mix)",
+      "version": "smwc-33626-1685555147",
+      "upstream_time": 1685555147,
+      "download_url": "https://dl.smwcentral.net/33626/sneskoopabeach2.zip",
+      "filename": "sneskoopabeach2.zip",
+      "size": 32147,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23113,
+      "title": "Mario Kart DS - SNES Koopa Beach 2",
+      "version": "smwc-23113-1590962463",
+      "upstream_time": 1590962463,
+      "download_url": "https://dl.smwcentral.net/23113/koopabeach2.zip",
+      "filename": "koopabeach2.zip",
+      "size": 67603,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

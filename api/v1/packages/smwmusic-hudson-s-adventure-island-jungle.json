@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-jungle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39369,
+  "title": "Hudson's Adventure Island - Jungle",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "grassland",
+    "mountain",
+    "retro"
+  ],
+  "description": "Jungle from Hudson's Adventure Island.",
+  "latest_version": "smwc-39369-1741193149",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39369,
+      "title": "Hudson's Adventure Island - Jungle",
+      "version": "smwc-39369-1741193149",
+      "upstream_time": 1741193149,
+      "download_url": "https://dl.smwcentral.net/39369/Hudson%27s%20Adventure%20Island%20-%20Jungle.zip",
+      "filename": "Hudson%27s Adventure Island - Jungle.zip",
+      "size": 44261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

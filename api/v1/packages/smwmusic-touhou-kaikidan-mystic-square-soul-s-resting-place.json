@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-soul-s-resting-place",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30867,
+  "title": "Touhou Kaikidan ~ Mystic Square - Soul's Resting Place",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "credits",
+    "cutscene"
+  ],
+  "description": "魂の安らむ所<br>\r\nName registration theme from Touhou Kaikidan.<br>\r\nUsed 8 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-30867-1652118514",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30867,
+      "title": "Touhou Kaikidan ~ Mystic Square - Soul's Resting Place",
+      "version": "smwc-30867-1652118514",
+      "upstream_time": 1652118514,
+      "download_url": "https://dl.smwcentral.net/30867/th5_23.zip",
+      "filename": "th5_23.zip",
+      "size": 30841,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

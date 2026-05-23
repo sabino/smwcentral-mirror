@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-mystery-dungeon-red-blue-rescue-team-mt-blaze-peak",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20955,
+  "title": "Pokémon Mystery Dungeon: Red/Blue Rescue Team - Mt. Blaze Peak",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "desert",
+    "fire",
+    "mountain",
+    "overworld",
+    "ruins",
+    "temple"
+  ],
+  "description": "Multi-purpose, mellow, somber song.<br>\r\n<br>\r\nDoes NOT include:<br>\r\n - 13 SMW Thunder.brr<br>\r\n<br>\r\nNear-1:1 accuracy.",
+  "latest_version": "smwc-20955-1566841663",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20955,
+      "title": "Pokémon Mystery Dungeon: Red/Blue Rescue Team - Mt. Blaze Peak",
+      "version": "smwc-20955-1566841663",
+      "upstream_time": 1566841663,
+      "download_url": "https://dl.smwcentral.net/20955/Mt.%20Blaze%20Peak.zip",
+      "filename": "Mt. Blaze Peak.zip",
+      "size": 89368,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

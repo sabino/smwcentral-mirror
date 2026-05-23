@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-double-jump",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39402,
+  "title": "Double Jump",
+  "authors": [
+    "Epharia"
+  ],
+  "tags": [
+    "abilities",
+    "jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This will give Mario the ability to perform and store multiple midair jumps.<br>\r\n<br>\r\nThis ASM is customizable:<br>\r\n-When On Ground<br>\r\n\t+Clear stored jumps<br>\r\n\t+Set to one extra jump<br>\r\n\t+Keep stored jumps<br>\r\n\t<br>\r\n-Gain an extra jump by collectiong a custom coin<br>\r\n-Set the max amount of jumps mario can store<br>\r\n-Allow spin jumping when holding an item<br>\r\n-Custom jump heights (spin and normal)",
+  "latest_version": "smwc-39402-1740406585",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39402,
+      "title": "Double Jump",
+      "version": "smwc-39402-1740406585",
+      "upstream_time": 1740406585,
+      "download_url": "https://dl.smwcentral.net/39402/double_jump.zip",
+      "filename": "double_jump.zip",
+      "size": 2367,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

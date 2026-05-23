@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-aladdin-snes-the-cave-of-wonders",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28553,
+  "title": "Aladdin (SNES) - The Cave of Wonders",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "mysterious",
+    "water"
+  ],
+  "description": "A mysterous song played during the first part of the cave of wonders level.",
+  "latest_version": "smwc-28553-1638063889",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28553,
+      "title": "Aladdin (SNES) - The Cave of Wonders",
+      "version": "smwc-28553-1638063889",
+      "upstream_time": 1638063889,
+      "download_url": "https://dl.smwcentral.net/28553/CaveOfWonders.zip",
+      "filename": "CaveOfWonders.zip",
+      "size": 53837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

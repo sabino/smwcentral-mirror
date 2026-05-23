@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-player-animated-tiles-exgfx-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41924,
+  "title": "Player + Animated Tiles ExGFX v1.2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "exgfx",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This UberASM allows you to insert different ExGFX files for GFX32 and 33 (player and animations GFX) on a sublevel, submap and cutscene basis. It's similar to the patch by Roy, but with a few key differences explained in the README. Mainly, it doesn't have issues on SA-1 (that I know of), and it should have faster loading times in some cases. Additionally you can also change GFX manually with code, if you want to go more advanced. Anyway, make sure to check the README for insertion instructions and whatnot.<br>\r\n<br>\r\nv1.1:<br>\r\n- fixed GFX not changing when using a pipe/star warp on the Overworld<br>\r\n- now you can change the GFX on the title screen (using levels C7/1C7)<br>\r\n<br>\r\nv1.2:<br>\r\n- made compatible with UberASM Tool 2.0+",
+  "latest_version": "smwc-41924-1773698516",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41924,
+      "title": "Player + Animated Tiles ExGFX v1.2",
+      "version": "smwc-41924-1773698516",
+      "upstream_time": 1773698516,
+      "download_url": "https://dl.smwcentral.net/41924/mario_exgfx_uberasm.zip",
+      "filename": "mario_exgfx_uberasm.zip",
+      "size": 4423,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

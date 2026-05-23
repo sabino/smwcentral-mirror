@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-sideways-wooden-spike",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31138,
+  "title": "Sideways Wooden Spike",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "spike",
+    "wooden spike"
+  ],
+  "description": "This is a castle wooden spike, but it's sideways, meaning it goes left and right.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>.",
+  "latest_version": "smwc-31138-1656277084",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31138,
+      "title": "Sideways Wooden Spike",
+      "version": "smwc-31138-1656277084",
+      "upstream_time": 1656277084,
+      "download_url": "https://dl.smwcentral.net/31138/SidewayWoodSpike.zip",
+      "filename": "SidewayWoodSpike.zip",
+      "size": 5432,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

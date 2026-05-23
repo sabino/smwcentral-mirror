@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-the-goddess-appears",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39769,
+  "title": "The Legend of Zelda: A Link to the Past - The Goddess Appears",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "cutscene",
+    "overworld",
+    "sky",
+    "title"
+  ],
+  "description": "The beautiful and serene song from ALttP. Fitting for overworlds, title screens, bonus areas and more.",
+  "latest_version": "smwc-39769-1748608402",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39769,
+      "title": "The Legend of Zelda: A Link to the Past - The Goddess Appears",
+      "version": "smwc-39769-1748608402",
+      "upstream_time": 1748608402,
+      "download_url": "https://dl.smwcentral.net/39769/The%20Goddess%20Appears.zip",
+      "filename": "The Goddess Appears.zip",
+      "size": 62618,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15208,
+      "title": "The Legend of Zelda: A Link to the Past - The Goddess Appears",
+      "version": "smwc-15208-1487436814",
+      "upstream_time": 1487436814,
+      "download_url": "https://dl.smwcentral.net/15208/tloz_lttp_tga.zip",
+      "filename": "tloz_lttp_tga.zip",
+      "size": 32630,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10701,
+      "title": "The Legend of Zelda: A Link to the Past - The Goddess Appears",
+      "version": "smwc-10701-1422497981",
+      "upstream_time": 1422497981,
+      "download_url": "https://dl.smwcentral.net/10701/Fairy%20Fountain.zip",
+      "filename": "Fairy Fountain.zip",
+      "size": 31465,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

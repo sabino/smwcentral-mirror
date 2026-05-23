@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-daytona-usa-the-king-of-speed",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21236,
+  "title": "Daytona USA - The King of Speed",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "grassland",
+    "sky",
+    "tense",
+    "yoshi drums"
+  ],
+  "description": "This is King of Speed, the theme that plays when you're racing at the beginner course in Daytona USA, but mostly known because of ROOOOOOOOOOLLLLLLINGGGG STAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAART... because memes I guess. lmao (god bless Takenobu Mitsuyoshi and his singing btw, definitely one of the finest treasures the world has to offer haha)<br>\r\n<br>\r\nAnyway, this is pretty fitting for athletic levels, and for this port I also added proper Yoshi bongo support, so it's actually even more fitting for these types of levels since Yoshi are a very frequent appearance in those I guess; honestly tho I'd say this should be just about fitting for every situation Yoshi may be needed, so in that case, go nuts :V<br>\r\n<br>\r\n(if you want to turn the Yoshi bongo command off, just go into the text, find the $F4 $00, remove it, and then reinsert the song into your ROM; it should work just fine I'd say, if not tho then I dunno what else to say, sorry)",
+  "latest_version": "smwc-21236-1570301292",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21236,
+      "title": "Daytona USA - The King of Speed",
+      "version": "smwc-21236-1570301292",
+      "upstream_time": 1570301292,
+      "download_url": "https://dl.smwcentral.net/21236/King%20of%20Speed.zip",
+      "filename": "King of Speed.zip",
+      "size": 66984,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

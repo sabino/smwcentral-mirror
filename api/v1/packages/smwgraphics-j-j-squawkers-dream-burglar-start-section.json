@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-j-j-squawkers-dream-burglar-start-section",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 40118,
+  "title": "J.J. Squawkers - Dream Burglar (Start Section)",
+  "authors": [
+    "Bonobi"
+  ],
+  "tags": [
+    "abstract",
+    "city",
+    "patch needed"
+  ],
+  "description": "A slighty modified version of the background seen in the start of the second level of the arcade game J.J. Squawkers. although it's big in size, the background doesn't use too much tiles, leaving a great part of BG3 intact. It also comes with alternative colors of hard mode.<br>\r\nWARNING: if you plan to use the layer 3 hdma that comes with it, I recommend using a sprite status bar or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">something that hides it</a>. ",
+  "latest_version": "smwc-40118-1752770099",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 40118,
+      "title": "J.J. Squawkers - Dream Burglar (Start Section)",
+      "version": "smwc-40118-1752770099",
+      "upstream_time": 1752770099,
+      "download_url": "https://dl.smwcentral.net/40118/JJSDreamBurglarCity.zip",
+      "filename": "JJSDreamBurglarCity.zip",
+      "size": 12783,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

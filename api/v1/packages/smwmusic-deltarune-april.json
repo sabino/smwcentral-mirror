@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-deltarune-april",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24355,
+  "title": "Deltarune - April 2012",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "bonus",
+    "cutscene",
+    "dark",
+    "overworld"
+  ],
+  "description": "The haunting little song that plays in certain rooms of the Card Castle.<br>\r\nMay be used for small musical interludes like overworlds, cutscenes or maybe bonus rooms.",
+  "latest_version": "smwc-24355-1603415637",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24355,
+      "title": "Deltarune - April 2012",
+      "version": "smwc-24355-1603415637",
+      "upstream_time": 1603415637,
+      "download_url": "https://dl.smwcentral.net/24355/drapril12_0_2.zip",
+      "filename": "drapril12_0_2.zip",
+      "size": 43996,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

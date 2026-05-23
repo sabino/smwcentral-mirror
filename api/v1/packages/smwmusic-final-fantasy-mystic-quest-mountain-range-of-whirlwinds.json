@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-final-fantasy-mystic-quest-mountain-range-of-whirlwinds",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20889,
+  "title": "Final Fantasy: Mystic Quest - Mountain Range of Whirlwinds",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "mountain"
+  ],
+  "description": "It could fit in a mountain level.",
+  "latest_version": "smwc-20889-1565548071",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20889,
+      "title": "Final Fantasy: Mystic Quest - Mountain Range of Whirlwinds",
+      "version": "smwc-20889-1565548071",
+      "upstream_time": 1565548071,
+      "download_url": "https://dl.smwcentral.net/20889/Mountain%20Range%20of%20Whirlwinds.zip",
+      "filename": "Mountain Range of Whirlwinds.zip",
+      "size": 75565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20828,
+      "title": "Final Fantasy: Mystic Quest - Mountain Range of Whirlwinds",
+      "version": "smwc-20828-1565407141",
+      "upstream_time": 1565407141,
+      "download_url": "https://dl.smwcentral.net/20828/Whirlwinds.zip",
+      "filename": "Whirlwinds.zip",
+      "size": 31803,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

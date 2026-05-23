@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-4-episode-ii-death-egg-mk-ii-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23349,
+  "title": "Sonic the Hedgehog 4: Episode II - Death Egg mk.II Zone Act 1",
+  "authors": [
+    "MANGOMILK",
+    "Sayuri"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "industrial",
+    "space"
+  ],
+  "description": "An energetic, fast theme that could fit with a boss rush or a short final level.<br>\r\n<br>\r\nMANGOM1LK update (14 June 2020) - Changed instruments for the bass and extra lead, slightly increased the tempo, and moved a couple channels around (so different sections get cut off by sound effects).",
+  "latest_version": "smwc-23349-1592856144",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23349,
+      "title": "Sonic the Hedgehog 4: Episode II - Death Egg mk.II Zone Act 1",
+      "version": "smwc-23349-1592856144",
+      "upstream_time": 1592856144,
+      "download_url": "https://dl.smwcentral.net/23349/deathEggMkII1.zip",
+      "filename": "deathEggMkII1.zip",
+      "size": 32470,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-kirby-super-star-gladiator-kirby",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23140,
+  "title": "Kirby Super Star - Gladiator Kirby",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "fire",
+    "mountain",
+    "tense"
+  ],
+  "description": "Part of Wyatt Croucher's music pack. A tense song that could fit bosses, or rooms leading up to them.",
+  "latest_version": "smwc-23140-1590735735",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23140,
+      "title": "Kirby Super Star - Gladiator Kirby",
+      "version": "smwc-23140-1590735735",
+      "upstream_time": 1590735735,
+      "download_url": "https://dl.smwcentral.net/23140/thearena.zip",
+      "filename": "thearena.zip",
+      "size": 33261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19298,
+      "title": "Kirby Super Star - Gladiator Kirby",
+      "version": "smwc-19298-1552261837",
+      "upstream_time": 1552261837,
+      "download_url": "https://dl.smwcentral.net/19298/Kirby%20Super%20Star%20-%20Gladiator%20Kirby.zip",
+      "filename": "Kirby Super Star - Gladiator Kirby.zip",
+      "size": 48566,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-reverse-muncher",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 5716,
+  "title": "Reverse Muncher",
+  "authors": [
+    "Catobat",
+    "MarioE"
+  ],
+  "tags": [
+    "coin",
+    "hurt",
+    "lorom",
+    "muncher",
+    "pow",
+    "silver"
+  ],
+  "description": "This is the opposite of a muncher; a coin when the silver P-switch is off, and a muncher when the silver P-switch is on.",
+  "latest_version": "smwc-5716-1436666324",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 5716,
+      "title": "Reverse Muncher",
+      "version": "smwc-5716-1436666324",
+      "upstream_time": 1436666324,
+      "download_url": "https://dl.smwcentral.net/5716/reverse_muncher.zip",
+      "filename": "reverse_muncher.zip",
+      "size": 421,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

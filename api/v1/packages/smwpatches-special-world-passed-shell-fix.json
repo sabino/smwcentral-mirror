@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-special-world-passed-shell-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27969,
+  "title": "Special World Passed Shell Fix",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "shell",
+    "special world",
+    "stunned"
+  ],
+  "description": "This patch fixes a minor and subtle bug where if the Special World is passed, Buzzy Beetles and \"Mario head\" Shells with a Koopa inside will not shake when their stun timer is about to run out.",
+  "latest_version": "smwc-27969-1638073935",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27969,
+      "title": "Special World Passed Shell Fix",
+      "version": "smwc-27969-1638073935",
+      "upstream_time": 1638073935,
+      "download_url": "https://dl.smwcentral.net/27969/shellbuzzyfix.zip",
+      "filename": "shellbuzzyfix.zip",
+      "size": 584,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

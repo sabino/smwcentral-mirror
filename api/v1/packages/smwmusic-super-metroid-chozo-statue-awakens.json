@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-metroid-chozo-statue-awakens",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36741,
+  "title": "Super Metroid - Chozo Statue Awakens",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36741-1706162350",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36741,
+      "title": "Super Metroid - Chozo Statue Awakens",
+      "version": "smwc-36741-1706162350",
+      "upstream_time": 1706162350,
+      "download_url": "https://dl.smwcentral.net/36741/19%20Chozo%20Statue%20Awakens.zip",
+      "filename": "19 Chozo Statue Awakens.zip",
+      "size": 204616,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

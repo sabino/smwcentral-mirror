@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-super-ghouls-n-ghosts-gririan-woo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35226,
+  "title": "Super Ghouls N' Ghosts - Gririan/Woo",
+  "authors": [
+    "Blizzard Buffalo",
+    "zuccha"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Girian/Woo enemy from Super Ghouls N' Ghosts. This sprite can follow the player and spit fire/ice.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=125700\">Requested</a> by <span class=\"un-outer\" title=\"Blizzard Buffalo\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Blizzard Buffalo</a></span>.",
+  "latest_version": "smwc-35226-1714412829",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35226,
+      "title": "Super Ghouls N' Ghosts - Gririan/Woo",
+      "version": "smwc-35226-1714412829",
+      "upstream_time": 1714412829,
+      "download_url": "https://dl.smwcentral.net/35226/gririan-1.0.0.zip",
+      "filename": "gririan-1.0.0.zip",
+      "size": 18375,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

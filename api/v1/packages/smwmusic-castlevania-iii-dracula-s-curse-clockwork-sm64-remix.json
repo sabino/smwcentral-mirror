@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castlevania-iii-dracula-s-curse-clockwork-sm64-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11571,
+  "title": "Castlevania III: Dracula's Curse - Clockwork (SM64 Remix)",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final"
+  ],
+  "description": "The clockwork theme of Castlevania III, remixed in a way that recalls Bowser's last battle in Super Mario 64. It fits any kind of dark levels, castles, chapels, and so on.",
+  "latest_version": "smwc-11571-1437619187",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11571,
+      "title": "Castlevania III: Dracula's Curse - Clockwork (SM64 Remix)",
+      "version": "smwc-11571-1437619187",
+      "upstream_time": 1437619187,
+      "download_url": "https://dl.smwcentral.net/11571/Clockwork64.zip",
+      "filename": "Clockwork64.zip",
+      "size": 35229,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

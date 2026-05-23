@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-ardy-lightfoot-desert",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 2630,
+  "title": "Ardy Lightfoot - Desert",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "desert",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "Layer 3 BG is also included.<br>\r\n<br>\r\nmod note: as the original status bar will cut fullscreen layer 3 backgrounds off, you may want to use a status bar patch (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">Sprite Status Bar</a>)",
+  "latest_version": "smwc-2630-1417707475",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 2630,
+      "title": "Ardy Lightfoot - Desert",
+      "version": "smwc-2630-1417707475",
+      "upstream_time": 1417707475,
+      "download_url": "https://dl.smwcentral.net/2630/Ardy%20Lightfoot%20desert.zip",
+      "filename": "Ardy Lightfoot desert.zip",
+      "size": 15878,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1678,
+      "title": "Ardy Lightfoot - Desert",
+      "version": "smwc-1678-1407226435",
+      "upstream_time": 1407226435,
+      "download_url": "https://dl.smwcentral.net/1678/ard-desert.zip",
+      "filename": "ard-desert.zip",
+      "size": 32523,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

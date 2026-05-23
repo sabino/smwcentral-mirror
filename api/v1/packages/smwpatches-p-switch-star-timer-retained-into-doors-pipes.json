@@ -1,0 +1,41 @@
+{
+  "name": "smwpatches-p-switch-star-timer-retained-into-doors-pipes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17519,
+  "title": "P-Switch/Star Timer Retained Into Doors/Pipes",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "door",
+    "lorom",
+    "needs remoderation",
+    "p-switch",
+    "pipe",
+    "pow",
+    "sa-1",
+    "star",
+    "timer"
+  ],
+  "description": "This patch makes it so when a P-Switch (silver or blue) and/or Star is active, it stays active when you go into the next room through a door or pipe.<br>\r\n<br>\r\nMake sure to read the readme.",
+  "latest_version": "smwc-17519-1526208610",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17519,
+      "title": "P-Switch/Star Timer Retained Into Doors/Pipes",
+      "version": "smwc-17519-1526208610",
+      "upstream_time": 1526208610,
+      "download_url": "https://dl.smwcentral.net/17519/NoTimerReset.zip",
+      "filename": "NoTimerReset.zip",
+      "size": 7385,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

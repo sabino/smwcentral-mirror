@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-last-bible-iii-ending-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29289,
+  "title": "Last Bible III - Ending Theme 2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "credits",
+    "cutscene"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nIt could be used for a cutscene.",
+  "latest_version": "smwc-29289-1643559867",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29289,
+      "title": "Last Bible III - Ending Theme 2",
+      "version": "smwc-29289-1643559867",
+      "upstream_time": 1643559867,
+      "download_url": "https://dl.smwcentral.net/29289/61%20Ending%20Theme%202.zip",
+      "filename": "61 Ending Theme 2.zip",
+      "size": 59052,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29288,
+      "title": "Last Bible III - Ending Theme 1",
+      "version": "smwc-29288-1643561120",
+      "upstream_time": 1643561120,
+      "download_url": "https://dl.smwcentral.net/29288/60%20Ending%20Theme%201.zip",
+      "filename": "60 Ending Theme 1.zip",
+      "size": 59171,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

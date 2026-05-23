@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-alternating-double-jump",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 27643,
+  "title": "Alternating Double Jump",
+  "authors": [
+    "CircleFriendo"
+  ],
+  "tags": [
+    "abilities",
+    "jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A combination of double jump and motor skills.<br>\r\n<br>\r\nMario can jump or spin jump once in the air as long as he switches from jump to spin jump or spin jump to jump. Because the double jump is on a different button from the original jump, it is still possible to perform regrabs. There are sparkles which indicate whether the double jump is available.",
+  "latest_version": "smwc-27643-1627179667",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 27643,
+      "title": "Alternating Double Jump",
+      "version": "smwc-27643-1627179667",
+      "upstream_time": 1627179667,
+      "download_url": "https://dl.smwcentral.net/27643/AlternatingDoubleJumpEdited.zip",
+      "filename": "AlternatingDoubleJumpEdited.zip",
+      "size": 1253,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

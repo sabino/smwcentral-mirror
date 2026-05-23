@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-neutopia-ii-sphere",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17715,
+  "title": "Neutopia II - Sphere 1",
+  "authors": [
+    "yoshi9429"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "forest",
+    "grassland",
+    "ice",
+    "mountain",
+    "overworld",
+    "tense"
+  ],
+  "description": "Neutopia II grassland & forest zone theme. I think it is useful grassland & forest stage.",
+  "latest_version": "smwc-17715-1530439553",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17715,
+      "title": "Neutopia II - Sphere 1",
+      "version": "smwc-17715-1530439553",
+      "upstream_time": 1530439553,
+      "download_url": "https://dl.smwcentral.net/17715/Neutopia%20II%20-%20Sphere%201.zip",
+      "filename": "Neutopia II - Sphere 1.zip",
+      "size": 22863,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15233,
+      "title": "Neutopia II - Sphere 3",
+      "version": "smwc-15233-1488690976",
+      "upstream_time": 1488690976,
+      "download_url": "https://dl.smwcentral.net/15233/Neutopia%20II%20-%20Sphere%203.zip",
+      "filename": "Neutopia II - Sphere 3.zip",
+      "size": 21851,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

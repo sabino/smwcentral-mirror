@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-stellar-echo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39929,
+  "title": "Stellar Echo",
+  "authors": [
+    "Alfombra de madera",
+    "Cemstrumental",
+    "Clona",
+    "Jon_composer"
+  ],
+  "tags": [
+    "2a03 samples",
+    "original",
+    "original samples"
+  ],
+  "description": "This is an original song created by Alfombra de Madera (me), Jon, Cemstrumental, and Clonazepan.<br>\r\n<br>\r\nI started this project as an experiment. I composed the base of the song and then shared it with some friends. Each of them added their own contributions, and later I ported the song to the SNES.<br>\r\n<br>\r\nJon composed almost all of the melody.<br>\r\n<br>\r\nCemstrumental created all the samples.<br>\r\n<br>\r\nClonazepan made the drums for the first part.<br>\r\n<br>\r\nI handled the SNES port, the chords, the bass, and the final section of the song.<br>\r\n<br>\r\nAnd yes, this is technically a port, since the original version of the song was made in Famitracker.<br>\r\n<br>\r\nYou can find the original version on my YouTube channel.",
+  "latest_version": "smwc-39929-1751237724",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39929,
+      "title": "Stellar Echo",
+      "version": "smwc-39929-1751237724",
+      "upstream_time": 1751237724,
+      "download_url": "https://dl.smwcentral.net/39929/Stellar%20echo.zip",
+      "filename": "Stellar echo.zip",
+      "size": 72937,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

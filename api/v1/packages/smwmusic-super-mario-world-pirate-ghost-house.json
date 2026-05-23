@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-super-mario-world-pirate-ghost-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28113,
+  "title": "Super Mario World (Pirate) - Ghost House",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "ghost house",
+    "retro"
+  ],
+  "description": "The Ghost House theme from Bootleg SMW.<br>\r\n<br>\r\nCan be used in Ghost Houses (obviously), although I do not recommend usage in longer levels, since after a while it can become irritating.<br>\r\n<br>\r\nMidi by PalaceSwitcher.<br>\r\n<br>\r\nEdit: Increased accuracy and lowered insert size.",
+  "latest_version": "smwc-28113-1632778281",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28113,
+      "title": "Super Mario World (Pirate) - Ghost House",
+      "version": "smwc-28113-1632778281",
+      "upstream_time": 1632778281,
+      "download_url": "https://dl.smwcentral.net/28113/Super%20Mario%20World%20%28Pirated%29%20-%20Ghost%20House%20Sampled.zip",
+      "filename": "Super Mario World (Pirated) - Ghost House Sampled.zip",
+      "size": 33627,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28111,
+      "title": "Super Mario World (Pirate) - Ghost House",
+      "version": "smwc-28111-1632778288",
+      "upstream_time": 1632778288,
+      "download_url": "https://dl.smwcentral.net/28111/Super%20Mario%20World%20%28Pirated%29%20-%20Ghost%20House.zip",
+      "filename": "Super Mario World (Pirated) - Ghost House.zip",
+      "size": 30977,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

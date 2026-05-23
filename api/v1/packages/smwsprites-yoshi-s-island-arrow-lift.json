@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-yoshi-s-island-arrow-lift",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29639,
+  "title": "Yoshi's Island - Arrow Lift",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "dynamic",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "The spinning arrow from YI that can be ridden in the direction it's pointing in when it's stood on. You can customise for how long the platform stays alive after standing on as well as whether it rotates fast or slow.<br>\r\n<br>\r\nUpdated on request by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span>",
+  "latest_version": "smwc-29639-1664935700",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29639,
+      "title": "Yoshi's Island - Arrow Lift",
+      "version": "smwc-29639-1664935700",
+      "upstream_time": 1664935700,
+      "download_url": "https://dl.smwcentral.net/29639/arrowlift.zip",
+      "filename": "arrowlift.zip",
+      "size": 23655,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

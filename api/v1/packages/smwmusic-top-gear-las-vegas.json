@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-top-gear-las-vegas",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22796,
+  "title": "Top Gear - Las Vegas",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "space"
+  ],
+  "description": "The upbeat song that plays in the first race of each country in Top Gear, which would probably fit in athletic space-themed levels and stuff. This was originally ported for my KLDC 2020 entry. ",
+  "latest_version": "smwc-22796-1589775239",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22796,
+      "title": "Top Gear - Las Vegas",
+      "version": "smwc-22796-1589775239",
+      "upstream_time": 1589775239,
+      "download_url": "https://dl.smwcentral.net/22796/lasvegas.zip",
+      "filename": "lasvegas.zip",
+      "size": 39394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8484,
+      "title": "Top Gear - Las Vegas",
+      "version": "smwc-8484-1387389895",
+      "upstream_time": 1387389895,
+      "download_url": "https://dl.smwcentral.net/8484/Top%20Gear%20-%20Race%201.zip",
+      "filename": "Top Gear - Race 1.zip",
+      "size": 66635,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

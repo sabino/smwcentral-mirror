@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-final-fantasy-v-battle-at-the-big-bridge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29122,
+  "title": "Final Fantasy V - Battle at The Big Bridge",
+  "authors": [
+    "Kevin",
+    "Zavok"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "mountain",
+    "tense"
+  ],
+  "description": "Gilgamesh' battle theme from FF5. Fit for a boss fight or a chase.",
+  "latest_version": "smwc-29122-1643566518",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29122,
+      "title": "Final Fantasy V - Battle at The Big Bridge",
+      "version": "smwc-29122-1643566518",
+      "upstream_time": 1643566518,
+      "download_url": "https://dl.smwcentral.net/29122/FF5%20-%20Clash%20on%20the%20Big%20Bridge.zip",
+      "filename": "FF5 - Clash on the Big Bridge.zip",
+      "size": 36913,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23763,
+      "title": "Final Fantasy V - Battle at The Big Bridge",
+      "version": "smwc-23763-1595801906",
+      "upstream_time": 1595801906,
+      "download_url": "https://dl.smwcentral.net/23763/Clash%20on%20the%20Big%20Bridge.zip",
+      "filename": "Clash on the Big Bridge.zip",
+      "size": 78684,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 12588,
+      "title": "Final Fantasy V - Battle at The Big Bridge",
+      "version": "smwc-12588-1446417007",
+      "upstream_time": 1446417007,
+      "download_url": "https://dl.smwcentral.net/12588/Final%20Fantasy%20V%20-%20Clash%20on%20the%20Big%20Bridge.zip",
+      "filename": "Final Fantasy V - Clash on the Big Bridge.zip",
+      "size": 74720,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

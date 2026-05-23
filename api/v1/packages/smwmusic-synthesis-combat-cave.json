@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-synthesis-combat-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8004,
+  "title": "Synthesis - Combat Cave",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "retro"
+  ],
+  "description": "A part of the @0 project, suits ice caves best.",
+  "latest_version": "smwc-8004-1317702970",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8004,
+      "title": "Synthesis - Combat Cave",
+      "version": "smwc-8004-1317702970",
+      "upstream_time": 1317702970,
+      "download_url": "https://dl.smwcentral.net/8004/Synthesis%20-%20Combat%20Cave.zip",
+      "filename": "Synthesis - Combat Cave.zip",
+      "size": 67446,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

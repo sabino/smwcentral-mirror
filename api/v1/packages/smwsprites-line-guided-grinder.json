@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-line-guided-grinder",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3651,
+  "title": "Line-Guided Grinder",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "grinder",
+    "line-guided",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 67 in SMW, the line-guided Grinder.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3651-1279017971",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3651,
+      "title": "Line-Guided Grinder",
+      "version": "smwc-3651-1279017971",
+      "upstream_time": 1279017971,
+      "download_url": "https://dl.smwcentral.net/3651/SMWSDIS%20-%20sprite%2067%20-%20line-guided%20Grinder.zip",
+      "filename": "SMWSDIS - sprite 67 - line-guided Grinder.zip",
+      "size": 4182,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-ghost-house",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16299,
+  "title": "Super Mario World - Ghost house",
+  "authors": [
+    "Hayashi Neru"
+  ],
+  "tags": [
+    "haunted",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "# 1 has a simple window color and has a separate color outside the window.<br>\r\n# 2 does not separate the colors from the windows.<br>\r\nRecommend that you apply the ‘Sprite status bar’ patch. Otherwise, the upper part is cut off.",
+  "latest_version": "smwc-16299-1505591515",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16299,
+      "title": "Super Mario World - Ghost house",
+      "version": "smwc-16299-1505591515",
+      "upstream_time": 1505591515,
+      "download_url": "https://dl.smwcentral.net/16299/Layer%203%20Ghost%20House.zip",
+      "filename": "Layer 3 Ghost House.zip",
+      "size": 7930,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mega-man-guts-man-s-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27059,
+  "title": "Mega Man - Guts Man's Stage",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "industrial",
+    "mountain",
+    "retro"
+  ],
+  "description": "Guts Man from Mega Man.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Apple Boy\"><a href=\"/?p=profile&amp;id=47437\" style=\"color: var(--user-color-2);\" class=\"un\">Apple Boy</a></span>",
+  "latest_version": "smwc-27059-1624559983",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27059,
+      "title": "Mega Man - Guts Man's Stage",
+      "version": "smwc-27059-1624559983",
+      "upstream_time": 1624559983,
+      "download_url": "https://dl.smwcentral.net/27059/Mega%20Man%20-%20Guts%20Man%20Sampled.zip",
+      "filename": "Mega Man - Guts Man Sampled.zip",
+      "size": 41468,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26978,
+      "title": "Mega Man - Guts Man's Stage",
+      "version": "smwc-26978-1622912785",
+      "upstream_time": 1622912785,
+      "download_url": "https://dl.smwcentral.net/26978/Guts%2C%20Man%21.zip",
+      "filename": "Guts%2C Man%21.zip",
+      "size": 31057,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

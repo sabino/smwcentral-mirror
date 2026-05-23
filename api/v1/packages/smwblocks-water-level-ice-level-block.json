@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-water-level-ice-level-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15584,
+  "title": "Water Level/Ice Level Block",
+  "authors": [
+    "BulzomeGuides"
+  ],
+  "tags": [
+    "ice",
+    "lorom",
+    "sa-1",
+    "slippery",
+    "water"
+  ],
+  "description": "This block will change your level into either an ice level or a water level, depending on the ON/OFF Switch.  If the switch is \"ON\", your level becomes an ice level.  If the switch is \"OFF\", your level becomes a water level.  This block will also enable sprite buoyancy for water level and disable it for ice level.<br>\r\n<br>\r\nDemonstration Video: https://youtu.be/ecSMalNbYG0<br>\r\n<br>\r\nCredit not needed, but appreciated.  Just don't claim as your own.",
+  "latest_version": "smwc-15584-1496086261",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15584,
+      "title": "Water Level/Ice Level Block",
+      "version": "smwc-15584-1496086261",
+      "upstream_time": 1496086261,
+      "download_url": "https://dl.smwcentral.net/15584/WaterIceLevel.zip",
+      "filename": "WaterIceLevel.zip",
+      "size": 6194,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

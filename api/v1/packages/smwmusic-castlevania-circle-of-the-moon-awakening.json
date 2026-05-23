@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-castlevania-circle-of-the-moon-awakening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8495,
+  "title": "Castlevania: Circle of the Moon - Awakening",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "castle",
+    "credits",
+    "cutscene",
+    "dark",
+    "final"
+  ],
+  "description": "The hero fall to this area of the castle right at the beginning, so it has a nice pumping tune to get you going, like most Castlevania first stage themes. It fits calm and dark levels.",
+  "latest_version": "smwc-8495-1389310714",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8495,
+      "title": "Castlevania: Circle of the Moon - Awakening",
+      "version": "smwc-8495-1389310714",
+      "upstream_time": 1389310714,
+      "download_url": "https://dl.smwcentral.net/8495/Awakening.zip",
+      "filename": "Awakening.zip",
+      "size": 69789,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-spinia",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3696,
+  "title": "Spinia",
+  "authors": [
+    "K3fka"
+  ],
+  "tags": [
+    "boost",
+    "enemy",
+    "lorom",
+    "paper mario",
+    "springboard"
+  ],
+  "description": "A spinia from Paper Mario: The Thousand-Year Door!<br>\r\n<br>\r\nJump on it once to stun it for a short time. While it's stunned, jump on it to bounce up higher like on a springboard!",
+  "latest_version": "smwc-3696-1297038789",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3696,
+      "title": "Spinia",
+      "version": "smwc-3696-1297038789",
+      "upstream_time": 1297038789,
+      "download_url": "https://dl.smwcentral.net/3696/spinia.zip",
+      "filename": "spinia.zip",
+      "size": 2268,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

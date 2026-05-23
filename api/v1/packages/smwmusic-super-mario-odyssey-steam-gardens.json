@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-super-mario-odyssey-steam-gardens",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22622,
+  "title": "Super Mario Odyssey - Steam Gardens",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "forest",
+    "grassland",
+    "jungle",
+    "town",
+    "urban"
+  ],
+  "description": "The very upbeat, '60s surfer-aesthetic song that plays throughout the Wooded Kingdom in Super Mario Odyssey.",
+  "latest_version": "smwc-22622-1586280173",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22622,
+      "title": "Super Mario Odyssey - Steam Gardens",
+      "version": "smwc-22622-1586280173",
+      "upstream_time": 1586280173,
+      "download_url": "https://dl.smwcentral.net/22622/SMO%20-%20Wooded%20Kingdom%20fix.zip",
+      "filename": "SMO - Wooded Kingdom fix.zip",
+      "size": 84009,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

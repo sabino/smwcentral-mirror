@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-pay-coins-to-jump-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40972,
+  "title": "Pay Coins to Jump V1.1",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "coin",
+    "jump",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "This UberASM code makes jumps expensive, using user-defined amount of coins. Also works for swimming.<br>\r\n<br>\r\nCredit is optional.<br>\r\n<br>\r\nV1.1 Update:<br>\r\n- Made this asar 2.0 compatible.<br>\r\n- Fixed a bug where jumping frame perfectly wouldn't cost any coins (note that you can still jump frame perfectly off Yoshi, which can't easily be fixed).<br>\r\n- Fixed a bug where pressing both jump buttons a frame apart would cost you 2x the coins.<br>\r\n- Prevented wasting coins if you attempt to jump in some states, like if you're stunned or using a P-balloon.<br>\r\n- Jumping off vines and while wall running now costs coins.",
+  "latest_version": "smwc-40972-1762548866",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40972,
+      "title": "Pay Coins to Jump V1.1",
+      "version": "smwc-40972-1762548866",
+      "upstream_time": 1762548866,
+      "download_url": "https://dl.smwcentral.net/40972/PayCoinsToJumpRewrite.zip",
+      "filename": "PayCoinsToJumpRewrite.zip",
+      "size": 2581,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

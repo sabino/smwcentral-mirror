@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-relative-layer-2-vertical-rise-fall-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41102,
+  "title": "Relative Layer 2 Vertical Rise/Fall V1.1",
+  "authors": [
+    "Koopster",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "autoscroll",
+    "fall",
+    "layer 2",
+    "lorom",
+    "rise",
+    "sa-1"
+  ],
+  "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Fixed the faulty no Yoshi intro check so pipe entrances don't break this UberASM.<br>\r\n- Made some minor optimizations.<br>\r\n- Made this disable vertical layer 2 scroll during level init as a convenience.<br>\r\n- Added functionality to customize how many subpixels layer 2 moves to allow for more precision.",
+  "latest_version": "smwc-41102-1769856084",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41102,
+      "title": "Relative Layer 2 Vertical Rise/Fall V1.1",
+      "version": "smwc-41102-1769856084",
+      "upstream_time": 1769856084,
+      "download_url": "https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip",
+      "filename": "L2RelVScrollV1_1.zip",
+      "size": 1085,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

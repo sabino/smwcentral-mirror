@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-final-fantasy-ix-frontier-village-dali",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35055,
+  "title": "Final Fantasy IX - Frontier Village Dali",
+  "authors": [
+    "SviSvi"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "forest",
+    "grassland",
+    "mountain",
+    "overworld",
+    "title",
+    "town"
+  ],
+  "description": "A peaceful song from a rural village.",
+  "latest_version": "smwc-35055-1697866419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35055,
+      "title": "Final Fantasy IX - Frontier Village Dali",
+      "version": "smwc-35055-1697866419",
+      "upstream_time": 1697866419,
+      "download_url": "https://dl.smwcentral.net/35055/Frontier%20Village%20Dali.zip",
+      "filename": "Frontier Village Dali.zip",
+      "size": 56926,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

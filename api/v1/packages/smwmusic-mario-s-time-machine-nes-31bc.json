@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-s-time-machine-nes-31bc",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27492,
+  "title": "Mario's Time Machine (NES) - 31BC & 1947",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "dark",
+    "desert",
+    "ruins",
+    "temple"
+  ],
+  "description": "A sinister desert song from Mario's Time Machine! (NES) you hear when going back into 31BC or 1947.<br>\r\n<br>\r\nReleased at Summer C3 2021.<br>\r\n<br>\r\nCan be used in dark pyramids and deserts.",
+  "latest_version": "smwc-27492-1627456848",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27492,
+      "title": "Mario's Time Machine (NES) - 31BC & 1947",
+      "version": "smwc-27492-1627456848",
+      "upstream_time": 1627456848,
+      "download_url": "https://dl.smwcentral.net/27492/Mario%27s%20Time%20Machine%21%20%28NES%29%20-%2031BC%20%26%201947.zip",
+      "filename": "Mario%27s Time Machine%21 (NES) - 31BC %26 1947.zip",
+      "size": 31377,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

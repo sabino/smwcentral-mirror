@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-tricky-magikoopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 27365,
+  "title": "Tricky Magikoopa",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "magic",
+    "magikoopa",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "This Magikoopa's magic will teleport player to a specified destination, either fixed or screen teleport.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>.",
+  "latest_version": "smwc-27365-1633850003",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 27365,
+      "title": "Tricky Magikoopa",
+      "version": "smwc-27365-1633850003",
+      "upstream_time": 1633850003,
+      "download_url": "https://dl.smwcentral.net/27365/Tricky_Magikoopa.zip",
+      "filename": "Tricky_Magikoopa.zip",
+      "size": 9457,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

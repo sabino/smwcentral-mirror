@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-pokey-means-business",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24224,
+  "title": "EarthBound - Pokey Means Business",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "The famous 8 bit tune to 16 bit metal track from Earthbound. Great for final bosses.",
+  "latest_version": "smwc-24224-1598207867",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24224,
+      "title": "EarthBound - Pokey Means Business",
+      "version": "smwc-24224-1598207867",
+      "upstream_time": 1598207867,
+      "download_url": "https://dl.smwcentral.net/24224/Earthbound%20-%20Pokey%20Means%20Business.zip",
+      "filename": "Earthbound - Pokey Means Business.zip",
+      "size": 64058,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

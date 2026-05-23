@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-trip-world-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28993,
+  "title": "Trip World - Boss",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "A small arrangement of the stage boss theme from Trip World, which is made by the same team from Mr. Gimmick.<br>\r\n<br>\r\nIt does uses the KSS soundfont.",
+  "latest_version": "smwc-28993-1642324546",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28993,
+      "title": "Trip World - Boss",
+      "version": "smwc-28993-1642324546",
+      "upstream_time": 1642324546,
+      "download_url": "https://dl.smwcentral.net/28993/Trip%20World%20-%20Boss%20Theme.zip",
+      "filename": "Trip World - Boss Theme.zip",
+      "size": 54475,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

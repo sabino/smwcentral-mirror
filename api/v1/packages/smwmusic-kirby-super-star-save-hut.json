@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-kirby-super-star-save-hut",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11404,
+  "title": "Kirby Super Star - Save Hut",
+  "authors": [
+    "Sayuri"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld",
+    "town"
+  ],
+  "description": "A very calm song that would best fit non-threatening areas such as a town, an overworld, a house, and so on.",
+  "latest_version": "smwc-11404-1435115458",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11404,
+      "title": "Kirby Super Star - Save Hut",
+      "version": "smwc-11404-1435115458",
+      "upstream_time": 1435115458,
+      "download_url": "https://dl.smwcentral.net/11404/Kirby%20Super%20Star%20-%20Save%20Hut%20%28Unsampled%29.zip",
+      "filename": "Kirby Super Star - Save Hut (Unsampled).zip",
+      "size": 31860,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11403,
+      "title": "Kirby Super Star - Save Hut",
+      "version": "smwc-11403-1435115918",
+      "upstream_time": 1435115918,
+      "download_url": "https://dl.smwcentral.net/11403/Kirby%20Super%20Star%20-%20Save%20Hut.zip",
+      "filename": "Kirby Super Star - Save Hut.zip",
+      "size": 33728,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

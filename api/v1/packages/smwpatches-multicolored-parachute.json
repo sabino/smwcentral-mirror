@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-multicolored-parachute",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 22983,
+  "title": "Multicolored Parachute",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "color",
+    "lorom",
+    "para-bomb",
+    "para-goomba",
+    "sa-1"
+  ],
+  "description": "Para-Bomb and Para-Goomba parachute colors will now change depending on the starting X position.<br>\r\nIt also applies to generators.",
+  "latest_version": "smwc-22983-1589769298",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 22983,
+      "title": "Multicolored Parachute",
+      "version": "smwc-22983-1589769298",
+      "upstream_time": 1589769298,
+      "download_url": "https://dl.smwcentral.net/22983/Multicolored_Parachute.zip",
+      "filename": "Multicolored_Parachute.zip",
+      "size": 1837,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

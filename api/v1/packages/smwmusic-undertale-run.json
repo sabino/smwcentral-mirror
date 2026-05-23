@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-undertale-run",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19231,
+  "title": "Undertale - Run!",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "Song that plays while you're running from Undyne. Good for boss battles or tense areas.",
+  "latest_version": "smwc-19231-1552257096",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19231,
+      "title": "Undertale - Run!",
+      "version": "smwc-19231-1552257096",
+      "upstream_time": 1552257096,
+      "download_url": "https://dl.smwcentral.net/19231/Undertale%20-%20Run%21.zip",
+      "filename": "Undertale - Run%21.zip",
+      "size": 65390,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

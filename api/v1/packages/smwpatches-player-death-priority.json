@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-player-death-priority",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 26807,
+  "title": "Player Death Priority",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "death",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This simple patch simply gives Mario top priority when he dies. The top priority isn't always guaranteed (e.g. layer 3 super priority) due to limitations, though.<br>\r\n<br>\r\nRequested by Knight of Time.",
+  "latest_version": "smwc-26807-1629049009",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 26807,
+      "title": "Player Death Priority",
+      "version": "smwc-26807-1629049009",
+      "upstream_time": 1629049009,
+      "download_url": "https://dl.smwcentral.net/26807/PlayerDeathPrioity.zip",
+      "filename": "PlayerDeathPrioity.zip",
+      "size": 467,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

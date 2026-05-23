@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-splatoon-eight-legged-advance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24514,
+  "title": "Splatoon - Eight Legged Advance",
+  "authors": [
+    "Captain 3"
+  ],
+  "tags": [
+    "abstract",
+    "night"
+  ],
+  "description": "A strange song from single player known for using what people tend to describe as \"burps\" as the bass. I have no clue where this could be used, but hey, it sounds neat!<br>\r\n<br>\r\nMod note: The piano breaks when the timer drops below 100 and the tempo hikes due to it being a sample loop.",
+  "latest_version": "smwc-24514-1603488197",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24514,
+      "title": "Splatoon - Eight Legged Advance",
+      "version": "smwc-24514-1603488197",
+      "upstream_time": 1603488197,
+      "download_url": "https://dl.smwcentral.net/24514/Eight%20Legged%20Advance.zip",
+      "filename": "Eight Legged Advance.zip",
+      "size": 90211,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

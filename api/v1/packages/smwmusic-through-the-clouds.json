@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-through-the-clouds",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8133,
+  "title": "Through the Clouds",
+  "authors": [
+    "gpetry"
+  ],
+  "tags": [
+    "grassland",
+    "sky"
+  ],
+  "description": "An excellent general purpose song. Very relaxing.",
+  "latest_version": "smwc-8133-1312818815",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8133,
+      "title": "Through the Clouds",
+      "version": "smwc-8133-1312818815",
+      "upstream_time": 1312818815,
+      "download_url": "https://dl.smwcentral.net/8133/Through%20the%20Clouds%20-%20Custom%20by%20Gpetry.zip",
+      "filename": "Through the Clouds - Custom by Gpetry.zip",
+      "size": 71895,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

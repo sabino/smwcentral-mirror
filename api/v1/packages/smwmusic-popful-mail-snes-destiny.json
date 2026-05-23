@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-popful-mail-snes-destiny",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36797,
+  "title": "Popful Mail (SNES) - Destiny",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "fire",
+    "sky",
+    "space"
+  ],
+  "description": "The final boss' first phase music. Good for bosses and final levels.<br>\r\nUpdate 02/02/2024: Added no-staccato to the drum channels.",
+  "latest_version": "smwc-36797-1709235433",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36797,
+      "title": "Popful Mail (SNES) - Destiny",
+      "version": "smwc-36797-1709235433",
+      "upstream_time": 1709235433,
+      "download_url": "https://dl.smwcentral.net/36797/Popful%20Mail%20%28SFC%29%20-%20Destiny.zip",
+      "filename": "Popful Mail (SFC) - Destiny.zip",
+      "size": 102895,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

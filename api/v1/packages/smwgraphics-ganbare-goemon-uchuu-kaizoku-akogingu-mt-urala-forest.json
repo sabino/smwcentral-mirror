@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-ganbare-goemon-uchuu-kaizoku-akogingu-mt-urala-forest",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38121,
+  "title": "Ganbare Goemon: Uchuu Kaizoku Akogingu - Mt. Urala (Forest)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "forest"
+  ],
+  "description": "The background of the first stage, from Ganbare Goemon: Uchuu Kaizoku Akogingu (lit. The Space Pirate Akogingu). It appears in the first action stage of the game.<br>\r\n<br>\r\nUPDATE: Reripped from the scratch. Massive optimization, saving much more space in BG3. More accuracy to the source material, at the cost of one extra palette row. If you want to use layer 3 fog with it, you should move the colors of palette row 0 to somewhere else.  <br>\r\n<br>\r\nComes with two sample levels. One is meant for no vertical scrolling levels, while the other is closer in how the background is assembled in the original game, perfect for vertical enabled horizontal levels.<br>\r\n<br>\r\nA good fit for forest stages.",
+  "latest_version": "smwc-38121-1724432371",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38121,
+      "title": "Ganbare Goemon: Uchuu Kaizoku Akogingu - Mt. Urala (Forest)",
+      "version": "smwc-38121-1724432371",
+      "upstream_time": 1724432371,
+      "download_url": "https://dl.smwcentral.net/38121/Ganbare%20Goemon%20Uchuu%20Kaizoku%20Akogingu%20-%20Mt.%20Urala%20%28Forest%29.zip",
+      "filename": "Ganbare Goemon Uchuu Kaizoku Akogingu - Mt. Urala (Forest).zip",
+      "size": 10186,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mega-man-10-against-the-pressure-dr-wily-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27077,
+  "title": "Mega Man 10 - Against the Pressure (Dr. Wily Stage 2)",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "fire",
+    "industrial"
+  ],
+  "description": "Song that Against the Pressure from Mega Man 10. Good a for castle or factory levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>",
+  "latest_version": "smwc-27077-1624993204",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27077,
+      "title": "Mega Man 10 - Against the Pressure (Dr. Wily Stage 2)",
+      "version": "smwc-27077-1624993204",
+      "upstream_time": 1624993204,
+      "download_url": "https://dl.smwcentral.net/27077/MM10%20-%20Wily%20Stage%202%20%28S%29.zip",
+      "filename": "MM10 - Wily Stage 2 (S).zip",
+      "size": 47553,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22598,
+      "title": "Mega Man 10 - Against the Pressure (Dr. Wily Stage 2)",
+      "version": "smwc-22598-1586110567",
+      "upstream_time": 1586110567,
+      "download_url": "https://dl.smwcentral.net/22598/Mega%20Man%2010%20-%20Wily%20Stage%202.zip",
+      "filename": "Mega Man 10 - Wily Stage 2.zip",
+      "size": 32140,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

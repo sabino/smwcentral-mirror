@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dubmood-afterburner",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39274,
+  "title": "Dubmood - Afterburner",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "retro",
+    "sky",
+    "space"
+  ],
+  "description": "chiptune version of Afterburner. Used for BEET JAM's playable credits",
+  "latest_version": "smwc-39274-1741644659",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39274,
+      "title": "Dubmood - Afterburner",
+      "version": "smwc-39274-1741644659",
+      "upstream_time": 1741644659,
+      "download_url": "https://dl.smwcentral.net/39274/Dubmood%20-%20Afterburner.zip",
+      "filename": "Dubmood - Afterburner.zip",
+      "size": 39654,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

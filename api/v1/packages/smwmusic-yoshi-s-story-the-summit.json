@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yoshi-s-story-the-summit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8524,
+  "title": "Yoshi's Story - The Summit",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "mountain",
+    "overworld"
+  ],
+  "description": "A short polka tune that would be perfect for a mountain submap",
+  "latest_version": "smwc-8524-1394970656",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8524,
+      "title": "Yoshi's Story - The Summit",
+      "version": "smwc-8524-1394970656",
+      "upstream_time": 1394970656,
+      "download_url": "https://dl.smwcentral.net/8524/The%20Summit.zip",
+      "filename": "The Summit.zip",
+      "size": 63456,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

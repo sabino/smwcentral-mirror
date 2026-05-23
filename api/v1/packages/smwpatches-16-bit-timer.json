@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-16-bit-timer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4466,
+  "title": "16-bit Timer",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "This patch expands the timer to make it 16-bit, allowing for values as high as 65535. Not only easy to use and highly customizable, but also compatible with LM. Also comes in two versions (one for xkas, one for Asar).<br>\r\n<br>\r\nMake sure to read the readme for a more in-depth explanation.",
+  "latest_version": "smwc-4466-1339149676",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4466,
+      "title": "16-bit Timer",
+      "version": "smwc-4466-1339149676",
+      "upstream_time": 1339149676,
+      "download_url": "https://dl.smwcentral.net/4466/16bitTimer.zip",
+      "filename": "16bitTimer.zip",
+      "size": 15490,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

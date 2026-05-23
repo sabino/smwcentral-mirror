@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-rayman-picture-city-beat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34035,
+  "title": "Rayman - Picture City Beat",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cave",
+    "mysterious",
+    "temple"
+  ],
+  "description": "A short atmospheric drum beat sometimes heard in Picture City in some versions of Rayman. Ported by ear.",
+  "latest_version": "smwc-34035-1692962250",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34035,
+      "title": "Rayman - Picture City Beat",
+      "version": "smwc-34035-1692962250",
+      "upstream_time": 1692962250,
+      "download_url": "https://dl.smwcentral.net/34035/Rayman%20-%20Picture%20City%20Beat.zip",
+      "filename": "Rayman - Picture City Beat.zip",
+      "size": 30659,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

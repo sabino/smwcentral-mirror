@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castle-of-illusion-starring-mickey-mouse-genesis-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22207,
+  "title": "Castle of Illusion Starring Mickey Mouse (Genesis) - Boss Battle",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "A short, intense boss battle music from <i>Castle of Illusion</i>.<br>\r\n<br>\r\n(Note: There're three games known as <i>Castle of Illusion</i>, including the Mega Drive game, the Master System/Game Gear game, and the remake of the Mega Drive game. This is from the original Mega Drive version.)",
+  "latest_version": "smwc-22207-1582687575",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22207,
+      "title": "Castle of Illusion Starring Mickey Mouse (Genesis) - Boss Battle",
+      "version": "smwc-22207-1582687575",
+      "upstream_time": 1582687575,
+      "download_url": "https://dl.smwcentral.net/22207/Castle%20of%20Illusion%20MD%20Boss.zip",
+      "filename": "Castle of Illusion MD Boss.zip",
+      "size": 32604,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ys-iv-mask-of-the-sun-crimson-wings",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31951,
+  "title": "Ys IV: Mask of the Sun - Crimson Wings",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "final"
+  ],
+  "description": "Dedicated to <span class=\"un-outer\" title=\"Sir_Danny_TM\"><a href=\"/?p=profile&amp;id=42158\" style=\"color: var(--user-color-1);\" class=\"un\">Sir_Danny_TM</a></span>",
+  "latest_version": "smwc-31951-1672513291",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31951,
+      "title": "Ys IV: Mask of the Sun - Crimson Wings",
+      "version": "smwc-31951-1672513291",
+      "upstream_time": 1672513291,
+      "download_url": "https://dl.smwcentral.net/31951/CrimsonWings.zip",
+      "filename": "CrimsonWings.zip",
+      "size": 54243,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

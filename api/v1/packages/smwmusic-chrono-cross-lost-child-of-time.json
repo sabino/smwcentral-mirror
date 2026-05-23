@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-chrono-cross-lost-child-of-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19014,
+  "title": "Chrono Cross - Lost Child of Time",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark"
+  ],
+  "description": "This is a peaceful but kinda spooky song from chrono Cross. I always liked it for some reason. While I tried to remain faithful to the original, I did have to make some adjustments, especially to the end section because there are some sound effects in the music that couldn't feseably be replicated on the Snes. For that section I improvised a sort of melody to replace the sounds I left out, so it deviates from the original a bit in that respect.",
+  "latest_version": "smwc-19014-1548732609",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19014,
+      "title": "Chrono Cross - Lost Child of Time",
+      "version": "smwc-19014-1548732609",
+      "upstream_time": 1548732609,
+      "download_url": "https://dl.smwcentral.net/19014/cc_lostchild.zip",
+      "filename": "cc_lostchild.zip",
+      "size": 65858,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

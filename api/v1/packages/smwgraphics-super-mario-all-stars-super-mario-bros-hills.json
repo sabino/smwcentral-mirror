@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-super-mario-all-stars-super-mario-bros-hills",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30405,
+  "title": "Super Mario All-Stars: Super Mario Bros. - Hills",
+  "authors": [
+    "Buu"
+  ],
+  "tags": [
+    "2bpp",
+    "grassland",
+    "patch needed",
+    "sky"
+  ],
+  "description": "Reuploaded because I forgot to include the ExGFX file (duh), thanks to smwedit for telling me. ;)<br>\r\n<br>\r\nThis is the BG of the first level in SMAS SMB1 along with the Layer 3 cloud part. Sample Level included. Credit would be nice but you don't have to.",
+  "latest_version": "smwc-30405-1649464830",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30405,
+      "title": "Super Mario All-Stars: Super Mario Bros. - Hills",
+      "version": "smwc-30405-1649464830",
+      "upstream_time": 1649464830,
+      "download_url": "https://dl.smwcentral.net/30405/hillsclouds.zip",
+      "filename": "hillsclouds.zip",
+      "size": 3158,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 30125,
+      "title": "Super Mario All-Stars: Super Mario Bros. - Hills",
+      "version": "smwc-30125-1647351030",
+      "upstream_time": 1647351030,
+      "download_url": "https://dl.smwcentral.net/30125/SMAS%20SMB%20-%20Hills.zip",
+      "filename": "SMAS SMB - Hills.zip",
+      "size": 3972,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

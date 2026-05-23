@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-stone-protectors-downward",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36620,
+  "title": "Stone Protectors -  Downward",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "final",
+    "fire",
+    "industrial"
+  ],
+  "description": "Downward from Stone Protectors on the SNES.",
+  "latest_version": "smwc-36620-1705351694",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36620,
+      "title": "Stone Protectors -  Downward",
+      "version": "smwc-36620-1705351694",
+      "upstream_time": 1705351694,
+      "download_url": "https://dl.smwcentral.net/36620/Stone%20Protectors%20-%20%20Downward.zip",
+      "filename": "Stone Protectors -  Downward.zip",
+      "size": 56340,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

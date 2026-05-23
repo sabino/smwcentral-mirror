@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-mario-s-time-machine-nes-776bc",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28682,
+  "title": "Mario's Time Machine (NES) - 776BC & 1903",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "grassland",
+    "night",
+    "overworld",
+    "retro",
+    "snow",
+    "town",
+    "urban"
+  ],
+  "description": "Sampled version of the bumpy, urban tune from Mario's Time Machine! (NES) you hear when going back into 776BC and 1903.<br>\r\n<br>\r\nReleased at Summer C3 2021.<br>\r\n<br>\r\nCan be used in happy grasslands, bouncy retro levels and overall nice areas.<br>\r\n<br>\r\nEdit: Now uses proper percussion samples.",
+  "latest_version": "smwc-28682-1639617496",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28682,
+      "title": "Mario's Time Machine (NES) - 776BC & 1903",
+      "version": "smwc-28682-1639617496",
+      "upstream_time": 1639617496,
+      "download_url": "https://dl.smwcentral.net/28682/Mario%27s%20Time%20Machine%21%20%28NES%29%20-%20776BC%20%26%201903%20Sampled.zip",
+      "filename": "Mario%27s Time Machine%21 (NES) - 776BC %26 1903 Sampled.zip",
+      "size": 37159,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27823,
+      "title": "Mario's Time Machine (NES) - 776BC & 1903",
+      "version": "smwc-27823-1630155488",
+      "upstream_time": 1630155488,
+      "download_url": "https://dl.smwcentral.net/27823/Mario%27s%20Time%20Machine%21%20%28NES%29%20-%20776BC%20%26%201903.zip",
+      "filename": "Mario%27s Time Machine%21 (NES) - 776BC %26 1903.zip",
+      "size": 31397,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

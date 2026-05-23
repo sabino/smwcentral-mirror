@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-8-dr-wily-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24407,
+  "title": "Mega Man 8 - Dr. Wily Stage 2",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "city",
+    "factories"
+  ],
+  "description": "a simple port of wily stage 2 from megaman 8.",
+  "latest_version": "smwc-24407-1601513862",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24407,
+      "title": "Mega Man 8 - Dr. Wily Stage 2",
+      "version": "smwc-24407-1601513862",
+      "upstream_time": 1601513862,
+      "download_url": "https://dl.smwcentral.net/24407/Wily%20stage%202.zip",
+      "filename": "Wily stage 2.zip",
+      "size": 57776,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

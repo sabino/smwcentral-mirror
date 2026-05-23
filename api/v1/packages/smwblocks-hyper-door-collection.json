@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-hyper-door-collection",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3835,
+  "title": "Hyper Door Collection",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "door",
+    "lorom",
+    "pack"
+  ],
+  "description": "This pack contains a LOT of custom doors for you to use. I know Sonikku already coded some of them, but was for BT, and I coded these all from scratch.<br>\r\nFeatures:<br>\r\nThese doors won't let you enter in air;<br>\r\nMade Small doors;<br>\r\nDisassembled SMW Door too!",
+  "latest_version": "smwc-3835-1418186649",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3835,
+      "title": "Hyper Door Collection",
+      "version": "smwc-3835-1418186649",
+      "upstream_time": 1418186649,
+      "download_url": "https://dl.smwcentral.net/3835/Door%20Collection.zip",
+      "filename": "Door Collection.zip",
+      "size": 13938,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

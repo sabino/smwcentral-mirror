@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-separate-status-bar-palettes-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40667,
+  "title": "Separate Status Bar Palettes v1.1",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "color",
+    "layer 3",
+    "lorom",
+    "palette",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "Ever wanted to use more palettes in your Layer 3 backgrounds, or change certain colors without messing the status bar up? Now you can! This patch works by overwriting the second halves of palettes 0 and 1, at the start of each frame, with the colors used by the status bar. Then, the actual palettes of the level will be restored right below it.<br>\r\n<br>\r\nBy default, this will use the same status bar colors as the original Super Mario World. However you can easily change that if needed, just modify the content of the !ColorXX defines near the top of the ASM file.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n-----------<br>\r\nAdded support for SA-1 Pack v1.31.",
+  "latest_version": "smwc-40667-1758729934",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40667,
+      "title": "Separate Status Bar Palettes v1.1",
+      "version": "smwc-40667-1758729934",
+      "upstream_time": 1758729934,
+      "download_url": "https://dl.smwcentral.net/40667/separate%20status%20bar%20palettes%20%2B%20sa1.zip",
+      "filename": "separate status bar palettes + sa1.zip",
+      "size": 2412,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

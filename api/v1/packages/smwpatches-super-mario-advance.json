@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-super-mario-advance",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20807,
+  "title": "Super Mario Advance 2 Styled Yoshi Blocks",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "block",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "Makes the Yoshi question blocks act similar to Super Mario Advance 2, giving you a different Yoshi color based on either powerup status and/or whether the specific-color Yoshi has been obtained. Read the ASM file for more info.<br>\r\nNote that, in the occasion that RNG is used to determine the Yoshi color, SMW's default routine doesn't do a nice job, usually yelding the same value through various runs. I recommend using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=13808\">this routine</a> instead.<br>\r\n<br>\r\nRequested by KingKoopshi64. Special thanks to SubconsciousEye for telling me the exact behavior of the blocks!",
+  "latest_version": "smwc-20807-1570294478",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20807,
+      "title": "Super Mario Advance 2 Styled Yoshi Blocks",
+      "version": "smwc-20807-1570294478",
+      "upstream_time": 1570294478,
+      "download_url": "https://dl.smwcentral.net/20807/SMA2%20Yoshi%20Blocks%20%2B%20SA1.zip",
+      "filename": "SMA2 Yoshi Blocks + SA1.zip",
+      "size": 1760,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

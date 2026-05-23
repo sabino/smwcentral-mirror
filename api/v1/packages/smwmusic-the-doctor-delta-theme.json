@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-doctor-delta-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40327,
+  "title": "The Doctor - Delta Theme",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "castle"
+  ],
+  "description": "A fun little breakbeat tune, fitting in a variety of settings.",
+  "latest_version": "smwc-40327-1756672880",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40327,
+      "title": "The Doctor - Delta Theme",
+      "version": "smwc-40327-1756672880",
+      "upstream_time": 1756672880,
+      "download_url": "https://dl.smwcentral.net/40327/BBT%20Main%20Theme.zip",
+      "filename": "BBT Main Theme.zip",
+      "size": 86743,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

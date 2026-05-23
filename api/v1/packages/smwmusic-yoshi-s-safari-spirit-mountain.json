@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yoshi-s-safari-spirit-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8519,
+  "title": "Yoshi's Safari - Spirit Mountain",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "mountain"
+  ],
+  "description": "The song that plays in Spirit Mountain from Yoshi's Safari",
+  "latest_version": "smwc-8519-1394878776",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8519,
+      "title": "Yoshi's Safari - Spirit Mountain",
+      "version": "smwc-8519-1394878776",
+      "upstream_time": 1394878776,
+      "download_url": "https://dl.smwcentral.net/8519/Spirit%20Mountain.zip",
+      "filename": "Spirit Mountain.zip",
+      "size": 65828,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

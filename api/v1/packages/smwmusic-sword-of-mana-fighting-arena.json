@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sword-of-mana-fighting-arena",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13717,
+  "title": "Sword of Mana - Fighting Arena",
+  "authors": [
+    "6646"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "industrial",
+    "overworld"
+  ],
+  "description": "Battle theme at colosseum.",
+  "latest_version": "smwc-13717-1464757063",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13717,
+      "title": "Sword of Mana - Fighting Arena",
+      "version": "smwc-13717-1464757063",
+      "upstream_time": 1464757063,
+      "download_url": "https://dl.smwcentral.net/13717/som_fighting_arena.zip",
+      "filename": "som_fighting_arena.zip",
+      "size": 33269,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

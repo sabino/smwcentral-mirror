@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-cycle-through-powerups",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 32174,
+  "title": "Cycle through Powerups",
+  "authors": [
+    "Gulaschko"
+  ],
+  "tags": [
+    "filter",
+    "lorom",
+    "player",
+    "power-up",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This customizable UberASM changes Mario's powerup every X frames. <br>\r\n<br>\r\nSee ASM for more Defines options.<br>\r\nIt uses 2 Bytes of FreeRAM addresses.",
+  "latest_version": "smwc-32174-1667857009",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 32174,
+      "title": "Cycle through Powerups",
+      "version": "smwc-32174-1667857009",
+      "upstream_time": 1667857009,
+      "download_url": "https://dl.smwcentral.net/32174/CyclePowerups.zip",
+      "filename": "CyclePowerups.zip",
+      "size": 1014,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

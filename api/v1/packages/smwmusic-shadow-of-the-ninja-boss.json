@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shadow-of-the-ninja-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10363,
+  "title": "Shadow of the Ninja - Boss",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "fire",
+    "tense"
+  ],
+  "description": "A short but upbeat song that could work for a boss fight (duh) or an intense, fast-paced segment of a level. This is actually a pretty old port, I just never got around to submitting it.",
+  "latest_version": "smwc-10363-1419728625",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10363,
+      "title": "Shadow of the Ninja - Boss",
+      "version": "smwc-10363-1419728625",
+      "upstream_time": 1419728625,
+      "download_url": "https://dl.smwcentral.net/10363/sotnboss.zip",
+      "filename": "sotnboss.zip",
+      "size": 32463,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

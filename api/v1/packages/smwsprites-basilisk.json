@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-basilisk",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41242,
+  "title": "Basilisk",
+  "authors": [
+    "Schwa"
+  ],
+  "tags": [
+    "enemy",
+    "follow",
+    "follow player",
+    "lorom",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "This sprite walks along the ground, trying to stay in front of Mario no matter what. It stands upright when not walking, and fires energy balls from its mouth at random intervals. It cannot be stomped, but 5 fireballs or a thrown item will kill it.<br>\r\n<br>\r\nThe energy balls from the included graphics replace baseballs.<br>\r\n<br>\r\nCheck the ASM file for customization options. The graphics for this sprite hail from Zelda II Adventure of Link.<br>\r\n<br>\r\nGive credit if used or tweaked.",
+  "latest_version": "smwc-41242-1765203468",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41242,
+      "title": "Basilisk",
+      "version": "smwc-41242-1765203468",
+      "upstream_time": 1765203468,
+      "download_url": "https://dl.smwcentral.net/41242/Basilisk.zip",
+      "filename": "Basilisk.zip",
+      "size": 6036,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

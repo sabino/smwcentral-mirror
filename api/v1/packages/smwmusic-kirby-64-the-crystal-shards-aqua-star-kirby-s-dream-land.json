@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-kirby-64-the-crystal-shards-aqua-star-kirby-s-dream-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31350,
+  "title": "Kirby 64: The Crystal Shards - Aqua Star (Kirby's Dream Land 3 Style)",
+  "authors": [
+    "Kevin",
+    "Pinci"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "grassland",
+    "water"
+  ],
+  "description": "Aqua Star from Kirby 64 remixed in KDL3 style by Pinci, ported to SMW by Kevin.",
+  "latest_version": "smwc-31350-1666207954",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31350,
+      "title": "Kirby 64: The Crystal Shards - Aqua Star (Kirby's Dream Land 3 Style)",
+      "version": "smwc-31350-1666207954",
+      "upstream_time": 1666207954,
+      "download_url": "https://dl.smwcentral.net/31350/Aqua%20Star.zip",
+      "filename": "Aqua Star.zip",
+      "size": 62918,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

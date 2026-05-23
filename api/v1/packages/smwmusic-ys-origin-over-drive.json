@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ys-origin-over-drive",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32855,
+  "title": "Ys Origin - Over Drive",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "A highly intense boss theme, intended to be used strictly for bosses. Originally ported for Send Your Regrets to the Czar.<br>\r\n<br>\r\nBy default not compatible with the goal theme, death theme, Bonus End, Yoshi, Starman, P-Switch or Thunder, but you may be able to fit one of those back in depending on the situation.",
+  "latest_version": "smwc-32855-1678878308",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32855,
+      "title": "Ys Origin - Over Drive",
+      "version": "smwc-32855-1678878308",
+      "upstream_time": 1678878308,
+      "download_url": "https://dl.smwcentral.net/32855/yso_over_drive.zip",
+      "filename": "yso_over_drive.zip",
+      "size": 88710,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

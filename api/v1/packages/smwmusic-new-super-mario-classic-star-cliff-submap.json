@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-star-cliff-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23312,
+  "title": "New Super Mario Classic - Star Cliff Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "bonus",
+    "overworld"
+  ],
+  "description": "Could fit on the bonus or special worlds. This music was played on World S (Brinstar World) from New Super Mario Classic (Ruby Edition) (My SMW Hack)",
+  "latest_version": "smwc-23312-1592205227",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23312,
+      "title": "New Super Mario Classic - Star Cliff Submap",
+      "version": "smwc-23312-1592205227",
+      "upstream_time": 1592205227,
+      "download_url": "https://dl.smwcentral.net/23312/NSMC%20Star%20Cliff%20Submap.zip",
+      "filename": "NSMC Star Cliff Submap.zip",
+      "size": 30967,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

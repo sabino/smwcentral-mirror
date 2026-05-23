@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-fireball-resizer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4338,
+  "title": "Fireball Resizer",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "These patches will resize the fireballs to either 16x8 or 16x16. Note that there is no animation with the 16x8 one, and that it might screw up coin/invincibility sparkles. Use the 16x16 one if you want animations, if you want the fireballs to be 16x16 (or 8x16), or if you've got two tiles to spare in SP1 or SP2.<br>\r\nThis version contains some weird macro magic to decrease insert size and increase speed when animations is off for the 16x16 one.",
+  "latest_version": "smwc-4338-1287492281",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4338,
+      "title": "Fireball Resizer",
+      "version": "smwc-4338-1287492281",
+      "upstream_time": 1287492281,
+      "download_url": "https://dl.smwcentral.net/4338/168fireball.zip",
+      "filename": "168fireball.zip",
+      "size": 1383,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

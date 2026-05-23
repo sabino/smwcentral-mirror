@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-snsp-aging-cassette-when-you-wish-upon-a-star",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22594,
+  "title": "SNSP Aging Cassette - When You Wish Upon a Star",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "The lone song that plays on <a href=\"https://www.youtube.com/watch?v=Edg3J8O0jcc\" rel=\"nofollow\">a very bizarre SNES test cartridge</a> called Aging Cassette. This song would be fitting for cutscenes, title screens, and maybe overworld maps.",
+  "latest_version": "smwc-22594-1586847921",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22594,
+      "title": "SNSP Aging Cassette - When You Wish Upon a Star",
+      "version": "smwc-22594-1586847921",
+      "upstream_time": 1586847921,
+      "download_url": "https://dl.smwcentral.net/22594/Aging%20Cassette%20-%20When%20You%20Wish%20Upon%20a%20Star.zip",
+      "filename": "Aging Cassette - When You Wish Upon a Star.zip",
+      "size": 35110,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

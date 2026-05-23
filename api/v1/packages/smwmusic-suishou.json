@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-suishou",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8013,
+  "title": "Suishou",
+  "authors": [
+    "Kil"
+  ],
+  "tags": [
+    "calm",
+    "ice"
+  ],
+  "description": "Peaceful tune made for an ice cave area in a canceled hack.",
+  "latest_version": "smwc-8013-1312130607",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8013,
+      "title": "Suishou",
+      "version": "smwc-8013-1312130607",
+      "upstream_time": 1312130607,
+      "download_url": "https://dl.smwcentral.net/8013/Suishou.zip",
+      "filename": "Suishou.zip",
+      "size": 67233,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

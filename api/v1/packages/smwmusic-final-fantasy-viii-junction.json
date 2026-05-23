@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-final-fantasy-viii-junction",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18546,
+  "title": "Final Fantasy VIII - Junction",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "ghost house",
+    "night",
+    "spooky"
+  ],
+  "description": "Unsampled version of my first port. Fitting song for spooky levels/areas.",
+  "latest_version": "smwc-18546-1543426811",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18546,
+      "title": "Final Fantasy VIII - Junction",
+      "version": "smwc-18546-1543426811",
+      "upstream_time": 1543426811,
+      "download_url": "https://dl.smwcentral.net/18546/Final%20Fantasy%20VIII%20-%20Junction.zip",
+      "filename": "Final Fantasy VIII - Junction.zip",
+      "size": 30745,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15372,
+      "title": "Final Fantasy VIII - Junction",
+      "version": "smwc-15372-1490400202",
+      "upstream_time": 1490400202,
+      "download_url": "https://dl.smwcentral.net/15372/Final%20Fantasy%20VIII%20-%20Junction.zip",
+      "filename": "Final Fantasy VIII - Junction.zip",
+      "size": 32929,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-12th-vanilla-level-design-contest-dream-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32418,
+  "title": "The 12th Vanilla Level Design Contest - Dream Map",
+  "authors": [
+    "Segment1Zone2",
+    "Stivi"
+  ],
+  "tags": [
+    "abstract",
+    "overworld",
+    "space"
+  ],
+  "description": "The Dream World song played in VLDC12.",
+  "latest_version": "smwc-32418-1666874716",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32418,
+      "title": "The 12th Vanilla Level Design Contest - Dream Map",
+      "version": "smwc-32418-1666874716",
+      "upstream_time": 1666874716,
+      "download_url": "https://dl.smwcentral.net/32418/VLDC12%20-%20Dream%20World.zip",
+      "filename": "VLDC12 - Dream World.zip",
+      "size": 74729,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

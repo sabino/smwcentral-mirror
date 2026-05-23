@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-shatter-on-pack",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4011,
+  "title": "Shatter On ... Pack",
+  "authors": [
+    "I8Strudel",
+    "Roy",
+    "lolcats439"
+  ],
+  "tags": [
+    "lorom",
+    "shatter"
+  ],
+  "description": "A pack which contains the following blocks:<br>\r\n- Shatters on contact with player or sprites<br>\r\n- Shatters on contact with sprites<br>\r\n- Shatters on contact with player<br>\r\n- Shatters on contact with fireballs<br>\r\n- Shatters on contact with cape",
+  "latest_version": "smwc-4011-1436664106",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4011,
+      "title": "Shatter On ... Pack",
+      "version": "smwc-4011-1436664106",
+      "upstream_time": 1436664106,
+      "download_url": "https://dl.smwcentral.net/4011/shatter_pack.zip",
+      "filename": "shatter_pack.zip",
+      "size": 1648,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

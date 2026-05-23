@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-top-gear-qualified",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38339,
+  "title": "Top Gear - Qualified",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "misc"
+  ],
+  "description": "The victorious sounding theme from when you get qualified in Top Gear.<br>\r\n<br>\r\nThere is a define to have no echo if you wish to use this as a global song.",
+  "latest_version": "smwc-38339-1726745976",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38339,
+      "title": "Top Gear - Qualified",
+      "version": "smwc-38339-1726745976",
+      "upstream_time": 1726745976,
+      "download_url": "https://dl.smwcentral.net/38339/Qualified.zip",
+      "filename": "Qualified.zip",
+      "size": 38423,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

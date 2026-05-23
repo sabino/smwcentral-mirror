@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-urbano",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31652,
+  "title": "Urbano",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "urban"
+  ],
+  "description": "DnB-esque song that could fit dark abstract levels.<br>\r\n<br>\r\nNote: not compatible with Bonus End and Thunder SFX/Blarggs.",
+  "latest_version": "smwc-31652-1658955048",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31652,
+      "title": "Urbano",
+      "version": "smwc-31652-1658955048",
+      "upstream_time": 1658955048,
+      "download_url": "https://dl.smwcentral.net/31652/c3%20urbano.zip",
+      "filename": "c3 urbano.zip",
+      "size": 70128,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

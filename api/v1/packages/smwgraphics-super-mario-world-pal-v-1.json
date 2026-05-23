@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-pal-v-1",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 34449,
+  "title": "Super Mario World (PAL V.1.1) - Castle Grass",
+  "authors": [
+    "Murphmario",
+    "RussianMan"
+  ],
+  "tags": [
+    "grassland"
+  ],
+  "description": "The PAL V.1.1 version of Super Mario World changes the way grass tiles look during castle entrance cutscene to compensate for the increased vertical resolution. If you want a more detailed explanation about it, you can check this post by <a href=\"https://web.archive.org/web/20250106205052/https://cohost.org/rgmechex/post/1428982-rgme-article-17-to\" rel=\"nofollow\">Retro Game Mechanics Explained</a>. You can now fill your castle levels with grass tiles without it looking wrong and without any additional graphics.<br>\r\n<br>\r\nFirst screenshot shows how the new grass tiles look, and the second shows how the original grass looks like for comparison.<br>\r\n<br>\r\nCredit is unecessary.<br>\r\n<br>\r\nMurphmario's Update: Added two map16 files to make this more accurate to the original graphics. The first one will apply it to the vanilla tile (make sure the fg/bg gfx index is set to Castle 1) while the \"separate\" one will add in a new tile on page 5.",
+  "latest_version": "smwc-34449-1690131395",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 34449,
+      "title": "Super Mario World (PAL V.1.1) - Castle Grass",
+      "version": "smwc-34449-1690131395",
+      "upstream_time": 1690131395,
+      "download_url": "https://dl.smwcentral.net/34449/PAL_SMW_Castlegrass.zip",
+      "filename": "PAL_SMW_Castlegrass.zip",
+      "size": 3593,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

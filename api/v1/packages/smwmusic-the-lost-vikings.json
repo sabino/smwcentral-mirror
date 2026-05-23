@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-the-lost-vikings",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39190,
+  "title": "The Lost Vikings 2 (SNES) - Apocalyptic Future",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "cave",
+    "final",
+    "ghost house",
+    "industrial",
+    "night",
+    "ruins",
+    "space",
+    "tense"
+  ],
+  "description": "Music from the final chapter of Lost Vikings 2.",
+  "latest_version": "smwc-39190-1740792405",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39190,
+      "title": "The Lost Vikings 2 (SNES) - Apocalyptic Future",
+      "version": "smwc-39190-1740792405",
+      "upstream_time": 1740792405,
+      "download_url": "https://dl.smwcentral.net/39190/Apocalyptic%20Future.zip",
+      "filename": "Apocalyptic Future.zip",
+      "size": 56468,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39146,
+      "title": "The Lost Vikings 2 (SNES) - Dark Ages",
+      "version": "smwc-39146-1740791212",
+      "upstream_time": 1740791212,
+      "download_url": "https://dl.smwcentral.net/39146/Dark%20Ages.zip",
+      "filename": "Dark Ages.zip",
+      "size": 58052,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

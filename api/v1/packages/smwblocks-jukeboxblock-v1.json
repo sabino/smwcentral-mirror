@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-jukeboxblock-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 39522,
+  "title": "JukeboxBlock v1.1",
+  "authors": [
+    "AlesN0w"
+  ],
+  "tags": [
+    "music",
+    "music box"
+  ],
+  "description": "This is a jukebox block. It changes the currently playing music each time the player presses UP or DOWN. You can configure which songs the jukebox will play and also how many songs it can cycle through (maximum of 30).  <br>\r\n<br>\r\nBy default, it is set to play 20 songs (I did this for those who want to use it without AddMusic). The jukebox will go through all the songs as the player presses UP, then it will return to the music that was playing in the level (you need to configure which music will be playing in the level).  <br>\r\n<br>\r\nYou can use this jukebox without AddMusic, but I recommend installing AddMusic at least once in your hack before using it, since AddMusic changes the Hex values of the songs after installation.  <br>\r\n<br>\r\nIt comes with graphics and a GPS list, but you can draw your own graphics if you want. Set \"Act as\" to 25 for the jukebox.  <br>\r\n<br>\r\nFor more information on how to customize the jukebox, check the Readme.  <br>\r\n<br>\r\nI hope you all enjoy it!<br>\r\n<br>\r\nUpdate JukeboxBlock v1.1:  <br>\r\n<br>\r\n  Added the function to go back to previous songs by pressing DOWN, suggested by \"HammerBrother\". Readme updated.",
+  "latest_version": "smwc-39522-1748288381",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 39522,
+      "title": "JukeboxBlock v1.1",
+      "version": "smwc-39522-1748288381",
+      "upstream_time": 1748288381,
+      "download_url": "https://dl.smwcentral.net/39522/JukeboxBlock%20v1_1.zip",
+      "filename": "JukeboxBlock v1_1.zip",
+      "size": 6435,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

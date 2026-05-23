@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-trials-of-mana-positive",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10866,
+  "title": "Trials of Mana - Positive",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "goal"
+  ],
+  "description": "(Also known as \"Seiken Densetsu 3\" in Japan)<br>\r\n<br>\r\nShort victory-esque theme.",
+  "latest_version": "smwc-10866-1425431402",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10866,
+      "title": "Trials of Mana - Positive",
+      "version": "smwc-10866-1425431402",
+      "upstream_time": 1425431402,
+      "download_url": "https://dl.smwcentral.net/10866/sd3_positive.zip",
+      "filename": "sd3_positive.zip",
+      "size": 71815,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

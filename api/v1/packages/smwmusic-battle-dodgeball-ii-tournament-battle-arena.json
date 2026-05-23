@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-battle-dodgeball-ii-tournament-battle-arena",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40829,
+  "title": "Battle Dodgeball II - Tournament Battle Arena",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "fire",
+    "industrial",
+    "tense",
+    "upbeat"
+  ],
+  "description": "Tournament Battle Arena from Battle Dodgeball II on the SNES.<br>\r\n<br>\r\nContains a define to enable/disable the intro.",
+  "latest_version": "smwc-40829-1763067443",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40829,
+      "title": "Battle Dodgeball II - Tournament Battle Arena",
+      "version": "smwc-40829-1763067443",
+      "upstream_time": 1763067443,
+      "download_url": "https://dl.smwcentral.net/40829/Battle%20Dodgeball%20II%20-%20Tournament%20Battle%20Arena.zip",
+      "filename": "Battle Dodgeball II - Tournament Battle Arena.zip",
+      "size": 129718,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

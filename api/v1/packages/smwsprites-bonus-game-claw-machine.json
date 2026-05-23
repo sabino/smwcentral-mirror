@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bonus-game-claw-machine",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33857,
+  "title": "Bonus Game - Claw Machine",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "bonus game",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This sprite is, effectively, a new bonus game meant to act as a replacement to the one found in Level 000/100. With the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=33818\">Bonus Game Destination Expander</a> patch, you can also use it in conjunction with the default bonus game, or any others.<br>\r\n<br>\r\nModeled after Super Mario Land 2's bonus game but drawn to fit a style reminiscent of SMW/SMM2, this bonus game is intended to be a unique challenge for players. An assortment of 8 items are created at random (from multiple sets of item pools which may be customized) and move along the conveyor belt.<br>\r\nStepping on the blue switch will cause the claw to descend, grabbing any item that happens to be at that position.<br>\r\nWith the default settings, the claw inverts direction and speeds up after each try. Both of these behaviors can of course be disabled.<br>\r\n<br>\r\nSeveral items can spawn which will give the player more tries, re-rolls all available items, or a Bob-Omb which destroys the crane and ends the minigame. A skilled player can keep playing so long as they they aim to refresh their tries and the items on the conveyor.<br>\r\n<br>\r\nAn example level making use of this sprite (in the list.txt slot of 00) is included, to give an example of the preferred way to set the room up.<br>\r\n<br>\r\nDisclaimer: It's suggested to use the sprite alongside  <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24816\">NMSTL</a> or SA-1. Moreover, it should only be inserted once in the first screen of a single screen horizontal level, otherwise it will glitch.",
+  "latest_version": "smwc-33857-1704923732",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33857,
+      "title": "Bonus Game - Claw Machine",
+      "version": "smwc-33857-1704923732",
+      "upstream_time": 1704923732,
+      "download_url": "https://dl.smwcentral.net/33857/BonusGame_ClawMachine.zip",
+      "filename": "BonusGame_ClawMachine.zip",
+      "size": 29221,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

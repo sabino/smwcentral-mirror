@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-key-lock-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41117,
+  "title": "Key Lock Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "key",
+    "lock",
+    "lorom",
+    "puzzle",
+    "sa-1"
+  ],
+  "description": "This package contains many key block barriers in different shapes:<br>\r\n<br>\r\n-A 2 block long (vertically and horizontally)<br>\r\n-A 3 block long (vertically and horizontally)<br>\r\n-A 32x32 px (2x2 16x16) block<br>\r\n<br>\r\nAnd also an option if you want a stackable key counter like in the zelda series.",
+  "latest_version": "smwc-41117-1764224192",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41117,
+      "title": "Key Lock Blocks",
+      "version": "smwc-41117-1764224192",
+      "upstream_time": 1764224192,
+      "download_url": "https://dl.smwcentral.net/41117/Key%20Lock%20Blocks.zip",
+      "filename": "Key Lock Blocks.zip",
+      "size": 49430,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

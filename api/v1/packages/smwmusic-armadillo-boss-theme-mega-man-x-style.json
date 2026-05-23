@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-armadillo-boss-theme-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39728,
+  "title": "Armadillo - Boss Theme (Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "Based : Boss Battle - Mega Man X",
+  "latest_version": "smwc-39728-1746056360",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39728,
+      "title": "Armadillo - Boss Theme (Mega Man X Style)",
+      "version": "smwc-39728-1746056360",
+      "upstream_time": 1746056360,
+      "download_url": "https://dl.smwcentral.net/39728/Boss_Armadillo_X1.zip",
+      "filename": "Boss_Armadillo_X1.zip",
+      "size": 55850,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

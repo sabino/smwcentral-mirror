@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-trials-of-mana-ancient-dolphin-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23091,
+  "title": "Trials of Mana - Ancient Dolphin (arrangement)",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "castle",
+    "mysterious",
+    "night",
+    "sad",
+    "spooky",
+    "temple"
+  ],
+  "description": "A quiet, haunting song that plays in a final dungeon. Useful for finals, temples and night levels.<br>\r\n<br>\r\nTrivia:<br>\r\n- My favourite dungeon in the game.<br>\r\n- I spent 30% of production time trying to fix one mistake in the midi file.<br>\r\n- Big thanks to user @Brozilla for teaching me $FA$02$XX some months ago because I abused it to save memory space. Also it made the code organizing a cakewalk! :))<br>\r\n- Again big thanks to user @musicalman for his sample pack.<br>\r\n- After @Tamaki's suggestion, I made the instrumentation closer to the original's. I still do not own the original samples (@Samantha), so I'll leave it as \"remix\" and try to get started in sample ripping.<br>\r\n- Update 27/05: fixed the notes at the end and the bell octave at the beginning.",
+  "latest_version": "smwc-23091-1591046240",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23091,
+      "title": "Trials of Mana - Ancient Dolphin (arrangement)",
+      "version": "smwc-23091-1591046240",
+      "upstream_time": 1591046240,
+      "download_url": "https://dl.smwcentral.net/23091/tom_ancient_dolphin_0_2.zip",
+      "filename": "tom_ancient_dolphin_0_2.zip",
+      "size": 46436,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-slide-attack",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 20159,
+  "title": "Slide Attack",
+  "authors": [
+    "HuFlungDu",
+    "Major Flare"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "attack",
+    "lorom",
+    "physics",
+    "sa-1",
+    "slide"
+  ],
+  "description": "Uberasm version of a patch made at request of: Ladida<br>\r\nAllows Mario to slide attack by running and ducking. Will kill any enemy that can be killed by a star.<br>\r\nAs always, no credit necessary.",
+  "latest_version": "smwc-20159-1559914433",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 20159,
+      "title": "Slide Attack",
+      "version": "smwc-20159-1559914433",
+      "upstream_time": 1559914433,
+      "download_url": "https://dl.smwcentral.net/20159/SlideAttack.zip",
+      "filename": "SlideAttack.zip",
+      "size": 464,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-kirubiru-slash-the-building-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24008,
+  "title": "Kirubiru: Slash the Building? - Act 2 Theme",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "bonus",
+    "boss",
+    "castle",
+    "cutscene",
+    "dark",
+    "final",
+    "mysterious",
+    "tense"
+  ],
+  "description": "A piano-only song from the doujin game <i>Kirubiru</i>. Could fit boss battle or castle/final levels.<br>\r\n<br>\r\nThis port uses the optimized SMW sample set, because the piano samples take up a lot of ARAM. As an alternative, you can use the default SMW samples (but with Thunder SFX and @7 disabled) by following instruction:<br>\r\n- Go look for a line \"#define DisableSFX 0\" and change the value to \"1\".<br>\r\n- Open and copy the contents inside \"Kirubiru_Act_2_sample_group.txt\", and add them into \"Addmusic_sample_groups.txt\" in your AddmusicK folder.",
+  "latest_version": "smwc-24008-1597470750",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24008,
+      "title": "Kirubiru: Slash the Building? - Act 2 Theme",
+      "version": "smwc-24008-1597470750",
+      "upstream_time": 1597470750,
+      "download_url": "https://dl.smwcentral.net/24008/Kirubiru%20Act%202%20Version%202.1.zip",
+      "filename": "Kirubiru Act 2 Version 2.1.zip",
+      "size": 77534,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

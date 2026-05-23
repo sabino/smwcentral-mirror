@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-stationary-re-usable-p-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41217,
+  "title": "Stationary Re-Usable P-Switch",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "p-switch",
+    "sa-1"
+  ],
+  "description": "Unlike smw's p-switches, these p-switches are stationary and can be used multiple times, useful for puzzle levels for those who dislike having to reset.",
+  "latest_version": "smwc-41217-1764815388",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41217,
+      "title": "Stationary Re-Usable P-Switch",
+      "version": "smwc-41217-1764815388",
+      "upstream_time": 1764815388,
+      "download_url": "https://dl.smwcentral.net/41217/Stationary%20P-Switch.zip",
+      "filename": "Stationary P-Switch.zip",
+      "size": 12216,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

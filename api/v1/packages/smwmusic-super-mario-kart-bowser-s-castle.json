@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-kart-bowser-s-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30078,
+  "title": "Super Mario Kart - Bowser's Castle",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "fire"
+  ],
+  "description": "The famous song from Super Mario Kart's Bowser's Castle stages.<br>\r\nThere is a define in the document that can be changed to get the \"Final Lap\" version of the song.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"NintendoMarioBros4\"><a href=\"/?p=profile&amp;id=20856\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">NintendoMarioBros4</a></span>",
+  "latest_version": "smwc-30078-1646687524",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30078,
+      "title": "Super Mario Kart - Bowser's Castle",
+      "version": "smwc-30078-1646687524",
+      "upstream_time": 1646687524,
+      "download_url": "https://dl.smwcentral.net/30078/Super%20Mario%20Kart%20-%20Bowser%27s%20Castle.zip",
+      "filename": "Super Mario Kart - Bowser%27s Castle.zip",
+      "size": 95888,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

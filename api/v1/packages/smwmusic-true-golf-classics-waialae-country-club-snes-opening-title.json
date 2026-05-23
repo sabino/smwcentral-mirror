@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-true-golf-classics-waialae-country-club-snes-opening-title",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41866,
+  "title": "True Golf Classics: Waialae Country Club (SNES) - Opening/Title",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "beach",
+    "sea",
+    "title",
+    "upbeat"
+  ],
+  "description": "Opening & Title Screen music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
+  "latest_version": "smwc-41866-1777735012",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41866,
+      "title": "True Golf Classics: Waialae Country Club (SNES) - Opening/Title",
+      "version": "smwc-41866-1777735012",
+      "upstream_time": 1777735012,
+      "download_url": "https://dl.smwcentral.net/41866/Waialae%20Country%20Club%20%28SNES%29%20-%20Title%20Screen.zip",
+      "filename": "Waialae Country Club (SNES) - Title Screen.zip",
+      "size": 58832,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

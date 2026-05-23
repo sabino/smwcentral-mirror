@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-placeable-disco-shell",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21597,
+  "title": "Placeable Disco Shell",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch will make disco shells appear if you add one of the sprites DA, DB, DC, DD or DF with extra bit set to 1.<br>\r\n<br>\r\nUpdate: now compatible with SA-1 and Lunar Magic 3.00.",
+  "latest_version": "smwc-21597-1575752535",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21597,
+      "title": "Placeable Disco Shell",
+      "version": "smwc-21597-1575752535",
+      "upstream_time": 1575752535,
+      "download_url": "https://dl.smwcentral.net/21597/extradisco.zip",
+      "filename": "extradisco.zip",
+      "size": 1466,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

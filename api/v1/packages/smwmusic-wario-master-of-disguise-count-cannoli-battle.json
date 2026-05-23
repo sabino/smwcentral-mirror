@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wario-master-of-disguise-count-cannoli-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17853,
+  "title": "Wario: Master of Disguise - Count Cannoli Battle",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "The wonderful battle song you hear when fighting count Cannoli in WMoD. Can fit mid-bosses, since it's kind of repetitive and short, yet memorable.<br>\r\nWatch out with noise SFX in your levels, since the song uses noise.",
+  "latest_version": "smwc-17853-1531991476",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17853,
+      "title": "Wario: Master of Disguise - Count Cannoli Battle",
+      "version": "smwc-17853-1531991476",
+      "upstream_time": 1531991476,
+      "download_url": "https://dl.smwcentral.net/17853/cannoli.zip",
+      "filename": "cannoli.zip",
+      "size": 34537,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

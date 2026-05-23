@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-metroid-hp-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 8980,
+  "title": "Metroid HP Patch",
+  "authors": [
+    "ICB"
+  ],
+  "tags": [
+    "health",
+    "lorom",
+    "metroid",
+    "metroid health",
+    "needs remoderation"
+  ],
+  "description": "This patch applies the classic Metroid health system to SMW. HP is numerical, and you can get reserve tanks, just like in Metroid, that add 100HP (another 00-99) to your max health (will show boxes as graphical). These can only be collected once and save to SRAM.<br>\r\n<br>\r\nWhen your HP hits 00, you die, unless you have a reserve tank, and then the number rolls over to 99 again, emptying the current tank. Enemies deal 20 HP damage by default, and mushrooms heal 20 also by default. Special code can be inserted in a custom sprite's Mario Contact routine to deal a custom amount of damage.<br>\r\n<br>\r\nThis package includes:<br>\r\n<ul>\r\n<li>The actual MetroidHP.asm patch to be applied with Asar.</li>\r\n<li>Three sprites to show examples of custom HP damage.</li>\r\n<li>Four blocks (Heal block, hurt blocks and hidden reserve tank block).</li>\r\n<li>GFX for the new status bar, sprites and reserve tanks.</li>\r\n<li>A readme.</li>\r\n</ul>",
+  "latest_version": "smwc-8980-1408129771",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 8980,
+      "title": "Metroid HP Patch",
+      "version": "smwc-8980-1408129771",
+      "upstream_time": 1408129771,
+      "download_url": "https://dl.smwcentral.net/8980/MetroidHP_2.3.zip",
+      "filename": "MetroidHP_2.3.zip",
+      "size": 37904,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

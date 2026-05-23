@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-ghb-s-walljump-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 11280,
+  "title": "GHB's Walljump Block",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "walljump"
+  ],
+  "description": "This walljump block has fixes from <a href=\"http://www.smwcentral.net/?p=section&a=details&id=4041\">Ersanio's walljump block</a>:<br>\r\n<br>\r\n-walljumping \"away\" from the block causes mario to walljump shorter from the wall than what he's supposed to and in faster X speeds, can \"suck\" mario into the wall and die, It uses $7E:0093 to check which side mario is on.<br>\r\n<br>\r\n-if mario's \"status\" like not swimming, not carrying an item, not ducking, not spinjumping, and is in the air (possible if you place this on the ground), then he can walljump.<br>\r\n<br>\r\nI did not \"copy\" his block, its created from scratch, but the labels pointers defines on the top are for the user to change the speed are now explainable to understand (like having the x speed left and right are the same distance away from the wall formula is L=$100-R).<br>\r\n<br>\r\nNote: do not use this on horizontal moving layer 2, the detection of left and right side gets switched if the blocks are halfway \"between block grid\" on the layer 2 x position.<br>\r\n",
+  "latest_version": "smwc-11280-1430612157",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 11280,
+      "title": "GHB's Walljump Block",
+      "version": "smwc-11280-1430612157",
+      "upstream_time": 1430612157,
+      "download_url": "https://dl.smwcentral.net/11280/GHB_walljumpfix.zip",
+      "filename": "GHB_walljumpfix.zip",
+      "size": 1429,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

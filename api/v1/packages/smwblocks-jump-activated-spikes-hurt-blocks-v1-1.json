@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-jump-activated-spikes-hurt-blocks-v1-1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41209,
+  "title": "Jump-Activated Spikes/Hurt Blocks v1.1.1",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "hurt",
+    "jump",
+    "lorom",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+  "latest_version": "smwc-41209-1765844757",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41209,
+      "title": "Jump-Activated Spikes/Hurt Blocks v1.1.1",
+      "version": "smwc-41209-1765844757",
+      "upstream_time": 1765844757,
+      "download_url": "https://dl.smwcentral.net/41209/Jump%20Activated%20Spikes%20v1.1.1.zip",
+      "filename": "Jump Activated Spikes v1.1.1.zip",
+      "size": 7673,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

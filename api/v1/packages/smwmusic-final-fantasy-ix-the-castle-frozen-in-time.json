@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-ix-the-castle-frozen-in-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23005,
+  "title": "Final Fantasy IX - The Castle Frozen in Time",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "night"
+  ],
+  "description": "The infamous Pandaemonium Theme, also known as \"The Castle Frozen in Time\" from Final Fantasy IX. Could suit a dark, albeit calm atmosphere of a castle/dungeon.<br>\r\n<br>\r\nSpecial thanks to Teows for helping me with sampling and the general aspects of the port.",
+  "latest_version": "smwc-23005-1590557234",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23005,
+      "title": "Final Fantasy IX - The Castle Frozen in Time",
+      "version": "smwc-23005-1590557234",
+      "upstream_time": 1590557234,
+      "download_url": "https://dl.smwcentral.net/23005/Castle%20Frozen%20in%20Time.zip",
+      "filename": "Castle Frozen in Time.zip",
+      "size": 51113,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

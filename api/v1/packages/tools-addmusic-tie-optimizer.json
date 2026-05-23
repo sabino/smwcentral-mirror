@@ -1,0 +1,32 @@
+{
+  "name": "tools-addmusic-tie-optimizer",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4604,
+  "title": "Addmusic Tie Optimizer",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "addmusic",
+    "music",
+    "utility"
+  ],
+  "description": "This tool is used for custom music txt files. It replaces the ties (^) by the equals (=) command which uses less space than a tie itself but has the exact same effect, thus reducing the song insertion size. I can not guarantee that this tool will work on every single music, but it works on most of them.<br>\r\n<br>\r\nThere's also \"unsafe mode\" you could try. It makes the txt look even more complicated, but it could reduce the insertion size even more (or increase it). The chance for insertion and music errors becomes higher too, so use it at your own risk. It's always worth to give it a try though! Requires a browser with javascript support.<br>\r\n<br>\r\nThanks SNN for suggesting this tool to me, which in turn made me create it.",
+  "latest_version": "smwc-4604-1363206325",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4604,
+      "title": "Addmusic Tie Optimizer",
+      "version": "smwc-4604-1363206325",
+      "upstream_time": 1363206325,
+      "download_url": "https://dl.smwcentral.net/4604/Addmusic%20Tie%20Optimizer.zip",
+      "filename": "Addmusic Tie Optimizer.zip",
+      "size": 1896,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

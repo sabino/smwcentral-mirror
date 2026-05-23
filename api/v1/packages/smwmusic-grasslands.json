@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-grasslands",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20513,
+  "title": "Grasslands",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "beach",
+    "grassland"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nThis was supposed to be the default grassland theme [for SMWCP1.5], but unfortunately the project was shut down. Could also fit beach levels!",
+  "latest_version": "smwc-20513-1562575725",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20513,
+      "title": "Grasslands",
+      "version": "smwc-20513-1562575725",
+      "upstream_time": 1562575725,
+      "download_url": "https://dl.smwcentral.net/20513/CUSTOM%20-%20Grasslands.zip",
+      "filename": "CUSTOM - Grasslands.zip",
+      "size": 34465,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

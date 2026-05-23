@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cool-spot-snes-off-da-wall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33956,
+  "title": "Cool Spot (SNES) - Off Da Wall",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "beach",
+    "town",
+    "urban"
+  ],
+  "description": "Mouse world theme from Cool Spot, by the first American to ever work on 7-Up. Ported from the SNES version, but not too different unsampled from Mega Drive/Genesis.",
+  "latest_version": "smwc-33956-1695825549",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33956,
+      "title": "Cool Spot (SNES) - Off Da Wall",
+      "version": "smwc-33956-1695825549",
+      "upstream_time": 1695825549,
+      "download_url": "https://dl.smwcentral.net/33956/Cool_Spot_-_Off_Da_Wall.zip",
+      "filename": "Cool_Spot_-_Off_Da_Wall.zip",
+      "size": 33054,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

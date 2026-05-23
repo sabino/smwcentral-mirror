@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-chasing-hidden-rex",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20062,
+  "title": "Chasing & Hidden Rex",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "chase",
+    "enemy",
+    "invincible",
+    "lorom",
+    "rex",
+    "sa-1"
+  ],
+  "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nNo GIEPY support this time, sorry.<br>\r\n<br>\r\nRequested by Roberto zampari, zacmario and Blizzard Buffalo.",
+  "latest_version": "smwc-20062-1559140772",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20062,
+      "title": "Chasing & Hidden Rex",
+      "version": "smwc-20062-1559140772",
+      "upstream_time": 1559140772,
+      "download_url": "https://dl.smwcentral.net/20062/ChasinRex.zip",
+      "filename": "ChasinRex.zip",
+      "size": 6415,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

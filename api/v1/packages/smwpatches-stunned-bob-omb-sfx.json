@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-stunned-bob-omb-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24703,
+  "title": "Stunned Bob-Omb SFX",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "bob-omb",
+    "lorom",
+    "sa-1",
+    "sfx",
+    "stunned"
+  ],
+  "description": "This simple patch adds a beeping sound effect to the Bob-omb when it's stun timer is set, acting as a warning ticker that beeps faster when the Bob-omb is about to explode.<br>\r\n<br>\r\nThe sound effect that plays and the SFX bank can be edited with the defines in the asm file.",
+  "latest_version": "smwc-24703-1601228055",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24703,
+      "title": "Stunned Bob-Omb SFX",
+      "version": "smwc-24703-1601228055",
+      "upstream_time": 1601228055,
+      "download_url": "https://dl.smwcentral.net/24703/BombBeep.zip",
+      "filename": "BombBeep.zip",
+      "size": 399,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

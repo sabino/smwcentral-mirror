@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11576,
+  "title": "Mario & Luigi: Superstar Saga - Boss Battle",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss"
+  ],
+  "description": "The song you hear when you fight a boss in Mario & Luigi Superstar Saga. It can be used for boss battles really well.",
+  "latest_version": "smwc-11576-1437619747",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11576,
+      "title": "Mario & Luigi: Superstar Saga - Boss Battle",
+      "version": "smwc-11576-1437619747",
+      "upstream_time": 1437619747,
+      "download_url": "https://dl.smwcentral.net/11576/M%26L%20Boss.zip",
+      "filename": "M%26L Boss.zip",
+      "size": 23263,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11135,
+      "title": "Mario & Luigi: Superstar Saga - Boss Battle",
+      "version": "smwc-11135-1428200971",
+      "upstream_time": 1428200971,
+      "download_url": "https://dl.smwcentral.net/11135/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20-%20Boss%20Battle%20%28sampled%29.zip",
+      "filename": "Mario %26 Luigi - Superstar Saga - Boss Battle (sampled).zip",
+      "size": 114018,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-3-up-moon-sprite-v2",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35643,
+  "title": "3-UP Moon Sprite V2.0",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "block",
+    "collectable",
+    "lifes",
+    "lorom",
+    "moon",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "3-UP Moon Sprite V2.0:<br>\r\n<br>\r\nDescription: A sprite that tries to mimic the 3-UP Moon Object tile from SMW, but in sprite form! It's a bit different from the existing one, it acts with new behaviours! obviously, this will works like the Object tile, but you can add/modify stuff!<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nAllow customize the sprite easily with an Extra Byte.<br>\r\n<br>\r\nMore details are on the documentation (Readme) file!<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=125768\">Requested</a> by <span class=\"un-outer\" title=\"NopeContest\"><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=45664\" style=\"color: #73c873;\" class=\"un\">NopeContest</a></span>",
+  "latest_version": "smwc-35643-1704374677",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35643,
+      "title": "3-UP Moon Sprite V2.0",
+      "version": "smwc-35643-1704374677",
+      "upstream_time": 1704374677,
+      "download_url": "https://dl.smwcentral.net/35643/3-UP%20Moon%20Sprite%20V2.0.zip",
+      "filename": "3-UP Moon Sprite V2.0.zip",
+      "size": 11223,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

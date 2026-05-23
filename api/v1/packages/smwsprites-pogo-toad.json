@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-pogo-toad",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24692,
+  "title": "Pogo Toad",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "jumping",
+    "lorom",
+    "pogo",
+    "sa-1"
+  ],
+  "description": "Yay, my first fully functional sprite(s)! Inspired by a...rather unusual source, these little guys are 16x32 sprites that bounce around.  One of them bounces up and down; the other bounces forward.  LunarDrake drew the graphics, so if you use them, be sure to credit him as well.<br>\r\n<br>\r\nUpdate 23/09/2020: SA-1 compatibility and .json conversions.",
+  "latest_version": "smwc-24692-1601333566",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24692,
+      "title": "Pogo Toad",
+      "version": "smwc-24692-1601333566",
+      "upstream_time": 1601333566,
+      "download_url": "https://dl.smwcentral.net/24692/Pogotoad.zip",
+      "filename": "Pogotoad.zip",
+      "size": 8329,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

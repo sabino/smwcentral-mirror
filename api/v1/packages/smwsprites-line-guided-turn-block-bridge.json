@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-line-guided-turn-block-bridge",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20699,
+  "title": "Line-Guided Turn Block Bridge",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This is a line-guided version of turn block bridge.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-20699-1564619287",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20699,
+      "title": "Line-Guided Turn Block Bridge",
+      "version": "smwc-20699-1564619287",
+      "upstream_time": 1564619287,
+      "download_url": "https://dl.smwcentral.net/20699/Line-Guided%20Turnblock%20Bridge.zip",
+      "filename": "Line-Guided Turnblock Bridge.zip",
+      "size": 8225,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

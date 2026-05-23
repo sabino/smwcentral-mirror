@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-deltarune-spamton",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31258,
+  "title": "Deltarune - Spamton",
+  "authors": [
+    "EstrelaRadiosa"
+  ],
+  "tags": [
+    "secret level",
+    "shop",
+    "spooky"
+  ],
+  "description": "Spamton's encounter theme from Deltarune's second chapter.<br>\r\nTechnically my first port. Unsampled. Probably fits better with secret power-up areas or some kind of shop.",
+  "latest_version": "smwc-31258-1674004345",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31258,
+      "title": "Deltarune - Spamton",
+      "version": "smwc-31258-1674004345",
+      "upstream_time": 1674004345,
+      "download_url": "https://dl.smwcentral.net/31258/Spamton.zip",
+      "filename": "Spamton.zip",
+      "size": 32158,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

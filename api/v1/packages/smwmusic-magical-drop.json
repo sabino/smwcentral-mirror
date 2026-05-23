@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-magical-drop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12540,
+  "title": "Magical Drop 3 - I'm the Best! (theme of Empress)",
+  "authors": [
+    "IggyKoopa2"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "A short, fast-paced theme that works for a boss.",
+  "latest_version": "smwc-12540-1446323279",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12540,
+      "title": "Magical Drop 3 - I'm the Best! (theme of Empress)",
+      "version": "smwc-12540-1446323279",
+      "upstream_time": 1446323279,
+      "download_url": "https://dl.smwcentral.net/12540/empress.zip",
+      "filename": "empress.zip",
+      "size": 31404,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

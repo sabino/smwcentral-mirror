@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-planted-sprite-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4045,
+  "title": "Planted Sprite Block",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "collectible",
+    "generator",
+    "lorom"
+  ],
+  "description": "A disassembly of MikeyK's block, \"MushBlk.bin\". I added a few extra features, such as sound effects, and the ability to chose whether the sprite created is normal or custom. Its like ICB's Veggie Blocks, but doesn't crash the game when there are too many sprites on screen at once - it now doesn't activate when there are too many sprites.<br>\r\n<br>\r\nPM me if you encounter any major errors. No credit needed.",
+  "latest_version": "smwc-4045-1426304790",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4045,
+      "title": "Planted Sprite Block",
+      "version": "smwc-4045-1426304790",
+      "upstream_time": 1426304790,
+      "download_url": "https://dl.smwcentral.net/4045/SpriteGen.zip",
+      "filename": "SpriteGen.zip",
+      "size": 1271,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

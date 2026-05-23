@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-earthworm-jim-genesis-andy-asteroids",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 24880,
+  "title": "Earthworm Jim (Genesis) - Andy Asteroids",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "needs remoderation",
+    "space"
+  ],
+  "description": "Thehoundsquad also uploaded this. Mine has some differences:<br>\r\n<br>\r\n-Mine only has a .map16 file. Thehoundsquad's version had 2.<br>\r\n-While both versions use palette 3, my version has a more organised palette. Thehoundsquad's version had the palette from the original.<br>\r\n-Mine also has a .palmask file. Thehoundsquad's version had no such file.<br>\r\n<br>\r\nRequested by TypeII_Mound ",
+  "latest_version": "smwc-24880-1602958975",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 24880,
+      "title": "Earthworm Jim (Genesis) - Andy Asteroids",
+      "version": "smwc-24880-1602958975",
+      "upstream_time": 1602958975,
+      "download_url": "https://dl.smwcentral.net/24880/EWJ%20-%20Andy%20Asteroids%20Genesis.zip",
+      "filename": "EWJ - Andy Asteroids Genesis.zip",
+      "size": 12990,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

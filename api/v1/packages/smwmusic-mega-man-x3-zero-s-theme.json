@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x3-zero-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8301,
+  "title": "Mega Man X3 - Zero's Theme",
+  "authors": [
+    "Maxodex"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "An epic upbeat &mdash;but short&mdash; theme that plays in MMX3.<br>\r\n<br>\r\nUpdate (09/15/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 64 bytes.",
+  "latest_version": "smwc-8301-1347388991",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8301,
+      "title": "Mega Man X3 - Zero's Theme",
+      "version": "smwc-8301-1347388991",
+      "upstream_time": 1347388991,
+      "download_url": "https://dl.smwcentral.net/8301/Zero%27s.Theme.zip",
+      "filename": "Zero%27s.Theme.zip",
+      "size": 60484,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-numerical-dragon-coin-counter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 16616,
+  "title": "Numerical Dragon Coin Counter",
+  "authors": [
+    "Neosz"
+  ],
+  "tags": [
+    "counter",
+    "dragon coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Displays Dragon Coins as a number rather than displaying each coin.<br>\r\nNOTE: If you don't want the \"x\" and the number to use palette 8, use Smallhacker's Status Bar editor to change it to palette 7.<br>\r\n<br>\r\nFeel free to add this to the patch and resubmit it or PM me on how to  do it.",
+  "latest_version": "smwc-16616-1511197381",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 16616,
+      "title": "Numerical Dragon Coin Counter",
+      "version": "smwc-16616-1511197381",
+      "upstream_time": 1511197381,
+      "download_url": "https://dl.smwcentral.net/16616/DragonCoins.zip",
+      "filename": "DragonCoins.zip",
+      "size": 882,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

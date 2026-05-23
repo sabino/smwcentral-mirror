@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-giant-reflecting-fireball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41187,
+  "title": "Giant Reflecting Fireball",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "fireball",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a 32x32 version of the reflecting fireball sprite that bounces around diagonally.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>: Recoded everything from scratch; inspired on ASM's work, but code is mine. Now includes a variety of options including flipping graphics when hitting a wall, follow Mario or disable palette flashing. Also added SA-1 and PIXI compatibility.",
+  "latest_version": "smwc-41187-1764534754",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41187,
+      "title": "Giant Reflecting Fireball",
+      "version": "smwc-41187-1764534754",
+      "upstream_time": 1764534754,
+      "download_url": "https://dl.smwcentral.net/41187/Giant%20Reflecting%20Fireball.zip",
+      "filename": "Giant Reflecting Fireball.zip",
+      "size": 5516,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

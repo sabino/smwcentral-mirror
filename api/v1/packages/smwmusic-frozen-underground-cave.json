@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-frozen-underground-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14813,
+  "title": "Frozen Underground Cave",
+  "authors": [
+    "Daniel133"
+  ],
+  "tags": [
+    "cave",
+    "overworld",
+    "water"
+  ],
+  "description": "That song is good for Overworld maps:<br>\r\nCaves, water; etc.<br>\r\nWith themes on winter.",
+  "latest_version": "smwc-14813-1483063716",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14813,
+      "title": "Frozen Underground Cave",
+      "version": "smwc-14813-1483063716",
+      "upstream_time": 1483063716,
+      "download_url": "https://dl.smwcentral.net/14813/Frozen%20Underground%20Cave.zip",
+      "filename": "Frozen Underground Cave.zip",
+      "size": 30951,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dynamitracer-skull-bone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36632,
+  "title": "DynamiTracer - Skull Bone 2",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "chase"
+  ],
+  "description": "Fits in boss battles",
+  "latest_version": "smwc-36632-1706404153",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36632,
+      "title": "DynamiTracer - Skull Bone 2",
+      "version": "smwc-36632-1706404153",
+      "upstream_time": 1706404153,
+      "download_url": "https://dl.smwcentral.net/36632/Skull_Bone_2.zip",
+      "filename": "Skull_Bone_2.zip",
+      "size": 67091,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

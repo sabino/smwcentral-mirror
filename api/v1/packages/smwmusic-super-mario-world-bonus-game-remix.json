@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-world-bonus-game-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8585,
+  "title": "Super Mario World - Bonus Game Remix",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "A remix of the bonus game theme from Super Mario World. Would fit bonus games/rooms.",
+  "latest_version": "smwc-8585-1400354992",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8585,
+      "title": "Super Mario World - Bonus Game Remix",
+      "version": "smwc-8585-1400354992",
+      "upstream_time": 1400354992,
+      "download_url": "https://dl.smwcentral.net/8585/SMW-BonusRemix.zip",
+      "filename": "SMW-BonusRemix.zip",
+      "size": 71633,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

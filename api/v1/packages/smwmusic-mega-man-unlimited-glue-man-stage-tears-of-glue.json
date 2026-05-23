@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-unlimited-glue-man-stage-tears-of-glue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13252,
+  "title": "Mega Man Unlimited - Glue Man Stage ~ Tears of Glue",
+  "authors": [
+    "Kaizo Zhang"
+  ],
+  "tags": [
+    "industrial",
+    "retro",
+    "sad",
+    "sewer"
+  ],
+  "description": "BGM from fan game Mega Man Unlimited. It's a little sad.",
+  "latest_version": "smwc-13252-1456251006",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13252,
+      "title": "Mega Man Unlimited - Glue Man Stage ~ Tears of Glue",
+      "version": "smwc-13252-1456251006",
+      "upstream_time": 1456251006,
+      "download_url": "https://dl.smwcentral.net/13252/Glue%20Man.zip",
+      "filename": "Glue Man.zip",
+      "size": 32524,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

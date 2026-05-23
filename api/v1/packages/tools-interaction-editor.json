@@ -1,0 +1,32 @@
+{
+  "name": "tools-interaction-editor",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 15234,
+  "title": "Interaction Editor",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "collision",
+    "hitbox",
+    "player"
+  ],
+  "description": "After my (not so) recent encounter with <a href=\"https://www.smwcentral.net/?p=viewthread&t=87867\">player hitboxes</a> I decided to make a tool out of it... yeah.<br>\r\n<br>\r\nAnyway, this allows you to easily modify the player's collision points as well as sprite hitboxes.<br>\r\n<br>\r\nWarning:<br>\r\nChanging collision points in the wrong way can easily cause glitches with the player's behaviour which may or may not be immediately noticeable<br>\r\n<br>\r\nWhile there are template and interaction files included with the tool the included template patches only modify the interaction points/sprite hitboxes. They do NOT fix any of the side effects of moving the interaction points/sprite hitboxes that may or may not appear. Use at your own risk.<br>\r\nDon't use this if you don't know what you're doing",
+  "latest_version": "smwc-15234-1488217978",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 15234,
+      "title": "Interaction Editor",
+      "version": "smwc-15234-1488217978",
+      "upstream_time": 1488217978,
+      "download_url": "https://dl.smwcentral.net/15234/InteractionEditor.zip",
+      "filename": "InteractionEditor.zip",
+      "size": 27754,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-bosconian-flash-flash-flash",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21849,
+  "title": "Bosconian - Flash Flash Flash",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "fire",
+    "space",
+    "title"
+  ],
+  "description": "Intense song that took 2nd place in 72hoSPC #5. (note: cannot be used with podoboos or other noise-sfx-using sprites)",
+  "latest_version": "smwc-21849-1580445934",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21849,
+      "title": "Bosconian - Flash Flash Flash",
+      "version": "smwc-21849-1580445934",
+      "upstream_time": 1580445934,
+      "download_url": "https://dl.smwcentral.net/21849/flash.zip",
+      "filename": "flash.zip",
+      "size": 37019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

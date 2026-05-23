@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-mario-kart-rainbow-road-icy-waltz-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26761,
+  "title": "Super Mario Kart - Rainbow Road (Icy Waltz Remix)",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "bonus",
+    "cave",
+    "ice",
+    "night",
+    "overworld",
+    "space"
+  ],
+  "description": "Icy Waltz remixed from Super Mario Kart - Rainbow Road. Could fit on the ice cavern and galactic snow overworlds. Maybe special worlds...",
+  "latest_version": "smwc-26761-1621055519",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26761,
+      "title": "Super Mario Kart - Rainbow Road (Icy Waltz Remix)",
+      "version": "smwc-26761-1621055519",
+      "upstream_time": 1621055519,
+      "download_url": "https://dl.smwcentral.net/26761/SMK%20RR%20%28ice%20waltz%29.zip",
+      "filename": "SMK RR (ice waltz).zip",
+      "size": 32126,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

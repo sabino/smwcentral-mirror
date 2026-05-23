@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-display-disclaimer-message-on-boot",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42275,
+  "title": "Display Disclaimer Message on Boot",
+  "authors": [
+    "Alcaro",
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "reset",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "This patch allows you to display a message, intended as a disclaimer, on boot. Can be useful for, say, epilepsy warnings or emulator issues.<br>\r\n<br>\r\nMessage can be displayed always or when a condition is met. If set to be conditional, it defaults to allowing the user to continue, but this can be changed.<br>\r\n<br>\r\nBy default, it shows a warning screen if you try to run the hack under (Super) ZSNES.",
+  "latest_version": "smwc-42275-1778020149",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42275,
+      "title": "Display Disclaimer Message on Boot",
+      "version": "smwc-42275-1778020149",
+      "upstream_time": 1778020149,
+      "download_url": "https://dl.smwcentral.net/42275/Intro%20Disclaimer.zip",
+      "filename": "Intro Disclaimer.zip",
+      "size": 2806,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

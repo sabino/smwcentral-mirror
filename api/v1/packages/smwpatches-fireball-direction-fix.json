@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-fireball-direction-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24305,
+  "title": "Fireball Direction Fix",
+  "authors": [
+    "Aerithos"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "sa-1",
+    "spin jump"
+  ],
+  "description": "This patch fixes the spawning of Mario's fireball to first try to use the controller's currently held left or right direction to determine initial direction of the fireball.<br>\r\n<br>\r\nIf neither controller direction is currently being held, it defaults back to Mario's current facing direction.<br>\r\n<br>\r\nThis can help make fireballs from a spinjump more consistent.",
+  "latest_version": "smwc-24305-1599337192",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24305,
+      "title": "Fireball Direction Fix",
+      "version": "smwc-24305-1599337192",
+      "upstream_time": 1599337192,
+      "download_url": "https://dl.smwcentral.net/24305/FireballDirectionFix.zip",
+      "filename": "FireballDirectionFix.zip",
+      "size": 985,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

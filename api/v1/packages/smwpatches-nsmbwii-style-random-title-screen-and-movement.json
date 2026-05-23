@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-nsmbwii-style-random-title-screen-and-movement",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40282,
+  "title": "NSMBWii-Style Random Title Screen and Movement",
+  "authors": [
+    "Arinsu",
+    "TheBiob"
+  ],
+  "tags": [
+    "lorom",
+    "random",
+    "sa-1",
+    "titlescreen"
+  ],
+  "description": "This will put Mario running to the right on the title screen and select a random level for it, a-la NSMBWii.<br>\r\n<br>\r\nv2.0: Added random movement support. (TheBiob)",
+  "latest_version": "smwc-40282-1759602585",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40282,
+      "title": "NSMBWii-Style Random Title Screen and Movement",
+      "version": "smwc-40282-1759602585",
+      "upstream_time": 1759602585,
+      "download_url": "https://dl.smwcentral.net/40282/WiiTitleScreen%20v2.0.zip",
+      "filename": "WiiTitleScreen v2.0.zip",
+      "size": 22848,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

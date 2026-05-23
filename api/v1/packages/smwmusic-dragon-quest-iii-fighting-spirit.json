@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dragon-quest-iii-fighting-spirit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32889,
+  "title": "Dragon Quest III - Fighting Spirit",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: var(--user-color-2);\" class=\"un\">isaix</a></span>.<br>\r\nThe wild and energetic battle theme from Dragon Quest III for the SNES. Useful for boss battles and other tense/hectic scenarios.<br>\r\n<br>\r\n<span style=\"color: #FF0000;\"><b>IMPORTANT:</b></span><br>\r\nGiven the large size of the samples, I've provided an option (\"reduceEchoDelay\") you can toggle.<br>\r\n0 - The song will use the original echo delay, but <i><b>it will be incompatible with Bonus End, Yoshi, P-Switch, Starman and Thunder.</b></i><br>\r\n1 - The song will use a reduced echo delay, lowering the quality, but making it usable with all vanilla songs and SFX.",
+  "latest_version": "smwc-32889-1680079879",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32889,
+      "title": "Dragon Quest III - Fighting Spirit",
+      "version": "smwc-32889-1680079879",
+      "upstream_time": 1680079879,
+      "download_url": "https://dl.smwcentral.net/32889/Dragon%20Quest%20III%20-%20Battle%20Theme.zip",
+      "filename": "Dragon Quest III - Battle Theme.zip",
+      "size": 60169,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "tools-headder",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 22270,
+  "title": "HeAdder",
+  "authors": [
+    "Yoshis Fan"
+  ],
+  "tags": [
+    "header"
+  ],
+  "description": "This tool can add an SMC header to headerless ROMs and IPS patches, or remove the SMC header from headered ROMs and IPS patches. This won't make a difference for emulation, but some tools are only compatible with one type of ROM and IPS patches need to be patched to a specific type of ROM.",
+  "latest_version": "smwc-22270-1585891985",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 22270,
+      "title": "HeAdder",
+      "version": "smwc-22270-1585891985",
+      "upstream_time": 1585891985,
+      "download_url": "https://dl.smwcentral.net/22270/HeAdder.zip",
+      "filename": "HeAdder.zip",
+      "size": 134408,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

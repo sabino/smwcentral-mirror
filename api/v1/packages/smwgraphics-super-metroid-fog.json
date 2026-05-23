@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-super-metroid-fog",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 34174,
+  "title": "Super Metroid - Fog",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "2bpp",
+    "haunted",
+    "mist",
+    "patch needed"
+  ],
+  "description": "The ominous fog in Super Metroid when you enter old Tourian the first time or before the golden statues.<br>\r\n<br>\r\nNote that this is a fullscreen tilemap , you will need a status bar workaround <a href=\"https://smwc.me/s/28449\">like this</a> and enabling CGADSUB is <em>highly</em> recommend. If it strictly needs to be a vertical level, use this UberASM code:<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Collapse Text</span></div><div class=\"collapse-content\"><div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">init:\r\n    LDA #$04\r\n    STA $0D9D|!addr\r\n    STA $212C\r\n    STA $212E\r\n    LDA #$13\r\n    STA $0D9E|!addr\r\n    STA $212D\r\n    STA $212F\r\nRTL</pre></div></div></div>",
+  "latest_version": "smwc-34174-1687694047",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 34174,
+      "title": "Super Metroid - Fog",
+      "version": "smwc-34174-1687694047",
+      "upstream_time": 1687694047,
+      "download_url": "https://dl.smwcentral.net/34174/Super%20Metroid%20-%20Fog.zip",
+      "filename": "Super Metroid - Fog.zip",
+      "size": 3978,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

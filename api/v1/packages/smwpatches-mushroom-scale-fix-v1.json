@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-mushroom-scale-fix-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19011,
+  "title": "Mushroom Scale Fix v1.1",
+  "authors": [
+    "Alcaro",
+    "lx5"
+  ],
+  "tags": [
+    "lorom",
+    "mushroom",
+    "platform",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "The mushroom scale platforms don't rise back if they're pushed down more than 16 tiles. This patch fixes that.<br>\r\n<br>\r\nThis also fixes the problem where the platforms won't stop generating tiles when they're in equilibrium after being stepped on at least once, thus making black bars appearing at the top of the screen.<br>\r\n<br>\r\nThis patch previously lacked SA-1 support and only fixed the first aforementioned bug. The original version <a href=\"https://files.telinc1.com/smwc/patches/snn.zip\" rel=\"nofollow\">is backed up here</a>.",
+  "latest_version": "smwc-19011-1548935830",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19011,
+      "title": "Mushroom Scale Fix v1.1",
+      "version": "smwc-19011-1548935830",
+      "upstream_time": 1548935830,
+      "download_url": "https://dl.smwcentral.net/19011/Mushroom%20Scale%20Fix.zip",
+      "filename": "Mushroom Scale Fix.zip",
+      "size": 412,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

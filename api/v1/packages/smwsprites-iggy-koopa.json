@@ -1,0 +1,46 @@
+{
+  "name": "smwsprites-iggy-koopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 5699,
+  "title": "Iggy Koopa",
+  "authors": [
+    "dahnamics"
+  ],
+  "tags": [
+    "boss",
+    "ceiling",
+    "fire",
+    "fire shooter",
+    "fireball",
+    "iggy",
+    "koopa",
+    "koopaling",
+    "koopalings",
+    "koopas",
+    "lorom",
+    "nsmb",
+    "nsmbu",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "An Iggy Koopa boss which resembles the one in NSMBU. He walks between the left and right sides of the arena, occasionally spawning energy bolts, which chase Mario and disappear after a short amount of time. He can also walk on the ceiling. Mario can jump on him to damage him, after which he'll hide in his shell and chase Mario until he hits a wall, after which he'll go on the ceiling.<br>\r\n<br>\r\nAfter 3 hits, he can also shoot fire while on the ceiling. By default, he dies after 5 hits. After Mario lands the finishing blow, he'll wait a bit before slamming into a wall and dying. If the extra bit is set, the level will be completed.<br>\r\n<br>\r\nMake sure to specify the sprite number of the bolt from list.txt in iggy_koopa.asm! Check the ASM files for customization options.<br>\r\n<br>\r\n<a href=\"https://www.deviantart.com/no-body-the-dragon/art/New-Koopakid-s-and-Jr-sprites-188534966\" rel=\"nofollow\">Included graphics created by NO Body The Dragon</a>.",
+  "latest_version": "smwc-5699-1374262129",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 5699,
+      "title": "Iggy Koopa",
+      "version": "smwc-5699-1374262129",
+      "upstream_time": 1374262129,
+      "download_url": "https://dl.smwcentral.net/5699/Iggy%20Koopa.zip",
+      "filename": "Iggy Koopa.zip",
+      "size": 13811,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wagyan-paradise-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23665,
+  "title": "Wagyan Paradise - Forest",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "grassland"
+  ],
+  "description": "The forest stage theme from a very obscure educational SNES game! It could fit nicely in upbeat grassland or sunny levels as well, not only forests.",
+  "latest_version": "smwc-23665-1594365671",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23665,
+      "title": "Wagyan Paradise - Forest",
+      "version": "smwc-23665-1594365671",
+      "upstream_time": 1594365671,
+      "download_url": "https://dl.smwcentral.net/23665/WPForest.zip",
+      "filename": "WPForest.zip",
+      "size": 38558,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

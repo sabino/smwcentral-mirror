@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-magikoopa-sprite-hijack",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 38708,
+  "title": "Magikoopa Sprite Hijack",
+  "authors": [
+    "Isikoro",
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "magikoopa",
+    "sa-1",
+    "spawn",
+    "sprite",
+    "turn block",
+    "uberasm"
+  ],
+  "description": "This patch hijacks Magikoopa's \"turn block into sprite\" routine so that you can specify your own sprite numbers for it to generate. (There is a \"Sprite kind x 3\" bytes table in the patch that holds all possible sprite numbers.) You can also use custom sprites and stunned sprites.<br>\r\n<br>\r\nUpdated by <span class=\"un-outer\" title=\"Isikoro\"><a href=\"/?p=profile&amp;id=36566\" style=\"color: var(--user-color-1);\" class=\"un\">Isikoro</a></span><br>\r\n- Allows you to set the sprites to be produced, level by level, using 1 byte RAM. It can also be shared at all levels.<br>\r\n- Extra bytes can now be set for the custom sprites produced.<br>\r\n- Supported for Monty Mole and Swooper Bat.",
+  "latest_version": "smwc-38708-1763087676",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 38708,
+      "title": "Magikoopa Sprite Hijack",
+      "version": "smwc-38708-1763087676",
+      "upstream_time": 1763087676,
+      "download_url": "https://dl.smwcentral.net/38708/Magikoopa%20Sprite%20Hijack.zip",
+      "filename": "Magikoopa Sprite Hijack.zip",
+      "size": 4497,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

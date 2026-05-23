@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-murder-the-edf-conspiracy-confrontation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32297,
+  "title": "Murder: The EDF Conspiracy - Confrontation",
+  "authors": [
+    "Eli Moskowitz"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Good for boss battles or intense chase sequence. Requested by StrikeForcer",
+  "latest_version": "smwc-32297-1675031249",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32297,
+      "title": "Murder: The EDF Conspiracy - Confrontation",
+      "version": "smwc-32297-1675031249",
+      "upstream_time": 1675031249,
+      "download_url": "https://dl.smwcentral.net/32297/confrontation.zip",
+      "filename": "confrontation.zip",
+      "size": 33594,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

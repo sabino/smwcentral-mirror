@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-pipe-cannon",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41114,
+  "title": "Pipe Cannon",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "sa-1"
+  ],
+  "description": "This is a pipe cannon similar to the one New Super Mario Bros.<br>\r\nIf the player enters it, instead of warping them to another level, it shoots them straight up into the air, locking their controls during launch.<br>\r\nMario will keep going until he hits a ceiling, or one of 2 custom blocks: <div class=\"code inline filter-noemote filter-nobr\"><pre>PipeCannon_End.asm</pre></div> or <div class=\"code inline filter-noemote filter-nobr\"><pre>PipeCannon_teleport.asm</pre></div>.<br>\r\nAlso included is a variant that will shoot the player when they press A or B instead of waiting for a timer.<br>\r\n<br>\r\nUseful for a gimmick like getting to high areas disguised as a pipe to nowhere.",
+  "latest_version": "smwc-41114-1764221850",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41114,
+      "title": "Pipe Cannon",
+      "version": "smwc-41114-1764221850",
+      "upstream_time": 1764221850,
+      "download_url": "https://dl.smwcentral.net/41114/Pipe%20Cannon.zip",
+      "filename": "Pipe Cannon.zip",
+      "size": 10672,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

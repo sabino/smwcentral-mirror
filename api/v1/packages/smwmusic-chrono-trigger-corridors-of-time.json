@@ -1,0 +1,71 @@
+{
+  "name": "smwmusic-chrono-trigger-corridors-of-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18879,
+  "title": "Chrono Trigger - Corridors of Time",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "calm",
+    "desert",
+    "magical",
+    "night",
+    "overworld",
+    "palace",
+    "ruins",
+    "sad",
+    "sky",
+    "temple",
+    "town",
+    "village"
+  ],
+  "description": "An old port of Corridors of Time from Chrono Trigger.<br>\r\n<br>\r\nCould be used for palaces or temples.",
+  "latest_version": "smwc-18879-1547145033",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18879,
+      "title": "Chrono Trigger - Corridors of Time",
+      "version": "smwc-18879-1547145033",
+      "upstream_time": 1547145033,
+      "download_url": "https://dl.smwcentral.net/18879/Corridors%20of%20Time.zip",
+      "filename": "Corridors of Time.zip",
+      "size": 32292,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16119,
+      "title": "Chrono Trigger - Corridors of Time",
+      "version": "smwc-16119-1503930153",
+      "upstream_time": 1503930153,
+      "download_url": "https://dl.smwcentral.net/16119/Chrono%20Trigger%20-%20Corridors%20of%20Time.zip",
+      "filename": "Chrono Trigger - Corridors of Time.zip",
+      "size": 32585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 9438,
+      "title": "Chrono Trigger - Corridors of Time",
+      "version": "smwc-9438-1414864093",
+      "upstream_time": 1414864093,
+      "download_url": "https://dl.smwcentral.net/9438/Chrono%20Trigger%20-%20Corridors%20of%20Time.zip",
+      "filename": "Chrono Trigger - Corridors of Time.zip",
+      "size": 79374,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

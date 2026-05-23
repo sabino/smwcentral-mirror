@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-more-cutscenes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12443,
+  "title": "More Cutscenes",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "ending",
+    "lorom",
+    "needs remoderation",
+    "sa-1"
+  ],
+  "description": "This patch allows the cutscenes to appear after all levels on which boss sequence cutscenes are enabled, no matter how you end the level - be it a goal tape, sphere or a boss.",
+  "latest_version": "smwc-12443-1448568469",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12443,
+      "title": "More Cutscenes",
+      "version": "smwc-12443-1448568469",
+      "upstream_time": 1448568469,
+      "download_url": "https://dl.smwcentral.net/12443/bossseq.zip",
+      "filename": "bossseq.zip",
+      "size": 498,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-if-epilogue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37279,
+  "title": "Shin Megami Tensei if... - Epilogue",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "bonus",
+    "credits",
+    "cutscene"
+  ],
+  "description": "Plays after you beat the game.<br>\r\n I made 2 different version. The original that doesn‘t loop and a modified version that loops.<br>\r\nYou can switch between the versions with:<br>\r\nset define to #define Looping 0, to get the non-looping version (original)<br>\r\nset define to #define Looping 1, to get the looping version",
+  "latest_version": "smwc-37279-1714363394",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37279,
+      "title": "Shin Megami Tensei if... - Epilogue",
+      "version": "smwc-37279-1714363394",
+      "upstream_time": 1714363394,
+      "download_url": "https://dl.smwcentral.net/37279/SMT%20if%20Epilogue.zip",
+      "filename": "SMT if Epilogue.zip",
+      "size": 80834,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

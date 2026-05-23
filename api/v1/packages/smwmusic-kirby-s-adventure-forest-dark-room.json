@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-s-adventure-forest-dark-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8583,
+  "title": "Kirby's Adventure - Forest/Dark Room",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "dark",
+    "forest",
+    "night"
+  ],
+  "description": "The song that plays in forest areas and dark rooms in Kirby's Adventure.",
+  "latest_version": "smwc-8583-1399942670",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8583,
+      "title": "Kirby's Adventure - Forest/Dark Room",
+      "version": "smwc-8583-1399942670",
+      "upstream_time": 1399942670,
+      "download_url": "https://dl.smwcentral.net/8583/Forest.zip",
+      "filename": "Forest.zip",
+      "size": 65836,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-duel-for-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8535,
+  "title": "Duel for Life",
+  "authors": [
+    "Mayonnai"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase"
+  ],
+  "description": "So if you don't want to lose it... then I suggest you fight for it.",
+  "latest_version": "smwc-8535-1396089582",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8535,
+      "title": "Duel for Life",
+      "version": "smwc-8535-1396089582",
+      "upstream_time": 1396089582,
+      "download_url": "https://dl.smwcentral.net/8535/duel.zip",
+      "filename": "duel.zip",
+      "size": 65136,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

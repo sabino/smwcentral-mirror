@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-windows",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22273,
+  "title": "Windows 2000 - Startup",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cutscene",
+    "keyhole"
+  ],
+  "description": "The sound that plays when you turn on a computer from twenty years ago, notable for the funny oval Recycle Bin icon.<br>\r\n<br>\r\nAlso used in Windows Me.<br>\r\n<br>\r\nI'm not sure how much use this would have in SMW other than maybe cutscene music, or the welcome screen, but hey, this song lends itself well to SMW instruments.",
+  "latest_version": "smwc-22273-1584383277",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22273,
+      "title": "Windows 2000 - Startup",
+      "version": "smwc-22273-1584383277",
+      "upstream_time": 1584383277,
+      "download_url": "https://dl.smwcentral.net/22273/windows%202000%20startup.zip",
+      "filename": "windows 2000 startup.zip",
+      "size": 31014,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

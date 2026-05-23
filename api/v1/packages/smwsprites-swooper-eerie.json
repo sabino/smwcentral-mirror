@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-swooper-eerie",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31394,
+  "title": "Swooper Eerie",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "eerie",
+    "lorom",
+    "sa-1",
+    "swooper"
+  ],
+  "description": "This is an Eerie which will cling to the ceiling and swoop down when Mario gets close, similarly to Swoopers. Afterwards, it will move in a straight line or in a wave motion like normal Eeries, depending on the extra bit. The 1st extra byte determines if the wave motion starts upwards or downwards. In the asm file you can find various parameters to tweak the movement.",
+  "latest_version": "smwc-31394-1663200395",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31394,
+      "title": "Swooper Eerie",
+      "version": "smwc-31394-1663200395",
+      "upstream_time": 1663200395,
+      "download_url": "https://dl.smwcentral.net/31394/SwooperEerie.zip",
+      "filename": "SwooperEerie.zip",
+      "size": 2677,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

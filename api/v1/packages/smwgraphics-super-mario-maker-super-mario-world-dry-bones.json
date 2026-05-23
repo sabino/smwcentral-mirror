@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-maker-super-mario-world-dry-bones",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 24958,
+  "title": "Super Mario Maker: Super Mario World - Dry Bones",
+  "authors": [
+    "DTA450"
+  ],
+  "tags": [
+    "dry bones",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "Dry Bones from Super Mario Maker (it's the same in SMM2). I'm quite surprised that nobody has ripped this before.<br>\r\n<br>\r\nYou must use it with a patch that edits its displacement (included). Also, I had to use a second tile for its head, because I didn't manage to use a single tile for its walking animation.<br>\r\n<br>\r\nPlease give credit, It was hard to find the correct values for the displacement. No custom palette required.",
+  "latest_version": "smwc-24958-1603584228",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 24958,
+      "title": "Super Mario Maker: Super Mario World - Dry Bones",
+      "version": "smwc-24958-1603584228",
+      "upstream_time": 1603584228,
+      "download_url": "https://dl.smwcentral.net/24958/SMM%20Dry%20Bones.zip",
+      "filename": "SMM Dry Bones.zip",
+      "size": 5138,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

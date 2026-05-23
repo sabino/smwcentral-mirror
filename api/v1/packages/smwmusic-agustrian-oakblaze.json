@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-agustrian-oakblaze",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39231,
+  "title": "Agustrian Oakblaze",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "fire",
+    "mountain",
+    "overworld",
+    "title",
+    "upbeat"
+  ],
+  "description": "An intense and upbeat tune fit for rushing out of the flames and onto the battlefield. Inspired by the story of and uses samples from Fire Emblem: Genealogy of the Holy War. Can be used for quick-paced levels and bosses, and perhaps some overworlds.<br>\r\n<br>\r\nThis was originally submitted to Battle of the Bits' contest \"Summer Chip XIV\", where it won a silver medal for the SNES format and 23rd/288 overall.",
+  "latest_version": "smwc-39231-1740261295",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39231,
+      "title": "Agustrian Oakblaze",
+      "version": "smwc-39231-1740261295",
+      "upstream_time": 1740261295,
+      "download_url": "https://dl.smwcentral.net/39231/Agustrian%20Oakblaze.zip",
+      "filename": "Agustrian Oakblaze.zip",
+      "size": 74460,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-eerie-boomerang-movement",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39120,
+  "title": "Eerie, Boomerang Movement",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "boomerang",
+    "eerie",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This eerie moves like a boomerang. It can even be used by a boomerang bro.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>.",
+  "latest_version": "smwc-39120-1743042047",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39120,
+      "title": "Eerie, Boomerang Movement",
+      "version": "smwc-39120-1743042047",
+      "upstream_time": 1743042047,
+      "download_url": "https://dl.smwcentral.net/39120/EerieBoomerang.zip",
+      "filename": "EerieBoomerang.zip",
+      "size": 6253,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

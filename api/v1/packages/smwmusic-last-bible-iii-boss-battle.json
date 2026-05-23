@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-last-bible-iii-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29259,
+  "title": "Last Bible III - Boss Battle 2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nCould fit a boss fight or a dangerous level.",
+  "latest_version": "smwc-29259-1643141932",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29259,
+      "title": "Last Bible III - Boss Battle 2",
+      "version": "smwc-29259-1643141932",
+      "upstream_time": 1643141932,
+      "download_url": "https://dl.smwcentral.net/29259/31%20Boss%20Battle%202.zip",
+      "filename": "31 Boss Battle 2.zip",
+      "size": 63198,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29250,
+      "title": "Last Bible III - Boss Battle 1",
+      "version": "smwc-29250-1643135909",
+      "upstream_time": 1643135909,
+      "download_url": "https://dl.smwcentral.net/29250/22%20Boss%20Battle%201.zip",
+      "filename": "22 Boss Battle 1.zip",
+      "size": 54742,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

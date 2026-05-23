@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-aladdin-nes-pirate-market",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31536,
+  "title": "Aladdin (NES Pirate) - Market",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "desert",
+    "retro",
+    "urban"
+  ],
+  "description": "The best use of a high 50% Square on the NES. I'm being 100% serious.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31536-1663849990",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31536,
+      "title": "Aladdin (NES Pirate) - Market",
+      "version": "smwc-31536-1663849990",
+      "upstream_time": 1663849990,
+      "download_url": "https://dl.smwcentral.net/31536/Aladdin%20%28NES%20Pirate%29%20-%20Market.zip",
+      "filename": "Aladdin (NES Pirate) - Market.zip",
+      "size": 70270,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

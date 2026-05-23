@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-buried-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7953,
+  "title": "Buried Ruins",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "ruins"
+  ],
+  "description": "A custom composition that could fit a ruins level.",
+  "latest_version": "smwc-7953-1313746512",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7953,
+      "title": "Buried Ruins",
+      "version": "smwc-7953-1313746512",
+      "upstream_time": 1313746512,
+      "download_url": "https://dl.smwcentral.net/7953/Buried%20Ruins.zip",
+      "filename": "Buried Ruins.zip",
+      "size": 66405,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

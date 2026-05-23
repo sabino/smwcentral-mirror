@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-exploding-thwomps",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39647,
+  "title": "Exploding Thwomps",
+  "authors": [
+    "codfish1002"
+  ],
+  "tags": [
+    "bomb",
+    "enemy",
+    "explode",
+    "lorom",
+    "sa-1",
+    "stun",
+    "thwomp"
+  ],
+  "description": "This is a new version of the exploding thwomps pack their direction can now be controlled using extra-bytes, they can also stun the player if the extrabit is set.<br>\r\n<br>\r\nCredit isn't needed but appreciated.<br>\r\n<br>\r\nAlso Credits to dahnamics & Quick Quack for the Graphics.",
+  "latest_version": "smwc-39647-1751310673",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39647,
+      "title": "Exploding Thwomps",
+      "version": "smwc-39647-1751310673",
+      "upstream_time": 1751310673,
+      "download_url": "https://dl.smwcentral.net/39647/Exploding_Thwomp.zip",
+      "filename": "Exploding_Thwomp.zip",
+      "size": 7216,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

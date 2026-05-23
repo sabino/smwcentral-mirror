@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tower-of-fantasy-celestial-relaxing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37133,
+  "title": "Tower of Fantasy (Celestial Relaxing)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "cutscene",
+    "night",
+    "sad",
+    "sky",
+    "title"
+  ],
+  "description": "Could fit on the fantasy tower levels.",
+  "latest_version": "smwc-37133-1710993031",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37133,
+      "title": "Tower of Fantasy (Celestial Relaxing)",
+      "version": "smwc-37133-1710993031",
+      "upstream_time": 1710993031,
+      "download_url": "https://dl.smwcentral.net/37133/amv_tower_of_fantasy.zip",
+      "filename": "amv_tower_of_fantasy.zip",
+      "size": 46899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

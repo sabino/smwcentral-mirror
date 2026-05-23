@@ -1,0 +1,41 @@
+{
+  "name": "smwsprites-better-creating-eating-block-snakes",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42209,
+  "title": "Better Creating/Eating Block Snakes",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "block",
+    "block snake",
+    "block snakes",
+    "creating",
+    "eating",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "snake",
+    "snakes"
+  ],
+  "description": "This submission includes two sprites:<br>\r\n<ul><li>The improved Creating/Eating Block Snakes themselves</li>\n<li>A custom \"shooter\", that spawns pairs of the main sprite</li></ul><br>\r\nBoth sprites are highly customizable and the paths are entirely determined by blocks you put in the level using Lunar Magic.<br>\r\nFor this reason, this sprite includes a .map16 file with one row of blocks the sprite can interact with, namely:<br>\r\n<ul><li>turning left/right</li>\n<li>turning either direction depending on the ON/OFF switch</li>\n<li>changing speeds</li>\n<li>terminating the snake</li></ul><br>\r\nThere's also a .dsc file that displays a description for the blocks in Lunar Magic, so you don't have to constantly reference the sprite's asm file to see what block does what.<br>\r\n<br>\r\nInfo on how to properly insert the blocks and the .dsc, along with lots of customization options, are in bettersnakes.asm.",
+  "latest_version": "v1.2.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42209,
+      "title": "Better Creating/Eating Block Snakes",
+      "version": "v1.2.1",
+      "upstream_time": 1777991202,
+      "download_url": "https://dl.smwcentral.net/42209/bettersnake_v1.2.1.zip",
+      "filename": "bettersnake_v1.2.1.zip",
+      "size": 10958,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

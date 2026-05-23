@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-street-fighter",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 21152,
+  "title": "Street Fighter (1987) - Ryu and Ken",
+  "authors": [
+    "Johnnie Electronic"
+  ],
+  "tags": [
+    "male",
+    "needs remoderation"
+  ],
+  "description": "Here's The Finished Graphics Of SF1 Ryu. He's Originally From The First Game.<br>\r\n<br>\r\nThe Zip Includes:<br>\r\n<br>\r\nPalettes<br>\r\nGFX00<br>\r\nGFX10<br>\r\nGFX22<br>\r\nGFX24<br>\r\nGFX28<br>\r\nGFX32<br>\r\nshared.pal<br>\r\n<br>\r\n<br>\r\n<i>Moderator's note: I've included alternate GFX and a palette file to fix Yoshi's colors on the Overworld, by sacrificing a single color in the palette and moving things around a bit.<br>\r\n<br>\r\nTo use it, use the gfx in the alternate folder, and import the palette with the Green Star + Red Arrow button on every submap.</i>",
+  "latest_version": "smwc-21152-1574915251",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 21152,
+      "title": "Street Fighter (1987) - Ryu and Ken",
+      "version": "smwc-21152-1574915251",
+      "upstream_time": 1574915251,
+      "download_url": "https://dl.smwcentral.net/21152/Ryu.zip",
+      "filename": "Ryu.zip",
+      "size": 46368,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

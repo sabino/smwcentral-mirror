@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-coast-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23300,
+  "title": "New Super Mario Classic - Coast Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "beach",
+    "overworld"
+  ],
+  "description": "Could fit on the tropical coast submaps or overworld areas. This music was played on World 8 (Piranha Coast) from New Super Mario Classic (Ruby Edition) (My SMW Hack)<br>\r\n<br>\r\nUpdate 11/06/2020: Previous file was changed into Coast Submap due to forgot me.",
+  "latest_version": "smwc-23300-1592203647",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23300,
+      "title": "New Super Mario Classic - Coast Submap",
+      "version": "smwc-23300-1592203647",
+      "upstream_time": 1592203647,
+      "download_url": "https://dl.smwcentral.net/23300/NSMC%20Coast%20Submap.zip",
+      "filename": "NSMC Coast Submap.zip",
+      "size": 40361,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

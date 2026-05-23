@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-rewitkin-seaside-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32743,
+  "title": "rewitkin - Seaside Town",
+  "authors": [
+    "Pinci",
+    "rewitkin"
+  ],
+  "tags": [
+    "beach",
+    "overworld",
+    "town"
+  ],
+  "description": "Very relaxing <a href=\"https://www.youtube.com/watch?v=hTQg0alDPtY\" rel=\"nofollow\">song</a> composed by <a href=\"https://twitter.com/rewitkin\" rel=\"nofollow\">rewitkin</a>, all I did was port it.<br>\r\nCould fit beach overworlds or levels.<br>\r\nNot compatible with Bonus End or Blargg/Thunder.",
+  "latest_version": "smwc-32743-1677360497",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32743,
+      "title": "rewitkin - Seaside Town",
+      "version": "smwc-32743-1677360497",
+      "upstream_time": 1677360497,
+      "download_url": "https://dl.smwcentral.net/32743/seaside_town.zip",
+      "filename": "seaside_town.zip",
+      "size": 150116,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

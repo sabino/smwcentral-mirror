@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-jazz-jackrabbit-lagunicus",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32470,
+  "title": "Jazz Jackrabbit - Lagunicus",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "water"
+  ],
+  "description": "The slow, almost creepy theme from the underwater level \"Lagunicus\" of Jazz Jackrabbit, composed by Robert A. Allen.",
+  "latest_version": "smwc-32470-1677351765",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32470,
+      "title": "Jazz Jackrabbit - Lagunicus",
+      "version": "smwc-32470-1677351765",
+      "upstream_time": 1677351765,
+      "download_url": "https://dl.smwcentral.net/32470/Jazz%20Jackrabbit%20-%20Lagunicus.zip",
+      "filename": "Jazz Jackrabbit - Lagunicus.zip",
+      "size": 70836,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

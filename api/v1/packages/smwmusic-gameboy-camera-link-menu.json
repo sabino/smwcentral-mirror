@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-gameboy-camera-link-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7253,
+  "title": "Gameboy Camera - Link Menu",
+  "authors": [
+    "x-treme"
+  ],
+  "tags": [
+    "bonus",
+    "p-switch"
+  ],
+  "description": "Sounds like a good alternate P-Switch theme.",
+  "latest_version": "smwc-7253-1320133033",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7253,
+      "title": "Gameboy Camera - Link Menu",
+      "version": "smwc-7253-1320133033",
+      "upstream_time": 1320133033,
+      "download_url": "https://dl.smwcentral.net/7253/link-menu.zip",
+      "filename": "link-menu.zip",
+      "size": 66928,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

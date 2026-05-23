@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-chrono-trigger-first-festival-of-stars",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31298,
+  "title": "Chrono Trigger - First Festival of Stars",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "town"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-31298-1658924606",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31298,
+      "title": "Chrono Trigger - First Festival of Stars",
+      "version": "smwc-31298-1658924606",
+      "upstream_time": 1658924606,
+      "download_url": "https://dl.smwcentral.net/31298/Chrono%20Trigger%20-%20First%20Festival%20of%20Stars.zip",
+      "filename": "Chrono Trigger - First Festival of Stars.zip",
+      "size": 78246,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

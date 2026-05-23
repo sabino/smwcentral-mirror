@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-giant-jumping-piranha-plant",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23761,
+  "title": "Giant Jumping Piranha Plant",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "enemy",
+    "giant",
+    "lorom",
+    "piranha plant",
+    "sa-1"
+  ],
+  "description": "This sprite is basically smw's original Jumping piranha plant with a different graphic routine and hitbox.<br>\r\n<br>\r\nWhen extra bit is set the sprite will spit fire<br>\r\n<br>\r\nRequested by Rykon-V73<br>\r\n<br>\r\nedit: Fixed fireball offset<br>\r\n<br>\r\n(Rykon-V73 or the requester): Small change: You can edit the GFX, GFX page and palette of the sprite and converted it to .json. Added a version that's for SP2 and converted that to .json. Read Info.txt to fix the koopa issues. I even added a .gif and looks better than my other crappy ones.",
+  "latest_version": "smwc-23761-1595887599",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23761,
+      "title": "Giant Jumping Piranha Plant",
+      "version": "smwc-23761-1595887599",
+      "upstream_time": 1595887599,
+      "download_url": "https://dl.smwcentral.net/23761/GiantJumpingPlant-goodedit.zip",
+      "filename": "GiantJumpingPlant-goodedit.zip",
+      "size": 13900,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

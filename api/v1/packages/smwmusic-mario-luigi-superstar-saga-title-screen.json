@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7269,
+  "title": "Mario & Luigi: Superstar Saga - Title Screen",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "title"
+  ],
+  "description": "As the name suggests, a good song for the title screen. Also good for short grassland levels.",
+  "latest_version": "smwc-7269-1318572043",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7269,
+      "title": "Mario & Luigi: Superstar Saga - Title Screen",
+      "version": "smwc-7269-1318572043",
+      "upstream_time": 1318572043,
+      "download_url": "https://dl.smwcentral.net/7269/MLSSTitle.zip",
+      "filename": "MLSSTitle.zip",
+      "size": 72632,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

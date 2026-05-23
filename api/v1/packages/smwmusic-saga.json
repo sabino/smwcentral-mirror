@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-saga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17337,
+  "title": "SaGa 2 - Dreadful Fight (RS3 Arrangement)",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "cutscene",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Song that play in Saga 2, good for general boss fights.",
+  "latest_version": "smwc-17337-1522666050",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17337,
+      "title": "SaGa 2 - Dreadful Fight (RS3 Arrangement)",
+      "version": "smwc-17337-1522666050",
+      "upstream_time": 1522666050,
+      "download_url": "https://dl.smwcentral.net/17337/%5BS%5D%20SaGa%202%20-%20Dreadful%20Fight%20%28RS3%20Arrangement%29.zip",
+      "filename": "%5BS%5D SaGa 2 - Dreadful Fight (RS3 Arrangement).zip",
+      "size": 78060,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7030,
+      "title": "SaGa 3 - Theme Of Another Dimension",
+      "version": "smwc-7030-1311923919",
+      "upstream_time": 1311923919,
+      "download_url": "https://dl.smwcentral.net/7030/SaGa_3_-_Theme_Of_Another_Dimension.zip",
+      "filename": "SaGa_3_-_Theme_Of_Another_Dimension.zip",
+      "size": 73277,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7029,
+      "title": "SaGa 3 - Holy Ruins",
+      "version": "smwc-7029-1311923222",
+      "upstream_time": 1311923222,
+      "download_url": "https://dl.smwcentral.net/7029/SaGa_3_-_Holy_Ruins.zip",
+      "filename": "SaGa_3_-_Holy_Ruins.zip",
+      "size": 71845,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-no-yoshi-intro-uberasm",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40077,
+  "title": "No-Yoshi Intro UberASM",
+  "authors": [
+    "DrAnas",
+    "Karisa"
+  ],
+  "tags": [
+    "lorom",
+    "no-intro",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This UberASM enables the no-Yoshi/ghost house/castle intro upon touching it. Important conditions are inside the .asm file. Thanks to <span class=\"un-outer\" title=\"Karisa\"><a href=\"/?p=profile&amp;id=8977\" style=\"color: var(--user-color-1);\" class=\"un\">Karisa</a></span> for the <a href=\"https://smwc.me/1481052\">original code</a> and <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span> for info related to the 'mounting off Yoshi' animation! Requires <a href=\"https://smwc.me/s/29033\">this UberASM</a> if you wanna filter Yoshi at the checkpoint.",
+  "latest_version": "smwc-40077-1758032058",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40077,
+      "title": "No-Yoshi Intro UberASM",
+      "version": "smwc-40077-1758032058",
+      "upstream_time": 1758032058,
+      "download_url": "https://dl.smwcentral.net/40077/no_yoshi_intro.zip",
+      "filename": "no_yoshi_intro.zip",
+      "size": 1484,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

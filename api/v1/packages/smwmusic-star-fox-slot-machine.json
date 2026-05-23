@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-star-fox-slot-machine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25885,
+  "title": "Star Fox - Slot Machine",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "bonus",
+    "space"
+  ],
+  "description": "Song that plays in the best part of the game.",
+  "latest_version": "smwc-25885-1613084380",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25885,
+      "title": "Star Fox - Slot Machine",
+      "version": "smwc-25885-1613084380",
+      "upstream_time": 1613084380,
+      "download_url": "https://dl.smwcentral.net/25885/Star%20Fox%20-%20138%20Slot%20Machine.zip",
+      "filename": "Star Fox - 138 Slot Machine.zip",
+      "size": 51696,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-alex-kidd-in-miracle-world-peticopter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34561,
+  "title": "Alex Kidd in Miracle World - Peticopter",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "overworld"
+  ],
+  "description": "Part of the Alex Kidd in Miracle World soundtrack.",
+  "latest_version": "smwc-34561-1690723277",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34561,
+      "title": "Alex Kidd in Miracle World - Peticopter",
+      "version": "smwc-34561-1690723277",
+      "upstream_time": 1690723277,
+      "download_url": "https://dl.smwcentral.net/34561/Peticopter.zip",
+      "filename": "Peticopter.zip",
+      "size": 31419,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

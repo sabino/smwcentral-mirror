@@ -1,0 +1,32 @@
+{
+  "name": "tools-xkas-0-06",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4615,
+  "title": "xkas 0.06.1",
+  "authors": [
+    "Near",
+    "Romi"
+  ],
+  "tags": [
+    "assembler",
+    "patcher"
+  ],
+  "description": "This version of xkas is romi's changes originally meant for the Variable Width Font Cutscene Tool.<br>\r\n<br>\r\nRomi's changes from the normal xkas:<br>\r\n-PEA works with labels<br>\r\n-the base command works with branches<br>\r\n-can now use MVN $7E,$12 instead of MVN $127E",
+  "latest_version": "smwc-4615-1363207392",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4615,
+      "title": "xkas 0.06.1",
+      "version": "smwc-4615-1363207392",
+      "upstream_time": 1363207392,
+      "download_url": "https://dl.smwcentral.net/4615/uoxkas_v06.zip",
+      "filename": "uoxkas_v06.zip",
+      "size": 91052,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

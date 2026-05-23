@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-breath-of-fire-ii-dying-corpse",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22330,
+  "title": "Breath of Fire II - Dying Corpse",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "industrial"
+  ],
+  "description": "One of the best battle themes from Breath of Fire II. It's a powerful fast-paced song that'd perfectly suit intense boss battles.",
+  "latest_version": "smwc-22330-1583976409",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22330,
+      "title": "Breath of Fire II - Dying Corpse",
+      "version": "smwc-22330-1583976409",
+      "upstream_time": 1583976409,
+      "download_url": "https://dl.smwcentral.net/22330/dyingcorpse.zip",
+      "filename": "dyingcorpse.zip",
+      "size": 73113,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

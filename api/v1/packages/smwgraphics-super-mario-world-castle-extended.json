@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-super-mario-world-castle-extended",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 28163,
+  "title": "Super Mario World - Castle (Extended)",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "castle"
+  ],
+  "description": "The vanilla Super Mario World castle tile set but extended to be compatible with other vanilla ground objects, such as slopes, ledges and still water. <br>\r\n<br>\r\nThis can be used as a drop-in replacement for other FG3 tile sets (such as 1A in underground levels, etc) but is still compatible with vanilla castle background and stone objects.<br>\r\n<br>\r\nUses vanilla palettes and includes an optional map16 file for castle spikes, large stones and the big boss door with a bonus door handle variation (as shown the sample level).",
+  "latest_version": "smwc-28163-1630814615",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 28163,
+      "title": "Super Mario World - Castle (Extended)",
+      "version": "smwc-28163-1630814615",
+      "upstream_time": 1630814615,
+      "download_url": "https://dl.smwcentral.net/28163/SMW%20Castle%20Extended.zip",
+      "filename": "SMW Castle Extended.zip",
+      "size": 3882,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

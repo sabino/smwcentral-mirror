@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-treasure-hunting-squad",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40421,
+  "title": "Treasure Hunting Squad",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "grassland",
+    "overworld"
+  ],
+  "description": "Treasure Hunting Squad, a composition meant for use in big, adventurous overworlds. ",
+  "latest_version": "smwc-40421-1756581422",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40421,
+      "title": "Treasure Hunting Squad",
+      "version": "smwc-40421-1756581422",
+      "upstream_time": 1756581422,
+      "download_url": "https://dl.smwcentral.net/40421/Treasure%20Hunting%20Squad.zip",
+      "filename": "Treasure Hunting Squad.zip",
+      "size": 49243,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

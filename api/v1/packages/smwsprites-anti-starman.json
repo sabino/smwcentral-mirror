@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-anti-starman",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34774,
+  "title": "Anti-Starman",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "hurt mario",
+    "lorom",
+    "sa-1",
+    "star"
+  ],
+  "description": "This Star works like the original, but it Will damage or kill the player if touch her. There are a bit of settings and defines that can be change in the .asm like:<br>\r\n<br>\r\n1.- Tilemap.<br>\r\n2.- Flash Animation.<br>\r\n3.- X/Y Speed to change the arc.<br>\r\n<br>\r\nThis Sprite is based in the SMW Star dissamble Made by RussianMan, Credit is optional, but it's would be nice.<br>\r\n<br>\r\nThere are two examples .gif to see how this sprite works and a one screenshot :)<br>\r\n<br>\r\nThis Sprite was requested by Anorakun",
+  "latest_version": "smwc-34774-1702556048",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34774,
+      "title": "Anti-Starman",
+      "version": "smwc-34774-1702556048",
+      "upstream_time": 1702556048,
+      "download_url": "https://dl.smwcentral.net/34774/Anti-Starman%20Sprite.zip",
+      "filename": "Anti-Starman Sprite.zip",
+      "size": 7357,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

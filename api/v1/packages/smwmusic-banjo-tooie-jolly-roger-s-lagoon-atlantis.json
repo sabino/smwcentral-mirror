@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-banjo-tooie-jolly-roger-s-lagoon-atlantis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7740,
+  "title": "Banjo-Tooie - Jolly Roger's Lagoon (Atlantis)",
+  "authors": [
+    "Slash Man"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "water"
+  ],
+  "description": "The deep underwater theme from the 4th level in Banjo-Tooie.",
+  "latest_version": "smwc-7740-1311928258",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7740,
+      "title": "Banjo-Tooie - Jolly Roger's Lagoon (Atlantis)",
+      "version": "smwc-7740-1311928258",
+      "upstream_time": 1311928258,
+      "download_url": "https://dl.smwcentral.net/7740/Banjo%20Tooie%20-%20Jolly%20Roger%27s%20Lagoon%20%28Atlantis%29.zip",
+      "filename": "Banjo Tooie - Jolly Roger%27s Lagoon (Atlantis).zip",
+      "size": 71589,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

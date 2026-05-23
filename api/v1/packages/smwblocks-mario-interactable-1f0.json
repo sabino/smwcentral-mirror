@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-mario-interactable-1f0",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 42396,
+  "title": "Mario Interactable 1F0",
+  "authors": [
+    "Insanit"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "Mario got tired of seeing the sprites having fun in 1F0's and now he wants to join the party!<br>\r\nWhat if Mario would be able to interact with them?<br>\r\nThis is the official release of a block posted on 2023 C3.<br>\r\nUse as 1F0 to interact with other sprites or 25 to Mario-only.<br>\r\n<br>\r\nThis includes an L/R reset(death) in case players get stuck.",
+  "latest_version": "smwc-42396-1779331604",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 42396,
+      "title": "Mario Interactable 1F0",
+      "version": "smwc-42396-1779331604",
+      "upstream_time": 1779331604,
+      "download_url": "https://dl.smwcentral.net/42396/Mario1F0.zip",
+      "filename": "Mario1F0.zip",
+      "size": 938,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

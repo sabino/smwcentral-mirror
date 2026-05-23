@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-all-in-one-multiple-death-songs-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41569,
+  "title": "All-in-one Multiple Death Songs 1.0",
+  "authors": [
+    "mathie"
+  ],
+  "tags": [
+    "death",
+    "death routine",
+    "lorom",
+    "music",
+    "sa-1"
+  ],
+  "description": "This patch allows you to have multiple death songs using various logics: per-level, per-world, randomized, per-player... or even all of them! (in this order of priority)<br>\r\nSee .asm file for more details.<br>\r\n<br>\r\n<b>Important note</b>: AMK users, be wary of the original songs order change. In addition, to ensure your custom music causes no pause, be sure to insert at as a global song. Also, you'll need to remove a hijack in Tweaks.asm so you don't need to reapply this patch each time you use AMK!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span>.",
+  "latest_version": "smwc-41569-1770839369",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41569,
+      "title": "All-in-one Multiple Death Songs 1.0",
+      "version": "smwc-41569-1770839369",
+      "upstream_time": 1770839369,
+      "download_url": "https://dl.smwcentral.net/41569/deathmusix_asar2.zip",
+      "filename": "deathmusix_asar2.zip",
+      "size": 1208,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

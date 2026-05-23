@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-extended-sprite-shooter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32987,
+  "title": "Extended Sprite Shooter",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "extended sprites",
+    "lorom",
+    "sa-1",
+    "spawner"
+  ],
+  "description": "This sprite spawns an Extended Sprite with a degree of customization.<br>\r\n<br>\r\n<b>Do note that this is NOT a shooter type of sprite, this is a normal sprite, and should be inserted as such!</b><br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MorrieTheMagpie\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=43194\" style=\"color: #3399ff;\" class=\"un\">MorrieTheMagpie</a></span>.",
+  "latest_version": "smwc-32987-1675703238",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32987,
+      "title": "Extended Sprite Shooter",
+      "version": "smwc-32987-1675703238",
+      "upstream_time": 1675703238,
+      "download_url": "https://dl.smwcentral.net/32987/ExtShooter.zip",
+      "filename": "ExtShooter.zip",
+      "size": 5503,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-starman-swing-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26760,
+  "title": "Starman (Swing Remix)",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "bonus",
+    "night",
+    "overworld",
+    "snow",
+    "star",
+    "town"
+  ],
+  "description": "Including 2 variations: Overworld (Slow) and Starman (Fast)<br>\r\nStarman Theme has been remixed as Jazz-Swing and Moderato Tempo. Could fit on the sweet and snow overworlds, Maybe bonus submaps...",
+  "latest_version": "smwc-26760-1621143850",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26760,
+      "title": "Starman (Swing Remix)",
+      "version": "smwc-26760-1621143850",
+      "upstream_time": 1621143850,
+      "download_url": "https://dl.smwcentral.net/26760/Starman%20%28Swing%29.zip",
+      "filename": "Starman (Swing).zip",
+      "size": 63333,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

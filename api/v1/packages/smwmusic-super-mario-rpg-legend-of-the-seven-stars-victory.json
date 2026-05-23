@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-victory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19476,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Victory!",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "(Sampled) Victory music from SMRPG, suited as a stage/boss clear song.<br>\r\nNote that you'll not be able to use it as a global song without some extra effort (and also the samples are very large, so it's unfeasible).<br>\r\nRequested by FedoraFriday.<br>\r\n<br>\r\nUpdate: moved this version to a separate submission.",
+  "latest_version": "smwc-19476-1553820805",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19476,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Victory!",
+      "version": "smwc-19476-1553820805",
+      "upstream_time": 1553820805,
+      "download_url": "https://dl.smwcentral.net/19476/SMRPGVictorySampled.zip",
+      "filename": "SMRPGVictorySampled.zip",
+      "size": 69466,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19468,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Victory!",
+      "version": "smwc-19468-1553820801",
+      "upstream_time": 1553820801,
+      "download_url": "https://dl.smwcentral.net/19468/SMRPGVictoryUnsampled.zip",
+      "filename": "SMRPGVictoryUnsampled.zip",
+      "size": 33240,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

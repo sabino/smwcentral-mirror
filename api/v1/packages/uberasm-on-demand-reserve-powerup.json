@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-on-demand-reserve-powerup",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41060,
+  "title": "On-Demand Reserve Powerup",
+  "authors": [
+    "Oz74"
+  ],
+  "tags": [
+    "counter",
+    "dragon coin",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "Allows the player to fill the reserve item box on the fly for a configurable currency (of lives, coins, or Dragon Coins) and rate. Which powerup given can be determined on a per-level basis with the extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"bandicoot\"><a href=\"/?p=profile&amp;id=21068\" style=\"color: var(--user-color-2);\" class=\"un\">bandicoot</a></span>.<br>\r\nRequires UberASM 2.0 or higher.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Setting Powerup with the Extra Byte</span></div><div class=\"collapse-content\">: 01 gives a Mushroom<br>\r\n: 02 gives a Fire Flower<br>\r\n: 03 gives a Star*<br>\r\n: 04 gives a Cape Feather<br>\r\n<br>\r\n*With the Star, be prepared to address the myriad of sprites that do not have proper kill frames.</div></div><div class=\"collapse\"><div class=\"collapse-header\"><span>Change Log (Revision A)</span></div><div class=\"collapse-content\">- Converted patch to UberASM. (Removed hijack, adapted labels.)<br>\r\n- Function is now operable in Bowser's fight.<br>\r\n- Powerup is now handled by the extra byte<br>\r\n- Prevented code from running while paused, dying, or otherwise frozen.<br>\r\n- Moved configurables higher up for visibility<br>\r\n- Added math for handling deduction of more than one life or Dragon Coin.<br>\r\n- Concurrent powerup sound is disabled by default.<br>\r\n- You can now prevent Mario from buying a powerup with Dragon Coins already redeemed for an extra life.</div></div>",
+  "latest_version": "smwc-41060-1763508727",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41060,
+      "title": "On-Demand Reserve Powerup",
+      "version": "smwc-41060-1763508727",
+      "upstream_time": 1763508727,
+      "download_url": "https://dl.smwcentral.net/41060/On-Demand%20Reserve%20Powerup.zip",
+      "filename": "On-Demand Reserve Powerup.zip",
+      "size": 3103,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

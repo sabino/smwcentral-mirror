@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-wario-land-3-snowman-wario",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7381,
+  "title": "Wario Land 3 - Snowman Wario (16-bit arrangement)",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "overworld",
+    "p-switch",
+    "sky",
+    "town"
+  ],
+  "description": "A 16-bit arrangement of the calm song that plays when Wario turns into Snowman Wario. Would fit an icy mountain top submap, or even a nice P-Switch theme.",
+  "latest_version": "smwc-7381-1338206502",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7381,
+      "title": "Wario Land 3 - Snowman Wario (16-bit arrangement)",
+      "version": "smwc-7381-1338206502",
+      "upstream_time": 1338206502,
+      "download_url": "https://dl.smwcentral.net/7381/Snowman%20Wario.zip",
+      "filename": "Snowman Wario.zip",
+      "size": 63515,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

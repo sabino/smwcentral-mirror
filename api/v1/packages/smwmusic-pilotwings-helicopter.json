@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-pilotwings-helicopter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29666,
+  "title": "Pilotwings - Helicopter",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "The very serious but also heroic music which plays at one of the most serious levels in all of Pilotwings. Good for final levels as well as airship levels.",
+  "latest_version": "smwc-29666-1648758325",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29666,
+      "title": "Pilotwings - Helicopter",
+      "version": "smwc-29666-1648758325",
+      "upstream_time": 1648758325,
+      "download_url": "https://dl.smwcentral.net/29666/Pilotwings%20-%20Helicopter%20%5Bs%5D.zip",
+      "filename": "Pilotwings - Helicopter %5Bs%5D.zip",
+      "size": 38405,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29665,
+      "title": "Pilotwings - Helicopter",
+      "version": "smwc-29665-1648757905",
+      "upstream_time": 1648757905,
+      "download_url": "https://dl.smwcentral.net/29665/Pilotwings%20-%20Helicopter%20%5Bu%5D.zip",
+      "filename": "Pilotwings - Helicopter %5Bu%5D.zip",
+      "size": 32643,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-yoshi-s-house-smoke",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3703,
+  "title": "Yoshi's House Smoke",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "disassembly",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 8B in SMW, the puff of smoke that comes from the chimney of Yoshi's House.",
+  "latest_version": "smwc-3703-1299884827",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3703,
+      "title": "Yoshi's House Smoke",
+      "version": "smwc-3703-1299884827",
+      "upstream_time": 1299884827,
+      "download_url": "https://dl.smwcentral.net/3703/SMWSDIS%20-%20sprite%208B%20-%20Yoshi%27s%20House%20smoke%20puff.zip",
+      "filename": "SMWSDIS - sprite 8B - Yoshi%27s House smoke puff.zip",
+      "size": 1407,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

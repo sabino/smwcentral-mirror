@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-no-capespin-in-water",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12450,
+  "title": "No Capespin In Water",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "cape",
+    "lorom",
+    "sa-1",
+    "spin",
+    "water"
+  ],
+  "description": "After you apply this patch, you can't capespin in water anymore. Should be pretty obvious. To be applied with asar, found at the tools section.",
+  "latest_version": "smwc-12450-1449954396",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12450,
+      "title": "No Capespin In Water",
+      "version": "smwc-12450-1449954396",
+      "upstream_time": 1449954396,
+      "download_url": "https://dl.smwcentral.net/12450/nocapewater.zip",
+      "filename": "nocapewater.zip",
+      "size": 466,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

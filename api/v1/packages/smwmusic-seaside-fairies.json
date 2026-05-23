@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-seaside-fairies",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13970,
+  "title": "Seaside Fairies",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach",
+    "overworld",
+    "water"
+  ],
+  "description": "A mashup of the SMAS SMB3 World 3 Map theme and the famous Fairy Fountain theme from Zelda.  This would be a great alternative to the SMB3 World 3 Map theme if you feel that has become overused, but want to use something similar.",
+  "latest_version": "smwc-13970-1470066725",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13970,
+      "title": "Seaside Fairies",
+      "version": "smwc-13970-1470066725",
+      "upstream_time": 1470066725,
+      "download_url": "https://dl.smwcentral.net/13970/Seaside%20Fairies.zip",
+      "filename": "Seaside Fairies.zip",
+      "size": 31181,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

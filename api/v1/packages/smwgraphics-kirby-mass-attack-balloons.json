@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-kirby-mass-attack-balloons",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 32391,
+  "title": "Kirby Mass Attack - Balloons",
+  "authors": [
+    "OrangeBronzeDaisy",
+    "Rykon-V73"
+  ],
+  "tags": [
+    "2bpp",
+    "carnival",
+    "patch needed"
+  ],
+  "description": "These are the balloons that appear from Kirby Mass Attack DS. They act as Layer 3 background balloons that will rise vertically via Layer 3 auto scroll.<br>\r\n<br>\r\nRykon-V73 Edit: Palettes have better optimization and use less palette space along with some additional sized balloons added with strings on the balloon.<br>\r\n<br>\r\nNeeds a custom status bar like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21562\"> Minimalist</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">DKCR one</a>. Or even the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18862\">Remove Status Bar patch </a>.<br>\r\n<br>\r\nDoes not work well with the vanilla status bar.",
+  "latest_version": "smwc-32391-1666288140",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 32391,
+      "title": "Kirby Mass Attack - Balloons",
+      "version": "smwc-32391-1666288140",
+      "upstream_time": 1666288140,
+      "download_url": "https://dl.smwcentral.net/32391/KMA%20-%20balloons.zip",
+      "filename": "KMA - balloons.zip",
+      "size": 3276,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

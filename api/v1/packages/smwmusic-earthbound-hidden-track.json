@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-earthbound-hidden-track",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24215,
+  "title": "EarthBound - Hidden Track",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "final",
+    "night",
+    "overworld",
+    "sewer",
+    "spooky",
+    "tense"
+  ],
+  "description": "An unused song from Earthbound. Good for creepy overworlds.",
+  "latest_version": "smwc-24215-1598200494",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24215,
+      "title": "EarthBound - Hidden Track",
+      "version": "smwc-24215-1598200494",
+      "upstream_time": 1598200494,
+      "download_url": "https://dl.smwcentral.net/24215/Earthbound%20-%20Hidden%20Track.zip",
+      "filename": "Earthbound - Hidden Track.zip",
+      "size": 42650,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

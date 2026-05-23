@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-paper-mario-dry-dry-outpost",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7243,
+  "title": "Paper Mario - Dry Dry Outpost",
+  "authors": [
+    "Supertails"
+  ],
+  "tags": [
+    "carnival",
+    "desert"
+  ],
+  "description": "This is the theme heard right after Dry Dry Desert in Paper Mario. Best for desert levels, obviously.",
+  "latest_version": "smwc-7243-1312741283",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7243,
+      "title": "Paper Mario - Dry Dry Outpost",
+      "version": "smwc-7243-1312741283",
+      "upstream_time": 1312741283,
+      "download_url": "https://dl.smwcentral.net/7243/drydryoutpost.zip",
+      "filename": "drydryoutpost.zip",
+      "size": 67504,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

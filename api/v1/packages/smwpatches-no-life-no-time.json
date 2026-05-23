@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-no-life-no-time",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 39002,
+  "title": "No Life - No Time",
+  "authors": [
+    "Nitrocell Inc."
+  ],
+  "tags": [
+    "game over",
+    "lives",
+    "lorom",
+    "sa-1",
+    "time-up"
+  ],
+  "description": "\"No Life - No Time\" will let player to continue playing level even after Time reaches 0, but will take one life (decrease for 0) and add extra amount seconds to the Time. This process repeats every time if player has more than 1 life. IF player has 1 life, next Time = 0 will kill Mario and proceed to Game Over. Amount of added seconds is 50 by default but can be any value between 001 and 999. For more info, see readme.txt.",
+  "latest_version": "smwc-39002-1738544737",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 39002,
+      "title": "No Life - No Time",
+      "version": "smwc-39002-1738544737",
+      "upstream_time": 1738544737,
+      "download_url": "https://dl.smwcentral.net/39002/NoLifeNoTimeV1.11.zip",
+      "filename": "NoLifeNoTimeV1.11.zip",
+      "size": 1271,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

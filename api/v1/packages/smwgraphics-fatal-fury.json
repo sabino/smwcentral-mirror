@@ -1,0 +1,47 @@
+{
+  "name": "smwgraphics-fatal-fury",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 35239,
+  "title": "Fatal Fury 3: Road to the Final Victory - 8x16 Dialogue Fonts",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "cutscene",
+    "desert",
+    "font",
+    "mountain",
+    "needs remoderation",
+    "sans serif"
+  ],
+  "description": "This is 8x16 sized English alphabet font used in <i>Fatal Fury 3: Road to the Final Victory</i>. The game supports Spanish and Portuguese, so their orthography also comes in the fonts. This font works best against non-black, non-white background.<br>\r\n<br>\r\nThe orignal font had a minor mistake where the opening apostrophe was reversed, so I redrew and correct it.<br>\r\n<br>\r\nBG2 sheet contains the basic English alphabets and sentence symbols, and BG3 contains the rest. If you're short on the space and want to only use English, you can omit BG3.<br>\r\n<br>\r\nThis font uses 3 monochrome colors, which are mapped to the same ones of \"FG Palette 0\" on Row 3. If you used the same palette set, they'll look fine.",
+  "latest_version": "smwc-35239-1697224998",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 35239,
+      "title": "Fatal Fury 3: Road to the Final Victory - 8x16 Dialogue Fonts",
+      "version": "smwc-35239-1697224998",
+      "upstream_time": 1697224998,
+      "download_url": "https://dl.smwcentral.net/35239/Fatal%20Fury%203%20-%2016x8%20Dialogue%20Fonts.zip",
+      "filename": "Fatal Fury 3 - 16x8 Dialogue Fonts.zip",
+      "size": 6043,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 21462,
+      "title": "Fatal Fury 2 - Terry Bogard Stage",
+      "version": "smwc-21462-1577831452",
+      "upstream_time": 1577831452,
+      "download_url": "https://dl.smwcentral.net/21462/Fatal%20Fury%202%20-%20Terry%20Bogard%20Stage.zip",
+      "filename": "Fatal Fury 2 - Terry Bogard Stage.zip",
+      "size": 7796,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-custom-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40811,
+  "title": "Custom Layer 2 Rise/Sink",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "layer 2",
+    "lorom",
+    "rise",
+    "sa-1",
+    "scrolling",
+    "sink"
+  ],
+  "description": "This allows you to create simple layer 2 rise/sink commands. No credit needed. Everything you need to know is in the ASM file.",
+  "latest_version": "smwc-40811-1760652204",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40811,
+      "title": "Custom Layer 2 Rise/Sink",
+      "version": "smwc-40811-1760652204",
+      "upstream_time": 1760652204,
+      "download_url": "https://dl.smwcentral.net/40811/Mwmwe_asar2.zip",
+      "filename": "Mwmwe_asar2.zip",
+      "size": 871,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

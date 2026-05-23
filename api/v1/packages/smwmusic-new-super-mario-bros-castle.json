@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-new-super-mario-bros-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35811,
+  "title": "New Super Mario Bros. - Castle",
+  "authors": [
+    "LadiesMan217"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "ghost house"
+  ],
+  "description": "Part of The New Super Mario Bros. Soundtrack. Please give credit if used.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original Description</span></div><div class=\"collapse-content\">The New Super Mario Bros. Soundtrack. As more songs are ported, more will be added. Currently contains:<br>\r\n<br>\r\n-Bowser Jr.'s Castle<br>\r\n-Castle (original and alternative version)<br>\r\n-Flowing Lava<br>\r\n-Mushroom Waltz<br>\r\n-Underground<br>\r\n-Walking The Plains<br>\r\n<br>\r\n<br>\r\nCurrently doesn't contain:<br>\r\n<br>\r\n-The rest of the songs<br>\r\n-Support for use of global songs and global samples<br>\r\n<br>\r\nPlease give credit if used.<br>\r\n<br>\r\nChange Log:<br>\r\n<br>\r\n7-6-19<br>\r\nRenamed the songs accordingly. Added Flowing Lava as well as a port of Castle using the game's samples.<br>\r\n<br>\r\n8-1-18<br>\r\nRedid every song minus Course Clear and Star Power (these need to be redone, if you're interested in them download them in version history). Added Fortress onto list. Credit to musicalman for making the samples (big thanks).</div></div>",
+  "latest_version": "smwc-35811-1703952811",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35811,
+      "title": "New Super Mario Bros. - Castle",
+      "version": "smwc-35811-1703952811",
+      "upstream_time": 1703952811,
+      "download_url": "https://dl.smwcentral.net/35811/Castle.zip",
+      "filename": "Castle.zip",
+      "size": 183401,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15600,
+      "title": "New Super Mario Bros. - Castle",
+      "version": "smwc-15600-1496261550",
+      "upstream_time": 1496261550,
+      "download_url": "https://dl.smwcentral.net/15600/New%20Super%20Mario%20Bros.%20-%20Castle%20%28v2%29.zip",
+      "filename": "New Super Mario Bros. - Castle (v2).zip",
+      "size": 33738,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8311,
+      "title": "New Super Mario Bros. - Castle",
+      "version": "smwc-8311-1405708111",
+      "upstream_time": 1405708111,
+      "download_url": "https://dl.smwcentral.net/8311/NSMBcastle.zip",
+      "filename": "NSMBcastle.zip",
+      "size": 102503,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

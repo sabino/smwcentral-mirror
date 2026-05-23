@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-thwomp-pack-thwompsprfix-asm-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32561,
+  "title": "Thwomp Pack + thwompsprfix.asm v1.4",
+  "authors": [
+    "Isikoro",
+    "Tattletale"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "thwomp"
+  ],
+  "description": "A Thwomp pack with thwompsprfix.asm<br>\r\n<br>\r\nI also added the Thwomp Face Flip Fix patch as configs. By default it's turned off.<br>\r\n<br>\r\nComes with:<br>\r\n    - Downwards Thwomp<br>\r\n    - Upwards Thwomp<br>\r\n    - Right Thwomp<br>\r\n    - Left Thwomp<br>\r\n    - Power Downwards Thwomp<br>\r\n    - Power Upwards Thwomp<br>\r\n    - Power Right Thwomp<br>\r\n    - Power Left Thwomp<br>\r\nAll of them can be used as Mad Thwomps (goes up/down right/left and so on once set off) if you set the extra bit.<br>\r\n<br>\r\n- Why did you make this tho? There's already another version of all this for download.<br>\r\n<br>\r\nI also merged <a href=\"https://www.smwcentral.net/?p=section&a=details&id=13180\">thwompsprfix.asm</a> into this code, so all fixes on that patch are also coded for these Thwomps. I needed this, so I thought maybe more people would also need this.<br>\r\n<br>\r\nThis is also a single file sprite, so the more you use the more space TM you save (it may not perform as good as using standalone files due to checks and whatnot).<br>\r\n<br>\r\nThere's also a partial fix to ascension glitch that bothers me a lot with the original Upwards guy. Original code really kills you in unfair ways most of the time when going up. This feature/fix has to be enabled, so read the README.txt for further instructions.<br>\r\n<br>\r\nThis code also respects what palette row you set on the cfg.<br>\r\n<br>\r\nAnother minor fix is that they now properly die to shells and whatnot if specified on the CFG. Just set them to interact with other sprites if you wish that to happen. Original code (SMW code) dies to shells according to sprite slot, it's super weird, so I just left the behavior there for you to choose, but more consistent.<br>\r\n<br>\r\nChangelog:<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">1.1<br>\r\n-----<br>\r\nBetter ascension glitch fix.<br>\r\nFixed a bug where only the thwomp up would benefit from setting up the fix ascension glitch flag.<br>\r\nIt seems I also forgot to add a routine for this thing in the last version lol (related to the ascension glitch flag).<br>\r\nSA1 compatible.<br>\r\n<br>\r\n1.2 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n-----<br>\r\nFixed a bug with the sideways power thwomps as they didn't correctly check for walls.<br>\r\n<br>\r\n1.3<br>\r\n-----<br>\r\nUpdate routine SubVertPosWithClipping to comply to new routine standards.<br>\r\nAdded routine SpinPlayerUp (apparently I forgot to add this routine twice lol, it's used in the ascension glitch flag fix).<br>\r\nAdded a small bugfix for the ascension glitch - the gitch caused it to be way more lenient than it should once the thwomp stopped going up.<br>\r\nI rewrote the state table / load, so now the old blocks that break on thwomp contact work with this thwomp pack. It should also feel a lot better to create new states.<br>\r\nFixed a bug with the draw GFX routine where it would reserve one tile more than it should when no angry face tiles were drawn.<br>\r\nAdded the Thwomp Face Flip Fix patch as configurable flag (default is turned off).<br>\r\nExtracted some configs and flags so you can get more stuff configured.<br>\r\n<br>\r\n<br>\r\n1.4 (<span class=\"un-outer\" title=\"Isikoro\"><a href=\"/?p=profile&amp;id=36566\" style=\"color: var(--user-color-1);\" class=\"un\">Isikoro</a></span>)<br>\r\n-----<br>\r\nAdded a setting to look in the direction of movement.<br>\r\nAllows the player to set whether or not to look at the player when he/she approaches.<br>\r\nConverted to a json file, changed the setting RAM from \"extra_prop\" to \"extra_byte\", and combined them into one sprite.</div></div>",
+  "latest_version": "smwc-32561-1686285898",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32561,
+      "title": "Thwomp Pack + thwompsprfix.asm v1.4",
+      "version": "smwc-32561-1686285898",
+      "upstream_time": 1686285898,
+      "download_url": "https://dl.smwcentral.net/32561/thwomps%20v1.4.zip",
+      "filename": "thwomps v1.4.zip",
+      "size": 11972,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lagrange-point-physical-energy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25369,
+  "title": "Lagrange Point - Physical Energy",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "athletic",
+    "town"
+  ],
+  "description": "The song from the second big city.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25369-1607758483",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25369,
+      "title": "Lagrange Point - Physical Energy",
+      "version": "smwc-25369-1607758483",
+      "upstream_time": 1607758483,
+      "download_url": "https://dl.smwcentral.net/25369/Lagrange%20Point%20-%20Physical%20Energy.zip",
+      "filename": "Lagrange Point - Physical Energy.zip",
+      "size": 146248,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

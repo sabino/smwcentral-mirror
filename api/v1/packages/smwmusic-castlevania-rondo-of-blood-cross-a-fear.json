@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-castlevania-rondo-of-blood-cross-a-fear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24456,
+  "title": "Castlevania: Rondo of Blood - Cross A Fear",
+  "authors": [
+    "BennyWhatever"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "chase",
+    "industrial",
+    "night",
+    "ruins",
+    "spooky"
+  ],
+  "description": "The rockin' song from the second level of Castlevania: Rondo of Blood (and Dracula X). This track would go well in a castle or sinister area, particularly one that moves quickly to match the driving tempo.<br>\r\n<br>\r\nThis is my first port, and I poured a ton of hours and heart into it. I hope you enjoy it.",
+  "latest_version": "smwc-24456-1601522358",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24456,
+      "title": "Castlevania: Rondo of Blood - Cross A Fear",
+      "version": "smwc-24456-1601522358",
+      "upstream_time": 1601522358,
+      "download_url": "https://dl.smwcentral.net/24456/CrossAFear.zip",
+      "filename": "CrossAFear.zip",
+      "size": 70010,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

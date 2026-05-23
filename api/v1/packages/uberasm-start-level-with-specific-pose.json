@@ -1,0 +1,33 @@
+{
+  "name": "uberasm-start-level-with-specific-pose",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 31443,
+  "title": "Start Level with Specific Pose",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM will make the player assume a specific pose at the start of the level for a certain amount of frames. Optionally, you can make the game freeze while the pose is shown and/or disable player inputs.<br>\r\nRequires 1 byte of freeram.",
+  "latest_version": "smwc-31443-1664568901",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 31443,
+      "title": "Start Level with Specific Pose",
+      "version": "smwc-31443-1664568901",
+      "upstream_time": 1664568901,
+      "download_url": "https://dl.smwcentral.net/31443/start_with_pose.zip",
+      "filename": "start_with_pose.zip",
+      "size": 557,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

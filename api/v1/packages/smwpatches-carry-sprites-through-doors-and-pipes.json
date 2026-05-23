@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-carry-sprites-through-doors-and-pipes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20140,
+  "title": "Carry Sprites Through Doors and Pipes",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "carriable",
+    "carry",
+    "door",
+    "doors",
+    "lorom",
+    "pipes",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "Let's you carry sprites between rooms, whether Mario is holding them or they are in Yoshi's mouth, without them disappearing. I also changed some of SMW's sprites so they don't re-spawn when you bring back to the same room. Works with custom sprites.",
+  "latest_version": "smwc-20140-1560927734",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20140,
+      "title": "Carry Sprites Through Doors and Pipes",
+      "version": "smwc-20140-1560927734",
+      "upstream_time": 1560927734,
+      "download_url": "https://dl.smwcentral.net/20140/carrysprites.zip",
+      "filename": "carrysprites.zip",
+      "size": 9000,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

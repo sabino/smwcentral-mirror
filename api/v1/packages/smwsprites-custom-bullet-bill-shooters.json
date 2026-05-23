@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-custom-bullet-bill-shooters",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 12085,
+  "title": "Custom Bullet Bill Shooters",
+  "authors": [
+    "682",
+    "Yan",
+    "imamelia",
+    "mikeyk"
+  ],
+  "tags": [
+    "bullet",
+    "bullet bill",
+    "custom",
+    "lorom",
+    "sa-1",
+    "shooter"
+  ],
+  "description": "This is a pack that contains the following custom shooters:<br>\r\n<br>\r\n- Diagonal Upwards Shooter<br>\r\n- Diagonal Downwards Shooter<br>\r\n- Sideways Shooter<br>\r\n- Vertical Shooter<br>\r\n<br>\r\nThe biggest difference from the ones hosted here is that this one is able to shoot Custom Sprites, instead of the default Bullet Bill. I also fixed smoke placement that was not working properly in previous versions.<br>\r\n<br>\r\nI included imamelia's Bullet Bill disassembly so you can modify the projectile without affecting the vanilla Bullet Bill.<br>\r\n<br>\r\nCredit for original code goes to:<br>\r\nmikeyk<br>\r\nyoshi_65c816<br>\r\nmaro!!!<br>\r\n682<br>\r\n<br>\r\nNow SA-1 compatible.",
+  "latest_version": "smwc-12085-1444398203",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 12085,
+      "title": "Custom Bullet Bill Shooters",
+      "version": "smwc-12085-1444398203",
+      "upstream_time": 1444398203,
+      "download_url": "https://dl.smwcentral.net/12085/shooter_pack.zip",
+      "filename": "shooter_pack.zip",
+      "size": 7150,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-final-phase-total-rocked-out-edition",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7063,
+  "title": "The Final Phase - Total Rocked Out Edition",
+  "authors": [
+    "Masashi27"
+  ],
+  "tags": [
+    "final",
+    "grassland"
+  ],
+  "description": "This port could work well for hardcore, epic levels<br>\r\n<br>\r\nUpdate (09/29/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 225 bytes.",
+  "latest_version": "smwc-7063-1311887558",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7063,
+      "title": "The Final Phase - Total Rocked Out Edition",
+      "version": "smwc-7063-1311887558",
+      "upstream_time": 1311887558,
+      "download_url": "https://dl.smwcentral.net/7063/The.Final%20Phase.zip",
+      "filename": "The.Final Phase.zip",
+      "size": 55817,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

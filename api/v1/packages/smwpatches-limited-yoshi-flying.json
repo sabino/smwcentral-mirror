@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-limited-yoshi-flying",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 15132,
+  "title": "Limited Yoshi Flying",
+  "authors": [
+    "SkywinDragoon"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "flight",
+    "fly",
+    "limit",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch will prevent yoshi with blue shell from flying forever and ever.<br>\r\n<br>\r\nlimitation of flight is configurable.<br>\r\n<br>\r\nfixed bugs and with SA-1 support.",
+  "latest_version": "smwc-15132-1487206650",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 15132,
+      "title": "Limited Yoshi Flying",
+      "version": "smwc-15132-1487206650",
+      "upstream_time": 1487206650,
+      "download_url": "https://dl.smwcentral.net/15132/LYF.zip",
+      "filename": "LYF.zip",
+      "size": 862,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

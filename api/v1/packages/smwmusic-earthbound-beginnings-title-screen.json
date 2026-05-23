@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-earthbound-beginnings-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14353,
+  "title": "EarthBound Beginnings - Title Screen",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "night",
+    "title",
+    "town"
+  ],
+  "description": "The calming music that plays on the title screen of Earthbound Beginnings, or MOTHER 1.",
+  "latest_version": "smwc-14353-1472888106",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14353,
+      "title": "EarthBound Beginnings - Title Screen",
+      "version": "smwc-14353-1472888106",
+      "upstream_time": 1472888106,
+      "download_url": "https://dl.smwcentral.net/14353/MOTHER.zip",
+      "filename": "MOTHER.zip",
+      "size": 30931,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

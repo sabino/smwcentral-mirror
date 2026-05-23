@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-bouncer-map16-change-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4068,
+  "title": "Bouncer + Map16 Change Block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "bounce",
+    "jump",
+    "lorom"
+  ],
+  "description": "Bounces Mario with sound effect, and then changes into the next Map16 tile.<br>\r\n<i>The block activates from below, and both map16 tiles should be passable from below. It took me a grand total of 6 minutes to figure that out.</i>",
+  "latest_version": "smwc-4068-1426285304",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4068,
+      "title": "Bouncer + Map16 Change Block",
+      "version": "smwc-4068-1426285304",
+      "upstream_time": 1426285304,
+      "download_url": "https://dl.smwcentral.net/4068/bouncer.zip",
+      "filename": "bouncer.zip",
+      "size": 450,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

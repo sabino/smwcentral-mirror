@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-fester-s-quest-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19599,
+  "title": "Fester's Quest - Overworld",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark"
+  ],
+  "description": "From Wyatt's music pack. Dark and bassy, good for caves.",
+  "latest_version": "smwc-19599-1554600772",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19599,
+      "title": "Fester's Quest - Overworld",
+      "version": "smwc-19599-1554600772",
+      "upstream_time": 1554600772,
+      "download_url": "https://dl.smwcentral.net/19599/fq-overworld.zip",
+      "filename": "fq-overworld.zip",
+      "size": 32677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

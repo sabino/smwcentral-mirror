@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-elephant-on-cloud-nine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35654,
+  "title": "Elephant on Cloud Nine",
+  "authors": [
+    "Ruberjig",
+    "bebn legg"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "forest",
+    "grassland",
+    "ice",
+    "sky",
+    "snow",
+    "town"
+  ],
+  "description": "A bouncy song originally composed for Super Famicompo 5.",
+  "latest_version": "smwc-35654-1703290355",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35654,
+      "title": "Elephant on Cloud Nine",
+      "version": "smwc-35654-1703290355",
+      "upstream_time": 1703290355,
+      "download_url": "https://dl.smwcentral.net/35654/cloudnine.zip",
+      "filename": "cloudnine.zip",
+      "size": 34664,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

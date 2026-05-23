@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-solid-if-all-switch-palaces-beaten",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15343,
+  "title": "Solid if all Switch Palaces beaten",
+  "authors": [
+    "lolcats439"
+  ],
+  "tags": [
+    "lorom",
+    "passable",
+    "sa-1",
+    "solid",
+    "switch palace"
+  ],
+  "description": "A block that is solid only if all 4 switch palaces are pressed.",
+  "latest_version": "smwc-15343-1494550340",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15343,
+      "title": "Solid if all Switch Palaces beaten",
+      "version": "smwc-15343-1494550340",
+      "upstream_time": 1494550340,
+      "download_url": "https://dl.smwcentral.net/15343/solidonallswitches.zip",
+      "filename": "solidonallswitches.zip",
+      "size": 967,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

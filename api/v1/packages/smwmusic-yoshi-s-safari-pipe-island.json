@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-yoshi-s-safari-pipe-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8520,
+  "title": "Yoshi's Safari - Pipe Island",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "grassland",
+    "jungle"
+  ],
+  "description": "A jazzy song that might suit a grassland level",
+  "latest_version": "smwc-8520-1394878134",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8520,
+      "title": "Yoshi's Safari - Pipe Island",
+      "version": "smwc-8520-1394878134",
+      "upstream_time": 1394878134,
+      "download_url": "https://dl.smwcentral.net/8520/Pipe%20Island.zip",
+      "filename": "Pipe Island.zip",
+      "size": 65651,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-angry-star",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41129,
+  "title": "Angry Star",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "enemy",
+    "explosion",
+    "invincible",
+    "lorom",
+    "sa-1",
+    "star"
+  ],
+  "description": "This star, inspired in the Super Mario Land 2, moves following a \"infinity\" curve. It's indestructible unless hit while Mario has star power. If the extra bit is set, the star will explode after a set amount of cycles.<br>\r\n<br>\r\nCheck the readme file for customisation options.",
+  "latest_version": "smwc-41129-1764299214",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41129,
+      "title": "Angry Star",
+      "version": "smwc-41129-1764299214",
+      "upstream_time": 1764299214,
+      "download_url": "https://dl.smwcentral.net/41129/AngryStar.zip",
+      "filename": "AngryStar.zip",
+      "size": 6122,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

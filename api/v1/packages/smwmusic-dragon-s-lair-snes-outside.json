@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-dragon-s-lair-snes-outside",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39740,
+  "title": "Dragon's Lair (SNES) - Outside",
+  "authors": [
+    "0ne_bins211"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "forest",
+    "ghost house",
+    "mysterious"
+  ],
+  "description": "An unsampled port of the outside theme from Dragon's Lair on SNES",
+  "latest_version": "smwc-39740-1749131673",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39740,
+      "title": "Dragon's Lair (SNES) - Outside",
+      "version": "smwc-39740-1749131673",
+      "upstream_time": 1749131673,
+      "download_url": "https://dl.smwcentral.net/39740/Dragon%27s%20Lair%20%28SNES%29%20-%20Outside%20%5BU%5D.zip",
+      "filename": "Dragon%27s Lair (SNES) - Outside %5BU%5D.zip",
+      "size": 32217,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39739,
+      "title": "Dragon's Lair (SNES) - Outside",
+      "version": "smwc-39739-1749131300",
+      "upstream_time": 1749131300,
+      "download_url": "https://dl.smwcentral.net/39739/Dragon%27s%20Lair%20%28SNES%29%20-%20Outside.zip",
+      "filename": "Dragon%27s Lair (SNES) - Outside.zip",
+      "size": 47902,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-mekabon",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16226,
+  "title": "Mekabon",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "factory",
+    "lorom",
+    "mecha",
+    "robot",
+    "sa-1",
+    "sml",
+    "super mario land"
+  ],
+  "description": "A robot from Super Mario Land that lauches his own head every once in a while.<br>\r\n<br>\r\nThis sprite was part of smkdan's Super Mario Land sprites pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16226-1504717543",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16226,
+      "title": "Mekabon",
+      "version": "smwc-16226-1504717543",
+      "upstream_time": 1504717543,
+      "download_url": "https://dl.smwcentral.net/16226/smlmekabon.zip",
+      "filename": "smlmekabon.zip",
+      "size": 6500,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

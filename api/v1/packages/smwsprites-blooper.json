@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-blooper",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23857,
+  "title": "Blooper",
+  "authors": [
+    "Romi"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "smb1",
+    "water"
+  ],
+  "description": "A Blooper that acts like the SMB1 one. It can be stomped on when the player's outside water.<br>\r\n<br>\r\nThis sprite was part of Romi's Sprite Package, and was resubmitted separately after the remoderation for ease of search and to fit current standards.<br>\r\n<br>\r\nCredit Romi for the original sprite.<br>\r\nNo need to credit me.<br>\r\n<br>\r\n<br>\r\nUPDATE 16/07/2020: (Thiago678)<br>\r\nMade SA-1 hybrid.<br>\r\n",
+  "latest_version": "smwc-23857-1594991023",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23857,
+      "title": "Blooper",
+      "version": "smwc-23857-1594991023",
+      "upstream_time": 1594991023,
+      "download_url": "https://dl.smwcentral.net/23857/SMB1Blooper.zip",
+      "filename": "SMB1Blooper.zip",
+      "size": 8399,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

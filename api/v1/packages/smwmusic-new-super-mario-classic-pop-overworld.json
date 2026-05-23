@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-super-mario-classic-pop-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23307,
+  "title": "New Super Mario Classic - Pop Overworld",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "overworld"
+  ],
+  "description": "Could fit on the main overworld map as pop genre. Also, fit on the grassland or mountain submaps. This music was played on Overworld Map from New Super Mario Classic (Ruby Edition) (My SMW Hack)",
+  "latest_version": "smwc-23307-1592205216",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23307,
+      "title": "New Super Mario Classic - Pop Overworld",
+      "version": "smwc-23307-1592205216",
+      "upstream_time": 1592205216,
+      "download_url": "https://dl.smwcentral.net/23307/NSMC%20Pop%20Overworld.zip",
+      "filename": "NSMC Pop Overworld.zip",
+      "size": 45514,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

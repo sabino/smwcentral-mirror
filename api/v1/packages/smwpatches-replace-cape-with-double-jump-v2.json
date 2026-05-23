@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-replace-cape-with-double-jump-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21110,
+  "title": "Replace Cape with Double Jump v2.00",
+  "authors": [
+    "Alcaro",
+    "Maarfy"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "double jump",
+    "feather",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch gives Mario the ability to double jump if he grabs a feather. Version 2.00 adds some new user defines that allow toggling whether the feather powerup displays the cape graphics and whether the player may cape spin.<br>\r\n<br>\r\nOriginally created by Alcaro on Masterlink's request.",
+  "latest_version": "smwc-21110-1570527354",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21110,
+      "title": "Replace Cape with Double Jump v2.00",
+      "version": "smwc-21110-1570527354",
+      "upstream_time": 1570527354,
+      "download_url": "https://dl.smwcentral.net/21110/double_jump_feather.zip",
+      "filename": "double_jump_feather.zip",
+      "size": 2551,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-giant-eerie",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3672,
+  "title": "Giant Eerie",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "eerie",
+    "ghost",
+    "ghost house",
+    "lorom",
+    "sa-1",
+    "spooky"
+  ],
+  "description": "This sprite is based in the Ersanio's Eerie Disassembly. It's a 32x32 Eerie that can move both normal and wavy motion depending of the Extra Bit. Made by request of J_dude320.<br>\r\nTo be inserted with PIXI.<br>\r\n",
+  "latest_version": "smwc-3672-1285275162",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3672,
+      "title": "Giant Eerie",
+      "version": "smwc-3672-1285275162",
+      "upstream_time": 1285275162,
+      "download_url": "https://dl.smwcentral.net/3672/Giant%20Eerie.zip",
+      "filename": "Giant Eerie.zip",
+      "size": 4362,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

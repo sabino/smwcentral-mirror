@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kingdom-hearts-ii-the-13th-struggle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21301,
+  "title": "Kingdom Hearts II - The 13th Struggle",
+  "authors": [
+    "Aikku"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "fire",
+    "tense"
+  ],
+  "description": "Major battle theme from Kingdom Hearts 2, including the ability to exclude the bridge as appears in some of the other games. Could fit well in fast-paced boss fights, or levels with cave-type atmospheres, though the echo level might need to be increased. Uses 9 custom samples (9.5KiB) and 2 original ones (@2, @4), so hopefully should work well for most hacks.<br>\r\n<br>\r\nThe track is necessarily very polyphonic, so as much as I tried to work around it, there will probably be some noticeably cut notes during gameplay.<br>\r\n<br>\r\nUpdate 191010: Minor sample updates and MML changes (-79 bytes ARAM, and bars are no longer labelled), placing all my samples (for all songs) into a single folder.",
+  "latest_version": "smwc-21301-1571021548",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21301,
+      "title": "Kingdom Hearts II - The 13th Struggle",
+      "version": "smwc-21301-1571021548",
+      "upstream_time": 1571021548,
+      "download_url": "https://dl.smwcentral.net/21301/KH2_The_13th_Struggle.zip",
+      "filename": "KH2_The_13th_Struggle.zip",
+      "size": 91614,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

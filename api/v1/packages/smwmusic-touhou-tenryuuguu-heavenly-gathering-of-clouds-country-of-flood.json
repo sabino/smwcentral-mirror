@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-touhou-tenryuuguu-heavenly-gathering-of-clouds-country-of-flood",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33866,
+  "title": "Touhou Tenryuuguu ~ Heavenly Gathering of Clouds - Country of Flood",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "grassland",
+    "sky",
+    "town",
+    "urban",
+    "water"
+  ],
+  "description": "The \"Stage 1\" theme from the game-without-a-game, Touhou-style music album, 東方天流宮 ～ Heavenly Gathering of Clouds.<br>\r\n<br>\r\nIt's a happy and optimistic song, fitting early-game levels. It gives me exploration vibes. And maybe it's a little wet-sounding too, by association with the title.<br>\r\n<br>\r\n[05 May 2023] UPDATE: Fixed a missing y command and other minor mixing/ADSR tweaks.<br>\r\n<br>\r\n<img src=\"https://cdn.discordapp.com/attachments/563512644787765248/855910945313914940/Screenshot_20210618-2139451.png\" width=\"500px\">",
+  "latest_version": "smwc-33866-1690733844",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33866,
+      "title": "Touhou Tenryuuguu ~ Heavenly Gathering of Clouds - Country of Flood",
+      "version": "smwc-33866-1690733844",
+      "upstream_time": 1690733844,
+      "download_url": "https://dl.smwcentral.net/33866/townshipofflood.zip",
+      "filename": "townshipofflood.zip",
+      "size": 52266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

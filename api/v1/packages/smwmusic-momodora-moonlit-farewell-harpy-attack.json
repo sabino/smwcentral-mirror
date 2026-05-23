@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-momodora-moonlit-farewell-harpy-attack",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38234,
+  "title": "Momodora: Moonlit Farewell - Harpy Attack!",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "The tense short boss song heard during the harpy fight, as well as some other bosses, in Momodora: Moonlit Farewell. Fits bosses and mini-bosses",
+  "latest_version": "smwc-38234-1729815915",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38234,
+      "title": "Momodora: Moonlit Farewell - Harpy Attack!",
+      "version": "smwc-38234-1729815915",
+      "upstream_time": 1729815915,
+      "download_url": "https://dl.smwcentral.net/38234/harpy.zip",
+      "filename": "harpy.zip",
+      "size": 34338,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

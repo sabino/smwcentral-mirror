@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-earthbound-beginnings-bein-friends",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10965,
+  "title": "EarthBound Beginnings - Bein' Friends",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "A song from Mother (AKA Earthbound Zero).<br>\r\nThis could fit Grasslands or Overworlds.",
+  "latest_version": "smwc-10965-1425928146",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10965,
+      "title": "EarthBound Beginnings - Bein' Friends",
+      "version": "smwc-10965-1425928146",
+      "upstream_time": 1425928146,
+      "download_url": "https://dl.smwcentral.net/10965/MOTHER%20-%20Bein%27%20Friends.zip",
+      "filename": "MOTHER - Bein%27 Friends.zip",
+      "size": 32317,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

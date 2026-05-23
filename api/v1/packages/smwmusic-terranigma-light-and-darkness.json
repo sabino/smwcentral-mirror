@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-terranigma-light-and-darkness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24473,
+  "title": "Terranigma - Light and Darkness",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "title"
+  ],
+  "description": "The song from Terranigma's intro. Could work for cutscenes or title screens.",
+  "latest_version": "smwc-24473-1603146370",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24473,
+      "title": "Terranigma - Light and Darkness",
+      "version": "smwc-24473-1603146370",
+      "upstream_time": 1603146370,
+      "download_url": "https://dl.smwcentral.net/24473/Terranigma%20-%20%20Light%20and%20Darkness.zip",
+      "filename": "Terranigma -  Light and Darkness.zip",
+      "size": 64279,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

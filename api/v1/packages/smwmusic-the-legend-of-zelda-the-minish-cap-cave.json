@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-minish-cap-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17288,
+  "title": "The Legend of Zelda: The Minish Cap - Cave",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "cave",
+    "ghost house",
+    "overworld",
+    "spooky",
+    "tense"
+  ],
+  "description": "This is the theme that you hear in most caves in the game. It's somewhat dramatic. This is very great for small underground sub areas, preferably caves. It kind of works in a ghost house because it does sound eerie.",
+  "latest_version": "smwc-17288-1522310562",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17288,
+      "title": "The Legend of Zelda: The Minish Cap - Cave",
+      "version": "smwc-17288-1522310562",
+      "upstream_time": 1522310562,
+      "download_url": "https://dl.smwcentral.net/17288/Minish%20Cap%20Cave.zip",
+      "filename": "Minish Cap Cave.zip",
+      "size": 37280,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

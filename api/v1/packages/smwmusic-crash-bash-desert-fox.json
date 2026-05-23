@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-bash-desert-fox",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37214,
+  "title": "Crash Bash - Desert Fox",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "airship",
+    "desert"
+  ],
+  "description": "An orchestral military march-esque theme that plays in Desert Fox, the first tank wars minigame in Crash Bash.",
+  "latest_version": "smwc-37214-1712505036",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37214,
+      "title": "Crash Bash - Desert Fox",
+      "version": "smwc-37214-1712505036",
+      "upstream_time": 1712505036,
+      "download_url": "https://dl.smwcentral.net/37214/CBash%20-%20Desert%20Fox.zip",
+      "filename": "CBash - Desert Fox.zip",
+      "size": 86724,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

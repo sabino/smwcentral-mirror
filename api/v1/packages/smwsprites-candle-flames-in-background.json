@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-candle-flames-in-background",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28571,
+  "title": "Candle Flames in Background",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "candles",
+    "effect",
+    "flame",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite E6 in SMW, Candle flames in background.<br>\r\n<br>\r\nCredit is unecessary.",
+  "latest_version": "smwc-28571-1640637974",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28571,
+      "title": "Candle Flames in Background",
+      "version": "smwc-28571-1640637974",
+      "upstream_time": 1640637974,
+      "download_url": "https://dl.smwcentral.net/28571/BGCandleFlameSpawner.zip",
+      "filename": "BGCandleFlameSpawner.zip",
+      "size": 1826,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

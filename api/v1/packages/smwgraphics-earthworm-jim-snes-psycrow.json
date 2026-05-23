@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-earthworm-jim-snes-psycrow",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 21801,
+  "title": "Earthworm Jim (SNES) - Psycrow",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "needs remoderation",
+    "space"
+  ],
+  "description": "This BG is used in the SNES version of Earthworm Jim, where you battle Psycrow. Uses about 4 GFX pages, but you can also use a FG and consumes over a Map16 page and a half. It also uses 3 palettes, but you should have room for colors.",
+  "latest_version": "smwc-21801-1581757755",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 21801,
+      "title": "Earthworm Jim (SNES) - Psycrow",
+      "version": "smwc-21801-1581757755",
+      "upstream_time": 1581757755,
+      "download_url": "https://dl.smwcentral.net/21801/Earthworm%20Jim%20Psycrow.zip",
+      "filename": "Earthworm Jim Psycrow.zip",
+      "size": 13408,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

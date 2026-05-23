@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ribbon-resort-map-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39861,
+  "title": "Ribbon Resort (Map Remix)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "calm",
+    "overworld"
+  ],
+  "description": "Ribbon Resort Zone but map remix. Potential ribbon road palace overworld map.",
+  "latest_version": "smwc-39861-1751315626",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39861,
+      "title": "Ribbon Resort (Map Remix)",
+      "version": "smwc-39861-1751315626",
+      "upstream_time": 1751315626,
+      "download_url": "https://dl.smwcentral.net/39861/ribbon%20resort%20map.zip",
+      "filename": "ribbon resort map.zip",
+      "size": 37168,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

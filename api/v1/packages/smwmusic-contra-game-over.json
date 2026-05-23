@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-contra-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7779,
+  "title": "Contra - Game Over",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "game over"
+  ],
+  "description": "The game over theme from Contra.",
+  "latest_version": "smwc-7779-1324189965",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7779,
+      "title": "Contra - Game Over",
+      "version": "smwc-7779-1324189965",
+      "upstream_time": 1324189965,
+      "download_url": "https://dl.smwcentral.net/7779/Contra%20-%20Game%20Over.zip",
+      "filename": "Contra - Game Over.zip",
+      "size": 67555,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

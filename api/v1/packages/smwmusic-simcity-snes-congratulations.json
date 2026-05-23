@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-simcity-snes-congratulations",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34020,
+  "title": "SimCity (SNES) - Congratulations",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "goal",
+    "misc"
+  ],
+  "description": "A short, congratulatory fanfare, with the minor addition of SMW's classic goal whistle.",
+  "latest_version": "smwc-34020-1691158748",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34020,
+      "title": "SimCity (SNES) - Congratulations",
+      "version": "smwc-34020-1691158748",
+      "upstream_time": 1691158748,
+      "download_url": "https://dl.smwcentral.net/34020/sccongrats.zip",
+      "filename": "sccongrats.zip",
+      "size": 30352,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8472,
+      "title": "SimCity (SNES) - Congratulations",
+      "version": "smwc-8472-1387677109",
+      "upstream_time": 1387677109,
+      "download_url": "https://dl.smwcentral.net/8472/Congratulations.zip",
+      "filename": "Congratulations.zip",
+      "size": 63048,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

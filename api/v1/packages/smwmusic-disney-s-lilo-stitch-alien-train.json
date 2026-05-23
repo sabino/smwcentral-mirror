@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-disney-s-lilo-stitch-alien-train",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34576,
+  "title": "Disney's Lilo & Stitch - Alien Train",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "dark",
+    "tense"
+  ],
+  "description": "Part of the Lilo & Stitch GBA soundtrack.",
+  "latest_version": "smwc-34576-1690806275",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34576,
+      "title": "Disney's Lilo & Stitch - Alien Train",
+      "version": "smwc-34576-1690806275",
+      "upstream_time": 1690806275,
+      "download_url": "https://dl.smwcentral.net/34576/Lilo%20%26%20Stitch%20-%2007%20Trains.zip",
+      "filename": "Lilo %26 Stitch - 07 Trains.zip",
+      "size": 134522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

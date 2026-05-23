@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-boss-exgfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 25862,
+  "title": "Boss ExGFX",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "boss",
+    "boss battle area",
+    "exgfx",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch allows you to use any ExGFX file you want in a vanilla Mode 7 boss battle without the castle destruction cutscenes getting messed up afterwards. It's not compatible with files 100-FFF, so stick whatever boss GFX you want in 80-FF. <br>\r\n<br>\r\nInstructions are included in the .asm file.<br>\r\n<br>\r\nNow compatible with Asar & sa-1.",
+  "latest_version": "smwc-25862-1617163915",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 25862,
+      "title": "Boss ExGFX",
+      "version": "smwc-25862-1617163915",
+      "upstream_time": 1617163915,
+      "download_url": "https://dl.smwcentral.net/25862/BossExGFX.zip",
+      "filename": "BossExGFX.zip",
+      "size": 1377,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

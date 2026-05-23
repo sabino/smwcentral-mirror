@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-bowser-jr",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 4562,
+  "title": "Bowser Jr.",
+  "authors": [
+    "AlanJacobs"
+  ],
+  "tags": [
+    "ludwig von koopa",
+    "patch needed"
+  ],
+  "description": "Bowser Jr. graphics were drawn by yours truly for my hack named Cinnamon Hills.<br>\r\n <br>\r\nThese graphics will replace Ludwig von Koopa with Bowser Jr. graphics by simply replacing the GFX0B BIN file with my Bowser Jr. GFX0B BIN.<br>\r\n<br>\r\nChanging Ludwig's palette requires a patch, which is included.<br>\r\n<br>\r\nThank you and I hope you enjoy!",
+  "latest_version": "smwc-4562-1371670771",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 4562,
+      "title": "Bowser Jr.",
+      "version": "smwc-4562-1371670771",
+      "upstream_time": 1371670771,
+      "download_url": "https://dl.smwcentral.net/4562/Bowser%20Jr.zip",
+      "filename": "Bowser Jr.zip",
+      "size": 3138,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

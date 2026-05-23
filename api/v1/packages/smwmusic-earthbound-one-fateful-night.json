@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-one-fateful-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33981,
+  "title": "EarthBound - One Fateful Night...",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "enviromental",
+    "mysterious",
+    "night"
+  ],
+  "description": "Requested by Skewer.<br>\r\nNote that by default the song sounds a bit different in game to avoid lagging the sound effects. Change NO_LAG to 0 if you want the 1:1 song (but SFX will lag a lot).",
+  "latest_version": "smwc-33981-1690222748",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33981,
+      "title": "EarthBound - One Fateful Night...",
+      "version": "smwc-33981-1690222748",
+      "upstream_time": 1690222748,
+      "download_url": "https://dl.smwcentral.net/33981/007%20One%20Fateful%20Night.zip",
+      "filename": "007 One Fateful Night.zip",
+      "size": 40077,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

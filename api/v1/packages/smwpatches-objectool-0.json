@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-objectool-0",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40964,
+  "title": "ObjecTool 0.5",
+  "authors": [
+    "0x400",
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "objects",
+    "sa-1"
+  ],
+  "description": "This patch allows you to create and insert custom normal and extended objects.<br>\r\n<br>\r\nNow works with Lunar Magic 3.00+, and it includes a variety of subroutines and a comprehensive guide to using them.",
+  "latest_version": "smwc-40964-1762462669",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40964,
+      "title": "ObjecTool 0.5",
+      "version": "smwc-40964-1762462669",
+      "upstream_time": 1762462669,
+      "download_url": "https://dl.smwcentral.net/40964/ObjecTool_0.5.zip",
+      "filename": "ObjecTool_0.5.zip",
+      "size": 20759,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wayne-s-world-nes-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28685,
+  "title": "Wayne's World (NES) - Level 1",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "overworld",
+    "retro",
+    "title",
+    "urban"
+  ],
+  "description": "Yes, this is it. There's nothing more, just 4-5 seconds of \"something\".<br>\r\n<br>\r\n(God, sometimes Paul Wilkinson just says screw it and makes stuff like this)<br>\r\n<br>\r\nAnyway, no idea where you'd use such a short loop. I guess it could fit in an urban overworld...?",
+  "latest_version": "smwc-28685-1639617499",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28685,
+      "title": "Wayne's World (NES) - Level 1",
+      "version": "smwc-28685-1639617499",
+      "upstream_time": 1639617499,
+      "download_url": "https://dl.smwcentral.net/28685/Wayne%27s%20World%20%28NES%29%20-%20Level%201.zip",
+      "filename": "Wayne%27s World (NES) - Level 1.zip",
+      "size": 37950,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

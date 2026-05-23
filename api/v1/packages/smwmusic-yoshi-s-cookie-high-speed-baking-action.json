@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-yoshi-s-cookie-high-speed-baking-action",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27634,
+  "title": "Yoshi's Cookie - High-speed baking action!",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grassland"
+  ],
+  "description": "An uplifting and short bonus song!",
+  "latest_version": "smwc-27634-1629001380",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27634,
+      "title": "Yoshi's Cookie - High-speed baking action!",
+      "version": "smwc-27634-1629001380",
+      "upstream_time": 1629001380,
+      "download_url": "https://dl.smwcentral.net/27634/yc_high_speed_0_1.zip",
+      "filename": "yc_high_speed_0_1.zip",
+      "size": 52225,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27633,
+      "title": "Yoshi's Cookie - High-speed baking action!",
+      "version": "smwc-27633-1629001707",
+      "upstream_time": 1629001707,
+      "download_url": "https://dl.smwcentral.net/27633/yc_high_speed_u_0_1.zip",
+      "filename": "yc_high_speed_u_0_1.zip",
+      "size": 32801,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

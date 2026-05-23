@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-freeze-lock-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32287,
+  "title": "Freeze/Lock Fix",
+  "authors": [
+    "HammerBrother",
+    "Isikoro"
+  ],
+  "tags": [
+    "freeze",
+    "lock",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes bugs in smw regarding sprites ignoring if $7E009D is set. This includes:<br>\r\n-Shelless koopas and sumo bro.'s lightning keeps falling.<br>\r\n--Shelless koopas on conveyor belt \"slides\" on it.<br>\r\n--If you freeze while red or blue koopa (they turn around on edges of the platform), while on the very edge of the platform, they will fall off the edge.<br>\r\n-Changing item keeps changing.<br>\r\n--Added a changing item sfx like in the remake of SMA2.<br>\r\n-Star sprites keep flashing.<br>\r\n-Dark room spotlight keeps \"spinning\".<br>\r\n-[semi-fix]Even if the shooter's timer to shoot uses $9D, it still uses $13 when it should use $14<br>\r\n<br>\r\n-<span class=\"un-outer\" title=\"Isikoro\"><a href=\"/?p=profile&amp;id=36566\" style=\"color: var(--user-color-1);\" class=\"un\">Isikoro</a></span> Update : Applied to Reappearing Ghosts.",
+  "latest_version": "smwc-32287-1679737777",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32287,
+      "title": "Freeze/Lock Fix",
+      "version": "smwc-32287-1679737777",
+      "upstream_time": 1679737777,
+      "download_url": "https://dl.smwcentral.net/32287/frozensprfix.zip",
+      "filename": "frozensprfix.zip",
+      "size": 2377,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

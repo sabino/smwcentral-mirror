@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kyoryu-sentai-zyuranger-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31481,
+  "title": "Kyoryu Sentai Zyuranger - Boss",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "retro",
+    "spooky"
+  ],
+  "description": "The Boss Theme from the Japanese Power Rangers Game on the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31481-1663762151",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31481,
+      "title": "Kyoryu Sentai Zyuranger - Boss",
+      "version": "smwc-31481-1663762151",
+      "upstream_time": 1663762151,
+      "download_url": "https://dl.smwcentral.net/31481/Kyoryu%20Sentai%20Zyuranger%20-%20Boss.zip",
+      "filename": "Kyoryu Sentai Zyuranger - Boss.zip",
+      "size": 41537,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

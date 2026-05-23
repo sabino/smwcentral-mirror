@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-growlanser-ii-fanatically-mega-man-x3-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28826,
+  "title": "Growlanser II - Fanatically (Mega Man X3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "Style : Mega Man X3 Style",
+  "latest_version": "smwc-28826-1642112228",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28826,
+      "title": "Growlanser II - Fanatically (Mega Man X3 Style)",
+      "version": "smwc-28826-1642112228",
+      "upstream_time": 1642112228,
+      "download_url": "https://dl.smwcentral.net/28826/GrowL_MMX3.zip",
+      "filename": "GrowL_MMX3.zip",
+      "size": 68922,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

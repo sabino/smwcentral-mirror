@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-no-shooting-fireballs-cape-spin-when-carrying-something",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13749,
+  "title": "No Shooting Fireballs/Cape Spin When Carrying Something",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "cape spin",
+    "fireball",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes a oversight bug in SMW that allows the player to shoot fireballs or do cape spin while carrying a sprite. Nintendo did not expect players to have 2 buttons both for carrying and throwing a fireball.<br>\r\n<br>\r\nYou can also add a freeram that also disables throwing fireballs:<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">;\tORA $xxxxxx        ;&gt;Custom freeram to disable fireball</pre></div><br>\r\n^Remove the semicolon and add a custom freeram.",
+  "latest_version": "smwc-13749-1464597326",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13749,
+      "title": "No Shooting Fireballs/Cape Spin When Carrying Something",
+      "version": "smwc-13749-1464597326",
+      "upstream_time": 1464597326,
+      "download_url": "https://dl.smwcentral.net/13749/NoCarryShootSpin.zip",
+      "filename": "NoCarryShootSpin.zip",
+      "size": 2114,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-amazin-spispopd-happy-fields",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33521,
+  "title": "Amazin' SPISPOPD - Happy Fields",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "grassland",
+    "retro"
+  ],
+  "description": "The standard game mode theme from Amazin' SPISPOPD, an old Pac-Man clone for Windows by Hamumu Software, ported by ear by listening to the WAV file. Very simplistic, faux-retro kind of music. Percussion is a bit louder than the source, where it's almost totally inaudible.",
+  "latest_version": "smwc-33521-1689757869",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33521,
+      "title": "Amazin' SPISPOPD - Happy Fields",
+      "version": "smwc-33521-1689757869",
+      "upstream_time": 1689757869,
+      "download_url": "https://dl.smwcentral.net/33521/Amazin%27%20SPISPOPD%20-%20Happy%20Fields.zip",
+      "filename": "Amazin%27 SPISPOPD - Happy Fields.zip",
+      "size": 31001,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

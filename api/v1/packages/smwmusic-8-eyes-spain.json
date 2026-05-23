@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-8-eyes-spain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17370,
+  "title": "8 Eyes - Spain",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "desert",
+    "ghost house",
+    "night",
+    "overworld",
+    "water"
+  ],
+  "description": "A beautiful waltz from 8 Eyes on the NES.  Would best suit water, castle, or ghost house levels.",
+  "latest_version": "smwc-17370-1523185056",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17370,
+      "title": "8 Eyes - Spain",
+      "version": "smwc-17370-1523185056",
+      "upstream_time": 1523185056,
+      "download_url": "https://dl.smwcentral.net/17370/Spain.zip",
+      "filename": "Spain.zip",
+      "size": 31109,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

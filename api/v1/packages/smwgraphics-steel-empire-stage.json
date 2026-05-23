@@ -1,0 +1,46 @@
+{
+  "name": "smwgraphics-steel-empire-stage",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 31884,
+  "title": "Steel Empire - Stage 1",
+  "authors": [
+    "NSX2015",
+    "Rykon-V73"
+  ],
+  "tags": [
+    "cave",
+    "city",
+    "mountain",
+    "needs remoderation"
+  ],
+  "description": "Here's the BG of the 1st stage of Steel Empire for the Sega Genesis or Mega Drive. NSX2015 ripped it and I made it available for SMW.<br>\r\nIt doesn't use many map16 tiles.<br>\r\nRecommended scrolling: use variable horizontal and vertical scrolling or variable horizontal scrolling and slow vertical scrolling.<br>\r\n<br>\r\nNo credit required.",
+  "latest_version": "smwc-31884-1660940766",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 31884,
+      "title": "Steel Empire - Stage 1",
+      "version": "smwc-31884-1660940766",
+      "upstream_time": 1660940766,
+      "download_url": "https://dl.smwcentral.net/31884/Steel%20Empire%20-%20Stage%201.zip",
+      "filename": "Steel Empire - Stage 1.zip",
+      "size": 4664,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 21762,
+      "title": "Steel Empire - Stage 2 (Upper Cave)",
+      "version": "smwc-21762-1580066684",
+      "upstream_time": 1580066684,
+      "download_url": "https://dl.smwcentral.net/21762/steelempire2-1.zip",
+      "filename": "steelempire2-1.zip",
+      "size": 4084,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

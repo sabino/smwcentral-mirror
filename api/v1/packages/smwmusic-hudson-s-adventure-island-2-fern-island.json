@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-2-fern-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15492,
+  "title": "Hudson's Adventure Island 2 - Fern Island 2",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "grassland",
+    "jungle",
+    "mushrooms",
+    "overworld"
+  ],
+  "description": "The song that plays in fern island 2 in Adventure Island 2.",
+  "latest_version": "smwc-15492-1495223695",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15492,
+      "title": "Hudson's Adventure Island 2 - Fern Island 2",
+      "version": "smwc-15492-1495223695",
+      "upstream_time": 1495223695,
+      "download_url": "https://dl.smwcentral.net/15492/Adventure%20Island%202%20-%20Overworld%203.zip",
+      "filename": "Adventure Island 2 - Overworld 3.zip",
+      "size": 31025,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15490,
+      "title": "Hudson's Adventure Island 2 - Fern Island 1",
+      "version": "smwc-15490-1495215272",
+      "upstream_time": 1495215272,
+      "download_url": "https://dl.smwcentral.net/15490/Adventure%20Island%202%20-%20Fern%20Island%201.zip",
+      "filename": "Adventure Island 2 - Fern Island 1.zip",
+      "size": 31304,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

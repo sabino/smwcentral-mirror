@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ginza-re-arranged",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15804,
+  "title": "Shin Megami Tensei - Ginza (Re-Arranged)",
+  "authors": [
+    "Ultima",
+    "musicalman"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "tense"
+  ],
+  "description": "One of the SPCs between me and musicalman's collab. This is Shin Megami Tensei's theme for the town of Ginza, ready to use for SMW (well, hopefully). I dunno how this theme can be used tho. Maybe action-y levels? meh, w/e",
+  "latest_version": "smwc-15804-1499942283",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15804,
+      "title": "Shin Megami Tensei - Ginza (Re-Arranged)",
+      "version": "smwc-15804-1499942283",
+      "upstream_time": 1499942283,
+      "download_url": "https://dl.smwcentral.net/15804/smtginza.zip",
+      "filename": "smtginza.zip",
+      "size": 80120,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

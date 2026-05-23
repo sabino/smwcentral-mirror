@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-true-golf-classics-waialae-country-club-snes-settings",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41867,
+  "title": "True Golf Classics: Waialae Country Club (SNES) - Settings",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "menu",
+    "upbeat"
+  ],
+  "description": "Settings menu music heard in the SNES port of True Golf Classics: Waialae Country Club, originating from the PC-98 edition.",
+  "latest_version": "smwc-41867-1777742044",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41867,
+      "title": "True Golf Classics: Waialae Country Club (SNES) - Settings",
+      "version": "smwc-41867-1777742044",
+      "upstream_time": 1777742044,
+      "download_url": "https://dl.smwcentral.net/41867/Waialae%20Country%20Club%20%28SNES%29%20-%20Settings.zip",
+      "filename": "Waialae Country Club (SNES) - Settings.zip",
+      "size": 58632,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

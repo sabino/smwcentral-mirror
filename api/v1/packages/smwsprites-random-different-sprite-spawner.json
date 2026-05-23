@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-random-different-sprite-spawner",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42075,
+  "title": "Random Different Sprite Spawner",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "random",
+    "sa-1",
+    "spawn",
+    "uberasm needed"
+  ],
+  "description": "This helper sprite will spawn one of two different sprites, depending on a probability.<br>\r\n<br>\r\nRespawn when going offscreen and returned is handled in three ways, via the <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type</pre></div> define.<br>\r\n<ul><li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 0</pre></div>, when you go off-screen and return, nothing will spawn anymore.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 1</pre></div>, when you go off-screen and return, the same sprite will spawn again. This feature requires 64 bytes of free RAM and, if you're not clearing RAM elsewhere, UberASM.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 2</pre></div>, when you go off-screen and return, the probability will be re-rolled and the other sprite might spawn.</li></ul><br>\r\n<br>\r\nCan spawn vanilla and/or custom sprites, with the extra bit clear or set, and with up to four different extra bytes for either. Be sure to read the asm file thoroughly, this uses 12 extra bytes!",
+  "latest_version": "smwc-42075-1775280826",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42075,
+      "title": "Random Different Sprite Spawner",
+      "version": "smwc-42075-1775280826",
+      "upstream_time": 1775280826,
+      "download_url": "https://dl.smwcentral.net/42075/Random%20Different%20Sprite.zip",
+      "filename": "Random Different Sprite.zip",
+      "size": 4207,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

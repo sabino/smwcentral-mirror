@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-treasure-hunter-g-upscale-harbor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22556,
+  "title": "Treasure Hunter G - Upscale Harbor",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "town"
+  ],
+  "description": "A very tropical-sounding song from Treasure Hunter G! A quick and simple song because I haven't ported anything in a while!<br>\r\n<br>\r\nI included two versions of the port: the one I recommend using, and one with halved tempo. The latter doesn't have any slowdown, but it's slightly faster because of the engine's inaccurate tempo values (-1 and it's too slow; +1 and it's too fast). The slowdown in the original version is very minimal, but it might bother some people. It's kind of a \"pick your poison\" situation though...",
+  "latest_version": "smwc-22556-1586485937",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22556,
+      "title": "Treasure Hunter G - Upscale Harbor",
+      "version": "smwc-22556-1586485937",
+      "upstream_time": 1586485937,
+      "download_url": "https://dl.smwcentral.net/22556/TreasureUpscale.zip",
+      "filename": "TreasureUpscale.zip",
+      "size": 67315,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

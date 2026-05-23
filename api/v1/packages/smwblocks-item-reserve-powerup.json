@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-item-reserve-powerup",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3893,
+  "title": "Item Reserve Powerup",
+  "authors": [
+    "New Hacker"
+  ],
+  "tags": [
+    "item box",
+    "lorom"
+  ],
+  "description": "This puts an item in the item box when the player is small - by default it's a mushroom. See the readme to know what items you can put or how to make the code run regardless of power-up.",
+  "latest_version": "smwc-3893-1436537398",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3893,
+      "title": "Item Reserve Powerup",
+      "version": "smwc-3893-1436537398",
+      "upstream_time": 1436537398,
+      "download_url": "https://dl.smwcentral.net/3893/MushroomItemBox.zip",
+      "filename": "MushroomItemBox.zip",
+      "size": 956,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

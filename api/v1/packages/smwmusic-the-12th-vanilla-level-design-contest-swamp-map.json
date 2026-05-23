@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-the-12th-vanilla-level-design-contest-swamp-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32425,
+  "title": "The 12th Vanilla Level Design Contest - Swamp Map",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "forest",
+    "night",
+    "overworld",
+    "swamp"
+  ],
+  "description": "A tranquil theme made for VLDC 12's Swamp Map. Good for calm overworlds/levels.<br>\r\n<br>\r\n(Fun fact: this was originally going to be the Forest Zone theme, but it ended up swapping places with it.)",
+  "latest_version": "smwc-32425-1667130760",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32425,
+      "title": "The 12th Vanilla Level Design Contest - Swamp Map",
+      "version": "smwc-32425-1667130760",
+      "upstream_time": 1667130760,
+      "download_url": "https://dl.smwcentral.net/32425/VLDC12%20-%20Swamp%20Map.zip",
+      "filename": "VLDC12 - Swamp Map.zip",
+      "size": 31448,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-tricky-japan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25903,
+  "title": "Tricky - Japan",
+  "authors": [
+    "yoshi9429"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "temple"
+  ],
+  "description": "Tricky japan stage theme.<br>\r\nI think it is useful temple stage.",
+  "latest_version": "smwc-25903-1613776080",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25903,
+      "title": "Tricky - Japan",
+      "version": "smwc-25903-1613776080",
+      "upstream_time": 1613776080,
+      "download_url": "https://dl.smwcentral.net/25903/Tricky%20-%20Japan.zip",
+      "filename": "Tricky - Japan.zip",
+      "size": 95318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

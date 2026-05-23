@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-3d-world-hands-on-hall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30993,
+  "title": "Super Mario 3D World - Hands-On Hall",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "mountain",
+    "temple"
+  ],
+  "description": "Music that plays in the level Hands-On Hall from Super Mario 3D World.<br>\r\n<br>\r\nWhen using this, copypaste the sample group text's content into Addmusic_sample groups.txt.",
+  "latest_version": "smwc-30993-1659281233",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30993,
+      "title": "Super Mario 3D World - Hands-On Hall",
+      "version": "smwc-30993-1659281233",
+      "upstream_time": 1659281233,
+      "download_url": "https://dl.smwcentral.net/30993/Super%20Mario%203D%20World%20-%20Hands-On%20Hall.zip",
+      "filename": "Super Mario 3D World - Hands-On Hall.zip",
+      "size": 79720,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

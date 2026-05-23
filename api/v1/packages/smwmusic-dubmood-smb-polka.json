@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dubmood-smb-polka",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35564,
+  "title": "Dubmood - smb-Polka",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "credits",
+    "retro"
+  ],
+  "description": "A chiptune remix of SMW's Credits Theme",
+  "latest_version": "smwc-35564-1702056032",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35564,
+      "title": "Dubmood - smb-Polka",
+      "version": "smwc-35564-1702056032",
+      "upstream_time": 1702056032,
+      "download_url": "https://dl.smwcentral.net/35564/smb-polka.zip",
+      "filename": "smb-polka.zip",
+      "size": 37782,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

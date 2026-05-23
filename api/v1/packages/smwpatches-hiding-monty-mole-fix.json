@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-hiding-monty-mole-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24747,
+  "title": "Hiding Monty Mole Fix",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "lorom",
+    "monty mole",
+    "sa-1"
+  ],
+  "description": "This patch makes the Monty Moles not interact with anything while they're in the \"digging\" state, including interaction with other sprites, cape, fireballs, star, etc. This also applies to the Silver Pow: if you hit it before the mole pops out, it won't become a silver coin.",
+  "latest_version": "smwc-24747-1601483171",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24747,
+      "title": "Hiding Monty Mole Fix",
+      "version": "smwc-24747-1601483171",
+      "upstream_time": 1601483171,
+      "download_url": "https://dl.smwcentral.net/24747/Hiding%20MontyMole%20Fix.zip",
+      "filename": "Hiding MontyMole Fix.zip",
+      "size": 1779,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

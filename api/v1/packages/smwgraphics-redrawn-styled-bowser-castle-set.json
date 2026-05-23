@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-redrawn-styled-bowser-castle-set",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 33863,
+  "title": "Redrawn Styled Bowser Castle Set",
+  "authors": [
+    "Moltz",
+    "SF - The Dark Warrior",
+    "icegoom"
+  ],
+  "tags": [
+    "castle",
+    "redrawn"
+  ],
+  "description": "A Redrawn-styled Bowser Castle set meant for interior and exterior areas, complete with foreground, background, and ExAnimation (both normal and Layer 3), which is inspired by various Mario games such as SMB3, NSMB (1+2), Mario RPG, Mario & Luigi 1 DX, and others.<br>\r\n<br>\r\nTest levels (containing the ExAnimation data), palettes, and map16 files are included alongside the ExGFX files.<br>\r\n<br>\r\nNote: While the Backgrounds are compatible with the Status Bar, the Layer 3 BGs are meant to be used with a non-layer 3 Status Bar or a HUD which doesn't cover the upper half of the screen with Layer 3 tiles. In any case, the backgrounds can be edited manually without issues to remove the top tiles should the user want to keep SMW's original Status Bar.<br>\r\n<br>\r\nGive credit to me, SF - The Dark Warrior, and Icegoom if used.",
+  "latest_version": "smwc-33863-1683219634",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 33863,
+      "title": "Redrawn Styled Bowser Castle Set",
+      "version": "smwc-33863-1683219634",
+      "upstream_time": 1683219634,
+      "download_url": "https://dl.smwcentral.net/33863/Redrawn-Styled%20Bowser%20Castle%20Set.zip",
+      "filename": "Redrawn-Styled Bowser Castle Set.zip",
+      "size": 29301,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

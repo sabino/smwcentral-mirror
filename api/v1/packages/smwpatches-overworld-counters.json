@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-overworld-counters",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18627,
+  "title": "Overworld Counters",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "coin",
+    "counter",
+    "dragon coin",
+    "lorom",
+    "overworld",
+    "sa-1",
+    "score",
+    "tilemap"
+  ],
+  "description": "this patch will put 3 counters on your overworld border:<br>\r\n<br>\r\nYoshi Coin Flag<br>\r\nSMW Beta Coin Counter<br>\r\nSMW Beta Score Counter<br>\r\n<br>\r\nyou can disable one if you dont want to use it, just check the patch<br>\r\n<br>\r\nread the readme for more details",
+  "latest_version": "smwc-18627-1544457021",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18627,
+      "title": "Overworld Counters",
+      "version": "smwc-18627-1544457021",
+      "upstream_time": 1544457021,
+      "download_url": "https://dl.smwcentral.net/18627/owcounters.zip",
+      "filename": "owcounters.zip",
+      "size": 2554,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

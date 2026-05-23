@@ -1,0 +1,28 @@
+{
+  "name": "tools-smw-enemy-name-editor",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 32836,
+  "title": "SMW Enemy Name Editor",
+  "authors": [
+    "Colmines92"
+  ],
+  "tags": [],
+  "description": "Tool to edit the enemy names shown during the end credits.<br>\r\n- Works both with headered/unheadered rom.<br>\r\n- Supports names longer than the original.<br>\r\n- Supports adding/removing names.<br>\r\n- Supports editing the character table to insert new characters.<br>\r\n  (Table is created within executable folder when running the tool and it doesn't exists).<br>\r\n<br>\r\nTested with an unmodified copy with/without head.",
+  "latest_version": "smwc-32836-1676081103",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 32836,
+      "title": "SMW Enemy Name Editor",
+      "version": "smwc-32836-1676081103",
+      "upstream_time": 1676081103,
+      "download_url": "https://dl.smwcentral.net/32836/SMWEnemyNameEditor%20v1.0.zip",
+      "filename": "SMWEnemyNameEditor v1.0.zip",
+      "size": 58458,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

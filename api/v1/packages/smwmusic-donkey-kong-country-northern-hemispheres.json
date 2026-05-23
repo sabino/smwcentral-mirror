@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-donkey-kong-country-northern-hemispheres",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13156,
+  "title": "Donkey Kong Country - Northern Hemispheres",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "mountain",
+    "tense"
+  ],
+  "description": "Snow level song from Donkey Kong Country 1.",
+  "latest_version": "smwc-13156-1454207200",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13156,
+      "title": "Donkey Kong Country - Northern Hemispheres",
+      "version": "smwc-13156-1454207200",
+      "upstream_time": 1454207200,
+      "download_url": "https://dl.smwcentral.net/13156/NH.zip",
+      "filename": "NH.zip",
+      "size": 59104,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

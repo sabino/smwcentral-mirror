@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-alice-in-wonderland",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33749,
+  "title": "Touhou Kaikidan ~ Mystic Square - Alice in Wonderland",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "final",
+    "magic",
+    "night",
+    "sad",
+    "sky",
+    "space",
+    "tense"
+  ],
+  "description": "不思議の国のアリス<br>\r\nExtra Stage theme of Touhou Kaikidan<br>\r\nUsed 8 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-33749-1685566354",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33749,
+      "title": "Touhou Kaikidan ~ Mystic Square - Alice in Wonderland",
+      "version": "smwc-33749-1685566354",
+      "upstream_time": 1685566354,
+      "download_url": "https://dl.smwcentral.net/33749/th5_16.zip",
+      "filename": "th5_16.zip",
+      "size": 32623,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15540,
+      "title": "Touhou Kaikidan ~ Mystic Square - Alice in Wonderland",
+      "version": "smwc-15540-1495225615",
+      "upstream_time": 1495225615,
+      "download_url": "https://dl.smwcentral.net/15540/Alice%20in%20Wonderland.zip",
+      "filename": "Alice in Wonderland.zip",
+      "size": 34208,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

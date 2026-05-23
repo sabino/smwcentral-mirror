@@ -1,0 +1,44 @@
+{
+  "name": "smwmusic-trials-of-mana-decision-bell",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7603,
+  "title": "Trials of Mana - Decision Bell",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "cutscene",
+    "desert",
+    "forest",
+    "mountain",
+    "night",
+    "overworld",
+    "ruins",
+    "sky",
+    "temple",
+    "title",
+    "town"
+  ],
+  "description": "(Also known as \"Seiken Densetsu 3\" in Japan)<br>\r\n<br>\r\nA majestic and holy song that could fit a castle or a cutscene. It can also work for a nice town theme or an interesting night investigation.",
+  "latest_version": "smwc-7603-1330145835",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7603,
+      "title": "Trials of Mana - Decision Bell",
+      "version": "smwc-7603-1330145835",
+      "upstream_time": 1330145835,
+      "download_url": "https://dl.smwcentral.net/7603/Decision%20Bell.zip",
+      "filename": "Decision Bell.zip",
+      "size": 58475,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

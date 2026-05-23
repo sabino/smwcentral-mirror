@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-fair-powerup-filters",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 23385,
+  "title": "Fair Powerup Filters",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "filter",
+    "lorom",
+    "powerup",
+    "sa-1"
+  ],
+  "description": "This lets you set up 4 types of powerup filters in a per-level basis: small only, big only, no fire flowers and no feathers, taking in account your powerup status and item box item. Unlike most powerup filters though, this won't simply make you lose a filtered powerup, but will restore it once you return to the overworld, much like the Yoshi filters work. For that, 1 byte of free RAM is used.<br>\r\n<br>\r\nAdditional notes:<br>\r\n-Filtering a fire flower or a feather will replace it with a mushroom.<br>\r\n-There are 2 recovery options for fire flower and feather filters: they can always be recovered, or it can depend on whether the mushroom they got turned into has been preserved. More details in the readme and setup files.<br>\r\n<br>\r\nNote that these aren't to be used as level code, but as game modes C and 12! An easy table to set up the activation of the filters is included.",
+  "latest_version": "smwc-23385-1594816479",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 23385,
+      "title": "Fair Powerup Filters",
+      "version": "smwc-23385-1594816479",
+      "upstream_time": 1594816479,
+      "download_url": "https://dl.smwcentral.net/23385/powerupfilters.zip",
+      "filename": "powerupfilters.zip",
+      "size": 3477,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

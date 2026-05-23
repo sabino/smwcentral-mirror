@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-teleport-on-coins",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29611,
+  "title": "Teleport on Coins",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "This code will teleport the player after they collect a certain amount of coins.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zoreo\"><a href=\"/?p=profile&amp;id=44740\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Zoreo</a></span>.",
+  "latest_version": "smwc-29611-1650006008",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29611,
+      "title": "Teleport on Coins",
+      "version": "smwc-29611-1650006008",
+      "upstream_time": 1650006008,
+      "download_url": "https://dl.smwcentral.net/29611/TeleportOnCoins.zip",
+      "filename": "TeleportOnCoins.zip",
+      "size": 1313,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

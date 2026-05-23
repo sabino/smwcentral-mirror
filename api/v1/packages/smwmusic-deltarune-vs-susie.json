@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-deltarune-vs-susie",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41231,
+  "title": "Deltarune - Vs. Susie",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "The theme played during the Card Castle Prison fight against Lancer (as Susie) from Deltarune: Chapter 1.",
+  "latest_version": "smwc-41231-1773437163",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41231,
+      "title": "Deltarune - Vs. Susie",
+      "version": "smwc-41231-1773437163",
+      "upstream_time": 1773437163,
+      "download_url": "https://dl.smwcentral.net/41231/Deltarune%20-%20Vs.%20Susie%20%5BU%5D.zip",
+      "filename": "Deltarune - Vs. Susie %5BU%5D.zip",
+      "size": 34530,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18585,
+      "title": "Deltarune - Vs. Susie",
+      "version": "smwc-18585-1543768835",
+      "upstream_time": 1543768835,
+      "download_url": "https://dl.smwcentral.net/18585/Vs.%20Susie.zip",
+      "filename": "Vs. Susie.zip",
+      "size": 52236,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

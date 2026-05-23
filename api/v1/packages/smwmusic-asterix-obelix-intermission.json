@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-asterix-obelix-intermission",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34757,
+  "title": "Asterix & Obelix - Intermission",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "cutscene",
+    "mountain",
+    "overworld",
+    "title"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nHeroic theme.",
+  "latest_version": "smwc-34757-1691404863",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34757,
+      "title": "Asterix & Obelix - Intermission",
+      "version": "smwc-34757-1691404863",
+      "upstream_time": 1691404863,
+      "download_url": "https://dl.smwcentral.net/34757/Asterix%20and%20Obelix%20-%2025%20Intermission.zip",
+      "filename": "Asterix and Obelix - 25 Intermission.zip",
+      "size": 77034,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

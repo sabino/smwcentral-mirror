@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-disable-carrying-items-underwater",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40165,
+  "title": "Disable Carrying Items Underwater",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "carrying",
+    "lorom",
+    "sa-1",
+    "underwater",
+    "water"
+  ],
+  "description": "This patch disables carrying underwater and if player enters a body of water with an item, they'll drop it.<br>\r\nCredit is optional, requested by Batata Douce.",
+  "latest_version": "smwc-40165-1753317019",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40165,
+      "title": "Disable Carrying Items Underwater",
+      "version": "smwc-40165-1753317019",
+      "upstream_time": 1753317019,
+      "download_url": "https://dl.smwcentral.net/40165/No%20Carrying%20Underwater.zip",
+      "filename": "No Carrying Underwater.zip",
+      "size": 1302,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

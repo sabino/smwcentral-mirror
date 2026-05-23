@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-spanky-s-quest-goal",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38538,
+  "title": "Spanky's Quest - Goal",
+  "authors": [
+    "TobiTopstar"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "Can be used as an exit sound<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b>NOTE: This song cannot be used globally primarily due to ARAM overflow and secondarily due to the usage of echo. This song can however be used as a <span style=\"color: #ffcc99;\">local</span> <span style=\"color: #ffcccc;\"></span>exit song.</b></span>",
+  "latest_version": "smwc-38538-1733008954",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38538,
+      "title": "Spanky's Quest - Goal",
+      "version": "smwc-38538-1733008954",
+      "upstream_time": 1733008954,
+      "download_url": "https://dl.smwcentral.net/38538/spqst_goal.zip",
+      "filename": "spqst_goal.zip",
+      "size": 31908,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

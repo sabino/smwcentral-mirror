@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-new-super-mario-bros-bonus-room-stars",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38471,
+  "title": "New Super Mario Bros. - Bonus Room (Stars)",
+  "authors": [
+    "TheOrangeToad"
+  ],
+  "tags": [
+    "2bpp",
+    "bonus",
+    "patch needed",
+    "texture"
+  ],
+  "description": "The Bonus Room (Stars) background from New Super Mario Bros. but got converted and edited into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+  "latest_version": "smwc-38471-1726620752",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38471,
+      "title": "New Super Mario Bros. - Bonus Room (Stars)",
+      "version": "smwc-38471-1726620752",
+      "upstream_time": 1726620752,
+      "download_url": "https://dl.smwcentral.net/38471/%28Layer%203%29%20New%20Super%20Mario%20Bros.%20-%20Bonus%20Room%20%28Stars%29.zip",
+      "filename": "(Layer 3) New Super Mario Bros. - Bonus Room (Stars).zip",
+      "size": 1790,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 33915,
+      "title": "New Super Mario Bros. - Bonus Room (Stars)",
+      "version": "smwc-33915-1683926394",
+      "upstream_time": 1683926394,
+      "download_url": "https://dl.smwcentral.net/33915/nsmb-stars%20%28Update%29.zip",
+      "filename": "nsmb-stars (Update).zip",
+      "size": 1713,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

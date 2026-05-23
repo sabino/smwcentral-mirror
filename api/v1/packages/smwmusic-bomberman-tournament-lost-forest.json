@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-bomberman-tournament-lost-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7290,
+  "title": "Bomberman Tournament - Lost Forest",
+  "authors": [
+    "188"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "grassland",
+    "title"
+  ],
+  "description": "A nice calm tune from Bomberman Land best suited for early grasslands.",
+  "latest_version": "smwc-7290-1405666749",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7290,
+      "title": "Bomberman Tournament - Lost Forest",
+      "version": "smwc-7290-1405666749",
+      "upstream_time": 1405666749,
+      "download_url": "https://dl.smwcentral.net/7290/bomber%20man%20land.zip",
+      "filename": "bomber man land.zip",
+      "size": 40751,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

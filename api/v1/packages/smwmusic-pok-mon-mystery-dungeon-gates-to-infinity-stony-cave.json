@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-pok-mon-mystery-dungeon-gates-to-infinity-stony-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17943,
+  "title": "Pokémon Mystery Dungeon: Gates to Infinity - Stony Cave",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "grassland",
+    "mountain",
+    "town"
+  ],
+  "description": "A theme from the Pokémon Mystery Dungeon Series. Despite the title, this song doesn't really sound like a cave theme at all (at least for SMW levels). This theme is a nice tune that is more fitting for mountainous environments, grasslands, and sometimes deserts.<br>\r\n<br>\r\nUPDATES: Replaced the nylon guitar for a steel guitar. Added more instrumentation to the beginning. Increased the echo reverb and delay. Various volume and panning changes. ",
+  "latest_version": "smwc-17943-1532535982",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17943,
+      "title": "Pokémon Mystery Dungeon: Gates to Infinity - Stony Cave",
+      "version": "smwc-17943-1532535982",
+      "upstream_time": 1532535982,
+      "download_url": "https://dl.smwcentral.net/17943/Stony%20Cave.zip",
+      "filename": "Stony Cave.zip",
+      "size": 53418,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

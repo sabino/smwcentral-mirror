@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-add-time-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 6042,
+  "title": "Add Time Blocks",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "lorom",
+    "time",
+    "timer"
+  ],
+  "description": "These blocks will add a configurable amount of time to your timer (this blocks handles eventual overflows too) and shatter afterwards. The information of how to set them are in the asm files.<br>\r\n<br>\r\nCredit is not necessary, but would be nice.",
+  "latest_version": "smwc-6042-1431119229",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 6042,
+      "title": "Add Time Blocks",
+      "version": "smwc-6042-1431119229",
+      "upstream_time": 1431119229,
+      "download_url": "https://dl.smwcentral.net/6042/Add%20Time%20Blocks.zip",
+      "filename": "Add Time Blocks.zip",
+      "size": 1425,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

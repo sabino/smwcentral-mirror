@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-the-incredible-machine-even-more-contraptions-new-wave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40010,
+  "title": "The Incredible Machine: Even More Contraptions - New Wave",
+  "authors": [
+    "jneen"
+  ],
+  "tags": [
+    "upbeat"
+  ],
+  "description": "One of my fav tracks of all time.<br>\r\n<br>\r\nCompatible with all SFX and global songs.<br>\r\n<br>\r\nMade with Ramekin. source: https://codeberg.org/jneen/ramekin-examples/src/branch/main/new-wave.rmk",
+  "latest_version": "smwc-40010-1752927235",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40010,
+      "title": "The Incredible Machine: Even More Contraptions - New Wave",
+      "version": "smwc-40010-1752927235",
+      "upstream_time": 1752927235,
+      "download_url": "https://dl.smwcentral.net/40010/new-wave.zip",
+      "filename": "new-wave.zip",
+      "size": 82759,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

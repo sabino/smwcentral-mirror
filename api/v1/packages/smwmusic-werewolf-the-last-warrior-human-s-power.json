@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-werewolf-the-last-warrior-human-s-power",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31690,
+  "title": "Werewolf: The Last Warrior - Human's Power",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "final",
+    "overworld",
+    "retro",
+    "tense"
+  ],
+  "description": "The Stage Theme from Werewolf: The Last Warrior used when transformed into the Human Form.<br>\r\n<br>\r\nThere is a define in the txt file to change between the default and JP versions, which only switches the Tom DPCM sample.",
+  "latest_version": "smwc-31690-1663859302",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31690,
+      "title": "Werewolf: The Last Warrior - Human's Power",
+      "version": "smwc-31690-1663859302",
+      "upstream_time": 1663859302,
+      "download_url": "https://dl.smwcentral.net/31690/Werewolf%20The%20Last%20Warrior%20-%20Human%27s%20Power.zip",
+      "filename": "Werewolf The Last Warrior - Human%27s Power.zip",
+      "size": 113131,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

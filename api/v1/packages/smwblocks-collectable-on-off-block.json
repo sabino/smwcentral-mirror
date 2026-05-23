@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-collectable-on-off-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23550,
+  "title": "Collectable ON/OFF block",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "collectable",
+    "lorom",
+    "sa-1",
+    "switch",
+    "switch block"
+  ],
+  "description": "This ON/OFF blocks can be collected and will disappear leaving only a little spark behind them.",
+  "latest_version": "smwc-23550-1593861622",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23550,
+      "title": "Collectable ON/OFF block",
+      "version": "smwc-23550-1593861622",
+      "upstream_time": 1593861622,
+      "download_url": "https://dl.smwcentral.net/23550/onoff.zip",
+      "filename": "onoff.zip",
+      "size": 292,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

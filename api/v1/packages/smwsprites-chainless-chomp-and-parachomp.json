@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-chainless-chomp-and-parachomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36859,
+  "title": "Chainless Chomp and Parachomp",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "These are Chain Chomps on the loose, with Parachomps additionally having small stubby wings that allow them to bounce around and hover. They can only be stopped if Mario runs into them while invincible.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36859-1722121888",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36859,
+      "title": "Chainless Chomp and Parachomp",
+      "version": "smwc-36859-1722121888",
+      "upstream_time": 1722121888,
+      "download_url": "https://dl.smwcentral.net/36859/Chainless%20Chomp%20and%20Parachomp.zip",
+      "filename": "Chainless Chomp and Parachomp.zip",
+      "size": 2821,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bandicoot-papu-papu-boss-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36889,
+  "title": "Crash Bandicoot - Papu Papu Boss Fight",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "boss",
+    "forest",
+    "jungle",
+    "temple"
+  ],
+  "description": "A jungly and tribal boss fight theme that plays in the infamously easy boss fight against Papu Papu, the overweight tribe leader from N. Sanity Island.<br>\r\n<br>\r\nUpdate (02/16): updated the percussion to sound a little more accurate (it can't sound 1:1 as this song originally uses a 150KB percussion sample, which i can't fit in SMW without sounding too compressed and removing vanilla samples)",
+  "latest_version": "smwc-36889-1708798895",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36889,
+      "title": "Crash Bandicoot - Papu Papu Boss Fight",
+      "version": "smwc-36889-1708798895",
+      "upstream_time": 1708798895,
+      "download_url": "https://dl.smwcentral.net/36889/CB%20-%20Papu%20Papu.zip",
+      "filename": "CB - Papu Papu.zip",
+      "size": 96797,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "smwpatches-extended-no-sprite-tile-limits-v4",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32381,
+  "title": "Extended No Sprite Tile Limits v4.0",
+  "authors": [
+    "DiscoTheBat",
+    "Kevin",
+    "Roy",
+    "imamelia",
+    "worldpeace"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "bounce sprites",
+    "cluster sprites",
+    "extended sprites",
+    "lorom",
+    "minor sprites",
+    "oam",
+    "sa-1",
+    "smoke",
+    "sprite",
+    "tile"
+  ],
+  "description": "This is a No Sprite Tile Limits patch for non-normal sprites (extended sprites, cluster sprites, smoke images, bounce sprites, etc.), most of which use OAM addresses $02xx instead of $03xx. It makes said sprites use the first free slot instead of having hardcoded slots. It'll fix the Sumo Bros. flame glitch now.<br>\r\n<br>\r\nNEW - Fully fixes the Sumo Bros. flames, graphic-wise and coding-wise. This makes the flames to not hurt the player, if he is about 8 blocks underneath.<br>\r\n<br>\r\nv3.1 (Kevin): now compatible with PIXI. Also made Mario's fireballs and the contact gfx sprite use dynamic slots, so they don't conflict with each other and which also fixes the item box flicker that happened on the previous version.<br>\r\n<br>\r\nv3.2 (Kevin): fixed bugs with the BG candle flames caused by previous versions:<br>\r\n  - Now the flames properly loop around the screen<br>\r\n  - Now the flames don't appear in front of other sprites<br>\r\n<br>\r\nv4.0 (Kevin):<br>\r\n  - Now fully compatible with PIXI v1.40<br>\r\n  - Small optimization in FixContactGFX<br>\r\n  - Made patch work for the Goal Tape bonus stars (they won't overwrite other sprites now)",
+  "latest_version": "smwc-32381-1675780222",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32381,
+      "title": "Extended No Sprite Tile Limits v4.0",
+      "version": "smwc-32381-1675780222",
+      "upstream_time": 1675780222,
+      "download_url": "https://dl.smwcentral.net/32381/ExtendNSTL.zip",
+      "filename": "ExtendNSTL.zip",
+      "size": 3405,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

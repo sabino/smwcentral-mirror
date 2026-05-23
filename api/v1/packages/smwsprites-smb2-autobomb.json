@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-smb2-autobomb",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3581,
+  "title": "SMB2 Autobomb",
+  "authors": [
+    "NamelessProtagonist"
+  ],
+  "tags": [
+    "lorom",
+    "rideable",
+    "sa-1",
+    "smb 2"
+  ],
+  "description": "The mobile flame cannon from SMB2, by NamelessProtagonist and mario90.<br>\r\n<br>\r\nThe Autobomb functions as it did in SMB2. It moves left and right and every so often, turns to face Mario and shoots flames. Mario can jump on it to ride the Autobomb over dangerous terrain.<br>\r\n<br>\r\nNot reccomended for use with slopes.<br>\r\n<br>\r\nHappy C3 Everyone!<br>\r\n<br>\r\nNow with proper SA-1 conversion.",
+  "latest_version": "smwc-3581-1273508240",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3581,
+      "title": "SMB2 Autobomb",
+      "version": "smwc-3581-1273508240",
+      "upstream_time": 1273508240,
+      "download_url": "https://dl.smwcentral.net/3581/autobomb.zip",
+      "filename": "autobomb.zip",
+      "size": 3126,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

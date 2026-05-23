@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-flying-cloud",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29818,
+  "title": "Flying Cloud",
+  "authors": [
+    "Abdu"
+  ],
+  "tags": [
+    "cloud",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "solid"
+  ],
+  "description": "As the name implies this sprite is a flying cloud which is semi-solid meaning you can pass through it from below and is very customizable.",
+  "latest_version": "smwc-29818-1650829638",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29818,
+      "title": "Flying Cloud",
+      "version": "smwc-29818-1650829638",
+      "upstream_time": 1650829638,
+      "download_url": "https://dl.smwcentral.net/29818/FlyingCloud.zip",
+      "filename": "FlyingCloud.zip",
+      "size": 4836,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

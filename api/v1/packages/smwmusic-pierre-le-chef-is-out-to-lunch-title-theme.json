@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pierre-le-chef-is-out-to-lunch-title-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36709,
+  "title": "Pierre Le Chef is... Out to Lunch - Title Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "credits",
+    "title"
+  ],
+  "description": "Part of the Pierre Le Chef is... Out to Lunch soundtrack.",
+  "latest_version": "smwc-36709-1706027906",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36709,
+      "title": "Pierre Le Chef is... Out to Lunch - Title Theme",
+      "version": "smwc-36709-1706027906",
+      "upstream_time": 1706027906,
+      "download_url": "https://dl.smwcentral.net/36709/Title%20Theme.zip",
+      "filename": "Title Theme.zip",
+      "size": 32865,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

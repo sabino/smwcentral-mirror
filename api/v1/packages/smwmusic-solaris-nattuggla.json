@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-solaris-nattuggla",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37106,
+  "title": "Solaris - Nattuggla",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "night",
+    "retro",
+    "space",
+    "upbeat",
+    "urban"
+  ],
+  "description": "A very groovy tracker song that I discovered thanks to <span class=\"un-outer\" title=\"Ahrion\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=46862\" style=\"color: #557aaa;\" class=\"un\">Ahrion</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=33862\">port of the same song</a>.<br>\r\n<br>\r\nGotta love pulses with @1!",
+  "latest_version": "smwc-37106-1709503779",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37106,
+      "title": "Solaris - Nattuggla",
+      "version": "smwc-37106-1709503779",
+      "upstream_time": 1709503779,
+      "download_url": "https://dl.smwcentral.net/37106/LEVEL%204%20-%20NIGHT%20OWL.zip",
+      "filename": "LEVEL 4 - NIGHT OWL.zip",
+      "size": 32623,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33862,
+      "title": "Solaris - Nattuggla",
+      "version": "smwc-33862-1690223859",
+      "upstream_time": 1690223859,
+      "download_url": "https://dl.smwcentral.net/33862/Nattuggla.zip",
+      "filename": "Nattuggla.zip",
+      "size": 51176,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

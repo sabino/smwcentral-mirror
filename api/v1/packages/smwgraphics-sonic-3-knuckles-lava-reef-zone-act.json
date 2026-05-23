@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-sonic-3-knuckles-lava-reef-zone-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 31938,
+  "title": "Sonic 3 & Knuckles - Lava Reef Zone (Act 2)",
+  "authors": [
+    "NopeContest"
+  ],
+  "tags": [
+    "cave",
+    "volcano"
+  ],
+  "description": "The more peaceful sounding act of Lava Reef, from Sonic 3 & Knuckles. Updated now to include the Death Egg object in the background; using it will take up palette row 3 and BG2.",
+  "latest_version": "smwc-31938-1661374914",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 31938,
+      "title": "Sonic 3 & Knuckles - Lava Reef Zone (Act 2)",
+      "version": "smwc-31938-1661374914",
+      "upstream_time": 1661374914,
+      "download_url": "https://dl.smwcentral.net/31938/lavareefact2.zip",
+      "filename": "lavareefact2.zip",
+      "size": 10046,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 31808,
+      "title": "Sonic 3 & Knuckles - Lava Reef Zone (Act 1)",
+      "version": "smwc-31808-1660248982",
+      "upstream_time": 1660248982,
+      "download_url": "https://dl.smwcentral.net/31808/lavareef_act1.zip",
+      "filename": "lavareef_act1.zip",
+      "size": 7685,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

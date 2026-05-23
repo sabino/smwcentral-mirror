@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-corpse-party-ray-of-hope",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29505,
+  "title": "Corpse Party - Ray Of Hope",
+  "authors": [
+    "TheBourgyman"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "escape",
+    "final",
+    "night",
+    "sky",
+    "tense"
+  ],
+  "description": "My first port. Used in my hack Luminescent as the cape level music.<br>\r\n<br>\r\nCould fit escape sections, as well as dramatic, tense yet hopeful situations.",
+  "latest_version": "smwc-29505-1649032956",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29505,
+      "title": "Corpse Party - Ray Of Hope",
+      "version": "smwc-29505-1649032956",
+      "upstream_time": 1649032956,
+      "download_url": "https://dl.smwcentral.net/29505/Corpse%20Party%20-%20Ray%20of%20Hope.zip",
+      "filename": "Corpse Party - Ray of Hope.zip",
+      "size": 34794,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

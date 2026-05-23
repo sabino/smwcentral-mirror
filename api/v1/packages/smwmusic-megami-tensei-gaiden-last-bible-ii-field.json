@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-field",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33350,
+  "title": "Megami Tensei Gaiden: Last Bible II - Field",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "grassland",
+    "retro"
+  ],
+  "description": "Field from Last Bible II.",
+  "latest_version": "smwc-33350-1680581301",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33350,
+      "title": "Megami Tensei Gaiden: Last Bible II - Field",
+      "version": "smwc-33350-1680581301",
+      "upstream_time": 1680581301,
+      "download_url": "https://dl.smwcentral.net/33350/Last%20Bible%20II%20-%20Field.zip",
+      "filename": "Last Bible II - Field.zip",
+      "size": 101250,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

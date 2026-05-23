@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-peach-s-floating-ability",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41563,
+  "title": "Peach's Floating Ability",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "ability",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This will give the player a floaty jump, similar to Peach's own in Super Mario Bros. 2.",
+  "latest_version": "smwc-41563-1770768587",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41563,
+      "title": "Peach's Floating Ability",
+      "version": "smwc-41563-1770768587",
+      "upstream_time": 1770768587,
+      "download_url": "https://dl.smwcentral.net/41563/Peach%27s%20Floating%20Ability.zip",
+      "filename": "Peach%27s Floating Ability.zip",
+      "size": 568,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

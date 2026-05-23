@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-event-step-specific-tile-reveal-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 31287,
+  "title": "Event/Step Specific Tile Reveal SFX",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "event",
+    "lorom",
+    "overworld",
+    "sa-1",
+    "sfx"
+  ],
+  "description": "This patch allows you to customize the tile reveal SFX for each Overworld event, as well as changing it for each step in the events. Check out the asm files for more info.<br>\r\nExample video <a href=\"https://www.youtube.com/watch?v=FzPCKeqYkOI\" rel=\"nofollow\">here</a> (courtesy of Deeke).",
+  "latest_version": "smwc-31287-1675059553",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 31287,
+      "title": "Event/Step Specific Tile Reveal SFX",
+      "version": "smwc-31287-1675059553",
+      "upstream_time": 1675059553,
+      "download_url": "https://dl.smwcentral.net/31287/reveal_sfx.zip",
+      "filename": "reveal_sfx.zip",
+      "size": 2607,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

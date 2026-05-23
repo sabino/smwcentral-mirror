@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-paper-mario-snow-road",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29008,
+  "title": "Paper Mario - Snow Road",
+  "authors": [
+    "Fyre150"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cave",
+    "ice",
+    "mountain",
+    "night",
+    "overworld",
+    "sky"
+  ],
+  "description": "A calm, snowy song from Paper Mario. <br>\r\n<br>\r\nNote: Incompatible with Bonus End, Thunder SFX/Blarggs.",
+  "latest_version": "smwc-29008-1642112117",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29008,
+      "title": "Paper Mario - Snow Road",
+      "version": "smwc-29008-1642112117",
+      "upstream_time": 1642112117,
+      "download_url": "https://dl.smwcentral.net/29008/Paper%20Mario%20-%20Snow%20Road.zip",
+      "filename": "Paper Mario - Snow Road.zip",
+      "size": 75767,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

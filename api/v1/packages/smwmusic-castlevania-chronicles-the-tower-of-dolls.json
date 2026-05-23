@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-castlevania-chronicles-the-tower-of-dolls",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17563,
+  "title": "Castlevania Chronicles - The Tower of Dolls",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "fire",
+    "spooky"
+  ],
+  "description": "\tTheme that plays in stage 6 of Castlevania Chronicles. It's string-filled and fits castles really well. Works for other sorts of dangerous environments too.<br>\r\n<br>\r\nRequester: StrikeForcer<br>\r\n<br>\r\n(FIXES: The lead section is entirely changed with better instruments and volume changes. Replaced the extra instrument that was in the previous version since it wasn't in the official version of the song. Fixed a few incorrect notes.)",
+  "latest_version": "smwc-17563-1527035003",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17563,
+      "title": "Castlevania Chronicles - The Tower of Dolls",
+      "version": "smwc-17563-1527035003",
+      "upstream_time": 1527035003,
+      "download_url": "https://dl.smwcentral.net/17563/The%20Tower%20of%20Dolls.zip",
+      "filename": "The Tower of Dolls.zip",
+      "size": 32767,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

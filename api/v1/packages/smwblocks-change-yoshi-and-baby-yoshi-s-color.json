@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-change-yoshi-and-baby-yoshi-s-color",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 34003,
+  "title": "Change Yoshi and Baby Yoshi's Color",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "baby yoshi",
+    "layer 2",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This block will change Yoshi and/or Baby Yoshi's color to a specified value when touched. It can also be changed to only affect them when Mario is riding Yoshi/carrying Baby Yoshi or when the sprites touch the block without Mario.",
+  "latest_version": "smwc-34003-1687608773",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 34003,
+      "title": "Change Yoshi and Baby Yoshi's Color",
+      "version": "smwc-34003-1687608773",
+      "upstream_time": 1687608773,
+      "download_url": "https://dl.smwcentral.net/34003/yoshi_color.zip",
+      "filename": "yoshi_color.zip",
+      "size": 675,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

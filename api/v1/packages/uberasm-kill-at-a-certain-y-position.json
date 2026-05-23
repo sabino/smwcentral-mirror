@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-kill-at-a-certain-y-position",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29015,
+  "title": "Kill at a Certain Y-Position",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "death",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This uberASM will kill the player once they reach certain Y-position. Originally made for Hackjam.<br>\r\n<br>\r\nCredit is unecessary.",
+  "latest_version": "smwc-29015-1645172653",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29015,
+      "title": "Kill at a Certain Y-Position",
+      "version": "smwc-29015-1645172653",
+      "upstream_time": 1645172653,
+      "download_url": "https://dl.smwcentral.net/29015/KillAtYPos.zip",
+      "filename": "KillAtYPos.zip",
+      "size": 588,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-bring-up-save-prompt-by-pressing-select",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40140,
+  "title": "Bring Up Save Prompt by Pressing Select",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1",
+    "save"
+  ],
+  "description": "Brings up the save prompt by pressing Select on the overworld, without sacrificing the look around the map functionality.<br>\r\n<br>\r\nUpdate 2025-07-20 (gemstonezVA): Changed an = to an == to fix an upcoming Asar 2.0 deprecation.",
+  "latest_version": "smwc-40140-1753051609",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40140,
+      "title": "Bring Up Save Prompt by Pressing Select",
+      "version": "smwc-40140-1753051609",
+      "upstream_time": 1753051609,
+      "download_url": "https://dl.smwcentral.net/40140/savepromptselect.zip",
+      "filename": "savepromptselect.zip",
+      "size": 778,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

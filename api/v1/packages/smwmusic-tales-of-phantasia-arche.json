@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-tales-of-phantasia-arche",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29184,
+  "title": "Tales of Phantasia - Arche",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "chase",
+    "grassland"
+  ],
+  "description": "Arche from Tales of Phantasia. Could fit a athletic levels or bonus area",
+  "latest_version": "smwc-29184-1643663407",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29184,
+      "title": "Tales of Phantasia - Arche",
+      "version": "smwc-29184-1643663407",
+      "upstream_time": 1643663407,
+      "download_url": "https://dl.smwcentral.net/29184/Tales%20of%20Phantasia%20-%20Arche%20%28U%29.zip",
+      "filename": "Tales of Phantasia - Arche (U).zip",
+      "size": 35181,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

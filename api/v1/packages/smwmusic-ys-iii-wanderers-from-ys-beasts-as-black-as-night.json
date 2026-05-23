@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ys-iii-wanderers-from-ys-beasts-as-black-as-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27321,
+  "title": "Ys III: Wanderers from Ys - Beasts as Black as Night",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "tense"
+  ],
+  "description": "An intense boss battle music from <i>Ys III</i>. Based on the Mega Drive version.<br>\r\n<br>\r\n(Note: The track name is taken from the <i>Ys: The Oath in Felghana</i> album.)",
+  "latest_version": "smwc-27321-1625090478",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27321,
+      "title": "Ys III: Wanderers from Ys - Beasts as Black as Night",
+      "version": "smwc-27321-1625090478",
+      "upstream_time": 1625090478,
+      "download_url": "https://dl.smwcentral.net/27321/Ys%20III%20Beasts%20as%20Black%20as%20Night.zip",
+      "filename": "Ys III Beasts as Black as Night.zip",
+      "size": 34233,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

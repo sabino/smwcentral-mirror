@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-lakitu",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 39140,
+  "title": "Super Mario World (Pre-release) – Lakitu",
+  "authors": [
+    "zAce08xZ"
+  ],
+  "tags": [
+    "cloud",
+    "lakitu",
+    "lakitu boss"
+  ],
+  "description": "An early version of Lakitu.<br>\r\n<br>\r\nThis is meant to be used with the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16703\">SMB3 Lakitu</a>.<br>\r\n<br>\r\nYou must change the cloud's palette by editing the ASM file (lakitu_smb3.asm). Locate the line:<br>\r\n;Cloud palette<br>\r\n!CloudPal = $02<br>\r\nThen, change $02 to $0B , so it looks like this:<br>\r\n!CloudPal = $0B<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-39140-1738691916",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 39140,
+      "title": "Super Mario World (Pre-release) – Lakitu",
+      "version": "smwc-39140-1738691916",
+      "upstream_time": 1738691916,
+      "download_url": "https://dl.smwcentral.net/39140/smwprereleaseLakitu.zip",
+      "filename": "smwprereleaseLakitu.zip",
+      "size": 1944,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

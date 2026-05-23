@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-hit-remembering-invisible-coin-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 20629,
+  "title": "Hit-Remembering Invisible Coin Blocks",
+  "authors": [
+    "trillian"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "These are kaizo blocks (aka invisible coin blocks) that, when hit once, will remember being hit and appear as outlined later. Requires UberASM tool.<br>\r\n<br>\r\nRequested by MegaNerd14 on Discord.",
+  "latest_version": "smwc-20629-1566255266",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 20629,
+      "title": "Hit-Remembering Invisible Coin Blocks",
+      "version": "smwc-20629-1566255266",
+      "upstream_time": 1566255266,
+      "download_url": "https://dl.smwcentral.net/20629/RememberingKaizoBlocks.zip",
+      "filename": "RememberingKaizoBlocks.zip",
+      "size": 4732,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-kidou-senshi-gundam-f91-formula-senki-0122-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40532,
+  "title": "Kidou Senshi Gundam F91: Formula Senki 0122 - Act 12",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "chase",
+    "fire",
+    "space"
+  ],
+  "description": "One of the tracks used for levels.",
+  "latest_version": "smwc-40532-1756753209",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40532,
+      "title": "Kidou Senshi Gundam F91: Formula Senki 0122 - Act 12",
+      "version": "smwc-40532-1756753209",
+      "upstream_time": 1756753209,
+      "download_url": "https://dl.smwcentral.net/40532/Gundam%20F91%20Act%2012.zip",
+      "filename": "Gundam F91 Act 12.zip",
+      "size": 66337,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 40530,
+      "title": "Kidou Senshi Gundam F91: Formula Senki 0122 - Act 4",
+      "version": "smwc-40530-1756753206",
+      "upstream_time": 1756753206,
+      "download_url": "https://dl.smwcentral.net/40530/Gundam%20F91%20Act%204.zip",
+      "filename": "Gundam F91 Act 4.zip",
+      "size": 62900,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

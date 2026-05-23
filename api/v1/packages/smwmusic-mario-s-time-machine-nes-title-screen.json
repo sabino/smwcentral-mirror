@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-mario-s-time-machine-nes-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35542,
+  "title": "Mario's Time Machine (NES) - Title Screen",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "retro",
+    "title",
+    "town"
+  ],
+  "description": "Title Screen from Mario's Time Machine on the NES. Also used when completing a time period.",
+  "latest_version": "smwc-35542-1700423452",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35542,
+      "title": "Mario's Time Machine (NES) - Title Screen",
+      "version": "smwc-35542-1700423452",
+      "upstream_time": 1700423452,
+      "download_url": "https://dl.smwcentral.net/35542/Mario%27s%20Time%20Machine%20%28NES%29%20-%20Title%20Screen.zip",
+      "filename": "Mario%27s Time Machine (NES) - Title Screen.zip",
+      "size": 39292,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27822,
+      "title": "Mario's Time Machine (NES) - Title Screen",
+      "version": "smwc-27822-1630155201",
+      "upstream_time": 1630155201,
+      "download_url": "https://dl.smwcentral.net/27822/Mario%27s%20Time%20Machine%21%20%28NES%29%20-%20Title%20Screen.zip",
+      "filename": "Mario%27s Time Machine%21 (NES) - Title Screen.zip",
+      "size": 31441,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

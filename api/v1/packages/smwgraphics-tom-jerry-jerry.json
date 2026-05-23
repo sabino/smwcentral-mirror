@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-tom-jerry-jerry",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 22106,
+  "title": "Tom & Jerry - Jerry",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "male",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "Jerry Mouse from the Tom and Jerry cartoons.<br>\r\n<br>\r\nIncludes overworld, cape, riding on Yoshi, P-Balloon and cutscene frames, but doesn't include running on wall frames, because I'm unable to make the cape correctly aligned with these frames.<br>\r\n<br>\r\nNOTE 1: Player 2's colors are slightly brighter than Player 1's.<br>\r\nNOTE 2: The OW palette isn't a shared palette, you must import it on all submaps and the main map or Jerry will look like a silhouette!<br>\r\n<br>\r\nYou must use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22372\">this patch</a> to fix the victory pose when you're small while riding Yoshi if you're using him in your hack, the included \"Hex Edits.asm\" if you want the START messages (which requires the use of the included GFX0F.bin to fix the Y), to change Mario's name to Jerry when selecting or erasing a save file in the title screen, and to change the lives exchanger text when playing with 2 players.<br>\r\n<br>\r\nEdit: Antennas were missing from the overworld frames.<br>\r\nEdit 2: Fixed leg in one of the walking while big frames.",
+  "latest_version": "smwc-22106-1586727981",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 22106,
+      "title": "Tom & Jerry - Jerry",
+      "version": "smwc-22106-1586727981",
+      "upstream_time": 1586727981,
+      "download_url": "https://dl.smwcentral.net/22106/Jerry%20Player.zip",
+      "filename": "Jerry Player.zip",
+      "size": 18608,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

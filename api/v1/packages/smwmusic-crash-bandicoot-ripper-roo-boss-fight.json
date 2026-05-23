@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-bandicoot-ripper-roo-boss-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36891,
+  "title": "Crash Bandicoot - Ripper Roo Boss Fight",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "boss",
+    "carnival"
+  ],
+  "description": "A wacky theme that plays in the boss fight agains the crazy blue kangaroo in a straightjacket himself.<br>\r\n<br>\r\nUpdate (02/16): added bongo samples",
+  "latest_version": "smwc-36891-1708798915",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36891,
+      "title": "Crash Bandicoot - Ripper Roo Boss Fight",
+      "version": "smwc-36891-1708798915",
+      "upstream_time": 1708798915,
+      "download_url": "https://dl.smwcentral.net/36891/CB%20-%20Ripper%20Roo.zip",
+      "filename": "CB - Ripper Roo.zip",
+      "size": 102907,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

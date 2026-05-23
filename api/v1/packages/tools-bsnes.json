@@ -1,0 +1,43 @@
+{
+  "name": "tools-bsnes",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 24487,
+  "title": "bsnes v115",
+  "authors": [
+    "Near"
+  ],
+  "tags": [
+    "debugger",
+    "emulator"
+  ],
+  "description": "bsnes is a multi-platform Super Nintendo (Super Famicom) emulator, originally developed by Near, which focuses on performance, features, and ease of use.<br>\r\n<br>\r\n<b>Unique Features</b><br>\r\n<br>\r\n&bull; True Super Game Boy emulation (using the SameBoy core by Lior Halphon)<br>\r\n&bull; HD mode 7 graphics with optional supersampling (by DerKoun)<br>\r\n&bull; Low-level emulation of all SNES coprocessors (DSP-n, ST-01n, Cx4)<br>\r\n&bull; Multi-threaded PPU graphics renderer<br>\r\n&bull; Speed mode settings which retain smooth audio output (50%, 75%, 100%, 150%, 200%)<br>\r\n&bull; Built-in games database with thousands of game entries<br>\r\n&bull; Built-in cheat code database for hundreds of popular games (by mightymo)<br>\r\n&bull; Built-in save state manager with screenshot previews and naming capabilities<br>\r\n&bull; Customizable per-byte game mappings to support any cartridges, including prototype games<br>\r\n&bull; 7-zip decompression support<br>\r\n&bull; Extensive Satellaview emulation, including BS Memory flash write and wear-leveling emulation<br>\r\n&bull; Optional higan game folder support (standard game ROM files are also fully supported!)<br>\r\n&bull; Advanced mapping system allowing multiple bindings to every emulated input<br>\r\n<br>\r\n<b>Standard Features</b><br>\r\n<br>\r\n&bull; MSU1 support<br>\r\n&bull; BPS and IPS soft-patching support<br>\r\n&bull; Save states with undo and redo support (for reverting accidental saves and loads)<br>\r\n&bull; OpenGL multi-pass pixel shaders<br>\r\n&bull; Several built-in software filters, including HQ2x (by MaxSt) and snes_ntsc (by blargg)<br>\r\n&bull; Adaptive sync and dynamic rate control for perfect audio/video synchronization<br>\r\n&bull; Just-in-time input polling for minimal input latency<br>\r\n&bull; Run-ahead support for removing internal game engine input latency<br>\r\n&bull; Support for Direct3D exclusive mode video<br>\r\n&bull; Support for WASAPI exclusive mode audio<br>\r\n&bull; Periodic auto-saving of game saves<br>\r\n&bull; Auto-saving of states when unloading games, and auto-resuming of states when reloading games<br>\r\n&bull; Sprite limit disable support<br>\r\n&bull; Cubic audio interpolation support<br>\r\n&bull; Optional high-level emulation of most SNES coprocessors<br>\r\n&bull; Optional emulation of flaws in older emulators for compatibility with older unofficial software<br>\r\n&bull; CPU, SA1, and SuperFX overclocking support<br>\r\n&bull; Frame advance support<br>\r\n&bull; Screenshot support<br>\r\n&bull; Cheat code search support<br>\r\n&bull; Movie recording and playback support<br>\r\n&bull; Rewind support<br>\r\n&bull; HiDPI support<br>\r\n&bull; Multi-monitor support<br>\r\n&bull; Turbo support for controller inputs",
+  "latest_version": "smwc-24487-1599240821",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 24487,
+      "title": "bsnes v115",
+      "version": "smwc-24487-1599240821",
+      "upstream_time": 1599240821,
+      "download_url": "https://dl.smwcentral.net/24487/bsnes_v115-windows.zip",
+      "filename": "bsnes_v115-windows.zip",
+      "size": 4388722,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    },
+    {
+      "upstream_id": 21616,
+      "title": "Bsnes+",
+      "version": "smwc-21616-1577738748",
+      "upstream_time": 1577738748,
+      "download_url": "https://dl.smwcentral.net/21616/Bsnes%2B.zip",
+      "filename": "Bsnes+.zip",
+      "size": 13198290,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

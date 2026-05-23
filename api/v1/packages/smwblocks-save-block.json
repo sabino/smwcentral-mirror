@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-save-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 14993,
+  "title": "Save block",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "lorom",
+    "save"
+  ],
+  "description": "This block will play a sound (default: midway) and save the game when the player presses down.<br>\r\n<br>\r\nRequested by Gi Manilla",
+  "latest_version": "smwc-14993-1484705276",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 14993,
+      "title": "Save block",
+      "version": "smwc-14993-1484705276",
+      "upstream_time": 1484705276,
+      "download_url": "https://dl.smwcentral.net/14993/save.zip",
+      "filename": "save.zip",
+      "size": 456,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

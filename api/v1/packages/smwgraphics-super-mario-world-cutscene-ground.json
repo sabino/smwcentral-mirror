@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-cutscene-ground",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 35790,
+  "title": "Super Mario World - Cutscene Ground",
+  "authors": [
+    "succo"
+  ],
+  "tags": [
+    "desert",
+    "grassland"
+  ],
+  "description": "A rip of the ground tiles used in the castle destruction cutscenes (with newly created corner and side tiles). Can be used as flowery grass or sand/stone depending on the palette. <br>\r\n<br>\r\nDoesn't interfere with the normal grassland ledges and slopes. The included map 16 uses vanilla palette lines 5 and 6, but it works with various palettes. Replaces FG3.<br>\r\n<br>\r\nThere are three versions included:<br>\r\n-One that replaces the \"bush 3\" tiles<br>\r\n-One that replaces the \"skinny horizontal pipe\" tiles<br>\r\n-One that replaces the \"skinny vertical pipe\" tiles<br>\r\n<br>\r\nCredit not necessary but appreciated of course.",
+  "latest_version": "smwc-35790-1703869613",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 35790,
+      "title": "Super Mario World - Cutscene Ground",
+      "version": "smwc-35790-1703869613",
+      "upstream_time": 1703869613,
+      "download_url": "https://dl.smwcentral.net/35790/Super%20Mario%20World%20-%20Cutscene%20Ground.zip",
+      "filename": "Super Mario World - Cutscene Ground.zip",
+      "size": 11624,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

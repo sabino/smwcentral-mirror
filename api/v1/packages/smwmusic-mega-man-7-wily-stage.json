@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-mega-man-7-wily-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21296,
+  "title": "Mega Man 7 - Wily Stage 1 (X2 Style)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "This is a Megaman X2 styled arrangement of the Wily Stage 1 theme from Megaman 7, also known as Wily Stage 1 ~ Entrance. While MegaNerd14 requested this song to be ported, unlike the unsampled version, this one was my own choice since I also wanted to try and do a X2 styled port of this song. :V<br>\r\n<br>\r\nit sounds a bit too much like Luiz Fernando de Jesus Ribeiro's arrangement of the song tho (here's a link to it in case you're wondering: https://www.youtube.com/watch?v=y4DSmGiLHVo), and while I wanted to use the sax sample from X2 to differentiate this arrangement from his, it just wasn't full enough, so sadly I had to use the brass sample the same way he did; oh well, it sounds good, so ¯\\_(ツ)_/¯<br>\r\n<br>\r\nThis should probably fit in a lot of final scenarios specifically (like an entrance right before the final level of a hack), but not much else.<br>\r\n<br>\r\nEDIT: Fixed a slight issue with the marimba where it desynced slightly before the loop due to the note length being slightly off; not too noticeable, but with how fast the marimba plays in that part, it gets annoying fast :V",
+  "latest_version": "smwc-21296-1571700516",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21296,
+      "title": "Mega Man 7 - Wily Stage 1 (X2 Style)",
+      "version": "smwc-21296-1571700516",
+      "upstream_time": 1571700516,
+      "download_url": "https://dl.smwcentral.net/21296/entranceX2.zip",
+      "filename": "entranceX2.zip",
+      "size": 81791,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21295,
+      "title": "Mega Man 7 - Wily Stage 1",
+      "version": "smwc-21295-1571281541",
+      "upstream_time": 1571281541,
+      "download_url": "https://dl.smwcentral.net/21295/entrance.zip",
+      "filename": "entrance.zip",
+      "size": 34893,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

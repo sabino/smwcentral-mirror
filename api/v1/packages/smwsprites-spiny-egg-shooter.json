@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-spiny-egg-shooter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14666,
+  "title": "Spiny Egg Shooter",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "customizable",
+    "generic",
+    "lakituisajerk",
+    "lorom",
+    "shooter",
+    "spiny",
+    "spinyeggs",
+    "upwards"
+  ],
+  "description": "Hotfix update: Added a \"!InitStatus\" define for more control over what spawns.<br>\r\n<br>\r\nThis Shooter sprite shoots a Spiny Egg straight upwards at a constant interval.<br>\r\n<br>\r\nCustomizable aspects (using the defines):<br>\r\n- Two different intervals to shoot Spiny Eggs at<br>\r\n- What (vanilla) sprite to shoot (if you'd want to shoot something other than Spiny Eggs)<br>\r\n- What (vanilla) sprite to shoot when the Silver P switch is active.<br>\r\n- The Status of the spawned object (if, for example, wanting to spawn a Koopa Shell)",
+  "latest_version": "smwc-14666-1481833680",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14666,
+      "title": "Spiny Egg Shooter",
+      "version": "smwc-14666-1481833680",
+      "upstream_time": 1481833680,
+      "download_url": "https://dl.smwcentral.net/14666/spiny_shooter.zip",
+      "filename": "spiny_shooter.zip",
+      "size": 1429,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

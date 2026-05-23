@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-minstrel-super-mario-bros-castle-deranged-oni-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8819,
+  "title": "The Minstrel - Super Mario Bros. - Castle (Deranged Oni Remix)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "ghost house"
+  ],
+  "description": "A port of <a href=\"https://www.vgmusic.com/file/8dd0468d9e71bda2ef028c5abcb20707.html#disqus_thread\" rel=\"nofollow\">The Minstrel's MIDI remix of the classic SMB castle theme</a>. Good for, well, castles.",
+  "latest_version": "smwc-8819-1412790130",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8819,
+      "title": "The Minstrel - Super Mario Bros. - Castle (Deranged Oni Remix)",
+      "version": "smwc-8819-1412790130",
+      "upstream_time": 1412790130,
+      "download_url": "https://dl.smwcentral.net/8819/smbcastle_1.01.zip",
+      "filename": "smbcastle_1.01.zip",
+      "size": 67867,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

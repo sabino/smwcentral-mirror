@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-bounce-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4033,
+  "title": "Bounce Blocks",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [
+    "bounce",
+    "lorom",
+    "on-off",
+    "pow"
+  ],
+  "description": "This is a pack containing 5 custom blocks made by me, that will bounce Mario higher than an actual note block. Also, keep in mind that these are not sprite blocks. I've included some pretty nice bounce blocks, along with a regular one. This pack includes:<br>\r\n- A regular bounce block;<br>\r\n- A bounce block that bounces Mario if the blue POW is pressed;<br>\r\n- A bounce block that bounces Mario if the silver POW is pressed;<br>\r\n- A bounce block that bounces Mario if the ON/OFF switch is turned on;<br>\r\n- A bounce block that bounces Mario if the ON/OFF switch is turned off.<br>\r\nCredit isn't necessary, but would be nice. Enjoy.",
+  "latest_version": "smwc-4033-1438488089",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4033,
+      "title": "Bounce Blocks",
+      "version": "smwc-4033-1438488089",
+      "upstream_time": 1438488089,
+      "download_url": "https://dl.smwcentral.net/4033/BounceBlocks.zip",
+      "filename": "BounceBlocks.zip",
+      "size": 4167,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

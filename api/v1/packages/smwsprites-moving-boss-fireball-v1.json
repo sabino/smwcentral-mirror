@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-moving-boss-fireball-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40036,
+  "title": "Moving Boss Fireball v1.1",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This simple sprite is an improvement of vanilla sprite 34, the boss fireball, which is used by Ludwig Von Koopa. It's meant to be placed directly in a level, to spawn with X and Y speeds set in the extra byte.<br>\r\nWhen the extra bit is set, the fireball will face the player's direction and move towards him accordingly.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Fernandito2018\"><a href=\"/?p=profile&amp;id=36104\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Fernandito2018</a></span> during C3 Winter 2025.",
+  "latest_version": "smwc-40036-1751554915",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40036,
+      "title": "Moving Boss Fireball v1.1",
+      "version": "smwc-40036-1751554915",
+      "upstream_time": 1751554915,
+      "download_url": "https://dl.smwcentral.net/40036/Ludwig%27s%20Fireball%20v1.1.zip",
+      "filename": "Ludwig%27s Fireball v1.1.zip",
+      "size": 2210,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-fantasy-vi-cyan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31161,
+  "title": "Final Fantasy VI - Cyan",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "mountain",
+    "overworld",
+    "sky"
+  ],
+  "description": "Requested by Anorakun.<br>\r\nNot compatible with \"Bonus End\" and Thunder SFX/Blarggs/Fireworks.",
+  "latest_version": "smwc-31161-1656617454",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31161,
+      "title": "Final Fantasy VI - Cyan",
+      "version": "smwc-31161-1656617454",
+      "upstream_time": 1656617454,
+      "download_url": "https://dl.smwcentral.net/31161/113%20Cyan.zip",
+      "filename": "113 Cyan.zip",
+      "size": 76165,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-zelda-ii-the-adventure-of-link-palace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29138,
+  "title": "Zelda II: The Adventure of Link - Palace",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark"
+  ],
+  "description": "The long, tense theme from Zelda 2 for the NES played in the palaces found throughout the game.<br>\r\n<br>\r\nCan be used in castles, caves and other dark areas.",
+  "latest_version": "smwc-29138-1643135798",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29138,
+      "title": "Zelda II: The Adventure of Link - Palace",
+      "version": "smwc-29138-1643135798",
+      "upstream_time": 1643135798,
+      "download_url": "https://dl.smwcentral.net/29138/Zelda%202%20The%20Adventure%20of%20Link%20-%20Palace.zip",
+      "filename": "Zelda 2 The Adventure of Link - Palace.zip",
+      "size": 34390,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

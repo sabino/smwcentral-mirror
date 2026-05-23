@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-on-off-toggleable-ice-water",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 27317,
+  "title": "ON/OFF Toggleable Ice/Water",
+  "authors": [
+    "MarkAlarm"
+  ],
+  "tags": [
+    "ice",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "An on/off gimmick that sets the ice and water flags of a level. By default, this sets the level to be ice during ON, and water during OFF. However, this also has a few customization options which allow for different flags to be used (such as the p-switch timer) and which level type is used first.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ezel\"><a href=\"/?p=profile&amp;id=10429\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Ezel</a></span>.",
+  "latest_version": "smwc-27317-1632103500",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 27317,
+      "title": "ON/OFF Toggleable Ice/Water",
+      "version": "smwc-27317-1632103500",
+      "upstream_time": 1632103500,
+      "download_url": "https://dl.smwcentral.net/27317/On-Off%20Toggleable%20Ice-Water.zip",
+      "filename": "On-Off Toggleable Ice-Water.zip",
+      "size": 479,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

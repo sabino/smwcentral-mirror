@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-oreburgh-mine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20155,
+  "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh Mine",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice",
+    "overworld"
+  ],
+  "description": "A calm theme originally intended for mine levels, but could also work for caves and ice levels.",
+  "latest_version": "smwc-20155-1559962866",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20155,
+      "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh Mine",
+      "version": "smwc-20155-1559962866",
+      "upstream_time": 1559962866,
+      "download_url": "https://dl.smwcentral.net/20155/Oreburgh%20Mine.zip",
+      "filename": "Oreburgh Mine.zip",
+      "size": 59453,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

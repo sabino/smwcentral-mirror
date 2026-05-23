@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-sonic-shields",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 26388,
+  "title": "Sonic Shields",
+  "authors": [
+    "Burning Loaf"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "patch",
+    "powerup",
+    "sa-1",
+    "shield",
+    "sonic"
+  ],
+  "description": "The shields from Sonic the hedgehog in SMW, this UberASM has custom blocks and a patch alongside with it that is required for it to work, but you could also instead use the \"Sonic Styled Powerdown\" patch.<br>\r\n<br>\r\nIf you haven't played Sonic, these shields can absorb a hit (or more) for the player, and certain shields have helpful abilities.<br>\r\n<br>\r\nThey do not take sprite slots, only OAM slots, they do take SP1-4 GFX space though (at least one 16x16 tile)<br>\r\nAlso, you *need* to insert this as levelASM, otherwise the shields won't display.<br>\r\n<br>\r\nmake sure you check out the README.",
+  "latest_version": "smwc-26388-1630392356",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 26388,
+      "title": "Sonic Shields",
+      "version": "smwc-26388-1630392356",
+      "upstream_time": 1630392356,
+      "download_url": "https://dl.smwcentral.net/26388/sonicShields.zip",
+      "filename": "sonicShields.zip",
+      "size": 12781,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-vi-quiet-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25080,
+  "title": "Final Fantasy VI - Quiet Beach",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "beach",
+    "calm",
+    "environmental"
+  ],
+  "description": "Short ambience from FF6, good for calm beach areas. Don't use with sound effects that use noise (like spit fire and Podoboo sfx).",
+  "latest_version": "smwc-25080-1606103835",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25080,
+      "title": "Final Fantasy VI - Quiet Beach",
+      "version": "smwc-25080-1606103835",
+      "upstream_time": 1606103835,
+      "download_url": "https://dl.smwcentral.net/25080/FF6%20-%20Quiet%20Beach.zip",
+      "filename": "FF6 - Quiet Beach.zip",
+      "size": 32080,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

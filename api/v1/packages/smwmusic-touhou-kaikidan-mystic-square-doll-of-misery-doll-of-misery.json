@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-doll-of-misery-doll-of-misery",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34568,
+  "title": "Touhou Kaikidan ~ Mystic Square - Doll of Misery ~ Doll of Misery",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "悲しき人形　～ Doll of Misery<br>\r\nYumeko's theme from Touhou Kaikidan.<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-34568-1696099222",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34568,
+      "title": "Touhou Kaikidan ~ Mystic Square - Doll of Misery ~ Doll of Misery",
+      "version": "smwc-34568-1696099222",
+      "upstream_time": 1696099222,
+      "download_url": "https://dl.smwcentral.net/34568/th5_13.zip",
+      "filename": "th5_13.zip",
+      "size": 32343,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

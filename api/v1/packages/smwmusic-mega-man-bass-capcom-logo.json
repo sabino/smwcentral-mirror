@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-bass-capcom-logo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25777,
+  "title": "Mega Man & Bass - Capcom Logo",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "The Capcom Logo theme from Megaman & Bass.",
+  "latest_version": "smwc-25777-1612043153",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25777,
+      "title": "Mega Man & Bass - Capcom Logo",
+      "version": "smwc-25777-1612043153",
+      "upstream_time": 1612043153,
+      "download_url": "https://dl.smwcentral.net/25777/Capcom%20Logo.zip",
+      "filename": "Capcom Logo.zip",
+      "size": 30981,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

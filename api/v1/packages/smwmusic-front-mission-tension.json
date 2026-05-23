@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-front-mission-tension",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35880,
+  "title": "Front Mission - Tension",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "castle",
+    "cutscene"
+  ],
+  "description": "A tense song from Front Mission that can probably fit a cutscene.<br>\r\n<br>\r\nNote: Incompatible with Lightning",
+  "latest_version": "smwc-35880-1704841789",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35880,
+      "title": "Front Mission - Tension",
+      "version": "smwc-35880-1704841789",
+      "upstream_time": 1704841789,
+      "download_url": "https://dl.smwcentral.net/35880/Front%20Misson%20-%20Tension.zip",
+      "filename": "Front Misson - Tension.zip",
+      "size": 48004,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-system",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33339,
+  "title": "Megami Tensei Gaiden: Last Bible II - System",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "retro",
+    "sky",
+    "urban"
+  ],
+  "description": "System from Last Bible II.",
+  "latest_version": "smwc-33339-1680581315",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33339,
+      "title": "Megami Tensei Gaiden: Last Bible II - System",
+      "version": "smwc-33339-1680581315",
+      "upstream_time": 1680581315,
+      "download_url": "https://dl.smwcentral.net/33339/Last%20Bible%20II%20-%20System.zip",
+      "filename": "Last Bible II - System.zip",
+      "size": 57382,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

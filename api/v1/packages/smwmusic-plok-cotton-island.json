@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-plok-cotton-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40849,
+  "title": "Plok - Cotton Island",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "grassland"
+  ],
+  "description": "Cotton Island from Plok.<br>\r\n<br>\r\nIf anyone is not the biggest fan of how Plok's instruments are tuned about a quartertone higher than the conventional tuning, add \"$EE$C0 h-1\" next to every channel in the .txt file. Channels are marked with #0, #1, #2... etc.<br>\r\n<br>\r\nUPDATE: The kick drum will no longer click in SNES emulators (the pitch value must be exactly 05FE), and fixed the bass trombone notes in the middle of the song.",
+  "latest_version": "smwc-40849-1763066980",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40849,
+      "title": "Plok - Cotton Island",
+      "version": "smwc-40849-1763066980",
+      "upstream_time": 1763066980,
+      "download_url": "https://dl.smwcentral.net/40849/Plok%20-%20Cotton%20Island.zip",
+      "filename": "Plok - Cotton Island.zip",
+      "size": 82329,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

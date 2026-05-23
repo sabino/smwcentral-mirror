@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-yoshi-s-cookie-unused-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13236,
+  "title": "Yoshi's Cookie - Unused Song",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "star"
+  ],
+  "description": "This is the song that has not been used in Yoshi's Cookie, with instruments of the original game.<br>\r\nGood for overworld.",
+  "latest_version": "smwc-13236-1456250469",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13236,
+      "title": "Yoshi's Cookie - Unused Song",
+      "version": "smwc-13236-1456250469",
+      "upstream_time": 1456250469,
+      "download_url": "https://dl.smwcentral.net/13236/Yoshi%27s%20Cookie%20-%20Unused%20Song.zip",
+      "filename": "Yoshi%27s Cookie - Unused Song.zip",
+      "size": 19592,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13235,
+      "title": "Yoshi's Cookie - Unused Song",
+      "version": "smwc-13235-1456250339",
+      "upstream_time": 1456250339,
+      "download_url": "https://dl.smwcentral.net/13235/Yoshi%27s%20Cookie%20-%20Unused%20Song.zip",
+      "filename": "Yoshi%27s Cookie - Unused Song.zip",
+      "size": 31595,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

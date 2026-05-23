@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-au-clair-de-la-lune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41519,
+  "title": "Au Clair de la Lune",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "night"
+  ],
+  "description": "An old port I found dated 20 Aug 2020.<br>\r\nWhen Margot asked to make \"Clair de Lune\" for Sayonara, I thought she meant this song lol so it ended up unused.",
+  "latest_version": "smwc-41519-1774085646",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41519,
+      "title": "Au Clair de la Lune",
+      "version": "smwc-41519-1774085646",
+      "upstream_time": 1774085646,
+      "download_url": "https://dl.smwcentral.net/41519/Au%20Clair%20de%20la%20Lune..zip",
+      "filename": "Au Clair de la Lune..zip",
+      "size": 30974,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

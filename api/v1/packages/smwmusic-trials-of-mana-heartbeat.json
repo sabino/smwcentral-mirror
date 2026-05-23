@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-trials-of-mana-heartbeat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34088,
+  "title": "Trials of Mana - Heartbeat",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "tense"
+  ],
+  "description": "Heartbeat ambience.",
+  "latest_version": "smwc-34088-1692380239",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34088,
+      "title": "Trials of Mana - Heartbeat",
+      "version": "smwc-34088-1692380239",
+      "upstream_time": 1692380239,
+      "download_url": "https://dl.smwcentral.net/34088/996%20Heartbeat.zip",
+      "filename": "996 Heartbeat.zip",
+      "size": 38998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-v-a-new-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17327,
+  "title": "Final Fantasy V - A New World",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "cutscene",
+    "sky"
+  ],
+  "description": "Music that plays in final fantasy V. Good for water, cutscene, and probably castle levels.",
+  "latest_version": "smwc-17327-1522806394",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17327,
+      "title": "Final Fantasy V - A New World",
+      "version": "smwc-17327-1522806394",
+      "upstream_time": 1522806394,
+      "download_url": "https://dl.smwcentral.net/17327/%5BS%5D%20Final%20Fantasy%20V%20-%20A%20New%20World.zip",
+      "filename": "%5BS%5D Final Fantasy V - A New World.zip",
+      "size": 65375,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

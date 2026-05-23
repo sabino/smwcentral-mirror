@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-the-north-bowl",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38507,
+  "title": "Crash Team Racing - The North Bowl",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "ice",
+    "snow"
+  ],
+  "description": "A remix of Parking Lot that plays in The North Bowl, an icy battle arena.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38507-1726853549",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38507,
+      "title": "Crash Team Racing - The North Bowl",
+      "version": "smwc-38507-1726853549",
+      "upstream_time": 1726853549,
+      "download_url": "https://dl.smwcentral.net/38507/CTR%20-%20The%20North%20Bowl.zip",
+      "filename": "CTR - The North Bowl.zip",
+      "size": 125952,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

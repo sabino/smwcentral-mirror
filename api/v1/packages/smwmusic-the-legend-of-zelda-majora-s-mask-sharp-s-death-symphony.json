@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-majora-s-mask-sharp-s-death-symphony",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8131,
+  "title": "The Legend of Zelda: Majora's Mask - Sharp's Death Symphony",
+  "authors": [
+    "Mogsiah"
+  ],
+  "tags": [
+    "dark",
+    "ghost house"
+  ],
+  "description": "This is Sharp's Death Symphony in Zelda: Majora's Mask. Also known as Sharp's Curse. The vibrato and ADSR commands add a really nice touch to the song and give it a more creepy feeling overall, making it suitable for castles or ghost houses.",
+  "latest_version": "smwc-8131-1317998106",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8131,
+      "title": "The Legend of Zelda: Majora's Mask - Sharp's Death Symphony",
+      "version": "smwc-8131-1317998106",
+      "upstream_time": 1317998106,
+      "download_url": "https://dl.smwcentral.net/8131/Legend%20of%20Zelda%2C%20Majora%27s%20Mask%20-%20Sharp%27s%20Death%20Symphony.zip",
+      "filename": "Legend of Zelda%2C Majora%27s Mask - Sharp%27s Death Symphony.zip",
+      "size": 66873,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-fireplace-side-exit",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3486,
+  "title": "Fireplace & Side Exit",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "fireplace",
+    "lorom",
+    "sa-1",
+    "side exit"
+  ],
+  "description": "The side exit/fireplace sprite from SMW, disassembled.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3486-1251648508",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3486,
+      "title": "Fireplace & Side Exit",
+      "version": "smwc-3486-1251648508",
+      "upstream_time": 1251648508,
+      "download_url": "https://dl.smwcentral.net/3486/side_exit.zip",
+      "filename": "side_exit.zip",
+      "size": 1526,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

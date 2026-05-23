@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-mario-galaxy-gateway-galaxy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16534,
+  "title": "Super Mario Galaxy - Gateway Galaxy",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "night",
+    "overworld",
+    "sky",
+    "space"
+  ],
+  "description": "Calm song from Super Mario Galaxy. Could work for both overworlds and levels.<br>\r\n<br>\r\n<br>\r\n<br>\r\nHas anyone noticed how at the end of the game mario claims all the galaxy as his own naming it super mario galaxy? meaning all the creatures and everything are now of his property.",
+  "latest_version": "smwc-16534-1509728711",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16534,
+      "title": "Super Mario Galaxy - Gateway Galaxy",
+      "version": "smwc-16534-1509728711",
+      "upstream_time": 1509728711,
+      "download_url": "https://dl.smwcentral.net/16534/to%20the%20gateway.zip",
+      "filename": "to the gateway.zip",
+      "size": 79150,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14311,
+      "title": "Super Mario Galaxy - Gateway Galaxy",
+      "version": "smwc-14311-1475292109",
+      "upstream_time": 1475292109,
+      "download_url": "https://dl.smwcentral.net/14311/Gateway.Galaxy.zip",
+      "filename": "Gateway.Galaxy.zip",
+      "size": 43944,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cave-story-waterway",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16977,
+  "title": "Cave Story - Waterway",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "Song heard in the most boring part of the game.",
+  "latest_version": "smwc-16977-1516210054",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16977,
+      "title": "Cave Story - Waterway",
+      "version": "smwc-16977-1516210054",
+      "upstream_time": 1516210054,
+      "download_url": "https://dl.smwcentral.net/16977/waterway.zip",
+      "filename": "waterway.zip",
+      "size": 49682,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

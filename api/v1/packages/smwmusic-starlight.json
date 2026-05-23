@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-starlight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25140,
+  "title": "starlight",
+  "authors": [
+    "radicaldawg"
+  ],
+  "tags": [
+    "grassland",
+    "night",
+    "overworld"
+  ],
+  "description": "A short happy track fitting for overworlds and grasslands. (idk if it's fitting for a night situation??)",
+  "latest_version": "smwc-25140-1607119909",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25140,
+      "title": "starlight",
+      "version": "smwc-25140-1607119909",
+      "upstream_time": 1607119909,
+      "download_url": "https://dl.smwcentral.net/25140/%5Brd%5Dstarlight.zip",
+      "filename": "%5Brd%5Dstarlight.zip",
+      "size": 39844,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

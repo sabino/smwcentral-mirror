@@ -1,0 +1,55 @@
+{
+  "name": "smwgraphics-new-super-mario-bros-tower",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25027,
+  "title": "New Super Mario Bros. - Tower",
+  "authors": [
+    "codfish1002"
+  ],
+  "tags": [
+    "castle",
+    "needs remoderation"
+  ],
+  "description": "A rip of the tower foreground from new super mario bros ds<br>\r\n<br>\r\nuses bg2 and bg3 to be compatible <a href=\"https://www.smwcentral.net/?p=section&a=details&id=790\">background in the graphics section</a><br>\r\n<br>\r\ncredit isn't needed but appreciated",
+  "latest_version": "smwc-25027-1604108177",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25027,
+      "title": "New Super Mario Bros. - Tower",
+      "version": "smwc-25027-1604108177",
+      "upstream_time": 1604108177,
+      "download_url": "https://dl.smwcentral.net/25027/NSMBDStower.zip",
+      "filename": "NSMBDStower.zip",
+      "size": 6072,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 838,
+      "title": "New Super Mario Bros. - Tower",
+      "version": "smwc-838-1393261431",
+      "upstream_time": 1393261431,
+      "download_url": "https://dl.smwcentral.net/838/NSMB%20Tower.zip",
+      "filename": "NSMB Tower.zip",
+      "size": 13090,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 790,
+      "title": "New Super Mario Bros. - Tower",
+      "version": "smwc-790-1390056147",
+      "upstream_time": 1390056147,
+      "download_url": "https://dl.smwcentral.net/790/NSMB%20-%20Castle.zip",
+      "filename": "NSMB - Castle.zip",
+      "size": 6532,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

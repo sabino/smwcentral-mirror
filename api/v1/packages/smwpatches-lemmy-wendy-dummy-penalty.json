@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-lemmy-wendy-dummy-penalty",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24015,
+  "title": "Lemmy/Wendy Dummy Penalty",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "boss",
+    "hit points",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch adds a penalty system for the Lemmy Koopa and/or Wendy O. Koopa boss fights. If you stomp one of their dummies, Lemmy/Wendy's hitpoint counter will be decremented, extending the boss fight as punishment for stomping the wrong sprite.<br>\r\n<br>\r\nYou can choose to have the penalty system in the Lemmy fight, Wendy fight, both, or neither (unpatch). You can also decide how many hitpoints are subtracted as penalty, including resetting the hitpoint counter completely.<br>\r\n<br>\r\nCompatible with the Custom Boss HP patch.",
+  "latest_version": "smwc-24015-1598264156",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24015,
+      "title": "Lemmy/Wendy Dummy Penalty",
+      "version": "smwc-24015-1598264156",
+      "upstream_time": 1598264156,
+      "download_url": "https://dl.smwcentral.net/24015/DummyPenalty.zip",
+      "filename": "DummyPenalty.zip",
+      "size": 1517,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

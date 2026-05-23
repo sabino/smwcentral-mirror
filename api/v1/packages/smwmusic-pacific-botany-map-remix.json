@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pacific-botany-map-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39862,
+  "title": "Pacific Botany (Map Remix)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "calm",
+    "overworld"
+  ],
+  "description": "Pacific Botany Zone but map remix. Potential Hotel Resort overworld map",
+  "latest_version": "smwc-39862-1749332566",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39862,
+      "title": "Pacific Botany (Map Remix)",
+      "version": "smwc-39862-1749332566",
+      "upstream_time": 1749332566,
+      "download_url": "https://dl.smwcentral.net/39862/pacific%20garden%20map.zip",
+      "filename": "pacific garden map.zip",
+      "size": 37227,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

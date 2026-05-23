@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-lagrange-point-machine-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25363,
+  "title": "Lagrange Point - Machine City",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "industrial",
+    "mountain",
+    "overworld",
+    "retro",
+    "town"
+  ],
+  "description": "The song from the third dungeon.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25363-1607722483",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25363,
+      "title": "Lagrange Point - Machine City",
+      "version": "smwc-25363-1607722483",
+      "upstream_time": 1607722483,
+      "download_url": "https://dl.smwcentral.net/25363/Lagrange%20Point%20-%20Machine%20City.zip",
+      "filename": "Lagrange Point - Machine City.zip",
+      "size": 155108,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yume-nikki-fc-field-area",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20441,
+  "title": "Yume Nikki - FC Field Area",
+  "authors": [
+    "Tob"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld"
+  ],
+  "description": "The calm, happy song playing in a sadly rather small famicom/nes styled area in Yume Nikki. Would probably work well on overworlds and tutorial type levels. Huge thanks to Pinci for helping me make the instruments really accurate to the original track!",
+  "latest_version": "smwc-20441-1563135255",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20441,
+      "title": "Yume Nikki - FC Field Area",
+      "version": "smwc-20441-1563135255",
+      "upstream_time": 1563135255,
+      "download_url": "https://dl.smwcentral.net/20441/yume%20nikki%20-%20famicom%20field%20area.zip",
+      "filename": "yume nikki - famicom field area.zip",
+      "size": 30806,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castle-collapse",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11545,
+  "title": "Castle Collapse",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "chase",
+    "tense"
+  ],
+  "description": "A short, tense song, composed and ported within one hour. Good for chase or high-tension levels. Lowered volumes significantly.",
+  "latest_version": "smwc-11545-1435118591",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11545,
+      "title": "Castle Collapse",
+      "version": "smwc-11545-1435118591",
+      "upstream_time": 1435118591,
+      "download_url": "https://dl.smwcentral.net/11545/Castle%20Collapse.zip",
+      "filename": "Castle Collapse.zip",
+      "size": 32060,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-papercut-ruins-village",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40399,
+  "title": "Papercut - Ruins Village",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "ruins",
+    "town"
+  ],
+  "description": "Ruins Village from a cancelled hack, Papercut.",
+  "latest_version": "smwc-40399-1756151417",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40399,
+      "title": "Papercut - Ruins Village",
+      "version": "smwc-40399-1756151417",
+      "upstream_time": 1756151417,
+      "download_url": "https://dl.smwcentral.net/40399/Papercut%20-%20Ruins%20Village.zip",
+      "filename": "Papercut - Ruins Village.zip",
+      "size": 75875,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-super-smash-bros-sector-z-smas",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38106,
+  "title": "Super Smash Bros. - Sector Z (SMAS)",
+  "authors": [
+    "ShivjotRangi"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "chaotic",
+    "dark",
+    "night",
+    "sky",
+    "space",
+    "tense",
+    "upbeat"
+  ],
+  "description": "Sector Z Stage from Star Fox Universe, perfect for spaceship/fighting theme.<br>\r\n<br>\r\nSamples from: Super Mario All-Stars Soundtrack: Ultimate Edition (by LadiesMan217, Vitor Vilela, & musicalman)",
+  "latest_version": "smwc-38106-1727709097",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38106,
+      "title": "Super Smash Bros. - Sector Z (SMAS)",
+      "version": "smwc-38106-1727709097",
+      "upstream_time": 1727709097,
+      "download_url": "https://dl.smwcentral.net/38106/Super%20Smash%20Bros.%20%28N64%29%20-%20Sector%20Z%20%28SMAS%29.zip",
+      "filename": "Super Smash Bros. (N64) - Sector Z (SMAS).zip",
+      "size": 98121,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

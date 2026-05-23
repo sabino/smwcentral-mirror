@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-syvalion-snes-chapter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22029,
+  "title": "Syvalion (SNES) - Chapter 4",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "fire",
+    "industrial",
+    "space",
+    "tense"
+  ],
+  "description": "Here's another one of many obscure SNES ports that people make all the time in this site which most people barely even give a fuck when it comes to the game and even the soundtrack itself outside of the fact this one port \"sounds cool\"...<br>\r\n<br>\r\nAlright, alright, I'm just joking around, but here's a port/arrangement/remaster? of the Chapter 4 theme from Syvalion for the SNES, also known as Battle ~ Descending to Heaven according to the official OST release. It's a very intense song with a bit of odd time sprinkled into it, but also has tons of prog and funk throughout. Definitely could fit something like a final castle or anything else that matches it's feel.<br>\r\n<br>\r\nNOTE: If you want to insert this, use the optimized version. I've still added the original version of the port here tho if you can use that somehow.",
+  "latest_version": "smwc-22029-1580066715",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22029,
+      "title": "Syvalion (SNES) - Chapter 4",
+      "version": "smwc-22029-1580066715",
+      "upstream_time": 1580066715,
+      "download_url": "https://dl.smwcentral.net/22029/syvalionchapter4.zip",
+      "filename": "syvalionchapter4.zip",
+      "size": 132331,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18937,
+      "title": "Syvalion (SNES) - Chapter 1 (Arrangement)",
+      "version": "smwc-18937-1549402235",
+      "upstream_time": 1549402235,
+      "download_url": "https://dl.smwcentral.net/18937/syvalion_fixed.zip",
+      "filename": "syvalion_fixed.zip",
+      "size": 89697,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

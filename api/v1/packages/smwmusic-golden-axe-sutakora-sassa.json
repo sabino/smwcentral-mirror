@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-golden-axe-sutakora-sassa",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7457,
+  "title": "Golden Axe - Sutakora, Sassa!",
+  "authors": [
+    "GoldPooka"
+  ],
+  "tags": [
+    "credits",
+    "grassland"
+  ],
+  "description": "A port of Golden Axe's awesome credits theme. Perfect for endings.",
+  "latest_version": "smwc-7457-1320133546",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7457,
+      "title": "Golden Axe - Sutakora, Sassa!",
+      "version": "smwc-7457-1320133546",
+      "upstream_time": 1320133546,
+      "download_url": "https://dl.smwcentral.net/7457/Sutakora%2C%20Sassa%21.zip",
+      "filename": "Sutakora%2C Sassa%21.zip",
+      "size": 72028,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

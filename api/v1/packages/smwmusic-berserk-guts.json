@@ -1,0 +1,56 @@
+{
+  "name": "smwmusic-berserk-guts",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27810,
+  "title": "Berserk - Guts",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cave",
+    "credits",
+    "cutscene",
+    "environmental",
+    "misc",
+    "overworld",
+    "ruins",
+    "temple",
+    "tense"
+  ],
+  "description": "This is the barebones version of its <a href=\"https://www.smwcentral.net/?p=section&a=details&id=27809\">sampled counterpart</a>, that's written with what the original <a href=\"https://chordu.com/chords-tabs-berserk-guts-theme-synthesia--id_AXncqhXrfPk\" rel=\"nofollow\">midi</a> had to offer. Useful for calm overworlds and 2011-styled romhacks.",
+  "latest_version": "smwc-27810-1638051054",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27810,
+      "title": "Berserk - Guts",
+      "version": "smwc-27810-1638051054",
+      "upstream_time": 1638051054,
+      "download_url": "https://dl.smwcentral.net/27810/gutsu_theme_u_0_1.zip",
+      "filename": "gutsu_theme_u_0_1.zip",
+      "size": 31184,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27809,
+      "title": "Berserk - Guts",
+      "version": "smwc-27809-1627795622",
+      "upstream_time": 1627795622,
+      "download_url": "https://dl.smwcentral.net/27809/gutsu_theme_1_1.zip",
+      "filename": "gutsu_theme_1_1.zip",
+      "size": 53422,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cave-story-labyrinth-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7311,
+  "title": "Cave Story - Labyrinth Fight",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "cave"
+  ],
+  "description": "Plenty of countermelodies and percussion make this song perfect for your action levels.",
+  "latest_version": "smwc-7311-1319645621",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7311,
+      "title": "Cave Story - Labyrinth Fight",
+      "version": "smwc-7311-1319645621",
+      "upstream_time": 1319645621,
+      "download_url": "https://dl.smwcentral.net/7311/Labyrinth%20Fight.zip",
+      "filename": "Labyrinth Fight.zip",
+      "size": 67064,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

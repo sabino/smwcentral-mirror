@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-undertale-absolutely-overfamiliar-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38012,
+  "title": "Undertale - Absolutely Overfamiliar Shrine",
+  "authors": [
+    "TickTockClock"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "carnival",
+    "temple",
+    "upbeat"
+  ],
+  "description": "Exclusive to the PlayStation versions of Undertale, a melody that plays once the player donates a certain amount of gold. Perfect for bonus rooms.",
+  "latest_version": "smwc-38012-1721945647",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38012,
+      "title": "Undertale - Absolutely Overfamiliar Shrine",
+      "version": "smwc-38012-1721945647",
+      "upstream_time": 1721945647,
+      "download_url": "https://dl.smwcentral.net/38012/absolutely_overfamiliar_shrine%20.zip",
+      "filename": "absolutely_overfamiliar_shrine .zip",
+      "size": 31326,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

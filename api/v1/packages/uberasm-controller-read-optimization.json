@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-controller-read-optimization",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41069,
+  "title": "Controller Read Optimization",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "lorom",
+    "optimize",
+    "sa-1"
+  ],
+  "description": "Saves a little NMI time by moving the controller read to the start of the game loop.<br>\r\n<br>\r\nUse this if you need more NMI time to change blocks, exanimate, upload dynamic graphics, etc. Running out of NMI time may appear as broken gradients and a black bar at the top of the screen.<br>\r\n<br>\r\nBe sure to use FastROM and '<a href=\"https://www.smwcentral.net/?p=section&a=details&id=28028\">Lunar Magic's \"VRAM Patch\" Optimization</a>' in addition to this.",
+  "latest_version": "smwc-41069-1763568165",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41069,
+      "title": "Controller Read Optimization",
+      "version": "smwc-41069-1763568165",
+      "upstream_time": 1763568165,
+      "download_url": "https://dl.smwcentral.net/41069/controller_read_optimize_UAT2.zip",
+      "filename": "controller_read_optimize_UAT2.zip",
+      "size": 756,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

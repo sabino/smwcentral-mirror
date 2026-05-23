@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-explosive-blurp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31889,
+  "title": "Explosive Blurp",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "blurp",
+    "enemy",
+    "exploding",
+    "explosion",
+    "fish",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "Since I've recently been fitting aquatic wildlife with explosives, why not? This blurp is set to explode when the player gets close to it.",
+  "latest_version": "smwc-31889-1662662842",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31889,
+      "title": "Explosive Blurp",
+      "version": "smwc-31889-1662662842",
+      "upstream_time": 1662662842,
+      "download_url": "https://dl.smwcentral.net/31889/ExplosiveBlurp.zip",
+      "filename": "ExplosiveBlurp.zip",
+      "size": 5742,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

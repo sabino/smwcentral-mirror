@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33348,
+  "title": "Megami Tensei Gaiden: Last Bible II - Tower",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "retro",
+    "spooky"
+  ],
+  "description": "Tower from Last Bible II.",
+  "latest_version": "smwc-33348-1680581303",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33348,
+      "title": "Megami Tensei Gaiden: Last Bible II - Tower",
+      "version": "smwc-33348-1680581303",
+      "upstream_time": 1680581303,
+      "download_url": "https://dl.smwcentral.net/33348/Last%20Bible%20II%20-%20Tower.zip",
+      "filename": "Last Bible II - Tower.zip",
+      "size": 32299,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

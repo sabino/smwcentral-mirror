@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-punishment-for-getting-coins-or-score",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41015,
+  "title": "Punishment For Getting Coins or Score",
+  "authors": [
+    "Jimmy",
+    "Vivian Darkbloom",
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "ascetic",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This bit of code sets your score and number of coins to zero. If you collect any points or coins, an event will trigger (I've put in four: Warping the player to the screen exit, killing the player, hurting the player, or resetting the game).<br>\r\n<br>\r\n<br>\r\n<br>\r\nYou should probably not make collecting coins reset the game unless you're a real jerk.",
+  "latest_version": "smwc-41015-1762884760",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41015,
+      "title": "Punishment For Getting Coins or Score",
+      "version": "smwc-41015-1762884760",
+      "upstream_time": 1762884760,
+      "download_url": "https://dl.smwcentral.net/41015/NoPointsAsar2.zip",
+      "filename": "NoPointsAsar2.zip",
+      "size": 1099,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

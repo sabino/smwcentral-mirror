@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-clock-rock",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41984,
+  "title": "Clock Rock",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "overworld",
+    "title",
+    "upbeat",
+    "urban"
+  ],
+  "description": "The title theme composed for the 72hoQLDC #2 entry: <a href=\"https://cloud.smwcentral.net/s/NZRa3FZHRBE9KQP/download\" rel=\"nofollow\">Epic Clock Collection Level</a>.",
+  "latest_version": "smwc-41984-1777514814",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41984,
+      "title": "Clock Rock",
+      "version": "smwc-41984-1777514814",
+      "upstream_time": 1777514814,
+      "download_url": "https://dl.smwcentral.net/41984/Clock%20Rock.zip",
+      "filename": "Clock Rock.zip",
+      "size": 58612,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

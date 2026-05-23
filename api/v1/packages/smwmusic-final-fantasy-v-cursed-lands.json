@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-final-fantasy-v-cursed-lands",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27097,
+  "title": "Final Fantasy V - Cursed Lands",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "cutscene",
+    "dark",
+    "desert",
+    "mountain",
+    "ruins"
+  ],
+  "description": "(Also known as \"Cursed Earths\")<br>\r\n<br>\r\nA rather dark military march.",
+  "latest_version": "smwc-27097-1624781587",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27097,
+      "title": "Final Fantasy V - Cursed Lands",
+      "version": "smwc-27097-1624781587",
+      "upstream_time": 1624781587,
+      "download_url": "https://dl.smwcentral.net/27097/ffv_cursed_earths_smwsf_0_1.zip",
+      "filename": "ffv_cursed_earths_smwsf_0_1.zip",
+      "size": 32230,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27096,
+      "title": "Final Fantasy V - Cursed Lands",
+      "version": "smwc-27096-1624781360",
+      "upstream_time": 1624781360,
+      "download_url": "https://dl.smwcentral.net/27096/ffv_cursed_earths_0_1.zip",
+      "filename": "ffv_cursed_earths_0_1.zip",
+      "size": 74368,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

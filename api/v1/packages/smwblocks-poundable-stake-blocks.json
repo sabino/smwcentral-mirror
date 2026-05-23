@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-poundable-stake-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 14938,
+  "title": "Poundable Stake Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "ground pound",
+    "lorom",
+    "post",
+    "poundable",
+    "stake"
+  ],
+  "description": "\tSimilar to YI, if the player were to spinjump/groundpound the stake blocks, they will \"shorten\" (or move downward) without any possible cutoff being shown. Great for aesthetics and puzzles.<br>\r\n<br>\r\nAlso includes an upside down version.",
+  "latest_version": "smwc-14938-1484271889",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 14938,
+      "title": "Poundable Stake Blocks",
+      "version": "smwc-14938-1484271889",
+      "upstream_time": 1484271889,
+      "download_url": "https://dl.smwcentral.net/14938/PoundStakeBlocks.zip",
+      "filename": "PoundStakeBlocks.zip",
+      "size": 6576,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

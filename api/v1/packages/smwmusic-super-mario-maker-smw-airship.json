@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-super-mario-maker-smw-airship",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33325,
+  "title": "Super Mario Maker - SMW Airship",
+  "authors": [
+    "MrMartley64"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "dark",
+    "tense"
+  ],
+  "description": "A port of one of my favorite songs from Super Mario Maker 1 and 2, the SMW Airship theme! Enjoy! Make sure to give credit when using it! :)<br>\r\n<br>\r\n7/8/23 EDIT: Fixed a volume issue within some channels",
+  "latest_version": "smwc-33325-1692517291",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33325,
+      "title": "Super Mario Maker - SMW Airship",
+      "version": "smwc-33325-1692517291",
+      "upstream_time": 1692517291,
+      "download_url": "https://dl.smwcentral.net/33325/SMW%20Airship%20%28Volume%20Fix%29.zip",
+      "filename": "SMW Airship (Volume Fix).zip",
+      "size": 33359,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24184,
+      "title": "Super Mario Maker - SMW Airship",
+      "version": "smwc-24184-1598111237",
+      "upstream_time": 1598111237,
+      "download_url": "https://dl.smwcentral.net/24184/Airship_%28v2.0%29.zip",
+      "filename": "Airship_(v2.0).zip",
+      "size": 71375,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15417,
+      "title": "Super Mario Maker - SMW Airship",
+      "version": "smwc-15417-1491795081",
+      "upstream_time": 1491795081,
+      "download_url": "https://dl.smwcentral.net/15417/smw%20airship.zip",
+      "filename": "smw airship.zip",
+      "size": 31705,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

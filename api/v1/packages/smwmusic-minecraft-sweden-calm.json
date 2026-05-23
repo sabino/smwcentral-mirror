@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-minecraft-sweden-calm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20865,
+  "title": "Minecraft - Sweden (Calm 3)",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "night",
+    "overworld"
+  ],
+  "description": "Calm ambient music from Minecraft. Good for overworld maps or night themed levels.",
+  "latest_version": "smwc-20865-1565802923",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20865,
+      "title": "Minecraft - Sweden (Calm 3)",
+      "version": "smwc-20865-1565802923",
+      "upstream_time": 1565802923,
+      "download_url": "https://dl.smwcentral.net/20865/Minecraft%20-%20Sweden.zip",
+      "filename": "Minecraft - Sweden.zip",
+      "size": 30989,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

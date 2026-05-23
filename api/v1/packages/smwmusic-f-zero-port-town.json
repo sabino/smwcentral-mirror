@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-f-zero-port-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30047,
+  "title": "F-Zero - Port Town",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "ice",
+    "tense",
+    "urban"
+  ],
+  "description": "Port Town from F-Zero.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MKDSmaster91\"><a href=\"/?p=profile&amp;id=28195\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MKDSmaster91</a></span>",
+  "latest_version": "smwc-30047-1650478091",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30047,
+      "title": "F-Zero - Port Town",
+      "version": "smwc-30047-1650478091",
+      "upstream_time": 1650478091,
+      "download_url": "https://dl.smwcentral.net/30047/F-Zero%20-%20Port%20Town.zip",
+      "filename": "F-Zero - Port Town.zip",
+      "size": 45695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23532,
+      "title": "F-Zero - Port Town",
+      "version": "smwc-23532-1594248142",
+      "upstream_time": 1594248142,
+      "download_url": "https://dl.smwcentral.net/23532/port_town.zip",
+      "filename": "port_town.zip",
+      "size": 32780,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

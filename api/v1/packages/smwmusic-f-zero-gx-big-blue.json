@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-f-zero-gx-big-blue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8090,
+  "title": "F-Zero GX - Big Blue",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "industrial",
+    "space"
+  ],
+  "description": "The heavy theme from Big Blue in F-Zero GX. This was MidiGuy's SMWC Idol Contest entry. Could suit a factory level or intense area.",
+  "latest_version": "smwc-8090-1311971641",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8090,
+      "title": "F-Zero GX - Big Blue",
+      "version": "smwc-8090-1311971641",
+      "upstream_time": 1311971641,
+      "download_url": "https://dl.smwcentral.net/8090/F-Zero%20GX%20-%20Big%20Blue.zip",
+      "filename": "F-Zero GX - Big Blue.zip",
+      "size": 69835,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-av-strip-mahjong-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29544,
+  "title": "AV Strip Mahjong - Title Screen",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract",
+    "title"
+  ],
+  "description": "A cool abstract-y theme from a weird Mahjong game on the NES. <br>\r\n(Don't google the game, for your own good)<br>\r\n<br>\r\nCan be used in a title screen.",
+  "latest_version": "smwc-29544-1645808037",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29544,
+      "title": "AV Strip Mahjong - Title Screen",
+      "version": "smwc-29544-1645808037",
+      "upstream_time": 1645808037,
+      "download_url": "https://dl.smwcentral.net/29544/AV%20Strip%20Mahjong%20-%20Title%20Screen.zip",
+      "filename": "AV Strip Mahjong - Title Screen.zip",
+      "size": 45723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-water",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 39712,
+  "title": "Super Mario World - Water",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "2bpp",
+    "patch needed",
+    "water"
+  ],
+  "description": "SMW water, but as a layer 3. A level UberASM is included to set the 4th color. Transparency/color math is required.<br>\r\n<br>\r\nYou may wish to use <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=80\">Disable Tide Pushback</a>",
+  "latest_version": "smwc-39712-1751338819",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 39712,
+      "title": "Super Mario World - Water",
+      "version": "smwc-39712-1751338819",
+      "upstream_time": 1751338819,
+      "download_url": "https://dl.smwcentral.net/39712/layer-3-water.zip",
+      "filename": "layer-3-water.zip",
+      "size": 2912,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

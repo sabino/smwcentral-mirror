@@ -1,0 +1,102 @@
+{
+  "name": "smwsprites-super-mario-bros",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42078,
+  "title": "Super Mario Bros. 3 - Spike and Spike Ball",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "airship",
+    "burner",
+    "buzzy beetle",
+    "chasing",
+    "enemy",
+    "giant",
+    "koopa",
+    "lorom",
+    "sa-1",
+    "smb 3",
+    "smb3",
+    "spike",
+    "spike balls",
+    "spiny",
+    "water"
+  ],
+  "description": "SMB3 style Spike and spike ball<br>\r\n<br>\r\nGreen - SMB3 Spike<br>\r\nBlue - Stone Spike (throws spike balls towards the screen)<br>\r\nRed - Fire Spike (throws fireballs instead of a spike ball)<br>\r\nExtra bit - move/stay flag<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"CalHal\"><a href=\"/?p=profile&amp;id=33725\" style=\"color: var(--user-color-1);\" class=\"un\">CalHal</a></span>",
+  "latest_version": "smwc-42078-1775670513",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42078,
+      "title": "Super Mario Bros. 3 - Spike and Spike Ball",
+      "version": "smwc-42078-1775670513",
+      "upstream_time": 1775670513,
+      "download_url": "https://dl.smwcentral.net/42078/SMB3_Spike.zip",
+      "filename": "SMB3_Spike.zip",
+      "size": 7926,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 41932,
+      "title": "Super Mario Bros. 3 - Buzzy Beetle / Spiny",
+      "version": "smwc-41932-1774305544",
+      "upstream_time": 1774305544,
+      "download_url": "https://dl.smwcentral.net/41932/smb3_buzzy_spiny_v3.zip",
+      "filename": "smb3_buzzy_spiny_v3.zip",
+      "size": 5500,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 33523,
+      "title": "Super Mario Bros. 3 - Giant Koopas",
+      "version": "smwc-33523-1690154210",
+      "upstream_time": 1690154210,
+      "download_url": "https://dl.smwcentral.net/33523/SMB%203%20-%20Giant%20Koopas.zip",
+      "filename": "SMB 3 - Giant Koopas.zip",
+      "size": 7222,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 33200,
+      "title": "Super Mario Bros. 3 - Blooper",
+      "version": "smwc-33200-1698727658",
+      "upstream_time": 1698727658,
+      "download_url": "https://dl.smwcentral.net/33200/SMB3%20Blooper.zip",
+      "filename": "SMB3 Blooper.zip",
+      "size": 7309,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 23485,
+      "title": "Super Mario Bros. 3 - Burner (vertical and horizontal)",
+      "version": "smwc-23485-1595002028",
+      "upstream_time": 1595002028,
+      "download_url": "https://dl.smwcentral.net/23485/SMB3%20Burner%20%28Edited%20a%20bit%29.zip",
+      "filename": "SMB3 Burner (Edited a bit).zip",
+      "size": 10151,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

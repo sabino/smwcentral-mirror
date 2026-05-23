@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-snowboard-kids-night-highway",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19514,
+  "title": "Snowboard Kids - Night Highway",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "athletic",
+    "mountain",
+    "night",
+    "snow"
+  ],
+  "description": "My custom port of the track Night Highway from Snowboard Kids for N64 featured in GPW2.<br>\r\n<br>\r\nThis track has an upbeat fast-paced feel. Would work well in any high-energy level, particularly snow/ice levels.",
+  "latest_version": "smwc-19514-1553975387",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19514,
+      "title": "Snowboard Kids - Night Highway",
+      "version": "smwc-19514-1553975387",
+      "upstream_time": 1553975387,
+      "download_url": "https://dl.smwcentral.net/19514/Snowboard%20Kids%20-%20Night%20Highway.zip",
+      "filename": "Snowboard Kids - Night Highway.zip",
+      "size": 70175,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

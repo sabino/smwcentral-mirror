@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pokey",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25623,
+  "title": "Pokey",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "pokey",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 70 in SMW, the Pokey.",
+  "latest_version": "smwc-25623-1610424742",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25623,
+      "title": "Pokey",
+      "version": "smwc-25623-1610424742",
+      "upstream_time": 1610424742,
+      "download_url": "https://dl.smwcentral.net/25623/SMWSDIS%20-%20sprite%2070%20-%20Pokey.zip",
+      "filename": "SMWSDIS - sprite 70 - Pokey.zip",
+      "size": 5715,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

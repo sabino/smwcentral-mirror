@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-bicycle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27512,
+  "title": "Pokémon Gold/Silver/Crystal - Bicycle",
+  "authors": [
+    "Sariel"
+  ],
+  "tags": [
+    "athletic",
+    "carnival",
+    "grassland",
+    "overworld"
+  ],
+  "description": "The happy Bike theme from Pokémon Gold. As the Gameboy was quite limited with channels I felt free to add a few more to make it sound more pleasant. Fits happy grasslands and first stages best probably.",
+  "latest_version": "smwc-27512-1628716186",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27512,
+      "title": "Pokémon Gold/Silver/Crystal - Bicycle",
+      "version": "smwc-27512-1628716186",
+      "upstream_time": 1628716186,
+      "download_url": "https://dl.smwcentral.net/27512/Pokemon%20Gold%20-%20Bike%20Theme.zip",
+      "filename": "Pokemon Gold - Bike Theme.zip",
+      "size": 32360,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

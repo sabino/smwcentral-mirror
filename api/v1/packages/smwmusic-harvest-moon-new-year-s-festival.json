@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-harvest-moon-new-year-s-festival",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7330,
+  "title": "Harvest Moon - New Year's Festival",
+  "authors": [
+    "Supertails"
+  ],
+  "tags": [
+    "sky",
+    "space"
+  ],
+  "description": "A nice song that would be good for star areas, shrines etc.",
+  "latest_version": "smwc-7330-1317998296",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7330,
+      "title": "Harvest Moon - New Year's Festival",
+      "version": "smwc-7330-1317998296",
+      "upstream_time": 1317998296,
+      "download_url": "https://dl.smwcentral.net/7330/Harvest%20Moon%20-%20New%20Year.zip",
+      "filename": "Harvest Moon - New Year.zip",
+      "size": 66159,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

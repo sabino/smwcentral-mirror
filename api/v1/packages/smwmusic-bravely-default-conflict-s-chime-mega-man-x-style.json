@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-bravely-default-conflict-s-chime-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25340,
+  "title": "Bravely Default - Conflict's Chime (Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "Used Samples : Mega man X<br>\r\nSource : https://youtu.be/M7wtj0t7ngQ",
+  "latest_version": "smwc-25340-1607676636",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25340,
+      "title": "Bravely Default - Conflict's Chime (Mega Man X Style)",
+      "version": "smwc-25340-1607676636",
+      "upstream_time": 1607676636,
+      "download_url": "https://dl.smwcentral.net/25340/Conflict%27s%20Chime%28MMX%20Style%29_.zip",
+      "filename": "Conflict%27s Chime(MMX Style)_.zip",
+      "size": 60864,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

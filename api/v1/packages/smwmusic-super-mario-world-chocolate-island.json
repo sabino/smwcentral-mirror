@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-world-chocolate-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24036,
+  "title": "Super Mario World - Chocolate Island",
+  "authors": [
+    "Captain 3"
+  ],
+  "tags": [
+    "desert",
+    "fire",
+    "mountain"
+  ],
+  "description": "Since SMW never got a(n actual) Chocolate Island theme, I decided to make one myself! I tried to make it in the style of the original map themes.",
+  "latest_version": "smwc-24036-1596128894",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24036,
+      "title": "Super Mario World - Chocolate Island",
+      "version": "smwc-24036-1596128894",
+      "upstream_time": 1596128894,
+      "download_url": "https://dl.smwcentral.net/24036/Chocolate_Island.zip",
+      "filename": "Chocolate_Island.zip",
+      "size": 31553,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

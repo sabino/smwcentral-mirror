@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-vermilion-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24098,
+  "title": "Pokémon Red/Blue/Yellow - Vermilion City",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "calm",
+    "overworld"
+  ],
+  "description": "Song that Vermilion City from Pokémon Red/Blue/Yellow. Good for a overworld themes.",
+  "latest_version": "smwc-24098-1597462864",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24098,
+      "title": "Pokémon Red/Blue/Yellow - Vermilion City",
+      "version": "smwc-24098-1597462864",
+      "upstream_time": 1597462864,
+      "download_url": "https://dl.smwcentral.net/24098/Pokemon%20RBY%20-%20Vermilion%20City%20.zip",
+      "filename": "Pokemon RBY - Vermilion City .zip",
+      "size": 31216,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

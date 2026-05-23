@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-powerup",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41149,
+  "title": "Teleport on Powerup",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "lorom",
+    "powerup",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Teleports the player if they have a certain powerup.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41149-1764371970",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41149,
+      "title": "Teleport on Powerup",
+      "version": "smwc-41149-1764371970",
+      "upstream_time": 1764371970,
+      "download_url": "https://dl.smwcentral.net/41149/teleport_powerup.zip",
+      "filename": "teleport_powerup.zip",
+      "size": 671,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

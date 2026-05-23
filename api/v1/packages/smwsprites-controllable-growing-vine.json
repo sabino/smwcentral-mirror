@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-controllable-growing-vine",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23448,
+  "title": "Controllable Growing Vine",
+  "authors": [
+    "dtothefourth"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A version of the growing vine sprite which can go up/left/down/right and also can use blocks to make it go faster or slower or change directions or even an option to make it dpad controllable like the coin snake.<br>\r\n<br>\r\nIncludes several sample blocks for controlling the vine, to use change the !Sprite define to match the slot you insert the vine on in the Pixi list.txt",
+  "latest_version": "smwc-23448-1594652060",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23448,
+      "title": "Controllable Growing Vine",
+      "version": "smwc-23448-1594652060",
+      "upstream_time": 1594652060,
+      "download_url": "https://dl.smwcentral.net/23448/NewRotatingVine.zip",
+      "filename": "NewRotatingVine.zip",
+      "size": 18687,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

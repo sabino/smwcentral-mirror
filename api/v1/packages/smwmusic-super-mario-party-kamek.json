@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-party-kamek",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20150,
+  "title": "Super Mario Party - Kamek",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene"
+  ],
+  "description": "Song that kamek from Super Mario Party. Could fit a bonus area.",
+  "latest_version": "smwc-20150-1560022854",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20150,
+      "title": "Super Mario Party - Kamek",
+      "version": "smwc-20150-1560022854",
+      "upstream_time": 1560022854,
+      "download_url": "https://dl.smwcentral.net/20150/Super%20Mario%20Party%20-%20Kamek.zip",
+      "filename": "Super Mario Party - Kamek.zip",
+      "size": 27250,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

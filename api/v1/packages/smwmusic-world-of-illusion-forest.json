@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-world-of-illusion-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14299,
+  "title": "World of Illusion - Forest",
+  "authors": [
+    "NastCF"
+  ],
+  "tags": [
+    "calm",
+    "carnival",
+    "forest",
+    "grassland",
+    "town"
+  ],
+  "description": "The first stage theme from World of Illusion on Sega Genesis. A cheerful song that fits forest-y stages in the early game. Could maybe fit carnival or town stages too?<br>\r\n<br>\r\nUses ADSR and 7 channels.",
+  "latest_version": "smwc-14299-1475257076",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14299,
+      "title": "World of Illusion - Forest",
+      "version": "smwc-14299-1475257076",
+      "upstream_time": 1475257076,
+      "download_url": "https://dl.smwcentral.net/14299/World%20of%20Illusion%20-%20Forest.zip",
+      "filename": "World of Illusion - Forest.zip",
+      "size": 32070,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

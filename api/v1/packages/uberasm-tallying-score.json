@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-tallying-score",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41072,
+  "title": "Tallying Score",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This UberASM+Patch modifies the score counter so that score is tallied up over a duration of time, instead of being updated instantly. You can control whether the tally adds a fixed constant every frame, adds a fixed fraction, or a variable fraction that updates constantly based on the remaining score to tally. You can also specify the value or fraction that should be added, to control the average duration of the tally.<br>\r\n<br>\r\nRequires a few small helper patches which are automatically applied with the UberASM code. See TallyingScore.asm for customization options and usage notes.<br>\r\n<br>\r\nTo be inserted as GM14 code or level code.",
+  "latest_version": "smwc-41072-1763649286",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41072,
+      "title": "Tallying Score",
+      "version": "smwc-41072-1763649286",
+      "upstream_time": 1763649286,
+      "download_url": "https://dl.smwcentral.net/41072/TallyingScoreAsar2.zip",
+      "filename": "TallyingScoreAsar2.zip",
+      "size": 2651,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

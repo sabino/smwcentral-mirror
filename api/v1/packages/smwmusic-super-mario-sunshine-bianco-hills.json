@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-sunshine-bianco-hills",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7564,
+  "title": "Super Mario Sunshine - Bianco Hills",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "grassland"
+  ],
+  "description": "Description: The song played in Bianco Hills in Super Mario Sunshine. A good general grassland theme.",
+  "latest_version": "smwc-7564-1320380909",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7564,
+      "title": "Super Mario Sunshine - Bianco Hills",
+      "version": "smwc-7564-1320380909",
+      "upstream_time": 1320380909,
+      "download_url": "https://dl.smwcentral.net/7564/SMS%20-%20Bianco%20Hills.zip",
+      "filename": "SMS - Bianco Hills.zip",
+      "size": 71794,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-carry-items-through-doors-and-diagonal-pipes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42113,
+  "title": "Carry Items Through Doors and Diagonal Pipes",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "carriable",
+    "lorom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "Enables the player to be able to carry items through doors.<br>\r\n<br>\r\nAlso fixes the player dropping carried items when shooting out of a diagonal pipe.",
+  "latest_version": "smwc-42113-1777503161",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42113,
+      "title": "Carry Items Through Doors and Diagonal Pipes",
+      "version": "smwc-42113-1777503161",
+      "upstream_time": 1777503161,
+      "download_url": "https://dl.smwcentral.net/42113/Carry%20Items%20Through%20Doors%20and%20Diagonal%20Pipes.zip",
+      "filename": "Carry Items Through Doors and Diagonal Pipes.zip",
+      "size": 824,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

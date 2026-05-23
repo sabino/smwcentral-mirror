@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-thunder-cross-great-battleship-arrange",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26701,
+  "title": "Thunder Cross - Great Battleship (Arrange)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "fire",
+    "tense"
+  ],
+  "description": "This is Great Battleship, the fourth stage from the Arcade shmup Thunder Cross, by Konami. A very intense song that could fit both boss battles and chase sequences, along with fire based and more intense sorts of levels in general.",
+  "latest_version": "smwc-26701-1619842867",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26701,
+      "title": "Thunder Cross - Great Battleship (Arrange)",
+      "version": "smwc-26701-1619842867",
+      "upstream_time": 1619842867,
+      "download_url": "https://dl.smwcentral.net/26701/greatbattleship.zip",
+      "filename": "greatbattleship.zip",
+      "size": 72114,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

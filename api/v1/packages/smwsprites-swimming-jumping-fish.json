@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-swimming-jumping-fish",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32804,
+  "title": "Swimming/Jumping Fish",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "enemy",
+    "fish",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 47, the Swimming/Jumping Fish that \"swims\" back and forth and then jumps up (it doesn't require water and will swim through anything).<br>\r\nYou can find some customizations in the asm file.",
+  "latest_version": "smwc-32804-1688020383",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32804,
+      "title": "Swimming/Jumping Fish",
+      "version": "smwc-32804-1688020383",
+      "upstream_time": 1688020383,
+      "download_url": "https://dl.smwcentral.net/32804/47_disassembly.zip",
+      "filename": "47_disassembly.zip",
+      "size": 2484,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

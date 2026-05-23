@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-asterix-obelix-the-desert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34752,
+  "title": "Asterix & Obelix - The Desert",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "desert",
+    "spooky",
+    "temple",
+    "tense"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nDesert or pyramid theme.",
+  "latest_version": "smwc-34752-1691404730",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34752,
+      "title": "Asterix & Obelix - The Desert",
+      "version": "smwc-34752-1691404730",
+      "upstream_time": 1691404730,
+      "download_url": "https://dl.smwcentral.net/34752/Asterix%20and%20Obelix%20-%2020%20The%20Desert.zip",
+      "filename": "Asterix and Obelix - 20 The Desert.zip",
+      "size": 76678,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

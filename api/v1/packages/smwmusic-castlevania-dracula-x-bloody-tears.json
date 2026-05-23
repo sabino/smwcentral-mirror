@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-castlevania-dracula-x-bloody-tears",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32532,
+  "title": "Castlevania: Dracula X - Bloody Tears",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "spooky",
+    "temple"
+  ],
+  "description": "Requested by Anorakun.",
+  "latest_version": "smwc-32532-1673287396",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32532,
+      "title": "Castlevania: Dracula X - Bloody Tears",
+      "version": "smwc-32532-1673287396",
+      "upstream_time": 1673287396,
+      "download_url": "https://dl.smwcentral.net/32532/05%20Bloody%20Tears.zip",
+      "filename": "05 Bloody Tears.zip",
+      "size": 76891,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

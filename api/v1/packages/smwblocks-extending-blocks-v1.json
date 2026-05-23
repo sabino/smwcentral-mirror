@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-extending-blocks-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 25041,
+  "title": "Extending Blocks v1.1",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "lorom",
+    "new mario bros",
+    "nsmb",
+    "platform",
+    "sa-1",
+    "sprite needed",
+    "uberasm needed"
+  ],
+  "description": "When hit from below (with an Item or feather from the side) it'll grow one block until it hits a certain point. If the block doesn't get hit for a while it'll shrink down into one block again.<br>\r\n<br>\r\nRead the readme for more information.<br>\r\n<br>\r\nUpdate:<br>\r\n - Added left, right and down versions as well as a version that changes direction depending on map16 tiles.<br>\r\n<br>\r\nUpdate v1.1<br>\r\n - PIXI compatibility.<br>\r\n - Fixed a bug where the sprite number wasn't checked correctly occasionally causing it to remove the wrong sprite.<br>\r\n - Added an option to use multiple timer so extending one doesn't block all others from extending.<br>\r\n<br>\r\nRequested by maro and chineesmw",
+  "latest_version": "smwc-25041-1607609098",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 25041,
+      "title": "Extending Blocks v1.1",
+      "version": "smwc-25041-1607609098",
+      "upstream_time": 1607609098,
+      "download_url": "https://dl.smwcentral.net/25041/ExtendingBlocks%20v1.1.zip",
+      "filename": "ExtendingBlocks v1.1.zip",
+      "size": 18474,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

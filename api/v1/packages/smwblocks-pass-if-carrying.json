@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-pass-if-carrying",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3936,
+  "title": "Pass if Carrying",
+  "authors": [
+    "E-Man"
+  ],
+  "tags": [
+    "carry",
+    "item",
+    "lorom",
+    "passable"
+  ],
+  "description": "A simple block that makes it so that the player can only pass through if he/she is holding an item. <br>\r\n<br>\r\nRequested by mapsking.<br>\r\n<br>\r\n<i>Tester's note: Side-effect: If the player drops the item while being right inside the block, the player will die. Other than that little quirk, nice block.</i>",
+  "latest_version": "smwc-3936-1426271888",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3936,
+      "title": "Pass if Carrying",
+      "version": "smwc-3936-1426271888",
+      "upstream_time": 1426271888,
+      "download_url": "https://dl.smwcentral.net/3936/PassIfCarrying.zip",
+      "filename": "PassIfCarrying.zip",
+      "size": 682,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

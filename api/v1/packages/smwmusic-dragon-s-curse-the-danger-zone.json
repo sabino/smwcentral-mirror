@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dragon-s-curse-the-danger-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22715,
+  "title": "Dragon's Curse - The Danger Zone",
+  "authors": [
+    "yoshi9429"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "fire",
+    "mountain"
+  ],
+  "description": "An athletic sounding track that would fit to mountain areas with volcanoes, or a fire-themed level.<br>\r\n<br>\r\n- Ver.1.01 -<br>\r\nLower the global volume.<br>\r\n<br>\r\n- Ver.1.02 -<br>\r\nAdding a drum sound that plays when you ride Yoshi.",
+  "latest_version": "smwc-22715-1588817001",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22715,
+      "title": "Dragon's Curse - The Danger Zone",
+      "version": "smwc-22715-1588817001",
+      "upstream_time": 1588817001,
+      "download_url": "https://dl.smwcentral.net/22715/Dragon%27s%20Curse%20-%20The%20Danger%20Zone.zip",
+      "filename": "Dragon%27s Curse - The Danger Zone.zip",
+      "size": 96776,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

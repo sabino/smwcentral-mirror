@@ -1,0 +1,55 @@
+{
+  "name": "smwgraphics-classic-cave",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 26930,
+  "title": "Classic Cave 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "cave",
+    "needs remoderation"
+  ],
+  "description": "This is a fairly versatile general-purpose cave set that requires no custom palettes.  It looks best with Palettes 3, 5, and 7.  Palette 4 will also work, but you probably shouldn't use the crystals that use Palette Row 3 unless you want brown crystals.",
+  "latest_version": "smwc-26930-1620132792",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 26930,
+      "title": "Classic Cave 2021",
+      "version": "smwc-26930-1620132792",
+      "upstream_time": 1620132792,
+      "download_url": "https://dl.smwcentral.net/26930/ClassicCave2021.zip",
+      "filename": "ClassicCave2021.zip",
+      "size": 5347,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19631,
+      "title": "Classic Cave 2",
+      "version": "smwc-19631-1555886111",
+      "upstream_time": 1555886111,
+      "download_url": "https://dl.smwcentral.net/19631/ClassicCave2.zip",
+      "filename": "ClassicCave2.zip",
+      "size": 5653,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13064,
+      "title": "Classic Cave",
+      "version": "smwc-13064-1453241868",
+      "upstream_time": 1453241868,
+      "download_url": "https://dl.smwcentral.net/13064/ClassicCave.zip",
+      "filename": "ClassicCave.zip",
+      "size": 5387,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

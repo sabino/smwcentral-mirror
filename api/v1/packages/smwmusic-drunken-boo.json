@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-drunken-boo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7961,
+  "title": "Drunken Boo",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "ghost house"
+  ],
+  "description": "A slow ominous custom composition.",
+  "latest_version": "smwc-7961-1312338338",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7961,
+      "title": "Drunken Boo",
+      "version": "smwc-7961-1312338338",
+      "upstream_time": 1312338338,
+      "download_url": "https://dl.smwcentral.net/7961/Drunken%20Boo.zip",
+      "filename": "Drunken Boo.zip",
+      "size": 66715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

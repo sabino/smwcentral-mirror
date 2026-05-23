@@ -1,0 +1,34 @@
+{
+  "name": "tools-effect-tool-3",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 23331,
+  "title": "Effect Tool 3.0",
+  "authors": [
+    "JackTheSpades",
+    "dtothefourth"
+  ],
+  "tags": [
+    "effect",
+    "gui",
+    "hdma",
+    "sa-1"
+  ],
+  "description": "The same EffectTool as always, but updated to work together with newer tools<br>\r\n<br>\r\nSource available at: https://github.com/dtothefourth/EffectTool<br>\r\n<br>\r\n3.0 - UberASMTool conversion by dtothefourth<br>\r\n-Removed SA-1 option and instead added !addr defines to make hybrid code<br>\r\n-Replaced RTS with RTL in generated code<br>\r\n-added init/main labels to appropriate sections<br>\r\n-simplified saving system to just save to an UberASMTool compatible levelASM file<br>\r\n<br>\r\n<br>\r\nA tool to generate various effects for SMW or any SNES game in general.<br>\r\nIt features a variety of easy to use tabs to create effects such as:<br>\r\n-Background Color HDMA<br>\r\n-Forground Color HDMA<br>\r\n-Brightness HDMA<br>\r\n-Waves<br>\r\n-Parallax Scrolling<br>\r\n-Pixelation<br>\r\n-Windowing<br>\r\n-Color Math",
+  "latest_version": "smwc-23331-1592061564",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 23331,
+      "title": "Effect Tool 3.0",
+      "version": "smwc-23331-1592061564",
+      "upstream_time": 1592061564,
+      "download_url": "https://dl.smwcentral.net/23331/Effect%20Tool%203.0.zip",
+      "filename": "Effect Tool 3.0.zip",
+      "size": 390303,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

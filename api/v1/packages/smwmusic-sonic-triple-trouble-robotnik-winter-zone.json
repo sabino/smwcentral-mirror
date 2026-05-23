@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sonic-triple-trouble-robotnik-winter-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16512,
+  "title": "Sonic Triple Trouble - Robotnik Winter Zone",
+  "authors": [
+    "Gary"
+  ],
+  "tags": [
+    "athletic",
+    "ice"
+  ],
+  "description": "This is the music that plays in Robotnik Winter Zone from Sonic Triple Trouble. A perfect song for ice levels.<br>\r\n<br>\r\nNOTE - 26/10/17: Updated version.",
+  "latest_version": "smwc-16512-1508973634",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16512,
+      "title": "Sonic Triple Trouble - Robotnik Winter Zone",
+      "version": "smwc-16512-1508973634",
+      "upstream_time": 1508973634,
+      "download_url": "https://dl.smwcentral.net/16512/Robotnik%20Winter%20Zone.zip",
+      "filename": "Robotnik Winter Zone.zip",
+      "size": 32677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

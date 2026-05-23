@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-meatland",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 18985,
+  "title": "Meatland",
+  "authors": [
+    "PercentN"
+  ],
+  "tags": [
+    "flesh",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "A meaty tileset that can be useful for any sort of fleshy atmosphere. Whether it be some sort of cave or inside of an actual living organism, we got you covered! Contains a FG and a layer 3 BG.<br>\r\n<br>\r\nIt's probably best to use a sprite status bar or some sort of status bar patch to make sure the top of the BG does not get cutoff.<br>\r\n<br>\r\nWhoever suggested I make this, I'll be watching you :^)<br>\r\n<br>\r\nEdit: When using the layer 3 bg, it looks best setting h-scroll to none. It's meant to be sort of a corridor so looping it will look a little strange. But it's totally up to you.",
+  "latest_version": "smwc-18985-1548694186",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 18985,
+      "title": "Meatland",
+      "version": "smwc-18985-1548694186",
+      "upstream_time": 1548694186,
+      "download_url": "https://dl.smwcentral.net/18985/Meatland.zip",
+      "filename": "Meatland.zip",
+      "size": 13342,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

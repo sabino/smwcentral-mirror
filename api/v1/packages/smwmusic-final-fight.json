@@ -1,0 +1,71 @@
+{
+  "name": "smwmusic-final-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42194,
+  "title": "Final Fight 3 - Pints and Punks",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chaotic",
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "sewer",
+    "tense",
+    "upbeat",
+    "urban"
+  ],
+  "description": "In-doors & bar theme from Final Fight 3.",
+  "latest_version": "smwc-42194-1777573616",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42194,
+      "title": "Final Fight 3 - Pints and Punks",
+      "version": "smwc-42194-1777573616",
+      "upstream_time": 1777573616,
+      "download_url": "https://dl.smwcentral.net/42194/Final%20Fight%203%20-%20Pints%20and%20Punks.zip",
+      "filename": "Final Fight 3 - Pints and Punks.zip",
+      "size": 57491,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32365,
+      "title": "Final Fight 3 - Smeared Graffiti",
+      "version": "smwc-32365-1675023897",
+      "upstream_time": 1675023897,
+      "download_url": "https://dl.smwcentral.net/32365/Smeared_Graffiti.zip",
+      "filename": "Smeared_Graffiti.zip",
+      "size": 52224,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32018,
+      "title": "Final Fight 3 - Law and Disorder",
+      "version": "smwc-32018-1674418753",
+      "upstream_time": 1674418753,
+      "download_url": "https://dl.smwcentral.net/32018/07%20Law%20and%20Disorder.zip",
+      "filename": "07 Law and Disorder.zip",
+      "size": 58620,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

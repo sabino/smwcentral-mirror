@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-levelnames-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40250,
+  "title": "LevelNames v2.2",
+  "authors": [
+    "Ice Man",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "layer 3",
+    "level name",
+    "lorom",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "Displays the level name in layer 3 at the top of the screen.<br>\r\n<br>\r\nNote: This patch is only compatible with the vanilla status bar. Do not use if you're using a custom status bar!<br>\r\n<br>\r\nYoshifanatic's update:<br>\r\n- Replaced the depreciated \"table\" command and associated .txt file with a macro that handles the letter assignment. This also means the minimum asar version is now asar 1.90.<br>\r\n- Removed the levelnum.ips code, as Lunar Magic 3.30+ can already store the level number into $010B.<br>\r\n- Made the default free RAM be $7F9C7B/$418AFF. The old free RAM of $7FFF00/$41FF00 was part of the level data table, which caused this patch to corrupt part of the level data.<br>\r\n- Made the free RAM easy to remap if needed, as it was hardcoded before.<br>\r\n- Saved a bunch of V-Blank time by not buffering the level name tilemap during it. It's now buffered during the initialization of the status bar tilemap. In addition, the level name tilemap is only uploaded once unless a certain flag is set, for further savings.<br>\r\n- Made the patch account for the SA-1 patch remapping the DMA channels.",
+  "latest_version": "smwc-40250-1759604892",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40250,
+      "title": "LevelNames v2.2",
+      "version": "smwc-40250-1759604892",
+      "upstream_time": 1759604892,
+      "download_url": "https://dl.smwcentral.net/40250/Level%20Names%20v2.2.zip",
+      "filename": "Level Names v2.2.zip",
+      "size": 4068,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

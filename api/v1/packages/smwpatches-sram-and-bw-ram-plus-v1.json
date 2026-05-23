@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-sram-and-bw-ram-plus-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 34813,
+  "title": "SRAM and BW-RAM Plus v1.4",
+  "authors": [
+    "MarioE",
+    "Tattletale",
+    "lx5"
+  ],
+  "tags": [
+    "bw-ram",
+    "dma",
+    "lorom",
+    "sa-1",
+    "save",
+    "sram"
+  ],
+  "description": "This patch rewrites the game's save file handling by using DMA for saving and loading, leading to the most efficient handling. As a bonus, it also frees up the 141 bytes of RAM at $7E:1F49.<br>\r\n<br>\r\n<b>NOTE: You must apply this patch after you use Lunar Magic to modify any of the level's level flags on the overworld</b> -- LM doesn't take into account the fact that $1F49 is never being used anymore.<br>\r\n<br>\r\nRead the readme for information on including an address to be saved to SRAM/BWRAM.<br>\r\n<br>\r\nThis version now allows addresses to have default values.<br>\r\n<br>\r\nThe BWRAM is included because due to the nature of the sa-1 rom, SRAM doesn't exist, so use that instead of SRAM on a sa-1 rom, not SRAM.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>changelog</span></div><div class=\"collapse-content\">v1.4<br>\r\n--------------------<br>\r\nLX5's bwram_plus:<br>\r\nManually loads in. This results in redundant (unless you disable it, of course), it fixes some bugs when you move the level init flag.<br>\r\n<br>\r\nMarioE's sram_plus:<br>\r\nFixed compatibility with Lunar Magic v3.00 which fixes the 1C5 bug but in turn also made previous SRAM Plus incompatible.<br>\r\n<br>\r\nv1.3<br>\r\n--------------------<br>\r\nLX5's bwram_plus:<br>\r\nFixed a bug init would happen after intro level's load, leading to weird issues with initialized RAMs. Example: if you remove the code that takes care of initializing manually the life counter and try to do that with bwram's default values, you will see your life counter suddenly jump from 1 to the right value. And many other issues of the same variation.<br>\r\nI also brought the load routine to the same hijack, so now the game chooses whether to init or load, instead of trying to do both. In v1.2, I had added a lock so that wouldn't happen, I removed it in this version. Both routines are running at the same hijack sram_plus uses now.<br>\r\n<br>\r\nv1.2<br>\r\n--------------------<br>\r\nMarioE's sram_plus:<br>\r\nFixed a bug it would restore a piece of code from the original game on top of a LM hijack (message sprite fix (shift+f8)) that would send you to the wrong OW submap.<br>\r\n<br>\r\nv1.1<br>\r\n--------------------<br>\r\nLX5's bwram_plus:<br>\r\nFixed a bug the patch would load a save even if there was no save to be loaded (values would be loaded with FF or whatever else was in the tables).<br>\r\nFixed a bug the patch would write garbage to address+1, according to the tables, so dl $4013C7 : dw $0001 would write to 4013C7 and 4013C8.</div></div>",
+  "latest_version": "smwc-34813-1734547835",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 34813,
+      "title": "SRAM and BW-RAM Plus v1.4",
+      "version": "smwc-34813-1734547835",
+      "upstream_time": 1734547835,
+      "download_url": "https://dl.smwcentral.net/34813/SRAM_BWRAM_plus%20v1.4.zip",
+      "filename": "SRAM_BWRAM_plus v1.4.zip",
+      "size": 94183,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-activate-unused-starman-mechanic-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24985,
+  "title": "Activate Unused Starman Mechanic v1.1",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "goal",
+    "lorom",
+    "sa-1",
+    "star",
+    "starman",
+    "unused"
+  ],
+  "description": "This patch activates the Starman mechanic that was mostly coded into Super Mario World, but was ultimately left out: If a Star is spawned by carrying an item past the goal tape, a flag will be set that then doubles on each level load - once Mario enters 7 rooms, he will enter the room with Star power, and the flag will reset. The patch also adds a few extra changes, which can be read in the asm file.<br>\r\n<br>\r\nv1.1:<br>\r\n- Removed the ability for a post-goal star to give an item in the item box - it makes sense for the activated Starman flag to be the only reward.<br>\r\n- Fixed a bug where the Starman could be activated upon entering a bonus room, leading to glitched star tiles.<br>\r\n- Fixed a bug where in some cases the $13CB counter could skip past the maximum defined number of room changes, and avoid the Starman activation.<br>\r\n- Added a check during the goal routine to not increment $13CB if it is already nonzero.",
+  "latest_version": "smwc-24985-1611563515",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24985,
+      "title": "Activate Unused Starman Mechanic v1.1",
+      "version": "smwc-24985-1611563515",
+      "upstream_time": 1611563515,
+      "download_url": "https://dl.smwcentral.net/24985/UnusedStarman.zip",
+      "filename": "UnusedStarman.zip",
+      "size": 2199,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pushover-greek",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13092,
+  "title": "Pushover - Greek",
+  "authors": [
+    "yoshi9429"
+  ],
+  "tags": [
+    "ruins",
+    "temple"
+  ],
+  "description": "Pushover Greek Stage Theme.<br>\r\nI think it is useful ruin or temple.",
+  "latest_version": "smwc-13092-1453409011",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13092,
+      "title": "Pushover - Greek",
+      "version": "smwc-13092-1453409011",
+      "upstream_time": 1453409011,
+      "download_url": "https://dl.smwcentral.net/13092/Pushover%20-%20Greek%20%28S%29.zip",
+      "filename": "Pushover - Greek (S).zip",
+      "size": 36904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

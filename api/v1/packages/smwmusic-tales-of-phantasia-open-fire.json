@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-tales-of-phantasia-open-fire",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31319,
+  "title": "Tales of Phantasia - Open Fire",
+  "authors": [
+    "Ahrion",
+    "Zavok"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "chase",
+    "fire",
+    "tense"
+  ],
+  "description": "The second half of the song becomes more tense.",
+  "latest_version": "smwc-31319-1672446566",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31319,
+      "title": "Tales of Phantasia - Open Fire",
+      "version": "smwc-31319-1672446566",
+      "upstream_time": 1672446566,
+      "download_url": "https://dl.smwcentral.net/31319/Tales%20of%20Phantasia%20-%20Open%20Fire.zip",
+      "filename": "Tales of Phantasia - Open Fire.zip",
+      "size": 34965,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28691,
+      "title": "Tales of Phantasia - Open Fire",
+      "version": "smwc-28691-1641731186",
+      "upstream_time": 1641731186,
+      "download_url": "https://dl.smwcentral.net/28691/OpenFire.zip",
+      "filename": "OpenFire.zip",
+      "size": 60324,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-turrican-stage-3",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40695,
+  "title": "Super Turrican - Stage 3-2",
+  "authors": [
+    "Oz74"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "ice",
+    "snow",
+    "tense"
+  ],
+  "description": "The song in the icy lake stage of Super Turrican.<br>\r\n<br>\r\nIncompatible with: Statue Fire SFX & Podoboos (noise channel used).",
+  "latest_version": "smwc-40695-1766549090",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40695,
+      "title": "Super Turrican - Stage 3-2",
+      "version": "smwc-40695-1766549090",
+      "upstream_time": 1766549090,
+      "download_url": "https://dl.smwcentral.net/40695/%5BSMWSPC%5DSuperTurrican_3-2.zip",
+      "filename": "%5BSMWSPC%5DSuperTurrican_3-2.zip",
+      "size": 31900,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

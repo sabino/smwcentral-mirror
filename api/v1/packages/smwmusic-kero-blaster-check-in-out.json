@@ -1,0 +1,44 @@
+{
+  "name": "smwmusic-kero-blaster-check-in-out",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27541,
+  "title": "Kero Blaster - Check'in Out",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "carnival",
+    "forest",
+    "grassland",
+    "mountain",
+    "mysterious",
+    "night",
+    "sewer",
+    "sky",
+    "town",
+    "urban",
+    "water"
+  ],
+  "description": "The music from Kero Blaster's third stage, the OXOX Hotel.<br>\r\n<br>\r\nIt's a song that's a bit reserved, but which gets a bit happy, then goes right back to reservedness. Probably best for early-game levels, I think it could fit a variety of level environments.",
+  "latest_version": "smwc-27541-1627786271",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27541,
+      "title": "Kero Blaster - Check'in Out",
+      "version": "smwc-27541-1627786271",
+      "upstream_time": 1627786271,
+      "download_url": "https://dl.smwcentral.net/27541/checkin%20out.zip",
+      "filename": "checkin out.zip",
+      "size": 34695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

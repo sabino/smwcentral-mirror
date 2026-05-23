@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-spongebob-squarepants-supersponge-industrial-fields-oil-rig",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39846,
+  "title": "Spongebob Squarepants: SuperSponge - Industrial Fields/Oil Rig",
+  "authors": [
+    "nicecarlos024"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "cave",
+    "industrial",
+    "overworld"
+  ],
+  "description": "the stickerbush symphony of spongebob<br>\r\n",
+  "latest_version": "smwc-39846-1750884836",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39846,
+      "title": "Spongebob Squarepants: SuperSponge - Industrial Fields/Oil Rig",
+      "version": "smwc-39846-1750884836",
+      "upstream_time": 1750884836,
+      "download_url": "https://dl.smwcentral.net/39846/SBSP%20SuperSponge%20-%20Industrial%20Fields.zip",
+      "filename": "SBSP SuperSponge - Industrial Fields.zip",
+      "size": 84658,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 9452,
+      "title": "SpongeBob Squarepants: SuperSponge - Industrial Fields: Oil Rig",
+      "version": "smwc-9452-1417691473",
+      "upstream_time": 1417691473,
+      "download_url": "https://dl.smwcentral.net/9452/SBSP_SuperSponge_Oil_Rig.zip",
+      "filename": "SBSP_SuperSponge_Oil_Rig.zip",
+      "size": 32578,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

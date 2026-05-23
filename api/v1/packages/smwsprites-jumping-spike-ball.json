@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-jumping-spike-ball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31777,
+  "title": "Jumping Spike Ball",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "enemy",
+    "jumping",
+    "lorom",
+    "sa-1",
+    "spike",
+    "water"
+  ],
+  "description": "This is a fusion between the Surface Jumping Fish and the Floating Spike Ball, the result being a Jumping Spike Ball! It behaves similarly to the vanilla spike ball, but it jumps. Extra Bit sets its horizontal speed.<br>\r\n<br>\r\nTo be inserted with PIXI. Supports SA-1 as well. Make note that sprite buoyancy is needed for this sprite to work properly, similarly to the surface jumping fish.",
+  "latest_version": "smwc-31777-1661458329",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31777,
+      "title": "Jumping Spike Ball",
+      "version": "smwc-31777-1661458329",
+      "upstream_time": 1661458329,
+      "download_url": "https://dl.smwcentral.net/31777/Jumping%20Spike%20Ball.zip",
+      "filename": "Jumping Spike Ball.zip",
+      "size": 1736,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

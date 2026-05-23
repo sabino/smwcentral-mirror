@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-cloud-drop",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20047,
+  "title": "Cloud Drop",
+  "authors": [
+    "Arinsu",
+    "smkdan"
+  ],
+  "tags": [
+    "enemy",
+    "ghost",
+    "lorom",
+    "sa-1",
+    "yoshi's island"
+  ],
+  "description": "The ghost-like creature from SMW2:YI. It's similar to the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16129\">Gusty</a>, but flies back and forth.<br>\r\n<br>\r\nNow, the extra bit decides whether the sprite flies horizontally (not set) or vertically (set).",
+  "latest_version": "smwc-20047-1558967419",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20047,
+      "title": "Cloud Drop",
+      "version": "smwc-20047-1558967419",
+      "upstream_time": 1558967419,
+      "download_url": "https://dl.smwcentral.net/20047/Cloud%20Drop.zip",
+      "filename": "Cloud Drop.zip",
+      "size": 4351,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

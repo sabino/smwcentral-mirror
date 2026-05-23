@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-prelude-of-the-hero",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8042,
+  "title": "Prelude of the Hero",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "calm"
+  ],
+  "description": "A custom composition and a remix of Passat of the Hero.<br>\r\n<br>\r\nUpdate (10/06/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 122 bytes.",
+  "latest_version": "smwc-8042-1312496169",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8042,
+      "title": "Prelude of the Hero",
+      "version": "smwc-8042-1312496169",
+      "upstream_time": 1312496169,
+      "download_url": "https://dl.smwcentral.net/8042/Prelude%20of%20the.hero.zip",
+      "filename": "Prelude of the.hero.zip",
+      "size": 44648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

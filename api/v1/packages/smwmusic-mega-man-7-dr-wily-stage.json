@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-mega-man-7-dr-wily-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35409,
+  "title": "Mega Man 7 - Dr. Wily Stage 2",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "fire",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"ASSATAKKU\"><a href=\"/?p=profile&amp;id=41787\" style=\"color: var(--user-color-1);\" class=\"un\">ASSATAKKU</a></span>",
+  "latest_version": "smwc-35409-1701636304",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35409,
+      "title": "Mega Man 7 - Dr. Wily Stage 2",
+      "version": "smwc-35409-1701636304",
+      "upstream_time": 1701636304,
+      "download_url": "https://dl.smwcentral.net/35409/MM7Wily2.zip",
+      "filename": "MM7Wily2.zip",
+      "size": 69867,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31245,
+      "title": "Mega Man 7 - Dr. Wily Stage 1",
+      "version": "smwc-31245-1659333759",
+      "upstream_time": 1659333759,
+      "download_url": "https://dl.smwcentral.net/31245/MM7Wily1.zip",
+      "filename": "MM7Wily1.zip",
+      "size": 80399,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21354,
+      "title": "Mega Man 7 - Dr. Wily Stage 2",
+      "version": "smwc-21354-1573320722",
+      "upstream_time": 1573320722,
+      "download_url": "https://dl.smwcentral.net/21354/Mega%20Man%207%20-%20Dr.%20Wily%20Stage%202.zip",
+      "filename": "Mega Man 7 - Dr. Wily Stage 2.zip",
+      "size": 32489,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

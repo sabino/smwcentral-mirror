@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-kirby-super-star-hilltop-chase",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32485,
+  "title": "Kirby Super Star - Hilltop Chase",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "chase",
+    "grassland",
+    "mountain"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>",
+  "latest_version": "smwc-32485-1669363222",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32485,
+      "title": "Kirby Super Star - Hilltop Chase",
+      "version": "smwc-32485-1669363222",
+      "upstream_time": 1669363222,
+      "download_url": "https://dl.smwcentral.net/32485/Hilltop%20Chase.zip",
+      "filename": "Hilltop Chase.zip",
+      "size": 56061,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21593,
+      "title": "Kirby Super Star - Hilltop Chase",
+      "version": "smwc-21593-1576187606",
+      "upstream_time": 1576187606,
+      "download_url": "https://dl.smwcentral.net/21593/KSSHilltop.zip",
+      "filename": "KSSHilltop.zip",
+      "size": 36683,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

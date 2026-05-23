@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-upside-down-ninji",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26669,
+  "title": "Upside-down Ninji",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "lorom",
+    "ninji",
+    "sa-1",
+    "upside down"
+  ],
+  "description": "This sprite is an upside-down Ninji.<br>\r\nYou can set the movement flag and individual jumping power.<br>\r\n<br>\r\nRequest from Anorakun.",
+  "latest_version": "smwc-26669-1625091982",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26669,
+      "title": "Upside-down Ninji",
+      "version": "smwc-26669-1625091982",
+      "upstream_time": 1625091982,
+      "download_url": "https://dl.smwcentral.net/26669/upside_ninji.zip",
+      "filename": "upside_ninji.zip",
+      "size": 2027,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

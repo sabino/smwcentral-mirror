@@ -1,0 +1,33 @@
+{
+  "name": "tools-lunar-helper-v1-2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 29164,
+  "title": "Lunar Helper v1.2.0",
+  "authors": [
+    "YMM",
+    "underway"
+  ],
+  "tags": [
+    "insert",
+    "inserter",
+    "insertion"
+  ],
+  "description": "<b><span style=\"color: #ff0000;\"><span style=\"font-size: 18pt;\">MOD NOTICE: THIS TOOL HAS BEEN SUPERSEDED BY <a href=\"https://smwc.me/t/125568\">callisto</a> AND HAS BEEN SUBSEQUENTLY DEPRECATED, ITS USAGE IS THUS UNSUPPORTED, IT REMAINS IN THE SECTION FOR ARCHIVAL PURPOSES ONLY. </span></span></b><br>\r\n<br>\r\nA small build system for SMW hacks originally written by Maddy Thorson. <br>\r\n<br>\r\nThis version is slightly modified by me (underway), but contains strictly more functionality than the original version.<br>\r\n<br>\r\nThis tool allows you to extract resources from your ROM and to then re-build it from those extracted resources.<br>\r\n<br>\r\nStep by step, what Lunar Helper's build process does is <br>\r\n<br>\r\n- Taking a clean SMW ROM<br>\r\n- Applying an initial .bps patch to it (two such base patches are now included in the download!)<br>\r\n- Running GPS and PIXI on it<br>\r\n- Applying your patches to it<br>\r\n- Running UberASM Tool on it<br>\r\n- Running AddmusicK on it<br>\r\n- Inserting various previously extracted SMW data (graphics, map16, overworld, title screen,  <br>\r\n  title screen moves etc.) into it<br>\r\n- Inserting previously extracted level files into it<br>\r\n<br>\r\nAs you can see, it basically takes a bunch of resources stored as individual files (i.e. all of your blocks, sprites, patches, graphics, levels, etc.) and creates a single fully functional hacked ROM from them. <br>\r\n<br>\r\nLunar Helper also offers convenient functionality for<br>\r\n<br>\r\n- Opening the built ROM in Lunar Magic<br>\r\n- Running it inside an emulator of your choice<br>\r\n- Inserting a test level into the built ROM on demand<br>\r\n<br>\r\nDetailed information on how to set the tool up can be found in the included readme.<br>\r\n<br>\r\nIf you encounter any bugs feel free to open an issue on my forked GitHub repo linked in the Website field above. I can't guarantee I will be able to help you, because I did not write this tool and am not very familiar with C#, but I might give it try if I feel like it and have the time. <br>\r\n<br>\r\nOf course anyone can always fork Maddy's or my repo and fix/implement things themselves as well.<br>\r\n<br>\r\nNote that my repo includes a different version of the tool in its main branch. If you want the exact source code for this version make sure you're in the \"standard_version\" branch.<br>\r\n<br>\r\nNote that the v1.2.0 version number was assigned by me and may differ from the \"official\" version number in Maddy's repo if she decides to tag versions at some point.<br>\r\n<br>\r\nVersion history:<br>\r\n<br>\r\nv1.2.0 - Adds \"human_readable_map16_directory_path\" config variable<br>\r\nv1.1.1 - Works around PIXI &lt;-&gt; Lunar Magic 3.31 conflict by doing a second pass of PIXI at the end of the build process if the Lunar Magic version specified in the \"lm_path\" config variable has a version number &gt;= 3.31<br>\r\nv1.1.0 - Adds support for human readable map16 format via the \"human_readble_map16_cli_path\" config variable",
+  "latest_version": "smwc-29164-1651551103",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 29164,
+      "title": "Lunar Helper v1.2.0",
+      "version": "smwc-29164-1651551103",
+      "upstream_time": 1651551103,
+      "download_url": "https://dl.smwcentral.net/29164/LunarHelper-v1.2.0.zip",
+      "filename": "LunarHelper-v1.2.0.zip",
+      "size": 11009813,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

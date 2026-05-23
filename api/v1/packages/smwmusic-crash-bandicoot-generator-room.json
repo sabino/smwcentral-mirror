@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-crash-bandicoot-generator-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36875,
+  "title": "Crash Bandicoot - Generator Room",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "ambient",
+    "cave",
+    "dark",
+    "ghost house",
+    "industrial",
+    "sewer",
+    "spooky"
+  ],
+  "description": "A dark and ambient theme that plays in the generator room level from Crash Bandicoot.<br>\r\n<br>\r\nUpdate (02/15): updated some samples",
+  "latest_version": "smwc-36875-1708661544",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36875,
+      "title": "Crash Bandicoot - Generator Room",
+      "version": "smwc-36875-1708661544",
+      "upstream_time": 1708661544,
+      "download_url": "https://dl.smwcentral.net/36875/CB%20-%20Generator%20Room.zip",
+      "filename": "CB - Generator Room.zip",
+      "size": 89413,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-eternal-emerald",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33119,
+  "title": "Eternal Emerald",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "bonus",
+    "chase",
+    "final",
+    "space"
+  ],
+  "description": "Fast-paced music that likely Sonic collecting 7 chaos emeralds to chase away in space. Could fit on the space and abstract levels.",
+  "latest_version": "smwc-33119-1682952936",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33119,
+      "title": "Eternal Emerald",
+      "version": "smwc-33119-1682952936",
+      "upstream_time": 1682952936,
+      "download_url": "https://dl.smwcentral.net/33119/Eternal%20Emerald.zip",
+      "filename": "Eternal Emerald.zip",
+      "size": 51887,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

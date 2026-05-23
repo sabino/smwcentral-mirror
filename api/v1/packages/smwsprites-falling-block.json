@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-falling-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23868,
+  "title": "Falling Block",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "block",
+    "enemy",
+    "falling",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "-Name of Sprite: Falling Block<br>\r\n-Author: yoshicookiezeus<br>\r\n-Generator: No<br>\r\n-Sprite Graphics File: SP4 (moving castle block tiles)<br>\r\n-Description: A 32x32 rideable block that falls to the floor when Mario approaches. Based on mikeyk's Thwomp and Megamole disassemblies.<br>\r\n<br>\r\nRequested by Kc.<br>\r\n<br>\r\n(Rykon-V73): Small changes: You can edit the GFX, tilemap and palette.<br>\r\nYou can also edit the 5 values mentioned in the .txt regarding gravity, Y speed, shaking timer, sound effect and bank, but my version has a better description.<br>\r\nNEW: You can also add a sound effect that happens after the falling block starts to fall. You'll need to decide. Should be easy.<br>\r\nAdded an SP3 version and converted the regular and the SP3 version to .json and added a .gif.",
+  "latest_version": "smwc-23868-1595028325",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23868,
+      "title": "Falling Block",
+      "version": "smwc-23868-1595028325",
+      "upstream_time": 1595028325,
+      "download_url": "https://dl.smwcentral.net/23868/FallingBlock.zip",
+      "filename": "FallingBlock.zip",
+      "size": 10776,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

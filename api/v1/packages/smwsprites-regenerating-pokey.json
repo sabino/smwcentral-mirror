@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-regenerating-pokey",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30197,
+  "title": "Regenerating Pokey",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "pokey",
+    "sa-1"
+  ],
+  "description": "This pokey regenerates its segments, so it must be destroyed quickly.",
+  "latest_version": "smwc-30197-1658693257",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30197,
+      "title": "Regenerating Pokey",
+      "version": "smwc-30197-1658693257",
+      "upstream_time": 1658693257,
+      "download_url": "https://dl.smwcentral.net/30197/Regen%20Pokey.zip",
+      "filename": "Regen Pokey.zip",
+      "size": 6278,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

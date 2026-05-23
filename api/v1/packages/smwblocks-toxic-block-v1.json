@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-toxic-block-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41115,
+  "title": "Toxic Block v1.01",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "hurt",
+    "lorom",
+    "sa-1",
+    "timer",
+    "uberasm needed"
+  ],
+  "description": "This block will activate a timer when it is touched by Mario, and then hurt/kill Mario when the timer runs out. The timer resets every time Mario isn't touching a toxic block. Also an 8x8 sprite indicator will appear near Mario when the timer is close to running out.<br>\r\nDepending on the \"Act as\", you could make toxic water, air, cement, etc.<br>\r\n<br>\r\nThe zip contains two files: one is the block asm, which contains some parameters that can be edited to what you want and then it must be inserted with GPS, and the other must be inserted with UberASMTool (as level asm or gamemode asm) to make the blocks work properly. More information can be found in those files.<br>\r\n<br>\r\nUpdate v1.01: the exclamation mark is now drawn accordingly to the direction that Mario is facing.",
+  "latest_version": "smwc-41115-1764223521",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41115,
+      "title": "Toxic Block v1.01",
+      "version": "smwc-41115-1764223521",
+      "upstream_time": 1764223521,
+      "download_url": "https://dl.smwcentral.net/41115/Toxic%20Block.zip",
+      "filename": "Toxic Block.zip",
+      "size": 3044,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

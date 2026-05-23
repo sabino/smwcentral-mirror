@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-cascades",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21208,
+  "title": "Cascades",
+  "authors": [
+    "Janno27"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice",
+    "overworld",
+    "water"
+  ],
+  "description": "Ravel/Zelda-like relaxed tune that could fit ice, cave and water levels or overworlds with these properties.",
+  "latest_version": "smwc-21208-1569542518",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21208,
+      "title": "Cascades",
+      "version": "smwc-21208-1569542518",
+      "upstream_time": 1569542518,
+      "download_url": "https://dl.smwcentral.net/21208/Cascades.zip",
+      "filename": "Cascades.zip",
+      "size": 34020,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

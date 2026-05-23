@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-wiggler",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18705,
+  "title": "Wiggler",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "enemy",
+    "forest",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of the Wiggler sprite (86), commented and ready to be inserted with PIXI. It also works on SA-1 roms. Use it with the \"forest\" spriteset.<br>\r\nIf the extra bit is set, it will spawn in the angry state. You can also change the number of segments using with the different .cfg files provided. Few other customizations are possible with the defines in the .asm file.<br>\r\n<br>\r\nNote: the death animation of the vanilla wiggler is handled by calling the sprite's main code even if its state is \"killed\". Without some kind of patch, this won't be done for this sprite, so the wiggler will usually disappear abruptly when killed (see the second screenshot).",
+  "latest_version": "smwc-18705-1545622595",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18705,
+      "title": "Wiggler",
+      "version": "smwc-18705-1545622595",
+      "upstream_time": 1545622595,
+      "download_url": "https://dl.smwcentral.net/18705/SMWSDIS%20-%20sprite%2086%20-%20Wiggler.zip",
+      "filename": "SMWSDIS - sprite 86 - Wiggler.zip",
+      "size": 6535,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

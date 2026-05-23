@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-viii-force-your-way",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29870,
+  "title": "Final Fantasy VIII - Force Your Way",
+  "authors": [
+    "FalseCircus"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "Boss fight music from Final Fantasy VIII.",
+  "latest_version": "smwc-29870-1650689991",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29870,
+      "title": "Final Fantasy VIII - Force Your Way",
+      "version": "smwc-29870-1650689991",
+      "upstream_time": 1650689991,
+      "download_url": "https://dl.smwcentral.net/29870/forceyourway.zip",
+      "filename": "forceyourway.zip",
+      "size": 71387,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

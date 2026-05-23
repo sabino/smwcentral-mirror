@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-invisible-question-mark-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 28852,
+  "title": "Invisible Question Mark Blocks",
+  "authors": [
+    "BlueToad"
+  ],
+  "tags": [
+    "block",
+    "invisible",
+    "item",
+    "lorom",
+    "question block",
+    "sa-1"
+  ],
+  "description": "Here's a simple invisible block whose contents can be changed to have a Yoshi, P-switch, shell, note block, on-off block, anything. Just set the act as to the one of the block you want to imitate.<br>\r\n<br>\r\nThis YouTube video has a demonstration as I was too lazy to make a GIF. https://youtu.be/2vrM0kxF7bE<br>\r\n<br>\r\nHave fun!!",
+  "latest_version": "smwc-28852-1645466272",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 28852,
+      "title": "Invisible Question Mark Blocks",
+      "version": "smwc-28852-1645466272",
+      "upstream_time": 1645466272,
+      "download_url": "https://dl.smwcentral.net/28852/invis.zip",
+      "filename": "invis.zip",
+      "size": 460,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

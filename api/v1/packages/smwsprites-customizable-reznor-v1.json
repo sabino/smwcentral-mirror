@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-customizable-reznor-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18880,
+  "title": "Customizable Reznor v1.2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "lorom",
+    "mode 7",
+    "reznor",
+    "sa-1"
+  ],
+  "description": "This is a custom Reznor sprite based on yoshicookiezeus's disassembly. I modified it to allow easy customizations of the Reznor boss fight, which include:<br>\r\n1) Edit the number of Reznors (up to 8);<br>\r\n2) Edit the position and radius of the circle;<br>\r\n3) Edit their rotation speed and direction;<br>\r\n4) Edit their fireball shooting behaviour (or remove it altogether);<br>\r\n5) Set that you can stop them from moving while a certain switch is active;<br>\r\n6) Set that the circle radius changes back and forth between two values;<br>\r\n7) Set the HP of each Reznor, so that they have to be hit more than once to be killed;<br>\r\n8) Set that Reznors can be damaged by thrown sprites (shells, keys, throw blocks...);<br>\r\n9) If the extra bit is set, when beating all the Reznors a door will appear instead of the level ending (for a boss rush?);<br>\r\n<br>\r\nAll information can be found in the readme file.<br>\r\n<br>\r\nUpdate v1.1:<br>\r\n - Fixed the bugs pointed out by RussianMan.<br>\r\n - Moved the defines to a separate file.<br>\r\n - Added some defines, and better position customization (you're not restricted anymore to screen 00).<br>\r\n - Added puff of smoke when the platforms disappear (the last screenshot doesn't show it because I'm too lazy to update it).<br>\r\n - Used PIXI's shared routines for aiming and rotation, and overall improvements in the code.<br>\r\n - Full SA-1 support.<br>\r\n<br>\r\nUpdate v1.2:<br>\r\n - Mode 7 support (with screenshot).<br>\r\n - Included a .pal file if you what to import the standard Reznor palette.",
+  "latest_version": "smwc-18880-1552169028",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18880,
+      "title": "Customizable Reznor v1.2",
+      "version": "smwc-18880-1552169028",
+      "upstream_time": 1552169028,
+      "download_url": "https://dl.smwcentral.net/18880/CustomReznor.zip",
+      "filename": "CustomReznor.zip",
+      "size": 18616,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-boards-of-canada-diving-station",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29398,
+  "title": "Boards of Canada - Diving Station",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cutscene",
+    "environmental",
+    "misc",
+    "night",
+    "overworld"
+  ],
+  "description": "Another ear-transcribed port of mine. The overall ambience is loyal to original, although performed with a different set of instruments/SFX, I found the noises from Chrono Trigger to be very fitting here.<br>\r\n<br>\r\nThe duration is shortened a bit as to not insist on the non-melody aspects of the song.<br>\r\n<br>\r\nIt is probably best fit for overworlds and cutscenes, but can also work in levels that have a timer shorter than the song... Which isn't really a problem either since I gave a loop after a short silence.<br>\r\n<br>\r\nIt has been showcase at C3 Winter 2022.",
+  "latest_version": "smwc-29398-1652461813",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29398,
+      "title": "Boards of Canada - Diving Station",
+      "version": "smwc-29398-1652461813",
+      "upstream_time": 1652461813,
+      "download_url": "https://dl.smwcentral.net/29398/diving_station_0_1.zip",
+      "filename": "diving_station_0_1.zip",
+      "size": 59162,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sonic-triple-trouble-sea-fox",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11982,
+  "title": "Sonic Triple Trouble - Sea Fox",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "A short, catchy song that would work best for happy, grassy Overworlds",
+  "latest_version": "smwc-11982-1444331965",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11982,
+      "title": "Sonic Triple Trouble - Sea Fox",
+      "version": "smwc-11982-1444331965",
+      "upstream_time": 1444331965,
+      "download_url": "https://dl.smwcentral.net/11982/Sea%20Fox.zip",
+      "filename": "Sea Fox.zip",
+      "size": 30526,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

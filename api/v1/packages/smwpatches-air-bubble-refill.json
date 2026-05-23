@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-air-bubble-refill",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14246,
+  "title": "Air Bubble Refill",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "air bubble",
+    "air meter",
+    "asar 2 remoderation",
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "This patch will allow water bubbles you see in underwater levels to refill the <a href=\"http://www.smwcentral.net/?p=section&a=details&id=13864\">air meter</a>.<br>\r\nThis patch will also disable the water bubbles that the player spawns in underwater levels so you need to spawn them with <a href=\"http://www.smwcentral.net/?p=section&a=details&id=14163\">this</a> or any other sprite that can spawn them.<br>\r\n<br>\r\nRequested by maro",
+  "latest_version": "smwc-14246-1475297545",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14246,
+      "title": "Air Bubble Refill",
+      "version": "smwc-14246-1475297545",
+      "upstream_time": 1475297545,
+      "download_url": "https://dl.smwcentral.net/14246/AirBubbleRefill.zip",
+      "filename": "AirBubbleRefill.zip",
+      "size": 917,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

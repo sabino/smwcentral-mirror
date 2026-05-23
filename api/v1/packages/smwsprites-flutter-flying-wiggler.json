@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-flutter-flying-wiggler",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16149,
+  "title": "Flutter / Flying Wiggler",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "forest",
+    "lorom",
+    "sa-1",
+    "smw2",
+    "wiggler",
+    "yoshi's island"
+  ],
+  "description": "A wiggler that behaves like the one from SMW2:YI. It flies forward in a sine wave, but when stomped, it gets mad and chases the player.<br>\r\n<br>\r\nThis sprite was part of smkdan's YI Sprite Pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16149-1504123315",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16149,
+      "title": "Flutter / Flying Wiggler",
+      "version": "smwc-16149-1504123315",
+      "upstream_time": 1504123315,
+      "download_url": "https://dl.smwcentral.net/16149/YIFlyingWiggler.zip",
+      "filename": "YIFlyingWiggler.zip",
+      "size": 5223,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

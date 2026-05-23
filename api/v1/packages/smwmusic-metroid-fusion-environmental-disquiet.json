@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-metroid-fusion-environmental-disquiet",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8334,
+  "title": "Metroid Fusion - Environmental Disquiet",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "ambient",
+    "cutscene",
+    "dark",
+    "night"
+  ],
+  "description": "formerly known as Before Serris Theme. Could fit potential dark and mysterious cutscenes.",
+  "latest_version": "smwc-8334-1350997817",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8334,
+      "title": "Metroid Fusion - Environmental Disquiet",
+      "version": "smwc-8334-1350997817",
+      "upstream_time": 1350997817,
+      "download_url": "https://dl.smwcentral.net/8334/MF%20-%20Envorimental%20Disquiet.zip",
+      "filename": "MF - Envorimental Disquiet.zip",
+      "size": 63084,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

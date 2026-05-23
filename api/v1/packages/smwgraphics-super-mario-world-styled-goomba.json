@@ -1,0 +1,56 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-goomba",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 41781,
+  "title": "Super Mario World Styled Goomba",
+  "authors": [
+    "Enzo999",
+    "zAce08xZ"
+  ],
+  "tags": [
+    "goomba",
+    "para-goomba"
+  ],
+  "description": "A custom Goomba in the style of Super Mario World, based on classic Goombas.<br>\r\n<br>\r\nincluded two versions:<br>\r\nThe first version changes the Galoomba GFX. (smw Goomba)<br>\r\nIf you want the stomp tile, you’ll need to use this small <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=246\">tweak</a>.<br>\r\n<br>\r\nThe second version is meant to be used with this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23199\">Sprite</a>.<br>\r\n<br>\r\nRipped from this <a href=\"https://mfgg.net/index.php?act=resdb&param=02&c=1&id=41726\" rel=\"nofollow\">sheet</a>.<br>\r\n<br>\r\nCredits to Enzo999",
+  "latest_version": "smwc-41781-1772847389",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 41781,
+      "title": "Super Mario World Styled Goomba",
+      "version": "smwc-41781-1772847389",
+      "upstream_time": 1772847389,
+      "download_url": "https://dl.smwcentral.net/41781/GoombaSMW.zip",
+      "filename": "GoombaSMW.zip",
+      "size": 11016,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 39474,
+      "title": "Super Mario World Styled Goomba",
+      "version": "smwc-39474-1743465282",
+      "upstream_time": 1743465282,
+      "download_url": "https://dl.smwcentral.net/39474/smwstyledgoomba.zip",
+      "filename": "smwstyledgoomba.zip",
+      "size": 9984,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 35214,
+      "title": "Super Mario World Styled Goomba",
+      "version": "smwc-35214-1696874969",
+      "upstream_time": 1696874969,
+      "download_url": "https://dl.smwcentral.net/35214/Super%20Mario%20World%20Styled%20Stompable%20Goomba.zip",
+      "filename": "Super Mario World Styled Stompable Goomba.zip",
+      "size": 4789,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

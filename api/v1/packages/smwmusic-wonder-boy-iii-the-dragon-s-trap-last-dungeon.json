@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wonder-boy-iii-the-dragon-s-trap-last-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38977,
+  "title": "Wonder Boy III - The Dragon's Trap - Last Dungeon",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "castle",
+    "ruins",
+    "upbeat"
+  ],
+  "description": "Upbeat song played in the first dungeon of Wonder Boy III. A slower version of this song is also played in the last dungeon of Wonder Boy II.",
+  "latest_version": "smwc-38977-1740265526",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38977,
+      "title": "Wonder Boy III - The Dragon's Trap - Last Dungeon",
+      "version": "smwc-38977-1740265526",
+      "upstream_time": 1740265526,
+      "download_url": "https://dl.smwcentral.net/38977/wb3lastdungeon.zip",
+      "filename": "wb3lastdungeon.zip",
+      "size": 48385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

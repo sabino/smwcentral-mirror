@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bandicoot-the-great-hall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36897,
+  "title": "Crash Bandicoot - The Great Hall",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "bonus",
+    "credits",
+    "final",
+    "night"
+  ],
+  "description": "A happy theme that plays in The Great Hall, the two endings and the credits sequence from Crash Bandicoot.<br>\r\n<br>\r\nUpdate (02/16): updated the tambourine sample",
+  "latest_version": "smwc-36897-1708707144",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36897,
+      "title": "Crash Bandicoot - The Great Hall",
+      "version": "smwc-36897-1708707144",
+      "upstream_time": 1708707144,
+      "download_url": "https://dl.smwcentral.net/36897/CB%20-%20The%20Great%20Hall.zip",
+      "filename": "CB - The Great Hall.zip",
+      "size": 76342,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

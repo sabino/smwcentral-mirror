@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-trials-of-mana-witchmakers",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15538,
+  "title": "Trials of Mana - Witchmakers",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "ice"
+  ],
+  "description": "(Also known as \"Seiken Densetsu 3\" in Japan)<br>\r\n<br>\r\nThe peaceful song that plays in Altena in Seiken Densetsu 3",
+  "latest_version": "smwc-15538-1493737018",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15538,
+      "title": "Trials of Mana - Witchmakers",
+      "version": "smwc-15538-1493737018",
+      "upstream_time": 1493737018,
+      "download_url": "https://dl.smwcentral.net/15538/Witchmakers.zip",
+      "filename": "Witchmakers.zip",
+      "size": 31815,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

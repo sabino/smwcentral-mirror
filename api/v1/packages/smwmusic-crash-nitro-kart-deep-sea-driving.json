@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-nitro-kart-deep-sea-driving",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38442,
+  "title": "Crash Nitro Kart - Deep Sea Driving",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "ruins",
+    "water"
+  ],
+  "description": "A fast paced but also somewhat relaxing theme that plays in Deep Sea Driving, an underwater track from Crash Nitro Kart.<br>\r\n<br>\r\nYou can define in the .txt file which variation you want to use:<br>\r\n0 - Default in-game version<br>\r\n1 - Extended OST version (3:01, 0x0EA4)<br>\r\n2 - In-game version but with the addition of the drum intro from CTR Nitro-Fueled (0x0C24)<br>\r\n<br>\r\nNote: By default, all versions of this song are incompatible with thunder, blargg and Yoshi sound effects and the vanilla bonus end jingle. You can disable the echo in the txt file to make them compatible.",
+  "latest_version": "smwc-38442-1732576519",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38442,
+      "title": "Crash Nitro Kart - Deep Sea Driving",
+      "version": "smwc-38442-1732576519",
+      "upstream_time": 1732576519,
+      "download_url": "https://dl.smwcentral.net/38442/CNK%20-%20Deep%20Sea%20Driving.zip",
+      "filename": "CNK - Deep Sea Driving.zip",
+      "size": 367885,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

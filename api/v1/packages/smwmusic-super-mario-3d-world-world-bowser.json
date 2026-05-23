@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-3d-world-world-bowser",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11467,
+  "title": "Super Mario 3D World - World Bowser",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "carnival",
+    "overworld"
+  ],
+  "description": "Music from Super Mario 3D World, could fit carnival overworlds or levels.",
+  "latest_version": "smwc-11467-1435117968",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11467,
+      "title": "Super Mario 3D World - World Bowser",
+      "version": "smwc-11467-1435117968",
+      "upstream_time": 1435117968,
+      "download_url": "https://dl.smwcentral.net/11467/bowser%20world.zip",
+      "filename": "bowser world.zip",
+      "size": 72899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

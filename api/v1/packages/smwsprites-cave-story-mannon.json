@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-cave-story-mannon",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3682,
+  "title": "Cave Story - Mannon",
+  "authors": [
+    "undefinied3"
+  ],
+  "tags": [
+    "cave story",
+    "lorom",
+    "sa-1",
+    "tomb"
+  ],
+  "description": "The tomb that appears in Grass Town level from Cave Story.<br>\r\nGraphics, palette and the projectile that it shoots included. Extra bit controls FIXED direction.<br>\r\nGive credits if used.<br>\r\n<br>\r\nThe error in the CFG is fixed now.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3682-1311196322",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3682,
+      "title": "Cave Story - Mannon",
+      "version": "smwc-3682-1311196322",
+      "upstream_time": 1311196322,
+      "download_url": "https://dl.smwcentral.net/3682/Mannon.zip",
+      "filename": "Mannon.zip",
+      "size": 6048,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

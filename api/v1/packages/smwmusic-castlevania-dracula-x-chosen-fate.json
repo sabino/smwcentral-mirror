@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castlevania-dracula-x-chosen-fate",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28575,
+  "title": "Castlevania: Dracula X - Chosen Fate",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "cutscene",
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "Useful for Nintendo Presents screens.",
+  "latest_version": "smwc-28575-1638073582",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28575,
+      "title": "Castlevania: Dracula X - Chosen Fate",
+      "version": "smwc-28575-1638073582",
+      "upstream_time": 1638073582,
+      "download_url": "https://dl.smwcentral.net/28575/Chosen%20Fate.zip",
+      "filename": "Chosen Fate.zip",
+      "size": 65275,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

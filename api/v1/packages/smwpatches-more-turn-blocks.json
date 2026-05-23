@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-more-turn-blocks",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 39028,
+  "title": "More Turn Blocks",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "bounce sprites",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch allows for a configurable amount of turn blocks to be able to turn at once instead of the usual 4. This is done by creating a system apart from the bounce sprites system to handle them.<br>\r\n<br>\r\nRequires some amount of free RAM for each simultaneous turning block.",
+  "latest_version": "smwc-39028-1738465248",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 39028,
+      "title": "More Turn Blocks",
+      "version": "smwc-39028-1738465248",
+      "upstream_time": 1738465248,
+      "download_url": "https://dl.smwcentral.net/39028/moreturnblocks.zip",
+      "filename": "moreturnblocks.zip",
+      "size": 2476,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

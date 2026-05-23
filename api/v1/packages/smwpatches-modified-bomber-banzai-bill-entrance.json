@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-modified-bomber-banzai-bill-entrance",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41746,
+  "title": "Modified Bomber/Banzai Bill Entrance",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "banzai bill",
+    "bomber bill",
+    "lorom",
+    "sa-1",
+    "sfx"
+  ],
+  "description": "This patch modifies the entrance Bomber/Banzai Bills make by adding a quake effect whenever it appears.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
+  "latest_version": "smwc-41746-1772058091",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41746,
+      "title": "Modified Bomber/Banzai Bill Entrance",
+      "version": "smwc-41746-1772058091",
+      "upstream_time": 1772058091,
+      "download_url": "https://dl.smwcentral.net/41746/Modified%20Bomber%20Banzai%20Bill%20Entrance.zip",
+      "filename": "Modified Bomber Banzai Bill Entrance.zip",
+      "size": 736,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-custom-scales-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25979,
+  "title": "Custom Scales v1.0 (+ Disassembly)",
+  "authors": [
+    "Ice Man",
+    "Von Fahrenheit"
+  ],
+  "tags": [
+    "custom",
+    "disassembly",
+    "hybrid",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This is a customizable version of the scale platforms found in SMW, based off the disassembly by Ice Man. Setting the extra bit will make it behave like the platforms in SMB1, generating tiles above the sprite instead of under it. For both versions, you can define which blocks it should generate as the connective tile and as the \"empty\" tile. You can also choose what tile to use for the sprite part of the platform, so it's very flexible.<br>\r\n<br>\r\nAlso includes the unmodified disassembly.<br>\r\n<br>\r\nRequested for the Strongest Sprite Workshop 2020 by CosmicTiff",
+  "latest_version": "smwc-25979-1612892910",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25979,
+      "title": "Custom Scales v1.0 (+ Disassembly)",
+      "version": "smwc-25979-1612892910",
+      "upstream_time": 1612892910,
+      "download_url": "https://dl.smwcentral.net/25979/CustomScales%2BDis.zip",
+      "filename": "CustomScales+Dis.zip",
+      "size": 6587,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

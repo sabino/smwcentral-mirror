@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-final-fantasy-vi-the-serpent-trench",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39222,
+  "title": "Final Fantasy VI - The Serpent Trench",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "athletic",
+    "mountain",
+    "overworld",
+    "sky",
+    "water"
+  ],
+  "description": "An adventurous theme from Final Fantasy VI.",
+  "latest_version": "smwc-39222-1740771424",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39222,
+      "title": "Final Fantasy VI - The Serpent Trench",
+      "version": "smwc-39222-1740771424",
+      "upstream_time": 1740771424,
+      "download_url": "https://dl.smwcentral.net/39222/FF6SERPENT.zip",
+      "filename": "FF6SERPENT.zip",
+      "size": 31260,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13328,
+      "title": "Final Fantasy VI - The Serpent Trench",
+      "version": "smwc-13328-1456617979",
+      "upstream_time": 1456617979,
+      "download_url": "https://dl.smwcentral.net/13328/The%20Serpent%20Trench.zip",
+      "filename": "The Serpent Trench.zip",
+      "size": 49833,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

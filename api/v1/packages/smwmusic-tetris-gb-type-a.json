@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tetris-gb-type-a",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34042,
+  "title": "Tetris (GB) - Type A",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "bonus",
+    "retro"
+  ],
+  "description": "The iconic Type A theme from Tetris on the Gameboy.",
+  "latest_version": "smwc-34042-1692892990",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34042,
+      "title": "Tetris (GB) - Type A",
+      "version": "smwc-34042-1692892990",
+      "upstream_time": 1692892990,
+      "download_url": "https://dl.smwcentral.net/34042/Tetris%20%28GB%29%20-%20Type%20A.zip",
+      "filename": "Tetris (GB) - Type A.zip",
+      "size": 36275,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

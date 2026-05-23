@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-boom-guy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3527,
+  "title": "Boom Guy",
+  "authors": [
+    "Blind Devil",
+    "deffon1993"
+  ],
+  "tags": [
+    "bullet bill",
+    "cannon",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "shyguy"
+  ],
+  "description": "This is the Boom Guy, based off of the one from M&LPiT. It's a Shyguy that walks around, shooting Bullet Bills with its cannon. When it's about to die, it loses its cannon and tries to flee.",
+  "latest_version": "smwc-3527-1260458315",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3527,
+      "title": "Boom Guy",
+      "version": "smwc-3527-1260458315",
+      "upstream_time": 1260458315,
+      "download_url": "https://dl.smwcentral.net/3527/MLPITBoomGuy.zip",
+      "filename": "MLPITBoomGuy.zip",
+      "size": 7473,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

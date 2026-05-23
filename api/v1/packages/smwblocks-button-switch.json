@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-button-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 37551,
+  "title": "Button Switch",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "button",
+    "lorom",
+    "sa-1",
+    "sprite needed",
+    "switch"
+  ],
+  "description": "This pack includes an ON/OFF (or custom, if the address is configured) switch. Once Mario or a sprite steps on it, the switch status will change and bounce Mario up.<br>\r\nIncludes a custom sprite.<br>\r\n<br>\r\n---<br>\r\n<br>\r\nv1.1<br>\r\nFile weight reduction.<br>\r\nv1.2<br>\r\nCompatible with SA1<br>\r\nalso contact to sprites",
+  "latest_version": "smwc-37551-1735003821",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 37551,
+      "title": "Button Switch",
+      "version": "smwc-37551-1735003821",
+      "upstream_time": 1735003821,
+      "download_url": "https://dl.smwcentral.net/37551/button_switch.zip",
+      "filename": "button_switch.zip",
+      "size": 5920,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

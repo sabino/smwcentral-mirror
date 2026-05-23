@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pastel-wind",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11331,
+  "title": "Pastel Wind",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "ice",
+    "mountain",
+    "sky",
+    "space"
+  ],
+  "description": "Written for and inspired by Izuna/Harumi Makoto's VLDC level \"Trunk Trouble\".<br>\r\n<br>\r\n<br>\r\nMOD EDIT 2023-01-18: Added #path and sample folder.",
+  "latest_version": "smwc-11331-1433612358",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11331,
+      "title": "Pastel Wind",
+      "version": "smwc-11331-1433612358",
+      "upstream_time": 1433612358,
+      "download_url": "https://dl.smwcentral.net/11331/Pastel%20Wind.zip",
+      "filename": "Pastel Wind.zip",
+      "size": 48604,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bouncing-rex",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18928,
+  "title": "Bouncing Rex",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "rex",
+    "sa-1"
+  ],
+  "description": "This is a Rex that bounces around like the bouncing Parakoopa. The extra bit determines its bouncing height.",
+  "latest_version": "smwc-18928-1547338564",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18928,
+      "title": "Bouncing Rex",
+      "version": "smwc-18928-1547338564",
+      "upstream_time": 1547338564,
+      "download_url": "https://dl.smwcentral.net/18928/Bouncing%20Rex.zip",
+      "filename": "Bouncing Rex.zip",
+      "size": 3718,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

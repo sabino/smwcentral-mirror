@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-loop-hero-cosmic-temperance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38026,
+  "title": "Loop Hero - Cosmic Temperance",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "chase",
+    "dark",
+    "tense"
+  ],
+  "description": "The lich portal appears...",
+  "latest_version": "smwc-38026-1723740662",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38026,
+      "title": "Loop Hero - Cosmic Temperance",
+      "version": "smwc-38026-1723740662",
+      "upstream_time": 1723740662,
+      "download_url": "https://dl.smwcentral.net/38026/cosmictemperance.zip",
+      "filename": "cosmictemperance.zip",
+      "size": 58803,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-a-plumber-for-all-seasons-turnings-of-the-season",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32326,
+  "title": "A Plumber For All Seasons - Turnings of the Season",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "grassland",
+    "overworld"
+  ],
+  "description": "A quick overworld ditty",
+  "latest_version": "smwc-32326-1666872681",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32326,
+      "title": "A Plumber For All Seasons - Turnings of the Season",
+      "version": "smwc-32326-1666872681",
+      "upstream_time": 1666872681,
+      "download_url": "https://dl.smwcentral.net/32326/dmajor.zip",
+      "filename": "dmajor.zip",
+      "size": 34316,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

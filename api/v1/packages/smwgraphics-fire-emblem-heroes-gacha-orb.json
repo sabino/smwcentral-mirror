@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-fire-emblem-heroes-gacha-orb",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 28633,
+  "title": "Fire Emblem Heroes - Gacha Orb",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "goal orb"
+  ],
+  "description": "Evil gacha orbs that are used in the mobile game Fire Emblem Heroes. Debuted in my QLDC level, where I make a subtle critique about gacha hell and stuff. Per default, I've put it in the orb sprite (4A), but you can use it anywhere. Be aware that if you want to use in sprites like a Football, you need to use Tweaker or a disassembly to change the palette.<br>\r\n<br>\r\nI did my best to reduce the colors of this orb, since it's a highly detailed PNG. I've reduced the image and then, passed SNESGFX to reduce its colors. Falconpunch did some slight adjustments to make the orb round.<br>\r\n<br>\r\nCredit would be great, but is optional.",
+  "latest_version": "smwc-28633-1634961541",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 28633,
+      "title": "Fire Emblem Heroes - Gacha Orb",
+      "version": "smwc-28633-1634961541",
+      "upstream_time": 1634961541,
+      "download_url": "https://dl.smwcentral.net/28633/FEH%20-%20Gacha%20Orb.zip",
+      "filename": "FEH - Gacha Orb.zip",
+      "size": 3007,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

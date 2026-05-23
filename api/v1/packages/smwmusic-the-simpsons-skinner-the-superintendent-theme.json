@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-simpsons-skinner-the-superintendent-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22117,
+  "title": "The Simpsons - Skinner & the Superintendent Theme",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "game over",
+    "goal",
+    "misc",
+    "title"
+  ],
+  "description": "The song from <i>The Simpsons</i> about Skinner with his crazy explanations.<br>\r\n<br>\r\nThis supports both the version with and without the goal whistle. If you want to turn it on, open the .txt file, look for the line \"#define GoalPost 0\", and change the number to \"1\".",
+  "latest_version": "smwc-22117-1581816039",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22117,
+      "title": "The Simpsons - Skinner & the Superintendent Theme",
+      "version": "smwc-22117-1581816039",
+      "upstream_time": 1581816039,
+      "download_url": "https://dl.smwcentral.net/22117/Skinner%20and%20the%20Superintendent%20Version%201.11.zip",
+      "filename": "Skinner and the Superintendent Version 1.11.zip",
+      "size": 61955,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

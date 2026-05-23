@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-no-overworld-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39756,
+  "title": "No Overworld v1.3",
+  "authors": [
+    "Brolencho"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "Originally inspired by a resource from <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span>, and does pretty much the same thing: disables returning to overworld after beating levels and instead has the player go through levels in a sequence, either in numerical order or in an order defined by you.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v1.3 (by AmperSam)<br>\r\n- made compatible with UberASM Tool 2.0<br>\r\n- dropped the 'global_code' instructions in favour of gamemode<br>\r\n- generally made the options and instructions more understandable and readable<br>\r\n<br>\r\nv1.2<br>\r\n- Fixed crash with retry patch<br>\r\n- Fixed graphic issue when using \"VWF intro 1.22\"<br>\r\n- Fixed Player 2 compatiblity with \"Exit Block (no OW events)\" and \"Door exit\"<br>\r\n- More info for coders.txt<br>\r\n<br>\r\nThanks to Darolac for pointing some of these issues and testing.<br>\r\n<br>\r\nv1.1<br>\r\n- Supports two players<br>\r\n- Secret exits(advanced mode)<br>\r\n- various fixes<br>\r\n- clean.asm is now integrated in NoOverworld.asm</div></div>",
+  "latest_version": "smwc-39756-1772229699",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39756,
+      "title": "No Overworld v1.3",
+      "version": "smwc-39756-1772229699",
+      "upstream_time": 1772229699,
+      "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
+      "filename": "No Overworld v1.3.zip",
+      "size": 8750,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

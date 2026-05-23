@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-new-super-mario-bros-wii-level-intro",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20151,
+  "title": "New Super Mario Bros Wii - Level Intro",
+  "authors": [
+    "undefinied3"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "mario start",
+    "sa-1"
+  ],
+  "description": "This patch adds the classic NSMBW's Level Intro, where both your Lives and a simple level preview appear. The Readme explains everything you need to know for proper insertion and how to configure every possible aspect in this patch.<br>\r\n<br>\r\nThis zip comes with lots of files but you should apply only NSMBWLevIntro.asm.<br>\r\n<br>\r\nGive credit if used.",
+  "latest_version": "smwc-20151-1559968673",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20151,
+      "title": "New Super Mario Bros Wii - Level Intro",
+      "version": "smwc-20151-1559968673",
+      "upstream_time": 1559968673,
+      "download_url": "https://dl.smwcentral.net/20151/NSMBW-LevIntro.zip",
+      "filename": "NSMBW-LevIntro.zip",
+      "size": 15317,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

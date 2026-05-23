@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-castlevania-symphony-of-the-night-lost-painting",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29854,
+  "title": "Castlevania: Symphony of the Night - Lost Painting",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "chase",
+    "final",
+    "night",
+    "tense"
+  ],
+  "description": "This is my drum and bass uptempo remix of Lost Painting from Castlevania Symphony of the Night. <br>\r\n<br>\r\nThe loop for this track is over 90 seconds, so it's a nice port to use in difficult and fast-paced levels that might require the player to be there for 30 minutes.",
+  "latest_version": "smwc-29854-1650315556",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29854,
+      "title": "Castlevania: Symphony of the Night - Lost Painting",
+      "version": "smwc-29854-1650315556",
+      "upstream_time": 1650315556,
+      "download_url": "https://dl.smwcentral.net/29854/LostPainting.zip",
+      "filename": "LostPainting.zip",
+      "size": 69991,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

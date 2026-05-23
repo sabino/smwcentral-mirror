@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-floating-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4318,
+  "title": "Floating Patch ",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "This version contains 2 different Floating Patches, and every patch has 4 setings for the animation.<br>\r\n<br>\r\nThis version also fixes errors and cuts the code.",
+  "latest_version": "smwc-4318-1267854059",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4318,
+      "title": "Floating Patch ",
+      "version": "smwc-4318-1267854059",
+      "upstream_time": 1267854059,
+      "download_url": "https://dl.smwcentral.net/4318/Float.zip",
+      "filename": "Float.zip",
+      "size": 7574,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

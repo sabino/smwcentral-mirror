@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shooting-macross-water-factory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15520,
+  "title": "Shooting Macross - Water Factory",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "industrial",
+    "space",
+    "water"
+  ],
+  "description": "An intense song suitable for factory or industrial settings. Originally ported at SNN's request.",
+  "latest_version": "smwc-15520-1493587570",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15520,
+      "title": "Shooting Macross - Water Factory",
+      "version": "smwc-15520-1493587570",
+      "upstream_time": 1493587570,
+      "download_url": "https://dl.smwcentral.net/15520/water_factory_.zip",
+      "filename": "water_factory_.zip",
+      "size": 51856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

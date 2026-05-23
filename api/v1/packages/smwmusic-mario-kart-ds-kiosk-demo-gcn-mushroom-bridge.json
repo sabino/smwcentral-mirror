@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-mario-kart-ds-kiosk-demo-gcn-mushroom-bridge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31431,
+  "title": "Mario Kart DS (Kiosk Demo) - GCN Mushroom Bridge",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "industrial",
+    "mountain",
+    "sewer",
+    "temple",
+    "town",
+    "urban"
+  ],
+  "description": "The horn-honking song from everybody's favourite orange bridge, and my entry to 120hoSPC #9.<br>\r\n<br>\r\nThe challenge was to port a song from a sixth-generation console (so the GameCube, for this song). But, why transcribe everything from scratch when I can just rip the note data from the almost-identical-save-for-a-few-grace-notes version from the Mario Kart DS prototype? It's actually different from the final MKDS version too!",
+  "latest_version": "smwc-31431-1663856225",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31431,
+      "title": "Mario Kart DS (Kiosk Demo) - GCN Mushroom Bridge",
+      "version": "smwc-31431-1663856225",
+      "upstream_time": 1663856225,
+      "download_url": "https://dl.smwcentral.net/31431/fungus%20district.zip",
+      "filename": "fungus district.zip",
+      "size": 34493,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-danmaku-generator",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3599,
+  "title": "Danmaku Generator",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "bullet",
+    "danger",
+    "danmaku",
+    "enemy",
+    "lorom",
+    "pattern",
+    "sa-1",
+    "touhou"
+  ],
+  "description": "A sprite that spawns a configurable number of customizable bullet patterns around Mario. The bullets stay still for a moment and then start moving in the direction they are pointing in. After the sprite has gone through all the patterns, it explodes.<br>\r\n<br>\r\nSee the ASM file for more information on how to set up the patterns.",
+  "latest_version": "smwc-3599-1278166942",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3599,
+      "title": "Danmaku Generator",
+      "version": "smwc-3599-1278166942",
+      "upstream_time": 1278166942,
+      "download_url": "https://dl.smwcentral.net/3599/Danmaku%20Generator.zip",
+      "filename": "Danmaku Generator.zip",
+      "size": 5183,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

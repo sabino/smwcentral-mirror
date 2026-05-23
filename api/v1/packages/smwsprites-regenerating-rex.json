@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-regenerating-rex",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30198,
+  "title": "Regenerating Rex",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "rex",
+    "sa-1"
+  ],
+  "description": "This rex regenerates when stomped to become un-stomped. So it can't be killed by normal stomps but can be killed in other ways.",
+  "latest_version": "smwc-30198-1652833769",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30198,
+      "title": "Regenerating Rex",
+      "version": "smwc-30198-1652833769",
+      "upstream_time": 1652833769,
+      "download_url": "https://dl.smwcentral.net/30198/Regen%20Rex.zip",
+      "filename": "Regen Rex.zip",
+      "size": 5482,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

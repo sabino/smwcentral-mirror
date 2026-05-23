@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-moneybags",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28860,
+  "title": "Moneybags",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "coin",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a recreation of the Moneybags enemy originally found in Super Mario 64, and later seen in New Super Mario Bros. The Moneybags will look like a coin and remain stationary, but once the player gets too close, it will reveal it's true form and start bouncing away from or towards the player. When defeated, Moneybags will disappear in a puff of smoke and award coins (either directly or by spawning coin sprites).<br>\r\n<br>\r\nThere are a lot of customization options. See the .asm file for all features, details of the extra byte usage and defines.<br>\r\n<br>\r\nIncludes a custom version of the Moving Coin sprite (the vanilla uses hardcoded speeds). Also contains graphics which replace the Flyin' Hammer Brother in SP3.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Black Goku\"><a href=\"/?p=profile&amp;id=48112\" style=\"color: var(--user-color-2);\" class=\"un\">Black Goku</a></span>.",
+  "latest_version": "smwc-28860-1649608488",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28860,
+      "title": "Moneybags",
+      "version": "smwc-28860-1649608488",
+      "upstream_time": 1649608488,
+      "download_url": "https://dl.smwcentral.net/28860/Moneybags.zip",
+      "filename": "Moneybags.zip",
+      "size": 14413,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

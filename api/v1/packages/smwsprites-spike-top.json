@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-spike-top",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3614,
+  "title": "Spike Top",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of the Spike Top, sprite 2E in SMW.<br>\r\nWhen the extra bit is set it can start on the ceiling as well.<br>\r\n<i>Andy's Note: You are my hero!</i>",
+  "latest_version": "smwc-3614-1277326443",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3614,
+      "title": "Spike Top",
+      "version": "smwc-3614-1277326443",
+      "upstream_time": 1277326443,
+      "download_url": "https://dl.smwcentral.net/3614/SMWSDIS%20-%20sprite%202E%20-%20Spike%20Top%20bugfix.zip",
+      "filename": "SMWSDIS - sprite 2E - Spike Top bugfix.zip",
+      "size": 2445,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

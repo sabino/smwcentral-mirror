@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-megas-xlr-chicks-dig-giant-robots",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8326,
+  "title": "Megas XLR - Chicks Dig Giant Robots",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "cutscene",
+    "final",
+    "fire"
+  ],
+  "description": "A heavy and epic song, which could work great for boss fights or areas filled with fire. It could also work for a nice chase scene or a cutscene.",
+  "latest_version": "smwc-8326-1350171525",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8326,
+      "title": "Megas XLR - Chicks Dig Giant Robots",
+      "version": "smwc-8326-1350171525",
+      "upstream_time": 1350171525,
+      "download_url": "https://dl.smwcentral.net/8326/GiantRobots.zip",
+      "filename": "GiantRobots.zip",
+      "size": 66382,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

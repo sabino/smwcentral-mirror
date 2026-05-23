@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-yoshi-s-island-ds-wildlands",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31233,
+  "title": "Yoshi's Island DS - Wildlands",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "grassland",
+    "mountain",
+    "town"
+  ],
+  "description": "This is the Wildlands theme from Yoshi's Island DS, also known as by far the best song in the game.  It plays in 2-3 and 5-2.  It would work well for athletic levels, particularly ones with a desert or Western flair.",
+  "latest_version": "smwc-31233-1668683046",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31233,
+      "title": "Yoshi's Island DS - Wildlands",
+      "version": "smwc-31233-1668683046",
+      "upstream_time": 1668683046,
+      "download_url": "https://dl.smwcentral.net/31233/Yoshi%27s%20Island%20DS%20-%20Wildlands.zip",
+      "filename": "Yoshi%27s Island DS - Wildlands.zip",
+      "size": 34923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30139,
+      "title": "Yoshi's Island DS - Wildlands",
+      "version": "smwc-30139-1658797074",
+      "upstream_time": 1658797074,
+      "download_url": "https://dl.smwcentral.net/30139/Wildlands.zip",
+      "filename": "Wildlands.zip",
+      "size": 95999,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sonic-cd-jp-eu-wacky-workbench-zone-bad-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17386,
+  "title": "Sonic CD (JP/EU) - Wacky Workbench Zone (Bad Future)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "industrial",
+    "tense"
+  ],
+  "description": "A fairly frantic theme from Sonic CD that could fit some kind of a self-destructing factory/tower/castle or whatever facility that can self destruct, or just factories/towers/castles in general.<br>\r\n<br>\r\n*extremely robotic voice* GRAB THE ONIONS<br>\r\nYOU SUGGESTED LETTUCE<br>\r\nGRAB THE ONIONS<br>\r\nJUUUUUUUICE<br>\r\n<br>\r\nUpdate: Fixed the tunings of some samples, changed the string sample in #6, fixed the desync that was happening at 0:49, and added legato to the jazz guitar sample along with $F4 $02 to make it smoother.",
+  "latest_version": "smwc-17386-1523602457",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17386,
+      "title": "Sonic CD (JP/EU) - Wacky Workbench Zone (Bad Future)",
+      "version": "smwc-17386-1523602457",
+      "upstream_time": 1523602457,
+      "download_url": "https://dl.smwcentral.net/17386/Sonic%20CD%20%28JP%29%20-%20Wacky%20Workbench%20%28Bad%20Future%29.zip",
+      "filename": "Sonic CD (JP) - Wacky Workbench (Bad Future).zip",
+      "size": 83011,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

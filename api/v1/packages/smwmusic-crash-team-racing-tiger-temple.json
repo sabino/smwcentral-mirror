@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-team-racing-tiger-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38508,
+  "title": "Crash Team Racing - Tiger Temple",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "jungle",
+    "night",
+    "ruins",
+    "temple"
+  ],
+  "description": "A tribal rock theme that plays in Tiger Temple, a stormy jungle temple track.<br>\r\n<br>\r\nYou can define in the .txt file if you want to use the normal version or the pre-console version which is slightly longer.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38508-1726853553",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38508,
+      "title": "Crash Team Racing - Tiger Temple",
+      "version": "smwc-38508-1726853553",
+      "upstream_time": 1726853553,
+      "download_url": "https://dl.smwcentral.net/38508/CTR%20-%20Tiger%20Temple.zip",
+      "filename": "CTR - Tiger Temple.zip",
+      "size": 204837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

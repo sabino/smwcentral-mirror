@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-blazblue-under-heaven-destruction",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27244,
+  "title": "BlazBlue - Under Heaven Destruction (V2)",
+  "authors": [
+    "Beruga1990"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "fire",
+    "industrial",
+    "night"
+  ],
+  "description": "\"Under Heaven Destruction\" is the main VS. battle theme for Ragna the Bloodedge and Jin Kisaragi in the BlazBlue series. I have now split both versions and this version includes more guitar samples.",
+  "latest_version": "smwc-27244-1625041861",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27244,
+      "title": "BlazBlue - Under Heaven Destruction (V2)",
+      "version": "smwc-27244-1625041861",
+      "upstream_time": 1625041861,
+      "download_url": "https://dl.smwcentral.net/27244/BlazBlue%20-%20Under%20Heaven%20Destruction.zip",
+      "filename": "BlazBlue - Under Heaven Destruction.zip",
+      "size": 62921,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27144,
+      "title": "BlazBlue - Under Heaven Destruction",
+      "version": "smwc-27144-1624955740",
+      "upstream_time": 1624955740,
+      "download_url": "https://dl.smwcentral.net/27144/BlazBlue%20-%20Under%20Heaven%20Destruction.zip",
+      "filename": "BlazBlue - Under Heaven Destruction.zip",
+      "size": 66645,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

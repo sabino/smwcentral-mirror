@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-suikoden-ii-gothic-neclord",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34094,
+  "title": "Suikoden II - Gothic Neclord",
+  "authors": [
+    "SviSvi"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "ghost house",
+    "spooky",
+    "tense"
+  ],
+  "description": "Spooky/gothic song using organs and synthesizers. From a battle against a vampire.<br>\r\n<br>\r\nUpdate: I changed the samples and added some parts.",
+  "latest_version": "smwc-34094-1696138769",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34094,
+      "title": "Suikoden II - Gothic Neclord",
+      "version": "smwc-34094-1696138769",
+      "upstream_time": 1696138769,
+      "download_url": "https://dl.smwcentral.net/34094/Gothic%20Neclord.zip",
+      "filename": "Gothic Neclord.zip",
+      "size": 61311,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

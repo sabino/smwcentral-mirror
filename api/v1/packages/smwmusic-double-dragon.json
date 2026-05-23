@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-double-dragon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35644,
+  "title": "Double Dragon 2 - The Fight Continues ~SNES Arrange~",
+  "authors": [
+    "FantasticFox"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "mountain"
+  ],
+  "description": "Originally ported for 120ho SPC #11, this piece landed in 12th place. I've made significant improvements since that submission and I hope you like it.<br>\r\n<br>\r\n1.1: Fixed desync",
+  "latest_version": "smwc-35644-1703709311",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35644,
+      "title": "Double Dragon 2 - The Fight Continues ~SNES Arrange~",
+      "version": "smwc-35644-1703709311",
+      "upstream_time": 1703709311,
+      "download_url": "https://dl.smwcentral.net/35644/DD2%20The%20Fight%20Continues.zip",
+      "filename": "DD2 The Fight Continues.zip",
+      "size": 50266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33912,
+      "title": "Double Dragon 3 - China",
+      "version": "smwc-33912-1691255635",
+      "upstream_time": 1691255635,
+      "download_url": "https://dl.smwcentral.net/33912/Double%20Dragon%203%20-%20China.zip",
+      "filename": "Double Dragon 3 - China.zip",
+      "size": 31822,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

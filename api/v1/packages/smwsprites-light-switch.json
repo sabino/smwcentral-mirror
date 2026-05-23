@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-light-switch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3457,
+  "title": "Light Switch",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "switch"
+  ],
+  "description": "This is the light switch from Bowser's castle, ported as a custom sprite and ready to be inserted and customized.<br>\r\n<br>\r\nThis only works when sprite $C6 (dark room sprite) is in the room, but you can easily disable that.",
+  "latest_version": "smwc-3457-1251385046",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3457,
+      "title": "Light Switch",
+      "version": "smwc-3457-1251385046",
+      "upstream_time": 1251385046,
+      "download_url": "https://dl.smwcentral.net/3457/Light%20switch.zip",
+      "filename": "Light switch.zip",
+      "size": 1573,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

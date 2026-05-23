@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-sonic-3-knuckles-marble-garden-zone-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 31785,
+  "title": "Sonic 3 & Knuckles - Marble Garden Zone (Act 1)",
+  "authors": [
+    "NopeContest"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "mountain",
+    "ruins"
+  ],
+  "description": "A background fitting a place lost to time, from the third level of Sonic 3 & Knuckles.",
+  "latest_version": "smwc-31785-1660245929",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 31785,
+      "title": "Sonic 3 & Knuckles - Marble Garden Zone (Act 1)",
+      "version": "smwc-31785-1660245929",
+      "upstream_time": 1660245929,
+      "download_url": "https://dl.smwcentral.net/31785/marblegarden.zip",
+      "filename": "marblegarden.zip",
+      "size": 4592,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 31764,
+      "title": "Sonic 3 & Knuckles - Marble Garden Zone (Act 2)",
+      "version": "smwc-31764-1659726631",
+      "upstream_time": 1659726631,
+      "download_url": "https://dl.smwcentral.net/31764/Sonic%203%20-%20MGZA2.zip",
+      "filename": "Sonic 3 - MGZA2.zip",
+      "size": 7796,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

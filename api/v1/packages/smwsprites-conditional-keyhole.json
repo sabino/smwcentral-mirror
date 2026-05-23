@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-conditional-keyhole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42039,
+  "title": "Conditional Keyhole",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "keyhole",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A keyhole that will only appear if a specified flag is set or clear, depending on the extra bit. If the extra bit is set, it will only appear when the flag is set (non-zero) and vice-versa. The extra bytes determine which flag to use: common flags are P-switch and ON/OFF. You can find other addresses at the <a href=\"https://www.smwcentral.net/?p=memorymap&game=smw&region=ram\">RAM map.</a><br>\r\n<br>\r\nYou can optionally fix the keyholes only detecting the key in the highest sprite slot with the !detect_any_key define. The fix is enabled by default.",
+  "latest_version": "smwc-42039-1774553550",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42039,
+      "title": "Conditional Keyhole",
+      "version": "smwc-42039-1774553550",
+      "upstream_time": 1774553550,
+      "download_url": "https://dl.smwcentral.net/42039/conditional_keyhole.zip",
+      "filename": "conditional_keyhole.zip",
+      "size": 4732,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

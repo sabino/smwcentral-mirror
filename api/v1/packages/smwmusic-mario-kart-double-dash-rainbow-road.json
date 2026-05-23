@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-kart-double-dash-rainbow-road",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11577,
+  "title": "Mario Kart: Double Dash!! - Rainbow Road",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "bonus",
+    "space"
+  ],
+  "description": "Famous rainbow road theme from Mario Kart. It can fit bonus zones and rainbow-themed levels.",
+  "latest_version": "smwc-11577-1435812349",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11577,
+      "title": "Mario Kart: Double Dash!! - Rainbow Road",
+      "version": "smwc-11577-1435812349",
+      "upstream_time": 1435812349,
+      "download_url": "https://dl.smwcentral.net/11577/Mario%20Kart%20-%20Rainbow%20Road%20%28S%29.zip",
+      "filename": "Mario Kart - Rainbow Road (S).zip",
+      "size": 65405,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

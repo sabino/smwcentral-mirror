@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-2-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8373,
+  "title": "Hudson's Adventure Island 2 - Overworld 3",
+  "authors": [
+    "Frugo Man"
+  ],
+  "tags": [
+    "athletic",
+    "jungle"
+  ],
+  "description": "The song that plays in most forest level in the game",
+  "latest_version": "smwc-8373-1360818949",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8373,
+      "title": "Hudson's Adventure Island 2 - Overworld 3",
+      "version": "smwc-8373-1360818949",
+      "upstream_time": 1360818949,
+      "download_url": "https://dl.smwcentral.net/8373/A2%20-%20Overworld%203.zip",
+      "filename": "A2 - Overworld 3.zip",
+      "size": 63959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

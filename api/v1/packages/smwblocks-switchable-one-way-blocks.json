@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-switchable-one-way-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15345,
+  "title": "Switchable One-Way Blocks",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "lorom",
+    "one-way"
+  ],
+  "description": "This blocks Mario, sprites, and fireballs in one of two directions depending on a specified switch. Which directions and what switch can be easily changed.",
+  "latest_version": "smwc-15345-1502993836",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15345,
+      "title": "Switchable One-Way Blocks",
+      "version": "smwc-15345-1502993836",
+      "upstream_time": 1502993836,
+      "download_url": "https://dl.smwcentral.net/15345/one_way_onoff.zip",
+      "filename": "one_way_onoff.zip",
+      "size": 1360,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

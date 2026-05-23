@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ace-attorney-investigations",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37447,
+  "title": "Ace Attorney Investigations 2: Prosecutor's Gambit - Pursuit ~ Uncover the Truth",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "cutscene",
+    "final"
+  ],
+  "description": "The Pursuit theme from Ace Attorney Investigations 2. Good for boss fights, intense cutscenes and decisive points in general.<br>\r\n<br>\r\nWARNING: Not compatible with Blaargs or Yoshi.",
+  "latest_version": "smwc-37447-1717208357",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37447,
+      "title": "Ace Attorney Investigations 2: Prosecutor's Gambit - Pursuit ~ Uncover the Truth",
+      "version": "smwc-37447-1717208357",
+      "upstream_time": 1717208357,
+      "download_url": "https://dl.smwcentral.net/37447/gk2pursuit.zip",
+      "filename": "gk2pursuit.zip",
+      "size": 134519,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bahamut-lagoon-jojo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34680,
+  "title": "Bahamut Lagoon - Jojo",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sad"
+  ],
+  "description": "Can fit a cutscene.",
+  "latest_version": "smwc-34680-1696102306",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34680,
+      "title": "Bahamut Lagoon - Jojo",
+      "version": "smwc-34680-1696102306",
+      "upstream_time": 1696102306,
+      "download_url": "https://dl.smwcentral.net/34680/04%20Jojo.zip",
+      "filename": "04 Jojo.zip",
+      "size": 66614,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

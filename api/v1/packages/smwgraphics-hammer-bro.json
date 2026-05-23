@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-hammer-bro",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1863,
+  "title": "Hammer Bro",
+  "authors": [
+    "Pureblade"
+  ],
+  "tags": [
+    "boomerang bro",
+    "hammer bro",
+    "needs remoderation"
+  ],
+  "description": "This is the *something* bro GFX from SMB3, but recolored to make it look like their current appearance.<br>\r\nI have also included an ExGFX file for the Fire Brother / Ice Brother sprites by NamelessProtagonist.<br>\r\n<br>\r\nAlso, if you use a *something* bro with palettes 8 or 9, use the included Palette file for them, their orange skins don't work with palettes 8 and 9.<br>\r\nYou will have to modify the sprite's palette yourself though.<br>\r\nPalette 8 must be changed to Palette E.<br>\r\nPalette 9 must be changed to Palette F.<br>\r\nNo credit needed. (this was really simple)",
+  "latest_version": "smwc-1863-1418013201",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1863,
+      "title": "Hammer Bro",
+      "version": "smwc-1863-1418013201",
+      "upstream_time": 1418013201,
+      "download_url": "https://dl.smwcentral.net/1863/Something%20Bro%20ExGFX.zip",
+      "filename": "Something Bro ExGFX.zip",
+      "size": 5954,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

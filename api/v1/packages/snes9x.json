@@ -1,0 +1,32 @@
+{
+  "name": "snes9x",
+  "aliases": [
+    "snes9x"
+  ],
+  "section": "tools",
+  "upstream_id": 38381,
+  "title": "Snes9x v1.63",
+  "authors": [
+    "Snes9x team"
+  ],
+  "tags": [
+    "emulator"
+  ],
+  "description": "Includes both x86 and x64 versions.<br>\r\n<br>\r\nNewest version of Snes9x for Windows, released July 9, 2024. Release page with full changelog <a href=\"https://github.com/snes9xgit/snes9x/releases/tag/1.63\" rel=\"nofollow\">here</a>, along with source code and builds for Linux, macOS and libretro.<br>\r\n<br>\r\nImportant changes in v1.63:<br>\r\nGeneral:<br>\r\n- Added a shortcut to change the backdrop color for sprite extraction.<br>\r\n- Fixed QuickSave 0-9 slot shortcuts not working.<br>\r\n- Allow \"Address:byte\" form for cheat inputs.<br>\r\n- Fixed ZIP files not being closed after patch search.<br>\r\n- Various memmap fixes to allow unofficial mappings.<br>\r\n- Added usage of ImGui to draw things on top of the screen instead of inside.<br>\r\n<br>\r\nWin32:<br>\r\n- Fixed AVI not recording audio.<br>\r\n- Fixed framerate throttling in turbo mode (now works during AVI recording).<br>\r\n- Fixed interlaced output speed being double.<br>\r\n- Fixed command line arguments not working.<br>\r\n- Fixed WaveOut device name display for names longer than 31 characters.<br>\r\n- Fixed Bank+/- hotkey saving.<br>\r\n- Added hotkeys for aspect ratio, cheat edit/search.<br>\r\n- Added multiselect for cheat edit dialog.",
+  "latest_version": "smwc-38381-1725783907",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 38381,
+      "title": "Snes9x v1.63",
+      "version": "smwc-38381-1725783907",
+      "upstream_time": 1725783907,
+      "download_url": "https://dl.smwcentral.net/38381/snes9x-1.63.zip",
+      "filename": "snes9x-1.63.zip",
+      "size": 8533038,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

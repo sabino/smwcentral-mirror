@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-talesweaver-take-a-step-forward",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23212,
+  "title": "TalesWeaver - Take a Step Forward",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "overworld",
+    "town"
+  ],
+  "description": "The immensely uplifting and motivating song famously featured in World 1A of JUMP.",
+  "latest_version": "smwc-23212-1591066527",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23212,
+      "title": "TalesWeaver - Take a Step Forward",
+      "version": "smwc-23212-1591066527",
+      "upstream_time": 1591066527,
+      "download_url": "https://dl.smwcentral.net/23212/Take%20A%20Step%20Forward.zip",
+      "filename": "Take A Step Forward.zip",
+      "size": 54433,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

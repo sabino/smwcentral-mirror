@@ -1,0 +1,44 @@
+{
+  "name": "smwsprites-giant-beetle-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3700,
+  "title": "Giant Beetle Boss",
+  "authors": [
+    "dahnamics"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "beetle",
+    "boss",
+    "buzzy beetle",
+    "cave",
+    "cave level",
+    "follow",
+    "follow player",
+    "following",
+    "lorom",
+    "rock",
+    "rocks",
+    "sa-1"
+  ],
+  "description": "A giant Buzzy Beetle boss, inspired by SMWCP. It will wait for Mario to approach it, after which it will spin in its shell and chase him. When it hits a wall, a rock will drop down. If Mario grabs the rock and tosses it at the boss, it will turn upside-down and expose its underside, which Mario can jump on to damage it.<br>\r\n<br>\r\nBy default, it takes 5 hits to defeat. Its attacks will become more aggressive after 2 hits. After defeating it, it will charge to the left and die when it hits the wall.<br>\r\n<br>\r\nIf the extra bit is set, the level will end when the boss dies.<br>\r\n<br>\r\nCheck the ASM files for configuration options.",
+  "latest_version": "smwc-3700-1337550107",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3700,
+      "title": "Giant Beetle Boss",
+      "version": "smwc-3700-1337550107",
+      "upstream_time": 1337550107,
+      "download_url": "https://dl.smwcentral.net/3700/Giant%20Beetle%20Boss.zip",
+      "filename": "Giant Beetle Boss.zip",
+      "size": 11094,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

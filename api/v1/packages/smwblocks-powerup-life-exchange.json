@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-powerup-life-exchange",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3804,
+  "title": "Powerup Life Exchange",
+  "authors": [
+    "DiscoTheBat",
+    "Roy",
+    "Ultimaximus"
+  ],
+  "tags": [
+    "life",
+    "lorom",
+    "powerup"
+  ],
+  "description": "Contains two blocks. Power_Exchange.asm works as following: If the player isn't small, it takes away his power up in exchange for one life, otherwise plays the \"incorrect\" sound. The other block does the same, but has a different amount of lives to exchange for the powerup, depending on the powerup. This amount can be changed easily.",
+  "latest_version": "smwc-3804-1436651093",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3804,
+      "title": "Powerup Life Exchange",
+      "version": "smwc-3804-1436651093",
+      "upstream_time": 1436651093,
+      "download_url": "https://dl.smwcentral.net/3804/Power%20Exchange.zip",
+      "filename": "Power Exchange.zip",
+      "size": 846,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

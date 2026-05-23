@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-beautiful-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33110,
+  "title": "Beautiful Town",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "The music has feel like the town atmosphere. Could fit on the city levels.",
+  "latest_version": "smwc-33110-1680559387",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33110,
+      "title": "Beautiful Town",
+      "version": "smwc-33110-1680559387",
+      "upstream_time": 1680559387,
+      "download_url": "https://dl.smwcentral.net/33110/Beautiful%20Town.zip",
+      "filename": "Beautiful Town.zip",
+      "size": 45820,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-f-zero-port-town-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34641,
+  "title": "F-Zero - Port Town (Arrangement)",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "castle",
+    "cave",
+    "chase",
+    "final",
+    "fire",
+    "industrial",
+    "mountain",
+    "space",
+    "tense",
+    "urban"
+  ],
+  "description": "An arrangement of \"Port Town\" from F-Zero.<br>\r\n<br>\r\nOriginal soundtrack description:<br>\r\n<br>\r\n<i>This is F-Zero on the SNES' entire OST, but redone using higher quality samples.<br>\r\n<br>\r\nAs to why I did this, after I made Mute City and Port Town, I thought, \"What if the whole soundtrack were originally done in this style? What would it sound like\"? whilst not making some of the songs completely and entirely different, so I decided to carry on with the idea.<br>\r\n<br>\r\nI hope you guys like these ports, because I sure liked making them.<br>\r\n<br>\r\nUpdate 1 (7/29/2019): Replaced all songs that had #tempoimmunity with $F4$07 because #tempoimmunity apparently doesn't work.</i>",
+  "latest_version": "smwc-34641-1690843982",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34641,
+      "title": "F-Zero - Port Town (Arrangement)",
+      "version": "smwc-34641-1690843982",
+      "upstream_time": 1690843982,
+      "download_url": "https://dl.smwcentral.net/34641/Port%20Town.zip",
+      "filename": "Port Town.zip",
+      "size": 63933,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "tools-spc-converter-for-musescore",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 25950,
+  "title": "SPC Converter for MuseScore",
+  "authors": [
+    "TheMightyBiz"
+  ],
+  "tags": [
+    "addmusick compatible",
+    "music",
+    "smw",
+    "spc"
+  ],
+  "description": "SPC Converter for MuseScore is a plugin for the open source notation software MuseScore. It allows you to write a score in musical notation using MuseScore, then export it as a text file which can be compiled by AddMusicK and inserted into an SMW romhack.<br>\r\n<br>\r\nFor a full description of how to use the tool, please see the readme included in the *.zip file (also available in the linked repository on GitLab).",
+  "latest_version": "smwc-25950-1615966999",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 25950,
+      "title": "SPC Converter for MuseScore",
+      "version": "smwc-25950-1615966999",
+      "upstream_time": 1615966999,
+      "download_url": "https://dl.smwcentral.net/25950/SPC%20Converter.zip",
+      "filename": "SPC Converter.zip",
+      "size": 97342,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

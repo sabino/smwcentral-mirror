@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-f-zero-mute-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25976,
+  "title": "F-Zero - Mute City",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "urban"
+  ],
+  "description": "A short song fit with city/athletic theme.<br>\r\n<br>\r\nNew version fixed some inaccurate volume and moved all of samples to a single directory.",
+  "latest_version": "smwc-25976-1613971242",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25976,
+      "title": "F-Zero - Mute City",
+      "version": "smwc-25976-1613971242",
+      "upstream_time": 1613971242,
+      "download_url": "https://dl.smwcentral.net/25976/F-Zero%20-%20Mute%20City.zip",
+      "filename": "F-Zero - Mute City.zip",
+      "size": 39958,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

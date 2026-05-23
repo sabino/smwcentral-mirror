@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-sensitive-bridge",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3868,
+  "title": "Sensitive Bridge",
+  "authors": [
+    "Pozeal"
+  ],
+  "tags": [
+    "bridge",
+    "fragile",
+    "lorom",
+    "weight"
+  ],
+  "description": "If the player is small, he can walk across it. Otherwise, it shatters under his weight.<br>\r\n<br>\r\nNote: Only shatters when the player is standing on top of the block (or on the top corners).",
+  "latest_version": "smwc-3868-1409000811",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3868,
+      "title": "Sensitive Bridge",
+      "version": "smwc-3868-1409000811",
+      "upstream_time": 1409000811,
+      "download_url": "https://dl.smwcentral.net/3868/sensitive_bridge.zip",
+      "filename": "sensitive_bridge.zip",
+      "size": 319,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

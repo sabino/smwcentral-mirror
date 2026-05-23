@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sonic-advance-character-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20179,
+  "title": "Sonic Advance - Character Select",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "urban"
+  ],
+  "description": "The Character Select theme from Sonic Advance. Could work for a screen/level section where you get to select your character, or in a urban overworld.",
+  "latest_version": "smwc-20179-1560130121",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20179,
+      "title": "Sonic Advance - Character Select",
+      "version": "smwc-20179-1560130121",
+      "upstream_time": 1560130121,
+      "download_url": "https://dl.smwcentral.net/20179/sonic_adv_-_character_select.zip",
+      "filename": "sonic_adv_-_character_select.zip",
+      "size": 50969,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

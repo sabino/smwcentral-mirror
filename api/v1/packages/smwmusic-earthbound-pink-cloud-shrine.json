@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-earthbound-pink-cloud-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27017,
+  "title": "Earthbound - Pink Cloud Shrine",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "ruins"
+  ],
+  "description": "A bizarre song from Earthbound.<br>\r\nRequested by Skewer.",
+  "latest_version": "smwc-27017-1622239419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27017,
+      "title": "Earthbound - Pink Cloud Shrine",
+      "version": "smwc-27017-1622239419",
+      "upstream_time": 1622239419,
+      "download_url": "https://dl.smwcentral.net/27017/Earthbound%20-%20Pink%20Cloud%20Shrine.zip",
+      "filename": "Earthbound - Pink Cloud Shrine.zip",
+      "size": 50837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

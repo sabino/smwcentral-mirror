@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-vi-the-veldt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20074,
+  "title": "Final Fantasy VI - The Veldt",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "desert",
+    "ruins"
+  ],
+  "description": "(Also known as \"Wild West\")<br>\r\n<br>\r\nThe Veldt's theme from FF6, could fit a \"western\" or desert area.<br>\r\nRequested by Brutapode89.<br>\r\n<br>\r\nNote: it's not compatible with P-Switch and Bonus end songs, nor with Blarggs/thunder sfx.",
+  "latest_version": "smwc-20074-1559331328",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20074,
+      "title": "Final Fantasy VI - The Veldt",
+      "version": "smwc-20074-1559331328",
+      "upstream_time": 1559331328,
+      "download_url": "https://dl.smwcentral.net/20074/FF6_WildWest.zip",
+      "filename": "FF6_WildWest.zip",
+      "size": 75748,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

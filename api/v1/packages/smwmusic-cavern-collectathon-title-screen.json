@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-cavern-collectathon-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37291,
+  "title": "Cavern Collectathon - Title Screen",
+  "authors": [
+    "Segment1Zone2",
+    "wolfram"
+  ],
+  "tags": [
+    "athletic",
+    "final",
+    "tense",
+    "title"
+  ],
+  "description": "The title screen theme from <a href=\"https://www.smwcentral.net/?p=viewthread&t=126748\">Cavern Collectathon</a>.<br>\r\n<br>\r\nOmits Thunder, @7 (Bonus End) and @15 (Yoshi).",
+  "latest_version": "smwc-37291-1709236659",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37291,
+      "title": "Cavern Collectathon - Title Screen",
+      "version": "smwc-37291-1709236659",
+      "upstream_time": 1709236659,
+      "download_url": "https://dl.smwcentral.net/37291/Cavern%20Collectathon%20-%20Title%20Screen%20.zip",
+      "filename": "Cavern Collectathon - Title Screen .zip",
+      "size": 88550,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-earthworm-jim-2-snes-iso",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25058,
+  "title": "Earthworm Jim 2 (SNES) - ISO 9000",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "2bpp",
+    "abstract",
+    "patch needed",
+    "texture"
+  ],
+  "description": "Here's the background and layer 3 of ISO 9000 fully ripped. Features:<br>\r\n<br>\r\n-you can view the sample level to see how both the BG and layer 3 are set up.<br>\r\n-the palette is organized and as a bonus, layer 2 uses palette 1 without affecting SMW colors.<br>\r\n-the BG is the least tile-consuming of the game as it uses 47 8x8 tiles. That easy.<br>\r\n-there are a total of 12 Map16 tiles. Again, it was very easy.<br>\r\n-layer 2 can be 512x512.<br>\r\n-layer 3 is a different story. Did manage to make that layer 3 use the last 2 GFX pages, as to prevent screwing up the SMW status bar. It uses 247 8x8 tiles.<br>\r\n-Both layer 2 and layer 3 have their own files required to insert. <br>\r\n-The last picture is a .gif with Mario running a bit on the test level.<br>\r\n<br>\r\nRecommended BG scrolling: Variable for X and Y of layer 2 and none for layer 3 and Auto-Scroll Down Fast for vertical scroll, as that's how it was in the original game.<br>\r\n<br>\r\nYou may need a sprite status bar, disable the status bar with UberASM or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18862\">remove it</a>, since the falling page will get cutoff while using the vanilla status bar. ",
+  "latest_version": "smwc-25058-1604330513",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25058,
+      "title": "Earthworm Jim 2 (SNES) - ISO 9000",
+      "version": "smwc-25058-1604330513",
+      "upstream_time": 1604330513,
+      "download_url": "https://dl.smwcentral.net/25058/Earthworm%20Jim%202%20%28SNES%29%20-%20ISO%209000.zip",
+      "filename": "Earthworm Jim 2 (SNES) - ISO 9000.zip",
+      "size": 9717,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-legend-ii-struggle-to-the-death-romancing-saga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29631,
+  "title": "Final Fantasy Legend II - Struggle to the Death (Romancing SaGa 1 Mix)",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "A boss battle theme from <i>Final Fantasy Legend II</i> on Game Boy, redone with instruments from <i>Romancing SaGa</i> for SNES. Based on Nintendo DS remake <i>Goddess of Destiny</i> that has extended part.<br>\r\n<br>\r\nThis port uses the optimized SMW sample set. The track name is taken from English soundtrack release by Square Enix Music.",
+  "latest_version": "smwc-29631-1647281135",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29631,
+      "title": "Final Fantasy Legend II - Struggle to the Death (Romancing SaGa 1 Mix)",
+      "version": "smwc-29631-1647281135",
+      "upstream_time": 1647281135,
+      "download_url": "https://dl.smwcentral.net/29631/Final%20Fantasy%20Legend%20II%20Struggle%20to%20the%20Death.zip",
+      "filename": "Final Fantasy Legend II Struggle to the Death.zip",
+      "size": 74844,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

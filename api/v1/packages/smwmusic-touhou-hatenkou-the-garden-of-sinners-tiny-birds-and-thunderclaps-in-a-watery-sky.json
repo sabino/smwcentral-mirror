@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-touhou-hatenkou-the-garden-of-sinners-tiny-birds-and-thunderclaps-in-a-watery-sky",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32342,
+  "title": "Touhou Hatenkou ~ the Garden of Sinners - Tiny Birds and Thunderclaps in a Watery Sky",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "forest",
+    "grassland",
+    "sky",
+    "swamp",
+    "upbeat",
+    "water"
+  ],
+  "description": "The \"Stage 1\" theme from a game-without-a-game Touhou-style music album.<br>\r\n<br>\r\nIt's a happy song, best suited for early-to-mid game levels where you're still exploring, with not too much on the line.<br>\r\n<br>\r\n[2022/10/14] Update: Now with louder percussion, a faster tempo, slightly different vibrato, a corrected inaccuracy in the trumpet, and an option to change the piano.<br>\r\n<br>\r\nA define at the top of the file can be changed to use either @1 or @9 for the piano.",
+  "latest_version": "smwc-32342-1673256403",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32342,
+      "title": "Touhou Hatenkou ~ the Garden of Sinners - Tiny Birds and Thunderclaps in a Watery Sky",
+      "version": "smwc-32342-1673256403",
+      "upstream_time": 1673256403,
+      "download_url": "https://dl.smwcentral.net/32342/tiny%20birds%20and%20thunderclaps%202.zip",
+      "filename": "tiny birds and thunderclaps 2.zip",
+      "size": 69392,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

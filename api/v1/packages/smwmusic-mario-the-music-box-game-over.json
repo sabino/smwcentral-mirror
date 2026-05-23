@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-the-music-box-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23073,
+  "title": "(Mario) The Music Box - Game Over",
+  "authors": [
+    "MilkyMooer"
+  ],
+  "tags": [
+    "calm",
+    "game over",
+    "misc"
+  ],
+  "description": "This is a port of the game over theme that plays when you die in \"(Mario) The Music Box.\" \"(Mario) The Music Box\" was created by Team Ari.<br>\r\n<br>\r\nBest used for game over theme. Pretty obvious. Should also be used with <div class=\"collapse\"><div class=\"collapse-header\"><span>this patch</span></div><div class=\"collapse-content\"><a href=\"https://www.smwcentral.net/?p=section&a=details&id=4862\">https://www.smwcentral.net/?p=section&a=details&id=4862</a></div></div><br>\r\n<br>\r\nAlso, play (Mario) The Music Box!",
+  "latest_version": "smwc-23073-1590708700",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23073,
+      "title": "(Mario) The Music Box - Game Over",
+      "version": "smwc-23073-1590708700",
+      "upstream_time": 1590708700,
+      "download_url": "https://dl.smwcentral.net/23073/%28Mario%29%20The%20Music%20Box%20Game%20Over%20Theme.zip",
+      "filename": "(Mario) The Music Box Game Over Theme.zip",
+      "size": 30357,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

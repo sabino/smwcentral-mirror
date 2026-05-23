@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-journey-separate-ways",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38159,
+  "title": "Journey - Separate Ways",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "castle",
+    "credits",
+    "final",
+    "fire",
+    "tense"
+  ],
+  "description": "For those of you looking to introduce a little DMCA into your romhacks, I give you Separate Ways by Journey. This port was originally requested by MmmDoggy for his aptly titled hack, Separate Ways. I might have overdone it a bit on the drum part, you're welcome.<br>\r\n<br>\r\nThunder SFX is disabled.",
+  "latest_version": "smwc-38159-1725153012",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38159,
+      "title": "Journey - Separate Ways",
+      "version": "smwc-38159-1725153012",
+      "upstream_time": 1725153012,
+      "download_url": "https://dl.smwcentral.net/38159/Journey_Separate%20Ways.zip",
+      "filename": "Journey_Separate Ways.zip",
+      "size": 89400,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-dkc-blackout-basement-lights-on-off",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 23393,
+  "title": "DKC - Blackout Basement: Lights On/Off",
+  "authors": [
+    "anonimzwx"
+  ],
+  "tags": [
+    "customizable",
+    "dark",
+    "dkc",
+    "light",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "An UberASM to turn on and turn off lights.<br>\r\n<br>\r\nCustomizable, please open the file \".asm\" to customize it.<br>\r\n<br>\r\nYou can change the time it lasts, how dark the level becomes, and the sound effect is uses.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ayami\"><span title=\"Ayami donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=5938\" style=\"color: var(--user-color-3);\" class=\"un\">Ayami</a></span>.",
+  "latest_version": "smwc-23393-1594590505",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 23393,
+      "title": "DKC - Blackout Basement: Lights On/Off",
+      "version": "smwc-23393-1594590505",
+      "upstream_time": 1594590505,
+      "download_url": "https://dl.smwcentral.net/23393/lights%20%28v1.1%29.zip",
+      "filename": "lights (v1.1).zip",
+      "size": 968,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

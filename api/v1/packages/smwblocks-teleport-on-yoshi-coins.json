@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-teleport-on-yoshi-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41152,
+  "title": "Teleport on Yoshi Coins",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "dragon coin",
+    "lorom",
+    "sa-1",
+    "teleport",
+    "yoshi coin"
+  ],
+  "description": "Teleports the player if they have a certain amount of Yoshi coins.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41152-1764372214",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41152,
+      "title": "Teleport on Yoshi Coins",
+      "version": "smwc-41152-1764372214",
+      "upstream_time": 1764372214,
+      "download_url": "https://dl.smwcentral.net/41152/teleport_ycoins.zip",
+      "filename": "teleport_ycoins.zip",
+      "size": 650,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-smas-pause-menu-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 30036,
+  "title": "SMAS Pause Menu v1.05",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "menu",
+    "pause",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This UberASM is an attempt at an accurate recreation of the SMAS pause menu, with the \"Continue\", \"Save&Continue\" and \"Save&Quit\" options (this last one can be changed to \"Save&Exit\" to just exit the level). Like in SMAS, it uses dynamic sprite GFX that is restored when the menu is closed, so you don't need to insert or reserve sprite graphics for it. Make sure to check the README for info and instructions.<br>\r\n<br>\r\nv1.01: fixed issue with layer 3 top priority<br>\r\nv1.02: reduced chance of blank overflows when opening the menu<br>\r\nv1.03: fixed issue where using Save&Quit on the intro level would create a glitched save file<br>\r\nv1.04: added 2 more options: have both quit and exit, or have exit appear only after beating the level<br>\r\nv1.05: fixed start+select option not working",
+  "latest_version": "smwc-30036-1675961528",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 30036,
+      "title": "SMAS Pause Menu v1.05",
+      "version": "smwc-30036-1675961528",
+      "upstream_time": 1675961528,
+      "download_url": "https://dl.smwcentral.net/30036/smas_pause_menu.zip",
+      "filename": "smas_pause_menu.zip",
+      "size": 10446,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

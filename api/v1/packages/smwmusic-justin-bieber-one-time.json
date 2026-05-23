@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-justin-bieber-one-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25220,
+  "title": "Justin Bieber - One Time",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "misc"
+  ],
+  "description": "Requested by OrangeBronzeDaisy.<br>\r\nA popular song that's good for cutscenes. It's a loop of the chorus I believe.",
+  "latest_version": "smwc-25220-1607887519",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25220,
+      "title": "Justin Bieber - One Time",
+      "version": "smwc-25220-1607887519",
+      "upstream_time": 1607887519,
+      "download_url": "https://dl.smwcentral.net/25220/bieber_one_time_0_2.zip",
+      "filename": "bieber_one_time_0_2.zip",
+      "size": 31734,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

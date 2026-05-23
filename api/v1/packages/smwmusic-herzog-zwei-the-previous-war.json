@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-herzog-zwei-the-previous-war",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10844,
+  "title": "Herzog Zwei - The Previous War",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "Short song, good for intros or cutscenes.",
+  "latest_version": "smwc-10844-1425398728",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10844,
+      "title": "Herzog Zwei - The Previous War",
+      "version": "smwc-10844-1425398728",
+      "upstream_time": 1425398728,
+      "download_url": "https://dl.smwcentral.net/10844/hztpw.zip",
+      "filename": "hztpw.zip",
+      "size": 32111,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

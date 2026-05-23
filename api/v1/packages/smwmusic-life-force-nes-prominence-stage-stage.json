@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-life-force-nes-prominence-stage-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27910,
+  "title": "Life Force (NES) - Prominence Stage (Stage 3)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic"
+  ],
+  "description": "The banger song played at Stage 3 of Life Force.<br>\r\n<br>\r\nCan fit athletic levels.<br>\r\n<br>\r\nEdit: Updated to use GAIN remote commands instead of ADSR ones because it wasn't being processed in game.",
+  "latest_version": "smwc-27910-1630441965",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27910,
+      "title": "Life Force (NES) - Prominence Stage (Stage 3)",
+      "version": "smwc-27910-1630441965",
+      "upstream_time": 1630441965,
+      "download_url": "https://dl.smwcentral.net/27910/Life%20Force%20%28NES%29%20-%20Prominence%20Stage.zip",
+      "filename": "Life Force (NES) - Prominence Stage.zip",
+      "size": 31754,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

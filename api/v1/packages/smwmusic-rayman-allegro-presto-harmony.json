@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rayman-allegro-presto-harmony",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25627,
+  "title": "Rayman - Allegro Presto (Harmony)",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "overworld"
+  ],
+  "description": "One of the songs that play in the levels in Band Land in the first Rayman game. Can't belive there wasn't a single Rayman port before...<br>\r\n<br>\r\nCould fit as an athletic theme or overworld. <br>\r\nPlease credit me if you use this, thanks and enjoy :)",
+  "latest_version": "smwc-25627-1610479151",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25627,
+      "title": "Rayman - Allegro Presto (Harmony)",
+      "version": "smwc-25627-1610479151",
+      "upstream_time": 1610479151,
+      "download_url": "https://dl.smwcentral.net/25627/rayman_harmony.zip",
+      "filename": "rayman_harmony.zip",
+      "size": 33663,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

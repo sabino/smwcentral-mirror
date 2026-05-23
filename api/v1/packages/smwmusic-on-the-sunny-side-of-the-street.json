@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-on-the-sunny-side-of-the-street",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38554,
+  "title": "On the Sunny Side of the Street",
+  "authors": [
+    "Overcrow03"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld"
+  ],
+  "description": "Part of the song reminded me of Super Mario World's overworld theme, so here's this classic jazz standard in the style of SMW's overworld theme. ",
+  "latest_version": "smwc-38554-1733104762",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38554,
+      "title": "On the Sunny Side of the Street",
+      "version": "smwc-38554-1733104762",
+      "upstream_time": 1733104762,
+      "download_url": "https://dl.smwcentral.net/38554/SunnySideOfTheStreet.zip",
+      "filename": "SunnySideOfTheStreet.zip",
+      "size": 31673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

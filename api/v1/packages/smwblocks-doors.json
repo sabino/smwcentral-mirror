@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-doors",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 38713,
+  "title": "Doors",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "door",
+    "lorom",
+    "on-off",
+    "p-switch",
+    "sa-1"
+  ],
+  "description": "A pack of doors which recreates SMW's own doors. Unlike standard teleport doors which are just teleport doors (no approximity check, checks for all hitpoints instead of Mario's neck, doesn't use pipe animation for teleport). This includes all the jank.<br>\r\n<br>\r\nIt currently contains normal doors, switch doors (by default blue p-switch) and locked doors.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">underway update (2024/10/29):<br>\r\n- Fix teleport_direct not accounting for extended levels<br>\r\n- Fix map16 partially being set to 130<br>\r\n- Fix sample level seemingly behaving strangely (might just be me, I don't know)<br>\r\n- Ensure LM-modified flag is set when using fixed destination teleporting<br>\r\n- Remove MACOSX folder stuff that I presume is not useful for anything and flatten folder structure</div></div>",
+  "latest_version": "smwc-38713-1753732056",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 38713,
+      "title": "Doors",
+      "version": "smwc-38713-1753732056",
+      "upstream_time": 1753732056,
+      "download_url": "https://dl.smwcentral.net/38713/Doors%20Pack.zip",
+      "filename": "Doors Pack.zip",
+      "size": 15492,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

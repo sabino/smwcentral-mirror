@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-sacred-harp-the-golden-harp",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24175,
+  "title": "Sacred Harp - The Golden Harp",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "dark",
+    "misc",
+    "night",
+    "overworld",
+    "ruins",
+    "tense"
+  ],
+  "description": "Works fine on smaller contexts like a ruins sublevel or submap.<br>\r\n<br>\r\nThis entry updates the previous one with more accurate octaves.<br>\r\n<br>\r\n<a href=\"https://sacredharpbremen.org/274t-the-golden-harp/\" rel=\"nofollow\">/Full score/</a>",
+  "latest_version": "smwc-24175-1598135059",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24175,
+      "title": "Sacred Harp - The Golden Harp",
+      "version": "smwc-24175-1598135059",
+      "upstream_time": 1598135059,
+      "download_url": "https://dl.smwcentral.net/24175/golden_harp_0_2.zip",
+      "filename": "golden_harp_0_2.zip",
+      "size": 31501,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

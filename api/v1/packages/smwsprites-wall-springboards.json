@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-wall-springboards",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3644,
+  "title": "Wall Springboards",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "springboard",
+    "wall"
+  ],
+  "description": "This is a disassembly of sprites 6B and 6C in SMW, the wall springboards (or Pea Bouncers, if you prefer).  The extra bit determines which of the original sprites it acts like.",
+  "latest_version": "smwc-3644-1278411336",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3644,
+      "title": "Wall Springboards",
+      "version": "smwc-3644-1278411336",
+      "upstream_time": 1278411336,
+      "download_url": "https://dl.smwcentral.net/3644/SMWSDIS%20-%20sprites%206B%20%26%206C%20-%20wall%20springboards.zip",
+      "filename": "SMWSDIS - sprites 6B %26 6C - wall springboards.zip",
+      "size": 2121,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

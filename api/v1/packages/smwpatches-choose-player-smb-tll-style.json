@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-choose-player-smb-tll-style",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14070,
+  "title": "Choose Player SMB:TLL Style",
+  "authors": [
+    "DiscoTheBat"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "luigi",
+    "mario",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch will disable the 2-player flag and instead loads a character based in what option you've selected at the title screen.<br>\r\n<br>\r\nNEW - Changed hijack to a different area, allowing more compatibility with other patches.<br>\r\nAlso, in SA-1 ROMs, it runs inside the chip, allowing increased speed.<br>\r\nGive credit if used!",
+  "latest_version": "smwc-14070-1469938112",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14070,
+      "title": "Choose Player SMB:TLL Style",
+      "version": "smwc-14070-1469938112",
+      "upstream_time": 1469938112,
+      "download_url": "https://dl.smwcentral.net/14070/Disable2Players.zip",
+      "filename": "Disable2Players.zip",
+      "size": 2398,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

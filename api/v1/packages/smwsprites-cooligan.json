@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-cooligan",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26767,
+  "title": "Cooligan",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A penguin-like enemy that slides around. It loses its sunglasses, slows down and starts flopping if hit once, and dies if hit a second time. When flopping, they may get killed by non-flopping ones.<br>\r\n<br>\r\nComes with a shooter that you can optionally use.<br>\r\n<br>\r\nThe graphics included are by <a href=\"https://mfgg.net/index.php?act=resdb&param=02&c=1&id=35852\" rel=\"nofollow\">SealLoverYT</a>.",
+  "latest_version": "smwc-26767-1628692162",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26767,
+      "title": "Cooligan",
+      "version": "smwc-26767-1628692162",
+      "upstream_time": 1628692162,
+      "download_url": "https://dl.smwcentral.net/26767/cooligan.zip",
+      "filename": "cooligan.zip",
+      "size": 11203,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-vortex-voltair",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40368,
+  "title": "Vortex - Voltair",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "industrial",
+    "space"
+  ],
+  "description": "Level music of the third stage of Vortex.",
+  "latest_version": "smwc-40368-1756218278",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40368,
+      "title": "Vortex - Voltair",
+      "version": "smwc-40368-1756218278",
+      "upstream_time": 1756218278,
+      "download_url": "https://dl.smwcentral.net/40368/Vortex%20Voltair.zip",
+      "filename": "Vortex Voltair.zip",
+      "size": 59826,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

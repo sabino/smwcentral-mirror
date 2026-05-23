@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-para-spiny-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39702,
+  "title": "Para-Spiny v1.2",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "parakoopa",
+    "sa-1",
+    "spiny"
+  ],
+  "description": "A spiny that flies in a pattern like the red parakoopas. The extra bit will determine the direction.<br>\r\nRequested by allowiscous.<br>\r\n<br>\r\nNow the graphics routine makes sense and the horizontal spiny hovers vertically similar to the red parakoopa.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\nv1.1 (spooonsss):<br>\r\nAdd define to disable up/down movement of the horizontally-moving spiny<br>\r\nConvert .cfg to .json<br>\r\nOptimize asm<br>\r\nv1.2 (spooonsss, MFG):<br>\r\nFix bug where horizontally-moving paraspiny moved up-left and down-right, instead making it move only left to right (while oscillating up and down)<br>\r\nFix bug where the wrong despawn range has been used (originally used the scale platforms).",
+  "latest_version": "smwc-39702-1755278642",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39702,
+      "title": "Para-Spiny v1.2",
+      "version": "smwc-39702-1755278642",
+      "upstream_time": 1755278642,
+      "download_url": "https://dl.smwcentral.net/39702/ParaSpiny%20v1.2.zip",
+      "filename": "ParaSpiny v1.2.zip",
+      "size": 2622,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-pinkie-the-carriable-triangle",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24845,
+  "title": "Pinkie the Carriable Triangle",
+  "authors": [
+    "Djief"
+  ],
+  "tags": [
+    "block",
+    "carriable",
+    "lorom",
+    "sa-1",
+    "tile"
+  ],
+  "description": "This is a normal pink triangle except you can pick it up and move it. Acts like any carriable sprite until you put it on the ground and it becomes a block.<br>\r\nIncludes an ExGFX file that replaces the smile coin in SP2 with a triangle.<br>\r\n<br>\r\nSee readme for details<br>\r\n<br>\r\nSome of the code base is from the key disassembly by RussianMan",
+  "latest_version": "smwc-24845-1603659648",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24845,
+      "title": "Pinkie the Carriable Triangle",
+      "version": "smwc-24845-1603659648",
+      "upstream_time": 1603659648,
+      "download_url": "https://dl.smwcentral.net/24845/Pinkie.zip",
+      "filename": "Pinkie.zip",
+      "size": 12656,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

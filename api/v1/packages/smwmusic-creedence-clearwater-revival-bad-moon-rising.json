@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-creedence-clearwater-revival-bad-moon-rising",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23304,
+  "title": "Creedence Clearwater Revival - Bad Moon Rising",
+  "authors": [
+    "kaigem"
+  ],
+  "tags": [
+    "night",
+    "swamp",
+    "title"
+  ],
+  "description": "A swampy rock song by American rock group Creedence Clearwater Revival.  A fun, swing-rhythm tune with clean electric guitar, saxophone, bass, light drums, and a little nod to the vanilla SMW theme.  Great for nighttime levels, swamp levels, or overworld themes.  Don't come 'round tonight, it's bound to take your life.  There's a bad moon on the rise.",
+  "latest_version": "smwc-23304-1593029551",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23304,
+      "title": "Creedence Clearwater Revival - Bad Moon Rising",
+      "version": "smwc-23304-1593029551",
+      "upstream_time": 1593029551,
+      "download_url": "https://dl.smwcentral.net/23304/Bad%20Moon%20Rising.zip",
+      "filename": "Bad Moon Rising.zip",
+      "size": 83352,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

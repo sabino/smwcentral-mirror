@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-final-fantasy-vi-new-continent",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32298,
+  "title": "Final Fantasy VI - New Continent",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "final",
+    "fire",
+    "industrial",
+    "space",
+    "tense"
+  ],
+  "description": "A tense theme useful for castles and airships and just before the end of the world.<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=122687\">Requested by CourtlyHades296.</a>",
+  "latest_version": "smwc-32298-1674939529",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32298,
+      "title": "Final Fantasy VI - New Continent",
+      "version": "smwc-32298-1674939529",
+      "upstream_time": 1674939529,
+      "download_url": "https://dl.smwcentral.net/32298/Final%20Fantasy%20VI%20-%20New%20Continent.zip",
+      "filename": "Final Fantasy VI - New Continent.zip",
+      "size": 66957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

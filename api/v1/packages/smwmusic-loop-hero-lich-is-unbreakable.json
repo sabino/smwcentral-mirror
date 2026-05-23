@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-loop-hero-lich-is-unbreakable",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35200,
+  "title": "Loop Hero - Lich is Unbreakable",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "mysterious",
+    "tense"
+  ],
+  "description": "Song from the indie game Loop Hero which features a retro sounding soundtrack.<br>\r\n<br>\r\nEdit: Changed some of the samples of the melody to make it more in line with the original (Thanks Ahrion for the suggestion)",
+  "latest_version": "smwc-35200-1696617253",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35200,
+      "title": "Loop Hero - Lich is Unbreakable",
+      "version": "smwc-35200-1696617253",
+      "upstream_time": 1696617253,
+      "download_url": "https://dl.smwcentral.net/35200/Lichisunbreakable.zip",
+      "filename": "Lichisunbreakable.zip",
+      "size": 44480,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-flintstones-the-rescue-of-dino-and-hoppy-intro-dracula-s-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22953,
+  "title": "The Flintstones: The Rescue of Dino and Hoppy - Intro/Dracula's Castle",
+  "authors": [
+    "FailSandwich"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "spooky"
+  ],
+  "description": "The intro theme from The Flintstones: The Rescue of Dino and Hoppy for the NES, also used in the Dracula's Castle stage. Good for cutscenes, or possibly spooky overworlds.",
+  "latest_version": "smwc-22953-1590259634",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22953,
+      "title": "The Flintstones: The Rescue of Dino and Hoppy - Intro/Dracula's Castle",
+      "version": "smwc-22953-1590259634",
+      "upstream_time": 1590259634,
+      "download_url": "https://dl.smwcentral.net/22953/f_castle%20%282%29.zip",
+      "filename": "f_castle (2).zip",
+      "size": 30720,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-sprite-seed-v3",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16663,
+  "title": "Sprite Seed v3.2",
+  "authors": [
+    "K3fka"
+  ],
+  "tags": [
+    "buoyancy",
+    "carriable",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "water"
+  ],
+  "description": "Changes in this version are listed in the readme.<br>\r\nThis is a carryable sprite that \"grows\" into another sprite when it touches water (the sprite to become is changable via a define in the ASM).<br>\r\nEnjoy and please give credit if used!<br>\r\n<br>\r\n<i>Note: Don't forget to enable sprite buoyancy!</i>",
+  "latest_version": "smwc-16663-1511368100",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16663,
+      "title": "Sprite Seed v3.2",
+      "version": "smwc-16663-1511368100",
+      "upstream_time": 1511368100,
+      "download_url": "https://dl.smwcentral.net/16663/sprite_seed_v3.2.zip",
+      "filename": "sprite_seed_v3.2.zip",
+      "size": 2706,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

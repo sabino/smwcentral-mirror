@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-pok-mon-caught",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22463,
+  "title": "Pokémon Red/Blue/Yellow - Pokémon Caught",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "goal",
+    "keyhole"
+  ],
+  "description": "Unsampled port of the fanfare that plays when you catch a Pokémon in the first generation Pokémon games (Red, Blue and Yellow). Includes a version that includes SMW's goal whistle.<br>\r\n<br>\r\nFits goal and keyhole themes. ",
+  "latest_version": "smwc-22463-1586381447",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22463,
+      "title": "Pokémon Red/Blue/Yellow - Pokémon Caught",
+      "version": "smwc-22463-1586381447",
+      "upstream_time": 1586381447,
+      "download_url": "https://dl.smwcentral.net/22463/Pokemon%20RBY%20-%20Pokemon%20Caught.zip",
+      "filename": "Pokemon RBY - Pokemon Caught.zip",
+      "size": 60834,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

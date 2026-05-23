@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-cave-story-last-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22912,
+  "title": "Cave Story - Last Battle",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Song from the Undead Core fight in Cave Story, using MM7/RM&F samples.<br>\r\nMade for Sweetdude™.<br>\r\n<br>\r\nMod note: due to the high tempo, the song lags when the timer drops below 100.",
+  "latest_version": "smwc-22912-1589338983",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22912,
+      "title": "Cave Story - Last Battle",
+      "version": "smwc-22912-1589338983",
+      "upstream_time": 1589338983,
+      "download_url": "https://dl.smwcentral.net/22912/Cave_Story_-_Last_Battle.zip",
+      "filename": "Cave_Story_-_Last_Battle.zip",
+      "size": 69081,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7153,
+      "title": "Cave Story - Last Battle",
+      "version": "smwc-7153-1314322516",
+      "upstream_time": 1314322516,
+      "download_url": "https://dl.smwcentral.net/7153/Cave%20Story%20-%20Last%20Battle.zip",
+      "filename": "Cave Story - Last Battle.zip",
+      "size": 70092,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

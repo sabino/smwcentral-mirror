@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-new-super-mario-classic-herbal-grove",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26835,
+  "title": "New Super Mario Classic - Herbal Grove",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland",
+    "tense"
+  ],
+  "description": "Lovely music with main melody guitar. Could fit on the forest levels.",
+  "latest_version": "smwc-26835-1622134822",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26835,
+      "title": "New Super Mario Classic - Herbal Grove",
+      "version": "smwc-26835-1622134822",
+      "upstream_time": 1622134822,
+      "download_url": "https://dl.smwcentral.net/26835/NSMC%20Herbal%20Grove.zip",
+      "filename": "NSMC Herbal Grove.zip",
+      "size": 33672,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-actraiser-north-wall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21356,
+  "title": "ActRaiser - North Wall",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice",
+    "snow",
+    "water"
+  ],
+  "description": "The theme when you visit the frozen areas in ActRaiser.<br>\r\nIt's great for snow levels.<br>\r\n<br>\r\nUpdate: More accurate to original and inserts 13 (19) bytes less.",
+  "latest_version": "smwc-21356-1572218184",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21356,
+      "title": "ActRaiser - North Wall",
+      "version": "smwc-21356-1572218184",
+      "upstream_time": 1572218184,
+      "download_url": "https://dl.smwcentral.net/21356/Actraiser%20-%20North%20Wall.zip",
+      "filename": "Actraiser - North Wall.zip",
+      "size": 42087,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7126,
+      "title": "ActRaiser - North Wall",
+      "version": "smwc-7126-1312125761",
+      "upstream_time": 1312125761,
+      "download_url": "https://dl.smwcentral.net/7126/northwall.zip",
+      "filename": "northwall.zip",
+      "size": 67548,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

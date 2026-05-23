@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-double-spinjump-antifail",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13400,
+  "title": "Double Spinjump Antifail",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "spin",
+    "spin jump",
+    "sprite",
+    "sprite contact"
+  ],
+  "description": "Fixes the bug where spinjumping on two sprites at once can end up hurting you.",
+  "latest_version": "smwc-13400-1456717934",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13400,
+      "title": "Double Spinjump Antifail",
+      "version": "smwc-13400-1456717934",
+      "upstream_time": 1456717934,
+      "download_url": "https://dl.smwcentral.net/13400/spinspinspinaaaaaugghh.zip",
+      "filename": "spinspinspinaaaaaugghh.zip",
+      "size": 416,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

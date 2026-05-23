@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-asterix-obelix-story",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34733,
+  "title": "Asterix & Obelix - Story",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nAdventurous theme.",
+  "latest_version": "smwc-34733-1691404234",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34733,
+      "title": "Asterix & Obelix - Story",
+      "version": "smwc-34733-1691404234",
+      "upstream_time": 1691404234,
+      "download_url": "https://dl.smwcentral.net/34733/Asterix%20and%20Obelix%20-%2001%20Story.zip",
+      "filename": "Asterix and Obelix - 01 Story.zip",
+      "size": 74709,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

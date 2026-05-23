@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-yoshi-egg-block-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18205,
+  "title": "Yoshi Egg Block Fix",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "power-up",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch fixes a bug where if you hit two or more Yoshi egg blocks before the first egg hatches, the other eggs will spawn a Yoshi instead of 1-up mushrooms.",
+  "latest_version": "smwc-18205-1538042957",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18205,
+      "title": "Yoshi Egg Block Fix",
+      "version": "smwc-18205-1538042957",
+      "upstream_time": 1538042957,
+      "download_url": "https://dl.smwcentral.net/18205/YoshiEggBlockFix.zip",
+      "filename": "YoshiEggBlockFix.zip",
+      "size": 830,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

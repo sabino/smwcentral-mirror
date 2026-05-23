@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-earthbound-snowman",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40330,
+  "title": "EarthBound - Snowman",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "ice",
+    "mysterious",
+    "overworld",
+    "sad",
+    "snow",
+    "title",
+    "town"
+  ],
+  "description": "A soft and cozy song from Earthbound, and one of my personal favorites.",
+  "latest_version": "smwc-40330-1757941826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40330,
+      "title": "EarthBound - Snowman",
+      "version": "smwc-40330-1757941826",
+      "upstream_time": 1757941826,
+      "download_url": "https://dl.smwcentral.net/40330/Earthbound%20-%20Snowman.zip",
+      "filename": "Earthbound - Snowman.zip",
+      "size": 31658,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27654,
+      "title": "EarthBound - Snowman",
+      "version": "smwc-27654-1626911906",
+      "upstream_time": 1626911906,
+      "download_url": "https://dl.smwcentral.net/27654/Earthbound%20-%20Snowman.zip",
+      "filename": "Earthbound - Snowman.zip",
+      "size": 44353,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

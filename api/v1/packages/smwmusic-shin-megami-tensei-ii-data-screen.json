@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-data-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37285,
+  "title": "Shin Megami Tensei II - Data Screen",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "Also known as 'Mysterious Finding‘ in SMT if…",
+  "latest_version": "smwc-37285-1714366703",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37285,
+      "title": "Shin Megami Tensei II - Data Screen",
+      "version": "smwc-37285-1714366703",
+      "upstream_time": 1714366703,
+      "download_url": "https://dl.smwcentral.net/37285/SMT2%20Data%20Screen.zip",
+      "filename": "SMT2 Data Screen.zip",
+      "size": 43109,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

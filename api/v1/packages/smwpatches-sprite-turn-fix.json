@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-sprite-turn-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20750,
+  "title": "Sprite turn fix",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "counter",
+    "lorom",
+    "physics",
+    "sa-1",
+    "sprite",
+    "timer",
+    "timing"
+  ],
+  "description": "This patch fixes the way some sprites turn around to face Mario a fixed number of frames, without taking into account if they are facing Mario already or not (which leads to an unpredictable behaviour) by effectively checking if they face Mario or not and only increasing the counter in the later (the counter also resets whenever they face Mario). It also allows to customise the number of frames to wait before turning to face Mario for each sprite. <br>\r\n<br>\r\nThe first screenshot shows what can happen in the vanilla game and the second the fixed behaviour.<br>\r\n<br>\r\nNote that this patch changes the way some sprite tables work for those sprites, using in some cases unused ones.",
+  "latest_version": "smwc-20750-1564504432",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20750,
+      "title": "Sprite turn fix",
+      "version": "smwc-20750-1564504432",
+      "upstream_time": 1564504432,
+      "download_url": "https://dl.smwcentral.net/20750/Turn.zip",
+      "filename": "Turn.zip",
+      "size": 1296,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

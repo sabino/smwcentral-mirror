@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-final-fantasy-v-the-dawn-warriors",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7703,
+  "title": "Final Fantasy V - The Dawn Warriors",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "castle"
+  ],
+  "description": "(Also known as \"Four Warriors of Dawn\")<br>\r\n<br>\r\nThe regal war theme from FFV.",
+  "latest_version": "smwc-7703-1312475918",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7703,
+      "title": "Final Fantasy V - The Dawn Warriors",
+      "version": "smwc-7703-1312475918",
+      "upstream_time": 1312475918,
+      "download_url": "https://dl.smwcentral.net/7703/FourWarriors.zip",
+      "filename": "FourWarriors.zip",
+      "size": 101740,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

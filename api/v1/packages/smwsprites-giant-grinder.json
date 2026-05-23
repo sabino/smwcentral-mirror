@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-giant-grinder",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28168,
+  "title": "Giant Grinder v2",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "64x64",
+    "giant",
+    "grinder",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a giant 64x64 Grinder. You can set both the X and Y (bouncing) speed of the Grinder on a per-sprite basis using extra bytes 1 and 2, and you can also make the Grinder follow Mario like a Disco Shell by setting the extra bit.<br>\r\nAdditionally, you can make the Grinder unleash a terrifying swarm of mini \"Grindlings\" with extra byte 3, that will either shoot out in random directions, or home in on Mario.<br>\r\n<br>\r\nIncludes graphics for SP3, that overwrite the Net Koopas and Dry Bones in GFX12.<br>\r\n<br>\r\nNo More Sprite Tile Limits or MaxTile is strongly recommended.<br>\r\n<br>\r\nv2:<br>\r\n- Reworked the code, notably the graphics routine.<br>\r\n- Redesigned the Giant Grinder graphics, and re-organized the graphics in SP3 to accommodate for the Grindlings.<br>\r\n- Added the ability for the Giant Grinder to follow Mario like a Disco Shell.<br>\r\n- The Grinder's despawn range and layer priority (goes in front or behind the foreground) can now be controlled with extra byte 4.<br>\r\n- Added \"Grindlings\", a cluster sprite that can be periodically spawned by the Giant Grinder using extra byte 3. Comes with a 16x16 blade and 8x8 Shuriken version.<br>\r\n<br>\r\nv1: Initial release.",
+  "latest_version": "smwc-28168-1644431400",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28168,
+      "title": "Giant Grinder v2",
+      "version": "smwc-28168-1644431400",
+      "upstream_time": 1644431400,
+      "download_url": "https://dl.smwcentral.net/28168/GiantGrinderv2.zip",
+      "filename": "GiantGrinderv2.zip",
+      "size": 7965,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

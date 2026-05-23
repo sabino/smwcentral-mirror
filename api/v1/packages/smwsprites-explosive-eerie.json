@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-explosive-eerie",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36884,
+  "title": "Explosive Eerie",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "eerie",
+    "enemy",
+    "explode",
+    "exploding",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Eerie is of explosive variety.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span> during Winter C3 2023. Credit is unecessary.",
+  "latest_version": "smwc-36884-1711321314",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36884,
+      "title": "Explosive Eerie",
+      "version": "smwc-36884-1711321314",
+      "upstream_time": 1711321314,
+      "download_url": "https://dl.smwcentral.net/36884/ExplosiveEerie.zip",
+      "filename": "ExplosiveEerie.zip",
+      "size": 6537,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

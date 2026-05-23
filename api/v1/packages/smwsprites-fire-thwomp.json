@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-fire-thwomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25417,
+  "title": "Fire Thwomp",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1",
+    "thwomp"
+  ],
+  "description": "This thwomp spawns fireballs upon landing.<br>\r\nCredit is optional.",
+  "latest_version": "smwc-25417-1607740076",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25417,
+      "title": "Fire Thwomp",
+      "version": "smwc-25417-1607740076",
+      "upstream_time": 1607740076,
+      "download_url": "https://dl.smwcentral.net/25417/Fire%20Thwomp.zip",
+      "filename": "Fire Thwomp.zip",
+      "size": 4492,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

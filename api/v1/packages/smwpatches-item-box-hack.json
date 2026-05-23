@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-item-box-hack",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21115,
+  "title": "Item Box Hack",
+  "authors": [
+    "andrew789"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This will let you change the button used to use the item box (select) on a per level basis. Therefore, you can disable the item box or whatever (cutscenes, stores). Based off the status bar scanline hack. Credit not wanted!",
+  "latest_version": "smwc-21115-1570924676",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21115,
+      "title": "Item Box Hack",
+      "version": "smwc-21115-1570924676",
+      "upstream_time": 1570924676,
+      "download_url": "https://dl.smwcentral.net/21115/item_box_hack.zip",
+      "filename": "item_box_hack.zip",
+      "size": 856,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

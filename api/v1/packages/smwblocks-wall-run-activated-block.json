@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-wall-run-activated-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 29955,
+  "title": "Wall Run Activated Block",
+  "authors": [
+    "MarkAlarm"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "wall running",
+    "wall-running"
+  ],
+  "description": "This is a block that is triggered upon wall running. Credit unnecessary, but appreciated.<br>\r\n<br>\r\nIn order to specify the block type that gets activated during the wall run, set the act as to whatever the original block's map16 number is. For example, if you want coin blocks to activate upon the wall run, set the act as of this block to 124.<br>\r\n<br>\r\nNote that this block is incompatible with layer 2 and blocks such as the on/off switch and note blocks will revert to their vanilla state after being triggered once. This is due to how the hit animation restores the block to its original map16 form, rather than the custom form. These will likely be updated in the future, but for single-use blocks such as coins and powerups, this works quite well.",
+  "latest_version": "smwc-29955-1662318117",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 29955,
+      "title": "Wall Run Activated Block",
+      "version": "smwc-29955-1662318117",
+      "upstream_time": 1662318117,
+      "download_url": "https://dl.smwcentral.net/29955/Wall%20Run%20Activated%20Block.zip",
+      "filename": "Wall Run Activated Block.zip",
+      "size": 545,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

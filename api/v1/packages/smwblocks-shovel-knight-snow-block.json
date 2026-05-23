@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-shovel-knight-snow-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 32475,
+  "title": "Shovel Knight - Snow Block",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "shovel knight",
+    "snow",
+    "spikes"
+  ],
+  "description": "This floating pile of snow, when touched by the player or sprite, spawns a falling snow sprite (and deletes the block). If the sprite hits the ground with spikes on it, it will cover the spikes so the player can safely walk on it.<br>\r\n<br>\r\n10/30/2022<br>\r\n<br>\r\nNow Sa-1 hybrid.",
+  "latest_version": "smwc-32475-1676613149",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 32475,
+      "title": "Shovel Knight - Snow Block",
+      "version": "smwc-32475-1676613149",
+      "upstream_time": 1676613149,
+      "download_url": "https://dl.smwcentral.net/32475/ShovelKnightSnowSpike.zip",
+      "filename": "ShovelKnightSnowSpike.zip",
+      "size": 13753,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

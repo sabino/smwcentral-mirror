@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-animal-crossing-new-leaf-bubblegum-k-k-aircheck",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25595,
+  "title": "Animal Crossing: New Leaf - Bubblegum K.K. (Aircheck)",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "beach",
+    "carnival",
+    "grassland",
+    "title"
+  ],
+  "description": "The very cute and upbeat song Bubblegum K.K. from Animal Crossing New Leaf/New Horizons! Could be used as a generic athletic theme or maybe a title screen.<br>\r\n<br>\r\nMy very first port of a song I didn't write myself in a very long time! Didn't find a midi so I had to transcribe myself... so please credit me if you use this in your hack :)<br>\r\n<br>\r\n",
+  "latest_version": "smwc-25595-1610161098",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25595,
+      "title": "Animal Crossing: New Leaf - Bubblegum K.K. (Aircheck)",
+      "version": "smwc-25595-1610161098",
+      "upstream_time": 1610161098,
+      "download_url": "https://dl.smwcentral.net/25595/bubblegum_kk.zip",
+      "filename": "bubblegum_kk.zip",
+      "size": 32670,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

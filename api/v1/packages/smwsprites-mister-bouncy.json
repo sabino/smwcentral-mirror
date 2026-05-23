@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-mister-bouncy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3273,
+  "title": "Mister Bouncy",
+  "authors": [
+    "Dispari Scuro"
+  ],
+  "tags": [
+    "bouncy",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This simple sprite hurts Mario if he touches it from the sides, but if he tries to jump on it, he will be bounced  without harming the sprite.<br>\r\n<br>\r\nBased on mikeyk's Shyguy code, so is configurable with koopa settings such as walk fast, stay on ledges, follow Mario, jump over shells, and spinkill enabled.",
+  "latest_version": "smwc-3273-1207332095",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3273,
+      "title": "Mister Bouncy",
+      "version": "smwc-3273-1207332095",
+      "upstream_time": 1207332095,
+      "download_url": "https://dl.smwcentral.net/3273/mrbouncy.zip",
+      "filename": "mrbouncy.zip",
+      "size": 5801,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

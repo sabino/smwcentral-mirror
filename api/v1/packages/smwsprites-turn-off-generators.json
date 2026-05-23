@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-turn-off-generators",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3617,
+  "title": "Turn Off Generators",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "generator",
+    "lorom",
+    "sa-1",
+    "stop"
+  ],
+  "description": "This is a disassembly of sprites D2 and D9, the \"Turn Off Generators\" and \"Turn Off Generator 2\" sprites.  (The extra bit determines which one it acts like.) And yes, I know that the code contained in it is laughably small.<br>\r\nNow SA-1 compatible.",
+  "latest_version": "smwc-3617-1277310499",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3617,
+      "title": "Turn Off Generators",
+      "version": "smwc-3617-1277310499",
+      "upstream_time": 1277310499,
+      "download_url": "https://dl.smwcentral.net/3617/SMWSDIS%20-%20sprites%20D2%20%26%20D9%20-%20turn%20off%20generators.zip",
+      "filename": "SMWSDIS - sprites D2 %26 D9 - turn off generators.zip",
+      "size": 803,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

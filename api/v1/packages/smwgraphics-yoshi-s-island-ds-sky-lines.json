@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-yoshi-s-island-ds-sky-lines",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16988,
+  "title": "Yoshi's Island DS - Sky Lines",
+  "authors": [
+    "Anonymous"
+  ],
+  "tags": [
+    "2bpp",
+    "patch needed",
+    "sky"
+  ],
+  "description": "This is a rip of the sky texture found in 5-7 and a few other levels. Can work really nice as an alternative to classic HDMA.<br>\r\n<br>\r\nmod note: as the original status bar will cut fullscreen layer 3 backgrounds off, you may want to use a status bar patch (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">Sprite Status Bar</a>)",
+  "latest_version": "smwc-16988-1516849320",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16988,
+      "title": "Yoshi's Island DS - Sky Lines",
+      "version": "smwc-16988-1516849320",
+      "upstream_time": 1516849320,
+      "download_url": "https://dl.smwcentral.net/16988/yi%20ds%20sky.zip",
+      "filename": "yi ds sky.zip",
+      "size": 2701,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

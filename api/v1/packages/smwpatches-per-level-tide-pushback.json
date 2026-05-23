@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-per-level-tide-pushback",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42176,
+  "title": "Per-Level Tide Pushback",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "control",
+    "layer 3",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: var(--user-color-2);\" class=\"un\">MrUg123</a></span>.",
+  "latest_version": "1.1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42176,
+      "title": "Per-Level Tide Pushback",
+      "version": "1.1.1",
+      "upstream_time": 1778012260,
+      "download_url": "https://dl.smwcentral.net/42176/Per-Level%20Tide%20Pushback%20v1.1.1.zip",
+      "filename": "Per-Level Tide Pushback v1.1.1.zip",
+      "size": 1472,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

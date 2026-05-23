@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-mario-world-pirate-vanilla-dome",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28120,
+  "title": "Super Mario World (Pirate) - Vanilla Dome",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "overworld",
+    "retro"
+  ],
+  "description": "The Sampled Version of the Vanilla Dome theme from Bootleg SMW<br>\r\n<br>\r\nCan fit in Overworlds.<br>\r\n<br>\r\nMidi by PalaceSwitcher.<br>\r\n<br>\r\nEdit: Now uses actual noise samples from the original.<br>\r\n(Although be aware that the samples are of high quality)",
+  "latest_version": "smwc-28120-1635803898",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28120,
+      "title": "Super Mario World (Pirate) - Vanilla Dome",
+      "version": "smwc-28120-1635803898",
+      "upstream_time": 1635803898,
+      "download_url": "https://dl.smwcentral.net/28120/Super%20Mario%20World%20%28Pirated%29%20-%20Vanilla%20Dome%20Sampled.zip",
+      "filename": "Super Mario World (Pirated) - Vanilla Dome Sampled.zip",
+      "size": 77804,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27495,
+      "title": "Super Mario World (Pirate) - Vanilla Dome",
+      "version": "smwc-27495-1627792447",
+      "upstream_time": 1627792447,
+      "download_url": "https://dl.smwcentral.net/27495/Super%20Mario%20World%20%28Pirated%29%20-%20Vanilla%20Dome.zip",
+      "filename": "Super Mario World (Pirated) - Vanilla Dome.zip",
+      "size": 31240,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

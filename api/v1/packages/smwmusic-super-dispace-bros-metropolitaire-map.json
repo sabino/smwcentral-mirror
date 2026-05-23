@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-dispace-bros-metropolitaire-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39858,
+  "title": "Super Dispace Bros. - Metropolitaire Map",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "overworld",
+    "town",
+    "urban"
+  ],
+  "description": "Urban or Metropolis Map.",
+  "latest_version": "smwc-39858-1751733331",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39858,
+      "title": "Super Dispace Bros. - Metropolitaire Map",
+      "version": "smwc-39858-1751733331",
+      "upstream_time": 1751733331,
+      "download_url": "https://dl.smwcentral.net/39858/metropolitaire%20map.zip",
+      "filename": "metropolitaire map.zip",
+      "size": 32081,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

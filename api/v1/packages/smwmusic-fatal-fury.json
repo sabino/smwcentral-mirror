@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-fatal-fury",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29581,
+  "title": "Fatal Fury 2 (Genesis) - A New Poem That the South Thailand Wants to Tell",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "carnival",
+    "grassland",
+    "overworld",
+    "temple",
+    "town"
+  ],
+  "description": "Joe Higashi's stage theme from SNK fighting game <i>Fatal Fury 2</i>. Based on the Mega Drive version, which omits some instruments and voice clips from the Neo Geo version.",
+  "latest_version": "smwc-29581-1650479468",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29581,
+      "title": "Fatal Fury 2 (Genesis) - A New Poem That the South Thailand Wants to Tell",
+      "version": "smwc-29581-1650479468",
+      "upstream_time": 1650479468,
+      "download_url": "https://dl.smwcentral.net/29581/Fatal%20Fury%202%20MD%20A%20New%20Poem%20That%20the%20South%20Thailand%20Wants%20to%20Tell.zip",
+      "filename": "Fatal Fury 2 MD A New Poem That the South Thailand Wants to Tell.zip",
+      "size": 32860,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21928,
+      "title": "Fatal Fury 2 - Pasta (Andy Bogard Theme)",
+      "version": "smwc-21928-1579400658",
+      "upstream_time": 1579400658,
+      "download_url": "https://dl.smwcentral.net/21928/Fatal%20Fury%202%20Pasta%20Version%201.2.zip",
+      "filename": "Fatal Fury 2 Pasta Version 1.2.zip",
+      "size": 34357,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

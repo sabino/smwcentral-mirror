@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-new-super-mario-bros-spiked-question-mark-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34467,
+  "title": "New Super Mario Bros - Spiked Question Mark Block",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a spiked question mark block, a block which rotates itself while one side is spiked. It's non-dynamic so it can only turn in four directions but it is easier to insert and more than four can be on-screen as well. The content can be filled in various ways.<br>\r\n<br>\r\nCredits is required.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>.",
+  "latest_version": "smwc-34467-1727180538",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34467,
+      "title": "New Super Mario Bros - Spiked Question Mark Block",
+      "version": "smwc-34467-1727180538",
+      "upstream_time": 1727180538,
+      "download_url": "https://dl.smwcentral.net/34467/Spiked%20Question%20Block.zip",
+      "filename": "Spiked Question Block.zip",
+      "size": 13137,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

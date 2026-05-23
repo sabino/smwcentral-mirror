@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-live-a-live-captain-square",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20134,
+  "title": "Live A Live - Captain Square",
+  "authors": [
+    "Vaelstraza"
+  ],
+  "tags": [
+    "bonus",
+    "credits",
+    "misc"
+  ],
+  "description": "Super short port from Live-A-Live. Would be good for credits or bonus sections. Loop/track is very small which is something important to note. ",
+  "latest_version": "smwc-20134-1559665020",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20134,
+      "title": "Live A Live - Captain Square",
+      "version": "smwc-20134-1559665020",
+      "upstream_time": 1559665020,
+      "download_url": "https://dl.smwcentral.net/20134/LiveALive-CaptainSquare.zip",
+      "filename": "LiveALive-CaptainSquare.zip",
+      "size": 23285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

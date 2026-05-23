@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-earthbound-paula-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7524,
+  "title": "EarthBound - Paula's Theme",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "calm",
+    "town"
+  ],
+  "description": "The song that plays in the jail where Paula is trapped. Starts off slow and sad, <br>\r\n ends strong and optimistic. Would be good for indoor non-castle levels.",
+  "latest_version": "smwc-7524-1320043392",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7524,
+      "title": "EarthBound - Paula's Theme",
+      "version": "smwc-7524-1320043392",
+      "upstream_time": 1320043392,
+      "download_url": "https://dl.smwcentral.net/7524/paula.zip",
+      "filename": "paula.zip",
+      "size": 71601,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

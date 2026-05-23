@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-the-prince-of-darkness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18940,
+  "title": "The Legend of Zelda: A Link to the Past - The Prince of Darkness",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "The epic final boss theme from Link to the Past.",
+  "latest_version": "smwc-18940-1547500826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18940,
+      "title": "The Legend of Zelda: A Link to the Past - The Prince of Darkness",
+      "version": "smwc-18940-1547500826",
+      "upstream_time": 1547500826,
+      "download_url": "https://dl.smwcentral.net/18940/LoZ%20ALttP%20-%20The%20Prince%20of%20Darkness.zip",
+      "filename": "LoZ ALttP - The Prince of Darkness.zip",
+      "size": 31593,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14964,
+      "title": "The Legend of Zelda: A Link to the Past - The Prince of Darkness",
+      "version": "smwc-14964-1487386863",
+      "upstream_time": 1487386863,
+      "download_url": "https://dl.smwcentral.net/14964/tloz_lttp_tpod.zip",
+      "filename": "tloz_lttp_tpod.zip",
+      "size": 51103,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

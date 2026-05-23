@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-dragon-warrior-level-up",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25089,
+  "title": "Dragon Warrior - Level Up",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "goal",
+    "retro"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for course clear or a custom event.",
+  "latest_version": "smwc-25089-1604723120",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25089,
+      "title": "Dragon Warrior - Level Up",
+      "version": "smwc-25089-1604723120",
+      "upstream_time": 1604723120,
+      "download_url": "https://dl.smwcentral.net/25089/DragonQuest17Improvement.zip",
+      "filename": "DragonQuest17Improvement.zip",
+      "size": 30763,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

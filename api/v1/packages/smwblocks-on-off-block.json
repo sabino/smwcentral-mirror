@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-on-off-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 38061,
+  "title": "On/Off Block",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "bounce",
+    "lorom",
+    "on-off",
+    "sa-1",
+    "switch"
+  ],
+  "description": "A customisable on/off block which unlike most imitators is able to actually display a bounce animation (which for this reason requires PIXI v1.40 or newer) but can be disabled for your likings as well as be set to be one-way only, change to a different block (thus being single-use) as well as be triggered by a whole lot of options (kicked objects, spin jump and fireball besides the usual cape).",
+  "latest_version": "smwc-38061-1736290844",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 38061,
+      "title": "On/Off Block",
+      "version": "smwc-38061-1736290844",
+      "upstream_time": 1736290844,
+      "download_url": "https://dl.smwcentral.net/38061/On-Off%20Block.zip",
+      "filename": "On-Off Block.zip",
+      "size": 8976,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

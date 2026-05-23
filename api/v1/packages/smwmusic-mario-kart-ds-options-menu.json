@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-kart-ds-options-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32008,
+  "title": "Mario Kart DS - Options Menu",
+  "authors": [
+    "Fyre150"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "switch palace",
+    "title"
+  ],
+  "description": "how to travel back to 2005.",
+  "latest_version": "smwc-32008-1680144912",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32008,
+      "title": "Mario Kart DS - Options Menu",
+      "version": "smwc-32008-1680144912",
+      "upstream_time": 1680144912,
+      "download_url": "https://dl.smwcentral.net/32008/Mario%20Kart%20DS%20-%20Options%20Menu.zip",
+      "filename": "Mario Kart DS - Options Menu.zip",
+      "size": 54220,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

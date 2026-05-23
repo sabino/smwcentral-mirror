@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-x3-stage-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39836,
+  "title": "Mega Man X3 - Stage Select",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "final",
+    "fire",
+    "industrial",
+    "overworld",
+    "tense"
+  ],
+  "description": "Stage Select from Mega Man X3.",
+  "latest_version": "smwc-39836-1748804782",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39836,
+      "title": "Mega Man X3 - Stage Select",
+      "version": "smwc-39836-1748804782",
+      "upstream_time": 1748804782,
+      "download_url": "https://dl.smwcentral.net/39836/Mega%20Man%20X3%20-%20Stage%20Select.zip",
+      "filename": "Mega Man X3 - Stage Select.zip",
+      "size": 73403,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

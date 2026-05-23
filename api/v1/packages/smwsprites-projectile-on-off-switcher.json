@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-projectile-on-off-switcher",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14919,
+  "title": "Projectile On/Off switcher",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "fireball",
+    "invisible",
+    "lorom",
+    "on-off",
+    "pacifist",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "This is an invisible sprite that when hit by a projectile (like a baseball) will swap the on/off as well as play the on/off sound.<br>\r\n<br>\r\nPlace inside an actual on/off switch for it to make at least some sense",
+  "latest_version": "smwc-14919-1483973815",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14919,
+      "title": "Projectile On/Off switcher",
+      "version": "smwc-14919-1483973815",
+      "upstream_time": 1483973815,
+      "download_url": "https://dl.smwcentral.net/14919/onoff.zip",
+      "filename": "onoff.zip",
+      "size": 994,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

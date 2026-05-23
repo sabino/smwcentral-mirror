@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-minish-cap-fortress-of-winds",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18137,
+  "title": "The Legend of Zelda: The Minish Cap - Fortress of Winds",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "ghost house",
+    "ruins",
+    "tense"
+  ],
+  "description": "A very \"ruinsy\" sounding theme from LOZ: Minish Cap. This theme works for castles/fortresses. It fits a ghost house (although it's not haunted), and it sort of fits an airship.<br>\r\n<br>\r\nUPDATE: Tacked on $F4 $02 to make it sound better.",
+  "latest_version": "smwc-18137-1536462566",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18137,
+      "title": "The Legend of Zelda: The Minish Cap - Fortress of Winds",
+      "version": "smwc-18137-1536462566",
+      "upstream_time": 1536462566,
+      "download_url": "https://dl.smwcentral.net/18137/Fortress%20of%20Winds.zip",
+      "filename": "Fortress of Winds.zip",
+      "size": 35614,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

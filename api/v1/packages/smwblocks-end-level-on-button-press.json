@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-end-level-on-button-press",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41211,
+  "title": "End Level on Button Press",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "controller",
+    "event",
+    "exit",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block ends the level after a certain button is pressed.",
+  "latest_version": "smwc-41211-1765826923",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41211,
+      "title": "End Level on Button Press",
+      "version": "smwc-41211-1765826923",
+      "upstream_time": 1765826923,
+      "download_url": "https://dl.smwcentral.net/41211/end_level_button.zip",
+      "filename": "end_level_button.zip",
+      "size": 898,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-dark-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9275,
+  "title": "The Legend of Zelda: A Link to the Past - Dark World",
+  "authors": [
+    "Sayuri"
+  ],
+  "tags": [
+    "dark",
+    "desert",
+    "final",
+    "fire",
+    "forest",
+    "mountain",
+    "night",
+    "overworld",
+    "ruins"
+  ],
+  "description": "An unsampled port of the dark land theme from ALTTP. Could fit lava/final world settings quite well.",
+  "latest_version": "smwc-9275-1410644201",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9275,
+      "title": "The Legend of Zelda: A Link to the Past - Dark World",
+      "version": "smwc-9275-1410644201",
+      "upstream_time": 1410644201,
+      "download_url": "https://dl.smwcentral.net/9275/%5BK%5D%20The%20Legend%20of%20Zelda%20-%20ALTTP%20-%20Dark%20Golden%20Land.zip",
+      "filename": "%5BK%5D The Legend of Zelda - ALTTP - Dark Golden Land.zip",
+      "size": 33341,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7455,
+      "title": "The Legend of Zelda: A Link to the Past - Dark World",
+      "version": "smwc-7455-1338011692",
+      "upstream_time": 1338011692,
+      "download_url": "https://dl.smwcentral.net/7455/LOZ.DW.zip",
+      "filename": "LOZ.DW.zip",
+      "size": 58205,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

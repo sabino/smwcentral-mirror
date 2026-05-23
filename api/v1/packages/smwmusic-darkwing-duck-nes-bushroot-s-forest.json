@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-darkwing-duck-nes-bushroot-s-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31509,
+  "title": "Darkwing Duck (NES) - Bushroot's Forest",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "retro"
+  ],
+  "description": "Bushroot's Forest from Darkwing Duck on the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31509-1663843002",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31509,
+      "title": "Darkwing Duck (NES) - Bushroot's Forest",
+      "version": "smwc-31509-1663843002",
+      "upstream_time": 1663843002,
+      "download_url": "https://dl.smwcentral.net/31509/Darkwing%20Duck%20%28NES%29%20-%20Bushroot%27s%20Forest.zip",
+      "filename": "Darkwing Duck (NES) - Bushroot%27s Forest.zip",
+      "size": 70181,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

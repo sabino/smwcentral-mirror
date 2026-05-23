@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-vi-aria-di-mezzo-carattere",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21410,
+  "title": "Final Fantasy VI - Aria di Mezzo Carattere",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "night",
+    "sad"
+  ],
+  "description": "This is the emotional piece sung by Celes while impersonating the opera singer Maria. It could be used for a cutscene.<br>\r\n<br>\r\nNote that the song doesn't loop (you can make it loop by removing \"#option NoLoop\" at the top of the file).",
+  "latest_version": "smwc-21410-1573278338",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21410,
+      "title": "Final Fantasy VI - Aria di Mezzo Carattere",
+      "version": "smwc-21410-1573278338",
+      "upstream_time": 1573278338,
+      "download_url": "https://dl.smwcentral.net/21410/Aria%20di%20Mezzo%20Carattere.zip",
+      "filename": "Aria di Mezzo Carattere.zip",
+      "size": 59648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

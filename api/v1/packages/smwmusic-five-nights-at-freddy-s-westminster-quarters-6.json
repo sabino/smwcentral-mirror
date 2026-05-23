@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-five-nights-at-freddy-s-westminster-quarters-6",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37917,
+  "title": "Five Nights at Freddy's - Westminster Quarters (6:00 AM Jingle)",
+  "authors": [
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "calm",
+    "game over",
+    "goal"
+  ],
+  "description": "\"We're getting to 6:00 AM with this one.\"<br>\r\n<br>\r\nThe iconic theme heard when your grandfather clock dials it's chimes. It's also used in the hit indie game \"Chipper & Sons Lumber Co.\" by Scott Cawthon, amongst a few others-less popular-titles.<br>\r\n<br>\r\nThere are two versions: one specifically used in <a href=\"https://smwc.me/s/35050\">~omh~</a>, and one that's compatible with global (lacks any echo, and uses more channels to recreate it). You CAN use the ~omh~ one with echo as a victory theme if you just use it as a local song and set the death theme to the song number in asm/SNES/tweaks.asm.<br>\r\n<br>\r\nThe <a href=\"https://smwc.me/s/35050\">~omh~</a> version is 0x0097, while the global version is 0x00E0.<br>\r\n<br>\r\nIf the goal define is 0, the size decreases to 0x005A for ~omh~, while it'll decrease to 0x009D for global.",
+  "latest_version": "smwc-37917-1723839377",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37917,
+      "title": "Five Nights at Freddy's - Westminster Quarters (6:00 AM Jingle)",
+      "version": "smwc-37917-1723839377",
+      "upstream_time": 1723839377,
+      "download_url": "https://dl.smwcentral.net/37917/%5BU%5D%20Five%20Nights%20at%20Freddy%27s%20-%20Westminster%20Quarters%20%286%20AM%20Jingle%29.zip",
+      "filename": "%5BU%5D Five Nights at Freddy%27s - Westminster Quarters (6 AM Jingle).zip",
+      "size": 122131,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

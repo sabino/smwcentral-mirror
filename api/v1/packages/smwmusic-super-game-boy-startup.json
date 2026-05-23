@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-game-boy-startup",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40805,
+  "title": "Super Game Boy - Startup",
+  "authors": [
+    "LuciCat"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "Ah yes, the classic sound that plays once you pop a Game Boy cartridge onto your Super Game Boy cartridge onto your SNES.<br>\r\n<br>\r\nFor those living under a rock, it's basically a SNES cartridge that not only allows you to play Game Boy (and a few Game Boy Color) games on your TV screens, no no, it's literally an almost-entire Game Boy system, crammed onto a SNES cartridge, and also offers enhancements on some games (mainly borders, but there are also for example color and in rare cases, even SPC700 music!; the international Game Boy version of <i>Space Invaders</i> even allows you to play the SNES version when inserted onto the Super Game Boy).<br>\r\n<br>\r\nNotoriously, the melody for this startup was later remixed, in a different key, for the Game Boy Advance, minus the wind at the start, plus the addition of the iconic two-note chime at the end.<br>\r\n<br>\r\nGood for a Nintendo Presents screen, although to let it play in full, you should <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=102\">use this tweak</a>, and give the timer a value of $58.<br>\r\n<br>\r\nPresent in the TXT is \"#define SGB 0\". Replacing the zero with a non-zero value will bring you the version used on the Japan-exclusive Super Game Boy 2 (which fixed the clock speed, as the one on the original Super Game Boy was slightly faster and hence often banned from speedrunning, as well as adding link cable support), which lacks the volume fade at the start and has an insert size of 0x00A3.",
+  "latest_version": "smwc-40805-1767127778",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40805,
+      "title": "Super Game Boy - Startup",
+      "version": "smwc-40805-1767127778",
+      "upstream_time": 1767127778,
+      "download_url": "https://dl.smwcentral.net/40805/Super%20Game%20Boy%20-%20Startup.zip",
+      "filename": "Super Game Boy - Startup.zip",
+      "size": 70346,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

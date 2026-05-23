@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-no-silent-bullet-bill",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19238,
+  "title": "No Silent Bullet Bill",
+  "authors": [
+    "Ramp202"
+  ],
+  "tags": [
+    "bullet bill",
+    "lorom",
+    "sa-1",
+    "sfx",
+    "sprite"
+  ],
+  "description": "Since people (mostly mods) complained about how the Bullet bills when placed in a level are silent and don't play any SFX, i decided to make this patch. REQUIRES 11 (0B) bytes of Freespace/Empty Space in the rom",
+  "latest_version": "smwc-19238-1551692918",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19238,
+      "title": "No Silent Bullet Bill",
+      "version": "smwc-19238-1551692918",
+      "upstream_time": 1551692918,
+      "download_url": "https://dl.smwcentral.net/19238/No%20Silent%20Bullet.zip",
+      "filename": "No Silent Bullet.zip",
+      "size": 695,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

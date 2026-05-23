@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cave-story-seal-chamber",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22345,
+  "title": "Cave Story - Seal Chamber",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "cave",
+    "retro",
+    "temple",
+    "tense"
+  ],
+  "description": "An atmospheric and tense-sounding track from Cave Story which would fit into a variety of ominous sections.<br>\r\n<br>\r\nRequested by TheMorganah.",
+  "latest_version": "smwc-22345-1583976815",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22345,
+      "title": "Cave Story - Seal Chamber",
+      "version": "smwc-22345-1583976815",
+      "upstream_time": 1583976815,
+      "download_url": "https://dl.smwcentral.net/22345/sealchamber.zip",
+      "filename": "sealchamber.zip",
+      "size": 51345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

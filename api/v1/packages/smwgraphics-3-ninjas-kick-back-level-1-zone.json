@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-3-ninjas-kick-back-level-1-zone",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30366,
+  "title": "3 Ninjas Kick Back - Level 1 (Zone 2)",
+  "authors": [
+    "KPhoenix"
+  ],
+  "tags": [
+    "forest",
+    "lake",
+    "mountain"
+  ],
+  "description": "Features a mountainous scene but has an empty sky.",
+  "latest_version": "smwc-30366-1649369211",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30366,
+      "title": "3 Ninjas Kick Back - Level 1 (Zone 2)",
+      "version": "smwc-30366-1649369211",
+      "upstream_time": 1649369211,
+      "download_url": "https://dl.smwcentral.net/30366/Level%201%20zone%202.zip",
+      "filename": "Level 1 zone 2.zip",
+      "size": 7091,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2629,
+      "title": "3 Ninjas Kick Back - Level 1 (Zone 1)",
+      "version": "smwc-2629-1370973477",
+      "upstream_time": 1370973477,
+      "download_url": "https://dl.smwcentral.net/2629/3%20Ninjas%20Kick%20Back%20-%20Level%201%20%28Zone%201%29.zip",
+      "filename": "3 Ninjas Kick Back - Level 1 (Zone 1).zip",
+      "size": 6805,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

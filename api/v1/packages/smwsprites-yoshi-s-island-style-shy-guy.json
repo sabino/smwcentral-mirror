@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-yoshi-s-island-style-shy-guy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22378,
+  "title": "Yoshi's Island-style Shy Guy",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "shy guy",
+    "yoshi's island"
+  ],
+  "description": "This is a Shy Guy that behaves like the one in Yoshi's Island.<br>\r\n<br>\r\n(Rykon-V73): Added .json file for the 2 sprites and merged its GFX with the Fly Guy GFX. Now both should be compatible.",
+  "latest_version": "smwc-22378-1584030754",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22378,
+      "title": "Yoshi's Island-style Shy Guy",
+      "version": "smwc-22378-1584030754",
+      "upstream_time": 1584030754,
+      "download_url": "https://dl.smwcentral.net/22378/YI%20Shy%20Guy_edited.zip",
+      "filename": "YI Shy Guy_edited.zip",
+      "size": 6855,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

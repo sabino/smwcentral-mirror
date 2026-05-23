@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-earthbound-onett",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22775,
+  "title": "EarthBound - Onett",
+  "authors": [
+    "StackDino"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "grassland",
+    "snow",
+    "town"
+  ],
+  "description": "The Onett theme from Earthbound. Can be used in multiple locations, like town, snow levels or cutscene.",
+  "latest_version": "smwc-22775-1589688667",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22775,
+      "title": "EarthBound - Onett",
+      "version": "smwc-22775-1589688667",
+      "upstream_time": 1589688667,
+      "download_url": "https://dl.smwcentral.net/22775/Earthbound%20-%20Onett%20.zip",
+      "filename": "Earthbound - Onett .zip",
+      "size": 56506,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7146,
+      "title": "EarthBound - Onett",
+      "version": "smwc-7146-1312746833",
+      "upstream_time": 1312746833,
+      "download_url": "https://dl.smwcentral.net/7146/onett.zip",
+      "filename": "onett.zip",
+      "size": 71819,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

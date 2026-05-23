@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castlevania-demented-mind-poison-mind-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8283,
+  "title": "Castlevania - Demented Mind (Poison Mind Remix)",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "night"
+  ],
+  "description": "A menacing remix of the boss theme from the NES game 'Castlevania'. Would suit boss battles.",
+  "latest_version": "smwc-8283-1345218925",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8283,
+      "title": "Castlevania - Demented Mind (Poison Mind Remix)",
+      "version": "smwc-8283-1345218925",
+      "upstream_time": 1345218925,
+      "download_url": "https://dl.smwcentral.net/8283/DementedMind.zip",
+      "filename": "DementedMind.zip",
+      "size": 64538,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

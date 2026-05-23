@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-jikkyou-oshaberi-parodius-snes-high-speed-patrol-shooting-gallery",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38052,
+  "title": "Jikkyou Oshaberi Parodius (SNES) - High Speed Patrol (Shooting Gallery)",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "city"
+  ],
+  "description": "It's the city from the SNES version. Removed the karts, as those take many tiles. Have fun!<br>\r\n<br>\r\nSmall update:<br>\r\n-Moved the tiles from FG2 to BG3;<br>\r\n-Made the street color use the back area color, saving 1 palette;<br>\r\n-Added the required street HDMA that came from the level.<br>\r\n<br>\r\nNo credit needed.",
+  "latest_version": "smwc-38052-1720023762",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38052,
+      "title": "Jikkyou Oshaberi Parodius (SNES) - High Speed Patrol (Shooting Gallery)",
+      "version": "smwc-38052-1720023762",
+      "upstream_time": 1720023762,
+      "download_url": "https://dl.smwcentral.net/38052/Jikkyou%20Oshaberi%20Parodius%20%28SNES%29%20-%20High%20Speed%20Patrol%20%28Shooting%20Gallery%29.zip",
+      "filename": "Jikkyou Oshaberi Parodius (SNES) - High Speed Patrol (Shooting Gallery).zip",
+      "size": 10882,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

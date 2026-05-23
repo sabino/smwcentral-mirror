@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-critter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39718,
+  "title": "Critter",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "cave story",
+    "critter",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "The Critter from Cave Story.<br>\r\nThis sprite is the generic enemy that jumps when you get near. Some variants are capable of flying for a short period or shooting projectiles.<br>\r\n<br>\r\nPlease see the sprite's ASM file for customization and remapping.",
+  "latest_version": "smwc-39718-1755782304",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39718,
+      "title": "Critter",
+      "version": "smwc-39718-1755782304",
+      "upstream_time": 1755782304,
+      "download_url": "https://dl.smwcentral.net/39718/Critter.zip",
+      "filename": "Critter.zip",
+      "size": 10399,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-ghb-s-sticky-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15731,
+  "title": "GHB's Sticky Block",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "glue",
+    "lorom",
+    "sa-1",
+    "sticky",
+    "tar"
+  ],
+  "description": "Unlike the outdated BlockTool version by Jhonwilson, this one has an improvement:<br>\r\n<br>\r\n-can modify the \"speed limit\" on how slow mairo is allowed rather than a speed of $00.<br>\r\n-corners included<br>\r\n-can disable jumping while standing on top<br>\r\n-stick to the bottom and can move along with it (by pressing left or right) perfect for platforming levels that lacks a floor, doesn't work if yoshi or if mario is in water.<br>\r\n-and a walljump version",
+  "latest_version": "smwc-15731-1503008693",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15731,
+      "title": "GHB's Sticky Block",
+      "version": "smwc-15731-1503008693",
+      "upstream_time": 1503008693,
+      "download_url": "https://dl.smwcentral.net/15731/StickyBlk_2_1.zip",
+      "filename": "StickyBlk_2_1.zip",
+      "size": 2403,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

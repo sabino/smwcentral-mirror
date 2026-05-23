@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-sadness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8462,
+  "title": "Mario & Luigi: Partners in Time - Sadness",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "ghost house"
+  ],
+  "description": "Sad music that fits cutscenes and dark places such as ghost houses.",
+  "latest_version": "smwc-8462-1377837730",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8462,
+      "title": "Mario & Luigi: Partners in Time - Sadness",
+      "version": "smwc-8462-1377837730",
+      "upstream_time": 1377837730,
+      "download_url": "https://dl.smwcentral.net/8462/Sadness.zip",
+      "filename": "Sadness.zip",
+      "size": 64486,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

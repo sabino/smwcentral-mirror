@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-castlevania-order-of-ecclesia-rhapsody-of-the-forsaken",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37446,
+  "title": "Castlevania: Order of Ecclesia - Rhapsody of the Forsaken",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Rhapsody of the Forsaken from Castlevania: Order of Ecclesia, which plays in the Minera Prison Island and Lighthouse areas. Good for areas like castles, athletic levels, tower/fortress areas and in general is very fitting for parts that require a higher degree of intensity.<br>\r\n<br>\r\nWARNING: Not compatible with Blaargs or Yoshi.",
+  "latest_version": "smwc-37446-1717208196",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37446,
+      "title": "Castlevania: Order of Ecclesia - Rhapsody of the Forsaken",
+      "version": "smwc-37446-1717208196",
+      "upstream_time": 1717208196,
+      "download_url": "https://dl.smwcentral.net/37446/ecclesianrhapsody.zip",
+      "filename": "ecclesianrhapsody.zip",
+      "size": 146345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

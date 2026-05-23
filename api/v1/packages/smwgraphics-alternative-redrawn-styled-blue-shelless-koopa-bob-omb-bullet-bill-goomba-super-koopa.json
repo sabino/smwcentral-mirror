@@ -1,0 +1,35 @@
+{
+  "name": "smwgraphics-alternative-redrawn-styled-blue-shelless-koopa-bob-omb-bullet-bill-goomba-super-koopa",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 34107,
+  "title": "Alternative Redrawn Styled Blue Shelless Koopa, Bob-Omb, Bullet Bill, Goomba & Super Koopa",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "bob-omb",
+    "bullet bill",
+    "goomba",
+    "redrawn",
+    "shelless koopa",
+    "super koopa"
+  ],
+  "description": "A small miscellaneous set of Redrawn-styled graphics for the Sliding Shelless Koopas, Shelless Blue Koopa & Super Koopa (all 3 drawn in a 3/4ths perspective like most sprites on this style), Goomba (based on some graphics I did for a request a long time ago), Bullet Bill and Bob-Omb (both with slighly tweaked shading).<br>\r\n<br>\r\nGraphics featuring the Blue Shelless Koopa & Super Koopa have slight variations with and without angry eyes. On a related note, the cape tiles have also been tweaked a bit to ensure these will look ok with the new graphics.<br>\r\n<br>\r\nFinally, do note that to make use of the Goomba's squished graphics and the Bob-Omb's stunned frame, some <a href=\"https://www.smwcentral.net/?p=memorymap&game=smw&region=rom&address=01E733&context=\">specific</a> <a href=\"https://www.smwcentral.net/?p=memorymap&game=smw&region=rom&address=07F26C&context=\">hex</a> <a href=\"https://smwc.me/m/smw/rom/01A1F0=\">edits</a> are needed to make them appear through gameplay (a small patch is included just in case, which you can apply with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=25953=\">Asar</a>).<br>\r\n<br>\r\nCredit's not required but it would be appreciated nonetheless.",
+  "latest_version": "smwc-34107-1686710794",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 34107,
+      "title": "Alternative Redrawn Styled Blue Shelless Koopa, Bob-Omb, Bullet Bill, Goomba & Super Koopa",
+      "version": "smwc-34107-1686710794",
+      "upstream_time": 1686710794,
+      "download_url": "https://dl.smwcentral.net/34107/Alternate%20Redrawn%20Shelless%2BSuper%20Koopa%2C%20Goomba%20and%20Bullet%20Bill%20Frames.zip",
+      "filename": "Alternate Redrawn Shelless+Super Koopa%2C Goomba and Bullet Bill Frames.zip",
+      "size": 19811,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-beatmario-night-of-nights",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19709,
+  "title": "beatMARIO - Night of Nights",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "dark"
+  ],
+  "description": "Could fit with boss theme",
+  "latest_version": "smwc-19709-1555725441",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19709,
+      "title": "beatMARIO - Night of Nights",
+      "version": "smwc-19709-1555725441",
+      "upstream_time": 1555725441,
+      "download_url": "https://dl.smwcentral.net/19709/Night%20of%20Knights%20%28SMW%29.zip",
+      "filename": "Night of Knights (SMW).zip",
+      "size": 34292,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

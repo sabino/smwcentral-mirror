@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cavern-collectathon-boss-beta",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37309,
+  "title": "Cavern Collectathon - Boss (Beta)",
+  "authors": [
+    "Segment1Zone2",
+    "wolfram"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "final"
+  ],
+  "description": "The beta version of the boss theme from <a href=\"https://www.smwcentral.net/?p=viewthread&t=126748\">Cavern Collectathon</a>.",
+  "latest_version": "smwc-37309-1712269474",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37309,
+      "title": "Cavern Collectathon - Boss (Beta)",
+      "version": "smwc-37309-1712269474",
+      "upstream_time": 1712269474,
+      "download_url": "https://dl.smwcentral.net/37309/Cavern%20Collectathon%20-%20Boss%20%28Beta%29%20.zip",
+      "filename": "Cavern Collectathon - Boss (Beta) .zip",
+      "size": 69296,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

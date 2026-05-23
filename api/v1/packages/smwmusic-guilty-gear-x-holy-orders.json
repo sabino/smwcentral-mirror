@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-guilty-gear-x-holy-orders",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13337,
+  "title": "Guilty Gear X - Holy Orders",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "final",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "A song from Guilty Gear X which could fit tense and athletic areas.",
+  "latest_version": "smwc-13337-1456671697",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13337,
+      "title": "Guilty Gear X - Holy Orders",
+      "version": "smwc-13337-1456671697",
+      "upstream_time": 1456671697,
+      "download_url": "https://dl.smwcentral.net/13337/Holy%20orders.zip",
+      "filename": "Holy orders.zip",
+      "size": 25735,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

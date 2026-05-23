@@ -1,0 +1,32 @@
+{
+  "name": "tools-real-n64-crc-tool",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 8799,
+  "title": "Real N64 CRC Tool v2",
+  "authors": [
+    "RaO"
+  ],
+  "tags": [
+    "bootcode",
+    "checksum",
+    "crc"
+  ],
+  "description": "\"It's a tool that will check / calculate / extract the bootcode of a Nintendo 64 ROM file. It can also check the origin of an already ripped bootcode.\" - README.<br>\r\n<br>\r\nThis tool is specially used for SM64 to re-calculate the CRC Checksum of the game. In case someone edited something inside the so-called \"Checksum Protected Area\" (CPA) you need this tool to re-calculate the CRC checksum or else the game won't work anymore. The alternative would be NOP'ing the BNE instructions, however most people aren't aware of this and so this tool might be a help.<br>\r\n<br>\r\nSyntax:<br>\r\n\"rn64crc romname.z64 -u\" u does update the CRC.",
+  "latest_version": "smwc-8799-1407540064",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 8799,
+      "title": "Real N64 CRC Tool v2",
+      "version": "smwc-8799-1407540064",
+      "upstream_time": 1407540064,
+      "download_url": "https://dl.smwcentral.net/8799/rn64crc2.zip",
+      "filename": "rn64crc2.zip",
+      "size": 193941,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

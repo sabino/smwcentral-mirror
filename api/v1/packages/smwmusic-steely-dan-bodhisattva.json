@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-steely-dan-bodhisattva",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23303,
+  "title": "Steely Dan - Bodhisattva",
+  "authors": [
+    "kaigem"
+  ],
+  "tags": [
+    "athletic",
+    "town",
+    "urban"
+  ],
+  "description": "A port of Steely Dan's Bodhisattva from their 1973 album Countdown to Ecstasy.  An uptempo jazzy rock song with a solid underlying blues riff and a shredding guitar solo.  Great for athletic stages.  Originally ported for The Rock 'n' Roll Mario Show.  Credit is appreciated but not strictly necessary.  Enjoy and rock on!",
+  "latest_version": "smwc-23303-1593029544",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23303,
+      "title": "Steely Dan - Bodhisattva",
+      "version": "smwc-23303-1593029544",
+      "upstream_time": 1593029544,
+      "download_url": "https://dl.smwcentral.net/23303/Bodhisattva.zip",
+      "filename": "Bodhisattva.zip",
+      "size": 80394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

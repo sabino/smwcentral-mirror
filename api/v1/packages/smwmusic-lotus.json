@@ -1,0 +1,64 @@
+{
+  "name": "smwmusic-lotus",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21121,
+  "title": "Lotus 3 - Results",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "credits",
+    "misc",
+    "urban"
+  ],
+  "description": "The results theme from Lotus 3. I made a looped version because I think the song works well looped as well.",
+  "latest_version": "smwc-21121-1568665900",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21121,
+      "title": "Lotus 3 - Results",
+      "version": "smwc-21121-1568665900",
+      "upstream_time": 1568665900,
+      "download_url": "https://dl.smwcentral.net/21121/Lotus%203%20-%20Results.zip",
+      "filename": "Lotus 3 - Results.zip",
+      "size": 115187,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20051,
+      "title": "Lotus 3 - Breathless",
+      "version": "smwc-20051-1559176764",
+      "upstream_time": 1559176764,
+      "download_url": "https://dl.smwcentral.net/20051/l3_cd1-breathless.zip",
+      "filename": "l3_cd1-breathless.zip",
+      "size": 81792,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19783,
+      "title": "Lotus 3 - Shamrip",
+      "version": "smwc-19783-1556269674",
+      "upstream_time": 1556269674,
+      "download_url": "https://dl.smwcentral.net/19783/l3_cd6_shamrip.zip",
+      "filename": "l3_cd6_shamrip.zip",
+      "size": 76266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

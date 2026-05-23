@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-final-fantasy-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7433,
+  "title": "Final Fantasy - Main Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "overworld"
+  ],
+  "description": "(Not to be confused with the Theme of Final Fantasy)<br>\r\n<br>\r\nA good general OW theme.",
+  "latest_version": "smwc-7433-1320048218",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7433,
+      "title": "Final Fantasy - Main Theme",
+      "version": "smwc-7433-1320048218",
+      "upstream_time": 1320048218,
+      "download_url": "https://dl.smwcentral.net/7433/Final%20Fantasy%20I%20-%20World%20Map.zip",
+      "filename": "Final Fantasy I - World Map.zip",
+      "size": 65581,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

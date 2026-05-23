@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-gradius-iii-boss-on-parade",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40277,
+  "title": "Gradius III - Boss on Parade",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "space",
+    "upbeat"
+  ],
+  "description": "Boss 1 from Gradius III.",
+  "latest_version": "smwc-40277-1755812929",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40277,
+      "title": "Gradius III - Boss on Parade",
+      "version": "smwc-40277-1755812929",
+      "upstream_time": 1755812929,
+      "download_url": "https://dl.smwcentral.net/40277/Gradius%20III%20-%20Boss%201.zip",
+      "filename": "Gradius III - Boss 1.zip",
+      "size": 44118,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

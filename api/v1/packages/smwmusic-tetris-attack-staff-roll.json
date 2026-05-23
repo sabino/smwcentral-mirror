@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tetris-attack-staff-roll",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26181,
+  "title": "Tetris Attack - Staff Roll",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "sky",
+    "title",
+    "water"
+  ],
+  "description": "A very calm and happy song played at the credits screen.<br>\r\n<br>\r\n02/28 Update: Added an option to loop the song at the start, in case you want to use it in a level. If you want to do so, then open the text file, and change the \"Level_Version\" define to 1.<br>\r\n<span style=\"font-size: 8pt;\">(Also, by using this alternative version, it decays the insert size to 0x0AC6 bytes)</span>",
+  "latest_version": "smwc-26181-1615686536",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26181,
+      "title": "Tetris Attack - Staff Roll",
+      "version": "smwc-26181-1615686536",
+      "upstream_time": 1615686536,
+      "download_url": "https://dl.smwcentral.net/26181/Tetris%20Attack%20-%20Staff%20Roll.zip",
+      "filename": "Tetris Attack - Staff Roll.zip",
+      "size": 94699,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

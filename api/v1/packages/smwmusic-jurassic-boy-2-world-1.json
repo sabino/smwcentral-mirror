@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-jurassic-boy-2-world-1",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15468,
+  "title": "Jurassic Boy 2 - World 1-1",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "grassland"
+  ],
+  "description": "A surprisingly catchy song for something that comes from a bootleg game",
+  "latest_version": "smwc-15468-1492921832",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15468,
+      "title": "Jurassic Boy 2 - World 1-1",
+      "version": "smwc-15468-1492921832",
+      "upstream_time": 1492921832,
+      "download_url": "https://dl.smwcentral.net/15468/Jurassic%20Boy%202.zip",
+      "filename": "Jurassic Boy 2.zip",
+      "size": 32698,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

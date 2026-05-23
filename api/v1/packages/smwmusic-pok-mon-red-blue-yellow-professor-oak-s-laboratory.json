@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-professor-oak-s-laboratory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22224,
+  "title": "Pokémon Red/Blue/Yellow - Professor Oak's Laboratory",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "cutscene",
+    "grassland",
+    "overworld",
+    "title"
+  ],
+  "description": "Unsampled port of the song that plays inside Professor Oak's laboratory in the first generation Pokémon games (Red, Blue and Yellow)<br>\r\n<br>\r\nFits tutorial levels and cutscenes (there's no tutorial tag in the official tags list though).<br>\r\n<br>\r\nUpdate: Lowered #2's octave to o3.<br>\r\nUpdate 2: Added ADSR and remote commands (which made the insert size increase to 0x194 bytes).",
+  "latest_version": "smwc-22224-1584667954",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22224,
+      "title": "Pokémon Red/Blue/Yellow - Professor Oak's Laboratory",
+      "version": "smwc-22224-1584667954",
+      "upstream_time": 1584667954,
+      "download_url": "https://dl.smwcentral.net/22224/Pokemon%20RBY%20-%20Prof.%20Oak%27s%20Laboratory.zip",
+      "filename": "Pokemon RBY - Prof. Oak%27s Laboratory.zip",
+      "size": 30721,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

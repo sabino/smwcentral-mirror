@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-blast-corps-cromlech-court",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20391,
+  "title": "Blast Corps - Cromlech Court",
+  "authors": [
+    "brr890"
+  ],
+  "tags": [
+    "night",
+    "urban"
+  ],
+  "description": "This song is N64 Blast Corps.&#12288;It may be suitable for a tense scene.",
+  "latest_version": "smwc-20391-1562630676",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20391,
+      "title": "Blast Corps - Cromlech Court",
+      "version": "smwc-20391-1562630676",
+      "upstream_time": 1562630676,
+      "download_url": "https://dl.smwcentral.net/20391/bd_cromlech.zip",
+      "filename": "bd_cromlech.zip",
+      "size": 71659,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-fuujinroku-mountain-of-faith-player-s-score",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39384,
+  "title": "Touhou Fuujinroku ~ Mountain of Faith - Player's Score",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "cutscene",
+    "night",
+    "overworld",
+    "title"
+  ],
+  "description": "Requested by Gasterus155",
+  "latest_version": "smwc-39384-1744398116",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39384,
+      "title": "Touhou Fuujinroku ~ Mountain of Faith - Player's Score",
+      "version": "smwc-39384-1744398116",
+      "upstream_time": 1744398116,
+      "download_url": "https://dl.smwcentral.net/39384/th11%20player%27s%20score.zip",
+      "filename": "th11 player%27s score.zip",
+      "size": 31166,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-3d-blast-genesis-spring-stadium-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10996,
+  "title": "Sonic 3D Blast (Genesis) - Spring Stadium Zone Act 1",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "sky",
+    "switch palace",
+    "title"
+  ],
+  "description": "A bouncy, jazzy song that would be good for bonus stages or casinos, not that the latter appears that often.<br>\r\n<br>\r\nThis was NOT an easy song to port.  Dang triplets....",
+  "latest_version": "smwc-10996-1425918231",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10996,
+      "title": "Sonic 3D Blast (Genesis) - Spring Stadium Zone Act 1",
+      "version": "smwc-10996-1425918231",
+      "upstream_time": 1425918231,
+      "download_url": "https://dl.smwcentral.net/10996/Spring%20Stadium%20Act%201.zip",
+      "filename": "Spring Stadium Act 1.zip",
+      "size": 34585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

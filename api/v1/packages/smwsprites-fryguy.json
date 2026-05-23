@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-fryguy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32734,
+  "title": "Fryguy",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "boss",
+    "fire",
+    "fry guy",
+    "fryguy",
+    "lorom",
+    "sa-1",
+    "smb 2",
+    "smb2",
+    "super mario bros 2"
+  ],
+  "description": "The Fryguy boss from Super Mario Bros. 2. It flies around the room with an infinity sign trajectory, occasionally throwing a fireball, which disappears on hitting the ground. The player can hurt the boss with thrown items or with star power. After 3 (default) hits, it splits into Mini-Fryguys, which can be defeated with a thrown item or star power. The level ends after defeating all of them.<br>\r\n<br>\r\nIf the extra bit is set, hard mode is enabled. The boss will move significantly faster and throw more fire. The Mini-Fryguys will also leave behind Hopping Flame trails.<br>\r\n<br>\r\nCheck the ASM file for customization options, especially if you're using AddmusicK.",
+  "latest_version": "smwc-32734-1691016137",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32734,
+      "title": "Fryguy",
+      "version": "smwc-32734-1691016137",
+      "upstream_time": 1691016137,
+      "download_url": "https://dl.smwcentral.net/32734/Fryguy.zip",
+      "filename": "Fryguy.zip",
+      "size": 9919,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

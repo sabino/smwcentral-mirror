@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-fnaf-world-fazbear-hills",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21608,
+  "title": "FNAF World - Fazbear Hills",
+  "authors": [
+    "Pecky"
+  ],
+  "tags": [
+    "forest",
+    "overworld",
+    "swamp"
+  ],
+  "description": "A pretty good song from a game I'm not the biggest fan of. Uses NES samples aiming at sounding as close as possible to the original.",
+  "latest_version": "smwc-21608-1577495005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21608,
+      "title": "FNAF World - Fazbear Hills",
+      "version": "smwc-21608-1577495005",
+      "upstream_time": 1577495005,
+      "download_url": "https://dl.smwcentral.net/21608/fh.zip",
+      "filename": "fh.zip",
+      "size": 22463,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

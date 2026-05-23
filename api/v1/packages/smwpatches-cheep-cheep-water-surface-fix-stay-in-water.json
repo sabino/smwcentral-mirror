@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-cheep-cheep-water-surface-fix-stay-in-water",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 26868,
+  "title": "Cheep-Cheep Water Surface Fix + Stay In Water",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "cheep-cheep",
+    "fish",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "Cheep-Cheep will turn around just before it leaves the water.<br>\r\nIt will not flutter on the surface of the water.<br>\r\nIt can also be used in combination with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=17875\">Sine Wave</a>.<br>\r\nIt is not compatible with moving water in layer 2.<br>\r\n<br>\r\n[Update]<br>\r\nFixed a bug that would break Sprite 18. Thanks to <span class=\"un-outer\" title=\"Ayami\"><span title=\"Ayami donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=5938\" style=\"color: var(--user-color-3);\" class=\"un\">Ayami</a></span> for reporting this bug.",
+  "latest_version": "smwc-26868-1627185788",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 26868,
+      "title": "Cheep-Cheep Water Surface Fix + Stay In Water",
+      "version": "smwc-26868-1627185788",
+      "upstream_time": 1627185788,
+      "download_url": "https://dl.smwcentral.net/26868/Cheep%20Cheep%20Water%20Surface%20Fix%20%2B%20Stay%20In%20Water.zip",
+      "filename": "Cheep Cheep Water Surface Fix + Stay In Water.zip",
+      "size": 2189,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

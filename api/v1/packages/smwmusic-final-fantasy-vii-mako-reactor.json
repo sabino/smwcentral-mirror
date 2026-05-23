@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-final-fantasy-vii-mako-reactor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26972,
+  "title": "Final Fantasy VII - Mako Reactor",
+  "authors": [
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "ambient",
+    "castle",
+    "dark",
+    "final",
+    "fire",
+    "industrial"
+  ],
+  "description": "The deeply menacing theme representing the Mako Factory from Final Fantasy VII, or as I like to call it \"Magitek Research Facility's Younger Brother\". Not accurate to the original due to not having the proper samples, so I used some of my own ones. Since I really like the Remake version, I included a small nod to it that plays every second loop if you enable it using the define \"LOOP2\" (see txt for details). If it's disabled, the size will decrease to 0x042D and the real length will be 1:35.<br>\r\n<br>\r\nIncludes the option to enable/disable staccato with the staccato define. With it enabled, the size will decrease to 0x05C6 (which really isn't much). If this is enabled along with LOOP2 disabled, it will become 0x0467.<br>\r\n<br>\r\nThis submission accounts for the max size and length using the various defines.<br>\r\n<br>\r\nSong not compatible with P-switch, Bonus End, Thunder, Yoshi, or Blarggs.<br>\r\n<br>\r\nEdit: Wrong notes been corrected (to the best of my abilities), tho I kept in the \"wrong intro notes\" as an option in the \"ACCURATE\" define because I unironically liked it better. Nameless is the one to thank for pointing where I made mistakes. With ACCURATE disabled (setting it to 1), it'll add 3 extra bytes.",
+  "latest_version": "smwc-26972-1626929104",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26972,
+      "title": "Final Fantasy VII - Mako Reactor",
+      "version": "smwc-26972-1626929104",
+      "upstream_time": 1626929104,
+      "download_url": "https://dl.smwcentral.net/26972/%5BS%5D%20Final%20Fantasy%20VII%20-%20Mako%20Reactor.zip",
+      "filename": "%5BS%5D Final Fantasy VII - Mako Reactor.zip",
+      "size": 395782,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

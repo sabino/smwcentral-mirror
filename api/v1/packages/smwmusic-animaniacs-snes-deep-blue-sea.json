@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-animaniacs-snes-deep-blue-sea",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27087,
+  "title": "Animaniacs (SNES) - Deep Blue Sea?",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "castle",
+    "water"
+  ],
+  "description": "Fits ship, water, and maybe castle levels. <a href=\"https://smwc.me/1566964\">Requested by MastaBuizness.</a>",
+  "latest_version": "smwc-27087-1624215225",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27087,
+      "title": "Animaniacs (SNES) - Deep Blue Sea?",
+      "version": "smwc-27087-1624215225",
+      "upstream_time": 1624215225,
+      "download_url": "https://dl.smwcentral.net/27087/Animaniacs%20-%20Deep%20Blue%20Sea.zip",
+      "filename": "Animaniacs - Deep Blue Sea.zip",
+      "size": 79835,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

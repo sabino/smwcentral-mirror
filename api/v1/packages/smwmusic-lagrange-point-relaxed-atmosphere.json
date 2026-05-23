@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lagrange-point-relaxed-atmosphere",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25362,
+  "title": "Lagrange Point - Relaxed Atmosphere",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "misc",
+    "retro",
+    "town"
+  ],
+  "description": "A small calm song played inside of small houses.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25362-1607722314",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25362,
+      "title": "Lagrange Point - Relaxed Atmosphere",
+      "version": "smwc-25362-1607722314",
+      "upstream_time": 1607722314,
+      "download_url": "https://dl.smwcentral.net/25362/Lagrange%20Point%20-%20Relaxed%20Atmosphere.zip",
+      "filename": "Lagrange Point - Relaxed Atmosphere.zip",
+      "size": 114846,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

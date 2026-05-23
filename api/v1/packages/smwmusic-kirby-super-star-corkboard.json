@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-super-star-corkboard",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19210,
+  "title": "Kirby Super Star - Corkboard",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "bonus",
+    "title"
+  ],
+  "description": "Very short tune from Kirby Super Star's \"Game select\" screen. It could fit a title screen or a bonus room.<br>\r\nRequested by E-man38.",
+  "latest_version": "smwc-19210-1552248247",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19210,
+      "title": "Kirby Super Star - Corkboard",
+      "version": "smwc-19210-1552248247",
+      "upstream_time": 1552248247,
+      "download_url": "https://dl.smwcentral.net/19210/02%20Corkboard.zip",
+      "filename": "02 Corkboard.zip",
+      "size": 39778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

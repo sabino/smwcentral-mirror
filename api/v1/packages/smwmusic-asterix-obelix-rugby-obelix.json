@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-asterix-obelix-rugby-obelix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34743,
+  "title": "Asterix & Obelix - Rugby (Obelix)",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "athletic",
+    "bonus"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nHappy minigame theme.",
+  "latest_version": "smwc-34743-1691404502",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34743,
+      "title": "Asterix & Obelix - Rugby (Obelix)",
+      "version": "smwc-34743-1691404502",
+      "upstream_time": 1691404502,
+      "download_url": "https://dl.smwcentral.net/34743/Asterix%20and%20Obelix%20-%2011%20Rugby%20%28Obelix%29.zip",
+      "filename": "Asterix and Obelix - 11 Rugby (Obelix).zip",
+      "size": 80779,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "smwmusic-metallic-green",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8460,
+  "title": "Metallic Green",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "cave",
+    "chase",
+    "cutscene",
+    "dark",
+    "fire",
+    "industrial",
+    "mountain",
+    "star"
+  ],
+  "description": "An upbeat song that could fit a boss battle or tense area.",
+  "latest_version": "smwc-8460-1374785772",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8460,
+      "title": "Metallic Green",
+      "version": "smwc-8460-1374785772",
+      "upstream_time": 1374785772,
+      "download_url": "https://dl.smwcentral.net/8460/Metallic%20Green.zip",
+      "filename": "Metallic Green.zip",
+      "size": 50220,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

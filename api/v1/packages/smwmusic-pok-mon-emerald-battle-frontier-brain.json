@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pok-mon-emerald-battle-frontier-brain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20753,
+  "title": "Pokémon Emerald - Battle! Frontier Brain",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "This is the <i>epic</i> song that plays during the bosses of the Battle Frontier facilities. Obviously fit for bosses.<br>\r\n<br>\r\nNote: it's not compatible with thunder/Blargg sfx or with the \"Bonus end\" song.<br>\r\n<br>\r\nUpdate (2/25/2020): fixed wrong note at 1:27.",
+  "latest_version": "smwc-20753-1564087202",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20753,
+      "title": "Pokémon Emerald - Battle! Frontier Brain",
+      "version": "smwc-20753-1564087202",
+      "upstream_time": 1564087202,
+      "download_url": "https://dl.smwcentral.net/20753/Frontier%20Brain%20Battle.zip",
+      "filename": "Frontier Brain Battle.zip",
+      "size": 90936,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

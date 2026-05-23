@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-metroid-ending",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36746,
+  "title": "Super Metroid - Ending",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "credits",
+    "cutscene"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36746-1706162616",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36746,
+      "title": "Super Metroid - Ending",
+      "version": "smwc-36746-1706162616",
+      "upstream_time": 1706162616,
+      "download_url": "https://dl.smwcentral.net/36746/24%20Ending.zip",
+      "filename": "24 Ending.zip",
+      "size": 219754,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

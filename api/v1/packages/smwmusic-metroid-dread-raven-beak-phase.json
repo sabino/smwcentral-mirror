@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-metroid-dread-raven-beak-phase",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33850,
+  "title": "Metroid Dread - Raven Beak Phase 1 (Super Metroid Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "I tried my best lol",
+  "latest_version": "smwc-33850-1690803349",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33850,
+      "title": "Metroid Dread - Raven Beak Phase 1 (Super Metroid Style)",
+      "version": "smwc-33850-1690803349",
+      "upstream_time": 1690803349,
+      "download_url": "https://dl.smwcentral.net/33850/RavenBeak1_SM.zip",
+      "filename": "RavenBeak1_SM.zip",
+      "size": 52157,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

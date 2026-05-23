@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-turrican",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7584,
+  "title": "Turrican 2 - The Great Bath",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "town"
+  ],
+  "description": "Would suit a small castle or village.",
+  "latest_version": "smwc-7584-1313734825",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7584,
+      "title": "Turrican 2 - The Great Bath",
+      "version": "smwc-7584-1313734825",
+      "upstream_time": 1313734825,
+      "download_url": "https://dl.smwcentral.net/7584/t2gb.zip",
+      "filename": "t2gb.zip",
+      "size": 67883,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

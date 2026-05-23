@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-runaway-wing",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40539,
+  "title": "Runaway Wing",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "1-up",
+    "coin",
+    "lorom",
+    "mushroom",
+    "sa-1",
+    "wings"
+  ],
+  "description": "This patch will make the wings fly into the sky after the player grabs a flying red coin or yellow 1-Up (sprites 7E and 7F) instead of them disappearing.<br>\r\nSuggested by Shellface.",
+  "latest_version": "smwc-40539-1756597200",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40539,
+      "title": "Runaway Wing",
+      "version": "smwc-40539-1756597200",
+      "upstream_time": 1756597200,
+      "download_url": "https://dl.smwcentral.net/40539/runawaywing.zip",
+      "filename": "runawaywing.zip",
+      "size": 647,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

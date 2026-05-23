@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-smb3-p-meter-v2",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 38169,
+  "title": "SMB3 P-meter v2.3",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "dash",
+    "lorom",
+    "p-meter",
+    "sa-1",
+    "smb3",
+    "status bar"
+  ],
+  "description": "Unlike other patch versions of the classic SMB3 P-meter, this one is rather an uberasm tool code. Note that this by default assumes you are using the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19247\">super status bar</a> patch patch.  It's also compatible with the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21562\">Minimalist Status Bars</a> patch<br>\r\n<br>\r\nv2.1 updates:<br>\r\n-Optimized the code a bit, such as no longer needing scratch RAM and instead rely on a repeated icons display subroutine instead.<br>\r\n-Failsafe added (included in the aforementioned subroutine) to prevent if somehow the P-meter is theoretically greater than $70, would write more tiles.<br>\r\n<br>\r\nv2.2 minor update:<br>\r\n-Renamed the defines and added various comments due to them being confusing. Also removed an unused one.<br>\r\n<br>\r\nv2.3 minor update:<br>\r\n-Further simplified the defines for the user relating to the status bar patches, and now the tile position uses coordinates rather than just one number specifying how many bytes.<br>\r\n-Added alternate graphics for minimalist status bar due to tile outlines blending in with black background",
+  "latest_version": "smwc-38169-1722787000",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 38169,
+      "title": "SMB3 P-meter v2.3",
+      "version": "smwc-38169-1722787000",
+      "upstream_time": 1722787000,
+      "download_url": "https://dl.smwcentral.net/38169/SMB3_PMeter_2_3.zip",
+      "filename": "SMB3_PMeter_2_3.zip",
+      "size": 6602,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

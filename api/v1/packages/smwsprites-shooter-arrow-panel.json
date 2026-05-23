@@ -1,0 +1,32 @@
+{
+  "name": "smwsprites-shooter-arrow-panel",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3523,
+  "title": "Shooter Arrow Panel",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom"
+  ],
+  "description": "This is a rotating arrow that launches the player in the direction it's pointing.  It is also...my first dynamic sprite! Since it is dynamic, you have to patch dsx.asm to your ROM and put the included graphics file in the same folder as the sprite.<br>\r\n",
+  "latest_version": "smwc-3523-1258664689",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3523,
+      "title": "Shooter Arrow Panel",
+      "version": "smwc-3523-1258664689",
+      "upstream_time": 1258664689,
+      "download_url": "https://dl.smwcentral.net/3523/shooter_arrow.zip",
+      "filename": "shooter_arrow.zip",
+      "size": 6399,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

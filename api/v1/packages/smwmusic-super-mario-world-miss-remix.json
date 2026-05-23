@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-super-mario-world-miss-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33738,
+  "title": "Super Mario World - Miss (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "global",
+    "miss"
+  ],
+  "description": "Did an arrangement of <a href=\"https://youtu.be/CD9S_cY_a1I\" rel=\"nofollow\">Miss</a> from Super Mario World. Had this on my PC for a while, and I thought I'd just finish and release it.<br>\r\n<br>\r\n<b><span style=\"color: #920DFF;\">Important:</span></b><br>\r\nThere are also customizable pitches for this song that you can adjust in the song's txt file:<br>\r\n‎‎‎‎‎‎‎‎ㅤ1. C Major (Original Pitch) [turned on by default]<br>\r\n‎‎‎‎‎‎‎‎ㅤ2. D Major (Custom Pitch 1)<br>\r\n‎‎‎‎‎‎‎‎ㅤ3. B Major (Custom Pitch 2)",
+  "latest_version": "smwc-33738-1690802673",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33738,
+      "title": "Super Mario World - Miss (Remix)",
+      "version": "smwc-33738-1690802673",
+      "upstream_time": 1690802673,
+      "download_url": "https://dl.smwcentral.net/33738/Miss%20%28Super%20Mario%20World%29.zip",
+      "filename": "Miss (Super Mario World).zip",
+      "size": 92334,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7828,
+      "title": "Super Mario World - Miss (Remix)",
+      "version": "smwc-7828-1324189918",
+      "upstream_time": 1324189918,
+      "download_url": "https://dl.smwcentral.net/7828/CUSTOM%20-%20Super%20Mario%20World%20-%20Mario%20and%20Luigi%20Died%21%20%28Remix%29.zip",
+      "filename": "CUSTOM - Super Mario World - Mario and Luigi Died%21 (Remix).zip",
+      "size": 105975,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

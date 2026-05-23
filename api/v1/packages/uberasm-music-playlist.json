@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-music-playlist",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 24378,
+  "title": "Music Playlist",
+  "authors": [
+    "binavik"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "music",
+    "sa-1"
+  ],
+  "description": "This patch will allow you to create a playlist of custom or vanilla songs for individual levels. You can navigate between the songs by holding Select then pressing either L or R. Perfect for long grind levels or for audio leveling.<br>\r\n<br>\r\nThis is meant to be used along with AddMusicK and the retry patch. The included asar patch fixes an issue where the music would reset back to the level default on each death. ",
+  "latest_version": "smwc-24378-1599902603",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 24378,
+      "title": "Music Playlist",
+      "version": "smwc-24378-1599902603",
+      "upstream_time": 1599902603,
+      "download_url": "https://dl.smwcentral.net/24378/music_playlist.zip",
+      "filename": "music_playlist.zip",
+      "size": 2868,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-custom-shooting-power-ups",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22411,
+  "title": "Custom \"Shooting\" Power-ups",
+  "authors": [
+    "ICB",
+    "RussianMan"
+  ],
+  "tags": [
+    "ability",
+    "lorom",
+    "pacifist",
+    "power",
+    "power-up",
+    "power-ups",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "This package lets you to create new \"Shooting\" based power-ups, where the player can shoot extended sprites, both new and old, depending on \"power\" state.<br>\r\n<br>\r\nComes with boomerang and hammer powers, that were originally made by 1524 (ICB) and 3 new powers.<br>\r\n<br>\r\nMore details is in the readme.<br>\r\n<br>\r\nV.1.2 - Most notable changes are support for the item box and one new power.",
+  "latest_version": "smwc-22411-1590951099",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22411,
+      "title": "Custom \"Shooting\" Power-ups",
+      "version": "smwc-22411-1590951099",
+      "upstream_time": 1590951099,
+      "download_url": "https://dl.smwcentral.net/22411/Custom%20Shooting%20Powerups.zip",
+      "filename": "Custom Shooting Powerups.zip",
+      "size": 36763,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

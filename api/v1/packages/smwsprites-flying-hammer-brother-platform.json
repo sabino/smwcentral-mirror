@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-flying-hammer-brother-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23876,
+  "title": "Flying Hammer Brother Platform",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "disassembly",
+    "flying",
+    "flying hammer bro",
+    "lorom",
+    "platform",
+    "sa-1"
+  ],
+  "description": "A somewhat customizable disassembly of the flying platform the Hammer Brother is standing on. (Sprite 9C)<br>\r\n<br>\r\nSee the asm file for settings.<br>\r\n",
+  "latest_version": "smwc-23876-1597090579",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23876,
+      "title": "Flying Hammer Brother Platform",
+      "version": "smwc-23876-1597090579",
+      "upstream_time": 1597090579,
+      "download_url": "https://dl.smwcentral.net/23876/FlyingPlatform9C.zip",
+      "filename": "FlyingPlatform9C.zip",
+      "size": 4097,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

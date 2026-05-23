@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-fire-stalking-piranha-plant",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25311,
+  "title": "Fire Stalking Piranha Plant",
+  "authors": [
+    "KobaBeach"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "piranha plant",
+    "sa-1"
+  ],
+  "description": "A Ptooie that fires five fireballs between intervals of a few frames.<br>\r\n<br>\r\nInspired by a similar kind in VIP5, I decided to rename these after the Fire Stalking Piranha Plant units in Minion Quest and Bowser Jr.'s Journey for the sake of not confusing Mario fans, despite not having played those subgames yet.<br>\r\n<br>\r\nCounting only the days it took me to make, took me about five days? Counting all of the ones where I just sat on my butt and did nothing, quite a few weeks lol<br>\r\n<br>\r\nIntended for my \"throw stuff at the wall and see what sticks\" hack.",
+  "latest_version": "smwc-25311-1607736248",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25311,
+      "title": "Fire Stalking Piranha Plant",
+      "version": "smwc-25311-1607736248",
+      "upstream_time": 1607736248,
+      "download_url": "https://dl.smwcentral.net/25311/firestalk.zip",
+      "filename": "firestalk.zip",
+      "size": 4242,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

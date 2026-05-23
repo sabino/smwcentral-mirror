@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-home",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37689,
+  "title": "Shin Megami Tensei - Home",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "town"
+  ],
+  "description": "Plays in the main characters house",
+  "latest_version": "smwc-37689-1714534897",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37689,
+      "title": "Shin Megami Tensei - Home",
+      "version": "smwc-37689-1714534897",
+      "upstream_time": 1714534897,
+      "download_url": "https://dl.smwcentral.net/37689/SMT%20Home.zip",
+      "filename": "SMT Home.zip",
+      "size": 36834,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

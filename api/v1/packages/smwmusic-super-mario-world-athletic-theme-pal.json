@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-world-athletic-theme-pal",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14249,
+  "title": "Super Mario World - Athletic Theme (PAL Version)",
+  "authors": [
+    "Dark Mario Bros"
+  ],
+  "tags": [
+    "athletic"
+  ],
+  "description": "Based on this video by SilvaGunner:<br>\r\n<a href=\"https://www.youtube.com/watch?v=rEcOzjg7vBU\" rel=\"nofollow\">https://www.youtube.com/watch?v=rEcOzjg7vBU</a><br>\r\n<br>\r\nMusic: Athletic Piano (PAL Version)<br>\r\nComposer: Koji Kondo<br>\r\nPlatform: Super Nintendo<br>\r\n<br>\r\nFit with ... Athletic stages (duh)",
+  "latest_version": "smwc-14249-1475290684",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14249,
+      "title": "Super Mario World - Athletic Theme (PAL Version)",
+      "version": "smwc-14249-1475290684",
+      "upstream_time": 1475290684,
+      "download_url": "https://dl.smwcentral.net/14249/10%20Peano.zip",
+      "filename": "10 Peano.zip",
+      "size": 63152,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

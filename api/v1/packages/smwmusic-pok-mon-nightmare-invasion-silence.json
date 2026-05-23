@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-pok-mon-nightmare-invasion-silence",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24309,
+  "title": "Pokémon Nightmare: Invasion - Silence",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "castle",
+    "cave",
+    "dark",
+    "environmental",
+    "forest",
+    "ghost house",
+    "overworld",
+    "ruins",
+    "spooky",
+    "tense",
+    "urban"
+  ],
+  "description": "A very light song intended to give your player the heeby jeebies. Can work is some haunted area, forest, overworld, you name it. For Halloween hacks.<br>\r\n<br>\r\nI believe the original author, Xargoth, did some mix between Lavender Town and Pokemon Tower; from Pokemon Red/Blue/Yellow.",
+  "latest_version": "smwc-24309-1599615505",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24309,
+      "title": "Pokémon Nightmare: Invasion - Silence",
+      "version": "smwc-24309-1599615505",
+      "upstream_time": 1599615505,
+      "download_url": "https://dl.smwcentral.net/24309/invasion_silence_0_1.zip",
+      "filename": "invasion_silence_0_1.zip",
+      "size": 41486,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

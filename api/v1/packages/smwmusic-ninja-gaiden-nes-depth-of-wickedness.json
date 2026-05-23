@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-ninja-gaiden-nes-depth-of-wickedness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27135,
+  "title": "Ninja Gaiden (NES) - Depth of Wickedness",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "cave",
+    "dark",
+    "tense"
+  ],
+  "description": "A rather weird sounding song heard in Act 5s first stage and Act6s fifth stage.<br>\r\n<br>\r\nAs most Ninja Gaiden songs, can fit in athletic and tense stages.",
+  "latest_version": "smwc-27135-1625112759",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27135,
+      "title": "Ninja Gaiden (NES) - Depth of Wickedness",
+      "version": "smwc-27135-1625112759",
+      "upstream_time": 1625112759,
+      "download_url": "https://dl.smwcentral.net/27135/Ninja%20Gaiden%20%28NES%29%20-%20Depth%20of%20Wickedness.zip",
+      "filename": "Ninja Gaiden (NES) - Depth of Wickedness.zip",
+      "size": 31647,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

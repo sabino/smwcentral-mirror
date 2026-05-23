@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-hammer",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30673,
+  "title": "Hammer",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "hammer",
+    "lorom",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of extended sprite 04 in SMW, Hammer.",
+  "latest_version": "smwc-30673-1659919073",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30673,
+      "title": "Hammer",
+      "version": "smwc-30673-1659919073",
+      "upstream_time": 1659919073,
+      "download_url": "https://dl.smwcentral.net/30673/Hammer%20Disassembly.zip",
+      "filename": "Hammer Disassembly.zip",
+      "size": 1791,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

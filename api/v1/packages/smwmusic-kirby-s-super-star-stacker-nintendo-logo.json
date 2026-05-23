@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-s-super-star-stacker-nintendo-logo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37838,
+  "title": "Kirby's Super Star Stacker - Nintendo Logo",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "The intro jingle from Kirby's Super Star Stacker, which sounds kinda similar to the vanilla SMW one.",
+  "latest_version": "smwc-37838-1719517379",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37838,
+      "title": "Kirby's Super Star Stacker - Nintendo Logo",
+      "version": "smwc-37838-1719517379",
+      "upstream_time": 1719517379,
+      "download_url": "https://dl.smwcentral.net/37838/Nintendo%20Logo.zip",
+      "filename": "Nintendo Logo.zip",
+      "size": 31139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

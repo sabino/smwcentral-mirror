@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-monkey-ball",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19400,
+  "title": "Super Monkey Ball 2 - Clock Tower",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "The intense World 8 song from Super Monkey Ball 2. Requested by idol.",
+  "latest_version": "smwc-19400-1553129125",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19400,
+      "title": "Super Monkey Ball 2 - Clock Tower",
+      "version": "smwc-19400-1553129125",
+      "upstream_time": 1553129125,
+      "download_url": "https://dl.smwcentral.net/19400/clocktower.zip",
+      "filename": "clocktower.zip",
+      "size": 72543,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwblocks-spiny-and-swooper-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 30296,
+  "title": "Spiny and Swooper Blocks",
+  "authors": [
+    "TheBourgyman"
+  ],
+  "tags": [
+    "bounce",
+    "enemy",
+    "faux sprite",
+    "hurt",
+    "lorom",
+    "sa-1",
+    "spin jump",
+    "tile"
+  ],
+  "description": "This package includes two blocks: one that acts like a mid-air Spiny Egg, and the other like a stationary Swooper. They can be defeated by shells, throw blocks, fireballs, cape, and star power. They interact with Mario almost the same way their sprite counterparts do. Notable exceptions are that Yoshi cannot eat them, and they won't turn into silver coins when a silver p-switch is pressed.<br>\r\n<br>\r\nSince these do not take sprite slots, they can be extremely useful to put as obstacles in certain situations and setups where sprite slots are limited.<br>\r\n<br>\r\n-----<br>\r\n<br>\r\nUpdates:<br>\r\n<br>\r\nv1.01 (2022-05-26)<br>\r\n<br>\r\n- Fixed a bug where Mario could walk into the Swooper block from the side and not take damage.<br>\r\n- Added the possibility of having the blocks spawn a coin when hit by a fireball.",
+  "latest_version": "smwc-30296-1661167306",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 30296,
+      "title": "Spiny and Swooper Blocks",
+      "version": "smwc-30296-1661167306",
+      "upstream_time": 1661167306,
+      "download_url": "https://dl.smwcentral.net/30296/spiny_and_swooper_blocks.zip",
+      "filename": "spiny_and_swooper_blocks.zip",
+      "size": 11194,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

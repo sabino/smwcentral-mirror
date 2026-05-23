@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-super-mario-kart-toad-s-rank",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7522,
+  "title": "Super Mario Kart - Toad's Rank",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "credits",
+    "goal",
+    "ice",
+    "night",
+    "overworld",
+    "p-switch",
+    "space",
+    "star",
+    "title",
+    "water"
+  ],
+  "description": "The theme for when Toad wins in Super Mario Kart. An upbeat, cheerful theme that would make a nice alternate victory song.",
+  "latest_version": "smwc-7522-1325391494",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7522,
+      "title": "Super Mario Kart - Toad's Rank",
+      "version": "smwc-7522-1325391494",
+      "upstream_time": 1325391494,
+      "download_url": "https://dl.smwcentral.net/7522/Super%20Mario%20Kart%20-%20Toad%27s%20Theme.zip",
+      "filename": "Super Mario Kart - Toad%27s Theme.zip",
+      "size": 67318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

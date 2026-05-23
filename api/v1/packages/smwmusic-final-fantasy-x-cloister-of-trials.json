@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-x-cloister-of-trials",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24050,
+  "title": "Final Fantasy X - Cloister of Trials",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "dark",
+    "mysterious",
+    "ruins",
+    "temple"
+  ],
+  "description": "The ominous song that plays during the trials in FFX. Good for temples, especially if they have puzzles.<br>\r\n<br>\r\nNote: not compatible with the \"Bonus end\" song and with Thunder SFX/Blarggs.",
+  "latest_version": "smwc-24050-1598473921",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24050,
+      "title": "Final Fantasy X - Cloister of Trials",
+      "version": "smwc-24050-1598473921",
+      "upstream_time": 1598473921,
+      "download_url": "https://dl.smwcentral.net/24050/Cloister%20of%20Trials.zip",
+      "filename": "Cloister of Trials.zip",
+      "size": 93461,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

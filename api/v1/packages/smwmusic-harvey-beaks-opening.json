@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-harvey-beaks-opening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14328,
+  "title": "Harvey Beaks - Opening",
+  "authors": [
+    "Tato"
+  ],
+  "tags": [
+    "cutscene",
+    "title"
+  ],
+  "description": "The opening song of Harvey beaks, could fit title screens.",
+  "latest_version": "smwc-14328-1475293691",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14328,
+      "title": "Harvey Beaks - Opening",
+      "version": "smwc-14328-1475293691",
+      "upstream_time": 1475293691,
+      "download_url": "https://dl.smwcentral.net/14328/Harvey.zip",
+      "filename": "Harvey.zip",
+      "size": 31901,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

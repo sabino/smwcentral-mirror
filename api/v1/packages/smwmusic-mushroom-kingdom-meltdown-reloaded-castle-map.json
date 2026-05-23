@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mushroom-kingdom-meltdown-reloaded-castle-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34585,
+  "title": "Mushroom Kingdom Meltdown Reloaded - Castle Map",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "castle",
+    "overworld",
+    "town"
+  ],
+  "description": "Part of the soundtrack to the cancelled remake of Mushroom Kingdom Meltdown, originally submitted in 2015.",
+  "latest_version": "smwc-34585-1690826728",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34585,
+      "title": "Mushroom Kingdom Meltdown Reloaded - Castle Map",
+      "version": "smwc-34585-1690826728",
+      "upstream_time": 1690826728,
+      "download_url": "https://dl.smwcentral.net/34585/mkmr%20-%20castle%20map.zip",
+      "filename": "mkmr - castle map.zip",
+      "size": 31548,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

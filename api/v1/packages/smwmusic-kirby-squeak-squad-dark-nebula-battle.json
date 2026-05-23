@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-squeak-squad-dark-nebula-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13955,
+  "title": "Kirby Squeak Squad - Dark Nebula Battle",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "This is the epic song played during the final battle in Kirby Squeak Squad.  This would best suit an epic final boss battle or castle.",
+  "latest_version": "smwc-13955-1469304708",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13955,
+      "title": "Kirby Squeak Squad - Dark Nebula Battle",
+      "version": "smwc-13955-1469304708",
+      "upstream_time": 1469304708,
+      "download_url": "https://dl.smwcentral.net/13955/Dark%20Nebula.zip",
+      "filename": "Dark Nebula.zip",
+      "size": 31517,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

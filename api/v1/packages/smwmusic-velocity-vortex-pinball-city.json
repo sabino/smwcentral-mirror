@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-velocity-vortex-pinball-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40414,
+  "title": "Velocity Vortex - Pinball City",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "bonus",
+    "industrial",
+    "space",
+    "upbeat"
+  ],
+  "description": "Pinball City from an imaginary SNES racing game, Velocity Vortex.",
+  "latest_version": "smwc-40414-1756235083",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40414,
+      "title": "Velocity Vortex - Pinball City",
+      "version": "smwc-40414-1756235083",
+      "upstream_time": 1756235083,
+      "download_url": "https://dl.smwcentral.net/40414/Pinball_City.zip",
+      "filename": "Pinball_City.zip",
+      "size": 75410,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

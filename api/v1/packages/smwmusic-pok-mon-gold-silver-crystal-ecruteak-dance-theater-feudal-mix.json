@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-ecruteak-dance-theater-feudal-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27034,
+  "title": "Pokémon Gold/Silver/Crystal - Ecruteak Dance Theater (feudal mix)",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "mysterious",
+    "overworld",
+    "retro",
+    "temple"
+  ],
+  "description": "Another Japanese theme suitable for overworlds.",
+  "latest_version": "smwc-27034-1623698341",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27034,
+      "title": "Pokémon Gold/Silver/Crystal - Ecruteak Dance Theater (feudal mix)",
+      "version": "smwc-27034-1623698341",
+      "upstream_time": 1623698341,
+      "download_url": "https://dl.smwcentral.net/27034/gsc_theater_0_1.zip",
+      "filename": "gsc_theater_0_1.zip",
+      "size": 46009,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

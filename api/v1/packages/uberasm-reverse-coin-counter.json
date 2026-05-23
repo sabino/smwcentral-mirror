@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-reverse-coin-counter",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40545,
+  "title": "Reverse Coin Counter",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "coin",
+    "counter",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "With this code collecting coins will decrease coin counter instead of increasing it.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"NopeContest\"><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=45664\" style=\"color: #73c873;\" class=\"un\">NopeContest</a></span>.",
+  "latest_version": "smwc-40545-1756645043",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40545,
+      "title": "Reverse Coin Counter",
+      "version": "smwc-40545-1756645043",
+      "upstream_time": 1756645043,
+      "download_url": "https://dl.smwcentral.net/40545/ReverseCoinsUBERASM.zip",
+      "filename": "ReverseCoinsUBERASM.zip",
+      "size": 1042,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

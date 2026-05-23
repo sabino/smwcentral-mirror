@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-mario-bros-gba-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39672,
+  "title": "Mario Bros. (GBA) - Stage 2",
+  "authors": [
+    "LadiesMan217"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "dark",
+    "grassland",
+    "night",
+    "tense",
+    "town",
+    "upbeat"
+  ],
+  "description": "Part of the \"Super Mario All-Stars Soundtrack: Ultimate Edition\" soundtrack.",
+  "latest_version": "smwc-39672-1743427728",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39672,
+      "title": "Mario Bros. (GBA) - Stage 2",
+      "version": "smwc-39672-1743427728",
+      "upstream_time": 1743427728,
+      "download_url": "https://dl.smwcentral.net/39672/Mario%20Bros.%20%28GBA%29%20-%20Stage%202.zip",
+      "filename": "Mario Bros. (GBA) - Stage 2.zip",
+      "size": 32847,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39671,
+      "title": "Mario Bros. (GBA) - Stage 1",
+      "version": "smwc-39671-1743427721",
+      "upstream_time": 1743427721,
+      "download_url": "https://dl.smwcentral.net/39671/Mario%20Bros.%20%28GBA%29%20-%20Stage%201.zip",
+      "filename": "Mario Bros. (GBA) - Stage 1.zip",
+      "size": 32420,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

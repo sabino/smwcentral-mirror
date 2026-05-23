@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-winter-gold-fx-aerial",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38557,
+  "title": "Winter Gold FX - Aerial",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Short techno song from Winter Gold FX for the SNES.",
+  "latest_version": "smwc-38557-1730429121",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38557,
+      "title": "Winter Gold FX - Aerial",
+      "version": "smwc-38557-1730429121",
+      "upstream_time": 1730429121,
+      "download_url": "https://dl.smwcentral.net/38557/wgfxaerial.zip",
+      "filename": "wgfxaerial.zip",
+      "size": 53811,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-hide-status-bar",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29993,
+  "title": "Hide Status Bar",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "layer 3",
+    "lorom",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "A simple non-invasive code I (Anas) asked Ladida publicly on SnesLab half a year back to disable the status bar. The major advantage this code has is that via LM's tilemap editor, you can make any specific L3 tiles you want go over or behind L2! Before using, please note the following:<br>\r\n<br>\r\n- The destination for the level's L3 BG tilemap must be set to 'Start of Layer 3'<br>\r\n<br>\r\n- Works with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23788\">MFG's parallax toolkit!</a><br>\r\n<br>\r\n- Doesn't work with Mode 0 or anything using IRQ and layer 3 shenanigans like <a href=\"https://smwc.me/1548750\">MFG's YI falling wall;</a> for that you'll need <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">Kevin's toggled per-level status bar</a> instead. Don't merge that patch's UberASM code with this code though!<br>\r\n<br>\r\n- The aforementioned patch is also necessary to fix a bug where layer 3 will jitter when the screen scrolls. Don't turn on the 'fix layer 3 scroll sync option' via LM in your level or the problem will be worse!<br>\r\n<br>\r\n- <a href=\"https://www.smwcentral.net/?p=section&a=details&id=26887\">Kevin's sprite item box patch</a> is recommended, lest you have a floating reserve item with no border of any sort surrounding it. This patch includes an option to enable it in certain levels with a free RAM<br>\r\n",
+  "latest_version": "smwc-29993-1662831503",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29993,
+      "title": "Hide Status Bar",
+      "version": "smwc-29993-1662831503",
+      "upstream_time": 1662831503,
+      "download_url": "https://dl.smwcentral.net/29993/hide_sb_uber.zip",
+      "filename": "hide_sb_uber.zip",
+      "size": 302,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

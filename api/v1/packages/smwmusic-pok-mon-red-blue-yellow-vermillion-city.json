@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-vermillion-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7095,
+  "title": "Pokémon Red/Blue/Yellow - Vermillion City",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "grassland",
+    "town"
+  ],
+  "description": "This is the theme played in the city containing the third gym, Vermillion City.",
+  "latest_version": "smwc-7095-1316285065",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7095,
+      "title": "Pokémon Red/Blue/Yellow - Vermillion City",
+      "version": "smwc-7095-1316285065",
+      "upstream_time": 1316285065,
+      "download_url": "https://dl.smwcentral.net/7095/prbyvc.zip",
+      "filename": "prbyvc.zip",
+      "size": 60038,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

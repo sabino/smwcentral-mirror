@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-fantasy-i-ii-dawn-of-souls-ruined-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22289,
+  "title": "Final Fantasy I & II: Dawn of Souls - Ruined Castle",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "ruins",
+    "spooky",
+    "temple",
+    "tense"
+  ],
+  "description": "An ominous small piano song played at the destroyed castles on the GBA port from FF.<br>\r\nIt contains a version with the original GBA game samples, and a version using Chrono Trigger samples.<br>\r\n<br>\r\nRequested by Brutapode89.",
+  "latest_version": "smwc-22289-1584677151",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22289,
+      "title": "Final Fantasy I & II: Dawn of Souls - Ruined Castle",
+      "version": "smwc-22289-1584677151",
+      "upstream_time": 1584677151,
+      "download_url": "https://dl.smwcentral.net/22289/Final%20Fantasy%20I%20%26%20II%20Dawn%20of%20Souls%20-%20Ruined%20Castle.zip",
+      "filename": "Final Fantasy I %26 II Dawn of Souls - Ruined Castle.zip",
+      "size": 136658,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

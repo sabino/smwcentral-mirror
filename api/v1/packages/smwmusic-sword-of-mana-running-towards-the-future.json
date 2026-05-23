@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-sword-of-mana-running-towards-the-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27645,
+  "title": "Sword of Mana - Running Towards the Future",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "mountain"
+  ],
+  "description": "Running Towards the Future from Sword of Mana.",
+  "latest_version": "smwc-27645-1626146147",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27645,
+      "title": "Sword of Mana - Running Towards the Future",
+      "version": "smwc-27645-1626146147",
+      "upstream_time": 1626146147,
+      "download_url": "https://dl.smwcentral.net/27645/Sword%20of%20Mana%20-%20Running%20Towards%20The%20Future%20%28S%29.zip",
+      "filename": "Sword of Mana - Running Towards The Future (S).zip",
+      "size": 61967,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21401,
+      "title": "Sword of Mana - Running Towards the Future",
+      "version": "smwc-21401-1573096789",
+      "upstream_time": 1573096789,
+      "download_url": "https://dl.smwcentral.net/21401/Running%20Towards%20The%20Future.zip",
+      "filename": "Running Towards The Future.zip",
+      "size": 31881,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

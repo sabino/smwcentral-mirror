@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-blowck-tool",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4524,
+  "title": "Blowck Tool",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "This patch will allow you to insert custom layer 1 tiles on the OW, and to some extent modify and even replace original tiles, if you know what your doing that is. Allows you to use tiles #$BF-#$FF as custom tiles. That's 65 tiles you can use!",
+  "latest_version": "smwc-4524-1320516795",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4524,
+      "title": "Blowck Tool",
+      "version": "smwc-4524-1320516795",
+      "upstream_time": 1320516795,
+      "download_url": "https://dl.smwcentral.net/4524/Blowck%20Tool.zip",
+      "filename": "Blowck Tool.zip",
+      "size": 1444,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

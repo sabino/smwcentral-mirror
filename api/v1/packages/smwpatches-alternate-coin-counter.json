@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-alternate-coin-counter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 15285,
+  "title": "Alternate Coin Counter",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "coin counter",
+    "flag",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a result of merging, bug-fixing and adding new features of previous patches made to customize lightly the SMW Coin Counter.<br>\r\n<br>\r\nThis patch lets you to change the coin counter limit used by SMW (the default is 100). Any value unsigned 8-bit bounded will work now. Also, the counter will display with leading zeros or not depending on your choice. More features include: The option to bound the counter when it reaches the limit or reset it and give the player a life (as original SMW does); the customization of the increasing coin rate; and the addition of a decreasing coin flag.<br>\r\n<br>\r\nSupports SA-1 ROMs. Assemble with Asar.<br>\r\nCredit to Iceguy for coding the two patches I mentioned: the 200 Coin Counter Limit and the Add 'decrease coin' flag.",
+  "latest_version": "smwc-15285-1489202149",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 15285,
+      "title": "Alternate Coin Counter",
+      "version": "smwc-15285-1489202149",
+      "upstream_time": 1489202149,
+      "download_url": "https://dl.smwcentral.net/15285/AlternateCoinCounter.zip",
+      "filename": "AlternateCoinCounter.zip",
+      "size": 3639,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-acme-animation-factory-intro-screen-font",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 22524,
+  "title": "ACME Animation Factory - intro screen font",
+  "authors": [
+    "DTA450"
+  ],
+  "tags": [
+    "font",
+    "needs remoderation",
+    "sans serif"
+  ],
+  "description": "The font used during the intro screen of 'ACME Animation Factory', a Mario Paint-Like SNES Game.<br>\r\nLetters have 3 colors in the original game, but they were arranged to use only 2 colors.<br>\r\n<br>\r\nIt includes a GFX2A file. I added new characters such as 8, 9, a double quote (replace an unused tile), and also 'ILLUSI' and 'YELLOW' if you use these. Yoshi's footprint is also changed to match.",
+  "latest_version": "smwc-22524-1588363825",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 22524,
+      "title": "ACME Animation Factory - intro screen font",
+      "version": "smwc-22524-1588363825",
+      "upstream_time": 1588363825,
+      "download_url": "https://dl.smwcentral.net/22524/ACMEanimationFont.zip",
+      "filename": "ACMEanimationFont.zip",
+      "size": 1101,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

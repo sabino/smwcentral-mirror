@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-touhou-kikaisen-adventures-in-inferno-hellish-dreams-everlasting",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34300,
+  "title": "Touhou Kikaisen ~ Adventures in Inferno - Hellish Dreams, Everlasting",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "final",
+    "forest",
+    "grassland",
+    "ice",
+    "mountain",
+    "night",
+    "snow"
+  ],
+  "description": "The \"stage 2\" theme from the game-without-a-game, PC-98 Touhou-style music album, 東方奇界泉　～ Adventures in Inferno.<br>\r\n<br>\r\nIt's energetic and reminiscent of Dimension of Rêverie from Mystic Square. The composition itself is chaotic, with lots of things going on at once during the fast parts. The port itself reminds me of old 2009 Touhou ports too! The magic of @5 and @14…",
+  "latest_version": "smwc-34300-1696105394",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34300,
+      "title": "Touhou Kikaisen ~ Adventures in Inferno - Hellish Dreams, Everlasting",
+      "version": "smwc-34300-1696105394",
+      "upstream_time": 1696105394,
+      "download_url": "https://dl.smwcentral.net/34300/ehd.zip",
+      "filename": "ehd.zip",
+      "size": 35284,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

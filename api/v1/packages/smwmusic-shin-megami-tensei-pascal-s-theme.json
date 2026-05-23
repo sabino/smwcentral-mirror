@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shin-megami-tensei-pascal-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37260,
+  "title": "Shin Megami Tensei - Pascal's Theme",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "calm",
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "The theme of the main character‘s dog Pascal. Also known as 'President‘s Office‘ in SMT if…",
+  "latest_version": "smwc-37260-1711953315",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37260,
+      "title": "Shin Megami Tensei - Pascal's Theme",
+      "version": "smwc-37260-1711953315",
+      "upstream_time": 1711953315,
+      "download_url": "https://dl.smwcentral.net/37260/SMT%20Pascal.zip",
+      "filename": "SMT Pascal.zip",
+      "size": 33460,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

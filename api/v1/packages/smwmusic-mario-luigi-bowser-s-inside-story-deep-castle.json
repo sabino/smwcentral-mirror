@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-luigi-bowser-s-inside-story-deep-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23526,
+  "title": "Mario & Luigi: Bowser's Inside Story - Deep Castle",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final"
+  ],
+  "description": "The song that plays in Peach's Castle in Mario & Luigi Bowser's Inside Story. Fitting for dark, castle or final levels.",
+  "latest_version": "smwc-23526-1594247128",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23526,
+      "title": "Mario & Luigi: Bowser's Inside Story - Deep Castle",
+      "version": "smwc-23526-1594247128",
+      "upstream_time": 1594247128,
+      "download_url": "https://dl.smwcentral.net/23526/Deep_Castle.zip",
+      "filename": "Deep_Castle.zip",
+      "size": 32982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

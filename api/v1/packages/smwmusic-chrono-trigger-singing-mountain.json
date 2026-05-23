@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-chrono-trigger-singing-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23570,
+  "title": "Chrono Trigger - Singing Mountain",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "ice",
+    "mountain",
+    "night",
+    "overworld",
+    "ruins",
+    "sad",
+    "snow",
+    "temple"
+  ],
+  "description": "A calm and wintery theme from Chrono Trigger that was never used in the final game.",
+  "latest_version": "smwc-23570-1594093003",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23570,
+      "title": "Chrono Trigger - Singing Mountain",
+      "version": "smwc-23570-1594093003",
+      "upstream_time": 1594093003,
+      "download_url": "https://dl.smwcentral.net/23570/Chrono%20Trigger-%20Singing%20Mountain.zip",
+      "filename": "Chrono Trigger- Singing Mountain.zip",
+      "size": 31142,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14380,
+      "title": "Chrono Trigger - Singing Mountain",
+      "version": "smwc-14380-1475294424",
+      "upstream_time": 1475294424,
+      "download_url": "https://dl.smwcentral.net/14380/Singing%20Mountain.zip",
+      "filename": "Singing Mountain.zip",
+      "size": 76285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

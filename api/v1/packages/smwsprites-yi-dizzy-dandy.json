@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-yi-dizzy-dandy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3237,
+  "title": "YI Dizzy Dandy",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "dynamic",
+    "flower",
+    "lorom",
+    "yoshi island"
+  ],
+  "description": "A flower that falls and rolls towards mario when he gets near it. It also kills enemies.",
+  "latest_version": "smwc-3237-1203356882",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3237,
+      "title": "YI Dizzy Dandy",
+      "version": "smwc-3237-1203356882",
+      "upstream_time": 1203356882,
+      "download_url": "https://dl.smwcentral.net/3237/YIDizzyDandy.zip",
+      "filename": "YIDizzyDandy.zip",
+      "size": 13259,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

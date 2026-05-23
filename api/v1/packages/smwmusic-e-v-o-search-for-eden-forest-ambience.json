@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-e-v-o-search-for-eden-forest-ambience",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38699,
+  "title": "E.V.O.: Search for Eden - Forest Ambience",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "forest"
+  ],
+  "description": "The peaceful Forest Ambience from Search for Eden.",
+  "latest_version": "smwc-38699-1732723094",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38699,
+      "title": "E.V.O.: Search for Eden - Forest Ambience",
+      "version": "smwc-38699-1732723094",
+      "upstream_time": 1732723094,
+      "download_url": "https://dl.smwcentral.net/38699/Evo%20Forest.zip",
+      "filename": "Evo Forest.zip",
+      "size": 60209,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

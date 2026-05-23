@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-tower-of-heaven-fan",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41219,
+  "title": "Tower of Heaven Fan",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "Not to be confused with the simple blocks that DEC/SEC : SBC your $96 Y position to make you float.<br>\r\n<br>\r\nThis is a fan block that sends the player flying upwards in an acceleration-based momentum gradually unlike traditional boost blocks (which changes your momentum instantly). The longer or lower you are touching this block, the higher the player is sent. Inspired by the propellers from Tower of Heaven by askiisoft.",
+  "latest_version": "smwc-41219-1764816131",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41219,
+      "title": "Tower of Heaven Fan",
+      "version": "smwc-41219-1764816131",
+      "upstream_time": 1764816131,
+      "download_url": "https://dl.smwcentral.net/41219/ToH%20Fan.zip",
+      "filename": "ToH Fan.zip",
+      "size": 6443,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

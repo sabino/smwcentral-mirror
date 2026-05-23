@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-iv-dr-wily-s-station",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29180,
+  "title": "Mega Man IV - Dr. Wily's Station",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "castle",
+    "industrial",
+    "space"
+  ],
+  "description": "Dr. Wily Stage from Mega Man IV (GB). Could fit a space station levels.",
+  "latest_version": "smwc-29180-1643884164",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29180,
+      "title": "Mega Man IV - Dr. Wily's Station",
+      "version": "smwc-29180-1643884164",
+      "upstream_time": 1643884164,
+      "download_url": "https://dl.smwcentral.net/29180/Mega%20Man%20IV%20%28GB%29%20-%20Dr.%20Wily%20Stage%20%28U%29.zip",
+      "filename": "Mega Man IV (GB) - Dr. Wily Stage (U).zip",
+      "size": 33224,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

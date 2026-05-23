@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-super-mario-maker-flying-spiny",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22096,
+  "title": "Super Mario Maker - Flying Spiny",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "sa-1",
+    "spiny"
+  ],
+  "description": "This is a winged spiny from Super Mario Maker. It flies horizontally with slight vertical movement and spawns needles.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-22096-1582408401",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22096,
+      "title": "Super Mario Maker - Flying Spiny",
+      "version": "smwc-22096-1582408401",
+      "upstream_time": 1582408401,
+      "download_url": "https://dl.smwcentral.net/22096/Super%20Mario%20Maker%20-%20Flying%20Spiny.zip",
+      "filename": "Super Mario Maker - Flying Spiny.zip",
+      "size": 6272,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-present-paradise",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8068,
+  "title": "Present Paradise",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "The song that was supposed to be used in the first world of 'Mario's Time Quest'. Good for a calm overworld/submap.",
+  "latest_version": "smwc-8068-1319899959",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8068,
+      "title": "Present Paradise",
+      "version": "smwc-8068-1319899959",
+      "upstream_time": 1319899959,
+      "download_url": "https://dl.smwcentral.net/8068/Present%20Paradise.zip",
+      "filename": "Present Paradise.zip",
+      "size": 70419,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

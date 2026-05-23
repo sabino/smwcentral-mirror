@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-across-the-sands",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8207,
+  "title": "Across the Sands",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "desert",
+    "overworld",
+    "ruins"
+  ],
+  "description": "A simple, Arabic-themed composition that would suit a slower-paced desert area.",
+  "latest_version": "smwc-8207-1336553517",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8207,
+      "title": "Across the Sands",
+      "version": "smwc-8207-1336553517",
+      "upstream_time": 1336553517,
+      "download_url": "https://dl.smwcentral.net/8207/Across%20the%20Sands.zip",
+      "filename": "Across the Sands.zip",
+      "size": 66665,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

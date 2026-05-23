@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-multiple-rotating-sprites-spawner",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30003,
+  "title": "Multiple Rotating Sprites Spawner",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ball and chain",
+    "lorom",
+    "rotating platform",
+    "sa-1"
+  ],
+  "description": "This sprite acts similarly as vanilla sprite E0 (triple rotating platforms) but with many more options for the spawned sprites, customizable with the extra bytes, including:<br>\r\n- Amount of sprites (between 1 and 8)<br>\r\n- For each one, if it is a Ball n' Chain or a Platform<br>\r\n- For each one, if it shouldn't be spawned (if you want to leave \"holes\" in the circle or to have less sprites rotating closer together).<br>\r\nThe rotation direction depends on the X position like in vanilla, unless you're using the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=27942\">Sprite Properties Depending on the Extra Bit</a> patch, in which case it will depend on the extra bit.<br>\r\nIncluded in the json file are some example sprites you can find in the custom sprite list in LM. See the asm file or the LM tooltip for more info on how the options work.",
+  "latest_version": "smwc-30003-1656147845",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30003,
+      "title": "Multiple Rotating Sprites Spawner",
+      "version": "smwc-30003-1656147845",
+      "upstream_time": 1656147845,
+      "download_url": "https://dl.smwcentral.net/30003/rotating_sprites_spawner.zip",
+      "filename": "rotating_sprites_spawner.zip",
+      "size": 3244,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

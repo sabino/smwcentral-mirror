@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-micro-machines-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7736,
+  "title": "Micro Machines - Select",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "cave",
+    "cutscene",
+    "goal",
+    "industrial",
+    "overworld",
+    "p-switch",
+    "star"
+  ],
+  "description": "A short song that could possibly be used as a theme for some kind of submap.",
+  "latest_version": "smwc-7736-1322626539",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7736,
+      "title": "Micro Machines - Select",
+      "version": "smwc-7736-1322626539",
+      "upstream_time": 1322626539,
+      "download_url": "https://dl.smwcentral.net/7736/Micro%20Machines%20-%20Select.zip",
+      "filename": "Micro Machines - Select.zip",
+      "size": 57812,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

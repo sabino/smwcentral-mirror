@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-princess-peach-vibe-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15597,
+  "title": "Super Princess Peach - Vibe Island",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "beach",
+    "overworld"
+  ],
+  "description": "This is the music from the main overworld map in Super Princess Peach.  It might work well for a tropical-themed overworld map.",
+  "latest_version": "smwc-15597-1496262646",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15597,
+      "title": "Super Princess Peach - Vibe Island",
+      "version": "smwc-15597-1496262646",
+      "upstream_time": 1496262646,
+      "download_url": "https://dl.smwcentral.net/15597/Super%20Princess%20Peach%20-%20Vibe%20Island.zip",
+      "filename": "Super Princess Peach - Vibe Island.zip",
+      "size": 32243,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

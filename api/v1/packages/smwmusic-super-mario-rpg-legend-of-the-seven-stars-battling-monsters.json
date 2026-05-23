@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-battling-monsters",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26679,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Battling Monsters",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "forest",
+    "grassland",
+    "sky"
+  ],
+  "description": "The cheerful battle theme from SMRPG.<br>\r\nRequested by Fernandito2018.",
+  "latest_version": "smwc-26679-1617916221",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26679,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Battling Monsters",
+      "version": "smwc-26679-1617916221",
+      "upstream_time": 1617916221,
+      "download_url": "https://dl.smwcentral.net/26679/Super%20Mario%20RPG%20-%20Fight%20Against%20Monsters.zip",
+      "filename": "Super Mario RPG - Fight Against Monsters.zip",
+      "size": 78194,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13159,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Battling Monsters",
+      "version": "smwc-13159-1454297376",
+      "upstream_time": 1454297376,
+      "download_url": "https://dl.smwcentral.net/13159/Fight%20Against%20Monsters.zip",
+      "filename": "Fight Against Monsters.zip",
+      "size": 31975,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

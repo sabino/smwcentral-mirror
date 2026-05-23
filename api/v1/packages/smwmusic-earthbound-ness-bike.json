@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-earthbound-ness-bike",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39223,
+  "title": "EarthBound - Ness' Bike",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "A cute little song from Earthbound",
+  "latest_version": "smwc-39223-1741207377",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39223,
+      "title": "EarthBound - Ness' Bike",
+      "version": "smwc-39223-1741207377",
+      "upstream_time": 1741207377,
+      "download_url": "https://dl.smwcentral.net/39223/nessbike.zip",
+      "filename": "nessbike.zip",
+      "size": 110909,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

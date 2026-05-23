@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-smw-stationary-boomerang-ice-fire-bro-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18908,
+  "title": "SMW Stationary Boomerang/Ice/Fire Bro v1.1",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bros",
+    "enemy",
+    "lorom",
+    "projectile",
+    "sa-1",
+    "stationary"
+  ],
+  "description": "It's a Stationary SMW Hammer Bro... except it's not a hammer bro! It can throw custom extended projectiles, which creates Ice, Fire and Boomerang types of bros.<br>\r\n<br>\r\nRequested by zacmario.<br>\r\nPlease give credit if used. Includes extended sprites, they're not by me, they're Sonikku's.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nAdd support for LM3 exlevel to routine ExtendedBlockInteraction.asm. Only works in pixi 1.2.4 now.",
+  "latest_version": "smwc-18908-1547171591",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18908,
+      "title": "SMW Stationary Boomerang/Ice/Fire Bro v1.1",
+      "version": "smwc-18908-1547171591",
+      "upstream_time": 1547171591,
+      "download_url": "https://dl.smwcentral.net/18908/SMW_BoomerangIceFire_Bro_v1.1.zip",
+      "filename": "SMW_BoomerangIceFire_Bro_v1.1.zip",
+      "size": 14014,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

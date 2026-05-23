@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mogeko-castle-sinken",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15243,
+  "title": "Mogeko Castle - Sinken",
+  "authors": [
+    "SkywinDragoon"
+  ],
+  "tags": [
+    "cutscene",
+    "tense"
+  ],
+  "description": "This short music, also known as Mogekochan's theme, is perfect fit for cutscenes.",
+  "latest_version": "smwc-15243-1489890673",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15243,
+      "title": "Mogeko Castle - Sinken",
+      "version": "smwc-15243-1489890673",
+      "upstream_time": 1489890673,
+      "download_url": "https://dl.smwcentral.net/15243/Mogeko%20Castle%20-%20Sinken.zip",
+      "filename": "Mogeko Castle - Sinken.zip",
+      "size": 38034,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-haunted-castle-don-t-wait-until-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39549,
+  "title": "Haunted Castle - Don't Wait Until Night",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "finale",
+    "fire",
+    "night"
+  ],
+  "description": "The upbeat stage 6 theme of the Castlevania arcade game Haunted Castle, today better known the first part of Julius's theme.<br>\r\n<br>\r\nGood for hectic levels and boss battles.",
+  "latest_version": "smwc-39549-1748452848",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39549,
+      "title": "Haunted Castle - Don't Wait Until Night",
+      "version": "smwc-39549-1748452848",
+      "upstream_time": 1748452848,
+      "download_url": "https://dl.smwcentral.net/39549/Haunted%20Castle%20-%20Cant%20Wait%20Until%20Night.zip",
+      "filename": "Haunted Castle - Cant Wait Until Night.zip",
+      "size": 34541,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7846,
+      "title": "Haunted Castle - Don't Wait Until Night",
+      "version": "smwc-7846-1320146326",
+      "upstream_time": 1320146326,
+      "download_url": "https://dl.smwcentral.net/7846/Night.zip",
+      "filename": "Night.zip",
+      "size": 67421,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

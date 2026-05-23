@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-pick-up-sprite-sound",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41597,
+  "title": "Pick Up Sprite Sound",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sound effect"
+  ],
+  "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
+  "latest_version": "smwc-41597-1775952549",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41597,
+      "title": "Pick Up Sprite Sound",
+      "version": "smwc-41597-1775952549",
+      "upstream_time": 1775952549,
+      "download_url": "https://dl.smwcentral.net/41597/PickUpSound.zip",
+      "filename": "PickUpSound.zip",
+      "size": 810,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

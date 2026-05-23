@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-line-guided-any-sprite-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33712,
+  "title": "Line-Guided Any Sprite v1.3",
+  "authors": [
+    "Kevin",
+    "dtothefourth"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This sprite acts as a wrapper for any normal or custom sprite*, allowing it to easily be made line-guided at the cost of an extra sprite slot.<br>\r\nCheck out the asm file for info on how to use it.<br>\r\n<br>\r\nOriginal sprite by dtothefourth, I optimized it a bit and made some fixes:<br>\r\n- Now it works properly with Yoshi and with carryable sprites.<br>\r\n- Now it works properly when Yoshi or Baby Yoshi eat the sprite.<br>\r\n- Now the sprite won't respawn when the wrapped sprite is killed or collected (e.g. sprite killed with a spin jump, collected powerup).<br>\r\n- Now compatible with Line Guide Acts-Like fix.<br>\r\n<br>\r\nv1.1 update:<br>\r\n- Small code optimizations.<br>\r\n- Added an option in the 4th extra byte to be used with platforms: if set, Mario will move with the platform instead of sliding on it (like normal line-guided platforms do).<br>\r\n- Now the sprite uses 8 extra bytes: the last 4 set the 4 extra bytes for the spawned sprite.<br>\r\n<br>\r\nv1.2 update:<br>\r\n- Fixed a bug where if the wrapped sprite failed to spawn (due to sprite slots being full) the wrapper would be erased forever, instead of being able to respawn (thanks to MarioFanGamer for pointing this out).<br>\r\n- Added a second platform option, to make it compatible with sprites that use custom platform code (for example, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24667\">this</a>) (thanks to MarioFanGamer for suggesting this).<br>\r\n- Now the sprite uses 9 extra bytes: the 5th one sets the speed multiplier for the sprite (if you want to make it move faster).<br>\r\n- Fixed an issue where the sprite would despawn immediately after spawning when using a non-zero offset and spawning it from a specific direction.<br>\r\n<br>\r\nv1.3 update:<br>\r\n- Fixed bug where on spawn this sprite could cause an unrelated sprite to teleport to its location (thanks mellonpizza for finding the fix)<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">*Some sprites may not work properly, for example Rotating Platform and Ball n' Chain.</span>",
+  "latest_version": "smwc-33712-1699806973",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33712,
+      "title": "Line-Guided Any Sprite v1.3",
+      "version": "smwc-33712-1699806973",
+      "upstream_time": 1699806973,
+      "download_url": "https://dl.smwcentral.net/33712/Line-Guided%20Any%20Sprite.zip",
+      "filename": "Line-Guided Any Sprite.zip",
+      "size": 5022,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-freeze-ice-mario-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4055,
+  "title": "Freeze Ice Mario Block",
+  "authors": [
+    "allowiscous"
+  ],
+  "tags": [
+    "freeze",
+    "ice",
+    "lorom",
+    "platform"
+  ],
+  "description": "These two blocks, will either freeze Mario immediately, then disappear in a puff of smoke, or freeze Mario over time, but not disappear in a puff of smoke depending which on you use. They also both disapear in a puff of smoke when hit by a fireball. No credit needed. Lastly, the readme explains which one is which.",
+  "latest_version": "smwc-4055-1426276715",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4055,
+      "title": "Freeze Ice Mario Block",
+      "version": "smwc-4055-1426276715",
+      "upstream_time": 1426276715,
+      "download_url": "https://dl.smwcentral.net/4055/Ice%20Block.zip",
+      "filename": "Ice Block.zip",
+      "size": 1605,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

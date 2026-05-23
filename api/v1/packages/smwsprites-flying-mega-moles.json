@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-flying-mega-moles",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20097,
+  "title": "Flying Mega Moles",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "mega mole",
+    "sa-1",
+    "wings"
+  ],
+  "description": "These Mega Moles can, as dumb as it sounds, fly.<br>\r\nIncludes two variants: one keeps flying horizontally forever (like one of the green parakoopas), while the other flies horizontally and vertically in an specific range (like the red parakoopas).",
+  "latest_version": "smwc-20097-1559440554",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20097,
+      "title": "Flying Mega Moles",
+      "version": "smwc-20097-1559440554",
+      "upstream_time": 1559440554,
+      "download_url": "https://dl.smwcentral.net/20097/Flying_Mega_Moles.zip",
+      "filename": "Flying_Mega_Moles.zip",
+      "size": 3572,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

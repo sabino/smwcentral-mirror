@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-ganbare-goemon-kirakira-d-ch-boku-ga-dancer-ni-natta-wake-credits",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24264,
+  "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Credits",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "credits"
+  ],
+  "description": "The funky credits theme from Ganbare Goemon 4. I'd recommend that you use it in your hack's credits sequence.<br>\r\n<br>\r\nI made an alternate version of the port with a better loop point because the normal one kinda sucks.",
+  "latest_version": "smwc-24264-1598240631",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24264,
+      "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Credits",
+      "version": "smwc-24264-1598240631",
+      "upstream_time": 1598240631,
+      "download_url": "https://dl.smwcentral.net/24264/Ganbare%20Goemon%204%20-%20Credits.zip",
+      "filename": "Ganbare Goemon 4 - Credits.zip",
+      "size": 123987,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

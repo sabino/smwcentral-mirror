@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-numbered-multi-hit-p-switch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22016,
+  "title": "Numbered Multi-Hit P-Switch",
+  "authors": [
+    "dtothefourth"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A modification of the P-Switch which allows it to be used multiple times and show a number for how many uses are remaining.<br>\r\n<br>\r\n<br>\r\nSupports 1-9 uses or infinite and number of uses can be set in LM via the extension/extra bytes not requiring multiple inserts.<br>\r\n<br>\r\n1.1 Update:<br>\r\n    Is now inedible while in pressed state<br>\r\n    Number takes the layer priority of the switch so it goes behind pipes when taking it through<br>\r\n    0 in the number of uses also counts as infinite instead of showing 0 and underflowing",
+  "latest_version": "smwc-22016-1585678281",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22016,
+      "title": "Numbered Multi-Hit P-Switch",
+      "version": "smwc-22016-1585678281",
+      "upstream_time": 1585678281,
+      "download_url": "https://dl.smwcentral.net/22016/MultiSwitch.zip",
+      "filename": "MultiSwitch.zip",
+      "size": 5870,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

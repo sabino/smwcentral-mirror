@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-baby-reznor-rotating-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40567,
+  "title": "Baby Reznor + Rotating Block",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "lorom",
+    "reznor",
+    "sa-1"
+  ],
+  "description": "This includes:<br>\r\n1) a baby Reznor that shoots fireballs;<br>\r\n2) a rotating block that moves like the gray chained platforms, but otherwise behaves like a single-block Hammer Brother platform.<br>\r\nThe two sprites can be used as standalone, but they also function in conjuction.<br>\r\n<br>\r\n<br>\r\nRegarding the baby Reznor, depending on the extra bit, it will either walk around occasionally facing the player, or attach to the included rotating block sprite. They take 3 fireballs to kill by default.<br>\r\n<br>\r\nWhen attached to a rotating block, hitting it with a fireball will make it drop and start walking. When its block is hit from below, it can either drop and start walking, drop and start walking with 1 health point diminished or be killed. The last option is default, but this behavior can be changed in rotating_block.asm.<br>\r\n<br>\r\n<br>\r\nRegarding the rotating block, the extra bit determines its rotation direction, and with the extra bytes you can set its speed, radius and initial angle (rotating_block.asm describes some angle values you can use to place evenly spaced concentric platforms like those seen in the screenshots). Additionally, you can enable a functionality so the level exit activates once no baby Reznors are present in the level, effectively making these sprites work as a boss.<br>\r\n<br>\r\n<br>\r\n<b><u>IMPORTANT!</u></b> For both sprites to work in conjuction, they must be inserted in sequence in the sprite list like so (08 and 09 are just an example - they can be on any sequential pair of numbers):<br>\r\n<br>\r\n08 baby_reznor.json<br>\r\n09 rotating_block.json",
+  "latest_version": "smwc-40567-1774977929",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40567,
+      "title": "Baby Reznor + Rotating Block",
+      "version": "smwc-40567-1774977929",
+      "upstream_time": 1774977929,
+      "download_url": "https://dl.smwcentral.net/40567/baby_reznor_rotating_block.zip",
+      "filename": "baby_reznor_rotating_block.zip",
+      "size": 12699,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

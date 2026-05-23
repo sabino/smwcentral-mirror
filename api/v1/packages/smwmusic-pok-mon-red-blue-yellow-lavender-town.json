@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-lavender-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7789,
+  "title": "Pokémon Red/Blue/Yellow - Lavender Town",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "calm",
+    "dark"
+  ],
+  "description": "Eerie/calm tune from Pokemon R/B/Y. Could suit a solemn area.",
+  "latest_version": "smwc-7789-1324189642",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7789,
+      "title": "Pokémon Red/Blue/Yellow - Lavender Town",
+      "version": "smwc-7789-1324189642",
+      "upstream_time": 1324189642,
+      "download_url": "https://dl.smwcentral.net/7789/PkmRB-Lavender.zip",
+      "filename": "PkmRB-Lavender.zip",
+      "size": 66462,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

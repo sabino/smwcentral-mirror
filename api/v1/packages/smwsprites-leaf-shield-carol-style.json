@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-leaf-shield-carol-style",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22385,
+  "title": "Leaf Shield, carol-style",
+  "authors": [
+    "KobaBeach"
+  ],
+  "tags": [
+    "friendly",
+    "leaf shield",
+    "lorom",
+    "mega man 2",
+    "powerup",
+    "sa-1"
+  ],
+  "description": "A Leaf Shield powerup from Mega Man 2. Follows Mario's location, then when pressing R, spawns the actual shield. Press R again to fire it at enemies. Based on code by carol from Brutal Mario, but re-coded by myself.<br>\r\n<br>\r\nPossibly fun as a one stage gimmick but can be overpowered, so use sparingly.<br>\r\n<br>\r\nPlease have fun with it!<br>\r\n<br>\r\nUses the greens in Palette B so please be cautious if you're using a custom palette!<br>\r\n<br>\r\n<b>UPDATE (13/03/2020)</b>: Clears the \"disappear while $9D is set\" bug. Now you can grab mushrooms, get hit and die without the shield vanishing temporarily. Also fixed a bug where the launch sprite didn't follow you around, making it so that if you tried to spawn the Leaf Shield after it despawned (as it, again, doesn't follow you around) nothing would happen.",
+  "latest_version": "smwc-22385-1584408604",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22385,
+      "title": "Leaf Shield, carol-style",
+      "version": "smwc-22385-1584408604",
+      "upstream_time": 1584408604,
+      "download_url": "https://dl.smwcentral.net/22385/Mega%20Man%202%20Leaf%20Shield.zip",
+      "filename": "Mega Man 2 Leaf Shield.zip",
+      "size": 4092,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-exit-percentage-on-the-overworld",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 26363,
+  "title": "Exit Percentage on the Overworld",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "counter",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM will display the current progress in the hack (as percentage of exits gotten) on the overworld border. It can be paired with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24677\">this patch</a> for consistency. Check out the readme for more information.<br>\r\nThis is the second part of Ondore's Lies' request for a percentage counter on file select and overworld.",
+  "latest_version": "smwc-26363-1617133348",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 26363,
+      "title": "Exit Percentage on the Overworld",
+      "version": "smwc-26363-1617133348",
+      "upstream_time": 1617133348,
+      "download_url": "https://dl.smwcentral.net/26363/OWExitPercentage.zip",
+      "filename": "OWExitPercentage.zip",
+      "size": 4084,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

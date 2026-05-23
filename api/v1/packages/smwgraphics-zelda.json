@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-zelda",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1707,
+  "title": "Zelda 2 - Forest",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "8-bit",
+    "castle",
+    "forest",
+    "needs remoderation"
+  ],
+  "description": "This is a better forest set.",
+  "latest_version": "smwc-1707-1421536908",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1707,
+      "title": "Zelda 2 - Forest",
+      "version": "smwc-1707-1421536908",
+      "upstream_time": 1421536908,
+      "download_url": "https://dl.smwcentral.net/1707/Background.zip",
+      "filename": "Background.zip",
+      "size": 3201,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1704,
+      "title": "Zelda 2 - Castle",
+      "version": "smwc-1704-1409831730",
+      "upstream_time": 1409831730,
+      "download_url": "https://dl.smwcentral.net/1704/da%20legned%20of%20jzerlda.zip",
+      "filename": "da legned of jzerlda.zip",
+      "size": 3576,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

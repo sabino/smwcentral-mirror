@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-tetris-attack-yoshi-s-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32601,
+  "title": "Tetris Attack - Yoshi's Stage",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "mountain",
+    "sky",
+    "town"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-32601-1675211314",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32601,
+      "title": "Tetris Attack - Yoshi's Stage",
+      "version": "smwc-32601-1675211314",
+      "upstream_time": 1675211314,
+      "download_url": "https://dl.smwcentral.net/32601/107%20Yoshi%27s%20Stage.zip",
+      "filename": "107 Yoshi%27s Stage.zip",
+      "size": 54532,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7040,
+      "title": "Tetris Attack - Yoshi's Stage",
+      "version": "smwc-7040-1311929341",
+      "upstream_time": 1311929341,
+      "download_url": "https://dl.smwcentral.net/7040/Tetris_Attack_-_Yoshi%27s_Stage.zip",
+      "filename": "Tetris_Attack_-_Yoshi%27s_Stage.zip",
+      "size": 71932,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

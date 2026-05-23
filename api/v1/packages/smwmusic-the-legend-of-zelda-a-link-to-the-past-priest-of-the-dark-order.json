@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-priest-of-the-dark-order",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8534,
+  "title": "The Legend of Zelda: A Link to the Past - Priest of the Dark Order",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "cutscene",
+    "dark"
+  ],
+  "description": "Agahnim and Ganon' dark theme. Best for cutscenes.<br>\r\n<br>\r\nUpdate (09/20/19): Updated to use .brr instead of .bnk as per remoderation.",
+  "latest_version": "smwc-8534-1396088293",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8534,
+      "title": "The Legend of Zelda: A Link to the Past - Priest of the Dark Order",
+      "version": "smwc-8534-1396088293",
+      "upstream_time": 1396088293,
+      "download_url": "https://dl.smwcentral.net/8534/Zelda%20ALttP%20-%20Priest%20of%20the%20Dark%20Order.zip",
+      "filename": "Zelda ALttP - Priest of the Dark Order.zip",
+      "size": 38232,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

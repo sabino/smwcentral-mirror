@@ -1,0 +1,61 @@
+{
+  "name": "smwgraphics-new-super-mario-world",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25737,
+  "title": "New Super Mario World 2: Around The World - Mushroom Island",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "castle",
+    "city",
+    "forest",
+    "grassland",
+    "mushroom",
+    "needs remoderation",
+    "ruins",
+    "sewer"
+  ],
+  "description": "A grassland tileset inspired by Minecraft's mushroom fields and mega taiga biomes which was used in NSMW2. Includes two palettes, one for mycelium and one for podzol.",
+  "latest_version": "smwc-25737-1610468460",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25737,
+      "title": "New Super Mario World 2: Around The World - Mushroom Island",
+      "version": "smwc-25737-1610468460",
+      "upstream_time": 1610468460,
+      "download_url": "https://dl.smwcentral.net/25737/NSMW2%20Mushroom%20Island.zip",
+      "filename": "NSMW2 Mushroom Island.zip",
+      "size": 3872,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 25736,
+      "title": "New Super Mario World 2: Around The World - City",
+      "version": "smwc-25736-1610468260",
+      "upstream_time": 1610468260,
+      "download_url": "https://dl.smwcentral.net/25736/NSMW2%20City.zip",
+      "filename": "NSMW2 City.zip",
+      "size": 3560,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 25735,
+      "title": "New Super Mario World 2: Around The World - Castle",
+      "version": "smwc-25735-1610468139",
+      "upstream_time": 1610468139,
+      "download_url": "https://dl.smwcentral.net/25735/NSMW2%20Castle.zip",
+      "filename": "NSMW2 Castle.zip",
+      "size": 4681,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

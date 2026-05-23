@@ -1,0 +1,31 @@
+{
+  "name": "tools-yy-chr-net-version-english-japanese",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 27208,
+  "title": "YY-CHR (.NET Version, English/Japanese)",
+  "authors": [
+    "Yy"
+  ],
+  "tags": [
+    "gfx",
+    "yy-chr"
+  ],
+  "description": "YY-CHR is a dot editor that can display and edit images contained in ROMs of old home games such as NES and SNES.<br>\r\nIn addition, tools [ROM Palette Editor] and [PRG Pattern Editor] for editing palettes and BG patterns are included.<br>\r\n<br>\r\nThis is the .NET version. For the non-.NET version, see <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4642\">here</a>.<br>\r\n<br>\r\nThis is the current build 2021/06/06<br>\r\n<br>\r\nChanges since last update here:<br>\r\n 2021/06/06<br>\r\nPRG Pattern Editor<br>\r\n    Add 16x16(16x8) to sorted view<br>\r\n<br>\r\n2021/06/05<br>\r\n    No update of YY-CHR.net this time.<br>\r\n<br>\r\nPalette Editor Tool [ROM Palette Editor].<br>\r\n    Fixed a bug (UI collapse when switching address display, etc.)<br>\r\n    Added support for MSX1/MSX2 palettes.<br>\r\n    Simplified palette check setting to only ON/OFF.<br>\r\n<br>\r\nPRG Pattern Editor<br>\r\n    Fixed bugs (exceptions when changing editing size, wrong editing position when sorting and displaying, wrong movement and display around the end of the file, etc.)<br>\r\n    CHR/PRG (ROM) files can now be opened by dragging and dropping files.<br>\r\n    Added option to show CHR images in palette. ON by default.",
+  "latest_version": "smwc-27208-1630438776",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 27208,
+      "title": "YY-CHR (.NET Version, English/Japanese)",
+      "version": "smwc-27208-1630438776",
+      "upstream_time": 1630438776,
+      "download_url": "https://dl.smwcentral.net/27208/yychr20210606.zip",
+      "filename": "yychr20210606.zip",
+      "size": 612959,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

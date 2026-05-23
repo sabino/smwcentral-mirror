@@ -1,0 +1,33 @@
+{
+  "name": "tools-snes9x",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 12766,
+  "title": "Snes9x 1.51rr + Debugger Lua Script",
+  "authors": [
+    "Amaraticando",
+    "Geiger"
+  ],
+  "tags": [
+    "debug",
+    "emulator",
+    "script"
+  ],
+  "description": "This is an emulator used to play SNES roms. I added a debugger script (\"smw-snes9x.lua\" with Rodamaral's permission, see image and GHBPermissionInText.txt for full proof) to help find glitches with sprite hitboxes, slot used, and clipping.<br>\r\n<br>\r\nAlso, have permission to submit snes9x:<br>\r\n<div class=\"quote\"><span class=\"quoteHead\">Originally posted by license</span><div class=\"quoteInner\">Permission to use, copy, modify and/or distribute Snes9x in both binary and source form, for non-commercial purposes, is hereby granted without fee, providing that this license information and copyright notice appear with all copies and any derived work.</div></div>",
+  "latest_version": "smwc-12766-1454293537",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 12766,
+      "title": "Snes9x 1.51rr + Debugger Lua Script",
+      "version": "smwc-12766-1454293537",
+      "upstream_time": 1454293537,
+      "download_url": "https://dl.smwcentral.net/12766/snes9x-1.51-rerecording-v7-win32.zip",
+      "filename": "snes9x-1.51-rerecording-v7-win32.zip",
+      "size": 1455844,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

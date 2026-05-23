@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-star-control-ii-thraddash",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29681,
+  "title": "Star Control II - Thraddash",
+  "authors": [
+    "drspork"
+  ],
+  "tags": [
+    "castle",
+    "industrial"
+  ],
+  "description": "The Thraddash theme from Star Control II.  This is an port of the original thradd.mod file by Riku Nuottajärvi.",
+  "latest_version": "smwc-29681-1658698295",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29681,
+      "title": "Star Control II - Thraddash",
+      "version": "smwc-29681-1658698295",
+      "upstream_time": 1658698295,
+      "download_url": "https://dl.smwcentral.net/29681/thraddash.zip",
+      "filename": "thraddash.zip",
+      "size": 72152,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

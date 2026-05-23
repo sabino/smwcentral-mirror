@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tomodachi-life-night-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13520,
+  "title": "Tomodachi Life - Night Theme",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "night",
+    "overworld"
+  ],
+  "description": "Song from Tomodachi Life, could fit night overworlds.<br>\r\n<br>\r\n<br>\r\n<br>\r\nThis time without lots of openmpt files in the samples folder.",
+  "latest_version": "smwc-13520-1459475555",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13520,
+      "title": "Tomodachi Life - Night Theme",
+      "version": "smwc-13520-1459475555",
+      "upstream_time": 1459475555,
+      "download_url": "https://dl.smwcentral.net/13520/tomodachinight.zip",
+      "filename": "tomodachinight.zip",
+      "size": 62412,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

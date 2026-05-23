@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-one-use-note-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23551,
+  "title": "One-use Note Blocks",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "note block",
+    "sa-1"
+  ],
+  "description": "This note block can only be used one time before breaking.",
+  "latest_version": "smwc-23551-1593857531",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23551,
+      "title": "One-use Note Blocks",
+      "version": "smwc-23551-1593857531",
+      "upstream_time": 1593857531,
+      "download_url": "https://dl.smwcentral.net/23551/oneuse.zip",
+      "filename": "oneuse.zip",
+      "size": 326,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

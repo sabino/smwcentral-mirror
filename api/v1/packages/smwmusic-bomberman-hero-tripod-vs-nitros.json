@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-bomberman-hero-tripod-vs-nitros",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23077,
+  "title": "Bomberman Hero - Tripod (Vs. Nitros)",
+  "authors": [
+    "dansalvato"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "chase",
+    "industrial",
+    "misc"
+  ],
+  "description": "This is a DnB song from the Bomberman Hero OST that plays while fighting Nitros. It could be good for boss battles or other high-pressure scenarios. That opening sample is a real mood-setter.<br>\r\n<br>\r\nIf you need the vanilla death song, restore the \"default/0A SMW @9.brr\" line and instead empty out other .brr files that you don't need, or replace \"default\" with \"optimized\". Inserting this song higher up in the song list (i.e. with a smaller song ID value) may allow you to fit more into ARAM.",
+  "latest_version": "smwc-23077-1590420531",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23077,
+      "title": "Bomberman Hero - Tripod (Vs. Nitros)",
+      "version": "smwc-23077-1590420531",
+      "upstream_time": 1590420531,
+      "download_url": "https://dl.smwcentral.net/23077/Bomberman%20Hero%20-%20Tripod.zip",
+      "filename": "Bomberman Hero - Tripod.zip",
+      "size": 99753,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

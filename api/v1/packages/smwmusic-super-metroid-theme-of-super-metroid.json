@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-metroid-theme-of-super-metroid",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36724,
+  "title": "Super Metroid - Theme of Super Metroid",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "ruins",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36724-1706161252",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36724,
+      "title": "Super Metroid - Theme of Super Metroid",
+      "version": "smwc-36724-1706161252",
+      "upstream_time": 1706161252,
+      "download_url": "https://dl.smwcentral.net/36724/02%20Theme%20of%20Super%20Metroid.zip",
+      "filename": "02 Theme of Super Metroid.zip",
+      "size": 212633,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

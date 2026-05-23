@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-treasure-conflix-auction",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41551,
+  "title": "Treasure Conflix - Auction",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene"
+  ],
+  "description": "The theme of the Auction in Treasure Conflix<br>\r\n<br>\r\nUnsampled version of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=37623\">this port.</a>",
+  "latest_version": "smwc-41551-1774089127",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41551,
+      "title": "Treasure Conflix - Auction",
+      "version": "smwc-41551-1774089127",
+      "upstream_time": 1774089127,
+      "download_url": "https://dl.smwcentral.net/41551/Auction%20U.zip",
+      "filename": "Auction U.zip",
+      "size": 30991,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37623,
+      "title": "Treasure Conflix - Auction",
+      "version": "smwc-37623-1716062994",
+      "upstream_time": 1716062994,
+      "download_url": "https://dl.smwcentral.net/37623/Auction.zip",
+      "filename": "Auction.zip",
+      "size": 33321,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

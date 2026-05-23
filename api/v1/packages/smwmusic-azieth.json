@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-azieth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7687,
+  "title": "Azieth",
+  "authors": [
+    "MuimiMoji"
+  ],
+  "tags": [
+    "grassland",
+    "overworld",
+    "sky"
+  ],
+  "description": "A song written for early game levels and maps. It is laid back, and I feel it fits grassy levels well. It could fit in cloud levels as well I suppose.",
+  "latest_version": "smwc-7687-1319818804",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7687,
+      "title": "Azieth",
+      "version": "smwc-7687-1319818804",
+      "upstream_time": 1319818804,
+      "download_url": "https://dl.smwcentral.net/7687/Azieth.zip",
+      "filename": "Azieth.zip",
+      "size": 70691,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

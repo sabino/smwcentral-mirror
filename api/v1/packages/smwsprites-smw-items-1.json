@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-smw-items-1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16077,
+  "title": "SMW Items 1.1",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "items",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Custom sprites that are based on the SMW items. It includes coins, p-switches of different settings and flying versions of the coin, p-switch, key, question block, springboard and throw block sprite. This is an update.",
+  "latest_version": "smwc-16077-1509727681",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16077,
+      "title": "SMW Items 1.1",
+      "version": "smwc-16077-1509727681",
+      "upstream_time": 1509727681,
+      "download_url": "https://dl.smwcentral.net/16077/SMW%20Items.zip",
+      "filename": "SMW Items.zip",
+      "size": 37740,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

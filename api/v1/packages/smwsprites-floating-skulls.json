@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-floating-skulls",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3505,
+  "title": "Floating Skulls",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "floating",
+    "lorom",
+    "sa-1",
+    "skulls"
+  ],
+  "description": "A disassembly of the floating skulls (sprite 61), commented. The number of skulls is easily configurable in the ASM file.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3505-1252176455",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3505,
+      "title": "Floating Skulls",
+      "version": "smwc-3505-1252176455",
+      "upstream_time": 1252176455,
+      "download_url": "https://dl.smwcentral.net/3505/Floating%20Skulls.zip",
+      "filename": "Floating Skulls.zip",
+      "size": 2406,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-sonic-3d-blast-genesis-volcano-valley-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36629,
+  "title": "Sonic 3D Blast (Genesis) - Volcano Valley Zone Act 1",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "fire",
+    "mountain",
+    "mysterious"
+  ],
+  "description": "Song that The Volcano Valley Act 1 from Sonic 3D Blast (Genesis). Could fit a volcano levels.",
+  "latest_version": "smwc-36629-1705769575",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36629,
+      "title": "Sonic 3D Blast (Genesis) - Volcano Valley Zone Act 1",
+      "version": "smwc-36629-1705769575",
+      "upstream_time": 1705769575,
+      "download_url": "https://dl.smwcentral.net/36629/Sonic%203D%20Blast%20%28Genesis%29%20-%20Volcano%20Valley%20Act%201.zip",
+      "filename": "Sonic 3D Blast (Genesis) - Volcano Valley Act 1.zip",
+      "size": 34806,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13989,
+      "title": "Sonic 3D Blast (Genesis) - Volcano Valley Zone Act 1",
+      "version": "smwc-13989-1469989838",
+      "upstream_time": 1469989838,
+      "download_url": "https://dl.smwcentral.net/13989/Volcano%20Valley%20Act%201.zip",
+      "filename": "Volcano Valley Act 1.zip",
+      "size": 34193,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

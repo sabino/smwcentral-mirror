@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-team-racing-rampage-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38502,
+  "title": "Crash Team Racing - Rampage Ruins",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "jungle",
+    "ruins",
+    "temple"
+  ],
+  "description": "A marimba arrangement of the battle arena motif that plays in Rampage Ruins, an ancient ruins themed battle arena.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38502-1726853538",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38502,
+      "title": "Crash Team Racing - Rampage Ruins",
+      "version": "smwc-38502-1726853538",
+      "upstream_time": 1726853538,
+      "download_url": "https://dl.smwcentral.net/38502/CTR%20-%20Rampage%20Ruins.zip",
+      "filename": "CTR - Rampage Ruins.zip",
+      "size": 134377,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

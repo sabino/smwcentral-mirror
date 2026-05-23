@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-flying-grey-turnblocks",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3490,
+  "title": "Flying Grey Turnblocks",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "flying",
+    "grey",
+    "lorom",
+    "platform",
+    "sa-1",
+    "turn block"
+  ],
+  "description": "A disassembly of the grey flying turnblocks (sprite C1), commented.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3490-1251657966",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3490,
+      "title": "Flying Grey Turnblocks",
+      "version": "smwc-3490-1251657966",
+      "upstream_time": 1251657966,
+      "download_url": "https://dl.smwcentral.net/3490/Flying%20Grey%20Turnblocks.zip",
+      "filename": "Flying Grey Turnblocks.zip",
+      "size": 2192,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-eerie-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26618,
+  "title": "Eerie Block",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "block",
+    "eerie",
+    "ghost house",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is an Eerie that can turn into a block when being looked at (like the Boo Block). It has several customizable features including speed, wave motion, the ability to periodically turn to face Mario, whether it freezes when turning into a block, and more.",
+  "latest_version": "smwc-26618-1618221010",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26618,
+      "title": "Eerie Block",
+      "version": "smwc-26618-1618221010",
+      "upstream_time": 1618221010,
+      "download_url": "https://dl.smwcentral.net/26618/EerieBlock.zip",
+      "filename": "EerieBlock.zip",
+      "size": 4934,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

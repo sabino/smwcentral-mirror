@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-gokujou-parodius-snes-circo-porto-harborland",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38031,
+  "title": "Gokujou Parodius (SNES) - Circo Porto Harborland",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "carnival",
+    "city",
+    "night"
+  ],
+  "description": "The backgrounds seen in the first stage of Gokujou Parodius. <br>\r\n<br>\r\nIncludes two versions:<br>\r\n- First Half: it has the Circo Porto Harborland logo, the city at the background has an amusement park.  It uses BG1, BG2 and BG3 slots and the palette rows 0, 3, 5 and 7.  Heavy palette and graphic usage, even though there's a lot of space in BG3.<br>\r\n<br>\r\n- Second Half: doesn't have the logo, the pillars have a beginning / end and the city is less varied. This version is the more recommended one to use.  Uses only the BG1 slot and palette rows 3, 5, and 7.  <br>\r\n<br>\r\nBoth versions can be used with the HDMA gradient file included in the zip file. Apply it with UberASM Tool. <br>\r\n<br>\r\nPick the version you're the most comfortable to use.  Compared to the site version, my version (second half version) is much more optimized and accurate to the source material, along with better palette management.<br>\r\n<br>\r\n\"The name of this stage, \"Circo Porto\", originates from Konami's former chain of arcade and entertainment facilities in the early nineties.\"<br>\r\n<br>\r\nA good fit for carnivals or cities.",
+  "latest_version": "smwc-38031-1722966940",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38031,
+      "title": "Gokujou Parodius (SNES) - Circo Porto Harborland",
+      "version": "smwc-38031-1722966940",
+      "upstream_time": 1722966940,
+      "download_url": "https://dl.smwcentral.net/38031/Gokujou%20Parodius%20%28SNES%29%20-%20Circo%20Porto%20Harborland.zip",
+      "filename": "Gokujou Parodius (SNES) - Circo Porto Harborland.zip",
+      "size": 14570,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

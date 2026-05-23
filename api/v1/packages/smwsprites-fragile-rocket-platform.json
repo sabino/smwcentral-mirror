@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-fragile-rocket-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33873,
+  "title": "Fragile Rocket Platform",
+  "authors": [
+    "Nowieso"
+  ],
+  "tags": [
+    "lorom",
+    "platform",
+    "sa-1"
+  ],
+  "description": "A fragile rocket platform.<br>\r\nIt explodes if:<br>\r\n<br>\r\n-it touches any solid block<br>\r\n-a kicked sprite touches it<br>\r\n-a bomb touches it<br>\r\n-it comes in contact with an explosion<br>\r\n-Mario's or Yoshi's fireballs touch it<br>\r\n<br>\r\nCheck out the asm file for customization options.",
+  "latest_version": "smwc-33873-1696750068",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33873,
+      "title": "Fragile Rocket Platform",
+      "version": "smwc-33873-1696750068",
+      "upstream_time": 1696750068,
+      "download_url": "https://dl.smwcentral.net/33873/rocket_platform.zip",
+      "filename": "rocket_platform.zip",
+      "size": 5851,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

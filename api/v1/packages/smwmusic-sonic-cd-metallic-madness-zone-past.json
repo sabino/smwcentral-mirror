@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-sonic-cd-metallic-madness-zone-past",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23589,
+  "title": "Sonic CD - Metallic Madness Zone (Past)",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "industrial",
+    "tense"
+  ],
+  "description": "The ominously industrial Past music from Metallic Madness. It probably fits factory-like levels with an ambiguous sense of doom to them.",
+  "latest_version": "smwc-23589-1594347940",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23589,
+      "title": "Sonic CD - Metallic Madness Zone (Past)",
+      "version": "smwc-23589-1594347940",
+      "upstream_time": 1594347940,
+      "download_url": "https://dl.smwcentral.net/23589/metallic%20madness%20past.zip",
+      "filename": "metallic madness past.zip",
+      "size": 51528,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20564,
+      "title": "Sonic CD - Metallic Madness Zone (Past)",
+      "version": "smwc-20564-1562798606",
+      "upstream_time": 1562798606,
+      "download_url": "https://dl.smwcentral.net/20564/Metallic%20Madness%20%28Past%29.zip",
+      "filename": "Metallic Madness (Past).zip",
+      "size": 168020,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

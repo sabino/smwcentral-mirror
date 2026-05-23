@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-revival-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14411,
+  "title": "Revival Block",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "death",
+    "lorom",
+    "revival",
+    "sa-1"
+  ],
+  "description": "If the player is dead and touches this sprite it'll revive the player<br>\r\n<br>\r\nUpdate:<br>\r\n - Fixed issues with having multiple blocks in the same level<br>\r\n - Added AddMusicK compatibility<br>\r\n<br>\r\nNote that the game will freeze for a bit when using AddMusicK<br>\r\n<br>\r\nRequested by maro",
+  "latest_version": "smwc-14411-1474148694",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14411,
+      "title": "Revival Block",
+      "version": "smwc-14411-1474148694",
+      "upstream_time": 1474148694,
+      "download_url": "https://dl.smwcentral.net/14411/ReviveBlock.zip",
+      "filename": "ReviveBlock.zip",
+      "size": 1852,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

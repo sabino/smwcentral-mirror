@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-32x32-coins-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41176,
+  "title": "32x32 Coins v1.2",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1",
+    "sprite needed"
+  ],
+  "description": "Big coins which aren't affected by P switches.<br>\r\nComes in 10, 30, and 50 coin versions, and includes a sparkle effect (as an extended sprite).<br>\r\n<br>\r\nChangelog:<br>\r\n2019/08/09 v1.2<br>\r\n- fixed vertical level.<br>\r\n<br>\r\nv1.1<br>\r\n- add effect flag<br>\r\n- add pow flag",
+  "latest_version": "smwc-41176-1764467824",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41176,
+      "title": "32x32 Coins v1.2",
+      "version": "smwc-41176-1764467824",
+      "upstream_time": 1764467824,
+      "download_url": "https://dl.smwcentral.net/41176/Megaton%20Coin%20v1.2.zip",
+      "filename": "Megaton Coin v1.2.zip",
+      "size": 10798,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

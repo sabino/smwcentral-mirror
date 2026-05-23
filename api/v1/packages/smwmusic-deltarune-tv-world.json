@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-deltarune-tv-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41281,
+  "title": "Deltarune - TV WORLD",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "sky",
+    "upbeat",
+    "urban"
+  ],
+  "description": "The song \"TV WORLD\" from Chapter 3 of Deltarune, which aptly plays in TV World, originally composed by Toby Fox. Could fit in city or athletic levels. <br>\r\n<br>\r\nThe original samples were found using the Deltarune Sample Sheet.",
+  "latest_version": "smwc-41281-1772322401",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41281,
+      "title": "Deltarune - TV WORLD",
+      "version": "smwc-41281-1772322401",
+      "upstream_time": 1772322401,
+      "download_url": "https://dl.smwcentral.net/41281/TV%20WORLD.zip",
+      "filename": "TV WORLD.zip",
+      "size": 83781,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

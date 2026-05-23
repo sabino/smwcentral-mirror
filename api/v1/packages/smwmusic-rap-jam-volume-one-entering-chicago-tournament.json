@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-rap-jam-volume-one-entering-chicago-tournament",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39463,
+  "title": "Rap Jam: Volume One - Entering Chicago Tournament",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cutscene",
+    "overworld",
+    "urban"
+  ],
+  "description": "Ambient calm hip hop music that plays when you're about to enter the Chicago tournament, the first tournament in Rap Jam.<br>\r\n<br>\r\nHad to optimize and loop the chordal sample in order for SMW samples to fit in.<br>\r\n<br>\r\nIf the chordal instrument cutting off midway (like it did in the original) bothers you a bit, use the slightly modified version.",
+  "latest_version": "smwc-39463-1744422652",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39463,
+      "title": "Rap Jam: Volume One - Entering Chicago Tournament",
+      "version": "smwc-39463-1744422652",
+      "upstream_time": 1744422652,
+      "download_url": "https://dl.smwcentral.net/39463/Rap%20Jam%20-%20Entering%20Chicago%20Tournament.zip",
+      "filename": "Rap Jam - Entering Chicago Tournament.zip",
+      "size": 145827,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

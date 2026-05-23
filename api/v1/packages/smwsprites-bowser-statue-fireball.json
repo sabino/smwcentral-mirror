@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-bowser-statue-fireball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3424,
+  "title": "Bowser Statue Fireball",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "fireball",
+    "lorom"
+  ],
+  "description": "This is a disassembly of the fireball that the Bowser statues spit. If you use it, don't bother to credit me, but if you base another sprite off of it, I would appreciate some credit.",
+  "latest_version": "smwc-3424-1249346775",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3424,
+      "title": "Bowser Statue Fireball",
+      "version": "smwc-3424-1249346775",
+      "upstream_time": 1249346775,
+      "download_url": "https://dl.smwcentral.net/3424/Bowser%20statue%20fireball%20disassembly.zip",
+      "filename": "Bowser statue fireball disassembly.zip",
+      "size": 2076,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

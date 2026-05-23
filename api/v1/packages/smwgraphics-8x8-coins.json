@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-8x8-coins",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 24775,
+  "title": "8x8 Coins",
+  "authors": [
+    "mason"
+  ],
+  "tags": [
+    "coin",
+    "needs remoderation"
+  ],
+  "description": "8x8 coin graphic drawn from scratch. Included is a level file with Level ExAnimation set up, as well as Map16 and ExGFX (AN2) files. Most coins are set to act as 2C, so they will remain coins after a POW has been activated, but I also included a coin that acts as 2B, and will turn into a brown block. <br>\r\n<br>\r\nPlease give credit if used. Enjoy!",
+  "latest_version": "smwc-24775-1601766505",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 24775,
+      "title": "8x8 Coins",
+      "version": "smwc-24775-1601766505",
+      "upstream_time": 1601766505,
+      "download_url": "https://dl.smwcentral.net/24775/Small%20Coins.zip",
+      "filename": "Small Coins.zip",
+      "size": 2388,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

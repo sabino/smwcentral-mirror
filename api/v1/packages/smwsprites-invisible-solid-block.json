@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-invisible-solid-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3558,
+  "title": "Invisible Solid Block",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "block",
+    "invisible",
+    "lorom",
+    "pacifist"
+  ],
+  "description": "This is a disassembly of sprite 6D in SMW, the invisible solid block.",
+  "latest_version": "smwc-3558-1278688580",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3558,
+      "title": "Invisible Solid Block",
+      "version": "smwc-3558-1278688580",
+      "upstream_time": 1278688580,
+      "download_url": "https://dl.smwcentral.net/3558/SMWSDIS%20-%20sprite%206D%20-%20invisible%20solid%20block.zip",
+      "filename": "SMWSDIS - sprite 6D - invisible solid block.zip",
+      "size": 2202,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

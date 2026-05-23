@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-classic-sky",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27188,
+  "title": "Classic Sky 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "mushroom",
+    "needs remoderation",
+    "sky"
+  ],
+  "description": "Here's a sky tileset that works with almost every vanilla.",
+  "latest_version": "smwc-27188-1622852560",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27188,
+      "title": "Classic Sky 2021",
+      "version": "smwc-27188-1622852560",
+      "upstream_time": 1622852560,
+      "download_url": "https://dl.smwcentral.net/27188/ClassicSky2021.zip",
+      "filename": "ClassicSky2021.zip",
+      "size": 4437,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13127,
+      "title": "Classic Sky",
+      "version": "smwc-13127-1453398951",
+      "upstream_time": 1453398951,
+      "download_url": "https://dl.smwcentral.net/13127/ClassicSky.zip",
+      "filename": "ClassicSky.zip",
+      "size": 2973,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

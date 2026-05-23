@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-parachute-goomba-parachute-bob-omb",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33868,
+  "title": "Parachute Goomba / Parachute Bob-Omb",
+  "authors": [
+    "Nowieso"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A disassembly of sprites 3F and 40, the parachute Goomba and parachute Bob-Omb.",
+  "latest_version": "smwc-33868-1701375142",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33868,
+      "title": "Parachute Goomba / Parachute Bob-Omb",
+      "version": "smwc-33868-1701375142",
+      "upstream_time": 1701375142,
+      "download_url": "https://dl.smwcentral.net/33868/Parachute%20disassembly.zip",
+      "filename": "Parachute disassembly.zip",
+      "size": 7091,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

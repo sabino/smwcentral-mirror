@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-all-stars-super-mario-bros-lakitu",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 31402,
+  "title": "Super Mario All-Stars: Super Mario Bros. - Lakitu",
+  "authors": [
+    "TheOrangeToad"
+  ],
+  "tags": [
+    "cloud",
+    "lakitu",
+    "lakitu boss"
+  ],
+  "description": "Made for C3 Summer 2022.<br>\r\n<br>\r\nThis graphic includes the SMAS-SMB Sprite graphic for the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16703\">Custom SMB3 Lakitu Sprite</a><br>\r\n<br>\r\nFor the SMAS-SMB1 Spiny graphics, use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24717\">this</a>.<br>\r\n<br>\r\n<br>\r\nIf you want to get the right the Lakitu sprite palette to be the same as the one from the original game then change the following:<br>\r\n<br>\r\nlakitu_smb3.cfg and lakitu_smb3_boss.cfg files in CFG Editor to Pal D.<br>\r\n<br>\r\nFor the cloud title go to lakitu_smb3.asm file and get to ;Cloud palette.<br>\r\n<br>\r\nNow change the !CloudPal = $02 to $0B and your good to go.",
+  "latest_version": "smwc-31402-1664246824",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 31402,
+      "title": "Super Mario All-Stars: Super Mario Bros. - Lakitu",
+      "version": "smwc-31402-1664246824",
+      "upstream_time": 1664246824,
+      "download_url": "https://dl.smwcentral.net/31402/SMB1%20-%20Lakitu.zip",
+      "filename": "SMB1 - Lakitu.zip",
+      "size": 2890,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

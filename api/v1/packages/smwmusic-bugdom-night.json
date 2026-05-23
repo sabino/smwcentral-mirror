@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-bugdom-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17021,
+  "title": "Bugdom - Night",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "night",
+    "sky"
+  ],
+  "description": "The calm airy theme of Bugdom that could fit night-themed levels I suppose.<br>\r\n<br>\r\nI was asked to port this for the Jump project, but we don't feel it fits well in the game, so I'm posting it here hoping that someone will find it useful. I had a lot of fun making the port and I think it sounds cool if nothing else, though I feel I had to stretch resources thin and that contributed to us not liking it as much as we hoped. Feedback on this or my other ports is always welcome!",
+  "latest_version": "smwc-17021-1516694951",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17021,
+      "title": "Bugdom - Night",
+      "version": "smwc-17021-1516694951",
+      "upstream_time": 1516694951,
+      "download_url": "https://dl.smwcentral.net/17021/bugdom_night.zip",
+      "filename": "bugdom_night.zip",
+      "size": 71442,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

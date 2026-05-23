@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-jojo-s-bizarre-adventure-snes-the-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31288,
+  "title": "JoJo's Bizarre Adventure (SNES) - The World",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "industrial",
+    "sewer",
+    "urban"
+  ],
+  "description": "Dio's Boss fight music.",
+  "latest_version": "smwc-31288-1673942826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31288,
+      "title": "JoJo's Bizarre Adventure (SNES) - The World",
+      "version": "smwc-31288-1673942826",
+      "upstream_time": 1673942826,
+      "download_url": "https://dl.smwcentral.net/31288/TheWorld.zip",
+      "filename": "TheWorld.zip",
+      "size": 75269,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

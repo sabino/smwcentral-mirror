@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41719,
+  "title": "Final Fantasy: Mystic Quest - Last Castle",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "Can fit a final castle area",
+  "latest_version": "smwc-41719-1779488686",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41719,
+      "title": "Final Fantasy: Mystic Quest - Last Castle",
+      "version": "smwc-41719-1779488686",
+      "upstream_time": 1779488686,
+      "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
+      "filename": "Last Castle.zip",
+      "size": 25217,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19715,
+      "title": "Final Fantasy: Mystic Quest - Last Castle",
+      "version": "smwc-19715-1555874943",
+      "upstream_time": 1555874943,
+      "download_url": "https://dl.smwcentral.net/19715/FFMQ_DoomCastle.zip",
+      "filename": "FFMQ_DoomCastle.zip",
+      "size": 68463,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

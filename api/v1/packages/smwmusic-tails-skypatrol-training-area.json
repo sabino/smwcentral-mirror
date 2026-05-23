@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tails-skypatrol-training-area",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8560,
+  "title": "Tails Skypatrol - Training Area",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "carnival",
+    "water"
+  ],
+  "description": "The waltzy song that plays in the training area of Tails Skypatrol.  Would suit a water level or maybe a carnival setting.",
+  "latest_version": "smwc-8560-1397626000",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8560,
+      "title": "Tails Skypatrol - Training Area",
+      "version": "smwc-8560-1397626000",
+      "upstream_time": 1397626000,
+      "download_url": "https://dl.smwcentral.net/8560/Training%20Area.zip",
+      "filename": "Training Area.zip",
+      "size": 64892,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

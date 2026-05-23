@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-redrawn-styled-serpont",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42319,
+  "title": "Redrawn Styled Serpont",
+  "authors": [
+    "Frattari Gaspar"
+  ],
+  "tags": [
+    "redrawn",
+    "serpont"
+  ],
+  "description": "A redrawn version of this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41766\">sprite</a>, the standart version for their graphics uses palette 8 for their pot (to ressemble their design in wonder), but you can use a lot of other palettes as seen in the screenshots, there's also a version of the graphics with an orange pot to ressemble their original graphics and a custom purple palette that goes over palette B.<br>\r\nNote that you should use the sprite's extension to customize the appearence of the pot, for the standart appearence I used: C0 and 21 for the two first values, C0 being the tile for the pot, 2 being the tile priority and 1 the palette the tile should use.",
+  "latest_version": "smwc-42319-1778290470",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42319,
+      "title": "Redrawn Styled Serpont",
+      "version": "smwc-42319-1778290470",
+      "upstream_time": 1778290470,
+      "download_url": "https://dl.smwcentral.net/42319/RedrawnStyled%20Serpont.zip",
+      "filename": "RedrawnStyled Serpont.zip",
+      "size": 7629,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

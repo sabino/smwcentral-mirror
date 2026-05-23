@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-pay-to-end-level",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 6806,
+  "title": "Pay To End Level",
+  "authors": [
+    "Pseudogon"
+  ],
+  "tags": [
+    "block",
+    "coins",
+    "end",
+    "level",
+    "lorom",
+    "pay"
+  ],
+  "description": "Here is a fixed version of my block.<br>\r\n<br>\r\nWhen you hit this block, it will end the level if you have 30 coins.(You can change the amount)",
+  "latest_version": "smwc-6806-1438035709",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 6806,
+      "title": "Pay To End Level",
+      "version": "smwc-6806-1438035709",
+      "upstream_time": 1438035709,
+      "download_url": "https://dl.smwcentral.net/6806/Pay%20To%20End%20Level%28Fixed%29.zip",
+      "filename": "Pay To End Level(Fixed).zip",
+      "size": 577,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

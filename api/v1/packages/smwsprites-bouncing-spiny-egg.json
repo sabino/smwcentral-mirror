@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-bouncing-spiny-egg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23484,
+  "title": "Bouncing Spiny Egg",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "bouncing",
+    "enemies",
+    "lorom",
+    "sa-1",
+    "spiked",
+    "spiny",
+    "vanilla gfx",
+    "vanilla-ish"
+  ],
+  "description": "Bouncing Spiny Egg. Comes with cleaner code and slower movement to improve usability.<br>\r\n<br>\r\nIt bounces off slopes at predetermined angles based on steepness. Also bounces off walls and rides along the ceiling until it falls.<br>\r\n<br>\r\nNow PIXI compatible.<br>\r\n<br>\r\n(Rykon-V73)Small change: Added .json file and made the tilemap easier to edit.",
+  "latest_version": "smwc-23484-1594231417",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23484,
+      "title": "Bouncing Spiny Egg",
+      "version": "smwc-23484-1594231417",
+      "upstream_time": 1594231417,
+      "download_url": "https://dl.smwcentral.net/23484/BouncingSpinyEgg.zip",
+      "filename": "BouncingSpinyEgg.zip",
+      "size": 2952,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

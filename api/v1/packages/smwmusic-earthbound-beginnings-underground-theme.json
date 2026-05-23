@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-beginnings-underground-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11313,
+  "title": "EarthBound Beginnings - Underground Theme",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "cave",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "The Underground Theme from MOTHER, this is mostly played in the Magicant mazes.<br>\r\nCould fit ghost houses, mazes or underground levels.",
+  "latest_version": "smwc-11313-1433198917",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11313,
+      "title": "EarthBound Beginnings - Underground Theme",
+      "version": "smwc-11313-1433198917",
+      "upstream_time": 1433198917,
+      "download_url": "https://dl.smwcentral.net/11313/Underground%20Theme.zip",
+      "filename": "Underground Theme.zip",
+      "size": 23437,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

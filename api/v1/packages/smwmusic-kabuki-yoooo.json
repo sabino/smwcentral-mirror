@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-kabuki-yoooo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30425,
+  "title": "Kabuki - \"YOOOO\"",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "Useful for the Nintendo Presents screen of Japanese-themed SMW hacks.",
+  "latest_version": "smwc-30425-1658885240",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30425,
+      "title": "Kabuki - \"YOOOO\"",
+      "version": "smwc-30425-1658885240",
+      "upstream_time": 1658885240,
+      "download_url": "https://dl.smwcentral.net/30425/Kabuki%20-%20Yoooo.zip",
+      "filename": "Kabuki - Yoooo.zip",
+      "size": 85455,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

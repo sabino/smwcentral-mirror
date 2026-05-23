@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-ground-pound",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12880,
+  "title": "Ground Pound",
+  "authors": [
+    "DaEpicToad",
+    "MarioE"
+  ],
+  "tags": [
+    "ground pound",
+    "lorom",
+    "needs remoderation",
+    "sa-1"
+  ],
+  "description": "A fixed version of MarioE's ground pound patch. All I did was remove the slide code so it could be compatible with asar (so you don't slide like a bullet, doesn't need original ground pound to be inserted.)<br>\r\n<br>\r\nNow it includes full asar and SA-1 support.",
+  "latest_version": "smwc-12880-1450744675",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12880,
+      "title": "Ground Pound",
+      "version": "smwc-12880-1450744675",
+      "upstream_time": 1450744675,
+      "download_url": "https://dl.smwcentral.net/12880/Fixed%20Ground%20Pound.zip",
+      "filename": "Fixed Ground Pound.zip",
+      "size": 3185,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

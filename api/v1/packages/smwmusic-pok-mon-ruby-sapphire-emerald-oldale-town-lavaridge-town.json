@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-ruby-sapphire-emerald-oldale-town-lavaridge-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21998,
+  "title": "Pokémon Ruby/Sapphire/Emerald - Oldale Town / Lavaridge Town",
+  "authors": [
+    "Tahixham"
+  ],
+  "tags": [
+    "calm",
+    "town"
+  ],
+  "description": "Suitable for towns with NPCs or something, idk. Maybe a moving cutscene too? or perhaps you could recreate pokemon rse into smw who knows!? \\o/",
+  "latest_version": "smwc-21998-1581451824",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21998,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Oldale Town / Lavaridge Town",
+      "version": "smwc-21998-1581451824",
+      "upstream_time": 1581451824,
+      "download_url": "https://dl.smwcentral.net/21998/Oldale%20Town.zip",
+      "filename": "Oldale Town.zip",
+      "size": 71336,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

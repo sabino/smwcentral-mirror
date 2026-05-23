@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-deltarune-acid-tunnel-of-love",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39641,
+  "title": "Deltarune - Acid Tunnel of Love",
+  "authors": [
+    "TickTockClock"
+  ],
+  "tags": [
+    "calm",
+    "carnival",
+    "castle",
+    "cutscene",
+    "mysterious",
+    "upbeat",
+    "water"
+  ],
+  "description": "A whimsical waltz played within Queen's Mansion of Ch. 2. Handy for setting a silly tone to any situation. ",
+  "latest_version": "smwc-39641-1748794816",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39641,
+      "title": "Deltarune - Acid Tunnel of Love",
+      "version": "smwc-39641-1748794816",
+      "upstream_time": 1748794816,
+      "download_url": "https://dl.smwcentral.net/39641/acid_tunnel_of_love.zip",
+      "filename": "acid_tunnel_of_love.zip",
+      "size": 32169,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

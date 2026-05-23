@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-trading-card-game-pause-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41756,
+  "title": "Pokémon Trading Card Game - Pause Menu",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "retro",
+    "space",
+    "title",
+    "upbeat"
+  ],
+  "description": "Pause Menu from Pokémon Trading Card Game.",
+  "latest_version": "smwc-41756-1774197298",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41756,
+      "title": "Pokémon Trading Card Game - Pause Menu",
+      "version": "smwc-41756-1774197298",
+      "upstream_time": 1774197298,
+      "download_url": "https://dl.smwcentral.net/41756/Pokemon%20TCG%20-%20Pause%20Menu.zip",
+      "filename": "Pokemon TCG - Pause Menu.zip",
+      "size": 58273,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

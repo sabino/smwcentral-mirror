@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-jump-coin",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3841,
+  "title": "Jump Coin",
+  "authors": [
+    "Mar-tinnitus"
+  ],
+  "tags": [
+    "boost",
+    "coin",
+    "lorom",
+    "p-switch"
+  ],
+  "description": "This block makes the player jump and gain a coin when touched. It's solid when the blue P-Switch is active.",
+  "latest_version": "smwc-3841-1436704986",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3841,
+      "title": "Jump Coin",
+      "version": "smwc-3841-1436704986",
+      "upstream_time": 1436704986,
+      "download_url": "https://dl.smwcentral.net/3841/coinjump%20v2.zip",
+      "filename": "coinjump v2.zip",
+      "size": 370,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-konami-logo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18593,
+  "title": "Konami Logo",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "The Konami jingle. Good for Nintendo Presents screens.",
+  "latest_version": "smwc-18593-1543885751",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18593,
+      "title": "Konami Logo",
+      "version": "smwc-18593-1543885751",
+      "upstream_time": 1543885751,
+      "download_url": "https://dl.smwcentral.net/18593/Konami%20Logo.zip",
+      "filename": "Konami Logo.zip",
+      "size": 30512,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

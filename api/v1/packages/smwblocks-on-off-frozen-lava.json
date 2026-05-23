@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-on-off-frozen-lava",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3836,
+  "title": "ON/OFF Frozen Lava",
+  "authors": [
+    "Buu"
+  ],
+  "tags": [
+    "ice",
+    "lava",
+    "lorom",
+    "on off",
+    "slippery"
+  ],
+  "description": "These blocks act like lava when the ON/OFF switch is ON and resemble frozen lava -which makes them also slippery- when the ON/OFF setting is OFF.",
+  "latest_version": "smwc-3836-1436720658",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3836,
+      "title": "ON/OFF Frozen Lava",
+      "version": "smwc-3836-1436720658",
+      "upstream_time": 1436720658,
+      "download_url": "https://dl.smwcentral.net/3836/icy.zip",
+      "filename": "icy.zip",
+      "size": 1258,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

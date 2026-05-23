@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-classic-road-title",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37600,
+  "title": "Classic Road - Title",
+  "authors": [
+    "Papangu"
+  ],
+  "tags": [
+    "overworld",
+    "title"
+  ],
+  "description": "Sampled Version<br>\r\n<br>\r\nand the sampled version came with it, I was left in suspense the first time I posted this unsampled song!<br>\r\nalso made in 2022 on the same day as the unsampled version of this song and corrected on the same day as the version, it was posted and it was really cool, much better than before, everything was fine down to the samples, and the ears. check it out.<br>\r\n<br>\r\nfrom Classic Road (SNES/SFC [Super Famicom])",
+  "latest_version": "smwc-37600-1719799859",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37600,
+      "title": "Classic Road - Title",
+      "version": "smwc-37600-1719799859",
+      "upstream_time": 1719799859,
+      "download_url": "https://dl.smwcentral.net/37600/title-cr1-s.zip",
+      "filename": "title-cr1-s.zip",
+      "size": 77722,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37599,
+      "title": "Classic Road - Title",
+      "version": "smwc-37599-1719799839",
+      "upstream_time": 1719799839,
+      "download_url": "https://dl.smwcentral.net/37599/title-cr1.zip",
+      "filename": "title-cr1.zip",
+      "size": 32581,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

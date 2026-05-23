@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-giant-parakoopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33522,
+  "title": "Giant Parakoopa",
+  "authors": [
+    "Koyuki"
+  ],
+  "tags": [
+    "koopa",
+    "lorom",
+    "parakoopa",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "A giant bouncing green koopa from SMB3 4-1.<br>\r\n<br>\r\n(Rykon-V73) Small update: Added a .json file and made the sprite work, thanks to Darolac's help. It used an old despawn routine.<br>\r\n<br>\r\n(Knight of Time/spooonsss): Fixed some overlooked cape & Yoshi issues with the sprite.",
+  "latest_version": "smwc-33522-1690155807",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33522,
+      "title": "Giant Parakoopa",
+      "version": "smwc-33522-1690155807",
+      "upstream_time": 1690155807,
+      "download_url": "https://dl.smwcentral.net/33522/Giant%20Parakoopa.zip",
+      "filename": "Giant Parakoopa.zip",
+      "size": 7859,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

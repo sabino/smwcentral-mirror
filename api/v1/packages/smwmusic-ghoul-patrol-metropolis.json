@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-ghoul-patrol-metropolis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21326,
+  "title": "Ghoul Patrol - Metropolis 2",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "ghost house",
+    "night",
+    "spooky",
+    "swamp",
+    "urban"
+  ],
+  "description": "Suitable for night levels and swamps.",
+  "latest_version": "smwc-21326-1572156941",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21326,
+      "title": "Ghoul Patrol - Metropolis 2",
+      "version": "smwc-21326-1572156941",
+      "upstream_time": 1572156941,
+      "download_url": "https://dl.smwcentral.net/21326/GP%20-%20Metropolis%202.zip",
+      "filename": "GP - Metropolis 2.zip",
+      "size": 68870,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

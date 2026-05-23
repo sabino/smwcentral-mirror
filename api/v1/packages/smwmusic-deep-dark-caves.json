@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-deep-dark-caves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8365,
+  "title": "Deep Dark Caves",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "jungle"
+  ],
+  "description": "A simplistic, percussion-heavy song that would suit a typical cave level.",
+  "latest_version": "smwc-8365-1356977425",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8365,
+      "title": "Deep Dark Caves",
+      "version": "smwc-8365-1356977425",
+      "upstream_time": 1356977425,
+      "download_url": "https://dl.smwcentral.net/8365/Deep%20Dark%20Caves.zip",
+      "filename": "Deep Dark Caves.zip",
+      "size": 64622,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

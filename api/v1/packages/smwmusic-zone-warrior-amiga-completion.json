@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-zone-warrior-amiga-completion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33027,
+  "title": "Zone Warrior (Amiga) - Completion",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "The \"Completion\" track from the 2D platformer Zone Warrior on the Amiga, composed by Barry Leitch. Seems suited to credits or end scenes.<br>\r\n",
+  "latest_version": "smwc-33027-1682951168",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33027,
+      "title": "Zone Warrior (Amiga) - Completion",
+      "version": "smwc-33027-1682951168",
+      "upstream_time": 1682951168,
+      "download_url": "https://dl.smwcentral.net/33027/Zone%20Warrior%20-%20Completion.zip",
+      "filename": "Zone Warrior - Completion.zip",
+      "size": 99116,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

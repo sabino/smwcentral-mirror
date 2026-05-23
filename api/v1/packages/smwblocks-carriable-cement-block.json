@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-carriable-cement-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41172,
+  "title": "Carriable Cement Block",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "carriable",
+    "lorom",
+    "sa-1",
+    "solid",
+    "sprite needed"
+  ],
+  "description": "This is a cement block, but it can be picked up and thrown around! When grabbed, it will turn into a cement block sprite, and will revert back to a carryable cement block (or any configurable Map16 tile) when it hits a wall, gets carried into an enemy, or its carry timer runs out (also configurable).<br>\r\nIncludes the \"spawner\" block, the carryable block sprite, and ExGFX (overwrites the \"Cloud Game Coin\" in SP2).<br>\r\n<br>\r\nCredit is unnecessary but appreciated.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>A few things to consider:</span></div><div class=\"collapse-content\"><br>\r\n- It is possible in some cases to be killed by the sprite when it turns back into a block; this is more likely when you're running and carrying the block sprite. This is because blocks can only be a minimum of 16 pixels apart, so when the sprite reverts to a block, it snaps to the nearest 16-pixel \"square\". In some cases this can make it overlap with Mario enough that he gets killed inside the block.<br>\r\n- The block works relatively well with layer 2, and can snap to tile positions pretty closely even with variable scrolling and layer 2 scroll commands. It's not always perfect though.<br>\r\n- Since this becomes a sprite when grabbed, the amount you can have active at once is limited by the number of sprite slots. They also don't despawn when offscreen, so be careful if you intend on having a lot of them in a level/area at one time.<br>\r\nTo make them despawn when offscreen, open the .json in PIXI's CFG editor, uncheck the \"Process when offscreen\" box, save, then re-insert the sprite.<br>\r\n- To avoid cutoff on certain objects and potential level breaks/cheeses, the block sprite will only revert back to a block if the current Map16 tile at its position is air. Otherwise, it will simply vanish. This is layer-dependent though, so a layer 2-spawned block sprite could revert if it was in front of a layer 1 bush tile, so long as the layer 2 tile it's at was air.</div></div>",
+  "latest_version": "smwc-41172-1764464228",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41172,
+      "title": "Carriable Cement Block",
+      "version": "smwc-41172-1764464228",
+      "upstream_time": 1764464228,
+      "download_url": "https://dl.smwcentral.net/41172/Carriable%20Cement.zip",
+      "filename": "Carriable Cement.zip",
+      "size": 5840,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

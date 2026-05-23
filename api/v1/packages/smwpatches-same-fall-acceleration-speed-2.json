@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-same-fall-acceleration-speed-2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 15970,
+  "title": "Same Fall Acceleration Speed 2.2",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "gravity",
+    "lorom",
+    "needs remoderation",
+    "physics",
+    "sa-1",
+    "super fx"
+  ],
+  "description": "This patch removes the \"slow gravational acceleration\" when holding jump when falling ($7E007B is value #$01~#$7F), simulating closer to a real falling physic.<br>\r\n<br>\r\nThis version has another patch that also disable slow downwards acceleration permanently if once the player lets go of the jump button while going up until landing back on the ground, note block or any bouncy surfaces (so you can switch to \"fast gravational acceleration\" while going upwards and it will stay that way until landing).<br>\r\n<br>\r\nIt will not impact other gravitational acceleration on other things such as slowfall from cape.<br>\r\n<br>\r\nAll of these fixes \"exceeding the terminal velocity\" glitch (the game sets the Y speed to #$40, but then gets increased by #$03 or #$06)<br>\r\n<br>\r\nNow added sa-1 support.",
+  "latest_version": "smwc-15970-1503096927",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 15970,
+      "title": "Same Fall Acceleration Speed 2.2",
+      "version": "smwc-15970-1503096927",
+      "upstream_time": 1503096927,
+      "download_url": "https://dl.smwcentral.net/15970/GravFall_2_2.zip",
+      "filename": "GravFall_2_2.zip",
+      "size": 10354,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

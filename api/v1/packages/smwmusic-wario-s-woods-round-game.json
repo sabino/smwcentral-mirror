@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wario-s-woods-round-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30440,
+  "title": "Wario's Woods - Round Game",
+  "authors": [
+    "TheBourgyman"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "grassland",
+    "night"
+  ],
+  "description": "The song that plays when selecting the Round Game mode in the SNES version of Wario's Woods. Could fit fast-paced, action packed levels. <br>\r\n<br>\r\nThis package includes the original version, an extended remixed version, as well as a Silvagunner \"high quality rip\" version.",
+  "latest_version": "smwc-30440-1658966196",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30440,
+      "title": "Wario's Woods - Round Game",
+      "version": "smwc-30440-1658966196",
+      "upstream_time": 1658966196,
+      "download_url": "https://dl.smwcentral.net/30440/Wario%27s%20Woods%20-%20Round%20Game.zip",
+      "filename": "Wario%27s Woods - Round Game.zip",
+      "size": 144547,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

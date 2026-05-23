@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-lego-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12093,
+  "title": "LEGO Island 2 - Lego Island Theme",
+  "authors": [
+    "lu9"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "forest",
+    "grassland",
+    "jungle",
+    "mountain",
+    "overworld",
+    "title",
+    "town"
+  ],
+  "description": "The theme that plays while you're in Lego Island, in LI2.<br>\r\nFit for grassland levels.",
+  "latest_version": "smwc-12093-1445903108",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12093,
+      "title": "LEGO Island 2 - Lego Island Theme",
+      "version": "smwc-12093-1445903108",
+      "upstream_time": 1445903108,
+      "download_url": "https://dl.smwcentral.net/12093/LI2_theme.zip",
+      "filename": "LI2_theme.zip",
+      "size": 31601,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

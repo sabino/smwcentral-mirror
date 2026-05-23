@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-phoenix-wright-ace-attorney-justice-for-all-magic-and-tricks",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23839,
+  "title": "Phoenix Wright: Ace Attorney: Justice for All - Magic and Tricks",
+  "authors": [
+    "Kazzzy"
+  ],
+  "tags": [
+    "bonus",
+    "chase",
+    "cutscene",
+    "p-switch",
+    "switch palace",
+    "tense"
+  ],
+  "description": "Used in Ace Attorney when you need to problem solve and find a solution. Good for puzzle sections and cutscenes.<br>\r\n<br>\r\nUnlike Giftshaven's version, this version doesn't work as a p-switch. It's far too long, anyways.",
+  "latest_version": "smwc-23839-1596035436",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23839,
+      "title": "Phoenix Wright: Ace Attorney: Justice for All - Magic and Tricks",
+      "version": "smwc-23839-1596035436",
+      "upstream_time": 1596035436,
+      "download_url": "https://dl.smwcentral.net/23839/Trick%20%26%20Magic.zip",
+      "filename": "Trick %26 Magic.zip",
+      "size": 40411,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17531,
+      "title": "Phoenix Wright: Ace Attorney: Justice for All - Magic and Tricks",
+      "version": "smwc-17531-1526600620",
+      "upstream_time": 1526600620,
+      "download_url": "https://dl.smwcentral.net/17531/Trick%20and%20Magic.zip",
+      "filename": "Trick and Magic.zip",
+      "size": 62314,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

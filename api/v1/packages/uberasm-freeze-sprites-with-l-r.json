@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-freeze-sprites-with-l-r",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 30230,
+  "title": "Freeze Sprites with L/R",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "freeze sprites",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This code will freeze all sprites on screen when L or R is pressed, while allowing the player to still move around and interact with the level as normal. You can control the duration sprites are frozen for, enable retriggering of the freeze, enable freezing of sprite behaviours as well as their position, and more. Has a lot of potential for interesting kaizo and puzzle setups.<br>\r\n<br>\r\nNote that depending on the settings & ROM type, this code can use quite a lot of freeRAM (up to 639 bytes). See the .asm file for usage notes and customization options. To be inserted as level ASM (can be inserted in GM14, but probably not a mechanic that should be enabled for an entire hack).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+  "latest_version": "smwc-30230-1693333806",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 30230,
+      "title": "Freeze Sprites with L/R",
+      "version": "smwc-30230-1693333806",
+      "upstream_time": 1693333806,
+      "download_url": "https://dl.smwcentral.net/30230/FreezeSprites.zip",
+      "filename": "FreezeSprites.zip",
+      "size": 3368,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "smwmusic-mega-man-bass-museum",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25791,
+  "title": "Mega Man & Bass - Museum",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "mountain",
+    "night",
+    "ruins",
+    "sky",
+    "space",
+    "urban"
+  ],
+  "description": "The Museum theme from Megaman & Bass.",
+  "latest_version": "smwc-25791-1612134210",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25791,
+      "title": "Mega Man & Bass - Museum",
+      "version": "smwc-25791-1612134210",
+      "upstream_time": 1612134210,
+      "download_url": "https://dl.smwcentral.net/25791/Museum.zip",
+      "filename": "Museum.zip",
+      "size": 34400,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19794,
+      "title": "Mega Man & Bass - Museum",
+      "version": "smwc-19794-1556301836",
+      "upstream_time": 1556301836,
+      "download_url": "https://dl.smwcentral.net/19794/RM%26F_Museum.zip",
+      "filename": "RM%26F_Museum.zip",
+      "size": 66525,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11200,
+      "title": "Mega Man & Bass - Museum",
+      "version": "smwc-11200-1431471306",
+      "upstream_time": 1431471306,
+      "download_url": "https://dl.smwcentral.net/11200/Mega%20Man%20and%20Bass%20-%20Museum%20%28Intro%20Stage%29.zip",
+      "filename": "Mega Man and Bass - Museum (Intro Stage).zip",
+      "size": 34504,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-strange-hub",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33508,
+  "title": "Strange Hub",
+  "authors": [
+    "KungFuFurby"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "mysterious",
+    "overworld"
+  ],
+  "description": "This is an original song (well... essentially it is, but sampling-wise not so much since it uses the Legend of Zelda: A Link to the Pasts's Mirror song as a sample, though naturally with plenty of downsampling to avoid memory constraints, and also in this particular case to give some breathing room and a bit of a lo-fi-esque atmosphere due to the quality reduction that occurs) created for the realms of the bizarre and unusual. Although I technically created it as a overworld theme (going by the tag I gave it as well as the track name), musically I let it drift on for a little while longer, meaning technically it can also work as a semi-background-esque level theme.<br>\r\n<br>\r\nContains two user defines: one is a master echo enable switch, and the other one enables it for the music. Echo for SFX, within the context of AddmusicK 1.0.8, the latest moderated version at the time of this release, (<i>which still requires the master echo enable switch to be on</i>) is handled through 1DFA commands $05 and $06: use 1DFA command $06 right after the song starts to enable echo for SFX.",
+  "latest_version": "smwc-33508-1686235595",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33508,
+      "title": "Strange Hub",
+      "version": "smwc-33508-1686235595",
+      "upstream_time": 1686235595,
+      "download_url": "https://dl.smwcentral.net/33508/StrangeHubKFF.zip",
+      "filename": "StrangeHubKFF.zip",
+      "size": 108678,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

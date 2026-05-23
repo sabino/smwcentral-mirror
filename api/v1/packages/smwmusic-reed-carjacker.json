@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-reed-carjacker",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39269,
+  "title": "Reed - Carjacker",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Funky track, used for one of the newer BEET JAM levels",
+  "latest_version": "smwc-39269-1741392971",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39269,
+      "title": "Reed - Carjacker",
+      "version": "smwc-39269-1741392971",
+      "upstream_time": 1741392971,
+      "download_url": "https://dl.smwcentral.net/39269/Carjacker.zip",
+      "filename": "Carjacker.zip",
+      "size": 83530,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

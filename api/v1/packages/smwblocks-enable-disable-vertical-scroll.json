@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-enable-disable-vertical-scroll",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3951,
+  "title": "Enable/Disable Vertical Scroll",
+  "authors": [
+    "Apollyon"
+  ],
+  "tags": [
+    "lorom",
+    "scroll",
+    "vertical"
+  ],
+  "description": "This is my first block pack. It contains two simple blocks that enable or disable vertical scroll.",
+  "latest_version": "smwc-3951-1410751118",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3951,
+      "title": "Enable/Disable Vertical Scroll",
+      "version": "smwc-3951-1410751118",
+      "upstream_time": 1410751118,
+      "download_url": "https://dl.smwcentral.net/3951/vscroll.zip",
+      "filename": "vscroll.zip",
+      "size": 764,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

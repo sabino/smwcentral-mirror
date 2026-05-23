@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-gym",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7508,
+  "title": "Pokémon Gold/Silver/Crystal - Gym",
+  "authors": [
+    "Koyuki"
+  ],
+  "tags": [
+    "bonus",
+    "grassland",
+    "retro",
+    "title"
+  ],
+  "description": "The music that you will hear inside the Johto Gyms. Good for a generic grassland level.",
+  "latest_version": "smwc-7508-1312189114",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7508,
+      "title": "Pokémon Gold/Silver/Crystal - Gym",
+      "version": "smwc-7508-1312189114",
+      "upstream_time": 1312189114,
+      "download_url": "https://dl.smwcentral.net/7508/PKMNGSC%20-%20Gym.zip",
+      "filename": "PKMNGSC - Gym.zip",
+      "size": 67959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

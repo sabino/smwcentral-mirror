@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-tetris-nes-type-b",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8440,
+  "title": "Tetris (NES) - Type B",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "mountain"
+  ],
+  "description": "Not as famous as Theme A from the Game Boy version, but still memorable, this theme could best suit an athletic level up in the mountains or a bonus.",
+  "latest_version": "smwc-8440-1372564655",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8440,
+      "title": "Tetris (NES) - Type B",
+      "version": "smwc-8440-1372564655",
+      "upstream_time": 1372564655,
+      "download_url": "https://dl.smwcentral.net/8440/Tetris%20-%20Theme%20B.zip",
+      "filename": "Tetris - Theme B.zip",
+      "size": 64310,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

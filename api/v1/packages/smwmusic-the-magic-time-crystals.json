@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-magic-time-crystals",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7380,
+  "title": "The Magic Time Crystals",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "The song that was going to be used when a time crystal was collected in 'Mario's Time Quest'.",
+  "latest_version": "smwc-7380-1319959213",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7380,
+      "title": "The Magic Time Crystals",
+      "version": "smwc-7380-1319959213",
+      "upstream_time": 1319959213,
+      "download_url": "https://dl.smwcentral.net/7380/The%20Magic%20Time%20Crystals.zip",
+      "filename": "The Magic Time Crystals.zip",
+      "size": 66250,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

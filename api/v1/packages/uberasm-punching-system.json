@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-punching-system",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 21119,
+  "title": "Punching System",
+  "authors": [
+    "AuraDee",
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "ability",
+    "asar 2 remoderation",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This code will allow Mario to punch. When you punch, a sliding effect is simulated, so make sure the enemies you want to be able to be killed by it are able to be killed by sliding (you can use Tweaker to enable that). Also sorry for the poorly drawn GFX, I'm not good at drawing them :(, but you can fix those if you want. <a href=\"https://www.youtube.com/watch?v=BiqM77FtVHc\" rel=\"nofollow\">Video</a>.",
+  "latest_version": "smwc-21119-1567963957",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 21119,
+      "title": "Punching System",
+      "version": "smwc-21119-1567963957",
+      "upstream_time": 1567963957,
+      "download_url": "https://dl.smwcentral.net/21119/PunchSystem.zip",
+      "filename": "PunchSystem.zip",
+      "size": 12052,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

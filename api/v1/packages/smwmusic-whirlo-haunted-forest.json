@@ -1,0 +1,71 @@
+{
+  "name": "smwmusic-whirlo-haunted-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28213,
+  "title": "Whirlo - Haunted Forest",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "ghost house",
+    "ice",
+    "night",
+    "overworld",
+    "sad",
+    "sky",
+    "snow",
+    "spooky",
+    "town",
+    "water"
+  ],
+  "description": "The melancholic and mystical music that, is somewhat similar to Carol of the Bells, played in the second part of the first stage.<br>\r\n<br>\r\nStandalone version using SMW samples only.",
+  "latest_version": "smwc-28213-1632787052",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28213,
+      "title": "Whirlo - Haunted Forest",
+      "version": "smwc-28213-1632787052",
+      "upstream_time": 1632787052,
+      "download_url": "https://dl.smwcentral.net/28213/Whirlo%20-%20Haunted%20Forest%20%28Unsampled%29.zip",
+      "filename": "Whirlo - Haunted Forest (Unsampled).zip",
+      "size": 32459,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28212,
+      "title": "Whirlo - Haunted Forest",
+      "version": "smwc-28212-1632787050",
+      "upstream_time": 1632787050,
+      "download_url": "https://dl.smwcentral.net/28212/Whirlo%20-%20Haunted%20Forest.zip",
+      "filename": "Whirlo - Haunted Forest.zip",
+      "size": 56147,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21274,
+      "title": "Whirlo - Haunted Forest",
+      "version": "smwc-21274-1570490952",
+      "upstream_time": 1570490952,
+      "download_url": "https://dl.smwcentral.net/21274/Whirlo%20-%20Haunted%20Forest.zip",
+      "filename": "Whirlo - Haunted Forest.zip",
+      "size": 54795,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

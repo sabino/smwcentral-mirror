@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-4mat-rose",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35233,
+  "title": "4Mat - Rose",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "credits",
+    "retro",
+    "title"
+  ],
+  "description": "My 300th submission and by far the most elaborate port I've made so far. I ported this chiptune primarily for an upcoming hack by DashGmr. I hope you all like it!",
+  "latest_version": "smwc-35233-1697734592",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35233,
+      "title": "4Mat - Rose",
+      "version": "smwc-35233-1697734592",
+      "upstream_time": 1697734592,
+      "download_url": "https://dl.smwcentral.net/35233/Rose.zip",
+      "filename": "Rose.zip",
+      "size": 64446,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

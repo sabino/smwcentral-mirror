@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-sprite-health-bar",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42123,
+  "title": "Sprite Health Bar",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "health bar",
+    "lorom",
+    "sa-1",
+    "smb2",
+    "smb2 health",
+    "sprite status bar"
+  ],
+  "description": "This patch implements a container-based health system in the game. A collectible sprite that increases the amount of containers is also included.<br>\r\nWhat is different about this patch is that it does not touch the status bar at all, displaying the hearts as sprites instead - in fact, it may be safe to use this along with most of the custom status bar patches available in the site.<br>\r\n<br>\r\nThere are two ways to use the extra containers:<br>\r\n- It is possible to make them work more akin to SMB2, where they will last for as long as a level (rather than a world in this case), and the original amount of containers will be restored when the player returns to the overworld.<br>\r\n- Like in most games with a health system, the containers can be made to be permanent (this is the default setting). However, you must be careful to assign each of the container sprites an ID via the extra byte, otherwise they will respawn and make it possible to collect infinite containers. The amount of container ID's you can have in total is limited to 16 by default, but this number can be expanded easily with the help of a SRAM/BW-RAM enhancer patch. More information about this can be found in the sprite's .asm file.<br>\r\n<br>\r\nMake sure to check the patch's .asm file, as it includes many defines to easily customize, among other things, the graphics and position of the containers. A folder is included with an alternative minimalist design, as well as versions that suit the <a href=\"https://smwc.me/s/20408\">Mario's 8x8 Tiles DMA-er</a> patch and don't replace occupied SP1-2 tiles.",
+  "latest_version": "smwc-42123-1775280436",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42123,
+      "title": "Sprite Health Bar",
+      "version": "smwc-42123-1775280436",
+      "upstream_time": 1775280436,
+      "download_url": "https://dl.smwcentral.net/42123/spritehealthbar.zip",
+      "filename": "spritehealthbar.zip",
+      "size": 23074,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

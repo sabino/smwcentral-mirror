@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-pok-mon-black-white-driftveil-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38676,
+  "title": "Pokémon Black/White - Driftveil City",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "industrial",
+    "mountain",
+    "overworld",
+    "title",
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "The iconic, funky music from Driftveil City that just makes you wanna leave your DS on for 3 hours while you're there and throw a dance party in your bedroom.<br>\r\n<br>\r\n[2024-10-20] UPDATE: Re-ported from scratch for Superfamicompo 6 to sound cleaner and more accurate. Also includes 3 options for the lead.",
+  "latest_version": "smwc-38676-1736354380",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38676,
+      "title": "Pokémon Black/White - Driftveil City",
+      "version": "smwc-38676-1736354380",
+      "upstream_time": 1736354380,
+      "download_url": "https://dl.smwcentral.net/38676/driftveilcity%20.zip",
+      "filename": "driftveilcity .zip",
+      "size": 97747,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

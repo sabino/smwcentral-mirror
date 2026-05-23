@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-the-fortress-of-doom-final-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7527,
+  "title": "Lufia & The Fortress of Doom - Final Battle",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "The song that's played when in the Fortress of Doom. It's also used in other Lufia games, (most notably as the opening song for Lufia III) I suggest using it for a tense or penultimate moment.",
+  "latest_version": "smwc-7527-1320219346",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7527,
+      "title": "Lufia & The Fortress of Doom - Final Battle",
+      "version": "smwc-7527-1320219346",
+      "upstream_time": 1320219346,
+      "download_url": "https://dl.smwcentral.net/7527/Fortress%20of%20Doom.zip",
+      "filename": "Fortress of Doom.zip",
+      "size": 71534,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-hard-block-break-with-ground-pound",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4056,
+  "title": "Hard block (break with ground pound)",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "breakable",
+    "ground pound",
+    "hard",
+    "lorom"
+  ],
+  "description": "A block that's only breakable with MarioE's ground pound patch.",
+  "latest_version": "smwc-4056-1426268611",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4056,
+      "title": "Hard block (break with ground pound)",
+      "version": "smwc-4056-1426268611",
+      "upstream_time": 1426268611,
+      "download_url": "https://dl.smwcentral.net/4056/block.zip",
+      "filename": "block.zip",
+      "size": 355,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

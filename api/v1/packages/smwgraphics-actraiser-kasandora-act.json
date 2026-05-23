@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-actraiser-kasandora-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38591,
+  "title": "ActRaiser - Kasandora (Act 1)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "desert",
+    "pyramid",
+    "ruins"
+  ],
+  "description": "The backgrounds seen in the desertic of Kasandora, from ActRaiser. <br>\r\n<br>\r\nThere's two versions of the background, which are seen on different parts of the level in the original game. They should be easy to adjust vertically, as well.<br>\r\n<br>\r\nThe first half uses palette row 3, but only has desert dunes and clouds. <br>\r\n<br>\r\nMeanwhile, the second half uses palette rows 0 and 3, but has desert dunes, a big abyss and clouds. More GFX space is used, though.<br>\r\n<br>\r\nPick the one you like more.<br>\r\n<br>\r\nA good fit for deserts, in general.",
+  "latest_version": "smwc-38591-1729956727",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38591,
+      "title": "ActRaiser - Kasandora (Act 1)",
+      "version": "smwc-38591-1729956727",
+      "upstream_time": 1729956727,
+      "download_url": "https://dl.smwcentral.net/38591/ActRaiser%20-%20Kasandora%20%28Act%201%29.zip",
+      "filename": "ActRaiser - Kasandora (Act 1).zip",
+      "size": 8813,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 38524,
+      "title": "ActRaiser - Kasandora (Act 2)",
+      "version": "smwc-38524-1727655812",
+      "upstream_time": 1727655812,
+      "download_url": "https://dl.smwcentral.net/38524/ActRaiser%20-%20Kasandora%20%28Act%202%29.zip",
+      "filename": "ActRaiser - Kasandora (Act 2).zip",
+      "size": 6850,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

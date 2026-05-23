@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-sonic-3-knuckles-death-egg-zone-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 31735,
+  "title": "Sonic 3 & Knuckles - Death Egg Zone (Act 1)",
+  "authors": [
+    "Mippish",
+    "NopeContest"
+  ],
+  "tags": [
+    "mechanical",
+    "space"
+  ],
+  "description": "Be careful when using this BG, as it takes the first screen and half of the second screen. I suggest using V-None and H-None. (Nope suggests you may also use <a href=\"https://smwc.me/s/19459\">this patch</a> to add Variable 4, Slow, or Slow 2 to Horizontal scrolling, which should give you plenty of space to work with before the background runs out. Setting V:Scroll to Slow or Slow 2 may give you some slight leeway in that direction as well.)<br>\r\n<br>\r\nNo credit needed. <br>\r\n<br>\r\nAlso sorry If I kept forgetting to put a [BG] right next to the titles. =(<br>\r\n<br>\r\nNope Edit: Cleaned up ExGFX file, tweaked palette slightly to be more game accurate, and added palette cycling.",
+  "latest_version": "smwc-31735-1659546580",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 31735,
+      "title": "Sonic 3 & Knuckles - Death Egg Zone (Act 1)",
+      "version": "smwc-31735-1659546580",
+      "upstream_time": 1659546580,
+      "download_url": "https://dl.smwcentral.net/31735/deatheggact1.zip",
+      "filename": "deatheggact1.zip",
+      "size": 4697,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 31684,
+      "title": "Sonic 3 & Knuckles - Death Egg Zone (Act 2)",
+      "version": "smwc-31684-1659149550",
+      "upstream_time": 1659149550,
+      "download_url": "https://dl.smwcentral.net/31684/deathegg.zip",
+      "filename": "deathegg.zip",
+      "size": 4403,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

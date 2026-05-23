@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-new-super-mario-bros-wii-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12140,
+  "title": "New Super Mario Bros. Wii - Castle",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "mountain",
+    "temple"
+  ],
+  "description": "The castle theme in New Super Mario Bros. Wii. If you want a good Mario-sounding castle theme that isn't from SMAS or YI, this might be just the thing. An alternative no-BNK version is also hosted in the music section.<br>\r\nUpdate: Converted to AMK format and fixed some issues in-game.",
+  "latest_version": "smwc-12140-1446258074",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12140,
+      "title": "New Super Mario Bros. Wii - Castle",
+      "version": "smwc-12140-1446258074",
+      "upstream_time": 1446258074,
+      "download_url": "https://dl.smwcentral.net/12140/New%20Super%20Mario%20Bros.%20Wii%20-%20Koopa%20Kid%20Castle%20%28S%29.zip",
+      "filename": "New Super Mario Bros. Wii - Koopa Kid Castle (S).zip",
+      "size": 45774,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7675,
+      "title": "New Super Mario Bros. Wii - Castle",
+      "version": "smwc-7675-1326232619",
+      "upstream_time": 1326232619,
+      "download_url": "https://dl.smwcentral.net/7675/New%20Super%20Mario%20Bros.%20Wii%20-%20Koopa%20Kid%20Castle%20%5BU%5D.zip",
+      "filename": "New Super Mario Bros. Wii - Koopa Kid Castle %5BU%5D.zip",
+      "size": 79230,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-lava-lotus",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39102,
+  "title": "Lava Lotus",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "enemy",
+    "lava lotus",
+    "lorom",
+    "sa-1",
+    "smb3",
+    "underwater"
+  ],
+  "description": "This is a port of the Lava Lotus from SMB3. Found in underwater levels, this sprite shoots 5 fireballs upward, which fizzle out shortly afterward.<br>\r\n<br>\r\nIf the Extra Bit is set, it'll be upside down and cling to ceilings.<br>\r\n<br>\r\nSee the main LavaLotus.asm file for remapping/configuration changes.<br>\r\n<br>\r\n<b>Version History</b>:<br>\r\n- 1/25/2025: v1.00 / Initial release.<br>\r\n- 1/25/2025: v1.01 / Added upside-down variant as an Extra Bit setting.<br>\r\n- 1/25/2025: v1.02 / Setting the Extra Byte will now offset the sprite by 8 pixels to be centered the same as it is in SMB3.<br>\r\n- 1/25/2025: v1.1 / Added a setting to spawn the fireballs as cluster sprites instead of extended. Fixed minor clipping issues with projectile.",
+  "latest_version": "smwc-39102-1749586905",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39102,
+      "title": "Lava Lotus",
+      "version": "smwc-39102-1749586905",
+      "upstream_time": 1749586905,
+      "download_url": "https://dl.smwcentral.net/39102/LavaLotus.zip",
+      "filename": "LavaLotus.zip",
+      "size": 8139,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

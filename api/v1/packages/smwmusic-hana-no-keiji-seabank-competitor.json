@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-hana-no-keiji-seabank-competitor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8079,
+  "title": "Hana No Keiji - Seabank Competitor",
+  "authors": [
+    "Ice Man"
+  ],
+  "tags": [
+    "night",
+    "water"
+  ],
+  "description": "This would suit a river level.",
+  "latest_version": "smwc-8079-1405940000",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8079,
+      "title": "Hana No Keiji - Seabank Competitor",
+      "version": "smwc-8079-1405940000",
+      "upstream_time": 1405940000,
+      "download_url": "https://dl.smwcentral.net/8079/Hana%20No%20Keiji%20-%20Seabank%20Competitors.zip",
+      "filename": "Hana No Keiji - Seabank Competitors.zip",
+      "size": 32191,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

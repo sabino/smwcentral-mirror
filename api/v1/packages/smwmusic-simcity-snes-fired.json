@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-simcity-snes-fired",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16504,
+  "title": "SimCity (SNES) - Fired",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "game over"
+  ],
+  "description": "This song is game over theme from Simcity in snes. It could fit game over screens",
+  "latest_version": "smwc-16504-1508806566",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16504,
+      "title": "SimCity (SNES) - Fired",
+      "version": "smwc-16504-1508806566",
+      "upstream_time": 1508806566,
+      "download_url": "https://dl.smwcentral.net/16504/Fired.zip",
+      "filename": "Fired.zip",
+      "size": 22865,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

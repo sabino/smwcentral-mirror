@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-super-mario-classic-bowser-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23298,
+  "title": "New Super Mario Classic - Bowser Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "final",
+    "fire",
+    "overworld"
+  ],
+  "description": "Could fit on Bowser submaps with castle stuff. This music was played on World 10 (Molten Falls) from New Super Mario Classic (Emerald Edition) (My SMW Hack)",
+  "latest_version": "smwc-23298-1592203270",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23298,
+      "title": "New Super Mario Classic - Bowser Submap",
+      "version": "smwc-23298-1592203270",
+      "upstream_time": 1592203270,
+      "download_url": "https://dl.smwcentral.net/23298/NSMC%20Bowser%20Submap.zip",
+      "filename": "NSMC Bowser Submap.zip",
+      "size": 38162,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

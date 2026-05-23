@@ -1,0 +1,42 @@
+{
+  "name": "smwmusic-celeste-resurrections",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30668,
+  "title": "Celeste - Resurrections",
+  "authors": [
+    "Maxodex"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "chase",
+    "cutscene",
+    "dark",
+    "final",
+    "ruins",
+    "sad",
+    "space",
+    "spooky"
+  ],
+  "description": "original by Lena Raine. best song in the game.<br>\r\n<br>\r\nas (half) featured in markalarm's celeste.smc<br>\r\nseparated in 4 disctinctly looping parts just like the original.<br>\r\nincludes a looped version of part 3, as per in-game, and a non looped version, as per OST.<br>\r\n<br>\r\ninsert size, duration:<br>\r\n1. 0x0653, 2:43<br>\r\n2. 0x05DF, 2:14<br>\r\n3. 0x06F6, 2:49<br>\r\n4. 0x0F25, 1:43",
+  "latest_version": "smwc-30668-1659229273",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30668,
+      "title": "Celeste - Resurrections",
+      "version": "smwc-30668-1659229273",
+      "upstream_time": 1659229273,
+      "download_url": "https://dl.smwcentral.net/30668/resurrections.zip",
+      "filename": "resurrections.zip",
+      "size": 251259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

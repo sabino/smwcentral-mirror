@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-forest-reggae",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7996,
+  "title": "Forest Reggae",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "cave",
+    "forest"
+  ],
+  "description": "A custom reggae-styled song.",
+  "latest_version": "smwc-7996-1312187133",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7996,
+      "title": "Forest Reggae",
+      "version": "smwc-7996-1312187133",
+      "upstream_time": 1312187133,
+      "download_url": "https://dl.smwcentral.net/7996/Forest%20Reggae.zip",
+      "filename": "Forest Reggae.zip",
+      "size": 67222,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

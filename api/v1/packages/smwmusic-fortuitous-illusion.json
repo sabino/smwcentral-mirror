@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-fortuitous-illusion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39236,
+  "title": "Fortuitous Illusion",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "cave",
+    "credits",
+    "cutscene",
+    "overworld",
+    "sewer",
+    "spooky",
+    "town"
+  ],
+  "description": "A short mysterious tune that could be used for dark/spooky overworlds and cutscenes.<br>\r\n<br>\r\nOriginally composed in an hour for a contest on Battle of the Bits, before being ported for Segment1Zone2's hack Bounceland.",
+  "latest_version": "smwc-39236-1741194660",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39236,
+      "title": "Fortuitous Illusion",
+      "version": "smwc-39236-1741194660",
+      "upstream_time": 1741194660,
+      "download_url": "https://dl.smwcentral.net/39236/Fortuitous%20Illusion.zip",
+      "filename": "Fortuitous Illusion.zip",
+      "size": 56090,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

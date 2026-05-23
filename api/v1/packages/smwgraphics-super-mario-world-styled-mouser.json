@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-mouser",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 28809,
+  "title": "Super Mario World Styled Mouser",
+  "authors": [
+    "KaidenThelens",
+    "VannyArts"
+  ],
+  "tags": [
+    "mouser",
+    "needs remoderation"
+  ],
+  "description": "Everyone's least favorite rodent from SMB2. Now with sprites styled for Mario World! This also comes with new bombs!<br>\r\n<br>\r\nThe is a port from MFGG, sprites by VannyArts. Sprite is made for Dispari Scuro's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=3277\">Mouser</a> boss.",
+  "latest_version": "smwc-28809-1636995468",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 28809,
+      "title": "Super Mario World Styled Mouser",
+      "version": "smwc-28809-1636995468",
+      "upstream_time": 1636995468,
+      "download_url": "https://dl.smwcentral.net/28809/SMW%20Mouser.zip",
+      "filename": "SMW Mouser.zip",
+      "size": 4956,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 15987,
+      "title": "Super Mario World Styled Mouser",
+      "version": "smwc-15987-1503355482",
+      "upstream_time": 1503355482,
+      "download_url": "https://dl.smwcentral.net/15987/SMW_Mouser.zip",
+      "filename": "SMW_Mouser.zip",
+      "size": 4812,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

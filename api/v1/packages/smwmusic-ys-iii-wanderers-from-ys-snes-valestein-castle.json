@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ys-iii-wanderers-from-ys-snes-valestein-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28510,
+  "title": "Ys III: Wanderers from Ys (SNES) - Valestein Castle",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "chase",
+    "tense"
+  ],
+  "description": "Fast song from Ys III.<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+  "latest_version": "smwc-28510-1637978486",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28510,
+      "title": "Ys III: Wanderers from Ys (SNES) - Valestein Castle",
+      "version": "smwc-28510-1637978486",
+      "upstream_time": 1637978486,
+      "download_url": "https://dl.smwcentral.net/28510/Ballacetine%20Castle.zip",
+      "filename": "Ballacetine Castle.zip",
+      "size": 48654,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

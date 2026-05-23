@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-snow-bros-2-with-new-elves-world-1",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 41910,
+  "title": "Snow Bros. 2: With New Elves - World 1-1",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "patch needed",
+    "underwater"
+  ],
+  "description": "Here's the BG from the 1st stage from Snow Bros. 2, I had to change this BG's Layout to make it loop properly. In the original game, it had <b>5 palettes</b>, so I had to reduce the amount of colors, because some looked a bit too similar to each other, and it had so many tiles that I had to separate them into 2 layers, I recommend y'all to set Layer 3's X scrolling to \"Variable 2\" and its Y scrolling to \"Variable\" if you want to use this BG, I'd recommend you to use a patch that <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">deletes the layer 3 status bar</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">completely replaces it with a sprite status bar</a>",
+  "latest_version": "smwc-41910-1773597956",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 41910,
+      "title": "Snow Bros. 2: With New Elves - World 1-1",
+      "version": "smwc-41910-1773597956",
+      "upstream_time": 1773597956,
+      "download_url": "https://dl.smwcentral.net/41910/snowbros2world1-1.zip",
+      "filename": "snowbros2world1-1.zip",
+      "size": 11056,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

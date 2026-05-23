@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-ghost-shell",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29851,
+  "title": "Ghost Shell",
+  "authors": [
+    "MarkAlarm"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "shell"
+  ],
+  "description": "This is a shell that lacks the ability to interact with other sprites. Credit unnecessary, but appreciated.<br>\r\n<br>\r\nYou're able to customize a few of the properties of the ghost shell, such as its palette (defaults to grey) and initial kick speed. It makes use of two extra bytes to pull this off. Check the .asm file for more details, since it documents these things in a bit more depth.<br>\r\n<br>\r\nThe lack of sprite interaction includes other ghost shells, so you can build levels that either utilize this mechanic to create more interesting obstacles or use it to avoid setups where shells bonk each other and die. This would mainly be useful for kaizo/shell levels.",
+  "latest_version": "smwc-29851-1649886922",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29851,
+      "title": "Ghost Shell",
+      "version": "smwc-29851-1649886922",
+      "upstream_time": 1649886922,
+      "download_url": "https://dl.smwcentral.net/29851/Ghost%20Shell.zip",
+      "filename": "Ghost Shell.zip",
+      "size": 2085,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

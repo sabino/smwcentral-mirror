@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-paper-mario-the-thousand-year-door-vivian",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30101,
+  "title": "Paper Mario: The Thousand-Year-Door - Vivian",
+  "authors": [
+    "clockworkweeble"
+  ],
+  "tags": [
+    "creature",
+    "female"
+  ],
+  "description": "A complete set of player replacement graphics. Vivian from Paper Mario: The<br>\r\nThousand-Year Door. Includes frames for cape, overworld, castle animations<br>\r\nand blushing. I drew these myself from scratch.<br>\r\n<br>\r\nShould preserve the switch block and Yoshi palettes correctly.<br>\r\n<br>\r\nUse Lunar Magic's \"Insert Shared Palettes to ROM...\" to insert the shared<br>\r\npalette. This will overwrite the entire shared palette in the ROM. If you<br>\r\ndon't want to do that, you can instead use Player_Palette_Patch.asm with an<br>\r\nASM patcher such as Asar. The patch will overwrite only the player portions<br>\r\nof the shared palette.<br>\r\n<br>\r\nIf you're using Lunar Magic's custom palettes on the overworld, the custom<br>\r\npalette will override the shared palette, causing Vivian to appear in the<br>\r\nwrong colours. You can use \"Import to current overworld submap palette from<br>\r\nfile\" with Overworld_palette.pal to update the player colours in your<br>\r\ncustom palette. Make sure Overworld_palette.palmask is in the same directory<br>\r\nwhen you do this.<br>\r\n<br>\r\nWhen walking left on the overworld, part of the Yoshi will flash red instead<br>\r\nof green (or whatever colour the Yoshi is supposed to be).  Normally this is<br>\r\nhard to see because the parts affected are mostly obscured by Mario, save for<br>\r\na few pixels. This is because some of the tile data was incorrectly marked to<br>\r\nuse Mario's palette. However, since Vivian doesn't have feet, you can see<br>\r\nmore of Yoshi and it's quite distracting. You may want to apply the included<br>\r\npatch \"Yoshi_Overworld_Fix.asm\" using Asar to fix it.<br>\r\n<br>\r\nWith great thanks to @mm102_ for the template and player exporter.[1]<br>\r\n<br>\r\nI would love to know what you use this in! Find me on Twitter. Credit is<br>\r\ngreatly appreciated.<br>\r\n<br>\r\nTwitter: https://www.twitter.com/weeble<br>\r\n Twitch: https://www.twitch.tv/clockworknettie<br>\r\n<br>\r\nVersion history<br>\r\n<br>\r\n1.0.0 - First release<br>\r\n<br>\r\n[1]: https://www.youtube.com/watch?v=t7qfZgj8nnc&t=0s<br>\r\n",
+  "latest_version": "smwc-30101-1647312542",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30101,
+      "title": "Paper Mario: The Thousand-Year-Door - Vivian",
+      "version": "smwc-30101-1647312542",
+      "upstream_time": 1647312542,
+      "download_url": "https://dl.smwcentral.net/30101/Vivian_v1.0.0.zip",
+      "filename": "Vivian_v1.0.0.zip",
+      "size": 24734,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-chasing-boo-stream",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38526,
+  "title": "Chasing Boo Stream",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "boo",
+    "chase",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "stream"
+  ],
+  "description": "This boo stream chases the player.<br>\r\n<br>\r\nUpdate 25.09.2024:<br>\r\n-Made use of extra bytes for max speed and acceleration.<br>\r\n-Fixed the sprite clipping through objects when <b>!ObjInt</b> was enabled.",
+  "latest_version": "smwc-38526-1730333820",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38526,
+      "title": "Chasing Boo Stream",
+      "version": "smwc-38526-1730333820",
+      "upstream_time": 1730333820,
+      "download_url": "https://dl.smwcentral.net/38526/ChasingBooStream_2024.zip",
+      "filename": "ChasingBooStream_2024.zip",
+      "size": 4223,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

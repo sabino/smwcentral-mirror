@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-a-plumber-for-all-seasons-autumn-color",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32229,
+  "title": "A Plumber For All Seasons - Autumn Color",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland",
+    "mountain",
+    "mysterious",
+    "night",
+    "overworld",
+    "ruins",
+    "snow",
+    "water"
+  ],
+  "description": "The autumn forest theme",
+  "latest_version": "smwc-32229-1664439367",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32229,
+      "title": "A Plumber For All Seasons - Autumn Color",
+      "version": "smwc-32229-1664439367",
+      "upstream_time": 1664439367,
+      "download_url": "https://dl.smwcentral.net/32229/wind.zip",
+      "filename": "wind.zip",
+      "size": 31812,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

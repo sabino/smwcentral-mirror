@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-anticontina-land-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41619,
+  "title": "Anticontina Land (Map)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "Likely World 1 Map, grassland areas, possibly main overworld map",
+  "latest_version": "smwc-41619-1774544962",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41619,
+      "title": "Anticontina Land (Map)",
+      "version": "smwc-41619-1774544962",
+      "upstream_time": 1774544962,
+      "download_url": "https://dl.smwcentral.net/41619/Anticontina_land.zip",
+      "filename": "Anticontina_land.zip",
+      "size": 31764,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-cave-story-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12793,
+  "title": "Cave Story - Game Over",
+  "authors": [
+    "Dark Mario Bros"
+  ],
+  "tags": [
+    "game over"
+  ],
+  "description": "Game Over Song from cave story<br>\r\nAuthor:StudioPixel<br>\r\n<br>\r\nThe song originally is way too large to use on SMW<br>\r\nBut , maybe you can use it for something<br>\r\n#Peace",
+  "latest_version": "smwc-12793-1448815401",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12793,
+      "title": "Cave Story - Game Over",
+      "version": "smwc-12793-1448815401",
+      "upstream_time": 1448815401,
+      "download_url": "https://dl.smwcentral.net/12793/CS%20Game%20Over.zip",
+      "filename": "CS Game Over.zip",
+      "size": 30971,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

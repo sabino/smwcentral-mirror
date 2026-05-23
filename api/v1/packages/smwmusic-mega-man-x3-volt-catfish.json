@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-mega-man-x3-volt-catfish",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29182,
+  "title": "Mega Man X3 - Volt Catfish",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "industrial",
+    "urban"
+  ],
+  "description": "Volt Catfish from Mega Man X3. Could fit a industrial or city/urban levels.",
+  "latest_version": "smwc-29182-1648792371",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29182,
+      "title": "Mega Man X3 - Volt Catfish",
+      "version": "smwc-29182-1648792371",
+      "upstream_time": 1648792371,
+      "download_url": "https://dl.smwcentral.net/29182/Mega%20Man%20X3%20-%20Volt%20Catfish%20%28U%29.zip",
+      "filename": "Mega Man X3 - Volt Catfish (U).zip",
+      "size": 33957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27370,
+      "title": "Mega Man X3 - Volt Catfish",
+      "version": "smwc-27370-1625117504",
+      "upstream_time": 1625117504,
+      "download_url": "https://dl.smwcentral.net/27370/Mega%20Man%20X3%20Volt%20Catfish.zip",
+      "filename": "Mega Man X3 Volt Catfish.zip",
+      "size": 66283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

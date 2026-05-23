@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-bounce-block-coin-collection-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 33235,
+  "title": "Bounce Block Coin Collection Fix",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "bounce block",
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A simple patch which fixes bounce blocks (e.g. note and ?-blocks) so any coin they collect don't leave a solid block behind.<br>\r\nNote that if you want to enable turn blocks from collecting coins, you have to apply <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16155\">Turn Blocks Collect Coins</a> which, due to its nature, comes with this fix included.<br>\r\n<br>\r\nIn addition, this fix uses freespace in bank 2.",
+  "latest_version": "smwc-33235-1680304104",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 33235,
+      "title": "Bounce Block Coin Collection Fix",
+      "version": "smwc-33235-1680304104",
+      "upstream_time": 1680304104,
+      "download_url": "https://dl.smwcentral.net/33235/Bounce%20Block%20Coin%20Fix.zip",
+      "filename": "Bounce Block Coin Fix.zip",
+      "size": 334,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

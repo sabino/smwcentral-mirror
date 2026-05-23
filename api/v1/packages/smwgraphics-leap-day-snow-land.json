@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-leap-day-snow-land",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42115,
+  "title": "Leap Day - Snow Land",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "forest",
+    "patch needed",
+    "snow"
+  ],
+  "description": "The Snow Land BG from Nitrome's Leap Day, I had to resize the layer 2 BG because its resolution wasn't a multiple of 8 or 16, plus, sorry if I didn't include the other parts of this BG, you can use this BG for snowy stages, obviously, both vertical and horizontal, if you want to use this BG for horizontal stages, set layer 3's X scrolling to \"Variable 2\" and its Y scrolling to \"None\"",
+  "latest_version": "smwc-42115-1775246181",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42115,
+      "title": "Leap Day - Snow Land",
+      "version": "smwc-42115-1775246181",
+      "upstream_time": 1775246181,
+      "download_url": "https://dl.smwcentral.net/42115/leapdaysnowbg.zip",
+      "filename": "leapdaysnowbg.zip",
+      "size": 5665,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

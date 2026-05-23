@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-excavation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39551,
+  "title": "Excavation",
+  "authors": [
+    "0ne_bins211"
+  ],
+  "tags": [
+    "cave",
+    "upbeat",
+    "yoshi drums"
+  ],
+  "description": "Intented to be used as a underground theme",
+  "latest_version": "smwc-39551-1745337161",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39551,
+      "title": "Excavation",
+      "version": "smwc-39551-1745337161",
+      "upstream_time": 1745337161,
+      "download_url": "https://dl.smwcentral.net/39551/Excavation.zip",
+      "filename": "Excavation.zip",
+      "size": 82253,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

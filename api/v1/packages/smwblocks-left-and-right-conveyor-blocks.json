@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-left-and-right-conveyor-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 6704,
+  "title": "Left and Right Conveyor Blocks",
+  "authors": [
+    "Sayuri"
+  ],
+  "tags": [
+    "conveyor",
+    "left",
+    "lorom",
+    "right"
+  ],
+  "description": "There are 2 conveyor belt blocks in the ZIP. The speed of them is adjustable.",
+  "latest_version": "smwc-6704-1426265587",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 6704,
+      "title": "Left and Right Conveyor Blocks",
+      "version": "smwc-6704-1426265587",
+      "upstream_time": 1426265587,
+      "download_url": "https://dl.smwcentral.net/6704/Left%20and%20right%20conveyor%20belts.zip",
+      "filename": "Left and right conveyor belts.zip",
+      "size": 924,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

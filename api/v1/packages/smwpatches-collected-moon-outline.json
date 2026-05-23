@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-collected-moon-outline",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41799,
+  "title": "Collected Moon Outline",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "collectible",
+    "lorom",
+    "moon",
+    "sa-1"
+  ],
+  "description": "Makes a \"collected\" tile appear once a moon is collected. That tile will also appear in place of the moon when the room is reentered.<br>\r\n<br>\r\nThe sample graphics seen in the .gif are included.",
+  "latest_version": "smwc-41799-1772116767",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41799,
+      "title": "Collected Moon Outline",
+      "version": "smwc-41799-1772116767",
+      "upstream_time": 1772116767,
+      "download_url": "https://dl.smwcentral.net/41799/collected_moon_outline.zip",
+      "filename": "collected_moon_outline.zip",
+      "size": 1790,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

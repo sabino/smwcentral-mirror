@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-gamble-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 11532,
+  "title": "Gamble block",
+  "authors": [
+    "Pseudogon"
+  ],
+  "tags": [
+    "coins",
+    "gamble",
+    "lives",
+    "lorom",
+    "pay",
+    "prize"
+  ],
+  "description": "When you hit this block you will pay 10 coins (Customizable) and you would have a 1 out of 8 chance to win a prize. That prize would be 3 extra lives (Also Customizable). If you win the prize the block would disappear.",
+  "latest_version": "smwc-11532-1437098221",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 11532,
+      "title": "Gamble block",
+      "version": "smwc-11532-1437098221",
+      "upstream_time": 1437098221,
+      "download_url": "https://dl.smwcentral.net/11532/Gamble%20Block.zip",
+      "filename": "Gamble Block.zip",
+      "size": 516,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

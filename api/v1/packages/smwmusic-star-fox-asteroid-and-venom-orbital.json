@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-star-fox-asteroid-and-venom-orbital",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7763,
+  "title": "Star Fox - Asteroid and Venom Orbital",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "dark",
+    "space",
+    "temple"
+  ],
+  "description": "A tense and dark theme that could work for action packed areas.",
+  "latest_version": "smwc-7763-1319008954",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7763,
+      "title": "Star Fox - Asteroid and Venom Orbital",
+      "version": "smwc-7763-1319008954",
+      "upstream_time": 1319008954,
+      "download_url": "https://dl.smwcentral.net/7763/Asteroid.zip",
+      "filename": "Asteroid.zip",
+      "size": 53069,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

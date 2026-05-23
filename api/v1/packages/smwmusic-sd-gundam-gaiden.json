@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sd-gundam-gaiden",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8378,
+  "title": "SD Gundam Gaiden 2 - Castle",
+  "authors": [
+    "Darius"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "An epic song that would fit a Final Castle or maybe the Final OW. A sampled version is also submitted.",
+  "latest_version": "smwc-8378-1359065907",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8378,
+      "title": "SD Gundam Gaiden 2 - Castle",
+      "version": "smwc-8378-1359065907",
+      "upstream_time": 1359065907,
+      "download_url": "https://dl.smwcentral.net/8378/SD%20Gundam%20Gaiden%202%20-%20Castle.zip",
+      "filename": "SD Gundam Gaiden 2 - Castle.zip",
+      "size": 100564,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8377,
+      "title": "SD Gundam Gaiden 2 - Castle",
+      "version": "smwc-8377-1359130205",
+      "upstream_time": 1359130205,
+      "download_url": "https://dl.smwcentral.net/8377/sdgundam2castle.zip",
+      "filename": "sdgundam2castle.zip",
+      "size": 65417,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

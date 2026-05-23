@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-game-theory-science-blaster",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14577,
+  "title": "Game Theory - Science Blaster",
+  "authors": [
+    "Gabriel Yanni"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "overworld"
+  ],
+  "description": "This is the opening theme of MatPat's Game Theory, made by SpellingPhailer and ported to SMW using only original instruments. Suitable to boss levels or Bowser overworld maps.<br>\r\n<br>\r\nHuge thanks to LadiesMan217 for helping me out with the looping!!!",
+  "latest_version": "smwc-14577-1477424809",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14577,
+      "title": "Game Theory - Science Blaster",
+      "version": "smwc-14577-1477424809",
+      "upstream_time": 1477424809,
+      "download_url": "https://dl.smwcentral.net/14577/Science%20Blaster.zip",
+      "filename": "Science Blaster.zip",
+      "size": 32284,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

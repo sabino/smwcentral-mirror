@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-walljump-note-block-glitch-fix-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19932,
+  "title": "Walljump/Note Block Glitch Fix v1.6",
+  "authors": [
+    "lolcats439"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1",
+    "super fx",
+    "wall"
+  ],
+  "description": "Fixes the glitch where you jump at a wall and \"catch\" one of the blocks for one frame and can jump off it.",
+  "latest_version": "smwc-19932-1558692839",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19932,
+      "title": "Walljump/Note Block Glitch Fix v1.6",
+      "version": "smwc-19932-1558692839",
+      "upstream_time": 1558692839,
+      "download_url": "https://dl.smwcentral.net/19932/walljumpnoteblockglitchfix.zip",
+      "filename": "walljumpnoteblockglitchfix.zip",
+      "size": 1640,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

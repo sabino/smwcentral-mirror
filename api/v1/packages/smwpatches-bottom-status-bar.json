@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-bottom-status-bar",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4392,
+  "title": "Bottom Status Bar",
+  "authors": [
+    "Ice Man"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "Updated to version 1.1.<br>\r\nLayer 3 images won't be affected anymore since the status bar will be on top, if there's a layer 3 image in the level. A small glitch with Magikoopa (CGADSUB settings) has been fixed as well.",
+  "latest_version": "smwc-4392-1292864120",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4392,
+      "title": "Bottom Status Bar",
+      "version": "smwc-4392-1292864120",
+      "upstream_time": 1292864120,
+      "download_url": "https://dl.smwcentral.net/4392/Bottom%20Status%20Bar%20v1.1.zip",
+      "filename": "Bottom Status Bar v1.1.zip",
+      "size": 3111,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

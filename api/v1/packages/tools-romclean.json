@@ -1,0 +1,30 @@
+{
+  "name": "tools-romclean",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 12178,
+  "title": "ROMclean",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "clean"
+  ],
+  "description": "This tool checks if your ROM is a clean, headered (U) [!] ROM, suitable for use here. If it's unclean, it tries to clean it.<br>\r\n<br>\r\nIf you prefer not downloading anything, try <a href=\"http://media.smwcentral.net/onlinetools/jsromclean.htm\">this</a>.",
+  "latest_version": "smwc-12178-1448731882",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 12178,
+      "title": "ROMclean",
+      "version": "smwc-12178-1448731882",
+      "upstream_time": 1448731882,
+      "download_url": "https://dl.smwcentral.net/12178/romclean_fix.zip",
+      "filename": "romclean_fix.zip",
+      "size": 8708,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

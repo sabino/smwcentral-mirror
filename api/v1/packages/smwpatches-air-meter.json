@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-air-meter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12397,
+  "title": "Air Meter",
+  "authors": [
+    "0x400",
+    "DiscoTheBat"
+  ],
+  "tags": [
+    "air meter",
+    "lorom",
+    "needs remoderation",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "This was my first ASM hack. It is an air meter that is a new \"counter\" on the status bar. It is highly adjustable for tile mapping and sound effects. It requires 5 bytes of free RAM.",
+  "latest_version": "smwc-12397-1455766953",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12397,
+      "title": "Air Meter",
+      "version": "smwc-12397-1455766953",
+      "upstream_time": 1455766953,
+      "download_url": "https://dl.smwcentral.net/12397/air_meter.zip",
+      "filename": "air_meter.zip",
+      "size": 2472,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

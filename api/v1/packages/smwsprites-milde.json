@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-milde",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29787,
+  "title": "Milde",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "castle",
+    "enemy",
+    "lorom",
+    "milde",
+    "sa-1",
+    "yoshi's island"
+  ],
+  "description": "The Milde enemy from Yoshi's Island.<br>\r\nIt can be stomped causing the sprite to quickly smush down. The explosion that the sprite causes will function similarly to a cape spin (or Yoshi's Ground Pound ability) to nearby sprites. If the sprite affected is another Milde, they will get stunned and bounce a few times before recovering.<br>\r\n<br>\r\nBoth Milde variants stay on ledges, akin to Red Koopas.<br>\r\nWhen a Big Milde is defeated, it will spawn four normal Mildes. These Mildes must be defeated before the Big Milde can be considered defeated -- if Mario allows a single Milde to despawn without being defeated, the Big Milde will be able to respawn when Mario leaves and returns to the area.<br>\r\n<br>\r\n<span style=\"color: #FF0000;\">NOTE: It is recommended you use the No More Sprite Tile Limits patch. Failure to do so may cause flickering when several of them are on-screen or when the explosion animation displays.</span><br>\r\n<br>\r\n<b>Changelog:</b><br>\r\n<i>07-10-2020:</i><br>\r\n-- Initial release.<br>\r\n<i>02-12-2022:</i><br>\r\n-- Rewrote Milde graphics routine to correct some display issues.<br>\r\n-- Updated collision with Mario to utilize a generic macro for detecting a stomp, rather than relying on SubVertPos.<br>\r\n-- Updated collision to account for Yoshi when stomping the sprite and when touching the sprite from the side.<br>\r\n-- Added a few settings.<br>\r\n-- Updated existing settings to use \"if\" statements instead of reading from a define in the sprite code.<br>\r\n-- Updated JSON file so sprite appears in Lunar Magic properly",
+  "latest_version": "smwc-29787-1668642087",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29787,
+      "title": "Milde",
+      "version": "smwc-29787-1668642087",
+      "upstream_time": 1668642087,
+      "download_url": "https://dl.smwcentral.net/29787/YIMilde.zip",
+      "filename": "YIMilde.zip",
+      "size": 8778,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

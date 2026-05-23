@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-tetris-dr-mario-tetris-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20199,
+  "title": "Tetris & Dr. Mario - Tetris BGM 1",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "description": "An unsampled port of Tetris & Dr. Mario's take on the most widely recognized Tetris song. Good for puzzle levels.",
+  "latest_version": "smwc-20199-1560797291",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20199,
+      "title": "Tetris & Dr. Mario - Tetris BGM 1",
+      "version": "smwc-20199-1560797291",
+      "upstream_time": 1560797291,
+      "download_url": "https://dl.smwcentral.net/20199/t%26dr_-_tetris_bgm_1.zip",
+      "filename": "t%26dr_-_tetris_bgm_1.zip",
+      "size": 32019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-disney-s-lilo-stitch-planet-scum",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34575,
+  "title": "Disney's Lilo & Stitch - Planet Scum",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Part of the Lilo & Stitch GBA soundtrack.",
+  "latest_version": "smwc-34575-1690806246",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34575,
+      "title": "Disney's Lilo & Stitch - Planet Scum",
+      "version": "smwc-34575-1690806246",
+      "upstream_time": 1690806246,
+      "download_url": "https://dl.smwcentral.net/34575/Lilo%20%26%20Stitch%20-%2005%20Asteroid%20Junkyard.zip",
+      "filename": "Lilo %26 Stitch - 05 Asteroid Junkyard.zip",
+      "size": 132715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

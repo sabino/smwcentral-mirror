@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-treasure-hunter-g-a-hearty-welcome-to-the-pyramid-investigation-group",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34681,
+  "title": "Treasure Hunter G - A Hearty Welcome to the Pyramid Investigation Group",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "temple"
+  ],
+  "description": "Can fit a pyramid theme. You can shorten the intro by setting #define INTRO 0 in the txt file.",
+  "latest_version": "smwc-34681-1695336221",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34681,
+      "title": "Treasure Hunter G - A Hearty Welcome to the Pyramid Investigation Group",
+      "version": "smwc-34681-1695336221",
+      "upstream_time": 1695336221,
+      "download_url": "https://dl.smwcentral.net/34681/150%20A%20Hearty%20Welcome%20to%20the%20Pyramid%20Investigation%20Group.zip",
+      "filename": "150 A Hearty Welcome to the Pyramid Investigation Group.zip",
+      "size": 96539,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

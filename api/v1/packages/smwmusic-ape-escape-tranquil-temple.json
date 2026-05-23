@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-ape-escape-tranquil-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18743,
+  "title": "Ape Escape - Tranquil Temple",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "night",
+    "ruins",
+    "temple"
+  ],
+  "description": "this port is simple because I can not use pitch",
+  "latest_version": "smwc-18743-1546038987",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18743,
+      "title": "Ape Escape - Tranquil Temple",
+      "version": "smwc-18743-1546038987",
+      "upstream_time": 1546038987,
+      "download_url": "https://dl.smwcentral.net/18743/Ape%20escape.zip",
+      "filename": "Ape escape.zip",
+      "size": 28114,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

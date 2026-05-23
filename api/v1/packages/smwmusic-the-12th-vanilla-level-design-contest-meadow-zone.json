@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-12th-vanilla-level-design-contest-meadow-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32415,
+  "title": "The 12th Vanilla Level Design Contest - Meadow Zone",
+  "authors": [
+    "Segment1Zone2",
+    "Stivi"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "The Meadow Zone song played in VLDC12.",
+  "latest_version": "smwc-32415-1672537097",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32415,
+      "title": "The 12th Vanilla Level Design Contest - Meadow Zone",
+      "version": "smwc-32415-1672537097",
+      "upstream_time": 1672537097,
+      "download_url": "https://dl.smwcentral.net/32415/VLDC12%20-%20Meadow%20Zone.zip",
+      "filename": "VLDC12 - Meadow Zone.zip",
+      "size": 42641,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

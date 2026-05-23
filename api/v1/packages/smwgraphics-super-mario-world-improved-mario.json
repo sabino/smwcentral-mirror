@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-improved-mario",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 24147,
+  "title": "Super Mario World - Improved Mario",
+  "authors": [
+    "succo"
+  ],
+  "tags": [
+    "male",
+    "needs remoderation"
+  ],
+  "description": "These graphics are heavily based on the original and are meant to fix sloppiness and errors. I have done my best to get rid of coloring inconsistencies, sloppy drawing, weird posing, and anything ugly in general while still looking vanilla. There are also alternate options to add shading to Mario's shoes or gloves (or both)! The graphics work well in other palettes too.<br>\r\n<br>\r\nContents of the zip:<br>\r\n-GFX00.bin*4<br>\r\n-GFX32.bin*4 (four versions for each of the options mentioned above)<br>\r\n-GFX22.bin (sorted only with the options it's needed for)<br>\r\n-A shared palette for the overworld<br>\r\n-And a readme with in-depth installation instructions as well as example.png which the readme refers to.<br>\r\n<br>\r\n<br>\r\nI hope you all enjoy this and make good use of it, I've been working on this for well over a year now! Lots of tiny changes that added up and I even restarted from scratch at one point. Maybe Luigi is next... <br>\r\n<br>\r\n...Credit ain't necessary but I would really appreciate it :3",
+  "latest_version": "smwc-24147-1598246478",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 24147,
+      "title": "Super Mario World - Improved Mario",
+      "version": "smwc-24147-1598246478",
+      "upstream_time": 1598246478,
+      "download_url": "https://dl.smwcentral.net/24147/Beautiful_FINAL.zip",
+      "filename": "Beautiful_FINAL.zip",
+      "size": 190708,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

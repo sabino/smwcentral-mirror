@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-shell-less-koopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 13892,
+  "title": "Shell-less Koopa",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A disassembly of sprites 00-03, the shell-less Koopas. This handles all four of them with a single ASM file.<br>\r\n<br>\r\nA number of options are attached to the CFG file, so you can create multiple different kinds of Koopas without having to insert multiple codes. CFGs for the original four Koopas are included with it.<br>\r\n<br>\r\n<br>\r\nNote, however, that while the sprite can jump into the original game's shells without issue, it'll turn into the original Koopa. This sprite still does support being knocked out of shells and sliding though, so you can modify the original game's Koopas to spawn it or code a new sprite entirely. Instructions on how to make it slide are included in the ASM file.<br>\r\nOf course, if you don't want to deal with that or don't know how to, you can also just disable hopping into shells.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-13892-1469656920",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 13892,
+      "title": "Shell-less Koopa",
+      "version": "smwc-13892-1469656920",
+      "upstream_time": 1469656920,
+      "download_url": "https://dl.smwcentral.net/13892/Koopa.zip",
+      "filename": "Koopa.zip",
+      "size": 7248,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

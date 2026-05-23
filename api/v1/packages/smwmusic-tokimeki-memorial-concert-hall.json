@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tokimeki-memorial-concert-hall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8455,
+  "title": "Tokimeki Memorial - Concert Hall",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "overworld",
+    "star"
+  ],
+  "description": "An energetic theme that would fit to a submap or as a replacement of the Star Theme.",
+  "latest_version": "smwc-8455-1385144659",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8455,
+      "title": "Tokimeki Memorial - Concert Hall",
+      "version": "smwc-8455-1385144659",
+      "upstream_time": 1385144659,
+      "download_url": "https://dl.smwcentral.net/8455/concert%20hall.zip",
+      "filename": "concert hall.zip",
+      "size": 64584,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

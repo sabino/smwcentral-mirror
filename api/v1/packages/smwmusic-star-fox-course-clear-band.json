@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-star-fox-course-clear-band",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37850,
+  "title": "Star Fox - Course Clear (Band)",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "retro",
+    "sky",
+    "space"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"SonicTheMarioGuy\"><a href=\"/?p=profile&amp;id=65488\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">SonicTheMarioGuy</a></span>",
+  "latest_version": "smwc-37850-1718724394",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37850,
+      "title": "Star Fox - Course Clear (Band)",
+      "version": "smwc-37850-1718724394",
+      "upstream_time": 1718724394,
+      "download_url": "https://dl.smwcentral.net/37850/Star%20Fox%20Course%20Clear%20%28Band%29.zip",
+      "filename": "Star Fox Course Clear (Band).zip",
+      "size": 43952,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36576,
+      "title": "Star Fox - Course Clear (Band)",
+      "version": "smwc-36576-1705088166",
+      "upstream_time": 1705088166,
+      "download_url": "https://dl.smwcentral.net/36576/Course%20Clear%20%28Band%29.zip",
+      "filename": "Course Clear (Band).zip",
+      "size": 22941,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

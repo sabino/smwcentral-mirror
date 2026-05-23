@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-kart-super-circuit-bowser-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19918,
+  "title": "Mario Kart: Super Circuit - Bowser Castle",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "castle",
+    "chase",
+    "fire",
+    "tense"
+  ],
+  "description": "A tense and fast-paced rock song that is used on the Bowser Castle racetracks in Mario Kart: Super Circuit. This is really good for castle areas and dangerous fiery levels.",
+  "latest_version": "smwc-19918-1557793408",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19918,
+      "title": "Mario Kart: Super Circuit - Bowser Castle",
+      "version": "smwc-19918-1557793408",
+      "upstream_time": 1557793408,
+      "download_url": "https://dl.smwcentral.net/19918/Bowser%20Castle%20%28MKSC%29.zip",
+      "filename": "Bowser Castle (MKSC).zip",
+      "size": 35475,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

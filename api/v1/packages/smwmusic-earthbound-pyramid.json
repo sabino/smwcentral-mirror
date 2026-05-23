@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-earthbound-pyramid",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24820,
+  "title": "EarthBound - Pyramid",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "desert",
+    "temple"
+  ],
+  "description": "Could fit a desert/pyramid theme.<br>\r\nRequested by PlagueRatofDoom.",
+  "latest_version": "smwc-24820-1605579442",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24820,
+      "title": "EarthBound - Pyramid",
+      "version": "smwc-24820-1605579442",
+      "upstream_time": 1605579442,
+      "download_url": "https://dl.smwcentral.net/24820/Earthbound%20-%20Pyramid.zip",
+      "filename": "Earthbound - Pyramid.zip",
+      "size": 42745,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

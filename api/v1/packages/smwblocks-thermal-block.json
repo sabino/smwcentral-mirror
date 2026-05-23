@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-thermal-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3901,
+  "title": "Thermal Block",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "fire",
+    "hurt",
+    "kill",
+    "lorom",
+    "map16",
+    "sprite"
+  ],
+  "description": "When you hit this block with a fireball it will \"heat up\" (change into the next Map 16 page tile) for a certain amount of times, then when it is at its max heat, it will hurt Mario and kill sprites, and \"cool down\" (change into the last Map 16 page block). Once again I apologize Vanya for the misunderstanding...<br>\r\n<br>\r\nPM me if you find any bugs.",
+  "latest_version": "smwc-3901-1426305125",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3901,
+      "title": "Thermal Block",
+      "version": "smwc-3901-1426305125",
+      "upstream_time": 1426305125,
+      "download_url": "https://dl.smwcentral.net/3901/Themal.zip",
+      "filename": "Themal.zip",
+      "size": 890,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

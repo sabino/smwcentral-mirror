@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ys-iii-wanderers-from-ys-steeling-the-will-to-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24812,
+  "title": "Ys III: Wanderers from Ys - Steeling the Will to Fight",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "cave",
+    "mountain"
+  ],
+  "description": "One of stage themes from <i>Ys III</i> used in Elderm Mountains (known as Mt. Seko in the English localization of the Mega Drive and TurboGrafx-CD version). Based on the Mega Drive version of the song. Cound be used in underground levels.<br>\r\n<br>\r\n(Note: The track name is taken from the official <i>Ys: The Oath in Felghana</i> soundtrack.)",
+  "latest_version": "smwc-24812-1604630165",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24812,
+      "title": "Ys III: Wanderers from Ys - Steeling the Will to Fight",
+      "version": "smwc-24812-1604630165",
+      "upstream_time": 1604630165,
+      "download_url": "https://dl.smwcentral.net/24812/Ys%20III%20Steeling%20the%20Will%20to%20Fight.zip",
+      "filename": "Ys III Steeling the Will to Fight.zip",
+      "size": 33373,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

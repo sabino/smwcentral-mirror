@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-air-pipes",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 25107,
+  "title": "Air Pipes",
+  "authors": [
+    "Djief"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "sa-1"
+  ],
+  "description": "Horizontal pipes that you can enter even in the air. Optionally also when wall running.<br>\r\n<br>\r\nWorks like vanilla pipes where this block is used as the bottom tile of the pipe entrance and works for both sides.<br>\r\n<br>\r\nSee readme.txt for details and airpipe.asm for options",
+  "latest_version": "smwc-25107-1604658765",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 25107,
+      "title": "Air Pipes",
+      "version": "smwc-25107-1604658765",
+      "upstream_time": 1604658765,
+      "download_url": "https://dl.smwcentral.net/25107/airpipes.zip",
+      "filename": "airpipes.zip",
+      "size": 2119,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

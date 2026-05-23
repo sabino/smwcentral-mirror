@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-ninja-warriors-skyscraper",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21347,
+  "title": "The Ninja Warriors - Skyscraper",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "urban"
+  ],
+  "description": "Upbeat song that could work in athletic urban areas.",
+  "latest_version": "smwc-21347-1571776611",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21347,
+      "title": "The Ninja Warriors - Skyscraper",
+      "version": "smwc-21347-1571776611",
+      "upstream_time": 1571776611,
+      "download_url": "https://dl.smwcentral.net/21347/Skyscraper.zip",
+      "filename": "Skyscraper.zip",
+      "size": 71923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

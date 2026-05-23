@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-albert-odyssey",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27990,
+  "title": "Albert Odyssey 2 - Guardian Spirits",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "calm",
+    "desert",
+    "forest",
+    "ice",
+    "overworld"
+  ],
+  "description": "An eastern music that could serve well in desert overworlds. It has a spiritual and calm dimension.",
+  "latest_version": "smwc-27990-1635801705",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27990,
+      "title": "Albert Odyssey 2 - Guardian Spirits",
+      "version": "smwc-27990-1635801705",
+      "upstream_time": 1635801705,
+      "download_url": "https://dl.smwcentral.net/27990/ao2_guardian_spirits_0_1.zip",
+      "filename": "ao2_guardian_spirits_0_1.zip",
+      "size": 31521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19182,
+      "title": "Albert Odyssey 2 - Land of Frozen Forest",
+      "version": "smwc-19182-1551239901",
+      "upstream_time": 1551239901,
+      "download_url": "https://dl.smwcentral.net/19182/Albert%20Odyssey%202%20-%20Land%20of%20Frozen%20Forest.zip",
+      "filename": "Albert Odyssey 2 - Land of Frozen Forest.zip",
+      "size": 80352,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

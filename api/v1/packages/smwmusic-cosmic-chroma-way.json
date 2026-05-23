@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-cosmic-chroma-way",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41663,
+  "title": "Cosmic Chroma Way",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "sky",
+    "space",
+    "upbeat"
+  ],
+  "description": "Inspired Rainbow Road, Could fit on pixel rainbow road levels too.<br>\r\nUpdated 19/02/2026: improved quality",
+  "latest_version": "smwc-41663-1773977521",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41663,
+      "title": "Cosmic Chroma Way",
+      "version": "smwc-41663-1773977521",
+      "upstream_time": 1773977521,
+      "download_url": "https://dl.smwcentral.net/41663/Cosmic_Chroma_Way%20%28Sampled%29.zip",
+      "filename": "Cosmic_Chroma_Way (Sampled).zip",
+      "size": 53309,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41628,
+      "title": "Cosmic Chroma Way",
+      "version": "smwc-41628-1774546579",
+      "upstream_time": 1774546579,
+      "download_url": "https://dl.smwcentral.net/41628/Cosmic_Chroma_Way%20%28Unsampled%29.zip",
+      "filename": "Cosmic_Chroma_Way (Unsampled).zip",
+      "size": 32668,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-goombaround",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 6614,
+  "title": "Goombaround",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "goomba",
+    "goombaround",
+    "lorom",
+    "scenery"
+  ],
+  "description": "Goombaround will walk around until it finds a map16 tile that is not $25, and then go back and forth around it. When it turns around, it switches between being in the \"foreground\" and being in the \"background\".<br>\r\n<br>\r\nGoombaround will still hurt Mario while in \"background\" mode if there's no \"scenery\" between them.<br>\r\n<br>\r\nGoombaround uses the same graphics as the standard, in-game Goomba.",
+  "latest_version": "smwc-6614-1403235691",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 6614,
+      "title": "Goombaround",
+      "version": "smwc-6614-1403235691",
+      "upstream_time": 1403235691,
+      "download_url": "https://dl.smwcentral.net/6614/goombaround.zip",
+      "filename": "goombaround.zip",
+      "size": 2400,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

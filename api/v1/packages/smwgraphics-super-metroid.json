@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-metroid",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1476,
+  "title": "Super Metroid",
+  "authors": [
+    "FPzero"
+  ],
+  "tags": [
+    "needs remoderation",
+    "sans serif"
+  ],
+  "description": "A shadowed font from Super Metroid.  Apologies for lack of lowercase letters but the font does not have any in it.  Replace GFX2A with this file.",
+  "latest_version": "smwc-1476-1410271288",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1476,
+      "title": "Super Metroid",
+      "version": "smwc-1476-1410271288",
+      "upstream_time": 1410271288,
+      "download_url": "https://dl.smwcentral.net/1476/super_metroid.zip",
+      "filename": "super_metroid.zip",
+      "size": 1010,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

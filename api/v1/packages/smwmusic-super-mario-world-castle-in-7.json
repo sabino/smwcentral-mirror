@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-world-castle-in-7",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28746,
+  "title": "Super Mario World - Castle in 7/8",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "This is my custom remix of the SMW Castle music, but in 7/8 and with more electric guitars! Fast paced for high energy castle levels.",
+  "latest_version": "smwc-28746-1639169902",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28746,
+      "title": "Super Mario World - Castle in 7/8",
+      "version": "smwc-28746-1639169902",
+      "upstream_time": 1639169902,
+      "download_url": "https://dl.smwcentral.net/28746/SMW_Castle%20in%20Seven.zip",
+      "filename": "SMW_Castle in Seven.zip",
+      "size": 70231,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

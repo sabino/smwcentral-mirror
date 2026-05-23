@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-rudra-no-hihou-the-spirit-chaser",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24450,
+  "title": "Rudra no Hihou - The Spirit Chaser",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "A fast and tense boss music that can be used in a chase as well. Requested by Infinity. Not compatible with Yoshi.<br>\r\n<br>\r\nUpdate 30/08/2020: Halved tempo, notes and commands to get rid of the slowdown; fixed some volume & ADSR inaccuracies and panning bass intro redone.",
+  "latest_version": "smwc-24450-1601521682",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24450,
+      "title": "Rudra no Hihou - The Spirit Chaser",
+      "version": "smwc-24450-1601521682",
+      "upstream_time": 1601521682,
+      "download_url": "https://dl.smwcentral.net/24450/Rudra%20no%20Hihou%20-%20The%20Spirit%20Chaser.zip",
+      "filename": "Rudra no Hihou - The Spirit Chaser.zip",
+      "size": 74637,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

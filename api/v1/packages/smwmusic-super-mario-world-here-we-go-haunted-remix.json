@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-world-here-we-go-haunted-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11596,
+  "title": "Super Mario World - Here We Go (Haunted Remix)",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "ghost house"
+  ],
+  "description": "Remix ported for the 2015 VLDC collab hack. It can fit ghost houses, dark castles and calm, eerie zones in general.<br>\r\n<br>\r\nOriginal composition by Zagronia (from VGMusic)",
+  "latest_version": "smwc-11596-1439165590",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11596,
+      "title": "Super Mario World - Here We Go (Haunted Remix)",
+      "version": "smwc-11596-1439165590",
+      "upstream_time": 1439165590,
+      "download_url": "https://dl.smwcentral.net/11596/SMWGhostHouseU.zip",
+      "filename": "SMWGhostHouseU.zip",
+      "size": 34884,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

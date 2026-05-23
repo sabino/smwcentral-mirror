@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tyrian-a-field-for-mag-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17113,
+  "title": "Tyrian - A Field For Mag (Arrangement)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "fire",
+    "space",
+    "tense"
+  ],
+  "description": "posting a Tyrian port in place of worldpeace because why not<br>\r\n<br>\r\nThis is A Field For Mag from the PC only game Tyrian, one of the very few non-Japanese OPL/AdLib games which used it's chip in the best possible way, same with the MIDI version of that same game, but it's not nearly as impressive as what it achieved with the OPL2 chip, sorry lmao.<br>\r\n<br>\r\nAnyway, this is a very final-like song, so the only best way to use this is for a final level or just using it for the final stages of your hack. Tho it could also work for a early level or even a cutscene probably; maybe a space level too, again, as long as it's final enough or it just fits your hack's atmosphere enough, this could be a very good port for that purpose lol<br>\r\n<br>\r\nUpdate: Fixed the SFX problem, and added a bit of new instrumentation to the port.",
+  "latest_version": "smwc-17113-1518695310",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17113,
+      "title": "Tyrian - A Field For Mag (Arrangement)",
+      "version": "smwc-17113-1518695310",
+      "upstream_time": 1518695310,
+      "download_url": "https://dl.smwcentral.net/17113/Tyrian%20-%20A%20Field%20For%20Mag.zip",
+      "filename": "Tyrian - A Field For Mag.zip",
+      "size": 77935,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

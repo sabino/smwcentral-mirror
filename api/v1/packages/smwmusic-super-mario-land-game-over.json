@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-land-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34365,
+  "title": "Super Mario Land - Game Over",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "misc",
+    "retro"
+  ],
+  "description": "Game Over from Super Mario Land.",
+  "latest_version": "smwc-34365-1692935712",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34365,
+      "title": "Super Mario Land - Game Over",
+      "version": "smwc-34365-1692935712",
+      "upstream_time": 1692935712,
+      "download_url": "https://dl.smwcentral.net/34365/Super%20Mario%20Land%20-%20Game%20Over.zip",
+      "filename": "Super Mario Land - Game Over.zip",
+      "size": 32367,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

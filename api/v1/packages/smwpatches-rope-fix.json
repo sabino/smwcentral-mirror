@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-rope-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 8784,
+  "title": "Rope Fix",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "mario",
+    "physics",
+    "rope",
+    "sa-1"
+  ],
+  "description": "This patch fixes the bug with being able to climb on nothing if you're pushed off a line guided rope. Also, fixes the bug where the ropes will keep carrying you for a while if you get onto the ground while climbing on them.<br>\r\n<br>\r\nThere are options to enable or disable the fixes at will. This patch previously lacked SA-1 support and was two separate patches. The original version <a href=\"https://files.telinc1.com/smwc/patches/ropefix.zip\" rel=\"nofollow\">is backed up here</a>.",
+  "latest_version": "smwc-8784-1406917235",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 8784,
+      "title": "Rope Fix",
+      "version": "smwc-8784-1406917235",
+      "upstream_time": 1406917235,
+      "download_url": "https://dl.smwcentral.net/8784/Rope%20Fix.zip",
+      "filename": "Rope Fix.zip",
+      "size": 482,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

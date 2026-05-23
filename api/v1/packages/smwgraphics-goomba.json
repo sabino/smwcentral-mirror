@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-goomba",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 8957,
+  "title": "Goomba",
+  "authors": [
+    "DarkBones"
+  ],
+  "tags": [
+    "goomba",
+    "needs remoderation"
+  ],
+  "description": "This is the first GFX file that I've made thats even remotely good. I figured I would submit it incase someone likes the style. This ZIP file contains two ExGFX files. One is the actual goomba GFX. This is all that most users will need. However, if you have squishable goombas, you will need to preform the remap hex edit, and use the GFX file marked optional. I've already placed the squished frame over the unused 5-up. Note that the custom palette included with this file is incompatible with yellow koopas. If you need yellow koopas and goombas in the same level, (or you're using the special world color change), then either recolor the GFX or remap the palette of one of the two sprites. I suggest 0xF, as its rarely used except for custom sprites.",
+  "latest_version": "smwc-8957-1409066519",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 8957,
+      "title": "Goomba",
+      "version": "smwc-8957-1409066519",
+      "upstream_time": 1409066519,
+      "download_url": "https://dl.smwcentral.net/8957/DarkBonesGoomba.zip",
+      "filename": "DarkBonesGoomba.zip",
+      "size": 4977,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

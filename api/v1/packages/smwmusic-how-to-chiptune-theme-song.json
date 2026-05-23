@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-how-to-chiptune-theme-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39406,
+  "title": "How to Chiptune - Theme Song",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "menu",
+    "town"
+  ],
+  "description": "Introductory demo song in a series of chiptune tutorials, useful for guidance and explanatory scenes.",
+  "latest_version": "smwc-39406-1741198388",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39406,
+      "title": "How to Chiptune - Theme Song",
+      "version": "smwc-39406-1741198388",
+      "upstream_time": 1741198388,
+      "download_url": "https://dl.smwcentral.net/39406/How%20to%20Chiptune%20-%20Theme%20Song.zip",
+      "filename": "How to Chiptune - Theme Song.zip",
+      "size": 19441,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

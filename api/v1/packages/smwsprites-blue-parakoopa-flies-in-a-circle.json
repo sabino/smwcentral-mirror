@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-blue-parakoopa-flies-in-a-circle",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38536,
+  "title": "Blue Parakoopa, Flies in a Circle",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A complete remake of my old blue Parakoopa, itself inspired by Alcaro's <a href=\"http://smwc.me/823517\">removed sprite</a>.<br>\r\nThis is a parakoopa which flies in a circle pattern. The extra bit controls the rotation. The first extension byte controls the radius of the parakoopa; values between 01 and 7F are recommended.",
+  "latest_version": "smwc-38536-1740750500",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38536,
+      "title": "Blue Parakoopa, Flies in a Circle",
+      "version": "smwc-38536-1740750500",
+      "upstream_time": 1740750500,
+      "download_url": "https://dl.smwcentral.net/38536/Blue%20Parakoopa%20Latest.zip",
+      "filename": "Blue Parakoopa Latest.zip",
+      "size": 3547,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-zero",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10410,
+  "title": "Zero V2 - Naked to the Errant Breeze",
+  "authors": [
+    "Exor"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "This song was originally written by Zero V2 and was later used in a flash game known as Story of the Blanks in the Everfree Forest. I recreated the song by ear and ported it. You don't need to give me any credit, but consider giving credit to Zero V2.",
+  "latest_version": "smwc-10410-1419885201",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10410,
+      "title": "Zero V2 - Naked to the Errant Breeze",
+      "version": "smwc-10410-1419885201",
+      "upstream_time": 1419885201,
+      "download_url": "https://dl.smwcentral.net/10410/Naked%20to%20the%20Errant%20Breeze.zip",
+      "filename": "Naked to the Errant Breeze.zip",
+      "size": 74731,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

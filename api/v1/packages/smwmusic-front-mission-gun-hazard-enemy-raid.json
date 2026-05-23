@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-front-mission-gun-hazard-enemy-raid",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42020,
+  "title": "Front Mission: Gun Hazard - Enemy Raid",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "cutscene",
+    "tense"
+  ],
+  "description": "A tense song from Front Mission: Gun Hazard. Useful for a boss or a chase.<br>\r\n<br>\r\nNote: To any pre-1.0.9 AMK users, please set the pre109amk #define to 1 for compatibility for versions before 1.0.9 (Insert size will be 0x0222 bytes)<br>\r\n<br>\r\nOriginally made for <a href=\"https://www.smwcentral.net/?p=viewthread&t=128061\">Summer 2024 C3.</a>",
+  "latest_version": "smwc-42020-1776428509",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42020,
+      "title": "Front Mission: Gun Hazard - Enemy Raid",
+      "version": "smwc-42020-1776428509",
+      "upstream_time": 1776428509,
+      "download_url": "https://dl.smwcentral.net/42020/Enemy%20Raid.zip",
+      "filename": "Enemy Raid.zip",
+      "size": 69191,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

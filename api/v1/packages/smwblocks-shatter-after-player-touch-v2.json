@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-shatter-after-player-touch-v2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41235,
+  "title": "Shatter After Player Touch v2.0",
+  "authors": [
+    "Arinsu",
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "map16",
+    "sa-1",
+    "shatter",
+    "sprite needed"
+  ],
+  "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+  "latest_version": "smwc-41235-1765916599",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41235,
+      "title": "Shatter After Player Touch v2.0",
+      "version": "smwc-41235-1765916599",
+      "upstream_time": 1765916599,
+      "download_url": "https://dl.smwcentral.net/41235/Aftertouch%20Shatter.zip",
+      "filename": "Aftertouch Shatter.zip",
+      "size": 1922,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

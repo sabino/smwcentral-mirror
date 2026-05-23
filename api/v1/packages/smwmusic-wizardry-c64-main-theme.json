@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wizardry-c64-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16447,
+  "title": "Wizardry (C64) - Main Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "calm",
+    "title",
+    "town"
+  ],
+  "description": "The main theme from Wizardy for the Commodore 64. Would fit to a title screen or a town level.",
+  "latest_version": "smwc-16447-1508085525",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16447,
+      "title": "Wizardry (C64) - Main Theme",
+      "version": "smwc-16447-1508085525",
+      "upstream_time": 1508085525,
+      "download_url": "https://dl.smwcentral.net/16447/Wizardry%20%28C64%29%20-%20Main%20Theme.zip",
+      "filename": "Wizardry (C64) - Main Theme.zip",
+      "size": 32964,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lagrange-point-find-stolte",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25354,
+  "title": "Lagrange Point - Find Stolte",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "retro",
+    "sad",
+    "town"
+  ],
+  "description": "Also known as Searching for Shutolte.<br>\r\nA slight sad song played after tragic events.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25354-1607678051",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25354,
+      "title": "Lagrange Point - Find Stolte",
+      "version": "smwc-25354-1607678051",
+      "upstream_time": 1607678051,
+      "download_url": "https://dl.smwcentral.net/25354/Lagrange%20Point%20-%20Find%20Stolte.zip",
+      "filename": "Lagrange Point - Find Stolte.zip",
+      "size": 126962,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

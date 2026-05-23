@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-sensitive-bob-ombs",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29838,
+  "title": "Sensitive Bob-ombs",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "bob-omb",
+    "explode",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM code makes Bob-ombs more sensitive to their environment, as all sentient explosives should be. You can allow Bob-ombs to be detonated by dying (either via sprite contact or lava), by being thrown at a wall, by walking into other sprites, or any combination of the three. Features are enabled via the .asm file.<br>\r\n<br>\r\nTo be inserted as level code or as GM14 code.",
+  "latest_version": "smwc-29838-1658303205",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29838,
+      "title": "Sensitive Bob-ombs",
+      "version": "smwc-29838-1658303205",
+      "upstream_time": 1658303205,
+      "download_url": "https://dl.smwcentral.net/29838/SensitiveBobomb.zip",
+      "filename": "SensitiveBobomb.zip",
+      "size": 1193,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

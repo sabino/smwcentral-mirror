@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-mario-land-chai-kingdom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34357,
+  "title": "Super Mario Land - Chai Kingdom",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "final",
+    "retro",
+    "temple"
+  ],
+  "description": "Chai Kingdom from Super Mario Land.",
+  "latest_version": "smwc-34357-1692935930",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34357,
+      "title": "Super Mario Land - Chai Kingdom",
+      "version": "smwc-34357-1692935930",
+      "upstream_time": 1692935930,
+      "download_url": "https://dl.smwcentral.net/34357/Super%20Mario%20Land%20-%20Chai%20Kingdom.zip",
+      "filename": "Super Mario Land - Chai Kingdom.zip",
+      "size": 41565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7147,
+      "title": "Super Mario Land - Chai Kingdom",
+      "version": "smwc-7147-1312819265",
+      "upstream_time": 1312819265,
+      "download_url": "https://dl.smwcentral.net/7147/Super%20Mario%20Land%20-%20Chai%20Kingdom.zip",
+      "filename": "Super Mario Land - Chai Kingdom.zip",
+      "size": 67645,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

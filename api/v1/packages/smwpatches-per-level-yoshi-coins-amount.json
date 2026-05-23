@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-per-level-yoshi-coins-amount",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 26422,
+  "title": "Per Level Yoshi Coins Amount",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "counter",
+    "dragon coin",
+    "lorom",
+    "sa-1",
+    "yoshi coin"
+  ],
+  "description": "This patch allows you to set how many Yoshi Coins there are for each level, which when reached will give the player a 1UP, hide the coins from the status bar and set the \"collected all Yoshi Coins\" flag. Useful if you don't want to have 5 coins in each level, but still make them work as expected (for example, make them not respawn when getting all of them, or making stuff like overworld counters work too). You can also have more than 5 if you want, but note that the status bar counter doesn't work properly in this case (max 4 coins are displayed at once). Also it's compatible with the \"Individual Dragon Coins Save\" patch.<br>\r\n<br>\r\nNote: if you're using the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23059\">No Consecutive Score Awards</a> patch, remove this part from this patch:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">org $00F37E\r\n    autoclean jsl GivePoints</pre></div>",
+  "latest_version": "smwc-26422-1622181178",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 26422,
+      "title": "Per Level Yoshi Coins Amount",
+      "version": "smwc-26422-1622181178",
+      "upstream_time": 1622181178,
+      "download_url": "https://dl.smwcentral.net/26422/PerLevelYoshiCoins.zip",
+      "filename": "PerLevelYoshiCoins.zip",
+      "size": 894,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

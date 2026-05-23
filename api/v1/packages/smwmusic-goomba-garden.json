@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-goomba-garden",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21291,
+  "title": "Goomba Garden",
+  "authors": [
+    "Brozilla"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "sky"
+  ],
+  "description": "An old, slow, yet peaceful song that might be fit for a Yoshi house or an Overworld map theme.",
+  "latest_version": "smwc-21291-1571876740",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21291,
+      "title": "Goomba Garden",
+      "version": "smwc-21291-1571876740",
+      "upstream_time": 1571876740,
+      "download_url": "https://dl.smwcentral.net/21291/Goomba_Garden.zip",
+      "filename": "Goomba_Garden.zip",
+      "size": 68328,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

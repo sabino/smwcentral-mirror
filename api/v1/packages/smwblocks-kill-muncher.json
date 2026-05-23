@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-kill-muncher",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 24055,
+  "title": "Kill Muncher",
+  "authors": [
+    "JackTheSpades"
+  ],
+  "tags": [
+    "kill",
+    "lorom",
+    "muncher",
+    "sa-1",
+    "star",
+    "yoshi"
+  ],
+  "description": "Kills the player instantly regardless of power-up unless he has a star or is riding on Yoshi. So, like a normal muncher but with instant kill.<br>\r\n<br>\r\nUPDATE (Major Flare): Made SA-1 hybrid and added images.",
+  "latest_version": "smwc-24055-1596015558",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 24055,
+      "title": "Kill Muncher",
+      "version": "smwc-24055-1596015558",
+      "upstream_time": 1596015558,
+      "download_url": "https://dl.smwcentral.net/24055/Kill%20Muncher.zip",
+      "filename": "Kill Muncher.zip",
+      "size": 535,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

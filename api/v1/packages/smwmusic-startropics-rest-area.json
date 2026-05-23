@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-startropics-rest-area",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7791,
+  "title": "StarTropics - Rest Area",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "cutscene",
+    "ghost house",
+    "night",
+    "overworld",
+    "p-switch",
+    "space",
+    "water"
+  ],
+  "description": "The ominous tune that plays in mysterious areas. Could work great for eerie areas or overworlds.",
+  "latest_version": "smwc-7791-1325317795",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7791,
+      "title": "StarTropics - Rest Area",
+      "version": "smwc-7791-1325317795",
+      "upstream_time": 1325317795,
+      "download_url": "https://dl.smwcentral.net/7791/StartropicsRestArea.zip",
+      "filename": "StartropicsRestArea.zip",
+      "size": 70557,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

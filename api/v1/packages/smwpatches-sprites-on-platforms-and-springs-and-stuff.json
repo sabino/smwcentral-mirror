@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-sprites-on-platforms-and-springs-and-stuff",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 16002,
+  "title": "Sprites on Platforms and Springs and Stuff",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation",
+    "platform",
+    "sa-1",
+    "solid",
+    "spring",
+    "springs"
+  ],
+  "description": "You know how enemies just fall through platforms and springs instead of actually walking on them?<br>\r\nThis patch 'fixes' that, letting every sprite experience the joys of springboards and spinning in circles on a chain platform, just like they do in Super Mario Maker and probably should have done all along!<br>\r\nAlso, all sprites now treat block-type platforms -- like Message Boxes and Castle Blocks -- just like any other wall, meaning Chucks will jump over them and other sprites won't just walk through them, kicked/thrown shells, keys etc. will even activate Message Boxes, Light Switches and knock Hammer Bros. off their rides.<br>\r\n<br>\r\n<br>\r\nDrawback of the whole ordeal is that platform sprites are now quite heavy on the processing, meaning the game can and likely will lag with many platforms of any kind loaded at once.<br>\r\nHowever, thanks to Vitor Vilela, this patch is fully compatible with the SA-1 Pack, which I highly recommend using with this, as it completely mitigates any lag even with a screen plastered full of platforms!<br>\r\n<br>\r\n<br>\r\nIncludes a few options to turn off solidness for Keys, P-Switches and Springs, as those could easily bust your already designed puzzles, which is no fun for anyone.<br>\r\n<br>\r\nThe patch should work just fine for custom sprites, as long as they use the vanilla clipping system, which the majority of custom sprites do!<br>\r\n<br>\r\n<br>\r\n<br>\r\nPM me, <a href=\"http://www.smwcentral.net/?p=profile&id=6878\">leod</a>, for any bugs you find using this patch, I'll do my best to fix them as soon as possible.<br>\r\n<br>\r\nIf you're coding your own stuff and want to make a platform, refer to the JSLs asar outputs for you; although you won't need to do that if you use SMW's built-in 'invisible solid block' routine, that is hijacked and runs the new code by itself.<br>\r\n<br>\r\n<br>\r\nUpdate: Fixed an SA-1 oversight and a problem with carriable sprites while sprites were locked ($9D is set), thanks to GreenHammerBro for finding that.<br>\r\nUpdate 2: Added an option that tries to fix sprites looking like they sink into platforms, might not be perfect but beats the previous look by far.<br>\r\nUpdate 3: Fixed the blinking sprites falling from the item box getting stuck on platforms, potentially causing a softlock with the wall springs.<br>\r\nUpdate 4: Fixed Mega Mole bugs (didn't use springs properly and didn't properly carry sprites if it was on a sprite itself), also made springs not play the boing sound when off-screen, due to constant noise if there was an off-screen processing sprite on a springboard.<br>\r\nUpdate 5: Fixed Flying ? Blocks and Dolphin's interactions with Mario.<br>\r\nUpdate 6: Fixed Dino Rhinos falling through all floor.<br>\r\n<br>\r\nUpdate 7: Included an optional fix for the bug where Shell-Less Koopas fall even while $9D is set, such as during powerup/hurt animations, or when scrolling the screen with R/L.<br>\r\nIf your hack makes use of this glitch, you can disable it easily (this is mostly for puzzle/kaizo hackers).<br>\r\n<br>\r\nUpdate 8 (by Vitor Vilela): Fixed custom platform sprites displaying unexpected behavior due to tweaker table corruption. In practical terms, it fixes the bug where some platforms hurt the player or do not let the player ride them properly.",
+  "latest_version": "smwc-16002-1506808545",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 16002,
+      "title": "Sprites on Platforms and Springs and Stuff",
+      "version": "smwc-16002-1506808545",
+      "upstream_time": 1506808545,
+      "download_url": "https://dl.smwcentral.net/16002/betterplatforms.zip",
+      "filename": "betterplatforms.zip",
+      "size": 11216,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

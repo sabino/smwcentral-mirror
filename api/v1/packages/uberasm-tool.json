@@ -1,0 +1,46 @@
+{
+  "name": "uberasm-tool",
+  "aliases": [
+    "uberasm-tool"
+  ],
+  "section": "tools",
+  "upstream_id": 39036,
+  "title": "UberASM Tool 2.1",
+  "authors": [
+    "Fernap",
+    "Vitor Vilela"
+  ],
+  "tags": [
+    "conditional",
+    "game mode",
+    "global",
+    "inserter",
+    "level",
+    "level asm",
+    "library",
+    "map16",
+    "nmi",
+    "overworld",
+    "sa-1",
+    "sprites",
+    "status bar",
+    "v-blank"
+  ],
+  "description": "This tool lets you insert level, overworld, game mode, status bar, sprite and global ASM without using a patch. See the read me for more details.<br>\r\n<br>\r\nVersion 2.1:<br>\r\n- Updated to asar 1.91<br>\r\n- Some new command line options are available; see the readme for details.<br>\r\n- Added support for a variable number of extra bytes<br>\r\n- Resources added to level/gamemode/overworld * can now be skipped on specific levels by prefixing them with a - in the list file.<br>\r\n- Plus more, see the changelog for a full list.<br>\r\n<br>\r\nVersion 2.0 update:<br>\r\n- Now supports multiple resources per level/overworld map/game mode<br>\r\n- A special level \"*\" is available to make resources run on all levels<br>\r\n- Adds a feature to let you specify extra bytes for resources<br>\r\n- A new \"end:\" label allows code to run at the end of a frame<br>\r\n- Shared routine support<br>\r\n- And more; see the readme and changelog for a full list<br>\r\n<br>\r\nVersion 1.6 changes:<br>\r\n- Reworded list.txt and replaced the INC $19 example code with one that does nothing, in order to prevent confusion for beginners. No changes are made to the tool itself.<br>\r\n(1.6 is an \"unofficial\" update submitted by wye - it adds some changes from the Github repo, but not all, and it doesn't correspond to any Github release. The next version will probably be an official one, based entirely on the repo.)<br>\r\n<br>\r\nVersion 1.5 changes:<br>\r\n - Fixed an in-game crash when using different NMI code combinations<br>\r\n - Refactored some core parts of the program, making it easier to<br>\r\nadd improvements.<br>\r\n - Improved the way how the LM restore point information works in a<br>\r\nway that UberASM Tool will no longer concat its program information<br>\r\nmore than once.<br>\r\n - Fixed incorrect extra byte 4 define used for PIXI sprites.<br>\r\n - Added BW-RAM definition which is used on SA-1 ROMs only.<br>\r\n - Fixed an application crash when accidentally including an empty<br>\r\nfile.<br>\r\n",
+  "latest_version": "smwc-39036-1743185200",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 39036,
+      "title": "UberASM Tool 2.1",
+      "version": "smwc-39036-1743185200",
+      "upstream_time": 1743185200,
+      "download_url": "https://dl.smwcentral.net/39036/UberASMTool21.zip",
+      "filename": "UberASMTool21.zip",
+      "size": 5285149,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

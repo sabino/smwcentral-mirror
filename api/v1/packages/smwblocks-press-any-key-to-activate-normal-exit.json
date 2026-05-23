@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-press-any-key-to-activate-normal-exit",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4104,
+  "title": "Press Any Key To Activate Normal Exit",
+  "authors": [
+    "Teo17"
+  ],
+  "tags": [
+    "button",
+    "exit",
+    "lorom"
+  ],
+  "description": "Press Any Key To Activate Normal Exit (PAKTANE) is a block which will activate normal exit of the level you are in if you press any key when inside this block. Made on request by REQUESTMAN.",
+  "latest_version": "smwc-4104-1409023613",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4104,
+      "title": "Press Any Key To Activate Normal Exit",
+      "version": "smwc-4104-1409023613",
+      "upstream_time": 1409023613,
+      "download_url": "https://dl.smwcentral.net/4104/PAKTANE.zip",
+      "filename": "PAKTANE.zip",
+      "size": 1400,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

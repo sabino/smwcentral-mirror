@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-no-consecutive-score-awards",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40262,
+  "title": "No Consecutive Score Awards",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This patch removes the consecutive score award functionality of dragon coins, shell kills, killing enemies with a star and stomping on enemies. You can easily set which of these you want in the .asm file, as well as the score value to always give in each case.<br>\r\n<br>\r\nAnas: Fixed a major inconsistency where despite '!ShellKill' being on, the normal consecutive scoring would sometimes pop up while killing the first few sprites. This is demonstrated in the second GIF (here '!ScoreShellKill' was set to $00). Also added some more documentation in the patch",
+  "latest_version": "smwc-40262-1754860722",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40262,
+      "title": "No Consecutive Score Awards",
+      "version": "smwc-40262-1754860722",
+      "upstream_time": 1754860722,
+      "download_url": "https://dl.smwcentral.net/40262/No_Consecutive_Score.zip",
+      "filename": "No_Consecutive_Score.zip",
+      "size": 1815,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

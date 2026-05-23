@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-gaia",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33355,
+  "title": "Megami Tensei Gaiden: Last Bible II - Gaia",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "final",
+    "retro",
+    "spooky",
+    "tense"
+  ],
+  "description": "Gaia from Last Bible II.",
+  "latest_version": "smwc-33355-1680581200",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33355,
+      "title": "Megami Tensei Gaiden: Last Bible II - Gaia",
+      "version": "smwc-33355-1680581200",
+      "upstream_time": 1680581200,
+      "download_url": "https://dl.smwcentral.net/33355/Last%20Bible%20II%20-%20Gaia.zip",
+      "filename": "Last Bible II - Gaia.zip",
+      "size": 69821,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

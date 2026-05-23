@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mighty-morphin-power-rangers-go-go-power-rangers",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7133,
+  "title": "Mighty Morphin' Power Rangers - Go, Go, Power Rangers!",
+  "authors": [
+    "Blue Warrior"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "The upbeat Rock Power Rangers theme, could fit a boss.",
+  "latest_version": "smwc-7133-1314319989",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7133,
+      "title": "Mighty Morphin' Power Rangers - Go, Go, Power Rangers!",
+      "version": "smwc-7133-1314319989",
+      "upstream_time": 1314319989,
+      "download_url": "https://dl.smwcentral.net/7133/Go%2C%20Go%2C%20Power%20Rangers%21.zip",
+      "filename": "Go%2C Go%2C Power Rangers%21.zip",
+      "size": 69347,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

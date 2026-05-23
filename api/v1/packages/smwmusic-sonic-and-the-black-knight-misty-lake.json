@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-sonic-and-the-black-knight-misty-lake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26103,
+  "title": "Sonic and the Black Knight - Misty Lake",
+  "authors": [
+    "BoneFish"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "mountain",
+    "ruins",
+    "sky",
+    "tense"
+  ],
+  "description": "The memorable part of an otherwise forgettable game I played as a child, I think this is the song that plays in the level where you fight a dragon. <br>\r\nI transcribed this by ear so please let me know if there are any obvious musical mistakes. ",
+  "latest_version": "smwc-26103-1615252979",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26103,
+      "title": "Sonic and the Black Knight - Misty Lake",
+      "version": "smwc-26103-1615252979",
+      "upstream_time": 1615252979,
+      "download_url": "https://dl.smwcentral.net/26103/Misty%20Lake.zip",
+      "filename": "Misty Lake.zip",
+      "size": 64409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-bouncing-cannonball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36855,
+  "title": "Bouncing Cannonball",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Cannonballs are heavy metal spheres that are normally launched from cannons at high speeds, but this kind is so anxious to be fired out of a cannon that it jumps around nervously until its turn comes.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36855-1727349392",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36855,
+      "title": "Bouncing Cannonball",
+      "version": "smwc-36855-1727349392",
+      "upstream_time": 1727349392,
+      "download_url": "https://dl.smwcentral.net/36855/Bouncing%20Cannonball.zip",
+      "filename": "Bouncing Cannonball.zip",
+      "size": 3094,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

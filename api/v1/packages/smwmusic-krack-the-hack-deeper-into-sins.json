@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-krack-the-hack-deeper-into-sins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26602,
+  "title": "Krack The Hack - Deeper Into Sins",
+  "authors": [
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "ambient",
+    "boss",
+    "calm",
+    "cave",
+    "cutscene",
+    "dark",
+    "environmental",
+    "final",
+    "ice",
+    "industrial",
+    "mysterious",
+    "night",
+    "sad",
+    "sky",
+    "space",
+    "water"
+  ],
+  "description": "The second song from the bonus final level from Krack The Hack, originally an IDOL 8 entry that barely made it to the next round (the song was known as \"Cyberspace Sanctuary\" at the time). Made for high-tech space levels. There are a few differences between this version, the IDOL 8 version, and the version in Krack The Hack itself as a result of optimizing the port for a public release.<br>\r\n<br>\r\nA \"no staccato\" define option is present for those who wants to save space. With staccato set to 1, it'll decrease the size to 0x0576 but will sound slightly worse (but accurate to how it was heard in Krack The Hack).<br>\r\n<br>\r\nSamples from that IDOL 8 round was provided by Skewer.",
+  "latest_version": "smwc-26602-1619142998",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26602,
+      "title": "Krack The Hack - Deeper Into Sins",
+      "version": "smwc-26602-1619142998",
+      "upstream_time": 1619142998,
+      "download_url": "https://dl.smwcentral.net/26602/%5BS%5D%20Krack%20The%20Hack%20-%20Deeper%20Into%20Sins.zip",
+      "filename": "%5BS%5D Krack The Hack - Deeper Into Sins.zip",
+      "size": 122071,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

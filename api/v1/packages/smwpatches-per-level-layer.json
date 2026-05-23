@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-per-level-layer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19034,
+  "title": "Per-Level Layer 3 Tides Act-like Settings",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "acts like",
+    "layer 3",
+    "lorom",
+    "sa-1",
+    "tide"
+  ],
+  "description": "This patch will allow you to configure custom acts like settings for the layer 3 tides, on a per-level basis. Check the ASM file for more info.",
+  "latest_version": "smwc-19034-1551018024",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19034,
+      "title": "Per-Level Layer 3 Tides Act-like Settings",
+      "version": "smwc-19034-1551018024",
+      "upstream_time": 1551018024,
+      "download_url": "https://dl.smwcentral.net/19034/Per-level%20Layer%203%20Tides%20Act-like%20Settings.zip",
+      "filename": "Per-level Layer 3 Tides Act-like Settings.zip",
+      "size": 718,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

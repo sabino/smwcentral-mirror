@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-x-maverick-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27845,
+  "title": "Mega Man X - Maverick Select",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "overworld",
+    "title",
+    "urban"
+  ],
+  "description": "Song that Maverick Select from Mega Man X. Could fit a dark/city submap<br>\r\n<br>\r\nUPDATE: Instead of @4 I changed to @17 and improved the vibrato to that",
+  "latest_version": "smwc-27845-1630278456",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27845,
+      "title": "Mega Man X - Maverick Select",
+      "version": "smwc-27845-1630278456",
+      "upstream_time": 1630278456,
+      "download_url": "https://dl.smwcentral.net/27845/MMX_-_Stage_Select.zip",
+      "filename": "MMX_-_Stage_Select.zip",
+      "size": 33839,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

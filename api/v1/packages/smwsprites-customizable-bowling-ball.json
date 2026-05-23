@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-customizable-bowling-ball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20892,
+  "title": "Customizable Bowling Ball",
+  "authors": [
+    "anonimzwx"
+  ],
+  "tags": [
+    "bowling ball",
+    "bowser",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a customizable version of Bowser's Bowling Ball<br>\r\n<br>\r\nYou can use Extra Bytes and Extra bit to change Parameters:<br>\r\n<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\r\nExtra Bit = 0 Rotation direction to Left and 1 direction to Right\r\nExtra Byte 1 = Rotation Speed (Must be between 02 and 87)\r\nExtra Byte 2 = Initial X Speed \r\nExtra Byte 3 = 00 It is normal version, other value it will explode after some time\r\n</pre></div><br>\r\n<br>\r\nAlso you can change some constants on the top of the .asm file:<br>\r\n<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\r\n;Constant\r\n!MinYSpeedBounce = #$20 ;Minimum Sprite Y Speed to Bounce (Must be between #$00 and #$7F)\t\r\n!MaxTime = #$FF \t\t; Time to Explode FF = 4 seconds\r\n!FlashMinTime = #$30\t;Minimum Time to start to flash before explode\r\n</pre></div><br>\r\n<br>\r\nIt is part of Sprite Creation Workshop LiveStream's sprites you can check the thread here:<br>\r\n<br>\r\n<b><a href=\"https://www.smwcentral.net/?p=viewthread&t=98571\">Thread about Sprite Workshop Creation</a></b><br>\r\n",
+  "latest_version": "smwc-20892-1565477957",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20892,
+      "title": "Customizable Bowling Ball",
+      "version": "smwc-20892-1565477957",
+      "upstream_time": 1565477957,
+      "download_url": "https://dl.smwcentral.net/20892/Customizable%20Bowling%20Ball.zip",
+      "filename": "Customizable Bowling Ball.zip",
+      "size": 12468,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

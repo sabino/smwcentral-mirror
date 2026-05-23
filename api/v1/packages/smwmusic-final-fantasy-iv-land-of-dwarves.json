@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-final-fantasy-iv-land-of-dwarves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31000,
+  "title": "Final Fantasy IV - Land of Dwarves",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "dark",
+    "mountain",
+    "overworld",
+    "sky"
+  ],
+  "description": "Requested by Brutapode89.",
+  "latest_version": "smwc-31000-1654059419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31000,
+      "title": "Final Fantasy IV - Land of Dwarves",
+      "version": "smwc-31000-1654059419",
+      "upstream_time": 1654059419,
+      "download_url": "https://dl.smwcentral.net/31000/34%20Land%20of%20Dwarves.zip",
+      "filename": "34 Land of Dwarves.zip",
+      "size": 50020,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23533,
+      "title": "Final Fantasy IV - Land of Dwarves",
+      "version": "smwc-23533-1594092784",
+      "upstream_time": 1594092784,
+      "download_url": "https://dl.smwcentral.net/23533/land%20of%20dwarves.zip",
+      "filename": "land of dwarves.zip",
+      "size": 32164,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8436,
+      "title": "Final Fantasy IV - Land of Dwarves",
+      "version": "smwc-8436-1372022770",
+      "upstream_time": 1372022770,
+      "download_url": "https://dl.smwcentral.net/8436/LandOfDwarves.zip",
+      "filename": "LandOfDwarves.zip",
+      "size": 63575,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

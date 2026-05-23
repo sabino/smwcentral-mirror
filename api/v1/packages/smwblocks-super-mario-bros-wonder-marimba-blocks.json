@@ -1,0 +1,39 @@
+{
+  "name": "smwblocks-super-mario-bros-wonder-marimba-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41393,
+  "title": "Super Mario Bros. Wonder - Marimba Blocks",
+  "authors": [
+    "Nyako"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "note block",
+    "physics",
+    "player",
+    "sa-1",
+    "solid",
+    "sprite needed"
+  ],
+  "description": "Those silly little noteblock variants from Super Mario Bros. Wonder! You can walk or run on them, and when you jump, it bounces you up!<br>\r\n<br>\r\nThe block has a few configuration options you'll need to set in the block. Please read the README to learn what to set!<br>\r\n<br>\r\nThe sprite also has configuration options for the palettes it uses, the sprite tile, and how high it launches the player.<br>\r\n<br>\r\nFurther usage instructions are in the README.<br>\r\n<br>\r\n<b>NOTE:</b> Dismounting Yoshi on top of one of these blocks will still bounce you high.",
+  "latest_version": "smwc-41393-1768070809",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41393,
+      "title": "Super Mario Bros. Wonder - Marimba Blocks",
+      "version": "smwc-41393-1768070809",
+      "upstream_time": 1768070809,
+      "download_url": "https://dl.smwcentral.net/41393/Marimba%20Blocks.zip",
+      "filename": "Marimba Blocks.zip",
+      "size": 8685,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

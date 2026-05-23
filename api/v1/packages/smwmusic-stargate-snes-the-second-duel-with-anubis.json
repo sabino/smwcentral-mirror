@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-stargate-snes-the-second-duel-with-anubis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31840,
+  "title": "Stargate (SNES) - The Second Duel With Anubis",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "industrial",
+    "space"
+  ],
+  "description": "The track is played during the final boss fight.",
+  "latest_version": "smwc-31840-1672448793",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31840,
+      "title": "Stargate (SNES) - The Second Duel With Anubis",
+      "version": "smwc-31840-1672448793",
+      "upstream_time": 1672448793,
+      "download_url": "https://dl.smwcentral.net/31840/Anubis.zip",
+      "filename": "Anubis.zip",
+      "size": 70117,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

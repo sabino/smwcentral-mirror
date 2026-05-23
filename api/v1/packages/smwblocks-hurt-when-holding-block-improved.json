@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-hurt-when-holding-block-improved",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4074,
+  "title": "Hurt when holding block Improved",
+  "authors": [
+    "Synyster"
+  ],
+  "tags": [
+    "holding",
+    "hurt mario",
+    "item",
+    "lorom"
+  ],
+  "description": "The improved version of my old block.<br>\r\nRe-submitted and is fixed now.<br>\r\nIt hurts you if you try and pass it while holding an item. Make it invisible for the best results.",
+  "latest_version": "smwc-4074-1427083979",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4074,
+      "title": "Hurt when holding block Improved",
+      "version": "smwc-4074-1427083979",
+      "upstream_time": 1427083979,
+      "download_url": "https://dl.smwcentral.net/4074/HurtWhenHoldingImproved.zip",
+      "filename": "HurtWhenHoldingImproved.zip",
+      "size": 347,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

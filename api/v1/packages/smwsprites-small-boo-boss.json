@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-small-boo-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28525,
+  "title": "Small Boo Boss",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "boo",
+    "boss",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A smaller-scale big boo boss.",
+  "latest_version": "smwc-28525-1644714753",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28525,
+      "title": "Small Boo Boss",
+      "version": "smwc-28525-1644714753",
+      "upstream_time": 1644714753,
+      "download_url": "https://dl.smwcentral.net/28525/SmallBooBoss.zip",
+      "filename": "SmallBooBoss.zip",
+      "size": 6022,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

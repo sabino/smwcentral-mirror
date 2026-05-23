@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-piyopiyoplayer-weak",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27675,
+  "title": "PiyoPiyoPlayer - Weak",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cutscene",
+    "misc",
+    "overworld"
+  ],
+  "description": "A really short song, made by Pixel on his spare time, in a collection of songs from PiyoPiyoPlayer.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○苦手：短い。元ピアノ曲。<br>\r\nRough translation:<br>\r\n• Not good: Short. Former piano song.</div></div>",
+  "latest_version": "smwc-27675-1629079517",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27675,
+      "title": "PiyoPiyoPlayer - Weak",
+      "version": "smwc-27675-1629079517",
+      "upstream_time": 1629079517,
+      "download_url": "https://dl.smwcentral.net/27675/Weakening.zip",
+      "filename": "Weakening.zip",
+      "size": 43975,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

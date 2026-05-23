@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-chromag-rain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37498,
+  "title": "Chromag - Rain",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "night"
+  ],
+  "description": "Awesome chill track by Chromag.<br>\r\nNot compatible with thunder, bonus end, Yoshi, P-Switch and goal clear.",
+  "latest_version": "smwc-37498-1713376421",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37498,
+      "title": "Chromag - Rain",
+      "version": "smwc-37498-1713376421",
+      "upstream_time": 1713376421,
+      "download_url": "https://dl.smwcentral.net/37498/rain%20.zip",
+      "filename": "rain .zip",
+      "size": 105191,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

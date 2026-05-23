@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-trials-of-mana-electric-talk",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11581,
+  "title": "Trials of Mana - Electric Talk",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "temple"
+  ],
+  "description": "(Also known as \"Seiken Densetsu 3\" in Japan)<br>\r\n<br>\r\nThe music used in the dark castle in Seiken densetsu 3. It could fit temples, castles and dark places in general.",
+  "latest_version": "smwc-11581-1437620202",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11581,
+      "title": "Trials of Mana - Electric Talk",
+      "version": "smwc-11581-1437620202",
+      "upstream_time": 1437620202,
+      "download_url": "https://dl.smwcentral.net/11581/Seiken%20densetsu%203%20-%20Electric%20Talk%20%28S%29.zip",
+      "filename": "Seiken densetsu 3 - Electric Talk (S).zip",
+      "size": 75556,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

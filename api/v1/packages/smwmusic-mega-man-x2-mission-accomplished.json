@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x2-mission-accomplished",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23804,
+  "title": "Mega Man X2 - Mission Accomplished!",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "Clear theme from MMX2. There's an option in the txt file to enable or disable the SMW goal whistle (enabled by default). Note that to work as a global song, you need to add @21 to your sample groups (i.e., in \"Addmusic_sample groups.txt\", add a \"!\" after \"default/0F SMW @21.brr\" and \"optimized/0F SMW @21.brr\").",
+  "latest_version": "smwc-23804-1596310515",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23804,
+      "title": "Mega Man X2 - Mission Accomplished!",
+      "version": "smwc-23804-1596310515",
+      "upstream_time": 1596310515,
+      "download_url": "https://dl.smwcentral.net/23804/MMX2%20Fanfare.zip",
+      "filename": "MMX2 Fanfare.zip",
+      "size": 64117,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

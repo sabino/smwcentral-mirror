@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-footprints-in-the-sand",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7447,
+  "title": "Footprints in the Sand",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "desert",
+    "night"
+  ],
+  "description": "A very rhythmic and slightly dark desert theme. Works well for both submaps and puzzle-based levels.",
+  "latest_version": "smwc-7447-1319888765",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7447,
+      "title": "Footprints in the Sand",
+      "version": "smwc-7447-1319888765",
+      "upstream_time": 1319888765,
+      "download_url": "https://dl.smwcentral.net/7447/FootprintsInTheSand.zip",
+      "filename": "FootprintsInTheSand.zip",
+      "size": 72413,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

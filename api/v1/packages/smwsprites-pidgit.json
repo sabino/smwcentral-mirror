@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-pidgit",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35005,
+  "title": "Pidgit",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "carpet",
+    "enemy",
+    "lorom",
+    "pidgit",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "This is the Pidgit from SMB2.<br>\r\nSeveral custom varieties are included:<br>\r\n- Blue: Same behavior as SMB2; moves back and forth a few times before swooping.<br>\r\n      - Spawns yellow Carpet with average speed.<br>\r\n- Green: Moves back and forth in faster intervals and does a wider swoop.<br>\r\n      - Spawns red Carpet with fast speed.<br>\r\n- Yellow: Follows player and swoops down at a fixed speed.<br>\r\n      - Spawns green Carpet with average speed.<br>\r\n- Red: Quickly follows player and swoops down aiming to hit player, and throws fireballs at the lowest point of the swoop.<br>\r\n      - Spawns blue Carpet with fast speed.<br>\r\n<br>\r\nPart of my SMB2 sprite standardization project; a project aiming to perfectly recreate the original enemies while adding new functionality.<br>\r\n<br>\r\n<b>Release History</b>:<br>\r\n- 9/1: V1.0 - Initial Release.",
+  "latest_version": "smwc-35005-1708513838",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35005,
+      "title": "Pidgit",
+      "version": "smwc-35005-1708513838",
+      "upstream_time": 1708513838,
+      "download_url": "https://dl.smwcentral.net/35005/SMB2-Pidgit.zip",
+      "filename": "SMB2-Pidgit.zip",
+      "size": 15741,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

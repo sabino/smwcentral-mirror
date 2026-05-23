@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-bandicoot-road-to-nowhere-the-high-road",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36892,
+  "title": "Crash Bandicoot - Road To Nowhere / The High Road",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "ice",
+    "mountain",
+    "sky"
+  ],
+  "description": "The music that plays in the infamously difficult bridge levels from the original Crash Bandicoot<br>\r\n<br>\r\nUpdate (2023/08/29): Updated the samples, now compatible with Yoshi, thunder and bonus end.<br>\r\nUpdate (2024/02/16): Updated the cymbal sample",
+  "latest_version": "smwc-36892-1708798929",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36892,
+      "title": "Crash Bandicoot - Road To Nowhere / The High Road",
+      "version": "smwc-36892-1708798929",
+      "upstream_time": 1708798929,
+      "download_url": "https://dl.smwcentral.net/36892/CB%20-%20Road%20to%20Nowhere.zip",
+      "filename": "CB - Road to Nowhere.zip",
+      "size": 86283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

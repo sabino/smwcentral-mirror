@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-game-corner-pok-gear-radio-lucky-channel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28171,
+  "title": "Pokémon Gold/Silver/Crystal - Game Corner / Pokégear Radio: Lucky Channel",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "A port of the Game Corner and Lucky Channel's theme, in a true techno fashion.<br>\r\n<br>\r\nThis song is among my favorites from the Pokémon games, and since no one ported it yet (to my knowledge), I decided to port it myself!<br>\r\n<br>\r\nThis was also my first port to use pitch modulation. It was really fun to explore and see what kind of stuff I can do with it.<br>\r\n<br>\r\nCan fit in abstract areas and other sorts of futuristic, techno-y places.<br>\r\n<br>\r\nUpdate: Increased accuracy.<br>\r\nUpdate 2: Lowered insert size, and slightly improved readability.",
+  "latest_version": "smwc-28171-1635703477",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28171,
+      "title": "Pokémon Gold/Silver/Crystal - Game Corner / Pokégear Radio: Lucky Channel",
+      "version": "smwc-28171-1635703477",
+      "upstream_time": 1635703477,
+      "download_url": "https://dl.smwcentral.net/28171/Pok%C3%A9mon%20GSC%20-%20Game%20Corner%20%26%20Lucky%20Channel.zip",
+      "filename": "Pok%C3%A9mon GSC - Game Corner %26 Lucky Channel.zip",
+      "size": 32032,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

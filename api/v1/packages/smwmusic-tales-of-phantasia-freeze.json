@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-tales-of-phantasia-freeze",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20808,
+  "title": "Tales of Phantasia - Freeze",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "cave",
+    "forest",
+    "ice"
+  ],
+  "description": "A winter-y song with a slight touch of sadness. Could fit in icy forest/cave levels.",
+  "latest_version": "smwc-20808-1564544535",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20808,
+      "title": "Tales of Phantasia - Freeze",
+      "version": "smwc-20808-1564544535",
+      "upstream_time": 1564544535,
+      "download_url": "https://dl.smwcentral.net/20808/ToPFreeze.zip",
+      "filename": "ToPFreeze.zip",
+      "size": 58410,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

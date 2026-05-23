@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-fade-from-title-screen-to-file-select-menu",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41705,
+  "title": "Fade from Title Screen to File Select Menu",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "effect",
+    "lorom",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "This resource allows you to slowly transition from the title screen to the file select menu.<br>\r\n<br>\r\nThere's two files, one of which is meant to be inserted <i>always</i> in game modes 06 and 07, and another you <i>optionally</i> need to insert in game mode 03.",
+  "latest_version": "smwc-41705-1771684464",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41705,
+      "title": "Fade from Title Screen to File Select Menu",
+      "version": "smwc-41705-1771684464",
+      "upstream_time": 1771684464,
+      "download_url": "https://dl.smwcentral.net/41705/Fade%20From%20Title%20Screen%20to%20File%20Select%20Menu.zip",
+      "filename": "Fade From Title Screen to File Select Menu.zip",
+      "size": 2079,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

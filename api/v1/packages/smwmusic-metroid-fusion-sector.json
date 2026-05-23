@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-metroid-fusion-sector",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19649,
+  "title": "Metroid Fusion - Sector 4 Underwater Area",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "spooky",
+    "tense",
+    "water"
+  ],
+  "description": "Calm and foreboding song of the underwater area of Sector 4 from Metroid Fusion.",
+  "latest_version": "smwc-19649-1555559964",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19649,
+      "title": "Metroid Fusion - Sector 4 Underwater Area",
+      "version": "smwc-19649-1555559964",
+      "upstream_time": 1555559964,
+      "download_url": "https://dl.smwcentral.net/19649/Metroid%20Fusion%20-%20Sector%204%20Underwater%20Area.zip",
+      "filename": "Metroid Fusion - Sector 4 Underwater Area.zip",
+      "size": 82277,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14352,
+      "title": "Metroid Fusion - Sector 4 (AQA) Underwater Area",
+      "version": "smwc-14352-1475257082",
+      "upstream_time": 1475257082,
+      "download_url": "https://dl.smwcentral.net/14352/Metroid%20Fusion%20-%20Sector%204%20%28AQA%29%20Underwater%20Area%20%5BU%5D.zip",
+      "filename": "Metroid Fusion - Sector 4 (AQA) Underwater Area %5BU%5D.zip",
+      "size": 31168,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

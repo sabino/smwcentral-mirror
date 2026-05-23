@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-team-racing-rocky-road-credits",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38503,
+  "title": "Crash Team Racing - Rocky Road / Credits",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "credits",
+    "desert",
+    "mountain"
+  ],
+  "description": "A fast paced rock theme that plays in Rocky Road, a desert themed battle arena, and in the game's credits sequence and 100% ending epilogue.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38503-1726853540",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38503,
+      "title": "Crash Team Racing - Rocky Road / Credits",
+      "version": "smwc-38503-1726853540",
+      "upstream_time": 1726853540,
+      "download_url": "https://dl.smwcentral.net/38503/CTR%20-%20Rocky%20Road%2C%20Credits.zip",
+      "filename": "CTR - Rocky Road%2C Credits.zip",
+      "size": 129012,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

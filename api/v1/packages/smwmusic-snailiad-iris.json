@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-snailiad-iris",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19304,
+  "title": "Snailiad - Iris",
+  "authors": [
+    "NegativeBread"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "sad",
+    "spooky",
+    "temple"
+  ],
+  "description": "The song that plays in the Temple of Iris from the flash game Snailiad.<br>\r\n<br>\r\nThis is my first port, so I thought I'd do something simple and not insanely difficult. Also, I haven't seen a single song from Snailiad ported yet, which is a shame because the music from Snailiad is pretty good.<br>\r\n<br>\r\nUPDATE: 3/9/19 at 5:03 PM - Made the port sound more like the original.<br>\r\nUPDATE 2: 3/10/19 at 9:40 AM - Optimized file and also fixed channel 2 audio",
+  "latest_version": "smwc-19304-1552500009",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19304,
+      "title": "Snailiad - Iris",
+      "version": "smwc-19304-1552500009",
+      "upstream_time": 1552500009,
+      "download_url": "https://dl.smwcentral.net/19304/Snailiad%20-%20Iris%20v1.2.zip",
+      "filename": "Snailiad - Iris v1.2.zip",
+      "size": 30113,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

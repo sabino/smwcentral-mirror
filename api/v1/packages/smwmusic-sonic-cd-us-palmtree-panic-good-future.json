@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sonic-cd-us-palmtree-panic-good-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40881,
+  "title": "Sonic CD (US) - Palmtree Panic (Good Future)",
+  "authors": [
+    "nicecarlos024"
+  ],
+  "tags": [
+    "forest",
+    "jungle",
+    "temple",
+    "upbeat"
+  ],
+  "description": "The american version of Palmtree Panic Good Future.<br>\r\nFits in jungle and forest levels<br>\r\n<br>\r\n<span style=\"color: #ff2b30;\"><span style=\"font-size: 14pt;\">Incompatible with Bonus End and Thunder SFX</span></span>",
+  "latest_version": "smwc-40881-1775008816",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40881,
+      "title": "Sonic CD (US) - Palmtree Panic (Good Future)",
+      "version": "smwc-40881-1775008816",
+      "upstream_time": 1775008816,
+      "download_url": "https://dl.smwcentral.net/40881/Sonic%20CD%20%28US%29%20-%20Palmtree%20Panic%20%28Good%20Future%29.zip",
+      "filename": "Sonic CD (US) - Palmtree Panic (Good Future).zip",
+      "size": 180958,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

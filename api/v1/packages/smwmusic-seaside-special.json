@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-seaside-special",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17275,
+  "title": "Seaside Special",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "overworld",
+    "water"
+  ],
+  "description": "This is a smooth, tropical remix of SMW's Special World map theme.  It's inspired by the World 3 Map theme from SMB3 and the Mii Channel theme.  This would be ideal for a nice beach/water world map.",
+  "latest_version": "smwc-17275-1521799546",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17275,
+      "title": "Seaside Special",
+      "version": "smwc-17275-1521799546",
+      "upstream_time": 1521799546,
+      "download_url": "https://dl.smwcentral.net/17275/Seaside%20Special.zip",
+      "filename": "Seaside Special.zip",
+      "size": 30885,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

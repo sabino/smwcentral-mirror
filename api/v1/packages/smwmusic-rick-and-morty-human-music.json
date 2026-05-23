@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rick-and-morty-human-music",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39109,
+  "title": "Rick and Morty - Human Music",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "calm",
+    "menu",
+    "p-switch"
+  ],
+  "description": "Probably the most complex port in all of SMW hacking history...<br>\r\n<br>\r\nFits best in tutorials and menus maybe?",
+  "latest_version": "smwc-39109-1740608612",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39109,
+      "title": "Rick and Morty - Human Music",
+      "version": "smwc-39109-1740608612",
+      "upstream_time": 1740608612,
+      "download_url": "https://dl.smwcentral.net/39109/HumanMusic.zip",
+      "filename": "HumanMusic.zip",
+      "size": 30938,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

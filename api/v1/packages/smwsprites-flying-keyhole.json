@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-flying-keyhole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23744,
+  "title": "Flying Keyhole",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "flying",
+    "keyhole",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a keyhole, but it flies around. Why? I don't know, I'm sure people will find clever uses for it.<br>\r\n<br>\r\nSimilarly to my Flying ? Block, the first extra byte controls the movement pattern. The second extra byte sets different behaviors when touched by a key (end level, kill Mario, make key vanish). Additionally there's defines in the asm file to change speed/acceleration.",
+  "latest_version": "smwc-23744-1594896849",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23744,
+      "title": "Flying Keyhole",
+      "version": "smwc-23744-1594896849",
+      "upstream_time": 1594896849,
+      "download_url": "https://dl.smwcentral.net/23744/FlyingKeyhole.zip",
+      "filename": "FlyingKeyhole.zip",
+      "size": 4188,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

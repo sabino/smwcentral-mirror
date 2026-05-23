@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-more-timed-button-switches-2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15653,
+  "title": "More timed button switches 2.0",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "puzzle",
+    "switch",
+    "timed"
+  ],
+  "description": "This package contains new timed switches based on the p-switch. Allowing you to design puzzle level with more than 2 switches and not affecting your sprites, used blocks and coins.<br>\r\n<br>\r\nSorry, no p-switch music.",
+  "latest_version": "smwc-15653-1503221243",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15653,
+      "title": "More timed button switches 2.0",
+      "version": "smwc-15653-1503221243",
+      "upstream_time": 1503221243,
+      "download_url": "https://dl.smwcentral.net/15653/TimedSwitches2_0.zip",
+      "filename": "TimedSwitches2_0.zip",
+      "size": 32027,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

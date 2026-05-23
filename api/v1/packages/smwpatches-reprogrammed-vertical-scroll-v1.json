@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-reprogrammed-vertical-scroll-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19676,
+  "title": "Reprogrammed Vertical Scroll v1.2",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "camera",
+    "lorom",
+    "sa-1",
+    "screen scrolling",
+    "scrolling"
+  ],
+  "description": "This patch rewrites SMW's vertical scrolling code to make it move smoother, also allowing the player to pan the camera up or down when looking up or ducking if this behavior is set.<br>\r\n<br>\r\nIncludes defines to enable/disable free vertical scrolling (a.k.a. like the $00F878 hex edit), configure camera panning speeds, and configure camera moving range areas.<br>\r\n<br>\r\nv1.2 updates: panning now works properly when underwater; and now pressing Up is used as a condition to pan the camera upwards instead of using the 'player is looking up' flag, so now you can throw items upwards and the camera won't pan down during the throw animation (thanks to Deeke for reporting the issue).",
+  "latest_version": "smwc-19676-1555654365",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19676,
+      "title": "Reprogrammed Vertical Scroll v1.2",
+      "version": "smwc-19676-1555654365",
+      "upstream_time": 1555654365,
+      "download_url": "https://dl.smwcentral.net/19676/VScrollReprogrammed-v1.2.zip",
+      "filename": "VScrollReprogrammed-v1.2.zip",
+      "size": 3763,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

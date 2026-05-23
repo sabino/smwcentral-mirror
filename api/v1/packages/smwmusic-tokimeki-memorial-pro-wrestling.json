@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-tokimeki-memorial-pro-wrestling",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28765,
+  "title": "Tokimeki Memorial - Pro Wrestling",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "tense"
+  ],
+  "description": "I didn't know about the existence of this game until recently, but the massive soundtrack has some nice songs like this one. Could be used for an energetic cutscene or a fight.",
+  "latest_version": "smwc-28765-1640984549",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28765,
+      "title": "Tokimeki Memorial - Pro Wrestling",
+      "version": "smwc-28765-1640984549",
+      "upstream_time": 1640984549,
+      "download_url": "https://dl.smwcentral.net/28765/ProWrestling.zip",
+      "filename": "ProWrestling.zip",
+      "size": 61235,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

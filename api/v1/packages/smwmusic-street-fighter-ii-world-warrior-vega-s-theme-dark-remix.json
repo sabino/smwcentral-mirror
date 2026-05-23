@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-street-fighter-ii-world-warrior-vega-s-theme-dark-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22663,
+  "title": "Street Fighter II: World Warrior - Vega's Theme (Dark Remix)",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "sad"
+  ],
+  "description": "Vega's theme, from Street Fighter II, remixed in a dark way. Could fit dark castles and so on.<br>\r\n<br>\r\nUPDATE: Made it compatible with all sfx/global songs.",
+  "latest_version": "smwc-22663-1587749014",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22663,
+      "title": "Street Fighter II: World Warrior - Vega's Theme (Dark Remix)",
+      "version": "smwc-22663-1587749014",
+      "upstream_time": 1587749014,
+      "download_url": "https://dl.smwcentral.net/22663/Dark%20Vega.zip",
+      "filename": "Dark Vega.zip",
+      "size": 89372,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

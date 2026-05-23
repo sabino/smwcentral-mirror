@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-actraiser-bloodpool-casandora",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28621,
+  "title": "ActRaiser - Bloodpool ~ Casandora",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "dark",
+    "desert",
+    "final",
+    "mountain",
+    "tense"
+  ],
+  "description": "The rather circus-y yet royal-sounding theme playing in Bloodpool and Casandora in ActRaiser. <br>\r\n<br>\r\nUpdate: Improved the orchestra hits and percussion, along with a small optimization and some volume changes. For some reason, the size increased from 0x55D bytes to 0x56B... but hopefully it's not a big deal.<br>\r\n<br>\r\nUpdate 2: Massively improved instrumentation and mixing and fixed some oversights.",
+  "latest_version": "smwc-28621-1642104861",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28621,
+      "title": "ActRaiser - Bloodpool ~ Casandora",
+      "version": "smwc-28621-1642104861",
+      "upstream_time": 1642104861,
+      "download_url": "https://dl.smwcentral.net/28621/bloodpool.zip",
+      "filename": "bloodpool.zip",
+      "size": 32565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25818,
+      "title": "ActRaiser - Bloodpool ~ Casandora",
+      "version": "smwc-25818-1611639129",
+      "upstream_time": 1611639129,
+      "download_url": "https://dl.smwcentral.net/25818/Actraiser%20-%2007%20Bloodpool%20~%20Casandora.zip",
+      "filename": "Actraiser - 07 Bloodpool ~ Casandora.zip",
+      "size": 56598,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

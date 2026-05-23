@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-sine-wave-motion-for-horizontal-cheep-cheep",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17875,
+  "title": "Sine Wave Motion for Horizontal Cheep-Cheep",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "cheep-cheep",
+    "fish",
+    "lorom",
+    "sa-1",
+    "smb3",
+    "water"
+  ],
+  "description": "This patch makes it so fishes that move horizontally will slightly move up and down, kinda like they did in SMB3. Acceleration and max speed for wavy motion are configurable.",
+  "latest_version": "smwc-17875-1531689617",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17875,
+      "title": "Sine Wave Motion for Horizontal Cheep-Cheep",
+      "version": "smwc-17875-1531689617",
+      "upstream_time": 1531689617,
+      "download_url": "https://dl.smwcentral.net/17875/SineFish.zip",
+      "filename": "SineFish.zip",
+      "size": 1713,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

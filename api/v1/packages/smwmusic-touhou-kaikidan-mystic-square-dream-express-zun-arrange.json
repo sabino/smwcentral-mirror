@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-dream-express-zun-arrange",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38473,
+  "title": "Touhou Kaikidan ~ Mystic Square - Dream Express (ZUN Arrange)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "chaotic",
+    "final",
+    "fire",
+    "sky"
+  ],
+  "description": "A MIDI arrangement of Dream Express, the Stage 1 theme from Touhou Kaikidan ~ Mystic Square, done by ZUN himself.<br>\r\n<br>\r\nIncludes a define to toggle between the Arrangements speed and Originals speed.",
+  "latest_version": "smwc-38473-1727194025",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38473,
+      "title": "Touhou Kaikidan ~ Mystic Square - Dream Express (ZUN Arrange)",
+      "version": "smwc-38473-1727194025",
+      "upstream_time": 1727194025,
+      "download_url": "https://dl.smwcentral.net/38473/Touhou%20Kaikidan%20~%20Mystic%20Square%20-%20Dream%20Express%20%28ZUN%20Arrange%29.zip",
+      "filename": "Touhou Kaikidan ~ Mystic Square - Dream Express (ZUN Arrange).zip",
+      "size": 77714,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

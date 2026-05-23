@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-ganbare-goemon-kirakira-d-ch-boku-ga-dancer-ni-natta-wake-aquann-castle-cave",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 40499,
+  "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Aquann Castle (Cave)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "cave",
+    "patch needed"
+  ],
+  "description": "The background seen in various sections of Aquann Castle and also seen in one of the final levels of the game.<br>\r\n<br>\r\nMASSIVE UPDATE: Optimized GFX files, better map 16 organization, saner palette organization and now includes an extra variant.<br>\r\n<br>\r\nIncludes two palettes.  <br>\r\n<br>\r\nDue to the purple variant using much more colors, they use different map 16 files and palette.<br>\r\n<br>\r\nAquann Castle: palette rows 0 and 3.<br>\r\nAquann Tower: palette rows 3 and 5.<br>\r\n<br>\r\nBundled with this submission is two parallaxing codes, meant to be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>.  Pick the one you need the most.<br>\r\n<br>\r\nPlease check the readme included to know what's the difference between these two uberasm files.<br>\r\n<br>\r\nA good fit for cave levels.",
+  "latest_version": "smwc-40499-1756327414",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 40499,
+      "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Aquann Castle (Cave)",
+      "version": "smwc-40499-1756327414",
+      "upstream_time": 1756327414,
+      "download_url": "https://dl.smwcentral.net/40499/Ganbare%20Goemon%204%20-%20Aquann%20Castle%20%26%20Tower.zip",
+      "filename": "Ganbare Goemon 4 - Aquann Castle %26 Tower.zip",
+      "size": 11775,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

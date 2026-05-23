@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-hospital",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27050,
+  "title": "EarthBound - Hospital",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "town",
+    "urban"
+  ],
+  "description": "Chill song good for a resting area.",
+  "latest_version": "smwc-27050-1622660204",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27050,
+      "title": "EarthBound - Hospital",
+      "version": "smwc-27050-1622660204",
+      "upstream_time": 1622660204,
+      "download_url": "https://dl.smwcentral.net/27050/Earthbound%20-%20Hospital.zip",
+      "filename": "Earthbound - Hospital.zip",
+      "size": 45610,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-donkey-kong-country-funky-s-fugue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7332,
+  "title": "Donkey Kong Country - Funky's Fugue",
+  "authors": [
+    "Masashi27"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "Funky's theme from DKC1.",
+  "latest_version": "smwc-7332-1318776834",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7332,
+      "title": "Donkey Kong Country - Funky's Fugue",
+      "version": "smwc-7332-1318776834",
+      "upstream_time": 1318776834,
+      "download_url": "https://dl.smwcentral.net/7332/Donkey%20Kong%20Country%20-%20Funky%27s%20Fugue.zip",
+      "filename": "Donkey Kong Country - Funky%27s Fugue.zip",
+      "size": 63566,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

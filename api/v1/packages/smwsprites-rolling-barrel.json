@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-rolling-barrel",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3564,
+  "title": "Rolling Barrel",
+  "authors": [
+    "Blind Devil",
+    "JeRRy86"
+  ],
+  "tags": [
+    "barrel",
+    "enemy",
+    "item",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A 16x16 barrel that simply rolls around while optionally bouncing, and can be broken via regular jump, capespin or thrown sprites. Includes an option to either drop or not drop a normal/custom sprite.",
+  "latest_version": "smwc-3564-1270907719",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3564,
+      "title": "Rolling Barrel",
+      "version": "smwc-3564-1270907719",
+      "upstream_time": 1270907719,
+      "download_url": "https://dl.smwcentral.net/3564/RollingBarrel.zip",
+      "filename": "RollingBarrel.zip",
+      "size": 4496,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

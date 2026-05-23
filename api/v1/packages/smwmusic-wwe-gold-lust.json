@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-wwe-gold-lust",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29872,
+  "title": "WWE - Gold-Lust",
+  "authors": [
+    "FalseCircus"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "mysterious",
+    "ruins",
+    "temple"
+  ],
+  "description": "You will NEVER forget the name of Goldust.<br>\r\n<br>\r\nWorks best in levels with lots of gold, naturally.",
+  "latest_version": "smwc-29872-1658864187",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29872,
+      "title": "WWE - Gold-Lust",
+      "version": "smwc-29872-1658864187",
+      "upstream_time": 1658864187,
+      "download_url": "https://dl.smwcentral.net/29872/goldlust.zip",
+      "filename": "goldlust.zip",
+      "size": 62082,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

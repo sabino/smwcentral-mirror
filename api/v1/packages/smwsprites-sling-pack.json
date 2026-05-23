@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-sling-pack",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26062,
+  "title": "Sling Pack",
+  "authors": [
+    "NerDose"
+  ],
+  "tags": [
+    "gimmick",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "sp2"
+  ],
+  "description": "This sling pack contains four different slings: The silver sling shoots diagonally and drags mario up, the Golden sling shoots horizontally and acts as a swing, the blue sling shoots vertically and acts as a rope and the red sling shoots horizontally and spawns a platform.<br>\r\nThese slings won't work on a Map16 tile of your choice.<br>\r\nBe sure to put the file \"GetDistanceSprMario.asm\" in PIXI's routines folder and set the define !SpriteNumber in RedSling.asm to the RedSlingPlatform's sprite number in PIXI's list.txt",
+  "latest_version": "smwc-26062-1620194181",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26062,
+      "title": "Sling Pack",
+      "version": "smwc-26062-1620194181",
+      "upstream_time": 1620194181,
+      "download_url": "https://dl.smwcentral.net/26062/Sling%20pack.zip",
+      "filename": "Sling pack.zip",
+      "size": 16429,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

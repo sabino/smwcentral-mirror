@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bonus-stars-sum-game",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41476,
+  "title": "Bonus Stars Sum Game",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "bonus stars",
+    "course clear",
+    "level end",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch enables a game that can be played when a goal tape is collected. By pressing L or R during the goal march, you're able to input the resulting sum of bonus stars. If input correctly before the sum starts to roll, the player gets a 1-up. You can optionally add a punishment for a wrong answer.<br>\r\n<br>\r\nOnce active, the controls of the game are the following:<br>\r\n&lt;, &gt;, L or R = Swap the selected digit.<br>\r\n^ and v = Increase and decrease the selected digit, respectively.<br>\r\nA and B = Increase and decrease the ones digit, respectively.<br>\r\nX and Y = Increase and decrease the tens digit, respectively.<br>\r\n<br>\r\nAn optional UberASM level code is included to change the palette of the numbers while the game is active, though it is only compatible with the vanilla status bar.",
+  "latest_version": "smwc-41476-1769355627",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41476,
+      "title": "Bonus Stars Sum Game",
+      "version": "smwc-41476-1769355627",
+      "upstream_time": 1769355627,
+      "download_url": "https://dl.smwcentral.net/41476/sum_game.zip",
+      "filename": "sum_game.zip",
+      "size": 4416,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

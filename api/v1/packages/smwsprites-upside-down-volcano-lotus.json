@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-upside-down-volcano-lotus",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 9558,
+  "title": "Upside-down Volcano Lotus",
+  "authors": [
+    "NekohDot",
+    "leod"
+  ],
+  "tags": [
+    "lorom",
+    "lotus",
+    "sa-1",
+    "vanilla",
+    "volcano",
+    "volcano lotus"
+  ],
+  "description": "An upside-down Volcano Lotus.<br>\r\nRequires no additional graphics.<br>\r\n<br>\r\nThe pollen spread out faster than usual because of the nature of the pollen sprite that restricts horizontal movement while the pollen move down, but it should still work just fine for the same purposes as usual.<br>\r\nMaybe even a little better?<br>\r\n<br>\r\nActual spread speed can be adjusted in the .asm file.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-9558-1421209734",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 9558,
+      "title": "Upside-down Volcano Lotus",
+      "version": "smwc-9558-1421209734",
+      "upstream_time": 1421209734,
+      "download_url": "https://dl.smwcentral.net/9558/lotus_down.zip",
+      "filename": "lotus_down.zip",
+      "size": 2508,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

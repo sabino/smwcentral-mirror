@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mansion-of-mrs-gloom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28743,
+  "title": "Mansion of Mrs. Gloom",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "carnival",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "A port from a composition I made, meant for wye's hack. It's very gloomy and spooky. Use it in a Ghost House, or a forest or something!",
+  "latest_version": "smwc-28743-1642581145",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28743,
+      "title": "Mansion of Mrs. Gloom",
+      "version": "smwc-28743-1642581145",
+      "upstream_time": 1642581145,
+      "download_url": "https://dl.smwcentral.net/28743/Gloom.zip",
+      "filename": "Gloom.zip",
+      "size": 80981,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

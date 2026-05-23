@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mario-kart-custom-music-festival-edm-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37134,
+  "title": "Mario Kart Custom Music - Festival EDM Theme",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "overworld",
+    "sky",
+    "title"
+  ],
+  "description": "Could fit on athletic or grassland levels or title screen",
+  "latest_version": "smwc-37134-1710993083",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37134,
+      "title": "Mario Kart Custom Music - Festival EDM Theme",
+      "version": "smwc-37134-1710993083",
+      "upstream_time": 1710993083,
+      "download_url": "https://dl.smwcentral.net/37134/mk9%20festival%20edm%20theme%20%28S%29.zip",
+      "filename": "mk9 festival edm theme (S).zip",
+      "size": 70140,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36979,
+      "title": "Mario Kart Custom Music - Festival EDM Theme",
+      "version": "smwc-36979-1709191133",
+      "upstream_time": 1709191133,
+      "download_url": "https://dl.smwcentral.net/36979/mk9%20festival%20edm%20theme.zip",
+      "filename": "mk9 festival edm theme.zip",
+      "size": 33376,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-ms-gg-bridge-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22199,
+  "title": "Sonic the Hedgehog (MS/GG) - Bridge Zone",
+  "authors": [
+    "Be11"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "calm",
+    "forest",
+    "grassland",
+    "mountain",
+    "sky",
+    "town"
+  ],
+  "description": "Bridge Zone from the 8-bit Sonic the Hedgehog. Fits athletic grassland/cloud levels.<br>\r\n<br>\r\nEdit: Adjusted volume; ADSR and instrument changes.",
+  "latest_version": "smwc-22199-1582319381",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22199,
+      "title": "Sonic the Hedgehog (MS/GG) - Bridge Zone",
+      "version": "smwc-22199-1582319381",
+      "upstream_time": 1582319381,
+      "download_url": "https://dl.smwcentral.net/22199/Bridge%20Zone.zip",
+      "filename": "Bridge Zone.zip",
+      "size": 30709,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7370,
+      "title": "Sonic the Hedgehog (MS/GG) - Bridge Zone",
+      "version": "smwc-7370-1338205862",
+      "upstream_time": 1338205862,
+      "download_url": "https://dl.smwcentral.net/7370/Bridge%20Zone.zip",
+      "filename": "Bridge Zone.zip",
+      "size": 64622,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

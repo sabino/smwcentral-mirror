@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-upwards-flying-star-sprite-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34453,
+  "title": "Upwards Flying Star Sprite v1.1",
+  "authors": [
+    "Buu"
+  ],
+  "tags": [
+    "invincibility",
+    "lorom",
+    "pacifist",
+    "power-up",
+    "sa-1",
+    "star"
+  ],
+  "description": "This is my first serious custom sprite. It's a star sprite which flies up and stops at a certain position which you can easily set in the ASM file.<br>\r\nYou could for example let it spawn out from a block, like with <a href=\"https://smwc.me/s/30840\">these</a>.<br>\r\nThe graphics work with the default palette A but be sure to give credit to BlackSquirrel for those.<br>\r\nI tried to document the ASM file as good as I could so there shouldn't be too much troubles by customizing it a bit.<br>\r\nNo credit needed, just have fun with it. GFX goes in SP4<br>\r\n<br>\r\nv1.1 Update:<br>\r\n- Added customisability options<br>\r\n- Fixed AMK compatibility<br>\r\n- Made the position to be set using the first two extra bytes<br>\r\n- Star gives points upon collection<br>\r\n- Removed extra graphics<br>\r\n- Replaced SA-1 defines to new one",
+  "latest_version": "smwc-34453-1697028329",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34453,
+      "title": "Upwards Flying Star Sprite v1.1",
+      "version": "smwc-34453-1697028329",
+      "upstream_time": 1697028329,
+      "download_url": "https://dl.smwcentral.net/34453/starpower.zip",
+      "filename": "starpower.zip",
+      "size": 3520,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

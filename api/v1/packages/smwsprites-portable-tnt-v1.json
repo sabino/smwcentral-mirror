@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-portable-tnt-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 17676,
+  "title": "Portable TNT v1.2",
+  "authors": [
+    "Ymro"
+  ],
+  "tags": [
+    "bomb",
+    "explosion",
+    "lorom",
+    "pacifist",
+    "portable",
+    "sa-1",
+    "tnt"
+  ],
+  "description": "This is a portable TNT sprite for Super Mario World. It can be used with Explosion Sensitivity Blocks!<br>\r\n<br>\r\nSetting the extra bit makes it unportable.<br>\r\n<br>\r\nThe latest version is remade completely from scratch! All previous bugs have been fixed.<br>\r\n<br>\r\nNo credits needed! Have fun!<br>\r\n<br>\r\nVersion 1.2 fixes some bugs:<br>\r\n- Now displaces Mario 3 pixels down when the switch is pressed (so it matches the provided graphics),<br>\r\n- The sprite goes behind a pipe when Mario enters it.<br>\r\n- The sprite de-latches itself from Yoshi's tongue if it happens to explode on the same time as<br>\r\nYoshi tries to eat it.",
+  "latest_version": "smwc-17676-1529870080",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 17676,
+      "title": "Portable TNT v1.2",
+      "version": "smwc-17676-1529870080",
+      "upstream_time": 1529870080,
+      "download_url": "https://dl.smwcentral.net/17676/Portable%20TNT.zip",
+      "filename": "Portable TNT.zip",
+      "size": 6748,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

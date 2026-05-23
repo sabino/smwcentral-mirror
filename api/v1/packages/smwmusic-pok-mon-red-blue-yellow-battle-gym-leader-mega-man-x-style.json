@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-battle-gym-leader-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27379,
+  "title": "Pokémon Red/Blue/Yellow  - Battle! Gym Leader (Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "Poke Man X",
+  "latest_version": "smwc-27379-1625681015",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27379,
+      "title": "Pokémon Red/Blue/Yellow  - Battle! Gym Leader (Mega Man X Style)",
+      "version": "smwc-27379-1625681015",
+      "upstream_time": 1625681015,
+      "download_url": "https://dl.smwcentral.net/27379/PM_Glb_MMX.zip",
+      "filename": "PM_Glb_MMX.zip",
+      "size": 62335,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

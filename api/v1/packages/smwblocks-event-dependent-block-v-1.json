@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-event-dependent-block-v-1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41269,
+  "title": "Event Dependent Block V.1.21",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "event",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block will act like another block when certain event is activated.<br>\r\n<br>\r\nBe sure to check readme for more details.<br>\r\n<br>\r\nRequested by Gi Manilla",
+  "latest_version": "smwc-41269-1765665189",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41269,
+      "title": "Event Dependent Block V.1.21",
+      "version": "smwc-41269-1765665189",
+      "upstream_time": 1765665189,
+      "download_url": "https://dl.smwcentral.net/41269/Event%20Dependent%20Block%201.21.zip",
+      "filename": "Event Dependent Block 1.21.zip",
+      "size": 1335,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

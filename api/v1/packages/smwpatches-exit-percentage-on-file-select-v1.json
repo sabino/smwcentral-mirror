@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-exit-percentage-on-file-select-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24677,
+  "title": "Exit Percentage on File Select v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "save",
+    "tilemap"
+  ],
+  "description": "This patch will make the title screen show the percentage of exits obtained in the save files, rather than the absolute number. You just need to set the total amount of exits your hack has in the asm file. Included is a slightly modified GFX29 file containing the % sign.<br>\r\n<br>\r\nRequested by Ondore's Lies.<br>\r\n<br>\r\nP.S.: the patch can display up to 199%, so you can in theory have post-game levels that increase the number over 100%. You just need to set the number of exits in the patch as the exits required for the \"main game\".<br>\r\n<br>\r\nv1.1: added option to display a decimal digit to show more accurate percentages. Note that values greater or equal than 100% won't display the decimal part (due to limited number of tiles per row in the file select tilemap).",
+  "latest_version": "smwc-24677-1604268968",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24677,
+      "title": "Exit Percentage on File Select v1.1",
+      "version": "smwc-24677-1604268968",
+      "upstream_time": 1604268968,
+      "download_url": "https://dl.smwcentral.net/24677/ExitsPercentage.zip",
+      "filename": "ExitsPercentage.zip",
+      "size": 2739,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

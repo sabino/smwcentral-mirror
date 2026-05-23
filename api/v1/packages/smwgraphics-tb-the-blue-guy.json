@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-tb-the-blue-guy",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 40859,
+  "title": "TB the Blue Guy",
+  "authors": [
+    "Oz74"
+  ],
+  "tags": [
+    "genderless",
+    "humanoid",
+    "male"
+  ],
+  "description": "Who is TB? TB is true blue, terrifically bold in the face of danger, and might just be <i>the best</i>. <a href=\"https://smwc.me/1656926\">Requested by</a>, and Minecraft skin (and original character?) of, <span class=\"un-outer\" title=\"MarioIsTheBest1234\"><a href=\"/?p=profile&amp;id=49662\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MarioIsTheBest1234</a></span>. There are some extra palettes to help TB work in your own context.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Contents</span></div><div class=\"collapse-content\">Graphics files:<br>\r\nGFX00 (required)<br>\r\nGFX10 (overworld sprite)<br>\r\nGFX22 and GFX24 (only needed vs vanilla Bowser)<br>\r\nGFX28 (status bar)<br>\r\nGFX32 (required)<br>\r\n<br>\r\nAsar patches:<br>\r\nfixes.asm (contains a few necessary hex edits)<br>\r\n<br>\r\n6 player palettes (shared SMWPAL for the player, and custom PAL with PALMASKs for the overworld)<br>\r\n<br>\r\nReadme will guide you on specific changes, important links, and a description of each palette.</div></div>",
+  "latest_version": "smwc-40859-1767315817",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 40859,
+      "title": "TB the Blue Guy",
+      "version": "smwc-40859-1767315817",
+      "upstream_time": 1767315817,
+      "download_url": "https://dl.smwcentral.net/40859/%5BPLAYER%5D%20T.B.zip",
+      "filename": "%5BPLAYER%5D T.B.zip",
+      "size": 36258,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

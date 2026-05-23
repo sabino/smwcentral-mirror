@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-iv-tower-of-zot",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20793,
+  "title": "Final Fantasy IV - Tower of Zot",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "tense"
+  ],
+  "description": "Could fit a dangerous castle/tower.<br>\r\nRequested by Brutapode89.",
+  "latest_version": "smwc-20793-1564543935",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20793,
+      "title": "Final Fantasy IV - Tower of Zot",
+      "version": "smwc-20793-1564543935",
+      "upstream_time": 1564543935,
+      "download_url": "https://dl.smwcentral.net/20793/FF4%20-%20Tower%20of%20Zot.zip",
+      "filename": "FF4 - Tower of Zot.zip",
+      "size": 49562,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

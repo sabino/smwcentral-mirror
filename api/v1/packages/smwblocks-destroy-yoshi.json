@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-destroy-yoshi",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 31301,
+  "title": "Destroy Yoshi",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "filter",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "A rather harsh filter block because it ki- removes Yoshi from the processing sprites.<br>\r\nIn particular, this blocks kills Yoshi as well as the sprite in his mouth even when the player rides him and doesn't discriminate between an adult and a baby Yoshi.<br>\r\n<br>\r\nNo credits required.",
+  "latest_version": "v1.1",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 31301,
+      "title": "Destroy Yoshi",
+      "version": "v1.1",
+      "upstream_time": 1661820829,
+      "download_url": "https://dl.smwcentral.net/31301/destroy%20yoshi.zip",
+      "filename": "destroy yoshi.zip",
+      "size": 2218,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

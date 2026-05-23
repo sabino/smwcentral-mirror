@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-mario-luigi-bowser-s-inside-story-in-the-final",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33164,
+  "title": "Mario & Luigi: Bowser's Inside Story - In The Final",
+  "authors": [
+    "Beruga1990"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "dark",
+    "final",
+    "sad",
+    "tense"
+  ],
+  "description": "\"In The Final\" or \"The Grand Finale\" is the final boss theme song of Mario & Luigi: Bowser's Inside Story, used for the battle against Dark Bowser and the Dark Star Core.<br>\r\n<br>\r\nI had ported this song for the Super Famicompo 4 contest, where it placed 36th out of 58.<br>\r\n<br>\r\nEDIT (2023/01/08): <br>\r\n- wrong note fixed<br>\r\n- volume of synth slightly increased",
+  "latest_version": "smwc-33164-1680560332",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33164,
+      "title": "Mario & Luigi: Bowser's Inside Story - In The Final",
+      "version": "smwc-33164-1680560332",
+      "upstream_time": 1680560332,
+      "download_url": "https://dl.smwcentral.net/33164/final.zip",
+      "filename": "final.zip",
+      "size": 37760,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32873,
+      "title": "Mario & Luigi: Bowser's Inside Story - In The Final",
+      "version": "smwc-32873-1683055071",
+      "upstream_time": 1683055071,
+      "download_url": "https://dl.smwcentral.net/32873/Mario%20%26%20Luigi%20Bowsers%20inside%20story%20-%20In%20the%20Final.zip",
+      "filename": "Mario %26 Luigi Bowsers inside story - In the Final.zip",
+      "size": 85893,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

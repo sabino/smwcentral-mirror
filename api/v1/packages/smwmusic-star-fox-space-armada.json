@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-star-fox-space-armada",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7877,
+  "title": "Star Fox - Space Armada",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "cave",
+    "final",
+    "mountain",
+    "ruins",
+    "temple"
+  ],
+  "description": "A victorious march that could work nicely for your castles or final areas.",
+  "latest_version": "smwc-7877-1406141742",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7877,
+      "title": "Star Fox - Space Armada",
+      "version": "smwc-7877-1406141742",
+      "upstream_time": 1406141742,
+      "download_url": "https://dl.smwcentral.net/7877/SpaceArmada.zip",
+      "filename": "SpaceArmada.zip",
+      "size": 51898,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

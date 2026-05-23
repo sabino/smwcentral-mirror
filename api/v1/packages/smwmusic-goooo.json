@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-goooo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7594,
+  "title": "GoooO",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "jungle"
+  ],
+  "description": "A fast-paced song. Recommended for boss battles or places that need extreme music.",
+  "latest_version": "smwc-7594-1325715537",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7594,
+      "title": "GoooO",
+      "version": "smwc-7594-1325715537",
+      "upstream_time": 1325715537,
+      "download_url": "https://dl.smwcentral.net/7594/GoooO.zip",
+      "filename": "GoooO.zip",
+      "size": 73553,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

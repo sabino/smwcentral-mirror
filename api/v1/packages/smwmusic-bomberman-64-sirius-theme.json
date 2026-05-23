@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-bomberman-64-sirius-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8429,
+  "title": "Bomberman 64 - Sirius Theme 2",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "industrial",
+    "space"
+  ],
+  "description": "First phase music of the final boss battle. Good for battles or fast-paced segments.",
+  "latest_version": "smwc-8429-1369600027",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8429,
+      "title": "Bomberman 64 - Sirius Theme 2",
+      "version": "smwc-8429-1369600027",
+      "upstream_time": 1369600027,
+      "download_url": "https://dl.smwcentral.net/8429/Bomberman%2064%20-%20Sirius%20Theme%202.zip",
+      "filename": "Bomberman 64 - Sirius Theme 2.zip",
+      "size": 64210,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

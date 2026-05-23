@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-final-fantasy-iv-mystic-mysidia",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7232,
+  "title": "Final Fantasy IV - Mystic Mysidia",
+  "authors": [
+    "Counterfeit"
+  ],
+  "tags": [
+    "town"
+  ],
+  "description": "This would likely suit some sort of<br>\r\nmansion or palace, and is pretty upbeat<br>\r\nand curious. It originally played in a<br>\r\ntown filled with magi, if that helps<br>\r\nyou think of more similar places where <br>\r\nthis might fit, or if that would encourage<br>\r\nsome new ideas.",
+  "latest_version": "smwc-7232-1317999821",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7232,
+      "title": "Final Fantasy IV - Mystic Mysidia",
+      "version": "smwc-7232-1317999821",
+      "upstream_time": 1317999821,
+      "download_url": "https://dl.smwcentral.net/7232/WARNING%20-%20THIS%20ZIP%20CONTAINS%20ADDICTIVE%20MUSIC.zip",
+      "filename": "WARNING - THIS ZIP CONTAINS ADDICTIVE MUSIC.zip",
+      "size": 72730,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

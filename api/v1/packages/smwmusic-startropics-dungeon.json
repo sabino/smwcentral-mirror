@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-startropics-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34405,
+  "title": "StarTropics - Dungeon",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "forest",
+    "grassland",
+    "jungle",
+    "retro"
+  ],
+  "description": "Dungeon from StarTropics.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"bebn legg\"><span title=\"Administrator\" class=\"icon icon-admin\"></span><a href=\"/?p=profile&amp;id=19971\" style=\"color: #3965a1;\" class=\"un\">bebn legg</a></span>.",
+  "latest_version": "smwc-34405-1694381612",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34405,
+      "title": "StarTropics - Dungeon",
+      "version": "smwc-34405-1694381612",
+      "upstream_time": 1694381612,
+      "download_url": "https://dl.smwcentral.net/34405/StarTropics%20-%20Dungeon.zip",
+      "filename": "StarTropics - Dungeon.zip",
+      "size": 40221,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7535,
+      "title": "StarTropics - Dungeon",
+      "version": "smwc-7535-1325317401",
+      "upstream_time": 1325317401,
+      "download_url": "https://dl.smwcentral.net/7535/StartropicsMAA.zip",
+      "filename": "StartropicsMAA.zip",
+      "size": 70522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

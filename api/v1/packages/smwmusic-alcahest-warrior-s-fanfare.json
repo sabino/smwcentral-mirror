@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-alcahest-warrior-s-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32499,
+  "title": "Alcahest - Warrior's Fanfare",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "goal",
+    "misc"
+  ],
+  "description": "A heroic fanfare, can be used as a boss clear theme.<br>\r\nNote that this can't normally be used as a global song. If you want that, use the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32498\">unsampled version</a>.",
+  "latest_version": "smwc-32499-1675225279",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32499,
+      "title": "Alcahest - Warrior's Fanfare",
+      "version": "smwc-32499-1675225279",
+      "upstream_time": 1675225279,
+      "download_url": "https://dl.smwcentral.net/32499/09%20Warrior%27s%20Fanfare.zip",
+      "filename": "09 Warrior%27s Fanfare.zip",
+      "size": 45771,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32498,
+      "title": "Alcahest - Warrior's Fanfare",
+      "version": "smwc-32498-1675225276",
+      "upstream_time": 1675225276,
+      "download_url": "https://dl.smwcentral.net/32498/09%20Warrior%27s%20Fanfare%20%28unsampled%29.zip",
+      "filename": "09 Warrior%27s Fanfare (unsampled).zip",
+      "size": 62453,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

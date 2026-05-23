@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-vi-magitek-research-facility",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21749,
+  "title": "Final Fantasy VI - Magitek Research Facility",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "industrial"
+  ],
+  "description": "(Also known as \"Devil's Lab\")<br>\r\n<br>\r\nFactory theme played during Magitek Research Facility in FFVI.",
+  "latest_version": "smwc-21749-1578528091",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21749,
+      "title": "Final Fantasy VI - Magitek Research Facility",
+      "version": "smwc-21749-1578528091",
+      "upstream_time": 1578528091,
+      "download_url": "https://dl.smwcentral.net/21749/FF6%20-%20Devil%27s%20Lab.zip",
+      "filename": "FF6 - Devil%27s Lab.zip",
+      "size": 76298,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

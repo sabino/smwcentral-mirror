@@ -1,0 +1,31 @@
+{
+  "name": "tools-gradienttool-v0-8-2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 11691,
+  "title": "GradientTool v0.8.2.1",
+  "authors": [
+    "ExoticMatter"
+  ],
+  "tags": [
+    "hdma",
+    "level asm"
+  ],
+  "description": "A tool for creating multi-point gradients from scratch.<br>\r\nGenerates HDMA which you can insert into your hack.<br>\r\n<br>\r\nRequires .NET Framework <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=22833\" rel=\"nofollow\">4.0</a> or <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=21\" rel=\"nofollow\">3.5</a>.<br>\r\n<br>\r\n<b>New feature:</b><br>\r\n<ul><li>Gamma corrected RGB gradients, i.e. RGB gradients with uniform brightness</li></ul><b>Changes:</b><br>\r\n<ul><li>Value-corrected RGB gradients are now the default.</li>\r\n<li>The default gradient has been changed to red &#8594; cyan to demonstrate RGB value correction.</li>\r\n<li>The tab pages in the HDMA configuration dialog can now be used without HDMA code generation.</li></ul>",
+  "latest_version": "smwc-11691-1437516543",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 11691,
+      "title": "GradientTool v0.8.2.1",
+      "version": "smwc-11691-1437516543",
+      "upstream_time": 1437516543,
+      "download_url": "https://dl.smwcentral.net/11691/gradient-tool-v0.8.2.1.zip",
+      "filename": "gradient-tool-v0.8.2.1.zip",
+      "size": 83036,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

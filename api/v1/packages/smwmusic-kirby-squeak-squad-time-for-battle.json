@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-squeak-squad-time-for-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27723,
+  "title": "Kirby: Squeak Squad - Time For Battle",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "misc"
+  ],
+  "description": "A small upbeat song played on the minigames instructions screen.",
+  "latest_version": "smwc-27723-1626992234",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27723,
+      "title": "Kirby: Squeak Squad - Time For Battle",
+      "version": "smwc-27723-1626992234",
+      "upstream_time": 1626992234,
+      "download_url": "https://dl.smwcentral.net/27723/Kirby%20Squeak%20Squad%20-%20Time%20For%20Battle.zip",
+      "filename": "Kirby Squeak Squad - Time For Battle.zip",
+      "size": 88313,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

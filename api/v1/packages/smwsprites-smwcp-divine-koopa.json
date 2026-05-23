@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-smwcp-divine-koopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16502,
+  "title": "SMWCP Divine Koopa",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "fireball",
+    "koopa",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Koopa-like sprite walks around, regularly entering an invincible state where it spins in the air while throwing numerous fireballs. If the extra bit is clear, it changes into a regular Koopa after being jumped on.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-16502-1508784933",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16502,
+      "title": "SMWCP Divine Koopa",
+      "version": "smwc-16502-1508784933",
+      "upstream_time": 1508784933,
+      "download_url": "https://dl.smwcentral.net/16502/divinekoopa.zip",
+      "filename": "divinekoopa.zip",
+      "size": 5665,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

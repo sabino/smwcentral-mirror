@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-diddy-kong-racing-walrus-cove",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21773,
+  "title": "Diddy Kong Racing - Walrus Cove",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "ice",
+    "snow"
+  ],
+  "description": "A port made for Hobz's 2019 BLDC entry. Good for winter/snow levels.",
+  "latest_version": "smwc-21773-1578269136",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21773,
+      "title": "Diddy Kong Racing - Walrus Cove",
+      "version": "smwc-21773-1578269136",
+      "upstream_time": 1578269136,
+      "download_url": "https://dl.smwcentral.net/21773/Diddy%20Kong%20Racing%20-%20Walrus%20Cove.zip",
+      "filename": "Diddy Kong Racing - Walrus Cove.zip",
+      "size": 77004,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

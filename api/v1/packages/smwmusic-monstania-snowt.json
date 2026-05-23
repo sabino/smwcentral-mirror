@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-monstania-snowt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21694,
+  "title": "Monstania - Snowt",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sad",
+    "snow",
+    "town"
+  ],
+  "description": "Calm and atmospheric theme which plays inside the snowy villages in Monstania. It comes in it's original form.",
+  "latest_version": "smwc-21694-1577850754",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21694,
+      "title": "Monstania - Snowt",
+      "version": "smwc-21694-1577850754",
+      "upstream_time": 1577850754,
+      "download_url": "https://dl.smwcentral.net/21694/monstaniasnow.zip",
+      "filename": "monstaniasnow.zip",
+      "size": 55436,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

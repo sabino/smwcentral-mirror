@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-lemmings-3-the-lemmings-chronicles-classic-tribe-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7867,
+  "title": "Lemmings 3: The Lemmings Chronicles - Classic Tribe Theme 3",
+  "authors": [
+    "Kipernal"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "credits",
+    "grassland",
+    "ruins",
+    "temple"
+  ],
+  "description": "This is one of the themes that plays for the Classic Tribe in Lemmings 3. I don't know exactly where exactly this would fit, but it would probably be suited to somewhere more indoors-y, like a cave or a fortress. Preferably with a slightly ominous atmosphere.<br>\r\n<br>\r\n<br>\r\nUpdate (01/04/20):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 2107 bytes.",
+  "latest_version": "smwc-7867-1311938923",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7867,
+      "title": "Lemmings 3: The Lemmings Chronicles - Classic Tribe Theme 3",
+      "version": "smwc-7867-1311938923",
+      "upstream_time": 1311938923,
+      "download_url": "https://dl.smwcentral.net/7867/Lem3.Classic%203.zip",
+      "filename": "Lem3.Classic 3.zip",
+      "size": 64636,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7843,
+      "title": "Lemmings 3: The Lemmings Chronicles - Classic Tribe Theme 2",
+      "version": "smwc-7843-1318146754",
+      "upstream_time": 1318146754,
+      "download_url": "https://dl.smwcentral.net/7843/Lem3.Classic%202.zip",
+      "filename": "Lem3.Classic 2.zip",
+      "size": 60749,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

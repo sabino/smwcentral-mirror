@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-equinox-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28238,
+  "title": "Equinox - Overworld",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "dark",
+    "environmental",
+    "mysterious",
+    "overworld"
+  ],
+  "description": "Atmospheric and mysterious song from Equinox, fitting for dark and desolate areas/maps the most.<br>\r\n<br>\r\nPorted on <span class=\"un-outer\" title=\"Gurjinter\"><a href=\"/?p=profile&amp;id=35865\" style=\"color: var(--user-color-1);\" class=\"un\">Gurjinter</a></span>'s request.",
+  "latest_version": "smwc-28238-1632801073",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28238,
+      "title": "Equinox - Overworld",
+      "version": "smwc-28238-1632801073",
+      "upstream_time": 1632801073,
+      "download_url": "https://dl.smwcentral.net/28238/equinox_ow.zip",
+      "filename": "equinox_ow.zip",
+      "size": 62709,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

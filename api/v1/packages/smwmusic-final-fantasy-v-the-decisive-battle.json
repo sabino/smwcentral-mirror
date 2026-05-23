@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-final-fantasy-v-the-decisive-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20398,
+  "title": "Final Fantasy V - The Decisive Battle",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "A very intense song that switches its mood a lot! It plays during the first phase of Exdeath, the main antagonist.<br>\r\n<br>\r\nPlease be aware that this port uses a lot of ARAM because of the size of the samples, so certain sound effects (P-Switch, Yoshi, Thunder and maybe others!) will NOT play properly. Keep this in mind if you want to use this in your hack.<br>\r\n<br>\r\n6/7 edit: Now it should be able to insert without ARAM errors, but at the cost of not being able to use the original Course Clear jingle (NOT the Boss Clear one; that one is fine). Hopefully it's not that big of a deal since you wouldn't use such a cheerful jingle right after this plays.",
+  "latest_version": "smwc-20398-1562631118",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20398,
+      "title": "Final Fantasy V - The Decisive Battle",
+      "version": "smwc-20398-1562631118",
+      "upstream_time": 1562631118,
+      "download_url": "https://dl.smwcentral.net/20398/FF5Decisive.zip",
+      "filename": "FF5Decisive.zip",
+      "size": 77360,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7739,
+      "title": "Final Fantasy V - The Decisive Battle",
+      "version": "smwc-7739-1320131002",
+      "upstream_time": 1320131002,
+      "download_url": "https://dl.smwcentral.net/7739/Decisive.zip",
+      "filename": "Decisive.zip",
+      "size": 71732,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

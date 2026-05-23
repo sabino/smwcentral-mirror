@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-new-super-mario-classic-forest-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29723,
+  "title": "New Super Mario Classic - Forest Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland",
+    "overworld"
+  ],
+  "description": "Could fit on the forest submaps with colorful plants. This music was played from New Super Mario Classic overworlds (My SMW Hack)<br>\r\n",
+  "latest_version": "smwc-29723-1648499466",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29723,
+      "title": "New Super Mario Classic - Forest Submap",
+      "version": "smwc-29723-1648499466",
+      "upstream_time": 1648499466,
+      "download_url": "https://dl.smwcentral.net/29723/NSMC%20Forest%20Submap_.zip",
+      "filename": "NSMC Forest Submap_.zip",
+      "size": 43487,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

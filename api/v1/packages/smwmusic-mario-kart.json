@@ -1,0 +1,491 @@
+{
+  "name": "smwmusic-mario-kart",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41495,
+  "title": "Mario Kart 64 - Banshee Boardwalk",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "athlethic",
+    "athletic",
+    "beach",
+    "bonus",
+    "calm",
+    "carnival",
+    "castle",
+    "cave",
+    "credits",
+    "cutscene",
+    "dark",
+    "desert",
+    "environmental",
+    "final",
+    "forest",
+    "ghost house",
+    "grassland",
+    "ice",
+    "industrial",
+    "jungle",
+    "misc",
+    "mountain",
+    "mysterious",
+    "night",
+    "overworld",
+    "ruins",
+    "sad",
+    "sky",
+    "snow",
+    "space",
+    "spooky",
+    "swamp",
+    "switch palace",
+    "temple",
+    "tense",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "Frappe Snowland / Sherbet Land from Mario Kart 64.<br>\r\n<br>\r\nUpdate:<br>\r\n-Improved echo<br>\r\n-Changed the tambourine sample",
+  "latest_version": "smwc-41495-1771804998",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41495,
+      "title": "Mario Kart 64 - Banshee Boardwalk",
+      "version": "smwc-41495-1771804998",
+      "upstream_time": 1771804998,
+      "download_url": "https://dl.smwcentral.net/41495/Mario%20Kart%2064%20-%20Banshee%20Boardwalk%20%28SMW%29.zip",
+      "filename": "Mario Kart 64 - Banshee Boardwalk (SMW).zip",
+      "size": 48032,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41490,
+      "title": "Mario Kart 64 - Banshee Boardwalk",
+      "version": "smwc-41490-1771804994",
+      "upstream_time": 1771804994,
+      "download_url": "https://dl.smwcentral.net/41490/Mario%20Kart%2064%20-%20Banshee%20Boardwalk.zip",
+      "filename": "Mario Kart 64 - Banshee Boardwalk.zip",
+      "size": 74392,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41414,
+      "title": "Mario Kart 64 - Kalimari Desert",
+      "version": "smwc-41414-1771792726",
+      "upstream_time": 1771792726,
+      "download_url": "https://dl.smwcentral.net/41414/Mario%20Kart%2064%20-%20Kalimari%20Desert%20%28unsampled%29.zip",
+      "filename": "Mario Kart 64 - Kalimari Desert (unsampled).zip",
+      "size": 33667,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41106,
+      "title": "Mario Kart 64 - Frappe Snowland / Sherbet Land",
+      "version": "smwc-41106-1772211023",
+      "upstream_time": 1772211023,
+      "download_url": "https://dl.smwcentral.net/41106/Frappe%20Snowland.zip",
+      "filename": "Frappe Snowland.zip",
+      "size": 85073,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 40564,
+      "title": "Mario Kart 64 - DK's Jungle Parkway",
+      "version": "smwc-40564-1764247640",
+      "upstream_time": 1764247640,
+      "download_url": "https://dl.smwcentral.net/40564/Jungle%20Parkway.zip",
+      "filename": "Jungle Parkway.zip",
+      "size": 85457,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39905,
+      "title": "Mario Kart 64 - Frappe Snowland",
+      "version": "smwc-39905-1749333112",
+      "upstream_time": 1749333112,
+      "download_url": "https://dl.smwcentral.net/39905/Mario%20Kart%2064%20-%20Frappe%20Snowland.zip",
+      "filename": "Mario Kart 64 - Frappe Snowland.zip",
+      "size": 33114,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37129,
+      "title": "Mario Kart 8 - Rainbow Road (SMK Remix)",
+      "version": "smwc-37129-1711606090",
+      "upstream_time": 1711606090,
+      "download_url": "https://dl.smwcentral.net/37129/MK8%20Rainbow%20Road%20%28SMK%20Remix%29.zip",
+      "filename": "MK8 Rainbow Road (SMK Remix).zip",
+      "size": 55713,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37128,
+      "title": "Mario Kart 8 - Mario Kart Stadium (SMK Remix)",
+      "version": "smwc-37128-1711605861",
+      "upstream_time": 1711605861,
+      "download_url": "https://dl.smwcentral.net/37128/Mario%20Kart%20Stadium%20%28SMK%20Remix%29.zip",
+      "filename": "Mario Kart Stadium (SMK Remix).zip",
+      "size": 55817,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36981,
+      "title": "Mario Kart 8 - Rainbow Road",
+      "version": "smwc-36981-1710092420",
+      "upstream_time": 1710092420,
+      "download_url": "https://dl.smwcentral.net/36981/MK8%20Rainbow%20Road.zip",
+      "filename": "MK8 Rainbow Road.zip",
+      "size": 34032,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36980,
+      "title": "Mario Kart 8 - Mario Kart Stadium",
+      "version": "smwc-36980-1710117213",
+      "upstream_time": 1710117213,
+      "download_url": "https://dl.smwcentral.net/36980/Mario_Kart_Stadium.zip",
+      "filename": "Mario_Kart_Stadium.zip",
+      "size": 35325,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35764,
+      "title": "Mario Kart 8 Deluxe - Tour Vancouver Velocity",
+      "version": "smwc-35764-1703887139",
+      "upstream_time": 1703887139,
+      "download_url": "https://dl.smwcentral.net/35764/Vancouver_Velocity.zip",
+      "filename": "Vancouver_Velocity.zip",
+      "size": 98506,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35004,
+      "title": "Mario Kart 64 - Bowser's Castle",
+      "version": "smwc-35004-1697835349",
+      "upstream_time": 1697835349,
+      "download_url": "https://dl.smwcentral.net/35004/Mario%20Kart%2064%20-%20Bowser%27s%20Castle.zip",
+      "filename": "Mario Kart 64 - Bowser%27s Castle.zip",
+      "size": 99804,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32782,
+      "title": "Mario Kart 64 - Kalimari Desert",
+      "version": "smwc-32782-1680146022",
+      "upstream_time": 1680146022,
+      "download_url": "https://dl.smwcentral.net/32782/Kalimari%20Desert.zip",
+      "filename": "Kalimari Desert.zip",
+      "size": 67045,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32769,
+      "title": "Mario Kart 8 - Ice Ice Outpost",
+      "version": "smwc-32769-1678875861",
+      "upstream_time": 1678875861,
+      "download_url": "https://dl.smwcentral.net/32769/ice%20ice%20outpost.zip",
+      "filename": "ice ice outpost.zip",
+      "size": 81129,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31656,
+      "title": "Mario Kart 64 - Moo Moo Farm",
+      "version": "smwc-31656-1672447803",
+      "upstream_time": 1672447803,
+      "download_url": "https://dl.smwcentral.net/31656/MooMooFarm.zip",
+      "filename": "MooMooFarm.zip",
+      "size": 174604,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30282,
+      "title": "Mario Kart 8 Deluxe - Ninja Hideaway",
+      "version": "smwc-30282-1661995525",
+      "upstream_time": 1661995525,
+      "download_url": "https://dl.smwcentral.net/30282/Ninja%20Hideaway.zip",
+      "filename": "Ninja Hideaway.zip",
+      "size": 92286,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26823,
+      "title": "Mario Kart 8 - Ice Ice Outpost (Relaxing Waltz)",
+      "version": "smwc-26823-1622134478",
+      "upstream_time": 1622134478,
+      "download_url": "https://dl.smwcentral.net/26823/Ice%20Ice%20Outpost%20%28Relaxing%20Waltz%29.zip",
+      "filename": "Ice Ice Outpost (Relaxing Waltz).zip",
+      "size": 53787,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26678,
+      "title": "Mario Kart 64 - Toad's Turnpike",
+      "version": "smwc-26678-1619422199",
+      "upstream_time": 1619422199,
+      "download_url": "https://dl.smwcentral.net/26678/todd%20turnpike.zip",
+      "filename": "todd turnpike.zip",
+      "size": 33784,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25915,
+      "title": "Mario Kart 64 - Bright as the Night ~ Rainbow Road (Remix)",
+      "version": "smwc-25915-1613678728",
+      "upstream_time": 1613678728,
+      "download_url": "https://dl.smwcentral.net/25915/Rainbow%20Road.zip",
+      "filename": "Rainbow Road.zip",
+      "size": 67800,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25755,
+      "title": "Mario Kart 64 - Rainbow Road",
+      "version": "smwc-25755-1613081099",
+      "upstream_time": 1613081099,
+      "download_url": "https://dl.smwcentral.net/25755/MK64%20-%20Rainbow%20Road.zip",
+      "filename": "MK64 - Rainbow Road.zip",
+      "size": 32168,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25726,
+      "title": "Mario Kart 64 - Toad's Turnpike (Arrange)",
+      "version": "smwc-25726-1611460625",
+      "upstream_time": 1611460625,
+      "download_url": "https://dl.smwcentral.net/25726/mk64turnpike..zip",
+      "filename": "mk64turnpike..zip",
+      "size": 82407,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25725,
+      "title": "Mario Kart 64 - Winning Results",
+      "version": "smwc-25725-1611163087",
+      "upstream_time": 1611163087,
+      "download_url": "https://dl.smwcentral.net/25725/mk64results.zip",
+      "filename": "mk64results.zip",
+      "size": 68368,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25435,
+      "title": "Mario Kart 8 - Dolphin Shoals (Highlight Reel)",
+      "version": "smwc-25435-1607721085",
+      "upstream_time": 1607721085,
+      "download_url": "https://dl.smwcentral.net/25435/Dolphin%20Shoals.zip",
+      "filename": "Dolphin Shoals.zip",
+      "size": 33248,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24381,
+      "title": "Mario Kart 64 - Toad's Turnpike",
+      "version": "smwc-24381-1599456408",
+      "upstream_time": 1599456408,
+      "download_url": "https://dl.smwcentral.net/24381/mk64_turnpike_.zip",
+      "filename": "mk64_turnpike_.zip",
+      "size": 85673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22389,
+      "title": "Mario Kart 64 - Koopa Troopa Beach",
+      "version": "smwc-22389-1585703687",
+      "upstream_time": 1585703687,
+      "download_url": "https://dl.smwcentral.net/22389/Mario%20Kart%2064%20-%20Koopa%20Troopa%20Beach.zip",
+      "filename": "Mario Kart 64 - Koopa Troopa Beach.zip",
+      "size": 76716,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21123,
+      "title": "Mario Kart 64 - Frappe Snowland",
+      "version": "smwc-21123-1568233423",
+      "upstream_time": 1568233423,
+      "download_url": "https://dl.smwcentral.net/21123/Mario%20Kart%2064%20-%20Frappe%20Snowland.zip",
+      "filename": "Mario Kart 64 - Frappe Snowland.zip",
+      "size": 31922,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20264,
+      "title": "Mario Kart 64 - Kalimari Desert",
+      "version": "smwc-20264-1561403716",
+      "upstream_time": 1561403716,
+      "download_url": "https://dl.smwcentral.net/20264/Kalimari%20Desert.zip",
+      "filename": "Kalimari Desert.zip",
+      "size": 31906,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14720,
+      "title": "Mario Kart 64 - Rainbow Road",
+      "version": "smwc-14720-1481832462",
+      "upstream_time": 1481832462,
+      "download_url": "https://dl.smwcentral.net/14720/Mario%20Kart%2064%20-%20Rainbow%20Road.zip",
+      "filename": "Mario Kart 64 - Rainbow Road.zip",
+      "size": 73777,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14586,
+      "title": "Mario Kart 64 - Toad's Turnpike",
+      "version": "smwc-14586-1477954588",
+      "upstream_time": 1477954588,
+      "download_url": "https://dl.smwcentral.net/14586/Mario%20Kart%2064%20-%20Toad%27s%20Turnpike.zip",
+      "filename": "Mario Kart 64 - Toad%27s Turnpike.zip",
+      "size": 77687,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11557,
+      "title": "Mario Kart 64 - Rainbow Road",
+      "version": "smwc-11557-1437618757",
+      "upstream_time": 1437618757,
+      "download_url": "https://dl.smwcentral.net/11557/RainbowRoad.zip",
+      "filename": "RainbowRoad.zip",
+      "size": 32317,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8543,
+      "title": "Mario Kart 64 - Koopa Troopa Beach",
+      "version": "smwc-8543-1396516466",
+      "upstream_time": 1396516466,
+      "download_url": "https://dl.smwcentral.net/8543/Koopa%20Beach.zip",
+      "filename": "Koopa Beach.zip",
+      "size": 64979,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

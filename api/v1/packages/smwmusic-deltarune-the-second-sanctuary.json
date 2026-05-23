@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-deltarune-the-second-sanctuary",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40788,
+  "title": "Deltarune - The Second Sanctuary",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "night",
+    "ruins",
+    "temple",
+    "tense"
+  ],
+  "description": "One of my entries for Super Famicompo 7. Includes the original HQ version just for listening.<br>\r\nNot compatible with Starman, P-Switch, Bonus End, Yoshi, Thunder, and death sfx will sound weird.",
+  "latest_version": "smwc-40788-1763406478",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40788,
+      "title": "Deltarune - The Second Sanctuary",
+      "version": "smwc-40788-1763406478",
+      "upstream_time": 1763406478,
+      "download_url": "https://dl.smwcentral.net/40788/Deltarune%20-%20The%20Second%20Sanctuary.zip",
+      "filename": "Deltarune - The Second Sanctuary.zip",
+      "size": 129277,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

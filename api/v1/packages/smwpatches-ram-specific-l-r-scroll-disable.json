@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-ram-specific-l-r-scroll-disable",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20355,
+  "title": "RAM Specific L/R Scroll Disable",
+  "authors": [
+    "Chdata"
+  ],
+  "tags": [
+    "disable",
+    "l and r",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Disables L/R Scrolling if the freeram address you specify is not equal to zero. Works midlevel too, and you can constantly flip this status if you want.<br>\r\n<br>\r\nNote: if you just want to disable L/R scroll in the entire game, use the hex edit at <a href=\"https://smwc.me/m/smw/rom/00CDF6\">$00CDF6</a> instead.",
+  "latest_version": "smwc-20355-1562098770",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20355,
+      "title": "RAM Specific L/R Scroll Disable",
+      "version": "smwc-20355-1562098770",
+      "upstream_time": 1562098770,
+      "download_url": "https://dl.smwcentral.net/20355/LRdis.zip",
+      "filename": "LRdis.zip",
+      "size": 387,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-katamari-damacy-nananan-katamari-sepia",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7990,
+  "title": "Katamari Damacy - Nananan Katamari Sepia",
+  "authors": [
+    "Counterfeit"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "Catchy song from Katamari Damacy. Good for bonus rooms.",
+  "latest_version": "smwc-7990-1312184863",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7990,
+      "title": "Katamari Damacy - Nananan Katamari Sepia",
+      "version": "smwc-7990-1312184863",
+      "upstream_time": 1312184863,
+      "download_url": "https://dl.smwcentral.net/7990/Katamari%20Damacy.zip",
+      "filename": "Katamari Damacy.zip",
+      "size": 66721,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

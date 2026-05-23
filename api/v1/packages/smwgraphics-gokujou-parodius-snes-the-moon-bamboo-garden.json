@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-gokujou-parodius-snes-the-moon-bamboo-garden",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38030,
+  "title": "Gokujou Parodius (SNES) - The Moon (Bamboo Garden)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "forest",
+    "space"
+  ],
+  "description": "Part of the background seen in The Moon, when the player fights Princess Kaguya, in Gokujou Parodius. Doesn't include fancy HDMA and the temple portion seen at the beginning of the boss fight. You'll need to cover the minor cutoff of the bottom part of the background with foreground or creating new tiles, but that should be simple enough to do so.<br>\r\n<br>\r\nUPDATE: Massive GFX optimization. Uses 2 GFX slots only now.  ",
+  "latest_version": "smwc-38030-1722469369",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38030,
+      "title": "Gokujou Parodius (SNES) - The Moon (Bamboo Garden)",
+      "version": "smwc-38030-1722469369",
+      "upstream_time": 1722469369,
+      "download_url": "https://dl.smwcentral.net/38030/Gokujou%20Parodius%20%28SNES%29%20-%20Moon%20%28Bamboo%20Garden%29%28UPDATE%29.zip",
+      "filename": "Gokujou Parodius (SNES) - Moon (Bamboo Garden)(UPDATE).zip",
+      "size": 5490,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-kill-sprite-on-screen",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3908,
+  "title": "Kill Sprite On-screen",
+  "authors": [
+    "HuFlungDu"
+  ],
+  "tags": [
+    "kill",
+    "lorom",
+    "sprites"
+  ],
+  "description": "This block will kill all of a certain sprite that is on screen when you touch it. No credit necessary.",
+  "latest_version": "smwc-3908-1426036372",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3908,
+      "title": "Kill Sprite On-screen",
+      "version": "smwc-3908-1426036372",
+      "upstream_time": 1426036372,
+      "download_url": "https://dl.smwcentral.net/3908/Kill%20It.zip",
+      "filename": "Kill It.zip",
+      "size": 928,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

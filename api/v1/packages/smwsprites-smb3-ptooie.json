@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-smb3-ptooie",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16134,
+  "title": "SMB3 Ptooie",
+  "authors": [
+    "Romi"
+  ],
+  "tags": [
+    "forest",
+    "lorom",
+    "piranha plant",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "A piranha plant from SMB3 that blows a spiky ball.<br>\r\n<br>\r\nThis sprite was part of Romi's Sprite Package, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16134-1504028899",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16134,
+      "title": "SMB3 Ptooie",
+      "version": "smwc-16134-1504028899",
+      "upstream_time": 1504028899,
+      "download_url": "https://dl.smwcentral.net/16134/SMB3Ptooie.zip",
+      "filename": "SMB3Ptooie.zip",
+      "size": 4121,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

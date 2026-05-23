@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-iii-the-invincible",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8108,
+  "title": "Final Fantasy III - The Invincible",
+  "authors": [
+    "DgBarca"
+  ],
+  "tags": [
+    "overworld",
+    "sky"
+  ],
+  "description": "A song from FF3 good for Carol's OW Airship (or OW).",
+  "latest_version": "smwc-8108-1320050876",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8108,
+      "title": "Final Fantasy III - The Invincible",
+      "version": "smwc-8108-1320050876",
+      "upstream_time": 1320050876,
+      "download_url": "https://dl.smwcentral.net/8108/FF3-TheInvincible.zip",
+      "filename": "FF3-TheInvincible.zip",
+      "size": 215807,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

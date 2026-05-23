@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-battle-garegga-degeneracy-arranged",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13773,
+  "title": "Battle Garegga - Degeneracy (Arranged Version)",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "industrial",
+    "night",
+    "space",
+    "urban"
+  ],
+  "description": "The theme from stage 4, in the Saturn version of the game (if you don't use the orignal arcade music or something). Pretty groovy.<br>\r\n<br>\r\nAlso I had to delete several samples, so no yoshis or thunders.",
+  "latest_version": "smwc-13773-1465493608",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13773,
+      "title": "Battle Garegga - Degeneracy (Arranged Version)",
+      "version": "smwc-13773-1465493608",
+      "upstream_time": 1465493608,
+      "download_url": "https://dl.smwcentral.net/13773/degeneracy.zip",
+      "filename": "degeneracy.zip",
+      "size": 82695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

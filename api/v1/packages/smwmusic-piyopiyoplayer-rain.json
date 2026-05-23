@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-piyopiyoplayer-rain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27694,
+  "title": "PiyoPiyoPlayer - Rain",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "game over",
+    "misc",
+    "sad"
+  ],
+  "description": "A piano piece song, made by Pixel on his spare time, in a collection of songs from PiyoPiyoPlayer. This one's the gameover version using SMW samples only.<br>\r\n<br>\r\n<br>\r\nMod note: By default, the song will cut out as the Game Over screen does not last long enough. You should use a patch such as <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4862\">this one</a> to circumvent this.",
+  "latest_version": "smwc-27694-1629746009",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27694,
+      "title": "PiyoPiyoPlayer - Rain",
+      "version": "smwc-27694-1629746009",
+      "upstream_time": 1629746009,
+      "download_url": "https://dl.smwcentral.net/27694/Gameover%20Rain%20%28Unsampled%29.zip",
+      "filename": "Gameover Rain (Unsampled).zip",
+      "size": 31242,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27693,
+      "title": "PiyoPiyoPlayer - Rain",
+      "version": "smwc-27693-1629745940",
+      "upstream_time": 1629745940,
+      "download_url": "https://dl.smwcentral.net/27693/Gameover%20Rain.zip",
+      "filename": "Gameover Rain.zip",
+      "size": 74206,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "smwsprites-springboard",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19923,
+  "title": "Springboard",
+  "authors": [
+    "RussianMan",
+    "imamelia"
+  ],
+  "tags": [
+    "bounce",
+    "carriable",
+    "item",
+    "lorom",
+    "on off",
+    "pacifist",
+    "sa-1",
+    "springboard",
+    "stationary"
+  ],
+  "description": "This is a new disassembly of sprite 2F in SMW - Springboard.<br>\r\n<br>\r\nIt comes with some cool features, check out readme for more details.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-19923-1558199011",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19923,
+      "title": "Springboard",
+      "version": "smwc-19923-1558199011",
+      "upstream_time": 1558199011,
+      "download_url": "https://dl.smwcentral.net/19923/Springboard%201.1.zip",
+      "filename": "Springboard 1.1.zip",
+      "size": 11680,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

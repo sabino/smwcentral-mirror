@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-popful-mail-snes-argazarl-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36762,
+  "title": "Popful Mail (SNES) - Argazarl Castle",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "castle",
+    "cave",
+    "dark",
+    "final",
+    "ice",
+    "industrial",
+    "snow"
+  ],
+  "description": "The final level music from SFC Popful Mail. Fits final areas, castles and ice levels. <a href=\"https://smwc.me/1632032\">Requested by Anorakun.</a>",
+  "latest_version": "smwc-36762-1706741963",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36762,
+      "title": "Popful Mail (SNES) - Argazarl Castle",
+      "version": "smwc-36762-1706741963",
+      "upstream_time": 1706741963,
+      "download_url": "https://dl.smwcentral.net/36762/Popful%20Mail%20%28SFC%29%20-%20Argazarl%20Castle.zip",
+      "filename": "Popful Mail (SFC) - Argazarl Castle.zip",
+      "size": 65832,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

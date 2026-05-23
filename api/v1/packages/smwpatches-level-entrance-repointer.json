@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-level-entrance-repointer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 23511,
+  "title": "Level Entrance Repointer",
+  "authors": [
+    "JamesD28",
+    "Smallhacker"
+  ],
+  "tags": [
+    "entrances",
+    "level",
+    "lorom",
+    "no yoshi",
+    "sa-1"
+  ],
+  "description": "This patch allows the user to repoint the entrance levels for Ghost Houses, Castles, and No Yoshi levels. Smallhacker released it on January 1, 2006.<br>\r\n<br>\r\nUpdate 02/07/2020 (dd/mm/yyyy): See remoderation notes in comments.",
+  "latest_version": "smwc-23511-1596751522",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 23511,
+      "title": "Level Entrance Repointer",
+      "version": "smwc-23511-1596751522",
+      "upstream_time": 1596751522,
+      "download_url": "https://dl.smwcentral.net/23511/LevelEntrance.zip",
+      "filename": "LevelEntrance.zip",
+      "size": 2391,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

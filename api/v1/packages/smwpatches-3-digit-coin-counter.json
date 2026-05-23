@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-3-digit-coin-counter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20320,
+  "title": "3 Digit Coin Counter",
+  "authors": [
+    "Lightvayne",
+    "Nimono",
+    "p4plus2"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "sa-1",
+    "sonic",
+    "status bar"
+  ],
+  "description": "Changes the original coin counter into a 3-digit one that counts up to 999 and stops without giving 1-ups. <br>\r\n<br>\r\nThe new version is now updated for asar and has been cleaned up quite a bit, and also got SA-1 support. New compatible shop blocks for GPS are also included.",
+  "latest_version": "smwc-20320-1561779849",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20320,
+      "title": "3 Digit Coin Counter",
+      "version": "smwc-20320-1561779849",
+      "upstream_time": 1561779849,
+      "download_url": "https://dl.smwcentral.net/20320/3%20digit%20coin%20counter.zip",
+      "filename": "3 digit coin counter.zip",
+      "size": 6462,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

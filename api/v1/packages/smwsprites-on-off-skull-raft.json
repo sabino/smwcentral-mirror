@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-on-off-skull-raft",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39046,
+  "title": "ON/OFF Skull Raft",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "platform",
+    "sa-1",
+    "switch"
+  ],
+  "description": "A skull raft which is solid depending on the ON/OFF status: the extra bit controls whether it's solid when the switch is ON (clear) or OFF (set).<br>\r\nThe first extension byte controls the number of skulls, but be careful! Each skull is an individual sprite, just like in the vanilla game.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Metro Shroomin\"><a href=\"/?p=profile&amp;id=64708\" style=\"color: var(--user-color-2);\" class=\"un\">Metro Shroomin</a></span>.",
+  "latest_version": "smwc-39046-1741579337",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39046,
+      "title": "ON/OFF Skull Raft",
+      "version": "smwc-39046-1741579337",
+      "upstream_time": 1741579337,
+      "download_url": "https://dl.smwcentral.net/39046/ON-OFF%20Skull%20Raft.zip",
+      "filename": "ON-OFF Skull Raft.zip",
+      "size": 5539,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

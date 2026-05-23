@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-wild-mechakoopa-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20591,
+  "title": "Wild Mechakoopa v1.1",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "castle",
+    "enemy",
+    "lorom",
+    "mechakoopa",
+    "sa-1"
+  ],
+  "description": "This Mechakoopa hops around with customisable period and maximum height. If the extra bit is set, the Mechakoopa will explode instead of recover after begin stunned.<br>\r\n<br>\r\nIncludes a lot of defines to customise:<br>\r\n<br>\r\n-Custom palette for the extra bit version.<br>\r\n<br>\r\n-Expanded palettes for the recovering animation (up to 8 different palettes).<br>\r\n<br>\r\n-Customisable recovery time.<br>\r\n<br>\r\nAnd a lot more. Check out the readme for the details<br>\r\n<br>\r\nBased on imamelia's dissasembly of the Mechakoopa.<br>\r\n<br>\r\nv1.1<br>\r\n<br>\r\nWhat's changed:<br>\r\n<br>\r\n-Now SA-1 hybrid.<br>\r\n-Added three extra bytes to customise the mechakoopa Y speed, X speed and palette.<br>\r\n-Fixed sprite-sprite interaction so now the mechakoopa updates his speed even in the air when interacting with another sprite.",
+  "latest_version": "smwc-20591-1564737956",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20591,
+      "title": "Wild Mechakoopa v1.1",
+      "version": "smwc-20591-1564737956",
+      "upstream_time": 1564737956,
+      "download_url": "https://dl.smwcentral.net/20591/wild_mechakoopa.zip",
+      "filename": "wild_mechakoopa.zip",
+      "size": 4785,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

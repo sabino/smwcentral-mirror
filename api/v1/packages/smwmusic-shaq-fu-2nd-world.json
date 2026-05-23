@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shaq-fu-2nd-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39448,
+  "title": "Shaq-Fu - 2nd World",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "forest",
+    "jungle",
+    "night",
+    "overworld",
+    "ruins"
+  ],
+  "description": "2nd World from Shaq-Fu, played on the Overworld during the Story Mode.",
+  "latest_version": "smwc-39448-1744468584",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39448,
+      "title": "Shaq-Fu - 2nd World",
+      "version": "smwc-39448-1744468584",
+      "upstream_time": 1744468584,
+      "download_url": "https://dl.smwcentral.net/39448/Shaq%20Fu%20-%202nd%20World.zip",
+      "filename": "Shaq Fu - 2nd World.zip",
+      "size": 48394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

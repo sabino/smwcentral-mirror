@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-area-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39375,
+  "title": "Hudson's Adventure Island - Area Clear",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "Area Clear from Hudson's Adventure Island.",
+  "latest_version": "smwc-39375-1741193796",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39375,
+      "title": "Hudson's Adventure Island - Area Clear",
+      "version": "smwc-39375-1741193796",
+      "upstream_time": 1741193796,
+      "download_url": "https://dl.smwcentral.net/39375/Hudson%27s%20Adventure%20Island%20-%20Area%20Clear.zip",
+      "filename": "Hudson%27s Adventure Island - Area Clear.zip",
+      "size": 38714,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

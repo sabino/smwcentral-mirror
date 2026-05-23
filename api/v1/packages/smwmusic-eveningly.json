@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-eveningly",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11262,
+  "title": "Eveningly",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "forest",
+    "grassland",
+    "misc",
+    "overworld",
+    "town"
+  ],
+  "description": "A mellow above-ground level theme. Original composition.<br>\r\nCould fit in many places suited to a mellower mood.",
+  "latest_version": "smwc-11262-1432189812",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11262,
+      "title": "Eveningly",
+      "version": "smwc-11262-1432189812",
+      "upstream_time": 1432189812,
+      "download_url": "https://dl.smwcentral.net/11262/eveningly.zip",
+      "filename": "eveningly.zip",
+      "size": 31483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

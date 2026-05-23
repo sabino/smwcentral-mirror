@@ -1,0 +1,62 @@
+{
+  "name": "smwmusic-savage-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27288,
+  "title": "Savage - Level 3",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle"
+  ],
+  "description": "Song from the third stage of Savage for the Amiga.",
+  "latest_version": "smwc-27288-1625114981",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27288,
+      "title": "Savage - Level 3",
+      "version": "smwc-27288-1625114981",
+      "upstream_time": 1625114981,
+      "download_url": "https://dl.smwcentral.net/27288/Savage%20-%20Level%203.zip",
+      "filename": "Savage - Level 3.zip",
+      "size": 93559,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27287,
+      "title": "Savage - Level 2",
+      "version": "smwc-27287-1625114637",
+      "upstream_time": 1625114637,
+      "download_url": "https://dl.smwcentral.net/27287/Savage%20-%20Level%202.zip",
+      "filename": "Savage - Level 2.zip",
+      "size": 100318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27251,
+      "title": "Savage - Level 1",
+      "version": "smwc-27251-1625112587",
+      "upstream_time": 1625112587,
+      "download_url": "https://dl.smwcentral.net/27251/Savage%20-%20Level%201.zip",
+      "filename": "Savage - Level 1.zip",
+      "size": 106826,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

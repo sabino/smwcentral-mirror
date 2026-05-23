@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-homestuck-doctor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37490,
+  "title": "Homestuck - Doctor",
+  "authors": [
+    "Kevin",
+    "neodym65"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "sad"
+  ],
+  "description": "Ported to AddmusicK from <a href=\"https://www.youtube.com/watch?v=FVdsCVxezx0\" rel=\"nofollow\">https://www.youtube.com/watch?v=FVdsCVxezx0</a>",
+  "latest_version": "smwc-37490-1717213202",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37490,
+      "title": "Homestuck - Doctor",
+      "version": "smwc-37490-1717213202",
+      "upstream_time": 1717213202,
+      "download_url": "https://dl.smwcentral.net/37490/Doctor.zip",
+      "filename": "Doctor.zip",
+      "size": 42711,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-rexes-with-extra-bit-set-are-squished",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27788,
+  "title": "Rexes With Extra Bit Set Are Squished",
+  "authors": [
+    "Supermario1313"
+  ],
+  "tags": [
+    "extra bit",
+    "lorom",
+    "rex",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch makes rexes with extra bit set (Edit &gt; Insert manual in sprite editing mode, Sprite command AB, Extra bits 1) to spawn squished.<br>\r\n<br>\r\nYou can change the way the patch is implemented by changing the defines in the asm file.<br>\r\n<br>\r\nYou need to run PIXI on your rom at least once for this patch to work properly. ",
+  "latest_version": "smwc-27788-1634583455",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27788,
+      "title": "Rexes With Extra Bit Set Are Squished",
+      "version": "smwc-27788-1634583455",
+      "upstream_time": 1634583455,
+      "download_url": "https://dl.smwcentral.net/27788/squishyrex.zip",
+      "filename": "squishyrex.zip",
+      "size": 1135,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

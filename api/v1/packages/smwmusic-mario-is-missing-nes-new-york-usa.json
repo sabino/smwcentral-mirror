@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-mario-is-missing-nes-new-york-usa",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28713,
+  "title": "Mario is Missing! (NES) - New York USA",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "grassland",
+    "overworld",
+    "retro",
+    "town",
+    "urban"
+  ],
+  "description": "Sampled version of the New York song heard in the \"first stage\" of Mario is Missing! for the NES.<br>\r\n<br>\r\nCan be used in 8-bit towns, cities and other urban places.<br>\r\n<br>\r\n<s>Warning: Not recommended with SFX that use noise!</s><br>\r\nNot anymore, can be used anywhere no matter the sfx.<br>\r\n<br>\r\nOld Description:<br>\r\n<br>\r\nHuge thanks to brickblock369 and mish1 for helping with the port.<br>\r\n<br>\r\nThis is my first sampled port on the site, I hope you guys enjoy it! =D<br>\r\n<br>\r\n(Samples from musicalman's Summer C3 2019 Thread found here - https://www.smwcentral.net/?p=viewthread&t=98488)<br>\r\n<br>\r\nEdit: Pretty much redid the whole thing to be more accurate, now uses the correct percussion samples as well.",
+  "latest_version": "smwc-28713-1639617726",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28713,
+      "title": "Mario is Missing! (NES) - New York USA",
+      "version": "smwc-28713-1639617726",
+      "upstream_time": 1639617726,
+      "download_url": "https://dl.smwcentral.net/28713/Mario%20is%20Missing%21%20%28NES%29%20-%20New%20York%20USA%20Sampled.zip",
+      "filename": "Mario is Missing%21 (NES) - New York USA Sampled.zip",
+      "size": 36974,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26893,
+      "title": "Mario is Missing! (NES) - New York USA",
+      "version": "smwc-26893-1621731597",
+      "upstream_time": 1621731597,
+      "download_url": "https://dl.smwcentral.net/26893/Mario%20is%20Missing%21%20%28NES%29%20-%20New%20York%20USA.zip",
+      "filename": "Mario is Missing%21 (NES) - New York USA.zip",
+      "size": 31318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

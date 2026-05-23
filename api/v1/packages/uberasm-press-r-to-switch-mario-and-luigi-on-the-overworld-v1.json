@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-press-r-to-switch-mario-and-luigi-on-the-overworld-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41659,
+  "title": "Press R to Switch Mario and Luigi on the Overworld V1.1",
+  "authors": [
+    "Bensalot",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "player",
+    "sa-1"
+  ],
+  "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with Smallhacker's Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Merged the lives.asm patch into the main UberASM's file so you don't need to apply the patch separately.<br>\r\n- Removed the 1control.asm file, because there is now a <a href=\"https://smwc.me/w/22\">tweak</a> that does the exact same thing and it's not required for this patch to function. In addition, that tweak is SA-1 compatible while this was not.<br>\r\n- Made the patch code properly remove itself when you unpatch it, instead of running the original code in free space.<br>\r\n- Added FastROM support to the patch.<br>\r\n- Changed the main label to end, which makes it so overworld Mario/Luigi don't visually update during the fade out.<br>\r\n- Fixed a minor visual quirk where Luigi does not lose his halo when selecting continue.<br>\r\n- Various minor optimizations.</div></div>",
+  "latest_version": "smwc-41659-1772933113",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41659,
+      "title": "Press R to Switch Mario and Luigi on the Overworld V1.1",
+      "version": "smwc-41659-1772933113",
+      "upstream_time": 1772933113,
+      "download_url": "https://dl.smwcentral.net/41659/RtoSwitchOW%20V1.1.zip",
+      "filename": "RtoSwitchOW V1.1.zip",
+      "size": 1776,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

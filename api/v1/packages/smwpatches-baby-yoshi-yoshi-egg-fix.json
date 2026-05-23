@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-baby-yoshi-yoshi-egg-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14695,
+  "title": "Baby Yoshi & Yoshi Egg Fix",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "ground",
+    "lorom",
+    "needs remoderation",
+    "off screen",
+    "proximity",
+    "sprites",
+    "yoshi",
+    "yoshi egg"
+  ],
+  "description": "This patch fixes many glitches that the Baby Yoshi and the Yoshi Egg sprite have due to lacking checks or routines.<br>\r\n<br>\r\nIt adds to the Baby Yoshi a routine that makes the sprite disappear when an adult Yoshi is already present in the area and a pointer to an off screen routine that can be used by unchecking 'Process when off screen' with Tweaker should the user wants it.<br>\r\n<br>\r\nIt adds to the Yoshi Egg a sprites locked flag so it doesn't run routines when the flag is set, a pointer to an off screen routine so it doesn't cause any slowdown, a proper ground detection so it doesn't float in the air and a new proximity routine that checks the horizontal and vertical position of the player when getting near.<br>\r\n<br>\r\nMore details in the readme.",
+  "latest_version": "smwc-14695-1481825440",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14695,
+      "title": "Baby Yoshi & Yoshi Egg Fix",
+      "version": "smwc-14695-1481825440",
+      "upstream_time": 1481825440,
+      "download_url": "https://dl.smwcentral.net/14695/Baby%20Yoshi%20%26%20Yoshi%20Egg%20Fix.zip",
+      "filename": "Baby Yoshi %26 Yoshi Egg Fix.zip",
+      "size": 2865,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

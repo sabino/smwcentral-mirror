@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-super-smash-bros-melee-battlefield",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37040,
+  "title": "Super Smash Bros. Melee - Battlefield",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "airship",
+    "boss",
+    "chase",
+    "dark",
+    "mysterious",
+    "space"
+  ],
+  "description": "Super Famicompo 5 based of, Could fit on space or abstract levels",
+  "latest_version": "smwc-37040-1713852583",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37040,
+      "title": "Super Smash Bros. Melee - Battlefield",
+      "version": "smwc-37040-1713852583",
+      "upstream_time": 1713852583,
+      "download_url": "https://dl.smwcentral.net/37040/ssbm%20battlefield.zip",
+      "filename": "ssbm battlefield.zip",
+      "size": 81303,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

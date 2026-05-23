@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-mario-vs-dk-switches-and-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 13817,
+  "title": "Mario vs. DK Switches and Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "puzzle",
+    "switch"
+  ],
+  "description": "This block pack is inspired by SMWCP's level named \"Switch of Many Hues\". When Mario presses a colored switch, the corresponding colored blocks will become solid while all other colors will be deactivated (so only 1 color switch is always activated, like <a href=\"https://en.wikipedia.org/wiki/Radio_button\" rel=\"nofollow\">radio buttons</a>). Very useful for designing puzzle levels.<br>\r\n<br>\r\nI made this using the manual trigger of LM.<br>\r\nRead the readme to setup the blocks correctly.<br>\r\n<br>\r\n1/31/2016 edit: Added palmask.",
+  "latest_version": "smwc-13817-1470005496",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 13817,
+      "title": "Mario vs. DK Switches and Blocks",
+      "version": "smwc-13817-1470005496",
+      "upstream_time": 1470005496,
+      "download_url": "https://dl.smwcentral.net/13817/MarioVsDKSwitchBlocks.zip",
+      "filename": "MarioVsDKSwitchBlocks.zip",
+      "size": 80897,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-slipping-sfx",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40932,
+  "title": "Slipping SFX",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sfx"
+  ],
+  "description": "Adds a sound effect whenever Mario is slipping on a slippery surface, similarly to how it's done in Yoshi's Island.<br>\r\n<br>\r\nComes with a custom sound effect as well instructions on how to insert it.",
+  "latest_version": "smwc-40932-1762103160",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40932,
+      "title": "Slipping SFX",
+      "version": "smwc-40932-1762103160",
+      "upstream_time": 1762103160,
+      "download_url": "https://dl.smwcentral.net/40932/Slipping%20SFX.zip",
+      "filename": "Slipping SFX.zip",
+      "size": 31892,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-funky-boo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7335,
+  "title": "Funky Boo",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "A Jazzy custom composition.",
+  "latest_version": "smwc-7335-1312337663",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7335,
+      "title": "Funky Boo",
+      "version": "smwc-7335-1312337663",
+      "upstream_time": 1312337663,
+      "download_url": "https://dl.smwcentral.net/7335/Funky%20Boo.zip",
+      "filename": "Funky Boo.zip",
+      "size": 67638,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

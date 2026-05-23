@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-slope-muncher",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22226,
+  "title": "Slope Muncher",
+  "authors": [
+    "NaroGugul"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "muncher"
+  ],
+  "description": "Very simple muncher sprite.<br>\r\nIt will fall and adapt itself to the ground/slopes.<br>\r\nIt will kill mario if touched, no matter if powerup or not",
+  "latest_version": "smwc-22226-1587647591",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22226,
+      "title": "Slope Muncher",
+      "version": "smwc-22226-1587647591",
+      "upstream_time": 1587647591,
+      "download_url": "https://dl.smwcentral.net/22226/GarboSlopeMuncher.zip",
+      "filename": "GarboSlopeMuncher.zip",
+      "size": 2500,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

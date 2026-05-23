@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-spectrobes-beyond-the-portals-malik",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29367,
+  "title": "Spectrobes ~ Beyond the Portals - Malik",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "dark",
+    "fire",
+    "overworld",
+    "tense"
+  ],
+  "description": "Could be used for an overworld and/or for a volcanic theme.<br>\r\nIncluded two versions: the normal one only works on overworlds, while for levels use the optimized one (not compatible with Bonus End, Thunder, Yoshi and P-Switch).",
+  "latest_version": "smwc-29367-1649376231",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29367,
+      "title": "Spectrobes ~ Beyond the Portals - Malik",
+      "version": "smwc-29367-1649376231",
+      "upstream_time": 1649376231,
+      "download_url": "https://dl.smwcentral.net/29367/Malik.zip",
+      "filename": "Malik.zip",
+      "size": 160035,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

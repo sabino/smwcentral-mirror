@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-moonside-swing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11393,
+  "title": "EarthBound - Moonside Swing",
+  "authors": [
+    "SMW_Hacker17"
+  ],
+  "tags": [
+    "dark",
+    "misc",
+    "night",
+    "spooky"
+  ],
+  "description": "This song is about Ness and Jeff were in the backward city to find the Evil Mani Mani statue.",
+  "latest_version": "smwc-11393-1433615220",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11393,
+      "title": "EarthBound - Moonside Swing",
+      "version": "smwc-11393-1433615220",
+      "upstream_time": 1433615220,
+      "download_url": "https://dl.smwcentral.net/11393/Earthbound%20-%20Moonside%20Swing.zip",
+      "filename": "Earthbound - Moonside Swing.zip",
+      "size": 47000,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

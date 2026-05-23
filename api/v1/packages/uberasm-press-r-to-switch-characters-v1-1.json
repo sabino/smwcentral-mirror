@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-press-r-to-switch-characters-v1-1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41819,
+  "title": "Press R to Switch Characters V1.1.1",
+  "authors": [
+    "AuraDee",
+    "Noobish Noobsicle",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this compatible with UberASM Tool 2.0<br>\r\n- Added a check to prevent the R button from switching characters while the game is paused, you're in a No Yoshi intro, a message is displaying, or you're doing the goal walk.<br>\r\n- Added an option to give Mario and Luigi a separate item box.<br>\r\n- Made the button to press for the character switch configurable.<br>\r\n- Made it so L/R scrolling is not disabled.<br>\r\n- Included a helper UberASM that fixes a major problem that occurs on the overworld if you exit the level as a different character than the one you entered with.<br>\r\n- Optimized the code a bit.</div></div>",
+  "latest_version": "smwc-41819-1772931288",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41819,
+      "title": "Press R to Switch Characters V1.1.1",
+      "version": "smwc-41819-1772931288",
+      "upstream_time": 1772931288,
+      "download_url": "https://dl.smwcentral.net/41819/RChar%20V1.1.1.zip",
+      "filename": "RChar V1.1.1.zip",
+      "size": 1881,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

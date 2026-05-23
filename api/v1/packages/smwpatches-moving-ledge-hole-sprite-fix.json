@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-moving-ledge-hole-sprite-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19572,
+  "title": "Moving Ledge Hole Sprite Fix",
+  "authors": [
+    "Tattletale"
+  ],
+  "tags": [
+    "lorom",
+    "moving ledge",
+    "sa-1"
+  ],
+  "description": "Not exactly a bug fix, but this patches makes it so the hitbox for this sprite feel a lot better when entering the hole from below and throwing up items from below it.",
+  "latest_version": "smwc-19572-1555474898",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19572,
+      "title": "Moving Ledge Hole Sprite Fix",
+      "version": "smwc-19572-1555474898",
+      "upstream_time": 1555474898,
+      "download_url": "https://dl.smwcentral.net/19572/movingledgefix%20v1.zip",
+      "filename": "movingledgefix v1.zip",
+      "size": 866,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

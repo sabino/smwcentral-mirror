@@ -1,0 +1,67 @@
+{
+  "name": "smwmusic-new-super-mario-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34464,
+  "title": "New Super Mario World 1: The Twelve Magic Orbs Powered-Up - Death Jingles",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "abstract",
+    "beach",
+    "cave",
+    "city",
+    "desert",
+    "final",
+    "fire",
+    "forest",
+    "grassland",
+    "ice",
+    "industrial",
+    "misc",
+    "miss",
+    "mountain",
+    "ruins",
+    "sewer",
+    "sky",
+    "snow",
+    "space",
+    "spooky",
+    "urban",
+    "water"
+  ],
+  "description": "13 remixes of SMW's death jingle used in NSMW1: The 12 Magic Orbs.",
+  "latest_version": "smwc-34464-1696142371",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34464,
+      "title": "New Super Mario World 1: The Twelve Magic Orbs Powered-Up - Death Jingles",
+      "version": "smwc-34464-1696142371",
+      "upstream_time": 1696142371,
+      "download_url": "https://dl.smwcentral.net/34464/DEATH.zip",
+      "filename": "DEATH.zip",
+      "size": 465385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25703,
+      "title": "New Super Mario World 2: Around The World - Death Songs",
+      "version": "smwc-25703-1611517308",
+      "upstream_time": 1611517308,
+      "download_url": "https://dl.smwcentral.net/25703/NSMW2%20Death%20Songs.zip",
+      "filename": "NSMW2 Death Songs.zip",
+      "size": 586208,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

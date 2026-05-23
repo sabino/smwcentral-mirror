@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tiny-toon-adventures-nes-undersea",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39707,
+  "title": "Tiny Toon Adventures (NES) - Undersea",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "overworld",
+    "water"
+  ],
+  "description": "Requested by VeracitySMWC",
+  "latest_version": "smwc-39707-1745938093",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39707,
+      "title": "Tiny Toon Adventures (NES) - Undersea",
+      "version": "smwc-39707-1745938093",
+      "upstream_time": 1745938093,
+      "download_url": "https://dl.smwcentral.net/39707/TTA%20Undersea.zip",
+      "filename": "TTA Undersea.zip",
+      "size": 31319,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

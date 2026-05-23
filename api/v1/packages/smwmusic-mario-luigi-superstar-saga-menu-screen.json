@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-menu-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8561,
+  "title": "Mario & Luigi: Superstar Saga - Menu Screen",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "night",
+    "overworld",
+    "sky"
+  ],
+  "description": "The calm music that plays on the menu screen in M&L: SS.  Would suit a calm cutscene or starry sky map.  It could also work well in Princess Peach's castle.",
+  "latest_version": "smwc-8561-1397726264",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8561,
+      "title": "Mario & Luigi: Superstar Saga - Menu Screen",
+      "version": "smwc-8561-1397726264",
+      "upstream_time": 1397726264,
+      "download_url": "https://dl.smwcentral.net/8561/Menu%20Screen.zip",
+      "filename": "Menu Screen.zip",
+      "size": 64083,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-donkey-kong-country-voices-of-the-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14486,
+  "title": "Donkey Kong Country - Voices of the Temple",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "jungle",
+    "ruins",
+    "swamp",
+    "temple"
+  ],
+  "description": "Mysterious/ominous song good for temples.",
+  "latest_version": "smwc-14486-1477159373",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14486,
+      "title": "Donkey Kong Country - Voices of the Temple",
+      "version": "smwc-14486-1477159373",
+      "upstream_time": 1477159373,
+      "download_url": "https://dl.smwcentral.net/14486/VT.zip",
+      "filename": "VT.zip",
+      "size": 66571,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

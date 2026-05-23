@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pogo-thwimp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36860,
+  "title": "Pogo-Thwimp",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "annoying",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Pogo-Thwimps are a type of Thwimp that hops up and down, up and down, over and over and over. If they're placed on an incline, they'll bounce down it instead. Just like their bigger cousins, Thwomps, they cannot be destroyed without invincibility, so the player has to avoid them.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36860-1727267744",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36860,
+      "title": "Pogo-Thwimp",
+      "version": "smwc-36860-1727267744",
+      "upstream_time": 1727267744,
+      "download_url": "https://dl.smwcentral.net/36860/Pogo-Thwimp.zip",
+      "filename": "Pogo-Thwimp.zip",
+      "size": 3747,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

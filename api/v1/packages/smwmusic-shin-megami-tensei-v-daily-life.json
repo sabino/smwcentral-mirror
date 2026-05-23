@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-v-daily-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38456,
+  "title": "Shin Megami Tensei V - Daily Life",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "A calming song from SMT5",
+  "latest_version": "smwc-38456-1730428901",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38456,
+      "title": "Shin Megami Tensei V - Daily Life",
+      "version": "smwc-38456-1730428901",
+      "upstream_time": 1730428901,
+      "download_url": "https://dl.smwcentral.net/38456/Shin%20Megami%20Tensei%20V%20-%20Daily%20Life.zip",
+      "filename": "Shin Megami Tensei V - Daily Life.zip",
+      "size": 30509,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

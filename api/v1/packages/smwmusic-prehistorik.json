@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-prehistorik",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7109,
+  "title": "Prehistorik 2 (DOS) - Monster",
+  "authors": [
+    "Hadron"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "A hectic sounding boss theme from PrehistoriK 2.",
+  "latest_version": "smwc-7109-1324187199",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7109,
+      "title": "Prehistorik 2 (DOS) - Monster",
+      "version": "smwc-7109-1324187199",
+      "upstream_time": 1324187199,
+      "download_url": "https://dl.smwcentral.net/7109/Prehistorik%202%20%28DOS%29%20-%20Monster%20%28Sampled%29.zip",
+      "filename": "Prehistorik 2 (DOS) - Monster (Sampled).zip",
+      "size": 55020,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

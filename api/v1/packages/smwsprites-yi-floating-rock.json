@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-yi-floating-rock",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31801,
+  "title": "YI Floating Rock",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "yoshi island"
+  ],
+  "description": "This rock, found in 3-7, floats on the water. If stood on, it tilts to the side and you slip off. Make sure to enable sprite buoyancy.<br>\r\n<br>\r\n1.1 update: SA-1 compatibility. For lorom, delay before reading multiply and divide results.",
+  "latest_version": "smwc-31801-1682155193",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31801,
+      "title": "YI Floating Rock",
+      "version": "smwc-31801-1682155193",
+      "upstream_time": 1682155193,
+      "download_url": "https://dl.smwcentral.net/31801/FloatingRock%201.1.zip",
+      "filename": "FloatingRock 1.1.zip",
+      "size": 16054,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

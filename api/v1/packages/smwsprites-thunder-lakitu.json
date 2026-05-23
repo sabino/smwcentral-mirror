@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-thunder-lakitu",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3591,
+  "title": "Thunder Lakitu",
+  "authors": [
+    "Ixtab"
+  ],
+  "tags": [
+    "boss",
+    "cloud",
+    "enemy",
+    "lakitu",
+    "lakitu boss",
+    "lightning",
+    "lorom",
+    "sa-1",
+    "thunder"
+  ],
+  "description": "A Lakitu which follows Mario around the screen and drops lightning bolts. After dropping 3, it'll move down to the ground so that Mario can hit it. It dies by disappearing in a puff of smoke after 6 hits.<br>\r\n<br>\r\nDo not use in levels with more than 1 screen. Make sure to set the extra bit when placing it.<br>\r\n<br>\r\nSee the readme for instructions on how to insert it. Check out both ASM files for customization options.<br>\r\n",
+  "latest_version": "smwc-3591-1278166848",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3591,
+      "title": "Thunder Lakitu",
+      "version": "smwc-3591-1278166848",
+      "upstream_time": 1278166848,
+      "download_url": "https://dl.smwcentral.net/3591/Thunder%20Lakitu.zip",
+      "filename": "Thunder Lakitu.zip",
+      "size": 6104,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

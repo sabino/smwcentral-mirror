@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-nitro-kart-tenkee-hubworld-velo-s-vault",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38447,
+  "title": "Crash Nitro Kart - Tenkee Hubworld / Velo's Vault",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "calm",
+    "industrial",
+    "overworld",
+    "urban"
+  ],
+  "description": "A calm theme that plays in the fourth hub of Crash Nitro Kart, set in the planet Teknee, a technologically advanced planet. It also plays in Velo's Vault, a bonus hub which contains some extra challenges.",
+  "latest_version": "smwc-38447-1730049003",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38447,
+      "title": "Crash Nitro Kart - Tenkee Hubworld / Velo's Vault",
+      "version": "smwc-38447-1730049003",
+      "upstream_time": 1730049003,
+      "download_url": "https://dl.smwcentral.net/38447/CNK%20-%20Teknee%20Hubworld.zip",
+      "filename": "CNK - Teknee Hubworld.zip",
+      "size": 74222,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

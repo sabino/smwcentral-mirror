@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mega-man-x2-zero-s-rebirth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27032,
+  "title": "Mega Man X2 - Zero's Rebirth",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "bonus",
+    "boss",
+    "chase",
+    "cutscene",
+    "final",
+    "tense"
+  ],
+  "description": "Zero's theme from Mega Man X2.",
+  "latest_version": "smwc-27032-1622497396",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27032,
+      "title": "Mega Man X2 - Zero's Rebirth",
+      "version": "smwc-27032-1622497396",
+      "upstream_time": 1622497396,
+      "download_url": "https://dl.smwcentral.net/27032/%5BS%5D%20Mega%20Man%20X2%20-%20Zero%27s%20Rebirth.zip",
+      "filename": "%5BS%5D Mega Man X2 - Zero%27s Rebirth.zip",
+      "size": 66466,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

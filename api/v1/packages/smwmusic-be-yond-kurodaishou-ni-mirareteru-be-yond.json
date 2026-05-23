@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-be-yond-kurodaishou-ni-mirareteru-be-yond",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13844,
+  "title": "Be-Yond ~Kurodaishou ni Mirareteru~ - Be-Yond",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "overworld",
+    "sad",
+    "title",
+    "town"
+  ],
+  "description": "Calm song that could work for credits or some cutscenes.<br>\r\n<br>\r\n(and yes, that is the actual title of the song)<br>\r\n<br>\r\n<br>\r\nupdate: lowered volume slightly",
+  "latest_version": "smwc-13844-1467829550",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13844,
+      "title": "Be-Yond ~Kurodaishou ni Mirareteru~ - Be-Yond",
+      "version": "smwc-13844-1467829550",
+      "upstream_time": 1467829550,
+      "download_url": "https://dl.smwcentral.net/13844/Be-Yond.zip",
+      "filename": "Be-Yond.zip",
+      "size": 65945,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

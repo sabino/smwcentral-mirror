@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-the-addams-family-pugsley-s-scavenger-hunt-icebox",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27879,
+  "title": "The Addams Family: Pugsley's Scavenger Hunt - Icebox",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "castle",
+    "environmental",
+    "final",
+    "ghost house",
+    "ruins",
+    "sad",
+    "spooky"
+  ],
+  "description": "A super cool gothic song that could fit haunted houses or castles very well. It is also known as Granny's Crystal Ball from the name of the other level it accompanies.<br>\r\n<br>\r\nFor the little story I found a <a href=\"https://vgmusic.com\" rel=\"nofollow\">vgmusic</a> midi of this song lying in an old midi folder I last visited in 2013. Seems like 2013 me used to love this song a lot, so I just ported it.",
+  "latest_version": "smwc-27879-1630447279",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27879,
+      "title": "The Addams Family: Pugsley's Scavenger Hunt - Icebox",
+      "version": "smwc-27879-1630447279",
+      "upstream_time": 1630447279,
+      "download_url": "https://dl.smwcentral.net/27879/addf_icebox_u_0_3.zip",
+      "filename": "addf_icebox_u_0_3.zip",
+      "size": 34099,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27878,
+      "title": "The Addams Family: Pugsley's Scavenger Hunt - Icebox",
+      "version": "smwc-27878-1630447175",
+      "upstream_time": 1630447175,
+      "download_url": "https://dl.smwcentral.net/27878/addf_icebox_0_3.zip",
+      "filename": "addf_icebox_0_3.zip",
+      "size": 52607,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

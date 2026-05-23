@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kiki-kaikai-boss-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18005,
+  "title": "KiKi KaiKai - Boss Fight",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Song for boss fights. Very short, don't use it on long epic boss fights. I added a bunch of chords and drums to make it sound nicer.<br>\r\n<br>\r\nOriginal:<br>\r\n<a href=\"https://www.youtube.com/watch?v=-aIfP9cLwd0\" rel=\"nofollow\">https://www.youtube.com/watch?v=-aIfP9cLwd0</a>",
+  "latest_version": "smwc-18005-1534110019",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18005,
+      "title": "KiKi KaiKai - Boss Fight",
+      "version": "smwc-18005-1534110019",
+      "upstream_time": 1534110019,
+      "download_url": "https://dl.smwcentral.net/18005/kaiko.zip",
+      "filename": "kaiko.zip",
+      "size": 32345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

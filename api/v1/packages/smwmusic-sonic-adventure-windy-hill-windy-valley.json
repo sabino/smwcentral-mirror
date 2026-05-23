@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-sonic-adventure-windy-hill-windy-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7878,
+  "title": "Sonic Adventure - Windy Hill (Windy Valley)",
+  "authors": [
+    "Crispy"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "forest",
+    "grassland",
+    "ice",
+    "sky",
+    "town"
+  ],
+  "description": "The lighthearted and upbeat track at the very first level of Sonic Adventure. It could work great for grassland levels, or even cloud levels.<br>\r\n<br>\r\n<br>\r\nUpdate (12/07/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 659 bytes.",
+  "latest_version": "smwc-7878-1333708439",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7878,
+      "title": "Sonic Adventure - Windy Hill (Windy Valley)",
+      "version": "smwc-7878-1333708439",
+      "upstream_time": 1333708439,
+      "download_url": "https://dl.smwcentral.net/7878/Sonic%20Adventure%20-%20Windy.Hill%20%28Windy%20Valley%29.zip",
+      "filename": "Sonic Adventure - Windy.Hill (Windy Valley).zip",
+      "size": 59019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

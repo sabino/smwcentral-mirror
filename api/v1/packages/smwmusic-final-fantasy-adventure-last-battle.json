@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-final-fantasy-adventure-last-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13782,
+  "title": "Final Fantasy Adventure - Last Battle",
+  "authors": [
+    "6646"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "An arranged version of the final boss theme from Final Fantasy Adventure.",
+  "latest_version": "smwc-13782-1465492697",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13782,
+      "title": "Final Fantasy Adventure - Last Battle",
+      "version": "smwc-13782-1465492697",
+      "upstream_time": 1465492697,
+      "download_url": "https://dl.smwcentral.net/13782/ffa_last_battle.zip",
+      "filename": "ffa_last_battle.zip",
+      "size": 66923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7517,
+      "title": "Final Fantasy Adventure - Last Battle",
+      "version": "smwc-7517-1312131564",
+      "upstream_time": 1312131564,
+      "download_url": "https://dl.smwcentral.net/7517/FFA%20-%20Last%20Battle.zip",
+      "filename": "FFA - Last Battle.zip",
+      "size": 136041,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

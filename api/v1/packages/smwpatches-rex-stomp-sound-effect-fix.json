@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-rex-stomp-sound-effect-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28777,
+  "title": "Rex Stomp Sound Effect Fix",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "1-up",
+    "lorom",
+    "rex",
+    "sa-1",
+    "sfx",
+    "stomp"
+  ],
+  "description": "This fixes a minor bug in SMW where stomping a Rex won't play the stomp sound effect if you get a 1up.<br>\r\n<br>\r\nAbsolutely no credits required!",
+  "latest_version": "smwc-28777-1644053222",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28777,
+      "title": "Rex Stomp Sound Effect Fix",
+      "version": "smwc-28777-1644053222",
+      "upstream_time": 1644053222,
+      "download_url": "https://dl.smwcentral.net/28777/RexStompSfxFix.zip",
+      "filename": "RexStompSfxFix.zip",
+      "size": 289,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

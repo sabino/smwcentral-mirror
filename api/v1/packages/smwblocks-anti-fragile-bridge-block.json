@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-anti-fragile-bridge-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3855,
+  "title": "Anti-Fragile Bridge Block",
+  "authors": [
+    "I8Strudel"
+  ],
+  "tags": [
+    "lorom",
+    "shatter",
+    "small"
+  ],
+  "description": "This block only breaks when the player is small. Is a solid block for everything else (by the way, this is also my first custom block)",
+  "latest_version": "smwc-3855-1436704375",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3855,
+      "title": "Anti-Fragile Bridge Block",
+      "version": "smwc-3855-1436704375",
+      "upstream_time": 1436704375,
+      "download_url": "https://dl.smwcentral.net/3855/AntiFrag.zip",
+      "filename": "AntiFrag.zip",
+      "size": 752,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

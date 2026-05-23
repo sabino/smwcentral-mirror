@@ -1,0 +1,36 @@
+{
+  "name": "tools-brrtools-v3",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 31093,
+  "title": "BRRTools v3.17",
+  "authors": [
+    "Bregalad",
+    "Kevin",
+    "nyanpasu64"
+  ],
+  "tags": [
+    "addmusic",
+    "brr",
+    "brr samples",
+    "music",
+    "samples"
+  ],
+  "description": "BRRTools are currently the most evolved tools to convert between Microsoft standard WAV format and SNES's compressed BRR format.<br>\r\n<br>\r\nThe pack contains 3 programs:<br>\r\n<ul><li>BRR Decoder can convert from BRR to WAV</li>\r\n<li>SPC Decoder can rip multiple BRRs from within a SPC sound file simultaneously into WAV files</li>\r\n<li>BRR Encoder can convert from WAV to BRR</li></ul><br>\r\n<br>\r\nFeatures:<br>\r\n<ul><li>Supports resampling when encoding (anti-aliasing filter available)</li>\r\n<li>Fully supports encoding of looped samples for arbitrary loops</li>\r\n<li>Choose which \"filters\" to use for encoding</li>\r\n<li>Can select playback rate of decoded samples and get info about note tonality when it's possible</li>\r\n<li>When decoding looped samples, choose the length of the output sample and get info about looping stability</li>\r\n<li>Optional lowpass filter when decoding (simulate hardware) and treble-boost filter when encoding (compensating the lowpass filter)</li></ul><br>\r\n<br>\r\nAdvantages of BRR Encoder over SnesBRR:<br>\r\n<ul><li>You can pass in a loop point (-l###), and it will automatically resample the looped region to a multiple of 16 samples. (The final BRR block is encoded in a way where the loop-point block decodes properly.)</li>\r\n<li>You can pass a resampling ratio (-rb###) and it will resample such that in/out&#8776;###, while keeping the looped section a multiple of 16 samples. (out/in = 1/###)<br>\r\n&emsp;* -rb### is bandlimited sinc interpolation, and generates no downsampling artifacts, unlike other resampling methods (-rl###, -rc###, etc)<br>\r\n&emsp;* -sb#### will resample the audio file to approximately #### Hertz.</li>\r\n<li>Passing -g to brr_encoder will prefilter the audio file to compensate for SPC700's Gaussian filtering (muffling).</li>\r\n<li>Passing -a### will multiply the loudness by ###. To fix clipping, try passing -w -a0.99 (or smaller) when using resampling or -g.</li></ul><br>\r\n<br>\r\nNote that loop points still have to be manually inserted into the output BRR files to make them usable with Addmusic.<br>\r\n<br>\r\nv3.14+ (by nyanpasu64):<br>\r\n<ul><li>Changed the internal calculations to operate on 32-bit samples (instead of 16-bit WAV samples). -g and -rb often increase signal amplitude and produce clipping. 32-bit samples ensure that clipped samples saturate, rather than producing loud overflow/wraparound artifacts.</li></ul><br>\r\n<br>\r\nv3.17 (by Kevin):<br>\r\n<ul><li>Added support for the Addmusic header in samples made with brr_encoder (use the -m option).</li>\r\n<li>Added support for samples with bidirectional loops in brr_encoder (use the -b option).</li></ul><br>\r\n<br>\r\nSource code is available on <a href=\"https://github.com/kkevinm/BRRtools\" rel=\"nofollow\">GitHub</a>.",
+  "latest_version": "smwc-31093-1664094308",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 31093,
+      "title": "BRRTools v3.17",
+      "version": "smwc-31093-1664094308",
+      "upstream_time": 1664094308,
+      "download_url": "https://dl.smwcentral.net/31093/BRRTools_v3.17.zip",
+      "filename": "BRRTools_v3.17.zip",
+      "size": 127985,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

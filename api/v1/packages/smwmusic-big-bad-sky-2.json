@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-big-bad-sky-2",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8464,
+  "title": "Big Bad Sky 2.0",
+  "authors": [
+    "Kritter"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "castle",
+    "dark",
+    "ruins"
+  ],
+  "description": "A revamped and remastered version of the airship raid theme from Dragonfly's Island Quest.  Now bigger, meaner and fatter!",
+  "latest_version": "smwc-8464-1375734578",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8464,
+      "title": "Big Bad Sky 2.0",
+      "version": "smwc-8464-1375734578",
+      "upstream_time": 1375734578,
+      "download_url": "https://dl.smwcentral.net/8464/BBS%202.0.zip",
+      "filename": "BBS 2.0.zip",
+      "size": 65487,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

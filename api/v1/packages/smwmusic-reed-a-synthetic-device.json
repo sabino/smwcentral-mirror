@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-reed-a-synthetic-device",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37919,
+  "title": "Reed - A Synthetic Device",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "retro",
+    "title"
+  ],
+  "description": "Funky little chiptune.",
+  "latest_version": "smwc-37919-1721920198",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37919,
+      "title": "Reed - A Synthetic Device",
+      "version": "smwc-37919-1721920198",
+      "upstream_time": 1721920198,
+      "download_url": "https://dl.smwcentral.net/37919/A%20Synthetic%20Device.zip",
+      "filename": "A Synthetic Device.zip",
+      "size": 87984,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

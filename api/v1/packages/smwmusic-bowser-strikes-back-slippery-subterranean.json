@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bowser-strikes-back-slippery-subterranean",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34522,
+  "title": "Bowser Strikes Back - Slippery Subterranean",
+  "authors": [
+    "Jimmy"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ice"
+  ],
+  "description": "Part of the Bowser Strikes Back soundtrack, originally updated by <span class=\"un-outer\" title=\"Gamma V\"><a href=\"/?p=profile&amp;id=13617\" style=\"color: var(--user-color-3);\" class=\"un\">Gamma V</a></span> in 2017.",
+  "latest_version": "smwc-34522-1690702348",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34522,
+      "title": "Bowser Strikes Back - Slippery Subterranean",
+      "version": "smwc-34522-1690702348",
+      "upstream_time": 1690702348,
+      "download_url": "https://dl.smwcentral.net/34522/data.zip",
+      "filename": "data.zip",
+      "size": 61431,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

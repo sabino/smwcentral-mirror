@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-de-re-activateble-switch-palace-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 9059,
+  "title": "De/re-activateble switch palace switch",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "flag",
+    "lorom",
+    "message",
+    "puzzle",
+    "switch",
+    "switch palace",
+    "toggle"
+  ],
+  "description": "These buttons are 16x16 switch palace switches that set the corresponding colored switch blocks to outlines or solid rather than permanently solid !-blocks. This is intended to be used in puzzle hacks that force having !-blocks on or off rather than having all 4 switch on.<br>\r\nPlease read the readme for more information.<br>\r\nAlso they are not compatible with the !-block sprite on message box (that appears when you activate SMW's vanilla switch palace).<br>\r\n<br>\r\nCredit not necessary, it took me about 5 minutes to complete this blocks, I found a ram address $7E:1F27 that causes the blocks to be outlines or solid.<br>\r\n<br>\r\nDifferences:<br>\r\n- These switches are 1x1 tiles rather than 2x2 tiles.<br>\r\n- they bounce the player off the switch (not applies to pressable switches)<br>\r\n- Uses 2 message boxes when hit. The first one is when the switch is activated and the second one is when the switch is deactivated.<br>\r\n- Doesn't end the level so you must have a side exit enabled or a goal (if you are using Yoshi coin with side exit enabled, it's impossible to have all Yoshi coins because the level isn't beaten).<br>\r\n<br>\r\nAdded:<br>\r\n4 new blocks that are now pressable (changes map16 tile when pressed), they too, toggle the switch palace on or off (when the player re-enters the level to reset the blocks).",
+  "latest_version": "smwc-9059-1439672286",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 9059,
+      "title": "De/re-activateble switch palace switch",
+      "version": "smwc-9059-1439672286",
+      "upstream_time": 1439672286,
+      "download_url": "https://dl.smwcentral.net/9059/switch_palace_buttons.zip",
+      "filename": "switch_palace_buttons.zip",
+      "size": 37751,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

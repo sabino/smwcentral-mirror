@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-gun-n-roses-you-could-be-mine-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8619,
+  "title": "Gun N' Roses - You Could be Mine (Mega Man X style)",
+  "authors": [
+    "Iguy"
+  ],
+  "tags": [
+    "athletic",
+    "fire",
+    "mountain"
+  ],
+  "description": "A port of (You Could Be Mine) reworked to fit the SNES limitation and style. With Mega Man X instruments, this song would fit well for a level filled with action.",
+  "latest_version": "smwc-8619-1404957272",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8619,
+      "title": "Gun N' Roses - You Could be Mine (Mega Man X style)",
+      "version": "smwc-8619-1404957272",
+      "upstream_time": 1404957272,
+      "download_url": "https://dl.smwcentral.net/8619/You%20could%20be%20mine.zip",
+      "filename": "You could be mine.zip",
+      "size": 123676,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

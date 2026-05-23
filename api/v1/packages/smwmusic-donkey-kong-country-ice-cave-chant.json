@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-donkey-kong-country-ice-cave-chant",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13711,
+  "title": "Donkey Kong Country - Ice Cave Chant",
+  "authors": [
+    "6646"
+  ],
+  "tags": [
+    "cave",
+    "ice"
+  ],
+  "description": "Crystal Caves song from DKC1",
+  "latest_version": "smwc-13711-1464756383",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13711,
+      "title": "Donkey Kong Country - Ice Cave Chant",
+      "version": "smwc-13711-1464756383",
+      "upstream_time": 1464756383,
+      "download_url": "https://dl.smwcentral.net/13711/dkc_ice_cave_chant.zip",
+      "filename": "dkc_ice_cave_chant.zip",
+      "size": 55391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

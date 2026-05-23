@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-water-waltz",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7241,
+  "title": "Water Waltz V2",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "sky",
+    "town",
+    "water"
+  ],
+  "description": "This is a slight improvement over one of my legacy songs.",
+  "latest_version": "smwc-7241-1338979114",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7241,
+      "title": "Water Waltz V2",
+      "version": "smwc-7241-1338979114",
+      "upstream_time": 1338979114,
+      "download_url": "https://dl.smwcentral.net/7241/Water%20Waltz.zip",
+      "filename": "Water Waltz.zip",
+      "size": 71448,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

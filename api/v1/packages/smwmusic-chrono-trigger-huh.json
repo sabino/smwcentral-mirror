@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-chrono-trigger-huh",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32390,
+  "title": "Chrono Trigger - Huh?!",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "tense"
+  ],
+  "description": "Requested by Anorakun.",
+  "latest_version": "smwc-32390-1675024292",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32390,
+      "title": "Chrono Trigger - Huh?!",
+      "version": "smwc-32390-1675024292",
+      "upstream_time": 1675024292,
+      "download_url": "https://dl.smwcentral.net/32390/114%20Huh.zip",
+      "filename": "114 Huh.zip",
+      "size": 40354,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

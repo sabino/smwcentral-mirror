@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-smb1-bowser-redux",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38836,
+  "title": "SMB1 Bowser REDUX",
+  "authors": [
+    "Ixtab"
+  ],
+  "tags": [
+    "boss",
+    "dynamic",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "this is a 64x64 bowser battle with inspiration from the original smb1 bowser fights. bowser stays in his initial position and will attack based on a random number generator. the attacks are standing relatively still, rushing forward, shooting a fireball that explodes at marios feet, throwing 4 hammers, jumping causing 2*3 ceiling spikes to spawn somewhere near mario, and spawning a flying koopa. the only way to hurt him is to throw the shell back at bowser causing him to roll back to his eventual death: the pit of lava. you should not be able to jump over bowser and trying to will cause him to push you back and hurt you. this means you must have the level go from right to left.<br>\r\n<br>\r\nit is highly recommended you do not add any platforms, or really, anything in the way since bowser will walk right through it; he and cant stop you from flying. the higher you try to jump over him, the buggier the interaction field.<br>\r\n<br>\r\nbowser will only die if he touches direct map16 tile #$0005 (mud/lava tile) so the battle is as long as you want it to be.<br>\r\n <br>\r\nyour level layout should look something like the image. the spikes spawn-height can be adjusted in the asm file. and the projectile insert number needs to be edited in the file as well.<br>\r\n<br>\r\nyou need to apply dsx.asm, and no more sprite tile limits for everything to run smoothly.<br>\r\n<br>\r\ngraphics from <a href=\"https://www.spriters-resource.com/custom_edited/mariocustoms/sheet/17656/\" rel=\"nofollow\">this sheet</a>.",
+  "latest_version": "smwc-38836-1759622653",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38836,
+      "title": "SMB1 Bowser REDUX",
+      "version": "smwc-38836-1759622653",
+      "upstream_time": 1759622653,
+      "download_url": "https://dl.smwcentral.net/38836/bosser%20asar2.zip",
+      "filename": "bosser asar2.zip",
+      "size": 35831,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

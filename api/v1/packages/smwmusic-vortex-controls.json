@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-vortex-controls",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40364,
+  "title": "Vortex - Controls",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "menu",
+    "space"
+  ],
+  "description": "Short track that plays during the Controls menu.",
+  "latest_version": "smwc-40364-1756154096",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40364,
+      "title": "Vortex - Controls",
+      "version": "smwc-40364-1756154096",
+      "upstream_time": 1756154096,
+      "download_url": "https://dl.smwcentral.net/40364/Vortex%20Controls.zip",
+      "filename": "Vortex Controls.zip",
+      "size": 40731,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

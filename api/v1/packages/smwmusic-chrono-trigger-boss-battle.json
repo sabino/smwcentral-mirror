@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-chrono-trigger-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34102,
+  "title": "Chrono Trigger - Boss Battle 2",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span><br>\r\n<br>\r\nUpdate 12.06.2023: Fixed some mistakes.",
+  "latest_version": "smwc-34102-1686814860",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34102,
+      "title": "Chrono Trigger - Boss Battle 2",
+      "version": "smwc-34102-1686814860",
+      "upstream_time": 1686814860,
+      "download_url": "https://dl.smwcentral.net/34102/Chrono%20Trigger%20Boss%20Battle%202.zip",
+      "filename": "Chrono Trigger Boss Battle 2.zip",
+      "size": 61749,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22780,
+      "title": "Chrono Trigger - Boss Battle 1",
+      "version": "smwc-22780-1589685780",
+      "upstream_time": 1589685780,
+      "download_url": "https://dl.smwcentral.net/22780/Chrono%20Trigger%20-%20Boss%20Battle%201.zip",
+      "filename": "Chrono Trigger - Boss Battle 1.zip",
+      "size": 34177,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19243,
+      "title": "Chrono Trigger - Boss Battle 1",
+      "version": "smwc-19243-1551835327",
+      "upstream_time": 1551835327,
+      "download_url": "https://dl.smwcentral.net/19243/chrono-boss1.zip",
+      "filename": "chrono-boss1.zip",
+      "size": 70199,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

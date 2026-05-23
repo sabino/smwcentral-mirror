@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-last-bible-iii-love-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29270,
+  "title": "Last Bible III - Love Song",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nShort peaceful song.<br>\r\nNote: it doesn't loop.",
+  "latest_version": "smwc-29270-1643231181",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29270,
+      "title": "Last Bible III - Love Song",
+      "version": "smwc-29270-1643231181",
+      "upstream_time": 1643231181,
+      "download_url": "https://dl.smwcentral.net/29270/42%20Love%20Song.zip",
+      "filename": "42 Love Song.zip",
+      "size": 40428,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-metroid-space-colony",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36751,
+  "title": "Super Metroid - Space Colony",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "environmental"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36751-1706162938",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36751,
+      "title": "Super Metroid - Space Colony",
+      "version": "smwc-36751-1706162938",
+      "upstream_time": 1706162938,
+      "download_url": "https://dl.smwcentral.net/36751/94%20Space%20Colony.zip",
+      "filename": "94 Space Colony.zip",
+      "size": 201565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

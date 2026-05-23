@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sonic-triple-trouble-meta-junglira-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7059,
+  "title": "Sonic Triple Trouble - Meta Junglira Zone",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "forest",
+    "jungle"
+  ],
+  "description": "The lively jungle song that plays in Meta Junglira Zone. It would most likely suit a faster-paced forest or jungle level.",
+  "latest_version": "smwc-7059-1338206089",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7059,
+      "title": "Sonic Triple Trouble - Meta Junglira Zone",
+      "version": "smwc-7059-1338206089",
+      "upstream_time": 1338206089,
+      "download_url": "https://dl.smwcentral.net/7059/Meta%20Junglira%20Zone.zip",
+      "filename": "Meta Junglira Zone.zip",
+      "size": 71124,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

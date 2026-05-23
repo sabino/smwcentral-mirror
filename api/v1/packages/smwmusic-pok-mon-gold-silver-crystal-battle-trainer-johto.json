@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-battle-trainer-johto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29084,
+  "title": "Pokémon Gold/Silver/Crystal - Battle! Trainer (Johto)",
+  "authors": [
+    "Francium"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "A song from Pokémon Gold/Silver/Crystal's battle with Kanto's trainer.<br>\r\nNo sample is used.",
+  "latest_version": "smwc-29084-1650313957",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29084,
+      "title": "Pokémon Gold/Silver/Crystal - Battle! Trainer (Johto)",
+      "version": "smwc-29084-1650313957",
+      "upstream_time": 1650313957,
+      "download_url": "https://dl.smwcentral.net/29084/Pokemon%20GSC%20-%20Trainer.zip",
+      "filename": "Pokemon GSC - Trainer.zip",
+      "size": 34175,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

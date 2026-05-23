@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-star-hill",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7282,
+  "title": "Mario & Luigi: Partners in Time - Star Hill",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "calm",
+    "mountain"
+  ],
+  "description": "This theme is played in one of the final areas of the game, Star Hill. Has a starry, 'magical' effect to it.",
+  "latest_version": "smwc-7282-1319739002",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7282,
+      "title": "Mario & Luigi: Partners in Time - Star Hill",
+      "version": "smwc-7282-1319739002",
+      "upstream_time": 1319739002,
+      "download_url": "https://dl.smwcentral.net/7282/mlpitsh.zip",
+      "filename": "mlpitsh.zip",
+      "size": 67906,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

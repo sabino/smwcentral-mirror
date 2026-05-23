@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pendulum-roto-disc",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22252,
+  "title": "Pendulum Roto Disc",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "pendulum",
+    "roto disc",
+    "sa-1"
+  ],
+  "description": "This Roto Disc edit follows a pendulum trajectory. It was originally part of a pendulum-based sprite pack by Alcaro.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\n(Rykon-V73): Added a .json file for the old version of the sprite and added a .json file for the good version of the sprite. There are 2 ExGFX files for the sprite. I do suggest using the good one, since it has the 2 firebar GFX removed. You can go back to the old version though. Read the readme for details.",
+  "latest_version": "smwc-22252-1582820799",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22252,
+      "title": "Pendulum Roto Disc",
+      "version": "smwc-22252-1582820799",
+      "upstream_time": 1582820799,
+      "download_url": "https://dl.smwcentral.net/22252/pendulum_rotodisc_edited.zip",
+      "filename": "pendulum_rotodisc_edited.zip",
+      "size": 11250,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

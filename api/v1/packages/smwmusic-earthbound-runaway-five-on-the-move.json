@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-runaway-five-on-the-move",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30999,
+  "title": "EarthBound - Runaway Five on the Move!",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "cutscene",
+    "urban"
+  ],
+  "description": "Requested by Infinity.",
+  "latest_version": "smwc-30999-1656500392",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30999,
+      "title": "EarthBound - Runaway Five on the Move!",
+      "version": "smwc-30999-1656500392",
+      "upstream_time": 1656500392,
+      "download_url": "https://dl.smwcentral.net/30999/058%20Runaway%20Five%20on%20the%20Move%21.zip",
+      "filename": "058 Runaway Five on the Move%21.zip",
+      "size": 63286,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

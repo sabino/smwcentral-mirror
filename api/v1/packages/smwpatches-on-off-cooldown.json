@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-on-off-cooldown",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20317,
+  "title": "ON/OFF Cooldown",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "cooldown",
+    "lorom",
+    "on-off",
+    "sa-1",
+    "switch",
+    "timer"
+  ],
+  "description": "Adds an extremely short cooldown timer to ON/OFF switches, fixing the jankiness when trying to hit an ON/OFF switch underwater, no longer causing Mario to hit it 2 or 3 times with a single stroke, thus confusing the heck out of the player.<br>\r\n<br>\r\n<br>\r\nA bit more in detail, this patch will cause ON/OFF bounce sprites to straight up not spawn, meaning if you have a custom block that spawns the same bounce block sprite, it will gain this cooldown as well, at least if spawned through vanilla routines.<br>\r\nThe ON/OFF bounce sprites are actually what handle the toggle of the switch in vanilla SMW, so skipping their spawn keeps the switch un-toggled.",
+  "latest_version": "smwc-20317-1561682271",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20317,
+      "title": "ON/OFF Cooldown",
+      "version": "smwc-20317-1561682271",
+      "upstream_time": 1561682271,
+      "download_url": "https://dl.smwcentral.net/20317/OnOffcooldown.zip",
+      "filename": "OnOffcooldown.zip",
+      "size": 1837,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

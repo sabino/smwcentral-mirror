@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pok-mon-black-white-a-tight-spot-during-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7940,
+  "title": "Pokémon Black/White - A Tight Spot During Battle!",
+  "authors": [
+    "RedToonLink"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "The song that plays when you have low health in the Generation V Pokémon game. It's short, and it's frantic.",
+  "latest_version": "smwc-7940-1317679179",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7940,
+      "title": "Pokémon Black/White - A Tight Spot During Battle!",
+      "version": "smwc-7940-1317679179",
+      "upstream_time": 1317679179,
+      "download_url": "https://dl.smwcentral.net/7940/Pokemon%20Black%20%26%20White%20-%20Low%20Health.zip",
+      "filename": "Pokemon Black %26 White - Low Health.zip",
+      "size": 68399,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

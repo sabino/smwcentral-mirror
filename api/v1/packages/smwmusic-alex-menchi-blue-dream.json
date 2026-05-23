@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-alex-menchi-blue-dream",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40344,
+  "title": "Alex Menchi - Blue Dream",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "cave",
+    "credits",
+    "ice"
+  ],
+  "description": "A beautiful cover of Blue Dream by Seiji Yokoyama. <a href=\"https://modarchive.org/index.php?request=view_by_moduleid&query=189835\" rel=\"nofollow\">Source</a>.",
+  "latest_version": "smwc-40344-1761964083",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40344,
+      "title": "Alex Menchi - Blue Dream",
+      "version": "smwc-40344-1761964083",
+      "upstream_time": 1761964083,
+      "download_url": "https://dl.smwcentral.net/40344/Blue%20Dream.zip",
+      "filename": "Blue Dream.zip",
+      "size": 95984,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

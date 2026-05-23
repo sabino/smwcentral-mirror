@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-explosive-crosshair-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 37813,
+  "title": "Explosive Crosshair V1.0",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "cross",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Explosive Crosshair V1.0:<br>\r\n<br>\r\nDescription: This is are a crosshair sprite that you can make it move vertically/horizontally + when it checks contact with player, it'll start flashing and explode after a certain while! This come with a few options that let you make more interesting the behaviours of this custom sprite!<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nExtra Bit feature!<br>\r\n3 Extra Bytes with features!<br>\r\nAllow customize the sprite easily with a few defines!<br>\r\n<br>\r\nMore details are on the documentation (Readme) file!<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=127403\">Requested</a> by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+  "latest_version": "smwc-37813-1727973133",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 37813,
+      "title": "Explosive Crosshair V1.0",
+      "version": "smwc-37813-1727973133",
+      "upstream_time": 1727973133,
+      "download_url": "https://dl.smwcentral.net/37813/Explosive%20Crosshair%20V1.0.zip",
+      "filename": "Explosive Crosshair V1.0.zip",
+      "size": 10986,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

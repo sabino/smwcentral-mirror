@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-controller-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21590,
+  "title": "Controller Block",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "puzzle",
+    "solid",
+    "uberasm needed"
+  ],
+  "description": "Blocks are passable when player presses any button.<br>\r\n<br>\r\nUse triggers<br>\r\nCustom 8,9,A,B,E,F",
+  "latest_version": "smwc-21590-1576667685",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21590,
+      "title": "Controller Block",
+      "version": "smwc-21590-1576667685",
+      "upstream_time": 1576667685,
+      "download_url": "https://dl.smwcentral.net/21590/ControlBlock.zip",
+      "filename": "ControlBlock.zip",
+      "size": 3981,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

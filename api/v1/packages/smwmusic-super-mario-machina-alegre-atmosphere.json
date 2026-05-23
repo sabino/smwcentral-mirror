@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-machina-alegre-atmosphere",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7316,
+  "title": "Super Mario Machina - Alegre Atmosphere",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "sky"
+  ],
+  "description": "A very 'happy go lucky' athletic theme",
+  "latest_version": "smwc-7316-1338376392",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7316,
+      "title": "Super Mario Machina - Alegre Atmosphere",
+      "version": "smwc-7316-1338376392",
+      "upstream_time": 1338376392,
+      "download_url": "https://dl.smwcentral.net/7316/AlegreAtmosphere.zip",
+      "filename": "AlegreAtmosphere.zip",
+      "size": 61874,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

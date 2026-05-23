@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cyber-rainforce-are-you-ready",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21463,
+  "title": "Cyber-Rainforce - Are You Ready",
+  "authors": [
+    "Eli Moskowitz"
+  ],
+  "tags": [
+    "athletic",
+    "mountain"
+  ],
+  "description": "An upbeat song that can be used in athletic levels",
+  "latest_version": "smwc-21463-1573684678",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21463,
+      "title": "Cyber-Rainforce - Are You Ready",
+      "version": "smwc-21463-1573684678",
+      "upstream_time": 1573684678,
+      "download_url": "https://dl.smwcentral.net/21463/Are%20You%20Ready.zip",
+      "filename": "Are You Ready.zip",
+      "size": 66397,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

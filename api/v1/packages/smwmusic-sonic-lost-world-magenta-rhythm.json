@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-sonic-lost-world-magenta-rhythm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29459,
+  "title": "Sonic Lost World - Magenta Rhythm",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "misc",
+    "overworld",
+    "p-switch",
+    "star",
+    "switch palace",
+    "title"
+  ],
+  "description": " Music Played on Sonic Lost World. Could fit on the P-Switch, Starman, or sweet overworld.",
+  "latest_version": "smwc-29459-1652461876",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29459,
+      "title": "Sonic Lost World - Magenta Rhythm",
+      "version": "smwc-29459-1652461876",
+      "upstream_time": 1652461876,
+      "download_url": "https://dl.smwcentral.net/29459/magenta%20rhythm.zip",
+      "filename": "magenta rhythm.zip",
+      "size": 31139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

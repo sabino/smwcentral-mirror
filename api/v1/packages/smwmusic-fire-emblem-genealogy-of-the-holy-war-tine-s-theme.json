@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-tine-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35743,
+  "title": "Fire Emblem: Genealogy of the Holy War - Tine's Theme",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "dark",
+    "overworld",
+    "ruins",
+    "sad",
+    "snow",
+    "title"
+  ],
+  "description": "A short yet turbulent tune from Genealogy that plays during certain conversations. Might be good for a world map theme or cutscene.<br>\r\n<br>\r\nComes with an option to either play at the original volume or match the channel volume values to the original SPC, the latter of which will be louder due to a difference in master volume between SMW and FE4.",
+  "latest_version": "smwc-35743-1704062378",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35743,
+      "title": "Fire Emblem: Genealogy of the Holy War - Tine's Theme",
+      "version": "smwc-35743-1704062378",
+      "upstream_time": 1704062378,
+      "download_url": "https://dl.smwcentral.net/35743/FE%204%20-%20Tine%27s%20Theme.zip",
+      "filename": "FE 4 - Tine%27s Theme.zip",
+      "size": 31513,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35742,
+      "title": "Fire Emblem: Genealogy of the Holy War - Tine's Theme",
+      "version": "smwc-35742-1704062637",
+      "upstream_time": 1704062637,
+      "download_url": "https://dl.smwcentral.net/35742/Fire%20Emblem%204%20-%20Tine%27s%20Theme.zip",
+      "filename": "Fire Emblem 4 - Tine%27s Theme.zip",
+      "size": 75441,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

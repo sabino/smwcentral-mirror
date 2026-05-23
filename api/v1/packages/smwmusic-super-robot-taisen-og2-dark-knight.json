@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-robot-taisen-og2-dark-knight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7396,
+  "title": "Super Robot Taisen OG2 - Dark Knight",
+  "authors": [
+    "17923"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "final",
+    "fire",
+    "industrial"
+  ],
+  "description": "Unsampled port of Axel's theme from the Super Robot Wars/Taisen series.",
+  "latest_version": "smwc-7396-1323417052",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7396,
+      "title": "Super Robot Taisen OG2 - Dark Knight",
+      "version": "smwc-7396-1323417052",
+      "upstream_time": 1323417052,
+      "download_url": "https://dl.smwcentral.net/7396/Dark%20Knight.zip",
+      "filename": "Dark Knight.zip",
+      "size": 70118,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

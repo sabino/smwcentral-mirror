@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wonder-dog-dogville",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33743,
+  "title": "Wonder Dog - Dogville",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "misc",
+    "urban"
+  ],
+  "description": "Dogville from Wonder Dog on the Amiga. Good for levels that might be a little more laid back.",
+  "latest_version": "smwc-33743-1689258462",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33743,
+      "title": "Wonder Dog - Dogville",
+      "version": "smwc-33743-1689258462",
+      "upstream_time": 1689258462,
+      "download_url": "https://dl.smwcentral.net/33743/Wonder%20Dog%20-%20Dogville.zip",
+      "filename": "Wonder Dog - Dogville.zip",
+      "size": 76689,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

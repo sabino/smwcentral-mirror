@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-flying-chainsaw",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41130,
+  "title": "Flying Chainsaw",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "chainsaw",
+    "enemy",
+    "flying",
+    "invincible",
+    "lorom",
+    "sa-1",
+    "wings"
+  ],
+  "description": "A flying chainsaw that chases Mario. If the extra byte is 01, it will only move vertically. If it's 02, it will only move horizontally. The extra bit changes the palette of the sprite (useful if you want to differentiate between different versions of the sprite). You can configure the palettes in the .asm file.",
+  "latest_version": "smwc-41130-1764307638",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41130,
+      "title": "Flying Chainsaw",
+      "version": "smwc-41130-1764307638",
+      "upstream_time": 1764307638,
+      "download_url": "https://dl.smwcentral.net/41130/FlyinChainsaw.zip",
+      "filename": "FlyinChainsaw.zip",
+      "size": 3765,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

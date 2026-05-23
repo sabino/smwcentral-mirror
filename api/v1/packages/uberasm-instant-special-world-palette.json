@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-instant-special-world-palette",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 27221,
+  "title": "Instant Special World Palette",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "palette",
+    "sa-1",
+    "special world"
+  ],
+  "description": "This UberASM will make the \"special world level is passed\" (as set in Lunar Magic's dialog) palette load as soon as the level is beaten, instead of having to refresh the overworld. Insert in gamemode D. Uses 1 byte of freeram.",
+  "latest_version": "smwc-27221-1626380920",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 27221,
+      "title": "Instant Special World Palette",
+      "version": "smwc-27221-1626380920",
+      "upstream_time": 1626380920,
+      "download_url": "https://dl.smwcentral.net/27221/instant_special_palette.zip",
+      "filename": "instant_special_palette.zip",
+      "size": 923,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

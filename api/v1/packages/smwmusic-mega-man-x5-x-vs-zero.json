@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-x5-x-vs-zero",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15873,
+  "title": "Mega Man X5 - X vs. Zero",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final"
+  ],
+  "description": "Could fit boss battles.",
+  "latest_version": "smwc-15873-1500585227",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15873,
+      "title": "Mega Man X5 - X vs. Zero",
+      "version": "smwc-15873-1500585227",
+      "upstream_time": 1500585227,
+      "download_url": "https://dl.smwcentral.net/15873/MMX5%20vs%20Zero.zip",
+      "filename": "MMX5 vs Zero.zip",
+      "size": 34876,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

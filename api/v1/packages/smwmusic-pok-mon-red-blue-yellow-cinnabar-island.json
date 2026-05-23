@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-cinnabar-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41752,
+  "title": "Pokémon Red/Blue/Yellow - Cinnabar Island",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "night",
+    "overworld",
+    "retro",
+    "sea",
+    "water"
+  ],
+  "description": "Cinnabar Island from Pokémon Red/Blue/Yellow.",
+  "latest_version": "smwc-41752-1773980738",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41752,
+      "title": "Pokémon Red/Blue/Yellow - Cinnabar Island",
+      "version": "smwc-41752-1773980738",
+      "upstream_time": 1773980738,
+      "download_url": "https://dl.smwcentral.net/41752/Pokemon%20RBY%20-%20Cinnabar%20Island.zip",
+      "filename": "Pokemon RBY - Cinnabar Island.zip",
+      "size": 33550,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30438,
+      "title": "Pokémon Red/Blue/Yellow - Cinnabar Island",
+      "version": "smwc-30438-1659571791",
+      "upstream_time": 1659571791,
+      "download_url": "https://dl.smwcentral.net/30438/Pokemon%20-%20Red%2C%20Blue%20%26%20Yellow%20-%20Cinnabar%20Island%201.4.zip",
+      "filename": "Pokemon - Red%2C Blue %26 Yellow - Cinnabar Island 1.4.zip",
+      "size": 31226,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

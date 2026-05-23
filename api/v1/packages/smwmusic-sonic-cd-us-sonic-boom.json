@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-sonic-cd-us-sonic-boom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38422,
+  "title": "Sonic CD (US) - Sonic Boom",
+  "authors": [
+    "Kevin",
+    "tssf"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "credits",
+    "title",
+    "upbeat"
+  ],
+  "description": "A port I did a while ago of tssf's SNES arrangement of the Sonic CD opening, ported from his \"Best of Super Sonic\" pack. The main difference is that it loops and the guitar sample is a bit shorter to fit more sfx.<br>\r\nNote: not compatible with Bonus End and Thunder.",
+  "latest_version": "smwc-38422-1727710404",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38422,
+      "title": "Sonic CD (US) - Sonic Boom",
+      "version": "smwc-38422-1727710404",
+      "upstream_time": 1727710404,
+      "download_url": "https://dl.smwcentral.net/38422/Sonic%20Boom.zip",
+      "filename": "Sonic Boom.zip",
+      "size": 100745,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

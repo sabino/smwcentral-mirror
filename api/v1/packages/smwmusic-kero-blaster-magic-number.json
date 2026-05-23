@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kero-blaster-magic-number",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27679,
+  "title": "Kero Blaster - Magic Number",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "The upbeat miniboss theme from Kero Blaster.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.",
+  "latest_version": "smwc-27679-1629049976",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27679,
+      "title": "Kero Blaster - Magic Number",
+      "version": "smwc-27679-1629049976",
+      "upstream_time": 1629049976,
+      "download_url": "https://dl.smwcentral.net/27679/Kero_Blaster_-_Mini_Boss.zip",
+      "filename": "Kero_Blaster_-_Mini_Boss.zip",
+      "size": 48577,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

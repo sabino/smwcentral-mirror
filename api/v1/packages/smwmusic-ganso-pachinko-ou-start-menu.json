@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-ganso-pachinko-ou-start-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21620,
+  "title": "Ganso Pachinko Ou - Start Menu",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "cutscene",
+    "grassland",
+    "overworld",
+    "urban"
+  ],
+  "description": "A relaxing song that would work well on an overworld map, or maybe even a cutscene.",
+  "latest_version": "smwc-21620-1576460637",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21620,
+      "title": "Ganso Pachinko Ou - Start Menu",
+      "version": "smwc-21620-1576460637",
+      "upstream_time": 1576460637,
+      "download_url": "https://dl.smwcentral.net/21620/Ganso%20Pachinko%20Ou%20-%20Start%20Menu.zip",
+      "filename": "Ganso Pachinko Ou - Start Menu.zip",
+      "size": 37134,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21578,
+      "title": "Ganso Pachinko Ou - Start Menu",
+      "version": "smwc-21578-1575606540",
+      "upstream_time": 1575606540,
+      "download_url": "https://dl.smwcentral.net/21578/Ganso%20Pachinko%20Ou%20-%20Start%20Menu.zip",
+      "filename": "Ganso Pachinko Ou - Start Menu.zip",
+      "size": 31969,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

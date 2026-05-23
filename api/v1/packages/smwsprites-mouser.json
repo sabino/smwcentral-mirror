@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-mouser",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3277,
+  "title": "Mouser",
+  "authors": [
+    "Dispari Scuro"
+  ],
+  "tags": [
+    "boss",
+    "lorom",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "Mouser from SMB2.<br>\r\n<br>\r\nCan only be killed by Bob-Omb explosions. By default, takes 3 hits to kill.<br>\r\n<br>\r\nNOTE: Not compatible with Yoshi. He simply goes through the sprite.",
+  "latest_version": "smwc-3277-1207332072",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3277,
+      "title": "Mouser",
+      "version": "smwc-3277-1207332072",
+      "upstream_time": 1207332072,
+      "download_url": "https://dl.smwcentral.net/3277/SMB2Mouser.zip",
+      "filename": "SMB2Mouser.zip",
+      "size": 8559,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

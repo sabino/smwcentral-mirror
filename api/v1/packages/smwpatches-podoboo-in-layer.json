@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-podoboo-in-layer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40248,
+  "title": "Podoboo in Layer 2 Lava Fix",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "layer 2",
+    "lorom",
+    "podoboo",
+    "position",
+    "sa-1"
+  ],
+  "description": "When Podoboo enters the layer 2 lava that moves up and down, even if the lava moves up and down, the position of Podoboo stays in place and jumps out of that position.<br>\r\nThis patch fixes the bug so that when you enter a layer 2 lava that moves up and down, it will come out of the lava surface. (Smash, not compatible with layer 2 lava that moves sideways)<br>\r\n<br>\r\n<br>\r\n- Update -<br>\r\nFixed the jump height fluctuating when jumping out of layer 2 lava.",
+  "latest_version": "smwc-40248-1754666499",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40248,
+      "title": "Podoboo in Layer 2 Lava Fix",
+      "version": "smwc-40248-1754666499",
+      "upstream_time": 1754666499,
+      "download_url": "https://dl.smwcentral.net/40248/Podoboo%20in%20Layer%202%20Lava%20Fix.zip",
+      "filename": "Podoboo in Layer 2 Lava Fix.zip",
+      "size": 2409,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

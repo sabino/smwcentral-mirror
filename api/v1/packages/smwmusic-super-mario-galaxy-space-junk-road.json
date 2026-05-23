@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-super-mario-galaxy-space-junk-road",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41513,
+  "title": "Super Mario Galaxy - Space Junk Road",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "mysterious",
+    "night",
+    "sea",
+    "sky",
+    "space",
+    "water"
+  ],
+  "description": "The song \"Space Junk Road\" from Super Mario Galaxy's Space Junk Galaxy, originally composed by Mahito Yokota. Fits for space levels, maybe also underwater.<br>\r\n<br>\r\nThe original samples were found using the Super Mario Sound Sources Sheet.",
+  "latest_version": "smwc-41513-1774027185",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41513,
+      "title": "Super Mario Galaxy - Space Junk Road",
+      "version": "smwc-41513-1774027185",
+      "upstream_time": 1774027185,
+      "download_url": "https://dl.smwcentral.net/41513/Space%20Junk%20Road.zip",
+      "filename": "Space Junk Road.zip",
+      "size": 61576,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

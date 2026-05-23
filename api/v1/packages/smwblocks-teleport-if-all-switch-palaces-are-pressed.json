@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-if-all-switch-palaces-are-pressed",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41155,
+  "title": "Teleport if All Switch Palaces are Pressed",
+  "authors": [
+    "Arinsu",
+    "Medic"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "switch palace",
+    "teleport"
+  ],
+  "description": "Teleports the player if all switch palaces have been pressed.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41155-1764379842",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41155,
+      "title": "Teleport if All Switch Palaces are Pressed",
+      "version": "smwc-41155-1764379842",
+      "upstream_time": 1764379842,
+      "download_url": "https://dl.smwcentral.net/41155/teleport_switch_palaces.zip",
+      "filename": "teleport_switch_palaces.zip",
+      "size": 764,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-eek-the-cat-feed-me",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28980,
+  "title": "Eek! The Cat - Feed Me!",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "chase",
+    "industrial",
+    "tense"
+  ],
+  "description": "Song from the bonus level of Eek! The cat. The game seems to be a terrible Amiga port, however the soundtrack by Dean Evans is quite good.",
+  "latest_version": "smwc-28980-1639517538",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28980,
+      "title": "Eek! The Cat - Feed Me!",
+      "version": "smwc-28980-1639517538",
+      "upstream_time": 1639517538,
+      "download_url": "https://dl.smwcentral.net/28980/FeedMe.zip",
+      "filename": "FeedMe.zip",
+      "size": 63987,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

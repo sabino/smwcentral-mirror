@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-equinox-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23186,
+  "title": "Equinox - Boss",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "A very energetic and tension-filled boss theme from Equinox.<br>\r\n<br>\r\n05/31 Update: The port is now much more accurate. Fixed said things that was wrong, and managed to optimize some parts. (Although, it's not enough to decrease the insert size due to the new commands used for accuracy, lol)<br>\r\nA louder version is now added. If you want to use it, open the txt and change the \"Louder\" define to 1.",
+  "latest_version": "smwc-23186-1590984546",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23186,
+      "title": "Equinox - Boss",
+      "version": "smwc-23186-1590984546",
+      "upstream_time": 1590984546,
+      "download_url": "https://dl.smwcentral.net/23186/Equinox%20-%20Boss.zip",
+      "filename": "Equinox - Boss.zip",
+      "size": 134323,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

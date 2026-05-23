@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-mad-dash",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 26212,
+  "title": "Mad Dash v4",
+  "authors": [
+    "CoMPMStR"
+  ],
+  "tags": [
+    "abilities",
+    "asar 2 remoderation",
+    "block",
+    "boost",
+    "dash",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch will give the player a Celeste-style dash ability by pressing X. Some of the configurable options are how long the dash lasts, how fast you travel (too fast and you die when dashing close to a wall), the max amount of dashes that can be done consecutively, and whether or not you need a power up.<br>\r\n<br>\r\nYou can have the patch start with 0 dash ability and increase or decrease the amount during gameplay, which can act as an upgrade/penalty feature or you can keep it a constant value throughout if you prefer.<br>\r\n<br>\r\nRequires 6 bytes of freeram, 1 of those should be SRAM-friendly to allow saving the max dash value if it's not constant.<br>\r\n<br>\r\nI've included 4 custom blocks that only work with this patch, insert them with GPS if you choose.<br>\r\n<br>\r\n- Allows you to dash through it, solid otherwise.<br>\r\n- Refresh your dash counter. (allows more consecutive dashes in the air)<br>\r\n- Erase the max dashes. (set the max dashes to 0)<br>\r\n- Set the max dashes to a specific amount. (configurable)<br>\r\n<br>\r\n<br>\r\nThanks to K3fka for the Wario Dash v2 patch.<br>\r\n<br>\r\n<br>\r\nv2:<br>\r\nI've updated the script which fixes the minor cape glitch at the end of a dash on the ground while having the cape powerup. I added a new option to allow dashing while crouching, this is disabled by default, as well as a dash cooldown timer.<br>\r\n<br>\r\nI also added an option to use the R button for dashing rather than X. If you use X then cape spinning will be disabled for the X button. If you use the R button cape spinning will be normal. There is another option to allow cape spinning with X only while pressing left/right on the D-Pad.<br>\r\n<br>\r\n<br>\r\nv3:<br>\r\nI updated the patch to add a horizontal dash only option (MMDash). You can set it to 1 if you don't want up/down dashing, disabled by default.<br>\r\n<br>\r\n<br>\r\nv4:<br>\r\nFixed a death bug that caused an unexpected dash after respawning with the instant retry patch.<br>\r\nFixed the sounds and effects that would play if you pressed the dash button while dying.",
+  "latest_version": "smwc-26212-1622431223",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 26212,
+      "title": "Mad Dash v4",
+      "version": "smwc-26212-1622431223",
+      "upstream_time": 1622431223,
+      "download_url": "https://dl.smwcentral.net/26212/maddashv4.zip",
+      "filename": "maddashv4.zip",
+      "size": 5092,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

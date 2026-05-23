@@ -1,0 +1,40 @@
+{
+  "name": "smwblocks-specific-screen-teleport-block-door-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 19063,
+  "title": "Specific screen teleport block & door v1.2",
+  "authors": [
+    "Alcaro",
+    "HammerBrother",
+    "Ixtab",
+    "MarioE",
+    "wye"
+  ],
+  "tags": [
+    "door",
+    "lorom",
+    "sa-1",
+    "screen boundary",
+    "teleport"
+  ],
+  "description": "Unlike all exit enabled things (door, pipe, and teleport block), this one will not use the current screen exit that the block is placed, instead you can make it use a specific screen's exit's destination.<br>\r\n<br>\r\nUseful if you wanted multiple teleport blocks each with its own destination on the same boundary or so you don't have to have multiple teleport blocks with each with its own specfic level on each map16 blocks.<br>\r\n<br>\r\nIncludes:<br>\r\n-A teleport block that uses a specific screen<br>\r\n-A teleport block that uses one of two screens depending on what the conditions are (on/off switch, p-switch, star, etc).<br>\r\n-A \"random\" teleport block that uses one of four screens (not truly random since it uses a frame counter because I don't know how to use the random number generator).<br>\r\n-A door version of the three above.<br>\r\n<br>\r\nv1.2<br>\r\n-----<br>\r\nFixed a bug doors wouldn't work in layer2 enabled levels. Player gravity check was wrong. Reported by Shog64.<br>\r\n<br>\r\nv1.1<br>\r\n---------<br>\r\nSupport for extended levels (LM3). Only works with GPS 1.4.0 +",
+  "latest_version": "smwc-19063-1550277811",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 19063,
+      "title": "Specific screen teleport block & door v1.2",
+      "version": "smwc-19063-1550277811",
+      "upstream_time": 1550277811,
+      "download_url": "https://dl.smwcentral.net/19063/specific_screen_teleport_v1.2.zip",
+      "filename": "specific_screen_teleport_v1.2.zip",
+      "size": 7030,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

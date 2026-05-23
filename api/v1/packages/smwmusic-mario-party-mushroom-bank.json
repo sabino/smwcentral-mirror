@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-mario-party-mushroom-bank",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29335,
+  "title": "Mario Party - Mushroom Bank",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "carnival",
+    "cutscene",
+    "ghost house",
+    "mysterious",
+    "overworld",
+    "switch palace",
+    "town",
+    "urban"
+  ],
+  "description": "A short, sleuthy theme from Mario Party.<br>\r\n<br>\r\nIt sounds like a shady, \"I'm waiting for an answer\" kind of theme, which seems about right for a bank.",
+  "latest_version": "smwc-29335-1644679643",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29335,
+      "title": "Mario Party - Mushroom Bank",
+      "version": "smwc-29335-1644679643",
+      "upstream_time": 1644679643,
+      "download_url": "https://dl.smwcentral.net/29335/mushroombank.zip",
+      "filename": "mushroombank.zip",
+      "size": 35849,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

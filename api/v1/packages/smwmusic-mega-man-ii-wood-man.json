@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-ii-wood-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33429,
+  "title": "Mega Man II - Wood Man",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "forest",
+    "industrial"
+  ],
+  "description": "Wood Man's stage theme from the Game Boy Mega Man II. Based on a modified MIDI from VGMusic to make it more accurate to the source.",
+  "latest_version": "smwc-33429-1689093148",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33429,
+      "title": "Mega Man II - Wood Man",
+      "version": "smwc-33429-1689093148",
+      "upstream_time": 1689093148,
+      "download_url": "https://dl.smwcentral.net/33429/Mega%20Man%20II%20GB%20-%20Wood%20Man.zip",
+      "filename": "Mega Man II GB - Wood Man.zip",
+      "size": 30835,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

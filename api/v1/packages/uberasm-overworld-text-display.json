@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-overworld-text-display",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29511,
+  "title": "Overworld Text Display",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "layer 3",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM will display some text/info on the Overworld layer 3 depending on the level Mario is standing on. Meant to be used for collabs to show the level's author name on the border, but you can use it for other stuff too. Check out the readme for instructions.",
+  "latest_version": "smwc-29511-1661823496",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29511,
+      "title": "Overworld Text Display",
+      "version": "smwc-29511-1661823496",
+      "upstream_time": 1661823496,
+      "download_url": "https://dl.smwcentral.net/29511/ow_author_display.zip",
+      "filename": "ow_author_display.zip",
+      "size": 3676,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

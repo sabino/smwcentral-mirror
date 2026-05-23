@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-the-overworlder",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40905,
+  "title": "The Overworlder",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "overworld",
+    "submap"
+  ],
+  "description": "A theme perfect for traversing open overworlds or submaps.",
+  "latest_version": "smwc-40905-1763411854",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40905,
+      "title": "The Overworlder",
+      "version": "smwc-40905-1763411854",
+      "upstream_time": 1763411854,
+      "download_url": "https://dl.smwcentral.net/40905/%5BS%5D%20%28CUSTOM%29%20The%20Overworlder%20.zip",
+      "filename": "%5BS%5D (CUSTOM) The Overworlder .zip",
+      "size": 74139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32915,
+      "title": "The Overworlder",
+      "version": "smwc-32915-1682494576",
+      "upstream_time": 1682494576,
+      "download_url": "https://dl.smwcentral.net/32915/%5BU%5D%20%28CUSTOM%29%20The%20Overworlder.zip",
+      "filename": "%5BU%5D (CUSTOM) The Overworlder.zip",
+      "size": 33007,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

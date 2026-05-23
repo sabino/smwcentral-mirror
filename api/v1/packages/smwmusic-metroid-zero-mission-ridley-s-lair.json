@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-metroid-zero-mission-ridley-s-lair",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14598,
+  "title": "Metroid: Zero Mission - Ridley's Lair",
+  "authors": [
+    "HertzDevil"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "ruins",
+    "spooky"
+  ],
+  "description": "An extended rearrangement of the same song from the original Metroid, useful for dark levels.<br>\r\n<br>\r\nThe MML file is cross-compiled from a different MML dialect using a custom Lua script, and then manually optimized.",
+  "latest_version": "smwc-14598-1477955211",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14598,
+      "title": "Metroid: Zero Mission - Ridley's Lair",
+      "version": "smwc-14598-1477955211",
+      "upstream_time": 1477955211,
+      "download_url": "https://dl.smwcentral.net/14598/mzm_ridley.zip",
+      "filename": "mzm_ridley.zip",
+      "size": 22038,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

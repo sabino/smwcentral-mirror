@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-vii-on-the-other-side-of-the-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31208,
+  "title": "Final Fantasy VII - On The Other Side Of The Mountain",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "town"
+  ],
+  "description": "Plays during a scene at Mount Nibel that Tifa remembers.<br>\r\n<br>\r\nThis song is dedicated to <span class=\"un-outer\" title=\"grisu\"><a href=\"/?p=profile&amp;id=49614\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">grisu</a></span>",
+  "latest_version": "smwc-31208-1664205270",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31208,
+      "title": "Final Fantasy VII - On The Other Side Of The Mountain",
+      "version": "smwc-31208-1664205270",
+      "upstream_time": 1664205270,
+      "download_url": "https://dl.smwcentral.net/31208/OnTheOtherSideOfTheMountain.zip",
+      "filename": "OnTheOtherSideOfTheMountain.zip",
+      "size": 38698,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

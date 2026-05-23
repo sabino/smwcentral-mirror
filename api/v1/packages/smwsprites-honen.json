@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-honen",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16224,
+  "title": "Honen",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "bony",
+    "desert",
+    "fishbone",
+    "lorom",
+    "sa-1",
+    "sml",
+    "water"
+  ],
+  "description": "A bony fish that jumps from water and stays behind layers. It can be stomped. Don't forget to enable sprite buoyancy for your level if using this sprite.<br>\r\n<br>\r\nThis sprite was part of smkdan's Super Mario Land sprites pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16224-1504716849",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16224,
+      "title": "Honen",
+      "version": "smwc-16224-1504716849",
+      "upstream_time": 1504716849,
+      "download_url": "https://dl.smwcentral.net/16224/SMLHonen.zip",
+      "filename": "SMLHonen.zip",
+      "size": 4789,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

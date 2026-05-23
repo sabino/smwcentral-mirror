@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-galaxy-tension",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12985,
+  "title": "Super Mario Galaxy - Tension",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "Could fit with pre-boss theme.",
+  "latest_version": "smwc-12985-1451970453",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12985,
+      "title": "Super Mario Galaxy - Tension",
+      "version": "smwc-12985-1451970453",
+      "upstream_time": 1451970453,
+      "download_url": "https://dl.smwcentral.net/12985/Super%20Mario%20Galaxy%20-%20Tension.zip",
+      "filename": "Super Mario Galaxy - Tension.zip",
+      "size": 61999,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

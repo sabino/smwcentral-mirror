@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-donkey-kong-country-forest-frenzy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26702,
+  "title": "Donkey Kong Country - Forest Frenzy",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "environmental",
+    "forest",
+    "jungle",
+    "swamp",
+    "temple"
+  ],
+  "description": "The forest theme from DKC.<br>\r\nRequested by Stivi<span style=\"font-size: 1pt;\">boy</span>.",
+  "latest_version": "smwc-26702-1619422442",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26702,
+      "title": "Donkey Kong Country - Forest Frenzy",
+      "version": "smwc-26702-1619422442",
+      "upstream_time": 1619422442,
+      "download_url": "https://dl.smwcentral.net/26702/DKC%20-%20Forest%20Frenzy.zip",
+      "filename": "DKC - Forest Frenzy.zip",
+      "size": 61369,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25575,
+      "title": "Donkey Kong Country - Forest Frenzy",
+      "version": "smwc-25575-1609870717",
+      "upstream_time": 1609870717,
+      "download_url": "https://dl.smwcentral.net/25575/Frenzzz.zip",
+      "filename": "Frenzzz.zip",
+      "size": 33482,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7649,
+      "title": "Donkey Kong Country - Forest Frenzy",
+      "version": "smwc-7649-1311995785",
+      "upstream_time": 1311995785,
+      "download_url": "https://dl.smwcentral.net/7649/DKC%20-%20Forest%20Frenzy.zip",
+      "filename": "DKC - Forest Frenzy.zip",
+      "size": 68814,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

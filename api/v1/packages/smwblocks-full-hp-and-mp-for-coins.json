@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-full-hp-and-mp-for-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3983,
+  "title": "Full HP and MP for coins",
+  "authors": [
+    "Medic"
+  ],
+  "tags": [
+    "lorom",
+    "patch compliment"
+  ],
+  "description": "This block restores all of your HP and MP for a configurable amount of coins.<br>\r\n<br>\r\nONLY compatible with <a href=\"http://www.smwcentral.net/download.php?id=441&type=patches\">RPG Hacker's HP and MP</a> patch <br>\r\n<br>\r\nNo credit needed.",
+  "latest_version": "smwc-3983-1409036442",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3983,
+      "title": "Full HP and MP for coins",
+      "version": "smwc-3983-1409036442",
+      "upstream_time": 1409036442,
+      "download_url": "https://dl.smwcentral.net/3983/fullhpmp%20%282%29.zip",
+      "filename": "fullhpmp (2).zip",
+      "size": 545,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

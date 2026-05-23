@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-sparkster-lakeside",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39516,
+  "title": "Sparkster - Lakeside",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "cutscene",
+    "industrial",
+    "mountain",
+    "sky",
+    "space",
+    "tense",
+    "urban"
+  ],
+  "description": "Lakeside Adventure from Sparkster.<br>\r\n<br>\r\nUpdate: Corrected all the ADSR values and made the overall volume a little more accurate. Whew, fixing all that was quite a doozy.<br>\r\n<br>\r\nAdditionally, you can set it to play the intro or skip the intro in the define settings on top:<br>\r\n#define INTRO 0 will omit the intro.<br>\r\n#define INTRO 1 (or any other value) will play the intro.<br>\r\nAnd as a bonus, there's a version with the Mega Drive / Genesis version's intro.",
+  "latest_version": "smwc-39516-1744488853",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39516,
+      "title": "Sparkster - Lakeside",
+      "version": "smwc-39516-1744488853",
+      "upstream_time": 1744488853,
+      "download_url": "https://dl.smwcentral.net/39516/Sparkster%20-%20Lakeside%20Updated.zip",
+      "filename": "Sparkster - Lakeside Updated.zip",
+      "size": 169418,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

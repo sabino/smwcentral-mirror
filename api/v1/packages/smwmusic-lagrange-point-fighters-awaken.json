@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lagrange-point-fighters-awaken",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25356,
+  "title": "Lagrange Point - Fighters Awaken",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "retro",
+    "tense"
+  ],
+  "description": "Also known as Awaken into Warriors.<br>\r\nThe main battle song from random encounters.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25356-1607729671",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25356,
+      "title": "Lagrange Point - Fighters Awaken",
+      "version": "smwc-25356-1607729671",
+      "upstream_time": 1607729671,
+      "download_url": "https://dl.smwcentral.net/25356/Lagrange%20Point%20-%20Fighters%20Awaken.zip",
+      "filename": "Lagrange Point - Fighters Awaken.zip",
+      "size": 187396,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

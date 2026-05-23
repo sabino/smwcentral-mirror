@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ys-iii-wanderers-from-ys-death-blitz",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33009,
+  "title": "Ys III: Wanderers from Ys - Death Blitz",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "tense"
+  ],
+  "description": "One of boss battle themes from <i>Ys III</i>. Based on the Mega Drive version. Could fit boss levels.<br>\r\n<br>\r\n(Note: The track name is taken from the official <i>Ys: The Oath in Felghana</i> album translated by Xseed Games.) ",
+  "latest_version": "smwc-33009-1677150349",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33009,
+      "title": "Ys III: Wanderers from Ys - Death Blitz",
+      "version": "smwc-33009-1677150349",
+      "upstream_time": 1677150349,
+      "download_url": "https://dl.smwcentral.net/33009/Ys%20III%20Death%20Blitz%20v1.1.zip",
+      "filename": "Ys III Death Blitz v1.1.zip",
+      "size": 34688,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

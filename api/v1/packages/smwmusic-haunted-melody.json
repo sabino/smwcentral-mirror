@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-haunted-melody",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7907,
+  "title": "Haunted Melody",
+  "authors": [
+    "grishnax"
+  ],
+  "tags": [
+    "ghost house"
+  ],
+  "description": "A creepy song, would work well in a haunted area, as the name implies.",
+  "latest_version": "smwc-7907-1319889141",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7907,
+      "title": "Haunted Melody",
+      "version": "smwc-7907-1319889141",
+      "upstream_time": 1319889141,
+      "download_url": "https://dl.smwcentral.net/7907/HauntedMelody.zip",
+      "filename": "HauntedMelody.zip",
+      "size": 65617,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-dino-rhino-dino-torch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41240,
+  "title": "Dino Rhino + Dino Torch",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "dino rhino",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A disassembly of sprites 6E and 6F, the Dino Rhino and the Dino Torch.<br>\r\n<br>\r\nOnly difference from the original code is to check for the extra bit instead of the sprite number, as in reality, the Dinos share pretty much all of their code and are only differentiated by number in some situations.",
+  "latest_version": "smwc-41240-1773242526",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41240,
+      "title": "Dino Rhino + Dino Torch",
+      "version": "smwc-41240-1773242526",
+      "upstream_time": 1773242526,
+      "download_url": "https://dl.smwcentral.net/41240/%5BDisassembly%5D%20Dino%20Rhino%20%2B%20Dino%20Torch.zip",
+      "filename": "%5BDisassembly%5D Dino Rhino + Dino Torch.zip",
+      "size": 4677,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

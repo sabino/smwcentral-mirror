@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-battle-team-rocket",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10867,
+  "title": "Pokémon Gold/Silver/Crystal - Battle! Team Rocket",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "The well-known Rocket Battle theme from the second set of Gameboy Pokemon games.",
+  "latest_version": "smwc-10867-1425431541",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10867,
+      "title": "Pokémon Gold/Silver/Crystal - Battle! Team Rocket",
+      "version": "smwc-10867-1425431541",
+      "upstream_time": 1425431541,
+      "download_url": "https://dl.smwcentral.net/10867/rocket.zip",
+      "filename": "rocket.zip",
+      "size": 33272,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

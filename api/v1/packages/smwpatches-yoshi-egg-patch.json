@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-yoshi-egg-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4406,
+  "title": "Yoshi Egg Patch V2",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "When you come up to a yoshi egg while riding yoshi or while holding a baby yoshi the yoshi egg won't spawn a baby yoshi or a one up instead nothing will appear if you already have a yoshi or a baby yoshi but it'll still show the egg breaking.<br>\r\n<br>\r\nNow checks for Baby Yoshies too.",
+  "latest_version": "smwc-4406-1289938149",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4406,
+      "title": "Yoshi Egg Patch V2",
+      "version": "smwc-4406-1289938149",
+      "upstream_time": 1289938149,
+      "download_url": "https://dl.smwcentral.net/4406/Yoshi%20Egg%20Patch.zip",
+      "filename": "Yoshi Egg Patch.zip",
+      "size": 812,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sonic-forces-aqua-road",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26014,
+  "title": "Sonic Forces - Aqua Road",
+  "authors": [
+    "Kusamochi"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "cave",
+    "night"
+  ],
+  "description": "This is my favorite song from Sonic Forces.<br>\r\nGood for night and athletic levels.",
+  "latest_version": "smwc-26014-1614492283",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26014,
+      "title": "Sonic Forces - Aqua Road",
+      "version": "smwc-26014-1614492283",
+      "upstream_time": 1614492283,
+      "download_url": "https://dl.smwcentral.net/26014/Sonic%20Forces%20-%20Aqua%20Road.zip",
+      "filename": "Sonic Forces - Aqua Road.zip",
+      "size": 66175,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

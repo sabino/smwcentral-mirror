@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-iggy-hair-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19866,
+  "title": "Iggy Hair Fix",
+  "authors": [
+    "Mattrizzle"
+  ],
+  "tags": [
+    "boss",
+    "iggy",
+    "lorom",
+    "mode 7",
+    "sa-1",
+    "sprite",
+    "tile"
+  ],
+  "description": "This patch gives Iggy's hair its correct graphics, instead of reusing Larry's hair.<br>\r\n<br>\r\n*Update: A correction has been made to this for users of the Piranha Plant Fix patch.",
+  "latest_version": "smwc-19866-1558363954",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19866,
+      "title": "Iggy Hair Fix",
+      "version": "smwc-19866-1558363954",
+      "upstream_time": 1558363954,
+      "download_url": "https://dl.smwcentral.net/19866/iggy_hair.zip",
+      "filename": "iggy_hair.zip",
+      "size": 1415,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

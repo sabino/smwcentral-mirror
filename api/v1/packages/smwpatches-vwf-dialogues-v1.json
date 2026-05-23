@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-vwf-dialogues-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 36969,
+  "title": "VWF Dialogues v1.4",
+  "authors": [
+    "Check manual for full list",
+    "RPG Hacker"
+  ],
+  "tags": [
+    "lorom",
+    "message box",
+    "sa-1",
+    "vwf"
+  ],
+  "description": "This patch lets you use VWF text boxes like in some old SNES RPGs. They're very flexible and customizable in both appearance and behavior. You can even execute code from a text box for near endless possibilities. There is no GUI application to set up text, but macros aim to make the usage as easy as possible. The manual is pretty detailed, so if you read it carefully, you should be alright.<br>\r\n<br>\r\nThis upload combines all the changes from version 1.3 (which was never submitted to the Patches section) and the newest version 1.4.<br>\r\n<br>\r\nAsar v1.90 or newer is required to use this patch.<br>\r\n<br>\r\nVersion 1.3 changes:<br>\r\n<ul><li>The patch now uses Asar macros to make messages a lot easier to both read and write.</li>\r\n<li>Message headers can now have default arguments, so you no longer need to specify every possible setting.</li>\r\n<li>The new MessageASM system allows you to continuously execute code while a specific text box is open, similar to UberASM with levels.</li>\r\n<li>A new text macro system allows you to reuse pieces of text.</li>\r\n<li>A new shared routines system lets you call VWF Dialogues routines from other resources.</li>\r\n<li>Added a few new text commands.</li>\r\n<li>Fixed many bugs.</li>\r\n<li>And much more (see history in manual for full details).</li></ul><br>\r\n<br>\r\nVersion 1.4 changes:<br>\r\n<ul><li>Improved compatibility with many Status Bar replacement patches.</li>\r\n<li>Greatly improved performance in multiple areas, especially V-Blank.</li>\r\n<li>Added the ability to customize which buttons the patch uses.</li>\r\n<li>Added the ability to override the appearance of a text box via its header.</li>\r\n<li>Added the ability to share headers between messages.</li>\r\n<li>Fixed many bugs.</li>\r\n<li>And much more (see history in manual for full details).</li></ul><br>\r\n<br>\r\nRequires 20,296 bytes of free RAM at default settings (956 bytes to store settings, 16,384 bytes to back up layer 3 graphics and 2,956 bytes as working RAM). By default, all free RAM is mapped to SRAM (there's an option to automatically expand SRAM), except in SA-1 ROMs, where BW-RAM is used instead. Requires a variable amount of free space, depending on the amount of text and graphics you insert into your ROM with it. Expect around a full bank of free space to be taken at minimum by average use of this patch.<br>\r\n<br>\r\nFeel free to contribute to this and other patches via my <a href=\"https://github.com/RPGHacker/SMW-Workspace\" rel=\"nofollow\">GitHub repository</a>.",
+  "latest_version": "smwc-36969-1762697016",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 36969,
+      "title": "VWF Dialogues v1.4",
+      "version": "smwc-36969-1762697016",
+      "upstream_time": 1762697016,
+      "download_url": "https://dl.smwcentral.net/36969/vwf_dialogues_140b.zip",
+      "filename": "vwf_dialogues_140b.zip",
+      "size": 1159321,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

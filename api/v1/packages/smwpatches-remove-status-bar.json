@@ -1,0 +1,41 @@
+{
+  "name": "smwpatches-remove-status-bar",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40144,
+  "title": "Remove Status Bar",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "1up",
+    "coins",
+    "hud",
+    "irq",
+    "item box",
+    "layer 3",
+    "lorom",
+    "sa-1",
+    "status bar",
+    "timer"
+  ],
+  "description": "Completely removes the status bar, along with the item box and the timer. There's an option to internally reenable the coin counter and getting 1UPs every 100 coins, otherwise these are disabled as well.<br>\r\n<br>\r\nThis does free up space on the screen for layer 3.<br>\r\n<br>\r\nYou may also use the area previously occupied by the status bar data/code as free ROM space (some of it is already used by this patch).<br>\r\n<br>\r\n06/01/2019<br>\r\nNow supports SA-1 Pack 1.31<br>\r\n<br>\r\n20/07/2025 (gemstonezVA)<br>\r\nChanged a \"warnpc\" to an \"assert pc() &lt;=\" to fix an upcoming Asar 2.0 deprecation.",
+  "latest_version": "smwc-40144-1753052139",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40144,
+      "title": "Remove Status Bar",
+      "version": "smwc-40144-1753052139",
+      "upstream_time": 1753052139,
+      "download_url": "https://dl.smwcentral.net/40144/nuke%20status%20bar.zip",
+      "filename": "nuke status bar.zip",
+      "size": 1004,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

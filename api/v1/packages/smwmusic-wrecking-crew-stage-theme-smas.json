@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-wrecking-crew-stage-theme-smas",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38981,
+  "title": "Wrecking Crew - Stage Theme (SMAS)",
+  "authors": [
+    "ShivjotRangi"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "calm",
+    "forest",
+    "grassland",
+    "overworld",
+    "sky",
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Stage/phase theme song from Wrecking Crew game with Super Mario All-Stars music style. Works with any overworld levels.",
+  "latest_version": "smwc-38981-1735754140",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38981,
+      "title": "Wrecking Crew - Stage Theme (SMAS)",
+      "version": "smwc-38981-1735754140",
+      "upstream_time": 1735754140,
+      "download_url": "https://dl.smwcentral.net/38981/Wrecking%20Crew%20-%20Stage%20Theme%28SMAS%29.zip",
+      "filename": "Wrecking Crew - Stage Theme(SMAS).zip",
+      "size": 33856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

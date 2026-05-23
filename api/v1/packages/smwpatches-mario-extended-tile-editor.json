@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-mario-extended-tile-editor",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4308,
+  "title": "Mario Extended Tile Editor",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "With this, you can edit Mario's extended tiles, such as what tiles they use, what frames use them, etc.<br>\r\n<br>\r\nNo freespace needed.",
+  "latest_version": "smwc-4308-1266616291",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4308,
+      "title": "Mario Extended Tile Editor",
+      "version": "smwc-4308-1266616291",
+      "upstream_time": 1266616291,
+      "download_url": "https://dl.smwcentral.net/4308/extendmario.zip",
+      "filename": "extendmario.zip",
+      "size": 1782,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

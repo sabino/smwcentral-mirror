@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-chainsaws-v-1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18951,
+  "title": "Chainsaws v.1.2",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "chainsaw",
+    "enemy",
+    "line-guided",
+    "lorom",
+    "sa-1",
+    "saw"
+  ],
+  "description": "This is a disassembly of sprites 65 and 66 in SMW, the chainsaws.  The extra bit determines which of the original sprites it acts like.<br>\r\n<br>\r\nv1.2<br>\r\n-----<br>\r\nCFG for property byte 1. Fixed cfg act-as.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nSupport for LM3 exlevel settings. Only works with pixi 1.2.4+<br>\r\nSA-1 compliant now.",
+  "latest_version": "smwc-18951-1547518337",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18951,
+      "title": "Chainsaws v.1.2",
+      "version": "smwc-18951-1547518337",
+      "upstream_time": 1547518337,
+      "download_url": "https://dl.smwcentral.net/18951/SMWSDIS%20-%20sprites%2065%20%26%2066%20-%20chainsaws%20v1.2.zip",
+      "filename": "SMWSDIS - sprites 65 %26 66 - chainsaws v1.2.zip",
+      "size": 6435,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

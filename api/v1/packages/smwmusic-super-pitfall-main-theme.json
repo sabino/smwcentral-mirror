@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-pitfall-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23135,
+  "title": "Super Pitfall - Main Theme",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "switch palace",
+    "title"
+  ],
+  "description": "Part of Wyatt Croucher's music pack. A short, happy song that could work for title screens or bonus rooms.",
+  "latest_version": "smwc-23135-1590734834",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23135,
+      "title": "Super Pitfall - Main Theme",
+      "version": "smwc-23135-1590734834",
+      "upstream_time": 1590734834,
+      "download_url": "https://dl.smwcentral.net/23135/pitfall3.zip",
+      "filename": "pitfall3.zip",
+      "size": 30518,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

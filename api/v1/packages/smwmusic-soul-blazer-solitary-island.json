@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-soul-blazer-solitary-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25452,
+  "title": "Soul Blazer - Solitary Island",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "beach",
+    "cave",
+    "chase",
+    "industrial",
+    "jungle",
+    "ruins",
+    "tense"
+  ],
+  "description": "A song for Indiana Jones-themed islands. You can make it a villain's hidden headquarters. Tense and menacing atmosphere that fits beaches as well as jungles.<br>\r\n<br>\r\nIt ranked 36/46 at <a href=\"https://www.smwcentral.net/?p=viewthread&t=103436&page=2&pid=1554003#p1554003\">Super Famicompo 2</a> and I used voters' comments to upgrade a bit.",
+  "latest_version": "smwc-25452-1607888540",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25452,
+      "title": "Soul Blazer - Solitary Island",
+      "version": "smwc-25452-1607888540",
+      "upstream_time": 1607888540,
+      "download_url": "https://dl.smwcentral.net/25452/sbtropical_islands_0_3.zip",
+      "filename": "sbtropical_islands_0_3.zip",
+      "size": 33647,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

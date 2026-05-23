@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-contra-nes-energy-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38733,
+  "title": "Contra (NES) - Energy Zone",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "final",
+    "fire",
+    "industrial",
+    "retro",
+    "tense"
+  ],
+  "description": "Energy Zone from Contra on the NES.",
+  "latest_version": "smwc-38733-1732824907",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38733,
+      "title": "Contra (NES) - Energy Zone",
+      "version": "smwc-38733-1732824907",
+      "upstream_time": 1732824907,
+      "download_url": "https://dl.smwcentral.net/38733/Contra%20%28NES%29%20-%20Energy%20Zone.zip",
+      "filename": "Contra (NES) - Energy Zone.zip",
+      "size": 52899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

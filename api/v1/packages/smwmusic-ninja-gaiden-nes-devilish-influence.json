@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ninja-gaiden-nes-devilish-influence",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39295,
+  "title": "Ninja Gaiden (NES) - Devilish Influence",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "Thanks to <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span> for giving me some really helpful tips for porting NES music.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"xMANGRAVYx\"><a href=\"/?p=profile&amp;id=58826\" style=\"color: var(--user-color-1);\" class=\"un\">xMANGRAVYx</a></span>",
+  "latest_version": "smwc-39295-1741701438",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39295,
+      "title": "Ninja Gaiden (NES) - Devilish Influence",
+      "version": "smwc-39295-1741701438",
+      "upstream_time": 1741701438,
+      "download_url": "https://dl.smwcentral.net/39295/Devilish%20Influence.zip",
+      "filename": "Devilish Influence.zip",
+      "size": 54557,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

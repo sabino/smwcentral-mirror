@@ -1,0 +1,44 @@
+{
+  "name": "smwmusic-carnival-of-the-animals-aquarium",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29024,
+  "title": "Carnival of the Animals - Aquarium",
+  "authors": [
+    "VecchiaZim"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "castle",
+    "credits",
+    "ice",
+    "mysterious",
+    "night",
+    "ruins",
+    "sad",
+    "sky",
+    "snow",
+    "space",
+    "water"
+  ],
+  "description": "My first port! I always thought this would make good level music. Good for water (obv) - some people think it's good for snow and fairy tales too, probably because it was ripped off in Beauty and the Beast. (By Saint-Saens, BTW.)",
+  "latest_version": "smwc-29024-1643403474",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29024,
+      "title": "Carnival of the Animals - Aquarium",
+      "version": "smwc-29024-1643403474",
+      "upstream_time": 1643403474,
+      "download_url": "https://dl.smwcentral.net/29024/aquarium.zip",
+      "filename": "aquarium.zip",
+      "size": 33302,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

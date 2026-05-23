@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rat-attack-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41394,
+  "title": "Rat Attack! - Title Screen",
+  "authors": [
+    "LuciCat"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "title"
+  ],
+  "description": "The title theme from the PS1, N64 and PC hidden gem, <i>Rat Attack!</i> (the PS1 version is thankfully re-released on GOG). Starring the Scratch Cats (not to be confused with you know, the programming language you definitely used at school if you're a Gen Z), the goal of the game is to eliminate you know... rats that appear on screen, using a rectangular lasso (functioning almost similar to the arcade games <i>Libble Rabble</i> and <i>Qix</i>).<br>\r\n<br>\r\n<b>Not compatible with Blargg/Thunder and Bonus End!</b><br>\r\n<br>\r\nGood for not only title screens, but also overworlds and mid-level bonus levels.<br>\r\n<br>\r\n2026-01-08: Updated with more noticeable echo, and the speed now matches the original more closely (the internal song tempo was also doubled, for less staccato).",
+  "latest_version": "smwc-41394-1769908768",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41394,
+      "title": "Rat Attack! - Title Screen",
+      "version": "smwc-41394-1769908768",
+      "upstream_time": 1769908768,
+      "download_url": "https://dl.smwcentral.net/41394/Rat%20Attack%20-%20Title%20Screen.zip",
+      "filename": "Rat Attack - Title Screen.zip",
+      "size": 92272,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-firered-leafgreen-emerald-battle-deoxys",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19834,
+  "title": "Pokémon FireRed/LeafGreen/Emerald - Battle! Deoxys",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "final",
+    "space"
+  ],
+  "description": "This is the music that plays during the fight against Deoxys in Pokemon Emerald/FireRed/LeafGreen. <br>\r\nPorted by com_poser, it's not a 1:1 port of the original because pieces of it were slightly modified to be a little more interesting.<br>\r\nFitting for any space related stages or any epic stages in general.",
+  "latest_version": "smwc-19834-1556757783",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19834,
+      "title": "Pokémon FireRed/LeafGreen/Emerald - Battle! Deoxys",
+      "version": "smwc-19834-1556757783",
+      "upstream_time": 1556757783,
+      "download_url": "https://dl.smwcentral.net/19834/Deoxys_Battle.zip",
+      "filename": "Deoxys_Battle.zip",
+      "size": 101057,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

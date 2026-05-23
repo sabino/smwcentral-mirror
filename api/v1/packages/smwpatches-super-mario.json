@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-super-mario",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19677,
+  "title": "Super Mario 64 Long & U-Jump",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "abilities",
+    "boost",
+    "jump",
+    "lorom",
+    "mario",
+    "player",
+    "sa-1"
+  ],
+  "description": "This ASM hack will install those SM64 moves in SMW. Read the readme for more info.",
+  "latest_version": "smwc-19677-1556427496",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19677,
+      "title": "Super Mario 64 Long & U-Jump",
+      "version": "smwc-19677-1556427496",
+      "upstream_time": 1556427496,
+      "download_url": "https://dl.smwcentral.net/19677/long%2Bujump.zip",
+      "filename": "long+ujump.zip",
+      "size": 1464,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

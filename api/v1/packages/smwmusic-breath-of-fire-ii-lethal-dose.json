@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-breath-of-fire-ii-lethal-dose",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21874,
+  "title": "Breath of Fire II - Lethal Dose",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "dark",
+    "final"
+  ],
+  "description": "This is Deathevan's theme, final boss from BoFII. As it's very intense and fast-paced, it might fit into final castles or boss battles.",
+  "latest_version": "smwc-21874-1579571702",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21874,
+      "title": "Breath of Fire II - Lethal Dose",
+      "version": "smwc-21874-1579571702",
+      "upstream_time": 1579571702,
+      "download_url": "https://dl.smwcentral.net/21874/lethaldose.zip",
+      "filename": "lethaldose.zip",
+      "size": 58037,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7604,
+      "title": "Breath of Fire II - Lethal Dose",
+      "version": "smwc-7604-1319465377",
+      "upstream_time": 1319465377,
+      "download_url": "https://dl.smwcentral.net/7604/Lethal%20Dose.zip",
+      "filename": "Lethal Dose.zip",
+      "size": 72292,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

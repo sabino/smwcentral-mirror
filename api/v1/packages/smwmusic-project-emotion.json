@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-project-emotion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7968,
+  "title": "Project Emotion",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "credits",
+    "water"
+  ],
+  "description": "A calm custom composition. Can fit water or cave levels.",
+  "latest_version": "smwc-7968-1312330137",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7968,
+      "title": "Project Emotion",
+      "version": "smwc-7968-1312330137",
+      "upstream_time": 1312330137,
+      "download_url": "https://dl.smwcentral.net/7968/Project%20Emotion.zip",
+      "filename": "Project Emotion.zip",
+      "size": 68010,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

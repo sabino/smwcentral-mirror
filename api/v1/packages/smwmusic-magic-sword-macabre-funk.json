@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-magic-sword-macabre-funk",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37096,
+  "title": "Magic Sword - Macabre Funk",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "fire",
+    "industrial",
+    "space",
+    "tense",
+    "urban"
+  ],
+  "description": "An energetic, funky floor tune from Magic Sword. Works great for intense, high speed levels, or boss fights.",
+  "latest_version": "smwc-37096-1709248675",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37096,
+      "title": "Magic Sword - Macabre Funk",
+      "version": "smwc-37096-1709248675",
+      "upstream_time": 1709248675,
+      "download_url": "https://dl.smwcentral.net/37096/MS%20-%20Macabre%20Funk.zip",
+      "filename": "MS - Macabre Funk.zip",
+      "size": 34318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37095,
+      "title": "Magic Sword - Macabre Funk",
+      "version": "smwc-37095-1709248370",
+      "upstream_time": 1709248370,
+      "download_url": "https://dl.smwcentral.net/37095/Magic%20Sword%20-%20Macabre%20Funk..zip",
+      "filename": "Magic Sword - Macabre Funk..zip",
+      "size": 69087,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

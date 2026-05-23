@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-per-level-mario-start-enable-disable",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 29169,
+  "title": "Per Level \"Mario Start!\" Enable/Disable",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "per level",
+    "sa-1"
+  ],
+  "description": "You know how in vanilla SMW Yoshi's House doesn't show the \"Mario Start!\" message when entering it? This patch allows you to do the same for any level that can be entered from the Overworld, which could be useful for hubs, shops and the like.<br>\r\nTo use it, edit the \"mario_start_enable\" table in the asm file.",
+  "latest_version": "smwc-29169-1644804062",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 29169,
+      "title": "Per Level \"Mario Start!\" Enable/Disable",
+      "version": "smwc-29169-1644804062",
+      "upstream_time": 1644804062,
+      "download_url": "https://dl.smwcentral.net/29169/perlevel_mario_start.zip",
+      "filename": "perlevel_mario_start.zip",
+      "size": 790,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

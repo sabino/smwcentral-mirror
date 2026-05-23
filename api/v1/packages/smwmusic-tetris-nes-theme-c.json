@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-tetris-nes-theme-c",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33440,
+  "title": "Tetris (NES) - Theme C",
+  "authors": [
+    "Sariel"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cutscene"
+  ],
+  "description": "Dedicated to <a href=\"https://www.smwcentral.net/?p=profile&amp;id=34833\"><b><span style=\"color: #7c60b0;\">Glitchcat7</span></b></a>.<br>\r\nFits Bonus Rooms, cutscenes and neverending maxout attempts of course.<br>\r\n<span style=\"font-size: 8pt;\">Sidenote: Only uses 2 channels</span>",
+  "latest_version": "smwc-33440-1680583369",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33440,
+      "title": "Tetris (NES) - Theme C",
+      "version": "smwc-33440-1680583369",
+      "upstream_time": 1680583369,
+      "download_url": "https://dl.smwcentral.net/33440/NES%20Tetris%20-%20Theme%20C.zip",
+      "filename": "NES Tetris - Theme C.zip",
+      "size": 30829,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

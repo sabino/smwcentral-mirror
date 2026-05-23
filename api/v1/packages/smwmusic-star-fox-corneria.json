@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-star-fox-corneria",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27057,
+  "title": "Star Fox - Corneria",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "final",
+    "space",
+    "tense"
+  ],
+  "description": "Fast paced and intense theme from Star Fox. Good for intense levels or space levels in general.<br>\r\nRequested by Fernandito2018.",
+  "latest_version": "smwc-27057-1621729798",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27057,
+      "title": "Star Fox - Corneria",
+      "version": "smwc-27057-1621729798",
+      "upstream_time": 1621729798,
+      "download_url": "https://dl.smwcentral.net/27057/Star%20Fox%20-%20Corneria.zip",
+      "filename": "Star Fox - Corneria.zip",
+      "size": 49662,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17653,
+      "title": "Star Fox - Corneria",
+      "version": "smwc-17653-1529576556",
+      "upstream_time": 1529576556,
+      "download_url": "https://dl.smwcentral.net/17653/Corneria.zip",
+      "filename": "Corneria.zip",
+      "size": 35097,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

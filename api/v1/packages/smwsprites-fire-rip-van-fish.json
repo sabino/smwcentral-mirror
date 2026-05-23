@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-fire-rip-van-fish",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28331,
+  "title": "Fire Rip van Fish",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "fish",
+    "flame",
+    "lorom",
+    "rip van fish",
+    "sa-1"
+  ],
+  "description": "This Rip van Fish will leave flame trail when chasing the player.",
+  "latest_version": "smwc-28331-1631741506",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28331,
+      "title": "Fire Rip van Fish",
+      "version": "smwc-28331-1631741506",
+      "upstream_time": 1631741506,
+      "download_url": "https://dl.smwcentral.net/28331/FireRipvanFish.zip",
+      "filename": "FireRipvanFish.zip",
+      "size": 6344,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

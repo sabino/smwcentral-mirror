@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-tap-tap",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32565,
+  "title": "Tap-Tap",
+  "authors": [
+    "Dispari Scuro"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "smtko",
+    "smw2",
+    "super mario tko",
+    "yoshi's island"
+  ],
+  "description": "Based on Tap-Tap from SMW2: YI. Tap-Tap is invincible to normal damage, but can be hit by shells and other thrown items and stunned temporarily. It uses the extra bit to determine if it should be a walking or jumping Tap-Tap.<br>\r\n<br>\r\nupdated by <span class=\"un-outer\" title=\"Isikoro\"><a href=\"/?p=profile&amp;id=36566\" style=\"color: var(--user-color-1);\" class=\"un\">Isikoro</a></span><br>\r\nFixed problem with misaligned footsteps.<br>\r\nConverted to Json file.",
+  "latest_version": "smwc-32565-1687545283",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32565,
+      "title": "Tap-Tap",
+      "version": "smwc-32565-1687545283",
+      "upstream_time": 1687545283,
+      "download_url": "https://dl.smwcentral.net/32565/tap_tap.zip",
+      "filename": "tap_tap.zip",
+      "size": 9312,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

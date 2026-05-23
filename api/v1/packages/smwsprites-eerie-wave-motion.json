@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-eerie-wave-motion",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28733,
+  "title": "Eerie (+ wave motion)",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "eerie",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is the disassembly of the original Eerie and Eerie: Wave motion. But both of them are combined in 1 sprite through the extra bit. To be inserted with PIXI",
+  "latest_version": "smwc-28733-1644785260",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28733,
+      "title": "Eerie (+ wave motion)",
+      "version": "smwc-28733-1644785260",
+      "upstream_time": 1644785260,
+      "download_url": "https://dl.smwcentral.net/28733/Eerie.zip",
+      "filename": "Eerie.zip",
+      "size": 2667,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-strong-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3881,
+  "title": "Strong Block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "powerup",
+    "shatter",
+    "strong"
+  ],
+  "description": "Only shatters/breaks from below if the player has a Mushroom (not a flower or cape). The required powerup can be adjusted.",
+  "latest_version": "smwc-3881-1436703633",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3881,
+      "title": "Strong Block",
+      "version": "smwc-3881-1436703633",
+      "upstream_time": 1436703633,
+      "download_url": "https://dl.smwcentral.net/3881/strongblk.zip",
+      "filename": "strongblk.zip",
+      "size": 369,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-land-marine-sky-pop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17369,
+  "title": "Super Mario Land - Marine/Sky Pop",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "sky"
+  ],
+  "description": "This is a 16-bit remix of the energetic song played when Mario pilots the Marine and Sky Pop in Super Mario Land.",
+  "latest_version": "smwc-17369-1523046576",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17369,
+      "title": "Super Mario Land - Marine/Sky Pop",
+      "version": "smwc-17369-1523046576",
+      "upstream_time": 1523046576,
+      "download_url": "https://dl.smwcentral.net/17369/Marine%20Pop.zip",
+      "filename": "Marine Pop.zip",
+      "size": 31583,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

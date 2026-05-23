@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bullet-bill-generator",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 17873,
+  "title": "Bullet Bill Generator",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bullet",
+    "bullet bill",
+    "lorom",
+    "random",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite D5 in SMW, Bullet Bill Generator.<br>\r\nCredit is unnecessary.",
+  "latest_version": "smwc-17873-1532020492",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 17873,
+      "title": "Bullet Bill Generator",
+      "version": "smwc-17873-1532020492",
+      "upstream_time": 1532020492,
+      "download_url": "https://dl.smwcentral.net/17873/Bullet%20Bill%20Generator.zip",
+      "filename": "Bullet Bill Generator.zip",
+      "size": 2174,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

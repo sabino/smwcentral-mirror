@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cavern-collectathon-ending-credits-quartet",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37308,
+  "title": "Cavern Collectathon - Ending & Credits (Quartet)",
+  "authors": [
+    "Segment1Zone2",
+    "wolfram"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "sad"
+  ],
+  "description": "The ending theme from <a href=\"https://www.smwcentral.net/?p=viewthread&t=126748\">Cavern Collectathon</a>. This is the quartet version.<br>\r\n<br>\r\nOmits Thunder, @7 (Bonus End) and @15 (Yoshi).",
+  "latest_version": "smwc-37308-1719247544",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37308,
+      "title": "Cavern Collectathon - Ending & Credits (Quartet)",
+      "version": "smwc-37308-1719247544",
+      "upstream_time": 1719247544,
+      "download_url": "https://dl.smwcentral.net/37308/Cavern%20Collectathon%20-%20Ending%20%26%20Credits%20%28Quartet%29.zip",
+      "filename": "Cavern Collectathon - Ending %26 Credits (Quartet).zip",
+      "size": 58011,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

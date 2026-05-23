@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-magical-pop-n-around-the-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17355,
+  "title": "Magical Pop'n - Around the Castle",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "bonus",
+    "castle",
+    "outdoor"
+  ],
+  "description": "Music from Magical Pop'n. Good for outdoor sections of a castle. Also great for bonus stages.",
+  "latest_version": "smwc-17355-1522806672",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17355,
+      "title": "Magical Pop'n - Around the Castle",
+      "version": "smwc-17355-1522806672",
+      "upstream_time": 1522806672,
+      "download_url": "https://dl.smwcentral.net/17355/%5BU%5D%20Magical%20Pop%27n%20-%20Around%20the%20Castle.zip",
+      "filename": "%5BU%5D Magical Pop%27n - Around the Castle.zip",
+      "size": 32700,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

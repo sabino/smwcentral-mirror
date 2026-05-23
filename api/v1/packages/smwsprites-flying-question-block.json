@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-flying-question-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33875,
+  "title": "Flying Question Block",
+  "authors": [
+    "Burning Loaf"
+  ],
+  "tags": [
+    "disassembly",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A disassembly of sprites $83 and $84.<br>\r\nInstead of sprite number to determine movement, it uses the extra bit.",
+  "latest_version": "smwc-33875-1689100289",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33875,
+      "title": "Flying Question Block",
+      "version": "smwc-33875-1689100289",
+      "upstream_time": 1689100289,
+      "download_url": "https://dl.smwcentral.net/33875/Flying%20Question%20Block.zip",
+      "filename": "Flying Question Block.zip",
+      "size": 3373,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

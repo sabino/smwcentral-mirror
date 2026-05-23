@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-energy-breaker-aroma-of-stew",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35658,
+  "title": "Energy Breaker - Aroma of Stew",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "night",
+    "town"
+  ],
+  "description": "set define to #define Cricket 1, to add the crickets sound (original)<br>\r\nset define to #define Cricket 0, to remove the crickets sound<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+  "latest_version": "smwc-35658-1704062658",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35658,
+      "title": "Energy Breaker - Aroma of Stew",
+      "version": "smwc-35658-1704062658",
+      "upstream_time": 1704062658,
+      "download_url": "https://dl.smwcentral.net/35658/Aroma%20of%20Stew.zip",
+      "filename": "Aroma of Stew.zip",
+      "size": 67039,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

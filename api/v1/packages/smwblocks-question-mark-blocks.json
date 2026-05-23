@@ -1,0 +1,40 @@
+{
+  "name": "smwblocks-question-mark-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 30840,
+  "title": "Question Mark Blocks",
+  "authors": [
+    "MarioFanGamer",
+    "lx5"
+  ],
+  "tags": [
+    "32x32",
+    "giant",
+    "item box",
+    "item memory",
+    "lorom",
+    "question block",
+    "sa-1",
+    "yoshi egg"
+  ],
+  "description": "A pack with some very customisable question mark blocks including a power up dependent block (similar how the flower and feather ?-blocks from the original game act like), a block to spawn enemy sprites, Yoshi eggs, place an item to the item box, giant versions of them and a giant coin block.<br>\r\nYou can change the sprite (obviously), the initial sprite state (for carryable and some other sprites), the power up out of block/ stun/ random sprite timer (depending on the sprite), the sound effect, some bounce block settings including properties too and even whether the block is dependand from the item memory or not (requires the included object).<br>\r\n<br>\r\nBe aware that due to unoptimised routines (not my fault, really), the giant blocks can cause black lines on top of the screen or glitch the HDMA for one frame.<br>\r\nTo minimise the chances of it happening, you can apply the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28028\">VRAM optimisation</a> patch.<br>\r\n<br>\r\nRead the readme for more information.<br>\r\nAlso thanks for LX5 for two routines and the Yoshi egg blocks.",
+  "latest_version": "v2.0.0",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 30840,
+      "title": "Question Mark Blocks",
+      "version": "v2.0.0",
+      "upstream_time": 1690252653,
+      "download_url": "https://dl.smwcentral.net/30840/Question%20Mark%20Blocks.zip",
+      "filename": "Question Mark Blocks.zip",
+      "size": 46761,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

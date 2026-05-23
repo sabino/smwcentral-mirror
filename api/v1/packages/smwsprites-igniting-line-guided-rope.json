@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-igniting-line-guided-rope",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 37557,
+  "title": "Igniting Line-Guided Rope",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "fire",
+    "line-guided",
+    "lorom",
+    "rope",
+    "sa-1"
+  ],
+  "description": "This Line-Guided Rope overheats and burns after a while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"E-man38\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=30680\" style=\"color: #99ff99;\" class=\"un\">E-man38</a></span> during Winter C3 2024.",
+  "latest_version": "smwc-37557-1738960512",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 37557,
+      "title": "Igniting Line-Guided Rope",
+      "version": "smwc-37557-1738960512",
+      "upstream_time": 1738960512,
+      "download_url": "https://dl.smwcentral.net/37557/Igniting%20Line-Guided%20Rope.zip",
+      "filename": "Igniting Line-Guided Rope.zip",
+      "size": 13404,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

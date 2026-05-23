@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-twoson",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17470,
+  "title": "EarthBound - Twoson",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "calm",
+    "town",
+    "urban"
+  ],
+  "description": "Unsampled version of Twoson from Earthbound. Good for towns.",
+  "latest_version": "smwc-17470-1525132856",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17470,
+      "title": "EarthBound - Twoson",
+      "version": "smwc-17470-1525132856",
+      "upstream_time": 1525132856,
+      "download_url": "https://dl.smwcentral.net/17470/Twoson.zip",
+      "filename": "Twoson.zip",
+      "size": 34514,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

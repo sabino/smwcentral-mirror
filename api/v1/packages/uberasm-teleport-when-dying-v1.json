@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-teleport-when-dying-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41419,
+  "title": "Teleport When Dying V1.1",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "death",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "<b>Teleport When Dying V1.1</b><br>\r\n<br>\r\n<b>Description:</b> It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies.<br>\r\nComes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: var(--user-color-2);\" class=\"un\">isaix</a></span>",
+  "latest_version": "smwc-41419-1768504655",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41419,
+      "title": "Teleport When Dying V1.1",
+      "version": "smwc-41419-1768504655",
+      "upstream_time": 1768504655,
+      "download_url": "https://dl.smwcentral.net/41419/Teleport%20When%20Dying%20V1.1.zip",
+      "filename": "Teleport When Dying V1.1.zip",
+      "size": 3859,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

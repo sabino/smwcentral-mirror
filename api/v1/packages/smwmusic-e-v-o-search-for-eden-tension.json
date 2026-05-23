@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-e-v-o-search-for-eden-tension",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13352,
+  "title": "E.V.O.: Search for Eden - Tension",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "final",
+    "overworld",
+    "tense"
+  ],
+  "description": "A tense and short theme that plays before you face a boss on E.V.O.: Search for Eden. It could fit dark areas, rooms before bosses or maybe a final overworld.",
+  "latest_version": "smwc-13352-1456675294",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13352,
+      "title": "E.V.O.: Search for Eden - Tension",
+      "version": "smwc-13352-1456675294",
+      "upstream_time": 1456675294,
+      "download_url": "https://dl.smwcentral.net/13352/Tension.zip",
+      "filename": "Tension.zip",
+      "size": 28910,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

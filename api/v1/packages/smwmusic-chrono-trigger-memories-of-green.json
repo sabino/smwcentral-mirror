@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-chrono-trigger-memories-of-green",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24326,
+  "title": "Chrono Trigger - Memories of Green",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "forest",
+    "ice",
+    "overworld",
+    "ruins",
+    "sad",
+    "temple"
+  ],
+  "description": "great for forests and temples or maps",
+  "latest_version": "smwc-24326-1598930743",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24326,
+      "title": "Chrono Trigger - Memories of Green",
+      "version": "smwc-24326-1598930743",
+      "upstream_time": 1598930743,
+      "download_url": "https://dl.smwcentral.net/24326/Memories%20of%20Green.zip",
+      "filename": "Memories of Green.zip",
+      "size": 31404,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11269,
+      "title": "Chrono Trigger - Memories of Green",
+      "version": "smwc-11269-1431483399",
+      "upstream_time": 1431483399,
+      "download_url": "https://dl.smwcentral.net/11269/Chrono%20Trigger%20-%20Memories%20of%20Green.zip",
+      "filename": "Chrono Trigger - Memories of Green.zip",
+      "size": 47890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

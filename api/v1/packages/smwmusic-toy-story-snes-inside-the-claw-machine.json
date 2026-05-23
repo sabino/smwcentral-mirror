@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-toy-story-snes-inside-the-claw-machine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35372,
+  "title": "Toy Story (SNES) - Inside the Claw Machine",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Skewer\"><a href=\"/?p=profile&amp;id=1055\" style=\"color: var(--user-color-2);\" class=\"un\">Skewer</a></span>",
+  "latest_version": "smwc-35372-1701635327",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35372,
+      "title": "Toy Story (SNES) - Inside the Claw Machine",
+      "version": "smwc-35372-1701635327",
+      "upstream_time": 1701635327,
+      "download_url": "https://dl.smwcentral.net/35372/Inside%20The%20Claw%20Machine.zip",
+      "filename": "Inside The Claw Machine.zip",
+      "size": 76185,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

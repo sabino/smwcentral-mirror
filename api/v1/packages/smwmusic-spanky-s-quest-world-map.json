@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-spanky-s-quest-world-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30585,
+  "title": "Spanky's Quest - World Map",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "overworld",
+    "sky",
+    "water"
+  ],
+  "description": "It could fit an overworld or a calm level.",
+  "latest_version": "smwc-30585-1652385082",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30585,
+      "title": "Spanky's Quest - World Map",
+      "version": "smwc-30585-1652385082",
+      "upstream_time": 1652385082,
+      "download_url": "https://dl.smwcentral.net/30585/Spanky%27s%20Quest%20-%20World%20Map.zip",
+      "filename": "Spanky%27s Quest - World Map.zip",
+      "size": 40041,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

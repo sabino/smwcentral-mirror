@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-x-vile",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31692,
+  "title": "Mega Man X - Vile 2",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "Vile 2 (aka Sigma Boss Battle) from Mega Man X.",
+  "latest_version": "smwc-31692-1661982361",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31692,
+      "title": "Mega Man X - Vile 2",
+      "version": "smwc-31692-1661982361",
+      "upstream_time": 1661982361,
+      "download_url": "https://dl.smwcentral.net/31692/Mega%20Man%20X%20-%20Vile%202.zip",
+      "filename": "Mega Man X - Vile 2.zip",
+      "size": 58750,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

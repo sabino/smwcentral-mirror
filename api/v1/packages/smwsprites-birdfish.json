@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-birdfish",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34002,
+  "title": "Birdfish",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "super mario land 2"
+  ],
+  "description": "This little guy from Super Mario Land 2 acts similarly to the vanilla jumping fish, but it always alternates one dive in water and one jump in the air. Additionally, it will hover for a bit when at the peak of the jump. Check out the asm file for configuration options such as speed, acceleration and hover time.<br>\r\nIncluded also a generator that acts similarly to the vanilla jumping fish generator.<br>\r\nGraphics provided by <span class=\"un-outer\" title=\"idol\"><a href=\"/?p=profile&amp;id=18321\" style=\"color: #ff9b55;\" class=\"un unavailable inactive\">idol</a></span>.",
+  "latest_version": "smwc-34002-1691024175",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34002,
+      "title": "Birdfish",
+      "version": "smwc-34002-1691024175",
+      "upstream_time": 1691024175,
+      "download_url": "https://dl.smwcentral.net/34002/birdfish.zip",
+      "filename": "birdfish.zip",
+      "size": 7297,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

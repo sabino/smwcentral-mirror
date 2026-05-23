@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-free-up-tiles-69-and",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14538,
+  "title": "Free up Tiles 69 and 83",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "We have one patch here that allows usage of tile 83, and there's some hex edits in the ROM map that allows use of tile 69. But both of those makes it use the other of them instead.<br>\r\nThis patch allows using both at the same time by moving would-be 83s and 69s offscreen.",
+  "latest_version": "smwc-14538-1476932958",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14538,
+      "title": "Free up Tiles 69 and 83",
+      "version": "smwc-14538-1476932958",
+      "upstream_time": 1476932958,
+      "download_url": "https://dl.smwcentral.net/14538/6983fix%2BSA1.zip",
+      "filename": "6983fix+SA1.zip",
+      "size": 1154,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

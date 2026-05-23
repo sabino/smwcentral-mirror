@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-autosave-bring-up-save-prompt-by-pressing-select",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 24706,
+  "title": "Autosave + Bring Up Save Prompt by pressing Select",
+  "authors": [
+    "Alcaro",
+    "Arinsu",
+    "westslasher2"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "overworld",
+    "sa-1",
+    "save"
+  ],
+  "description": "Following the trend of converting patches to UberASM I decided to convert two patches into one, the first one being <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>'s save prompt patch, and the second, <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span>'s autosave patch. The main benefit of this patch is not only does both of these original patches work for UberASM now but this version also allows you to still view the overworld since it uses select now instead of the start button, and adds a bit more defines for extra customization like the ability to autosave.<br>\r\n<br>\r\nv1.1<br>\r\n---<br>\r\n* Fixed a bug where the game could lag if multiple overworld codes were used along with the auto-save feature.",
+  "latest_version": "smwc-24706-1603228209",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 24706,
+      "title": "Autosave + Bring Up Save Prompt by pressing Select",
+      "version": "smwc-24706-1603228209",
+      "upstream_time": 1603228209,
+      "download_url": "https://dl.smwcentral.net/24706/SavePrompt%2BAutosave%201.1.zip",
+      "filename": "SavePrompt+Autosave 1.1.zip",
+      "size": 1680,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

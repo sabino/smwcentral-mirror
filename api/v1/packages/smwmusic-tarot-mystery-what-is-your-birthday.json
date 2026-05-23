@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tarot-mystery-what-is-your-birthday",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31575,
+  "title": "Tarot Mystery - What Is Your Birthday?",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "cutscene",
+    "night",
+    "water"
+  ],
+  "description": "It could fit abstract settings.",
+  "latest_version": "smwc-31575-1660023278",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31575,
+      "title": "Tarot Mystery - What Is Your Birthday?",
+      "version": "smwc-31575-1660023278",
+      "upstream_time": 1660023278,
+      "download_url": "https://dl.smwcentral.net/31575/02%20What%20is%20your%20birthday.zip",
+      "filename": "02 What is your birthday.zip",
+      "size": 66808,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

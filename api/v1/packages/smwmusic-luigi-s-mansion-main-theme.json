@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-luigi-s-mansion-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33524,
+  "title": "Luigi's Mansion - Main Theme",
+  "authors": [
+    "A_Known_Enemy"
+  ],
+  "tags": [
+    "dark",
+    "mysterious",
+    "overworld",
+    "spooky",
+    "tense"
+  ],
+  "description": "Slight variation of the Main Theme from original Luigi's Mansion on the GameCube. Incorporates parts from a few different variations within the game, but overall I tried to stay pretty true to the original. Kind of a fun, yet mysterious track that could be good for a haunted castle, puzzle room, or something along those lines. Might even work for a spooky section of an overworld!<br>\r\n<br>\r\n(Updated to clean up a few things)",
+  "latest_version": "smwc-33524-1690224192",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33524,
+      "title": "Luigi's Mansion - Main Theme",
+      "version": "smwc-33524-1690224192",
+      "upstream_time": 1690224192,
+      "download_url": "https://dl.smwcentral.net/33524/Luigi%27s%20Manison%20-%20Main%20Theme.zip",
+      "filename": "Luigi%27s Manison - Main Theme.zip",
+      "size": 52439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

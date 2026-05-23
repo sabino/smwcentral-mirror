@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-contra-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11157,
+  "title": "Super Contra - Stage 3",
+  "authors": [
+    "Kaizo Zhang"
+  ],
+  "tags": [
+    "chase",
+    "jungle",
+    "night"
+  ],
+  "description": "A hardcore theme that would go well in tense situations.",
+  "latest_version": "smwc-11157-1428335092",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11157,
+      "title": "Super Contra - Stage 3",
+      "version": "smwc-11157-1428335092",
+      "upstream_time": 1428335092,
+      "download_url": "https://dl.smwcentral.net/11157/Super%20Contra%20Stage%203.zip",
+      "filename": "Super Contra Stage 3.zip",
+      "size": 34707,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

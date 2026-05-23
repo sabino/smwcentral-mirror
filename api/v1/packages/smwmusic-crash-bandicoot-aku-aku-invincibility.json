@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bandicoot-aku-aku-invincibility",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34855,
+  "title": "Crash Bandicoot - Aku-Aku Invincibility",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "jungle",
+    "p-switch",
+    "star"
+  ],
+  "description": "A fast paced percussion track that plays when you collect three Aku-Aku masks and become invincibile in the Crash Bandicoot trilogy. Includes both the version from Crash 1 and the version from Crash 2 and 3, they're pretty much the same but the one from Crash 1 has an extra channel and slightly different pitches.<br>\r\n<br>\r\nUnlike my other PS1 Crash ports, this one is unsampled so it can be used as a global song.",
+  "latest_version": "smwc-34855-1696605315",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34855,
+      "title": "Crash Bandicoot - Aku-Aku Invincibility",
+      "version": "smwc-34855-1696605315",
+      "upstream_time": 1696605315,
+      "download_url": "https://dl.smwcentral.net/34855/CB%20-%20Aku-Aku%20Invincibility.zip",
+      "filename": "CB - Aku-Aku Invincibility.zip",
+      "size": 62655,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

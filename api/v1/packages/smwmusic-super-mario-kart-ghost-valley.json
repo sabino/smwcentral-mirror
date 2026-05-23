@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-mario-kart-ghost-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34457,
+  "title": "Super Mario Kart - Ghost Valley",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "dark",
+    "ghost house",
+    "spooky",
+    "tense"
+  ],
+  "description": "The quick, unsettling, dissonant piece that plays on the Ghost Valley courses of Super Mario Kart. Could work in short, connective haunted areas, or an especially laconic ghost house.<br>\r\n<br>\r\nContains a softer version with no custom instruments, and a harsher version that more closely resembles the original.",
+  "latest_version": "smwc-34457-1693476994",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34457,
+      "title": "Super Mario Kart - Ghost Valley",
+      "version": "smwc-34457-1693476994",
+      "upstream_time": 1693476994,
+      "download_url": "https://dl.smwcentral.net/34457/snesghostvalley.zip",
+      "filename": "snesghostvalley.zip",
+      "size": 62829,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28410,
+      "title": "Super Mario Kart - Ghost Valley",
+      "version": "smwc-28410-1632807422",
+      "upstream_time": 1632807422,
+      "download_url": "https://dl.smwcentral.net/28410/Super%20Mario%20Kart%20-%20Ghost%20Valley.zip",
+      "filename": "Super Mario Kart - Ghost Valley.zip",
+      "size": 45900,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

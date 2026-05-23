@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-nezumi-man-butter-nezumi",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19594,
+  "title": "Nezumi Man - Butter Nezumi",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "grassland",
+    "town"
+  ],
+  "description": "From Wyatt's music pack. A nice happy grassland song.",
+  "latest_version": "smwc-19594-1554597895",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19594,
+      "title": "Nezumi Man - Butter Nezumi",
+      "version": "smwc-19594-1554597895",
+      "upstream_time": 1554597895,
+      "download_url": "https://dl.smwcentral.net/19594/butternezumi.zip",
+      "filename": "butternezumi.zip",
+      "size": 32986,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

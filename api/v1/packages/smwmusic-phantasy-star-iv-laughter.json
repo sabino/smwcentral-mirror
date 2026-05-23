@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-phantasy-star-iv-laughter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21886,
+  "title": "Phantasy Star IV - Laughter",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "The heavy and gritty battle theme from Phantasy Star IV which plays in a very key part of the game. Great for boss battles of any kind.<br>\r\n<br>\r\nNOTE: This has much more different percussion to the original, along with tons of other embelleshiments which were made mainly as a means of \"spicing things up\", one could say. So it's not very accurate to the original, hence the Remix tag. Also, this was supposed to be my 72HoSPC entry, but due to certain circumstances I couldn't release it at that point, so I simply decided to do it now.<br>\r\n<br>\r\nReleased for the Super Nintenesis album.",
+  "latest_version": "smwc-21886-1579825019",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21886,
+      "title": "Phantasy Star IV - Laughter",
+      "version": "smwc-21886-1579825019",
+      "upstream_time": 1579825019,
+      "download_url": "https://dl.smwcentral.net/21886/laughter.zip",
+      "filename": "laughter.zip",
+      "size": 35299,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 9335,
+      "title": "Phantasy Star IV - Laughter",
+      "version": "smwc-9335-1414052852",
+      "upstream_time": 1414052852,
+      "download_url": "https://dl.smwcentral.net/9335/PSIVLaughter.zip",
+      "filename": "PSIVLaughter.zip",
+      "size": 34423,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

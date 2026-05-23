@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-sexy-parodius-psx-coal-mine-outside",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38097,
+  "title": "Sexy Parodius (PSX) - Coal Mine (Outside)",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "forest",
+    "night"
+  ],
+  "description": "Here's another BG encountered after you fail Castle Dracula in Sexy Parodius. When I tried ripping this BG, I failed because of the number of colors.<br>\r\n<br>\r\nI tried again later, this time with good results. <br>\r\n<br>\r\nStill, because this BG uses way more tiles than needed, since it comes from a Playstation game, I had to apply the Touhou formula.<br>\r\n<br>\r\n I kept on flipping many tiles and removed few tiles for a repeatable tile. I also removed the stars for an easier time. <br>\r\n<br>\r\nUsed Lunar Magic Bitmap Pasting feature and did corrections. <br>\r\n<br>\r\nUsed the second half of palette 6 to correct the tree and its stump since the result gave me a blue one and decided to bring the stars from the game back. This BG uses the unused tile B. <br>\r\n<br>\r\nThe stars use palette 0.<br>\r\n<br>\r\nThe BG overwrites bushes, diagonal pipes, triangle and transluscent blocks and net tiles. The rest of the tiles can be used.<br>\r\n<br>\r\nAlso uses the second half of palette row 4.<br>\r\n<br>\r\nEnjoy!<br>\r\n<br>\r\nEdit: Replaced map16 E000 with E600.",
+  "latest_version": "smwc-38097-1720975515",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38097,
+      "title": "Sexy Parodius (PSX) - Coal Mine (Outside)",
+      "version": "smwc-38097-1720975515",
+      "upstream_time": 1720975515,
+      "download_url": "https://dl.smwcentral.net/38097/Sexy%20Parodius%20%28PSX%29%20-%20Coal%20Mine%20-%20outside%20-%20good.zip",
+      "filename": "Sexy Parodius (PSX) - Coal Mine - outside - good.zip",
+      "size": 16832,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

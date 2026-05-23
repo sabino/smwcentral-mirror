@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-bastion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21245,
+  "title": "Bastion",
+  "authors": [
+    "Janno27"
+  ],
+  "tags": [
+    "airship",
+    "calm",
+    "castle",
+    "cave",
+    "night"
+  ],
+  "description": "Renaissance-like slow piece with a grave atmosphere.<br>\r\nCould fit castles or airships.",
+  "latest_version": "smwc-21245-1569897336",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21245,
+      "title": "Bastion",
+      "version": "smwc-21245-1569897336",
+      "upstream_time": 1569897336,
+      "download_url": "https://dl.smwcentral.net/21245/Bastion.zip",
+      "filename": "Bastion.zip",
+      "size": 32566,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

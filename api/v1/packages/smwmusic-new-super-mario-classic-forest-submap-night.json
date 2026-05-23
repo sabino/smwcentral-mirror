@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-super-mario-classic-forest-submap-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23309,
+  "title": "New Super Mario Classic - Forest Submap (Night)",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "forest",
+    "night",
+    "overworld"
+  ],
+  "description": "Could fit on the forest submaps with night time and colorful plants. This music was played on World 9 (Scarlet Grove) from New Super Mario Classic 2 (Emerald Edition) (My SMW Hack)<br>\r\n<br>\r\nUpdate 11/06/2020: Tempo division (2/3) and few optimization",
+  "latest_version": "smwc-23309-1592205220",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23309,
+      "title": "New Super Mario Classic - Forest Submap (Night)",
+      "version": "smwc-23309-1592205220",
+      "upstream_time": 1592205220,
+      "download_url": "https://dl.smwcentral.net/23309/NSMC%20Night%20Forest%20Submap.zip",
+      "filename": "NSMC Night Forest Submap.zip",
+      "size": 39630,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

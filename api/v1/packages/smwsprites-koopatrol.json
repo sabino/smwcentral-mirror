@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-koopatrol",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3664,
+  "title": "Koopatrol",
+  "authors": [
+    "MarioE"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "castle",
+    "guard",
+    "koopa",
+    "lorom",
+    "paper mario",
+    "sa-1"
+  ],
+  "description": "The Koopatrol from Paper Mario. It wanders around randomly. If Mario comes close enough, it will use one of two attacks - go in its shell and chase mario, or attempt to ram him. To kill him, you get him to ram into a wall, and then jump on him while he is on his back, or run into him with a Star.<br>\r\n<br>\r\nNOTE: WILL <b>NOT</b> WORK WELL WITH SLOPES!<br>\r\n<br>\r\nGraphics ripped by Leod. No credit needed; to be assembled with <s>Romi's Sprite Tool</s> JackTheSpades's PIXI.",
+  "latest_version": "smwc-3664-1279951855",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3664,
+      "title": "Koopatrol",
+      "version": "smwc-3664-1279951855",
+      "upstream_time": 1279951855,
+      "download_url": "https://dl.smwcentral.net/3664/Koopatrol.zip",
+      "filename": "Koopatrol.zip",
+      "size": 22675,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-robot-taisen-approaching-shadows",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8362,
+  "title": "Super Robot Taisen - Approaching Shadows",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "industrial"
+  ],
+  "description": "A tense song, great for castles or endgame levels.",
+  "latest_version": "smwc-8362-1360726361",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8362,
+      "title": "Super Robot Taisen - Approaching Shadows",
+      "version": "smwc-8362-1360726361",
+      "upstream_time": 1360726361,
+      "download_url": "https://dl.smwcentral.net/8362/Approaching%20Shadows.zip",
+      "filename": "Approaching Shadows.zip",
+      "size": 99732,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

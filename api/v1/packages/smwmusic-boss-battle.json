@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8081,
+  "title": "Boss Battle",
+  "authors": [
+    "mariomaniac444"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "A very fast-paced song. Strictly for boss battles or maybe an area you have to hurry through.",
+  "latest_version": "smwc-8081-1319820118",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8081,
+      "title": "Boss Battle",
+      "version": "smwc-8081-1319820118",
+      "upstream_time": 1319820118,
+      "download_url": "https://dl.smwcentral.net/8081/Boss%20Battle.zip",
+      "filename": "Boss Battle.zip",
+      "size": 66261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

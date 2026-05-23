@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-vertical-glowside",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32879,
+  "title": "Vertical Glowside 2",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "town",
+    "urban"
+  ],
+  "description": "Based on my Super Famicompo 4 entry, Could fit on the city and abstract levels.",
+  "latest_version": "smwc-32879-1682947975",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32879,
+      "title": "Vertical Glowside 2",
+      "version": "smwc-32879-1682947975",
+      "upstream_time": 1682947975,
+      "download_url": "https://dl.smwcentral.net/32879/Vertical%20Glowside%202.zip",
+      "filename": "Vertical Glowside 2.zip",
+      "size": 40338,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

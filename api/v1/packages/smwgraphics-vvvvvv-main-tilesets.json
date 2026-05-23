@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-vvvvvv-main-tilesets",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 18895,
+  "title": "VVVVVV - Main Tilesets",
+  "authors": [
+    "Mr. Pixelator"
+  ],
+  "tags": [
+    "abstract",
+    "needs remoderation",
+    "space"
+  ],
+  "description": "Every main tileset used in VVVVVV, except for the Tower tileset. Includes animated conveyors and one-way walls that are able to be used as custom blocks, and an animated scrolling texture that should be used for layer 2 (foreground, not background!). The spikes have been stretched to fit the entire 16x16 tile space, so that their hitboxes aren't inaccurate.",
+  "latest_version": "smwc-18895-1547828199",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 18895,
+      "title": "VVVVVV - Main Tilesets",
+      "version": "smwc-18895-1547828199",
+      "upstream_time": 1547828199,
+      "download_url": "https://dl.smwcentral.net/18895/VVVVVV.zip",
+      "filename": "VVVVVV.zip",
+      "size": 64328,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

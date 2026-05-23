@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-upwards-arc-fireballs",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18549,
+  "title": "Upwards Arc Fireballs",
+  "authors": [
+    "aCrowned"
+  ],
+  "tags": [
+    "fire",
+    "fireball",
+    "lorom",
+    "powerup",
+    "sa-1"
+  ],
+  "description": "This allows Mario to shoot fireballs in an upwards arc if he presses Up, just like in SMBX.<br>\r\nReal simple patch, but no one ever submitted this, so here it is.",
+  "latest_version": "smwc-18549-1543396133",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18549,
+      "title": "Upwards Arc Fireballs",
+      "version": "smwc-18549-1543396133",
+      "upstream_time": 1543396133,
+      "download_url": "https://dl.smwcentral.net/18549/upwardsfireballs.zip",
+      "filename": "upwardsfireballs.zip",
+      "size": 327,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

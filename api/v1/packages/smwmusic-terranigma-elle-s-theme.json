@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-terranigma-elle-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22014,
+  "title": "Terranigma - Elle's Theme",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "ice",
+    "sad",
+    "water"
+  ],
+  "description": "Sampled port of Princess Elle's theme from Terranigma, which'd be pretty nice for calm water-themed levels. Could also fit into sort of sad cutscenes.<br>\r\n<br>\r\nUPDATE [2020/24/01]: Fixed some accuracy deviations and better optimized a lot of stuff.",
+  "latest_version": "smwc-22014-1580101318",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22014,
+      "title": "Terranigma - Elle's Theme",
+      "version": "smwc-22014-1580101318",
+      "upstream_time": 1580101318,
+      "download_url": "https://dl.smwcentral.net/22014/Terranigma_-_Elles_Theme.zip",
+      "filename": "Terranigma_-_Elles_Theme.zip",
+      "size": 48217,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

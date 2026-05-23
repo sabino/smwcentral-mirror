@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-tap-tap-the-red-nose",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3747,
+  "title": "Tap-Tap the Red Nose",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "boss",
+    "dynamic",
+    "lorom",
+    "tap-tap",
+    "yoshi's island"
+  ],
+  "description": "This is that boss from Yoshi's Island in World 6-4, now ported over to SMW. Having already been ported over back in <a href=\"http://www.youtube.com/watch?v=OL7o3ezAK-g\" rel=\"nofollow\">March/April 2010</a> and used in ASMWCP's World 8, and even being released unofficially, it is now time to put this boss into the custom sprite section, where it belongs.<br>\r\nInformation on insertion can be found in the readme. This pack comes with a version that uses the spike hell sprite (original), but also one that doesn't. Requires the No more sprite tile limits patch.<br>\r\n<br>\r\nUpdated so graphics no longer need to be manually inserted with a patch.<br>\r\n<br>\r\n<i>Tester's note: When the lava is placed too low, the level may not end. If for some level design reason the lava HAS to be placed low, use a level ender sprite or such to end the level properly.</i>",
+  "latest_version": "smwc-3747-1326554650",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3747,
+      "title": "Tap-Tap the Red Nose",
+      "version": "smwc-3747-1326554650",
+      "upstream_time": 1326554650,
+      "download_url": "https://dl.smwcentral.net/3747/taptap.zip",
+      "filename": "taptap.zip",
+      "size": 18544,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

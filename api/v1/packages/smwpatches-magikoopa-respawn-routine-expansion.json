@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-magikoopa-respawn-routine-expansion",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17306,
+  "title": "Magikoopa Respawn Routine Expansion",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "lorom",
+    "magikoopa",
+    "respawn",
+    "sa-1"
+  ],
+  "description": "This patch extends the Magikoopa respawning routine so any sprite based on the Magikoopa's disassembly respawns correctly when killed, given the sprite has its 'acts like' settings set to 1F (the original MagiKoopa).<br>\r\n<br>\r\nTested and made compatible with SA-1.",
+  "latest_version": "smwc-17306-1522515635",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17306,
+      "title": "Magikoopa Respawn Routine Expansion",
+      "version": "smwc-17306-1522515635",
+      "upstream_time": 1522515635,
+      "download_url": "https://dl.smwcentral.net/17306/Magikoopa%20Respawn%20Expansion.zip",
+      "filename": "Magikoopa Respawn Expansion.zip",
+      "size": 1181,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

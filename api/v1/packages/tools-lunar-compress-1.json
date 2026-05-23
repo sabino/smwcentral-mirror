@@ -1,0 +1,31 @@
+{
+  "name": "tools-lunar-compress-1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 6160,
+  "title": "Lunar Compress 1.70",
+  "authors": [
+    "FuSoYa"
+  ],
+  "tags": [
+    "graphics",
+    "lunar magic"
+  ],
+  "description": "Lunar Compress is a decompression and recompression DLL. This is the latest version.<br>\r\n<b>Note that this does NOT cure oversized (aka 8MB) ROMs. The only solution for that is restoring from a backup or porting to a clean ROM.</b>",
+  "latest_version": "smwc-6160-1390102204",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 6160,
+      "title": "Lunar Compress 1.70",
+      "version": "smwc-6160-1390102204",
+      "upstream_time": 1390102204,
+      "download_url": "https://dl.smwcentral.net/6160/lc170.zip",
+      "filename": "lc170.zip",
+      "size": 580669,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

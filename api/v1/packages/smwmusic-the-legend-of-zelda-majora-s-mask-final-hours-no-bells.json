@@ -1,0 +1,42 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-majora-s-mask-final-hours-no-bells",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18272,
+  "title": "The Legend of Zelda: Majora's Mask - Final Hours (No Bells)",
+  "authors": [
+    "nyanpasu64"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "dark",
+    "final",
+    "night",
+    "sad",
+    "space",
+    "spooky",
+    "temple",
+    "tense"
+  ],
+  "description": "The eerie, creepy music in Majora's Mask that plays during the 6 hours before the moon falls. Bells not included.<br>\r\n<br>\r\nSource code at https://github.com/jimbo1qaz/zmm-final-release<br>\r\n- .wav files and resampling parameters (converted to .brr)<br>\r\n- .mmk file (converted to .txt)<br>\r\n- Build using amktools (wav2brr and mmkparser)",
+  "latest_version": "smwc-18272-1539053150",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18272,
+      "title": "The Legend of Zelda: Majora's Mask - Final Hours (No Bells)",
+      "version": "smwc-18272-1539053150",
+      "upstream_time": 1539053150,
+      "download_url": "https://dl.smwcentral.net/18272/zmm-final%20no%20bell%2C%20sfx%20compatible.zip",
+      "filename": "zmm-final no bell%2C sfx compatible.zip",
+      "size": 89726,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

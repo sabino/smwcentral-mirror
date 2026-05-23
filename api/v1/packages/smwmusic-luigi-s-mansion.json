@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-luigi-s-mansion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23249,
+  "title": "Luigi's Mansion 3 - Boilerworks (B2) (Piano Edition)",
+  "authors": [
+    "MilkyMooer"
+  ],
+  "tags": [
+    "night",
+    "sewer",
+    "swamp",
+    "town"
+  ],
+  "description": "This is the song that plays on floor B2 in Luigi's Mansion 3, except it a piano version! Pianos are the best instrument.<br>\r\n<br>\r\nNo one gives any love to any other song from Luigi's Mansion 3, except for the main theme. That changes today!",
+  "latest_version": "smwc-23249-1591331442",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23249,
+      "title": "Luigi's Mansion 3 - Boilerworks (B2) (Piano Edition)",
+      "version": "smwc-23249-1591331442",
+      "upstream_time": 1591331442,
+      "download_url": "https://dl.smwcentral.net/23249/Boilerworks%20%28Piano%20Edition%29.zip",
+      "filename": "Boilerworks (Piano Edition).zip",
+      "size": 45907,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

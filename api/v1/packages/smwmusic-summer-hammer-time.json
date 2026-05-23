@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-summer-hammer-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14744,
+  "title": "Summer Hammer Time",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "beach"
+  ],
+  "description": "A beach themed song originally composed for a CLDC entry. Fits... um... beach levels.",
+  "latest_version": "smwc-14744-1481832705",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14744,
+      "title": "Summer Hammer Time",
+      "version": "smwc-14744-1481832705",
+      "upstream_time": 1481832705,
+      "download_url": "https://dl.smwcentral.net/14744/Custom%20-%20Summer%20Hammer%20Time.zip",
+      "filename": "Custom - Summer Hammer Time.zip",
+      "size": 33151,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

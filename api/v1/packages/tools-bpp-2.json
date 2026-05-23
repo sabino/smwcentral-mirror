@@ -1,0 +1,31 @@
+{
+  "name": "tools-bpp-2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4617,
+  "title": "bpp++ 2.1",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "converter",
+    "graphics"
+  ],
+  "description": "This tool converts graphics from any format the SNES supports (2bpp GB, 4bpp SNES, 8bpp SNES, and mode7) to another. It also supports 3bpp SNES.",
+  "latest_version": "smwc-4617-1363203554",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4617,
+      "title": "bpp++ 2.1",
+      "version": "smwc-4617-1363203554",
+      "upstream_time": 1363203554,
+      "download_url": "https://dl.smwcentral.net/4617/bpp%2B%2B.zip",
+      "filename": "bpp++.zip",
+      "size": 7207,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-chaos-emerald",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21825,
+  "title": "Sonic the Hedgehog - Chaos Emerald",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "keyhole"
+  ],
+  "description": "The chaos emerald sound effect in Sonic 1 and 2. A similar version plays in Sonic 3 & Knuckles, but the high pitched notes are taken down an octave, probably for good reasons. Unless you feel like using ASM to get the chaos emeralds in your hack, this is best left as a keyhole sound.",
+  "latest_version": "smwc-21825-1578205812",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21825,
+      "title": "Sonic the Hedgehog - Chaos Emerald",
+      "version": "smwc-21825-1578205812",
+      "upstream_time": 1578205812,
+      "download_url": "https://dl.smwcentral.net/21825/chaos%20emerald.zip",
+      "filename": "chaos emerald.zip",
+      "size": 30750,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

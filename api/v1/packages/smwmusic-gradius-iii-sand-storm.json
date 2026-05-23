@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-gradius-iii-sand-storm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40911,
+  "title": "Gradius III - Sand Storm",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "sky",
+    "space",
+    "upbeat"
+  ],
+  "description": "Sand Storm from Gradius III.<br>\r\n<br>\r\nHas a define for turning on and off the echo.",
+  "latest_version": "smwc-40911-1763412648",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40911,
+      "title": "Gradius III - Sand Storm",
+      "version": "smwc-40911-1763412648",
+      "upstream_time": 1763412648,
+      "download_url": "https://dl.smwcentral.net/40911/Gradius%20III%20-%20Sand%20Storm%20%5BU%5D.zip",
+      "filename": "Gradius III - Sand Storm %5BU%5D.zip",
+      "size": 67483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23622,
+      "title": "Gradius III - Sand Storm",
+      "version": "smwc-23622-1594681184",
+      "upstream_time": 1594681184,
+      "download_url": "https://dl.smwcentral.net/23622/sand%20storm.zip",
+      "filename": "sand storm.zip",
+      "size": 32968,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

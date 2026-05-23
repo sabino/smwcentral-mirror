@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-chip-and-dale-ii-final-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9352,
+  "title": "Chip And Dale II - Final Stage",
+  "authors": [
+    "Kaizo Zhang"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "industrial",
+    "night",
+    "space"
+  ],
+  "description": "Song used in the final stage of Chip And Dale 2 on NES.",
+  "latest_version": "smwc-9352-1412577623",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9352,
+      "title": "Chip And Dale II - Final Stage",
+      "version": "smwc-9352-1412577623",
+      "upstream_time": 1412577623,
+      "download_url": "https://dl.smwcentral.net/9352/Chip%20And%20Dale%20II%20Final%20Stage.zip",
+      "filename": "Chip And Dale II Final Stage.zip",
+      "size": 34888,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

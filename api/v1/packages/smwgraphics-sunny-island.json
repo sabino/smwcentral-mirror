@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-sunny-island",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 2133,
+  "title": "Sunny Island",
+  "authors": [
+    "Lunatic Wolf"
+  ],
+  "tags": [
+    "beach",
+    "needs remoderation"
+  ],
+  "description": "This is the fixed version of my first graphic. It's a simple BG of an island in the sea (which can be animated or not) with the Sun behind it. You can use it in sea-side levels or in a cutscene. <br>\r\nUses BG1, ExAnimation and 2 rows of palettes ( the first half of the palette 0 and the palette 2). <br>\r\n<br>\r\nThis file contains:<br>\r\n-bg1.bin (the graphic itself);<br>\r\n-an2.bin (the ExAnimation);<br>\r\n-.mwl file (the sample level);<br>\r\n-Map16 file;<br>\r\n-.pal file (palette).<br>\r\n<br>\r\nCredits? I would appreciate, but it doesn't need it.",
+  "latest_version": "smwc-2133-1409436655",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 2133,
+      "title": "Sunny Island",
+      "version": "smwc-2133-1409436655",
+      "upstream_time": 1409436655,
+      "download_url": "https://dl.smwcentral.net/2133/Island.zip",
+      "filename": "Island.zip",
+      "size": 4781,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

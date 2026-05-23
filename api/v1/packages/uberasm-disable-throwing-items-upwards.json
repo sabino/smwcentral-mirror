@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-disable-throwing-items-upwards",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40287,
+  "title": "Disable Throwing Items Upwards",
+  "authors": [
+    "Chdata",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "When inserted, this makes it so you can't throw items upwards. Originally a patch, but it's been converted into an UberASM.<br>\r\n<br>\r\nInsert on a per level basis or on game mode 14.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"35TCB77\"><a href=\"/?p=profile&amp;id=64791\" style=\"color: var(--user-color-3);\" class=\"un\">35TCB77</a></span>",
+  "latest_version": "smwc-40287-1759203061",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40287,
+      "title": "Disable Throwing Items Upwards",
+      "version": "smwc-40287-1759203061",
+      "upstream_time": 1759203061,
+      "download_url": "https://dl.smwcentral.net/40287/DisableUp-Throw.zip",
+      "filename": "DisableUp-Throw.zip",
+      "size": 604,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

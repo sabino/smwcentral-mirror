@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-tower-of-heaven-pillars-of-creation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30527,
+  "title": "Tower of Heaven - Pillars of Creation",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "credits",
+    "night",
+    "overworld",
+    "sky",
+    "space",
+    "water"
+  ],
+  "description": "Epic-like chiptune song, good for overworlds or credits I guess",
+  "latest_version": "smwc-30527-1652382909",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30527,
+      "title": "Tower of Heaven - Pillars of Creation",
+      "version": "smwc-30527-1652382909",
+      "upstream_time": 1652382909,
+      "download_url": "https://dl.smwcentral.net/30527/pillars%20of%20creation.zip",
+      "filename": "pillars of creation.zip",
+      "size": 30890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24388,
+      "title": "Tower of Heaven - Pillars of Creation",
+      "version": "smwc-24388-1598816813",
+      "upstream_time": 1598816813,
+      "download_url": "https://dl.smwcentral.net/24388/pillars.zip",
+      "filename": "pillars.zip",
+      "size": 34449,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24336,
+      "title": "Tower of Heaven - Pillars of Creation",
+      "version": "smwc-24336-1598933868",
+      "upstream_time": 1598933868,
+      "download_url": "https://dl.smwcentral.net/24336/Pillars%20of%20Creation.zip",
+      "filename": "Pillars of Creation.zip",
+      "size": 45778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

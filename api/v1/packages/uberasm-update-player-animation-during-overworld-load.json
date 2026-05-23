@@ -1,0 +1,40 @@
+{
+  "name": "uberasm-update-player-animation-during-overworld-load",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 34172,
+  "title": "Update Player Animation During Overworld Load",
+  "authors": [
+    "Kevin",
+    "zuccha"
+  ],
+  "tags": [
+    "animation",
+    "asar 2 remoderation",
+    "bug fix",
+    "game mode 0d",
+    "lorom",
+    "overworld",
+    "sa-1",
+    "swim"
+  ],
+  "description": "Update the current player animation while loading the overworld.<br>\r\n<br>\r\nIn practice, this code fixes an issue where if Mario is placed on a water level tile on the overworld as his starting position, he has the walking animation instead of the swimming animation right after starting a new game (you need to move to start using the correct animation). This UberASM checks if the current tile the player is standing on is water, in which case we set the swimming animation, otherwise we set the walking animation. <br>\r\n<br>\r\nKnown issue: in two-players mode, Luigi's animation will only be updated after he enters and exits a level.",
+  "latest_version": "smwc-34172-1701121787",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 34172,
+      "title": "Update Player Animation During Overworld Load",
+      "version": "smwc-34172-1701121787",
+      "upstream_time": 1701121787,
+      "download_url": "https://dl.smwcentral.net/34172/update-player-overworld-animation.zip",
+      "filename": "update-player-overworld-animation.zip",
+      "size": 2290,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

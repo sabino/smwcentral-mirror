@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bob-omb",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41872,
+  "title": "Bob-omb",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "carriable",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A disassembly of sprite 0D, the Bob-omb. Unlike the old one, this recreates the entirety of states of the vanilla Bob-omb, making it more accurate, not depend on bypassing the sprite status with the second extra property byte, and allowing you to customize stuff related to its carriable form.",
+  "latest_version": "smwc-41872-1773442683",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41872,
+      "title": "Bob-omb",
+      "version": "smwc-41872-1773442683",
+      "upstream_time": 1773442683,
+      "download_url": "https://dl.smwcentral.net/41872/Improved%20Bob-Omb%20Disassembly.zip",
+      "filename": "Improved Bob-Omb Disassembly.zip",
+      "size": 6909,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

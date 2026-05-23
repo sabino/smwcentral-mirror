@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-explosive-dry-bones-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35637,
+  "title": "Explosive Dry Bones V1.0",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "custom",
+    "dry bones",
+    "explosion",
+    "extended",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Explosive Dry Bones V1.0:<br>\r\n<br>\r\nDescription: This are a variant version of the Dry Bones, that acts like the SMW ones, but when the player stomp him and he are showing the crumble animation, he will start flashing and explode.<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nAllow customize the sprite easily with a bunch of defines!<br>\r\n<br>\r\nMore details are in the included \"Readme\" file.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=126154&page=1&pid=1630493#p1630493\">Requested</a> by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+  "latest_version": "smwc-35637-1716429894",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35637,
+      "title": "Explosive Dry Bones V1.0",
+      "version": "smwc-35637-1716429894",
+      "upstream_time": 1716429894,
+      "download_url": "https://dl.smwcentral.net/35637/Explosive%20Dry%20Bones%20V1.0.zip",
+      "filename": "Explosive Dry Bones V1.0.zip",
+      "size": 16006,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

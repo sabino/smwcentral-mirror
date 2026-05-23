@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-contra-thunder-landing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27875,
+  "title": "Super Contra - Thunder Landing",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "fire",
+    "tense"
+  ],
+  "description": "Stage 1 from Super Contra. Good for athletic, fire, or intense/energetic places in general. Could also work for castles.",
+  "latest_version": "smwc-27875-1627779390",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27875,
+      "title": "Super Contra - Thunder Landing",
+      "version": "smwc-27875-1627779390",
+      "upstream_time": 1627779390,
+      "download_url": "https://dl.smwcentral.net/27875/thunderlanding.zip",
+      "filename": "thunderlanding.zip",
+      "size": 94990,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shinobi-iii-return-of-the-ninja-master-izayoi",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28745,
+  "title": "Shinobi III: Return Of The Ninja Master - Izayoi",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "ghost house",
+    "night"
+  ],
+  "description": "My port of Izayoi from Shinobi 3 for GPW2. Sorry for taking so long to get this one uploaded. :)",
+  "latest_version": "smwc-28745-1639467367",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28745,
+      "title": "Shinobi III: Return Of The Ninja Master - Izayoi",
+      "version": "smwc-28745-1639467367",
+      "upstream_time": 1639467367,
+      "download_url": "https://dl.smwcentral.net/28745/Shinobi%203_Izayoi.zip",
+      "filename": "Shinobi 3_Izayoi.zip",
+      "size": 55885,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

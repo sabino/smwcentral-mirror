@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-no-downward-swim-when-carrying-an-item",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 28469,
+  "title": "No Downward Swim When Carrying an Item",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "carrying",
+    "item",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "This uberasm code simply disables downward swimming when carrying an item.<br>\r\n<br>\r\nCredit is unecessary. Requested by <span class=\"un-outer\" title=\"buckaroodle610\"><a href=\"/?p=profile&amp;id=49721\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">buckaroodle610</a></span>.",
+  "latest_version": "smwc-28469-1640045217",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 28469,
+      "title": "No Downward Swim When Carrying an Item",
+      "version": "smwc-28469-1640045217",
+      "upstream_time": 1640045217,
+      "download_url": "https://dl.smwcentral.net/28469/NoDownwardSwimWItem.zip",
+      "filename": "NoDownwardSwimWItem.zip",
+      "size": 612,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

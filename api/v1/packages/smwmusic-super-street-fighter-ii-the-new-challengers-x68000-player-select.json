@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-street-fighter-ii-the-new-challengers-x68000-player-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33257,
+  "title": "Super Street Fighter II: The New Challengers (X68000) - Player Select",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "bonus",
+    "menu",
+    "overworld",
+    "title",
+    "urban",
+    "water"
+  ],
+  "description": "A short loop of a song, befitting selection screens. Despite that, it's really catchy.",
+  "latest_version": "smwc-33257-1682938950",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33257,
+      "title": "Super Street Fighter II: The New Challengers (X68000) - Player Select",
+      "version": "smwc-33257-1682938950",
+      "upstream_time": 1682938950,
+      "download_url": "https://dl.smwcentral.net/33257/player_select.zip",
+      "filename": "player_select.zip",
+      "size": 97706,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-animal-crossing-new-leaf-the-roost",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35629,
+  "title": "Animal Crossing: New Leaf - The Roost",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "calm",
+    "overworld"
+  ],
+  "description": "Calm music from the game \"Animal Crossing New Leafs\", it's good to use in calm stages, or in cutscenes and who knows... For initial maps.",
+  "latest_version": "smwc-35629-1701749168",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35629,
+      "title": "Animal Crossing: New Leaf - The Roost",
+      "version": "smwc-35629-1701749168",
+      "upstream_time": 1701749168,
+      "download_url": "https://dl.smwcentral.net/35629/The%20Roost.zip",
+      "filename": "The Roost.zip",
+      "size": 31560,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

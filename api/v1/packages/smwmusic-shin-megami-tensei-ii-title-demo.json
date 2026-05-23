@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-title-demo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38062,
+  "title": "Shin Megami Tensei II - Title Demo",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious",
+    "title"
+  ],
+  "description": "Title Theme of Shin Megami Tensei II.<br>\r\nYou can switch between 'Title Demo' and  'Title' with:<br>\r\nset define to #define Version 0, to get the full 'Title Demo' version<br>\r\nset define to #define Version 1, to get the shorter 'Title' version",
+  "latest_version": "smwc-38062-1721925296",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38062,
+      "title": "Shin Megami Tensei II - Title Demo",
+      "version": "smwc-38062-1721925296",
+      "upstream_time": 1721925296,
+      "download_url": "https://dl.smwcentral.net/38062/SMT2%20Title%20Demo.zip",
+      "filename": "SMT2 Title Demo.zip",
+      "size": 105795,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

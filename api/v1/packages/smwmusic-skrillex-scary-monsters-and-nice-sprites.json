@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-skrillex-scary-monsters-and-nice-sprites",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41005,
+  "title": "Skrillex - Scary Monsters and Nice Sprites",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "abstract",
+    "credits",
+    "dark",
+    "final",
+    "industrial",
+    "space",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Classic brostep<br>\r\n<br>\r\n<span style=\"color: #ff6190;\">NOTE: Incompatible with Thunder, Blargg, Fireworks, and Bonus End SFX</span>",
+  "latest_version": "smwc-41005-1769908796",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41005,
+      "title": "Skrillex - Scary Monsters and Nice Sprites",
+      "version": "smwc-41005-1769908796",
+      "upstream_time": 1769908796,
+      "download_url": "https://dl.smwcentral.net/41005/SkrillexScaryMonsters.zip",
+      "filename": "SkrillexScaryMonsters.zip",
+      "size": 142950,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

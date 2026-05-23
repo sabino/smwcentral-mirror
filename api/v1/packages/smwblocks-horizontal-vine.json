@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-horizontal-vine",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21041,
+  "title": "Horizontal Vine",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "lorom",
+    "platform",
+    "sa-1",
+    "vine"
+  ],
+  "description": "A block that the player can hold onto and move horizontally. He drops if he presses Down.",
+  "latest_version": "smwc-21041-1567109516",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21041,
+      "title": "Horizontal Vine",
+      "version": "smwc-21041-1567109516",
+      "upstream_time": 1567109516,
+      "download_url": "https://dl.smwcentral.net/21041/Horizontal%20Vine.zip",
+      "filename": "Horizontal Vine.zip",
+      "size": 3876,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

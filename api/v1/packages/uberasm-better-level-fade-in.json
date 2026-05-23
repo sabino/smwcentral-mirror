@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-better-level-fade-in",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39480,
+  "title": "Better Level Fade In",
+  "authors": [
+    "Donut"
+  ],
+  "tags": [
+    "fade",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "<i>Has this ever happened to you?<br>\r\nYou remove the mosaic/pixelation effect because you think it looks ugly, but then you realize now that it's gone it's very obvious that sprites just *pop* into existence once the fade ends, so it just looks ugly again?</i><br>\r\n<br>\r\nWell worry not! This pair of assembly files is here to fix that! This resource skips the \"level: fade in\" gamemode and handles the fading in the \"level\" gamemode, giving sprites' codes and other codes a chance to run!<br>\r\nThis can not only fix sprites \"popping in\" but any other \"first frame visual anomalies\" like for example scrolling codes suddenly snapping layers.<br>\r\n<br>\r\nInformation on how to insert this can be found in the readme.<br>\r\nCustomization options can be found inside \"better_fade.asm\", for example if you'd like the game to pause/freeze while fading, you can do that. <i>...and yes.. you can re-enable the mosaic if you want to...</i><br>\r\n<br>\r\nFor removing the mosaic from other transitions, a patch is included.<br>\r\n<br>\r\n<b>Note: this is most definitely incompatible with patches that change how fading in looks!</b>",
+  "latest_version": "smwc-39480-1756050240",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39480,
+      "title": "Better Level Fade In",
+      "version": "smwc-39480-1756050240",
+      "upstream_time": 1756050240,
+      "download_url": "https://dl.smwcentral.net/39480/better_fade_ins.zip",
+      "filename": "better_fade_ins.zip",
+      "size": 2524,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

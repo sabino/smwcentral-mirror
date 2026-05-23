@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-on-off-double-hit-fix-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 30011,
+  "title": "ON/OFF Double Hit Fix v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "on-off",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This code will add a short cooldown to the ON/OFF switches to prevent Mario or sprites to trigger two of them at the same time. Unlike the patch version, this will also work with custom ON/OFF switches.<br>\r\n<br>\r\nYou can increase the cooldown in the asm file, up to $7F frames (you may want it higher if used in a water level or if you want switches triggered by cape twirls).<br>\r\n<br>\r\nUse it in specific levels or in gamemode 14 (for all levels).<br>\r\n<br>\r\nIt requires 1 byte of freeram.<br>\r\n<br>\r\nUpdate v1.1:<br>\r\n- Rewritten the code so it only uses 1 byte of freeram instead of 2. As a consequence, the cooldown can only go up to $7F instead of $FF.",
+  "latest_version": "smwc-30011-1670855242",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 30011,
+      "title": "ON/OFF Double Hit Fix v1.1",
+      "version": "smwc-30011-1670855242",
+      "upstream_time": 1670855242,
+      "download_url": "https://dl.smwcentral.net/30011/double_hit_fix.zip",
+      "filename": "double_hit_fix.zip",
+      "size": 586,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

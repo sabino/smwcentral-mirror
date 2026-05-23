@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-coin-stream",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35149,
+  "title": "Coin Stream",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bonus",
+    "coin",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "Originally made way back for Summer C3 2018 (when there was a patch for misc. sprite types), finally made available for new PIXI versions and submitted to the section (PIXI 1.40 and above required).<br>\r\n<br>\r\nThis is basically a boo stream, but instead of boos, it generates coins that can be collected. It also expires after a certain amount of time if set to.",
+  "latest_version": "smwc-35149-1709405620",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35149,
+      "title": "Coin Stream",
+      "version": "smwc-35149-1709405620",
+      "upstream_time": 1709405620,
+      "download_url": "https://dl.smwcentral.net/35149/CoinStream.zip",
+      "filename": "CoinStream.zip",
+      "size": 6259,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

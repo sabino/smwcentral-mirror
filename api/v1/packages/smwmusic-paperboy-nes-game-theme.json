@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-paperboy-nes-game-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29081,
+  "title": "Paperboy (NES) - Game Theme",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "retro",
+    "town"
+  ],
+  "description": "A rather iconic theme from Paperboy on the NES.<br>\r\n<br>\r\nCan fit in overworlds or happy towns.<br>\r\n<br>\r\nRequested by someone a long time ago, I forgot who. =P",
+  "latest_version": "smwc-29081-1643573476",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29081,
+      "title": "Paperboy (NES) - Game Theme",
+      "version": "smwc-29081-1643573476",
+      "upstream_time": 1643573476,
+      "download_url": "https://dl.smwcentral.net/29081/Paperboy%20%28NES%29%20-%20Game%20Theme.zip",
+      "filename": "Paperboy (NES) - Game Theme.zip",
+      "size": 32238,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

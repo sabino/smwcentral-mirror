@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-desert-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23293,
+  "title": "New Super Mario Classic - Desert Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "desert",
+    "overworld"
+  ],
+  "description": "Could fit on the desert submaps or overworld areas. This music was played on World 5 (Pokey Plateau) from New Super Mario Classic (Emerald Edition) (My SMW Hack)",
+  "latest_version": "smwc-23293-1592204401",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23293,
+      "title": "New Super Mario Classic - Desert Submap",
+      "version": "smwc-23293-1592204401",
+      "upstream_time": 1592204401,
+      "download_url": "https://dl.smwcentral.net/23293/NSMC%20Desert%20Submap.zip",
+      "filename": "NSMC Desert Submap.zip",
+      "size": 45029,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-star-speed-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21043,
+  "title": "Star + Speed Block",
+  "authors": [
+    "S.L"
+  ],
+  "tags": [
+    "lorom",
+    "run",
+    "sa-1",
+    "shatter",
+    "speed",
+    "star"
+  ],
+  "description": "A very solid block. Can be broken only if Mario has a star and is at max speed.<br>\r\n<br>\r\nConverted [BT] to [BTSD] by DiscoMan, SA-1 hybridization by Major Flare.",
+  "latest_version": "smwc-21043-1567287901",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21043,
+      "title": "Star + Speed Block",
+      "version": "smwc-21043-1567287901",
+      "upstream_time": 1567287901,
+      "download_url": "https://dl.smwcentral.net/21043/Star%2BSpeed%20Block.zip",
+      "filename": "Star+Speed Block.zip",
+      "size": 404,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

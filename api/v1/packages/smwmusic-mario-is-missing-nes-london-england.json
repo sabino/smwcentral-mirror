@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-is-missing-nes-london-england",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27487,
+  "title": "Mario is Missing! (NES) - London England",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "town",
+    "urban"
+  ],
+  "description": "A calming, relaxing song that plays in London England on Mario is Missing! for the NES.<br>\r\n<br>\r\nReleased at Summer C3 2021.<br>\r\n<br>\r\nCan fit in rainy areas.",
+  "latest_version": "smwc-27487-1627265049",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27487,
+      "title": "Mario is Missing! (NES) - London England",
+      "version": "smwc-27487-1627265049",
+      "upstream_time": 1627265049,
+      "download_url": "https://dl.smwcentral.net/27487/Mario%20is%20Missing%21%20%28NES%29%20-%20London%20England.zip",
+      "filename": "Mario is Missing%21 (NES) - London England.zip",
+      "size": 30671,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

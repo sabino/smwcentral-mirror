@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-13fb-game-crash-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18319,
+  "title": "$13FB Game Crash Fix",
+  "authors": [
+    "p4plus2"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "This patch fixes crashes that result from sprite collisions after $13FB is set. A notable example would be eating a berry and collecting a Fire Flower at the same time.<br>\r\n<br>\r\nAdded SA-1 support.",
+  "latest_version": "smwc-18319-1541021904",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18319,
+      "title": "$13FB Game Crash Fix",
+      "version": "smwc-18319-1541021904",
+      "upstream_time": 1541021904,
+      "download_url": "https://dl.smwcentral.net/18319/fireberryfix.zip",
+      "filename": "fireberryfix.zip",
+      "size": 346,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-custom-end-level-stars-text",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41442,
+  "title": "Custom End Level Stars Text",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "effect",
+    "lorom",
+    "sa-1",
+    "tile"
+  ],
+  "description": "This patch will change what's displayed when touching the goal tape: instead of showing the number of bonus stars rewarded, it'll display a custom text (by default, \"GG\"). It's fairly easy to change what will be displayed or add more characters. There's also an option to show the text even if not grabbing the goal tape, but this is recommended to use only if bonus stars are disabled in the hack (since with this option they would be rewarded even if not touching the goal tape).<br>\r\nCheck the asm file for more info.",
+  "latest_version": "smwc-41442-1768757665",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41442,
+      "title": "Custom End Level Stars Text",
+      "version": "smwc-41442-1768757665",
+      "upstream_time": 1768757665,
+      "download_url": "https://dl.smwcentral.net/41442/GoalTapeGG_Asar2.zip",
+      "filename": "GoalTapeGG_Asar2.zip",
+      "size": 1541,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

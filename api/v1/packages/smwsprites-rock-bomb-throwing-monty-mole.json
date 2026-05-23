@@ -1,0 +1,43 @@
+{
+  "name": "smwsprites-rock-bomb-throwing-monty-mole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 15159,
+  "title": "Rock/Bomb Throwing Monty Mole",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "aimed",
+    "bob-omb",
+    "bomb",
+    "explosion",
+    "lorom",
+    "mole",
+    "monty",
+    "monty mole",
+    "projectile",
+    "rock",
+    "sa-1",
+    "throw"
+  ],
+  "description": "A floor dwelling Monty Mole that peeks its head out, proceeds to pull out a Rock or an aggravated Bob-Omb that explodes on contact and throws it Mario's way in an arch.<br>\r\n<br>\r\nWhile the Bob-Omb might seem like the better projectile, it also might just blow the Mole itself up, thus helping the player out a little.<br>\r\n<br>\r\nMaybe use them with blocks that can be blown up for alternate pathways or secret routes?<br>\r\n<br>\r\nThe included graphics overwrite part of the Sumo Bros. graphics because that's a lot of space and allows the use of the other Moles. The explosions use a Sumo Bros. tile, so it had to be overwritten anyway.",
+  "latest_version": "smwc-15159-1486826138",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 15159,
+      "title": "Rock/Bomb Throwing Monty Mole",
+      "version": "smwc-15159-1486826138",
+      "upstream_time": 1486826138,
+      "download_url": "https://dl.smwcentral.net/15159/Whacky%20Mole.zip",
+      "filename": "Whacky Mole.zip",
+      "size": 10575,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

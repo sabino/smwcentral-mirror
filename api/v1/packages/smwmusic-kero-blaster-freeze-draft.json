@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kero-blaster-freeze-draft",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32001,
+  "title": "Kero Blaster - Freeze Draft",
+  "authors": [
+    "Fyre150"
+  ],
+  "tags": [
+    "calm",
+    "sky",
+    "snow"
+  ],
+  "description": "An old port I had lying around. A pretty relaxing tune.",
+  "latest_version": "smwc-32001-1672514857",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32001,
+      "title": "Kero Blaster - Freeze Draft",
+      "version": "smwc-32001-1672514857",
+      "upstream_time": 1672514857,
+      "download_url": "https://dl.smwcentral.net/32001/Kero%20Blaster%20-%20Freeze%20Draft.zip",
+      "filename": "Kero Blaster - Freeze Draft.zip",
+      "size": 54534,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

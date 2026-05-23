@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-sonic-advance-3-cyber-track-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37014,
+  "title": "Sonic Advance 3 - Cyber Track Act 2",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "retro",
+    "urban"
+  ],
+  "description": "Could fit on futuristic levels",
+  "latest_version": "smwc-37014-1710320312",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37014,
+      "title": "Sonic Advance 3 - Cyber Track Act 2",
+      "version": "smwc-37014-1710320312",
+      "upstream_time": 1710320312,
+      "download_url": "https://dl.smwcentral.net/37014/cyber%20track%202.zip",
+      "filename": "cyber track 2.zip",
+      "size": 32685,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36985,
+      "title": "Sonic Advance 3 - Cyber Track Act 3",
+      "version": "smwc-36985-1710320311",
+      "upstream_time": 1710320311,
+      "download_url": "https://dl.smwcentral.net/36985/cyber%20track%203.zip",
+      "filename": "cyber track 3.zip",
+      "size": 32553,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

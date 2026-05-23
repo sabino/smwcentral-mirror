@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-score",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19853,
+  "title": "Score+9",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "counter",
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This sets the score maximum to 9999999 instead of 9999990. It does this by setting the extra zero at the end of the score to 9 if the score overflows above 9999990.",
+  "latest_version": "smwc-19853-1558171540",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19853,
+      "title": "Score+9",
+      "version": "smwc-19853-1558171540",
+      "upstream_time": 1558171540,
+      "download_url": "https://dl.smwcentral.net/19853/score9.zip",
+      "filename": "score9.zip",
+      "size": 370,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

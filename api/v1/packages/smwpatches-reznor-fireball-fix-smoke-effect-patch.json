@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-reznor-fireball-fix-smoke-effect-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42318,
+  "title": "Reznor Fireball Fix + Smoke Effect Patch",
+  "authors": [
+    "Arinsu",
+    "Moltz",
+    "Sonikku"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "reznor",
+    "sa-1"
+  ],
+  "description": "This patch allows Reznor to always breathe big fireballs regardless if fought inside a Mode 7 room or not, while also fixing the big fireball's hitbox so it matches its actual size unlike the vanilla game. As a side effect, Jumping Fire-Spitting Piranha Plants can no longer spit huge fireballs under any conditions.<br>\r\n<br>\r\n<a href=\"https://smwc.me/s/40575\">This patch is meant to be a less invasive take to Sonikku's original concept</a>, should you want to fix Reznor's fireballs when used in normal levels and avoid everything else that might cause resource incompatibilities.<br>\r\n<br>\r\nAs a bonus, it can also add a fancy smoke effect whenever Reznor breathes fire, should the user wish so.",
+  "latest_version": "1.2.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42318,
+      "title": "Reznor Fireball Fix + Smoke Effect Patch",
+      "version": "1.2.1",
+      "upstream_time": 1778454255,
+      "download_url": "https://dl.smwcentral.net/42318/Reznor%20Fireball%20Fix%2B%2B%2B.zip",
+      "filename": "Reznor Fireball Fix+++.zip",
+      "size": 3267,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

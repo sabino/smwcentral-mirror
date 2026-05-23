@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-wing-cap",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41798,
+  "title": "Wing Cap",
+  "authors": [
+    "Arinsu",
+    "MellyMellouange"
+  ],
+  "tags": [
+    "abilities",
+    "lorom",
+    "physics",
+    "player",
+    "sa-1",
+    "tile"
+  ],
+  "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+  "latest_version": "1.1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41798,
+      "title": "Wing Cap",
+      "version": "1.1.1",
+      "upstream_time": 1776640170,
+      "download_url": "https://dl.smwcentral.net/41798/Wing%20Cap%20v1.1.1.zip",
+      "filename": "Wing Cap v1.1.1.zip",
+      "size": 2646,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-yoshi-player-patch-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20295,
+  "title": "Yoshi Player Patch v1.13",
+  "authors": [
+    "Jimmy"
+  ],
+  "tags": [
+    "abilities",
+    "lorom",
+    "player",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch makes the player act like Yoshi from YI. It includes all of his abilities such as eating, making and throwing eggs, flutter jumping, and ground pounding. In the folder I've also included some GFX, blocks, and sprites that can be used with this patch.<br>\r\nRemoderated for SA-1 and added GPS/PIXI compatibility.",
+  "latest_version": "smwc-20295-1565541443",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20295,
+      "title": "Yoshi Player Patch v1.13",
+      "version": "smwc-20295-1565541443",
+      "upstream_time": 1565541443,
+      "download_url": "https://dl.smwcentral.net/20295/Yoshi%20Player%20Patch%20%2B%20SA1%20v1.13.zip",
+      "filename": "Yoshi Player Patch + SA1 v1.13.zip",
+      "size": 98257,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

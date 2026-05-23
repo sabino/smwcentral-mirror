@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-super-mario-galaxy-purple-coins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26986,
+  "title": "Super Mario Galaxy - Purple Coins",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "carnival",
+    "credits",
+    "final",
+    "misc",
+    "sky",
+    "space"
+  ],
+  "description": "Music that plays in the timed Purple Coin missions from Super Mario Galaxy.",
+  "latest_version": "smwc-26986-1622239040",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26986,
+      "title": "Super Mario Galaxy - Purple Coins",
+      "version": "smwc-26986-1622239040",
+      "upstream_time": 1622239040,
+      "download_url": "https://dl.smwcentral.net/26986/Super%20Mario%20Galaxy%20-%20Purple_Coins.zip",
+      "filename": "Super Mario Galaxy - Purple_Coins.zip",
+      "size": 140449,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

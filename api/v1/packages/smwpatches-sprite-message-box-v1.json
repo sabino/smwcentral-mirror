@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-sprite-message-box-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20406,
+  "title": "Sprite Message Box v1.1",
+  "authors": [
+    "edit1754",
+    "lx5"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "layer 3",
+    "lorom",
+    "message block",
+    "message box",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Allows enabling the use of Sprites instead of Layer 3 to render Message Box Text, on a per level basis, in order to free-up Layer 3 in levels that use Message Boxes.<br>\r\n<br>\r\nAutomatically determines which sprite tiles are safe to temporarily overwrite -- so there's no need to block off a certain amount of sprite tiles.<br>\r\n<br>\r\nIncompatible with Message Box Expansion.<br>\r\n<br>\r\n- v1.1 (2019-Jul-05): Now compatible with latest LM, SA-1 and Custom Powerups.",
+  "latest_version": "smwc-20406-1570320593",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20406,
+      "title": "Sprite Message Box v1.1",
+      "version": "smwc-20406-1570320593",
+      "upstream_time": 1570320593,
+      "download_url": "https://dl.smwcentral.net/20406/spritemessagebox-v1.1.zip",
+      "filename": "spritemessagebox-v1.1.zip",
+      "size": 10694,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

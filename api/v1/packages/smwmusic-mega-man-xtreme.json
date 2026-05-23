@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mega-man-xtreme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33929,
+  "title": "Mega Man Xtreme 2 - Neon Tiger",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "industrial",
+    "jungle",
+    "retro"
+  ],
+  "description": "Neon Tiger from Mega Man Xtreme 2.",
+  "latest_version": "smwc-33929-1690912120",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33929,
+      "title": "Mega Man Xtreme 2 - Neon Tiger",
+      "version": "smwc-33929-1690912120",
+      "upstream_time": 1690912120,
+      "download_url": "https://dl.smwcentral.net/33929/MegaMan%20Xtreme%202%20-%20Neon%20Tiger.zip",
+      "filename": "MegaMan Xtreme 2 - Neon Tiger.zip",
+      "size": 50892,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31615,
+      "title": "Mega Man Xtreme 2 - Neon Tiger",
+      "version": "smwc-31615-1666463695",
+      "upstream_time": 1666463695,
+      "download_url": "https://dl.smwcentral.net/31615/neon%20tiger%20xtreme2.zip",
+      "filename": "neon tiger xtreme2.zip",
+      "size": 31625,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

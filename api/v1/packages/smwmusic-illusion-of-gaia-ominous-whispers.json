@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-illusion-of-gaia-ominous-whispers",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25461,
+  "title": "Illusion of Gaia - Ominous Whispers",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cave",
+    "dark",
+    "ruins",
+    "spooky"
+  ],
+  "description": "Your hero turns his head and notices a pale spirit appeearance. He's then told he is sitting on an ancient Maya graveyard. Useful for adventure-like ruins explorations.<br>\r\n<br>\r\nIt ranked 38/46 at <a href=\"https://www.smwcentral.net/?p=viewthread&t=103436&page=2&pid=1554003#p1554003\">Super Famicompo 2</a>. Due to weird de-syncs, I had to re-write some note lengths using the latest, more accurate version of vgmtrans.",
+  "latest_version": "smwc-25461-1607982223",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25461,
+      "title": "Illusion of Gaia - Ominous Whispers",
+      "version": "smwc-25461-1607982223",
+      "upstream_time": 1607982223,
+      "download_url": "https://dl.smwcentral.net/25461/iog_ominous_whispers_1_0.zip",
+      "filename": "iog_ominous_whispers_1_0.zip",
+      "size": 52904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

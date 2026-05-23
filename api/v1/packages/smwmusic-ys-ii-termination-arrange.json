@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ys-ii-termination-arrange",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25729,
+  "title": "Ys II - Termination (Arrange)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "Arrangement of Termination, the final boss theme from Ys II. Good for, well, final bosses in general lol",
+  "latest_version": "smwc-25729-1611193665",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25729,
+      "title": "Ys II - Termination (Arrange)",
+      "version": "smwc-25729-1611193665",
+      "upstream_time": 1611193665,
+      "download_url": "https://dl.smwcentral.net/25729/termination.zip",
+      "filename": "termination.zip",
+      "size": 137616,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

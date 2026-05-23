@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-shop-items-and-power-ups",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 34671,
+  "title": "Shop Items and Power Ups",
+  "authors": [
+    "zuccha"
+  ],
+  "tags": [
+    "item-box",
+    "lorom",
+    "power-up",
+    "sa-1",
+    "shop"
+  ],
+  "description": "Highly customizable shop blocks for buying items and power ups, with different kinds of currencies.<br>\r\n<br>\r\nCommissioned by <span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: var(--user-color-2);\" class=\"un\">DrAnas</a></span>.<br>\r\n<br>\r\nFeatures:<br>\r\n<ul>\r\n<li>You can buy items for the item box (mushroom, feather, fire flower, star)</li>\r\n<li>You can buy power ups for the player (small, big, cape, fire).</li>\r\n<li>You can customize any combination of currencies (bonus stars, coins, lives, score) and amounts required to buy from the shop block.</li>\r\n<li>The shop blocks come in two fashions: \"go through\" and \"hit from below\".</li>\r\n<li>Blocks can be customized to have infinite availability, or just one item for sale (then the block is disabled/disappears).</li>\r\n<li>Included a `check_and_pay` routine that can be used to create other blocks that require similar payments (e.g., pay to toggle the ON/OFF switch, spawn a sprite, etc.).</li>\r\n<li>SA-1 compatible.</li>\r\n</ul><br>\r\nDetailed instructions are found in the readme and in the block files.",
+  "latest_version": "smwc-34671-1708983191",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 34671,
+      "title": "Shop Items and Power Ups",
+      "version": "smwc-34671-1708983191",
+      "upstream_time": 1708983191,
+      "download_url": "https://dl.smwcentral.net/34671/shop-2.0.0.zip",
+      "filename": "shop-2.0.0.zip",
+      "size": 10508,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-slow-horizontal-layer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19459,
+  "title": "Slow Horizontal Layer 2 (BG) Scrolling Rate",
+  "authors": [
+    "lolcats439"
+  ],
+  "tags": [
+    "background",
+    "lorom",
+    "sa-1",
+    "scroll"
+  ],
+  "description": "Adds \"slow\" as a horizontal BG scroll setting, in addition to the slow vertical BG scroll setting.<br>\r\n<br>\r\nSee patch file for details. <br>\r\n<br>\r\n3-26-2019: Updated for Asar, and with added SA-1 compatibility.<br>\r\n2-11-2010: This version fixes a bug that causes other levels to use slow scrolling when not set to it.",
+  "latest_version": "smwc-19459-1553891299",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19459,
+      "title": "Slow Horizontal Layer 2 (BG) Scrolling Rate",
+      "version": "smwc-19459-1553891299",
+      "upstream_time": 1553891299,
+      "download_url": "https://dl.smwcentral.net/19459/bg.zip",
+      "filename": "bg.zip",
+      "size": 784,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

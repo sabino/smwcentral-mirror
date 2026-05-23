@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-player-tilemap-editing-patches",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12381,
+  "title": "Player Tilemap Editing Patches",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "This set of asm patches allows the user to edit the player tilemaps in Super Mario World without the use of an external tool.<br>\r\n<br>\r\nIt is ideal for making and distributing new player tilemaps.<br>\r\n<br>\r\nIn all, four patches are applied to the hack:<br>\r\n- playertilemap_small.asm<br>\r\n- playertilemap_super_fire.asm<br>\r\n- playertilemap_cape.asm<br>\r\n- playertilemap_special.asm<br>\r\n<br>\r\nUse the included image to help you figure out how Super Mario World's player tiles are ordered and numbered within GFX32.<br>\r\n<br>\r\nNo freespace is required, since it is just editing the original tilemap.<br>\r\n<br>\r\n<i>Tester's note: Very handy, easy-to-use patches to adjust your player's tilemap. Simple, but effective. Well done.</i>",
+  "latest_version": "smwc-12381-1451444946",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12381,
+      "title": "Player Tilemap Editing Patches",
+      "version": "smwc-12381-1451444946",
+      "upstream_time": 1451444946,
+      "download_url": "https://dl.smwcentral.net/12381/%5BAsar%5D%20Player%20Tilemap%20Editing%20Patches.zip",
+      "filename": "%5BAsar%5D Player Tilemap Editing Patches.zip",
+      "size": 22927,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

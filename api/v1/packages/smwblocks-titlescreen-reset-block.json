@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-titlescreen-reset-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3791,
+  "title": "Titlescreen Reset Block",
+  "authors": [
+    "Koyuki"
+  ],
+  "tags": [
+    "lorom",
+    "reset",
+    "sa-1",
+    "titlescreen"
+  ],
+  "description": "A block that brings you back to the titlescreen when touched. It also plays SFX.",
+  "latest_version": "smwc-3791-1410751356",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3791,
+      "title": "Titlescreen Reset Block",
+      "version": "smwc-3791-1410751356",
+      "upstream_time": 1410751356,
+      "download_url": "https://dl.smwcentral.net/3791/TSresetblock.zip",
+      "filename": "TSresetblock.zip",
+      "size": 344,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

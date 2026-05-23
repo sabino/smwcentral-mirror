@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-asterix-obelix-olympia",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34749,
+  "title": "Asterix & Obelix - Olympia",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "temple"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nIntense level or boss theme.",
+  "latest_version": "smwc-34749-1691404665",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34749,
+      "title": "Asterix & Obelix - Olympia",
+      "version": "smwc-34749-1691404665",
+      "upstream_time": 1691404665,
+      "download_url": "https://dl.smwcentral.net/34749/Asterix%20and%20Obelix%20-%2017%20Olympia.zip",
+      "filename": "Asterix and Obelix - 17 Olympia.zip",
+      "size": 74923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

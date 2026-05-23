@@ -1,0 +1,33 @@
+{
+  "name": "tools-btd6-maker-s-yi-text-editor-1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 21640,
+  "title": "BTD6_maker's YI Text Editor (1.13)",
+  "authors": [
+    "BTD6_maker"
+  ],
+  "tags": [
+    "editor",
+    "python",
+    "smw2",
+    "text"
+  ],
+  "description": "This is a YI text editor written in Python. The advantage this has over YIPES is that while YIPES may occasionally overwrite important data, this never does.<br>\r\n<br>\r\nIt supports all special characters as well as symbols (such as the Yoshi symbol). For more information regarding these, see chara.txt.<br>\r\n<br>\r\nThis requires a Yoshi's Island (V1.0) (U).smc ROM. It now works with headered or headerless ROMS. Python 3 is required in order to run this.<br>\r\n<br>\r\nVersion 1.13<br>\r\nMade it more efficient when dealing with very large files (to fix an issue RPG Hacker noticed)<br>\r\nRemoved Advanced mode and merged its features with basic mode (as some advanced features wouldn't work properly in basic mode but Advanced mode exported all special characters as hex automatically)<br>\r\n<br>\r\nVersion 1.12<br>\r\nExporting can now export the individual digits of the lives counter.<br>\r\nAdded the ability to make messages start on the second line in Advanced mode.<br>\r\nAdded the ability to import and export changes in text size.<br>\r\n<br>\r\nVersion 1.11<br>\r\nAdded Advanced mode, which exports special characters directly as hex.<br>\r\nFixed issue where single-line level names malfunction.<br>\r\n<br>\r\nVersion 1.1<br>\r\nAdded the ability to import and export level names as well as just messages.<br>\r\n<br>\r\nVersion 1.02<br>\r\nMessages are now exported and imported in order, which may fix some free space issues.<br>\r\nImproved error handling.<br>\r\n<br>\r\nVersion 1.01<br>\r\nLarge pictures now display properly.<br>\r\nAdded support for headerless ROMs.<br>\r\nExporting can now export individual hex characters (for example, part of a larger symbol used separately, such as if you only want the left half of the A button)<br>\r\n<br>\r\nVersion 1.0<br>\r\nAllows both exporting and importing text.<br>\r\nFixes issues such as full stops and commas being duplicated as well as the lives counter not displaying.<br>\r\nKnown bugs:<br>\r\nLarge pictures (such as those in 1-1) do not show properly.",
+  "latest_version": "smwc-21640-1581265447",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 21640,
+      "title": "BTD6_maker's YI Text Editor (1.13)",
+      "version": "smwc-21640-1581265447",
+      "upstream_time": 1581265447,
+      "download_url": "https://dl.smwcentral.net/21640/BTD6_maker%27s%20YI%20Text%20Editor.zip",
+      "filename": "BTD6_maker%27s YI Text Editor.zip",
+      "size": 8700,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

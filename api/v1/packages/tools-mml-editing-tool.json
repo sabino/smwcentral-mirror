@@ -1,0 +1,32 @@
+{
+  "name": "tools-mml-editing-tool",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4620,
+  "title": "MML Editing Tool",
+  "authors": [
+    "Kipernal"
+  ],
+  "tags": [
+    "editor",
+    "mml",
+    "music"
+  ],
+  "description": "This is a tool made by me. It does a myriad of music-related things including fixing MML files made by TinyMM, fixing drum sections, applying the l command properly, accurately applying label looping, inserting things like ADSR, echo, etc., and more.<br>\r\n<br>\r\nUpdate: Improved label looping, made octave switching optional when fixing TinyMM files, and added very minimal support for 3ML-generated files.<br>\r\n<br>\r\n<a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=21\" rel=\"nofollow\">Requires .NET framework 3.5.</a>",
+  "latest_version": "smwc-4620-1363204926",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4620,
+      "title": "MML Editing Tool",
+      "version": "smwc-4620-1363204926",
+      "upstream_time": 1363204926,
+      "download_url": "https://dl.smwcentral.net/4620/MML%20Editing%20Tool.zip",
+      "filename": "MML Editing Tool.zip",
+      "size": 901023,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

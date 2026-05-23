@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-walking-monty-mole",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40869,
+  "title": "Walking Monty Mole",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "monty mole",
+    "sa-1"
+  ],
+  "description": "This patch allows for a monty mole to be placed in its walking state instead of digging out. To do that, place sprite 12 (originally unused).<br>\r\n<br>\r\nIts behavior (follow or walk with a hop) will still be dependent on its X position, unless the <a href=\"https://smwc.me/s/27942\">Sprite Properties Depending on the Extra Bit patch</a> has been installed, in which case it will similarly obey the extra bit.",
+  "latest_version": "smwc-40869-1764611593",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40869,
+      "title": "Walking Monty Mole",
+      "version": "smwc-40869-1764611593",
+      "upstream_time": 1764611593,
+      "download_url": "https://dl.smwcentral.net/40869/walking_monty_mole.zip",
+      "filename": "walking_monty_mole.zip",
+      "size": 864,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

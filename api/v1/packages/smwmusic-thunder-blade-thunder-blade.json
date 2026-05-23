@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-thunder-blade-thunder-blade",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21811,
+  "title": "Thunder Blade - Thunder Blade",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "castle",
+    "final",
+    "forest",
+    "swamp",
+    "urban"
+  ],
+  "description": "A nice funky jazz fusion tune with a slight bit of 7/4 time signature goodness from the 1987 Sega Arcade title Thunder Blade. Could be used for long, slightly calmer levels.<br>\r\n<br>\r\nReleased for the Super Nintenesis album.",
+  "latest_version": "smwc-21811-1578862596",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21811,
+      "title": "Thunder Blade - Thunder Blade",
+      "version": "smwc-21811-1578862596",
+      "upstream_time": 1578862596,
+      "download_url": "https://dl.smwcentral.net/21811/thunderblade.zip",
+      "filename": "thunderblade.zip",
+      "size": 67402,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

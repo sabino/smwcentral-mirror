@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cyber-troopers-virtual-on-everything-merges-with-the-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8623,
+  "title": "Cyber Troopers Virtual-On - Everything Merges With The Night",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "athletic",
+    "credits",
+    "overworld"
+  ],
+  "description": "An awesome recreation of the original Cyber Troppers song. Could be good for a credits theme.<br>\r\n<br>\r\n<br>\r\nUpdate (12/23/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 62 bytes.",
+  "latest_version": "smwc-8623-1405650885",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8623,
+      "title": "Cyber Troopers Virtual-On - Everything Merges With The Night",
+      "version": "smwc-8623-1405650885",
+      "upstream_time": 1405650885,
+      "download_url": "https://dl.smwcentral.net/8623/Everything%20Merges%20With%20The.Night.zip",
+      "filename": "Everything Merges With The.Night.zip",
+      "size": 63865,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "smwmusic-majin-tensei",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37823,
+  "title": "Majin Tensei 2: Spiral Nemesis - Theme of Endless",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "calm",
+    "castle",
+    "cave",
+    "chase",
+    "credits",
+    "cutscene",
+    "dark",
+    "final",
+    "fire",
+    "mysterious",
+    "tense",
+    "title"
+  ],
+  "description": "A song that is well suited for final levels. It also uses the leitmotifs from 2 other songs (Deja Vu and Assault).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Skewer\"><a href=\"/?p=profile&amp;id=1055\" style=\"color: var(--user-color-2);\" class=\"un\">Skewer</a></span><br>\r\n<br>\r\nEDIT: 24.04.2023 - changed some pitch bendings.<br>\r\nUpdate 24.05.2024 - Fixed a soundbug that can occur when using an older AMK version.",
+  "latest_version": "smwc-37823-1720620048",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37823,
+      "title": "Majin Tensei 2: Spiral Nemesis - Theme of Endless",
+      "version": "smwc-37823-1720620048",
+      "upstream_time": 1720620048,
+      "download_url": "https://dl.smwcentral.net/37823/Theme%20of%20Endless.zip",
+      "filename": "Theme of Endless.zip",
+      "size": 82429,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32267,
+      "title": "Majin Tensei 2: Spiral Nemesis - Assault",
+      "version": "smwc-32267-1674924224",
+      "upstream_time": 1674924224,
+      "download_url": "https://dl.smwcentral.net/32267/Assault.zip",
+      "filename": "Assault.zip",
+      "size": 75627,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29005,
+      "title": "Majin Tensei 2: Spiral Nemesis - Deja Vu",
+      "version": "smwc-29005-1643662565",
+      "upstream_time": 1643662565,
+      "download_url": "https://dl.smwcentral.net/29005/DejaVu.zip",
+      "filename": "DejaVu.zip",
+      "size": 77052,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-killer-instinct-sabrewulf",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22062,
+  "title": "Killer Instinct - Sabrewulf",
+  "authors": [
+    "DanTheVP"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "Sabrewulf's Theme from Killer Instinct with the original game samples. This is a shorter song so not great for long levels. It has a castle feel to it and could work well in similarly themed levels. The Volume is mixed at the original game levels and may need to be increased for use in SMW levels. I will leave that to individual creators to decide for themselves. The global volume is tagged in the text file and can be increased as needed",
+  "latest_version": "smwc-22062-1581970109",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22062,
+      "title": "Killer Instinct - Sabrewulf",
+      "version": "smwc-22062-1581970109",
+      "upstream_time": 1581970109,
+      "download_url": "https://dl.smwcentral.net/22062/Killer%20Instinct%20-%20Sabrewulf.zip",
+      "filename": "Killer Instinct - Sabrewulf.zip",
+      "size": 39355,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

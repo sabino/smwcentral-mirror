@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-bouncing-football",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3472,
+  "title": "Bouncing Football",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "chuck",
+    "enemy",
+    "football",
+    "lorom",
+    "random",
+    "sa-1"
+  ],
+  "description": "A disassembly of the bouncing football (sprite 1B), ready to be inserted with PIXI.<br>\r\n",
+  "latest_version": "smwc-3472-1251579574",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3472,
+      "title": "Bouncing Football",
+      "version": "smwc-3472-1251579574",
+      "upstream_time": 1251579574,
+      "download_url": "https://dl.smwcentral.net/3472/Bouncing%20Football.zip",
+      "filename": "Bouncing Football.zip",
+      "size": 1603,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

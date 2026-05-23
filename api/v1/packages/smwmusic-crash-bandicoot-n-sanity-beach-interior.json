@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bandicoot-n-sanity-beach-interior",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36882,
+  "title": "Crash Bandicoot - N.Sanity Beach Interior",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "grassland",
+    "jungle"
+  ],
+  "description": "The music that plays in the second half of N.Sanity Beach in Crash Bandicoot 1. Fitting for jungle levels.<br>\r\n<br>\r\nUpdate (2023/08/28): replaced the samples with more accurate ones.<br>\r\nUpdate (2024/02/16): replaced some samples with more accurate ones again.",
+  "latest_version": "smwc-36882-1708572220",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36882,
+      "title": "Crash Bandicoot - N.Sanity Beach Interior",
+      "version": "smwc-36882-1708572220",
+      "upstream_time": 1708572220,
+      "download_url": "https://dl.smwcentral.net/36882/CB%20-%20N.Sanity%20Beach%20Interior.zip",
+      "filename": "CB - N.Sanity Beach Interior.zip",
+      "size": 92963,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

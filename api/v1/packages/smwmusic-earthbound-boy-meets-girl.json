@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-boy-meets-girl",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34121,
+  "title": "EarthBound - Boy Meets Girl",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "town"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>.",
+  "latest_version": "smwc-34121-1692473842",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34121,
+      "title": "EarthBound - Boy Meets Girl",
+      "version": "smwc-34121-1692473842",
+      "upstream_time": 1692473842,
+      "download_url": "https://dl.smwcentral.net/34121/048%20Boy%20Meets%20Girl.zip",
+      "filename": "048 Boy Meets Girl.zip",
+      "size": 49083,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

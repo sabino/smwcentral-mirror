@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-2-mystic-cave-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13839,
+  "title": "Sonic the Hedgehog 2 - Mystic Cave Zone (2-Player)",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "industrial",
+    "mountain"
+  ],
+  "description": "The theme for Mystic Cave that plays when playing Two Player/versus mode. Use for cave environment.",
+  "latest_version": "smwc-13839-1467785116",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13839,
+      "title": "Sonic the Hedgehog 2 - Mystic Cave Zone (2-Player)",
+      "version": "smwc-13839-1467785116",
+      "upstream_time": 1467785116,
+      "download_url": "https://dl.smwcentral.net/13839/mc2ps.zip",
+      "filename": "mc2ps.zip",
+      "size": 38874,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11093,
+      "title": "Sonic the Hedgehog 2 - Mystic Cave Zone (2-Player)",
+      "version": "smwc-11093-1427836494",
+      "upstream_time": 1427836494,
+      "download_url": "https://dl.smwcentral.net/11093/Mystic%20Cave%20%282P%29.zip",
+      "filename": "Mystic Cave (2P).zip",
+      "size": 31220,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

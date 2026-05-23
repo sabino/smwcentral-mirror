@@ -1,0 +1,77 @@
+{
+  "name": "smwmusic-ghouls-n-ghosts-amiga-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27970,
+  "title": "Ghouls 'n Ghosts (Amiga) - Stage 2 (Village of Decay and Destruction)",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "carnival",
+    "castle",
+    "cave",
+    "dark",
+    "desert",
+    "forest",
+    "grassland",
+    "ice",
+    "mysterious",
+    "night",
+    "retro",
+    "ruins",
+    "spooky",
+    "temple",
+    "town",
+    "water"
+  ],
+  "description": "Music that plays in stage 2 of Ghouls 'n Ghosts, Amiga version. Rearranges a lot of the original arcade version.<br>\r\n<br>\r\nTook a few elements from the C64 version too.<br>\r\n<br>\r\nUPDATE: Lowered the volume of the high flute as I eventually realized it was overly loud.",
+  "latest_version": "smwc-27970-1632937847",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27970,
+      "title": "Ghouls 'n Ghosts (Amiga) - Stage 2 (Village of Decay and Destruction)",
+      "version": "smwc-27970-1632937847",
+      "upstream_time": 1632937847,
+      "download_url": "https://dl.smwcentral.net/27970/Ghouls%20%27n%20Ghosts%20%28Amiga%29%20-%20Stage%202.zip",
+      "filename": "Ghouls %27n Ghosts (Amiga) - Stage 2.zip",
+      "size": 34440,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26811,
+      "title": "Ghouls 'n Ghosts (Amiga) - Stage 3 (Baron Rankle's Tower)",
+      "version": "smwc-26811-1622182865",
+      "upstream_time": 1622182865,
+      "download_url": "https://dl.smwcentral.net/26811/Ghouls%20n%20Ghosts%20%28Amiga%29%20-%20Stage%203.zip",
+      "filename": "Ghouls n Ghosts (Amiga) - Stage 3.zip",
+      "size": 73123,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24340,
+      "title": "Ghouls 'n Ghosts (Amiga) - Stage 4 (Crystal Forest)",
+      "version": "smwc-24340-1598930164",
+      "upstream_time": 1598930164,
+      "download_url": "https://dl.smwcentral.net/24340/Ghouls%20%27n%20Ghosts%20%28Amiga%29%20-%20Stage%204%20%28Crystal%20Forest%29.zip",
+      "filename": "Ghouls %27n Ghosts (Amiga) - Stage 4 (Crystal Forest).zip",
+      "size": 33387,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

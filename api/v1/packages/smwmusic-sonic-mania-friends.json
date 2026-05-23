@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-mania-friends",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24630,
+  "title": "Sonic Mania - Friends",
+  "authors": [
+    "Kevin",
+    "tssf"
+  ],
+  "tags": [
+    "athletic",
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "The song from Sonic Mania's intro, ported from tssf's \"Best of Super Sonic\" pack. It could fit intros, cutscenes or credits. The song doesn't loop, but if for some reason you want to make it loop there's an option in the txt file. Not compatible with the \"Bonus end\" song.",
+  "latest_version": "smwc-24630-1604367748",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24630,
+      "title": "Sonic Mania - Friends",
+      "version": "smwc-24630-1604367748",
+      "upstream_time": 1604367748,
+      "download_url": "https://dl.smwcentral.net/24630/Sonic%20Mania%20-%20Friends.zip",
+      "filename": "Sonic Mania - Friends.zip",
+      "size": 140276,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

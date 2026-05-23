@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-mario-kart-super-circuit-yoshi-desert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39985,
+  "title": "Mario Kart: Super Circuit - Yoshi Desert",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "desert"
+  ],
+  "description": "Yoshi Desert from Mario Kart: Super Circuit.<br>\r\nThe drums were an absolute nightmare to translate into text.<br>\r\nWhen using this, make sure to copypaste the provided sample group to Addmusic_sample groups.txt.",
+  "latest_version": "smwc-39985-1751239375",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39985,
+      "title": "Mario Kart: Super Circuit - Yoshi Desert",
+      "version": "smwc-39985-1751239375",
+      "upstream_time": 1751239375,
+      "download_url": "https://dl.smwcentral.net/39985/Mario%20Kart%20Super%20Circuit%20-%20Yoshi%20Desert%20%28unsampled%29%20.zip",
+      "filename": "Mario Kart Super Circuit - Yoshi Desert (unsampled) .zip",
+      "size": 35079,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39982,
+      "title": "Mario Kart: Super Circuit - Yoshi Desert",
+      "version": "smwc-39982-1751322786",
+      "upstream_time": 1751322786,
+      "download_url": "https://dl.smwcentral.net/39982/Mario%20Kart%20Super%20Circuit%20-%20Yoshi%20Desert.zip",
+      "filename": "Mario Kart Super Circuit - Yoshi Desert.zip",
+      "size": 86283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

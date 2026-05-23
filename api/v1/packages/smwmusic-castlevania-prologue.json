@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-castlevania-prologue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21477,
+  "title": "Castlevania - Prologue",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "description": "The Prologue song from Castlevania. Requested by Teyla.",
+  "latest_version": "smwc-21477-1573505531",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21477,
+      "title": "Castlevania - Prologue",
+      "version": "smwc-21477-1573505531",
+      "upstream_time": 1573505531,
+      "download_url": "https://dl.smwcentral.net/21477/Castlevania%20-%20Prologue.zip",
+      "filename": "Castlevania - Prologue.zip",
+      "size": 31738,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

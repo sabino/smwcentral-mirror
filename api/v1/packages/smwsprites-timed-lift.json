@@ -1,0 +1,57 @@
+{
+  "name": "smwsprites-timed-lift",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3467,
+  "title": "Timed Lift",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "explode",
+    "exploding",
+    "fall",
+    "falling",
+    "lift",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "time",
+    "timed",
+    "timer"
+  ],
+  "description": "The timed lift sprite from SMW, disassembled and commented.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3467-1251633620",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3467,
+      "title": "Timed Lift",
+      "version": "smwc-3467-1251633620",
+      "upstream_time": 1251633620,
+      "download_url": "https://dl.smwcentral.net/3467/timed_lift.zip",
+      "filename": "timed_lift.zip",
+      "size": 2196,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 3347,
+      "title": "Timed Lift",
+      "version": "smwc-3347-1230612055",
+      "upstream_time": 1230612055,
+      "download_url": "https://dl.smwcentral.net/3347/Timed%20Lift.zip",
+      "filename": "Timed Lift.zip",
+      "size": 23367,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

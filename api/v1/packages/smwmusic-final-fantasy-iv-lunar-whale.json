@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-final-fantasy-iv-lunar-whale",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20257,
+  "title": "Final Fantasy IV - Lunar Whale",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "castle",
+    "final",
+    "water"
+  ],
+  "description": "(Also known as \"The Big Whale\")<br>\r\n<br>\r\nCould fit with any backend testing theme",
+  "latest_version": "smwc-20257-1561045598",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20257,
+      "title": "Final Fantasy IV - Lunar Whale",
+      "version": "smwc-20257-1561045598",
+      "upstream_time": 1561045598,
+      "download_url": "https://dl.smwcentral.net/20257/Final%20Fantasy%20IV%20-%20The%20Big%20Whale.zip",
+      "filename": "Final Fantasy IV - The Big Whale.zip",
+      "size": 55967,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18573,
+      "title": "Final Fantasy IV - Lunar Whale",
+      "version": "smwc-18573-1543856817",
+      "upstream_time": 1543856817,
+      "download_url": "https://dl.smwcentral.net/18573/Final%20Fantasy%20IV%20-%20The%20Big%20Whale.zip",
+      "filename": "Final Fantasy IV - The Big Whale.zip",
+      "size": 31803,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

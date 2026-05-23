@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-special-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23582,
+  "title": "Sonic the Hedgehog - Special Stage",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "overworld"
+  ],
+  "description": "The slow and I guess childish song from the original set of Sonic special stages, <s>paving the way for endless frustration</s> for years to come. It's a bit of a strange song, and has its own unique flavour to it, but it could probably work well with bonus stages and the like, as its name implies.",
+  "latest_version": "smwc-23582-1594231112",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23582,
+      "title": "Sonic the Hedgehog - Special Stage",
+      "version": "smwc-23582-1594231112",
+      "upstream_time": 1594231112,
+      "download_url": "https://dl.smwcentral.net/23582/special%20stage.zip",
+      "filename": "special stage.zip",
+      "size": 31518,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

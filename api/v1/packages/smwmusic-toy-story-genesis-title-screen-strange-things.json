@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-toy-story-genesis-title-screen-strange-things",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27913,
+  "title": "Toy Story (Genesis) - Title Screen (Strange Things)",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "A cover of \"Strange Things\" from Toy Story that plays on the title screen of the Mega Drive game of the same name. It's originally an Amiga module file.<br>\r\n<br>\r\n@7 (bonus end fanfare) and thunder/Blargg SFX have been omitted.",
+  "latest_version": "smwc-27913-1630344495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27913,
+      "title": "Toy Story (Genesis) - Title Screen (Strange Things)",
+      "version": "smwc-27913-1630344495",
+      "upstream_time": 1630344495,
+      "download_url": "https://dl.smwcentral.net/27913/toytitle.zip",
+      "filename": "toytitle.zip",
+      "size": 91715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

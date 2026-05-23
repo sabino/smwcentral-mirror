@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-undertale-dogsong",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15422,
+  "title": "Undertale - Dogsong",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "bonus",
+    "grassland",
+    "overworld"
+  ],
+  "description": "Annoying Dogs no doubt would love to play in a grassy field.  That's where this song would fit.",
+  "latest_version": "smwc-15422-1492272005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15422,
+      "title": "Undertale - Dogsong",
+      "version": "smwc-15422-1492272005",
+      "upstream_time": 1492272005,
+      "download_url": "https://dl.smwcentral.net/15422/Dogsong.zip",
+      "filename": "Dogsong.zip",
+      "size": 31020,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

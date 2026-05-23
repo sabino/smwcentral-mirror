@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-iris-theme-mystery-lady",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7783,
+  "title": "Lufia II: Rise of the Sinistrals - Iris Theme (Mystery Lady)",
+  "authors": [
+    "Compwhiz128"
+  ],
+  "tags": [
+    "calm"
+  ],
+  "description": "Very quaint and calming. A submap would be suitable for this or a calm level.",
+  "latest_version": "smwc-7783-1320218928",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7783,
+      "title": "Lufia II: Rise of the Sinistrals - Iris Theme (Mystery Lady)",
+      "version": "smwc-7783-1320218928",
+      "upstream_time": 1320218928,
+      "download_url": "https://dl.smwcentral.net/7783/Iris.zip",
+      "filename": "Iris.zip",
+      "size": 69934,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

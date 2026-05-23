@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-battling-smithy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21287,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Battling Smithy",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "The song that plays during Smithy's first phase in SMRPG.",
+  "latest_version": "smwc-21287-1570492826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21287,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Battling Smithy",
+      "version": "smwc-21287-1570492826",
+      "upstream_time": 1570492826,
+      "download_url": "https://dl.smwcentral.net/21287/218%20Fight%20Against%20Smithy.zip",
+      "filename": "218 Fight Against Smithy.zip",
+      "size": 95329,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15877,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Battling Smithy",
+      "version": "smwc-15877-1500676857",
+      "upstream_time": 1500676857,
+      "download_url": "https://dl.smwcentral.net/15877/Smithy%20Battle%201st%20phase.zip",
+      "filename": "Smithy Battle 1st phase.zip",
+      "size": 33413,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-smb2-styled-health-bar",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 25320,
+  "title": "SMB2-Styled Health Bar",
+  "authors": [
+    "Demonsul",
+    "KilloZapit"
+  ],
+  "tags": [
+    "health bar",
+    "lorom",
+    "sa-1",
+    "smb2",
+    "smb2 health",
+    "status bar"
+  ],
+  "description": "This is KilloZapit's SMB2/Doki Doki Panic Health Bar with bugfixes and additional features.<br>\r\n<br>\r\nNow, converted to SA-1 (including sprites), changed patch to be assembled by Asar and the sprites now uses the xkas format instead of TRASM one (and now PIXI instead of ST).<br>\r\n<br>\r\nAlso includes Demonsul's \"Always Small Health Patch\" as an optional feature.",
+  "latest_version": "smwc-25320-1608336321",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 25320,
+      "title": "SMB2-Styled Health Bar",
+      "version": "smwc-25320-1608336321",
+      "upstream_time": 1608336321,
+      "download_url": "https://dl.smwcentral.net/25320/SMB2%20Health%20Bar.zip",
+      "filename": "SMB2 Health Bar.zip",
+      "size": 8482,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

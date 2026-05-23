@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bird-flies-after-contact",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18956,
+  "title": "Bird, flies after contact",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "decoration",
+    "effect",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This poor, shy lad will fly away when it comes in contact with either Mario or a sprite.<br>\r\nThis is a C3 update. Now the birb animates correctly and gradually updates its speed instead of being a fixed static value.",
+  "latest_version": "smwc-18956-1547639930",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18956,
+      "title": "Bird, flies after contact",
+      "version": "smwc-18956-1547639930",
+      "upstream_time": 1547639930,
+      "download_url": "https://dl.smwcentral.net/18956/Shy%20Bird%20v1.1.zip",
+      "filename": "Shy Bird v1.1.zip",
+      "size": 4192,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-canvas-curse-boss-game-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27721,
+  "title": "Kirby: Canvas Curse - Boss Game Select",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "misc",
+    "retro"
+  ],
+  "description": "A fast-paced small song played on said screen, on said game.",
+  "latest_version": "smwc-27721-1626991410",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27721,
+      "title": "Kirby: Canvas Curse - Boss Game Select",
+      "version": "smwc-27721-1626991410",
+      "upstream_time": 1626991410,
+      "download_url": "https://dl.smwcentral.net/27721/Kirby%20Canvas%20Curse%20-%20Boss%20Game%20Select.zip",
+      "filename": "Kirby Canvas Curse - Boss Game Select.zip",
+      "size": 82744,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

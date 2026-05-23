@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-frosty-field",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 34287,
+  "title": "Frosty Field",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "ice",
+    "snow"
+  ],
+  "description": "This is a snowy themed tileset which was originally based off of the SMW Forest ground tiles and then heavily modified.<br>\r\nIt includes ledges, slopes, and rocks as surfaces and then bushes/trees as decoration.<br>\r\n<br>\r\nIncludes both an FG and BG.<br>\r\nThe BG requires HDMA to look as expected. The code to accomplish the effect for the BG is included, though it is built without consideration for BG vertical scrolling. As such, the Layer 2 and Layer 3 settings should be configured to <i>NOT</i> vertically scroll.<br>\r\n<br>\r\nThe included UberASM uses 12 bytes of freeram.",
+  "latest_version": "smwc-34287-1688939952",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 34287,
+      "title": "Frosty Field",
+      "version": "smwc-34287-1688939952",
+      "upstream_time": 1688939952,
+      "download_url": "https://dl.smwcentral.net/34287/Frosty%20Field%20%28Sonikku%29.zip",
+      "filename": "Frosty Field (Sonikku).zip",
+      "size": 44472,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

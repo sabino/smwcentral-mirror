@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-better-smb2-styled-pow",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16998,
+  "title": "Better SMB2-styled POW",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "carriable",
+    "lorom",
+    "pacifist",
+    "pow",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "A carryable POW switch similar to the one from SMB2. When triggered, and depending on a certain define in the ASM, it will either stun/kill sprites on ground like when you do a cape smash, or turn sprites on screen into coins, just like when you hit the goal tape in the end of a level.<br>\r\n<br>\r\nThe switch is carryable, too, and depending on the extra bit, you should either press it to trigger it or<br>\r\nthrow it against something with a certain speed.<br>\r\n<br>\r\nAn optional ExAnimation file is also included, as well as a JSON file for PIXI 1.2 users.<br>\r\n<br>\r\n<i>Note that if carried through a pipe, it'll turn into a regular SMW blue POW, so you may want to avoid that.</i>",
+  "latest_version": "smwc-16998-1521145252",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16998,
+      "title": "Better SMB2-styled POW",
+      "version": "smwc-16998-1521145252",
+      "upstream_time": 1521145252,
+      "download_url": "https://dl.smwcentral.net/16998/SMB2POW.zip",
+      "filename": "SMB2POW.zip",
+      "size": 9394,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

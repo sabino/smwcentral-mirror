@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-violet-tundra",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41335,
+  "title": "Violet Tundra",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "mysterious",
+    "night",
+    "overworld",
+    "snow"
+  ],
+  "description": "A mysterious and snowy overworld theme, made for 72hoSPC #13.",
+  "latest_version": "smwc-41335-1771995720",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41335,
+      "title": "Violet Tundra",
+      "version": "smwc-41335-1771995720",
+      "upstream_time": 1771995720,
+      "download_url": "https://dl.smwcentral.net/41335/Violet%20Tundra.zip",
+      "filename": "Violet Tundra.zip",
+      "size": 31679,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

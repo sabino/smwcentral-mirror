@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sonic-3d-blast-genesis-green-grove-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8608,
+  "title": "Sonic 3D Blast (Genesis) - Green Grove Zone Act 1",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "grassland"
+  ],
+  "description": "The catchy song that plays in the first Act of Green Grove Zone in the Genesis version of Sonic 3D Blast.  Was also remixed and used for the third part of Windy Valley in Sonic Adventure.",
+  "latest_version": "smwc-8608-1404340715",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8608,
+      "title": "Sonic 3D Blast (Genesis) - Green Grove Zone Act 1",
+      "version": "smwc-8608-1404340715",
+      "upstream_time": 1404340715,
+      "download_url": "https://dl.smwcentral.net/8608/Green%20Grove%20Act%201.zip",
+      "filename": "Green Grove Act 1.zip",
+      "size": 70402,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

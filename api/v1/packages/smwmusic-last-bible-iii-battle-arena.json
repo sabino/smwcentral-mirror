@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-last-bible-iii-battle-arena",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29273,
+  "title": "Last Bible III - Battle Arena",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "environmental",
+    "tense",
+    "town"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nCould fit a, well, battle arena.<br>\r\nNote: you can disable the \"crowd SFX\" if you want, by setting CROWD to 0 in the txt file.",
+  "latest_version": "smwc-29273-1643552695",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29273,
+      "title": "Last Bible III - Battle Arena",
+      "version": "smwc-29273-1643552695",
+      "upstream_time": 1643552695,
+      "download_url": "https://dl.smwcentral.net/29273/45%20Battle%20Arena.zip",
+      "filename": "45 Battle Arena.zip",
+      "size": 82644,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

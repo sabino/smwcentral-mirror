@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-street-fighter-ii-turbo-guile",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33291,
+  "title": "Street Fighter II Turbo - Guile",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "beach",
+    "boss",
+    "title",
+    "urban"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"7 up\"><a href=\"/?p=profile&amp;id=23507\" style=\"color: var(--user-color-2);\" class=\"un\">7 up</a></span>",
+  "latest_version": "smwc-33291-1685562995",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33291,
+      "title": "Street Fighter II Turbo - Guile",
+      "version": "smwc-33291-1685562995",
+      "upstream_time": 1685562995,
+      "download_url": "https://dl.smwcentral.net/33291/Guile.zip",
+      "filename": "Guile.zip",
+      "size": 58167,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

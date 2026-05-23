@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-dream",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37685,
+  "title": "Shin Megami Tensei - Dream",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious",
+    "spooky"
+  ],
+  "description": "Plays in the dream sequences",
+  "latest_version": "smwc-37685-1714534688",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37685,
+      "title": "Shin Megami Tensei - Dream",
+      "version": "smwc-37685-1714534688",
+      "upstream_time": 1714534688,
+      "download_url": "https://dl.smwcentral.net/37685/SMT%20Dream.zip",
+      "filename": "SMT Dream.zip",
+      "size": 31676,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

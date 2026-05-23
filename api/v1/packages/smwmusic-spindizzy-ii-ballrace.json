@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-spindizzy-ii-ballrace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16237,
+  "title": "Spindizzy II - Ballrace",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "athletic",
+    "bonus"
+  ],
+  "description": "The song that plays in Ballrace in Spin Dizzy II.",
+  "latest_version": "smwc-16237-1505443995",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16237,
+      "title": "Spindizzy II - Ballrace",
+      "version": "smwc-16237-1505443995",
+      "upstream_time": 1505443995,
+      "download_url": "https://dl.smwcentral.net/16237/Ballrace.zip",
+      "filename": "Ballrace.zip",
+      "size": 33622,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

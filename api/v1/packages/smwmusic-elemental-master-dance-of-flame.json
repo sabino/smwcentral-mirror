@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-elemental-master-dance-of-flame",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39301,
+  "title": "Elemental Master - Dance of Flame",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "forest",
+    "jungle",
+    "mountain",
+    "tense"
+  ],
+  "description": "Heroic/epic song from the Genesis game Elemental Master.",
+  "latest_version": "smwc-39301-1741646748",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39301,
+      "title": "Elemental Master - Dance of Flame",
+      "version": "smwc-39301-1741646748",
+      "upstream_time": 1741646748,
+      "download_url": "https://dl.smwcentral.net/39301/EM-DoF.zip",
+      "filename": "EM-DoF.zip",
+      "size": 58043,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

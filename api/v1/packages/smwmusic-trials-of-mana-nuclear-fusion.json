@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-trials-of-mana-nuclear-fusion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20539,
+  "title": "Trials of Mana - Nuclear Fusion",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "industrial",
+    "night"
+  ],
+  "description": "The general boss theme from the game. It's a song full of energy and even hope!<br>\r\n<br>\r\nNote: It's not compatible with the Thunder SFX or the Bonus End jingle.<br>\r\n<br>\r\nUpdate: Now the port comes with two variations: one with surround sound and the other one with stereo sound, since I figured it would be more user-friendly than making people edit everything inside the text file themselves.",
+  "latest_version": "smwc-20539-1563233479",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20539,
+      "title": "Trials of Mana - Nuclear Fusion",
+      "version": "smwc-20539-1563233479",
+      "upstream_time": 1563233479,
+      "download_url": "https://dl.smwcentral.net/20539/SD3Nuclear.zip",
+      "filename": "SD3Nuclear.zip",
+      "size": 104988,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15350,
+      "title": "Trials of Mana - Nuclear Fusion",
+      "version": "smwc-15350-1490481846",
+      "upstream_time": 1490481846,
+      "download_url": "https://dl.smwcentral.net/15350/Nuclear%20Fusion.zip",
+      "filename": "Nuclear Fusion.zip",
+      "size": 33337,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

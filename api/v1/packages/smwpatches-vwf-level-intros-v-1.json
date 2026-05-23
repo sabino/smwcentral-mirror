@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-vwf-level-intros-v-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21615,
+  "title": "VWF Level Intros v. 1.22",
+  "authors": [
+    "Ladida",
+    "imamelia"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "level intro",
+    "level name",
+    "lorom",
+    "mario start",
+    "sa-1",
+    "vwf"
+  ],
+  "description": "This patch replaces the \"Mario/Luigi Start!\" that shows up when you enter a level with an intro similar to what Yoshi's Island has, where the level name is displayed a character at a time in a variable-width font.<br>\r\n<br>\r\nNow displays properly on real hardware.",
+  "latest_version": "smwc-21615-1582395103",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21615,
+      "title": "VWF Level Intros v. 1.22",
+      "version": "smwc-21615-1582395103",
+      "upstream_time": 1582395103,
+      "download_url": "https://dl.smwcentral.net/21615/VWF%20Level%20Intros%201.22.zip",
+      "filename": "VWF Level Intros 1.22.zip",
+      "size": 8231,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

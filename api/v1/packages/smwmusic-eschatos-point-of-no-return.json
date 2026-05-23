@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-eschatos-point-of-no-return",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19819,
+  "title": "Eschatos - Point of No Return",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "final",
+    "industrial",
+    "space"
+  ],
+  "description": "Tense, climactic song. Could fit futuristic settings.",
+  "latest_version": "smwc-19819-1556608553",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19819,
+      "title": "Eschatos - Point of No Return",
+      "version": "smwc-19819-1556608553",
+      "upstream_time": 1556608553,
+      "download_url": "https://dl.smwcentral.net/19819/noreturn.zip",
+      "filename": "noreturn.zip",
+      "size": 71866,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

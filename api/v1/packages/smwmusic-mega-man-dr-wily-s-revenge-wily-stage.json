@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-mega-man-dr-wily-s-revenge-wily-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15578,
+  "title": "Mega Man: Dr. Wily's Revenge - Wily Stage 1",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "industrial",
+    "night",
+    "space"
+  ],
+  "description": "The song that plays in Wily Stage 1 in Mega Man: Dr. Wily's Revenge.",
+  "latest_version": "smwc-15578-1495226187",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15578,
+      "title": "Mega Man: Dr. Wily's Revenge - Wily Stage 1",
+      "version": "smwc-15578-1495226187",
+      "upstream_time": 1495226187,
+      "download_url": "https://dl.smwcentral.net/15578/Mega%20Man%20%20Dr.%20Wily%27s%20Revenge%20-%20Wily%20Stage%201.zip",
+      "filename": "Mega Man  Dr. Wily%27s Revenge - Wily Stage 1.zip",
+      "size": 32331,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7273,
+      "title": "Mega Man: Dr. Wily's Revenge - Wily Stage",
+      "version": "smwc-7273-1337586668",
+      "upstream_time": 1337586668,
+      "download_url": "https://dl.smwcentral.net/7273/Enker.zip",
+      "filename": "Enker.zip",
+      "size": 31524,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

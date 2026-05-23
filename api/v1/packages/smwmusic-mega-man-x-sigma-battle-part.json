@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x-sigma-battle-part",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7207,
+  "title": "Mega Man X - Sigma Battle Part 1",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "This is the battle theme for the first part of the battle with Sigma. Would probably go well in really fast moving levels or fast Boss Battles.",
+  "latest_version": "smwc-7207-1312189329",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7207,
+      "title": "Mega Man X - Sigma Battle Part 1",
+      "version": "smwc-7207-1312189329",
+      "upstream_time": 1312189329,
+      "download_url": "https://dl.smwcentral.net/7207/MMX%20-%20Sigma%20Battle%20pt1.zip",
+      "filename": "MMX - Sigma Battle pt1.zip",
+      "size": 69238,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

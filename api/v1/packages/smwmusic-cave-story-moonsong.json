@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-cave-story-moonsong",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14105,
+  "title": "Cave Story - Moonsong",
+  "authors": [
+    "6646"
+  ],
+  "tags": [
+    "forest",
+    "night",
+    "sky",
+    "space"
+  ],
+  "description": "Theme of outside from CaveStory.<br>\r\nFits with the special zone, night levels etc...",
+  "latest_version": "smwc-14105-1471907889",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14105,
+      "title": "Cave Story - Moonsong",
+      "version": "smwc-14105-1471907889",
+      "upstream_time": 1471907889,
+      "download_url": "https://dl.smwcentral.net/14105/moon_song.zip",
+      "filename": "moon_song.zip",
+      "size": 58597,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8074,
+      "title": "Cave Story - Moonsong",
+      "version": "smwc-8074-1319734234",
+      "upstream_time": 1319734234,
+      "download_url": "https://dl.smwcentral.net/8074/csmoon.zip",
+      "filename": "csmoon.zip",
+      "size": 68256,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

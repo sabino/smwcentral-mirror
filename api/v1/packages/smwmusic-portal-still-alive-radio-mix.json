@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-portal-still-alive-radio-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39204,
+  "title": "Portal - Still Alive (Radio Mix)",
+  "authors": [
+    "E-man38"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "overworld",
+    "title",
+    "upbeat"
+  ],
+  "description": "An iconic and catchy rendition of Still Alive, heard during the very beginning of Portal. Appropriate for bonus levels or overworld maps.",
+  "latest_version": "smwc-39204-1740259272",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39204,
+      "title": "Portal - Still Alive (Radio Mix)",
+      "version": "smwc-39204-1740259272",
+      "upstream_time": 1740259272,
+      "download_url": "https://dl.smwcentral.net/39204/still_alive_%28radio_mix%29.zip",
+      "filename": "still_alive_(radio_mix).zip",
+      "size": 32752,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-overtake-deepest-red-opening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24536,
+  "title": "Overtake - DEEPEST RED (Opening 2)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "chase",
+    "final",
+    "fire",
+    "ruins",
+    "space"
+  ],
+  "description": "Fast-paced and intense song suitable for fast-paced and intense situations.<br>\r\n<br>\r\nNot compatible with Blargg/Thunder, Bonus End, or Yoshi.",
+  "latest_version": "smwc-24536-1604951417",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24536,
+      "title": "Overtake - DEEPEST RED (Opening 2)",
+      "version": "smwc-24536-1604951417",
+      "upstream_time": 1604951417,
+      "download_url": "https://dl.smwcentral.net/24536/deepest_red.zip",
+      "filename": "deepest_red.zip",
+      "size": 83649,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

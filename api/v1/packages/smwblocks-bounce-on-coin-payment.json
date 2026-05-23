@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-bounce-on-coin-payment",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3961,
+  "title": "Bounce on Coin Payment",
+  "authors": [
+    "Metalstriker"
+  ],
+  "tags": [
+    "bounce",
+    "lorom",
+    "pay"
+  ],
+  "description": "If you pay 10 coins, and you're not already jumping or otherwise having a rising vertical speed (RAM $7E:007D), you'll bounce up to the sky a little bit. There's no limit to the amount of times you can bounce off this block, only your coin count.",
+  "latest_version": "smwc-3961-1409420502",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3961,
+      "title": "Bounce on Coin Payment",
+      "version": "smwc-3961-1409420502",
+      "upstream_time": 1409420502,
+      "download_url": "https://dl.smwcentral.net/3961/Bounce%20On%20Coin.zip",
+      "filename": "Bounce On Coin.zip",
+      "size": 483,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

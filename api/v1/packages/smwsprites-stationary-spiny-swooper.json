@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-stationary-spiny-swooper",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32592,
+  "title": "Stationary Spiny/Swooper",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "spiny",
+    "stationary",
+    "swooper"
+  ],
+  "description": "This is a spiny/swooper that won't move in any way.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"DasFueller\"><a href=\"/?p=profile&amp;id=42872\" style=\"color: var(--user-color-2);\" class=\"un\">DasFueller</a></span>.",
+  "latest_version": "smwc-32592-1671322502",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32592,
+      "title": "Stationary Spiny/Swooper",
+      "version": "smwc-32592-1671322502",
+      "upstream_time": 1671322502,
+      "download_url": "https://dl.smwcentral.net/32592/StationarySpinySwooper.zip",
+      "filename": "StationarySpinySwooper.zip",
+      "size": 7234,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

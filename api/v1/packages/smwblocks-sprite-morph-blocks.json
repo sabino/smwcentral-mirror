@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-sprite-morph-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 13870,
+  "title": "Sprite Morph Blocks v3",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "morph",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This block will turn a specified sprite into another one. Please read the enclosed readme for more info.<br>\r\nSA-1 version is included.<br>\r\nCredit is appreciated but not necessary.<br>\r\n<br>\r\nUpdate 3: Now will spawn smoke and the morphed sprite will start facing Mario.",
+  "latest_version": "smwc-13870-1468204532",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 13870,
+      "title": "Sprite Morph Blocks v3",
+      "version": "smwc-13870-1468204532",
+      "upstream_time": 1468204532,
+      "download_url": "https://dl.smwcentral.net/13870/Sprite%20Morph%20Blocks%20v3.zip",
+      "filename": "Sprite Morph Blocks v3.zip",
+      "size": 3023,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

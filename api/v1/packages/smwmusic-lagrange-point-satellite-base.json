@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lagrange-point-satellite-base",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25358,
+  "title": "Lagrange Point - Satellite Base",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "retro",
+    "space",
+    "town"
+  ],
+  "description": "A song played on the main city from the outer space.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25358-1607729686",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25358,
+      "title": "Lagrange Point - Satellite Base",
+      "version": "smwc-25358-1607729686",
+      "upstream_time": 1607729686,
+      "download_url": "https://dl.smwcentral.net/25358/Lagrange%20Point%20-%20Satellite%20Base.zip",
+      "filename": "Lagrange Point - Satellite Base.zip",
+      "size": 131549,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

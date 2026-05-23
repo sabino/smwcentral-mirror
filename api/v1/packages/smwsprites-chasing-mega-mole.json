@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-chasing-mega-mole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41225,
+  "title": "Chasing Mega Mole",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "chasing",
+    "enemy",
+    "lorom",
+    "mega mole",
+    "mole",
+    "sa-1"
+  ],
+  "description": "A Mega Mole that chases the player. It'll continue moving in the same direction if stood on.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Klug\"><a href=\"/?p=profile&amp;id=28710\" style=\"color: var(--user-color-1);\" class=\"un\">Klug</a></span> during Summer C3 2023.",
+  "latest_version": "smwc-41225-1768423052",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41225,
+      "title": "Chasing Mega Mole",
+      "version": "smwc-41225-1768423052",
+      "upstream_time": 1768423052,
+      "download_url": "https://dl.smwcentral.net/41225/Chasing%20Mega%20Mole.zip",
+      "filename": "Chasing Mega Mole.zip",
+      "size": 4869,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

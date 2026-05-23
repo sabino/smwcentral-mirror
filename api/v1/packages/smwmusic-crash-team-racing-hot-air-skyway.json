@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-hot-air-skyway",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37184,
+  "title": "Crash Team Racing - Hot Air Skyway",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "carnival",
+    "sky"
+  ],
+  "description": "An upbeat theme that plays in Hot Air Skyway, a sky track that is essentially the Rainbow Road of Crash Team Racing.<br>\r\n<br>\r\nYou can define in the .txt file if you want to use the normal version or the pre-console version which is slightly longer.<br>\r\n<br>\r\nOriginally requested by <span class=\"un-outer\" title=\"bandicoot\"><a href=\"/?p=profile&amp;id=21068\" style=\"color: var(--user-color-2);\" class=\"un\">bandicoot</a></span>.",
+  "latest_version": "smwc-37184-1711794868",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37184,
+      "title": "Crash Team Racing - Hot Air Skyway",
+      "version": "smwc-37184-1711794868",
+      "upstream_time": 1711794868,
+      "download_url": "https://dl.smwcentral.net/37184/CTR_-_Hot_Air_Skyway.zip",
+      "filename": "CTR_-_Hot_Air_Skyway.zip",
+      "size": 111955,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

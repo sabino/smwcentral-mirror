@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-game-watch-gallery-gallery-corner-2nd-column",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7154,
+  "title": "Game & Watch Gallery - Gallery Corner (2nd Column)",
+  "authors": [
+    "Devazure"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "This is the song that plays when viewing game titles in the Gallery Corner on the second column. <br>\r\n It's small, catchy, and would best be suited for an overworld, submaps, or cutscenes.",
+  "latest_version": "smwc-7154-1320132904",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7154,
+      "title": "Game & Watch Gallery - Gallery Corner (2nd Column)",
+      "version": "smwc-7154-1320132904",
+      "upstream_time": 1320132904,
+      "download_url": "https://dl.smwcentral.net/7154/G%26WG-GC%20Column%202.zip",
+      "filename": "G%26WG-GC Column 2.zip",
+      "size": 66847,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-plok-akrillic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20529,
+  "title": "Plok - Akrillic",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "grassland",
+    "mountain"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nDefinitely one of my hardest ports, the constant GAIN change was a real challenge to replicate. It's one of my favourite tracks from the game.",
+  "latest_version": "smwc-20529-1562582243",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20529,
+      "title": "Plok - Akrillic",
+      "version": "smwc-20529-1562582243",
+      "upstream_time": 1562582243,
+      "download_url": "https://dl.smwcentral.net/20529/Plok%20-%20Akrillic.zip",
+      "filename": "Plok - Akrillic.zip",
+      "size": 73706,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

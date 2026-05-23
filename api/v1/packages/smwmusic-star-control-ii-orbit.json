@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-star-control-ii-orbit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29133,
+  "title": "Star Control II - Orbit",
+  "authors": [
+    "drspork"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "overworld",
+    "sky"
+  ],
+  "description": "Song that plays while orbiting planets in Star Control II by Dan Nicholson.  A calm and contemplative piece.",
+  "latest_version": "smwc-29133-1643567995",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29133,
+      "title": "Star Control II - Orbit",
+      "version": "smwc-29133-1643567995",
+      "upstream_time": 1643567995,
+      "download_url": "https://dl.smwcentral.net/29133/Orbit.zip",
+      "filename": "Orbit.zip",
+      "size": 73019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-megaton-walk",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38475,
+  "title": "EarthBound - Megaton Walk",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "upbeat"
+  ],
+  "description": "A song in Earthbound that is mostly of sample of a <a href=\"https://youtu.be/aP47nqo2cf4\" rel=\"nofollow\">Beatles song.</a> This plays when Dungeon Man is with you.<br>\r\n<br>\r\nFor any 1.0.8 users, you will have to change a define on the top of the text file because this uses a 1.0.9+ exclusive command (Size will be 1D3 bytes)",
+  "latest_version": "smwc-38475-1728825408",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38475,
+      "title": "EarthBound - Megaton Walk",
+      "version": "smwc-38475-1728825408",
+      "upstream_time": 1728825408,
+      "download_url": "https://dl.smwcentral.net/38475/Sgt%20Pepper%27s.zip",
+      "filename": "Sgt Pepper%27s.zip",
+      "size": 57458,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

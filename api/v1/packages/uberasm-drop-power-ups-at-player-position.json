@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-drop-power-ups-at-player-position",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 38834,
+  "title": "Drop Power-ups at Player Position",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This uberASM code is similar to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12586\">Item Box to Player Position</a> by <span class=\"un-outer\" title=\"HammerBrother\"><a href=\"/?p=profile&amp;id=18802\" style=\"color: var(--user-color-1);\" class=\"un\">HammerBrother</a></span>. When dropping a power-up from the item box, it'll be placed at player's position.<br>\r\n<br>\r\nNote that unlike the aformentioned patch, this code is exclusively for power-ups. The benefit of this is it allows you to have both vanilla item drop and dropping at player's position on a per-level basis (e.g. levels where an item from the item box would be unreachable otherwise).",
+  "latest_version": "smwc-38834-1736547744",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 38834,
+      "title": "Drop Power-ups at Player Position",
+      "version": "smwc-38834-1736547744",
+      "upstream_time": 1736547744,
+      "download_url": "https://dl.smwcentral.net/38834/DropPowerUpAtPlayerPos.zip",
+      "filename": "DropPowerUpAtPlayerPos.zip",
+      "size": 1687,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

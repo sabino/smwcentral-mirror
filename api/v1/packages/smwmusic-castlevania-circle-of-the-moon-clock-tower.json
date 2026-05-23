@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-castlevania-circle-of-the-moon-clock-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7318,
+  "title": "Castlevania: Circle of the Moon - Clock Tower",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "castle",
+    "industrial"
+  ],
+  "description": "Used in the clock tower section of the game. This music could fit castles and factories.",
+  "latest_version": "smwc-7318-1388688883",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7318,
+      "title": "Castlevania: Circle of the Moon - Clock Tower",
+      "version": "smwc-7318-1388688883",
+      "upstream_time": 1388688883,
+      "download_url": "https://dl.smwcentral.net/7318/clocktower.zip",
+      "filename": "clocktower.zip",
+      "size": 67769,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

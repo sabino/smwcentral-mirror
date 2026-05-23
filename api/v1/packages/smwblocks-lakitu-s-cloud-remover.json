@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-lakitu-s-cloud-remover",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23319,
+  "title": "Lakitu's Cloud Remover",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "cloud",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block removes lakitu's cloud if player is riding one and touches it.<br>\r\nCredit is unecessary. Requested by FailSandwich.",
+  "latest_version": "smwc-23319-1592991429",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23319,
+      "title": "Lakitu's Cloud Remover",
+      "version": "smwc-23319-1592991429",
+      "upstream_time": 1592991429,
+      "download_url": "https://dl.smwcentral.net/23319/CloudRemover.zip",
+      "filename": "CloudRemover.zip",
+      "size": 656,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

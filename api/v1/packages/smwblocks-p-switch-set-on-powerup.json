@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-p-switch-set-on-powerup",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3947,
+  "title": "P-Switch Set on Powerup",
+  "authors": [
+    "Anonymous"
+  ],
+  "tags": [
+    "lorom",
+    "p-switch",
+    "powerup"
+  ],
+  "description": "This block will act like a blue P-Switch has been pressed when touched. The difference, however, is that the time it lasts depends on your powerup. The length of time and other things can be edited in the ASM file.",
+  "latest_version": "smwc-3947-1408944363",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3947,
+      "title": "P-Switch Set on Powerup",
+      "version": "smwc-3947-1408944363",
+      "upstream_time": 1408944363,
+      "download_url": "https://dl.smwcentral.net/3947/_Powerup%20PSwitch.zip",
+      "filename": "_Powerup PSwitch.zip",
+      "size": 1691,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

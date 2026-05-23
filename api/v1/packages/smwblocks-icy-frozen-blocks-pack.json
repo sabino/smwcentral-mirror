@@ -1,0 +1,41 @@
+{
+  "name": "smwblocks-icy-frozen-blocks-pack",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 27360,
+  "title": "Icy/Frozen Blocks Pack",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "coin",
+    "ice",
+    "lorom",
+    "map16",
+    "note block",
+    "on-off",
+    "p-switch",
+    "pack",
+    "sa-1",
+    "yoshi coin"
+  ],
+  "description": "This package of icy blocks, completely coded by me, are different from the 'shattering' ice blocks! These actually melt when hit by a fireball. This package features a grand total of 13, fully customizable ice blocks. Read the readme for more information and block setups.<br>\r\n<br>\r\nIt doesn't include graphics, but you can use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19889\">these</a>.<br>\r\n<br>\r\nUpdate (KevinM): converted to be SA-1 hybrid. Made some small code optimizations. Fixed an issue that made the multi-part blocks not work properly in vertical levels.",
+  "latest_version": "smwc-27360-1635336993",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 27360,
+      "title": "Icy/Frozen Blocks Pack",
+      "version": "smwc-27360-1635336993",
+      "upstream_time": 1635336993,
+      "download_url": "https://dl.smwcentral.net/27360/Icy%20blocks.zip",
+      "filename": "Icy blocks.zip",
+      "size": 12659,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

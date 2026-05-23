@@ -1,0 +1,30 @@
+{
+  "name": "tools-free-space-logger-slogger",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4611,
+  "title": "Free Space Logger / slogger",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "freespace"
+  ],
+  "description": "A tool that automatically scans a ROM for free space, it will list both size and offset of a block of free space.  It lists PC offset (what you put into a hex editor) and LoROM offset (what you enter into xkas for free space).  Drag and drop a ROM file and it will generate a text file with the results.",
+  "latest_version": "smwc-4611-1363205223",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4611,
+      "title": "Free Space Logger / slogger",
+      "version": "smwc-4611-1363205223",
+      "upstream_time": 1363205223,
+      "download_url": "https://dl.smwcentral.net/4611/slogger.zip",
+      "filename": "slogger.zip",
+      "size": 4563,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

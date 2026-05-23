@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-if-funnu-kai",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37275,
+  "title": "Shin Megami Tensei if... - Funnu Kai",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "fire",
+    "tense"
+  ],
+  "description": "Plays in Funnu Kai (World of Wrath), a dungeon exclusive to Charlie‘s route. It‘s an extended and longer version with other samples of SMT 1's track 'Cathedral‘",
+  "latest_version": "smwc-37275-1714363225",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37275,
+      "title": "Shin Megami Tensei if... - Funnu Kai",
+      "version": "smwc-37275-1714363225",
+      "upstream_time": 1714363225,
+      "download_url": "https://dl.smwcentral.net/37275/SMT%20if%20Funnu%20Kai.zip",
+      "filename": "SMT if Funnu Kai.zip",
+      "size": 57738,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

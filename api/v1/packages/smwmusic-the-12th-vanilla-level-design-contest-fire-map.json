@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-12th-vanilla-level-design-contest-fire-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32411,
+  "title": "The 12th Vanilla Level Design Contest - Fire Map",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "fire",
+    "overworld"
+  ],
+  "description": "Music that plays in the fire/hell map in the 12th Annual Vanilla Level Design Contest.",
+  "latest_version": "smwc-32411-1666873967",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32411,
+      "title": "The 12th Vanilla Level Design Contest - Fire Map",
+      "version": "smwc-32411-1666873967",
+      "upstream_time": 1666873967,
+      "download_url": "https://dl.smwcentral.net/32411/VLDC12%20-%20Hell%20Map.zip",
+      "filename": "VLDC12 - Hell Map.zip",
+      "size": 53233,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

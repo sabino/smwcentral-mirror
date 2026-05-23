@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kwirk-going-up",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7767,
+  "title": "Kwirk - Going up",
+  "authors": [
+    "DuskSpark"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "ice",
+    "town"
+  ],
+  "description": "The best tune from Kwirk, a GB game! Most likely fits in lax, calm levels. Maybe works as music for credits.",
+  "latest_version": "smwc-7767-1319468486",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7767,
+      "title": "Kwirk - Going up",
+      "version": "smwc-7767-1319468486",
+      "upstream_time": 1319468486,
+      "download_url": "https://dl.smwcentral.net/7767/Kwirk%20-%20Going%20up.zip",
+      "filename": "Kwirk - Going up.zip",
+      "size": 66499,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "uberasm-timer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 16365,
+  "title": "Timer",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "clock",
+    "effect",
+    "lorom",
+    "sa-1",
+    "status bar",
+    "stopwatch",
+    "timer"
+  ],
+  "description": "This code will create a timer on the status bar that ticks up or down depending on its settings. You can also set \"effects\" that happen when the time drops to 0, such as teleporting or killing the player.<br>\r\n<br>\r\nCredit to Iceguy for the idea, even though I didn't use his code.",
+  "latest_version": "smwc-16365-1511629076",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 16365,
+      "title": "Timer",
+      "version": "smwc-16365-1511629076",
+      "upstream_time": 1511629076,
+      "download_url": "https://dl.smwcentral.net/16365/Timer.zip",
+      "filename": "Timer.zip",
+      "size": 3409,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

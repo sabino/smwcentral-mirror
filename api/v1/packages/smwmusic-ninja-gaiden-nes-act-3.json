@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ninja-gaiden-nes-act-3",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20757,
+  "title": "Ninja Gaiden (NES) - Act 3-1",
+  "authors": [
+    "MiniMacro"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "this is a really short song i know but i really like it and it was super fun to port, i also think that i did better with my effects and techniques in this than before, thanks maxodex :D<br>\r\ni didn't put anything on channels #6 and #7 so that sound effects would fit<br>\r\n",
+  "latest_version": "smwc-20757-1564084868",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20757,
+      "title": "Ninja Gaiden (NES) - Act 3-1",
+      "version": "smwc-20757-1564084868",
+      "upstream_time": 1564084868,
+      "download_url": "https://dl.smwcentral.net/20757/NGA31.zip",
+      "filename": "NGA31.zip",
+      "size": 31494,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

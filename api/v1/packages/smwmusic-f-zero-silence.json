@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-f-zero-silence",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18785,
+  "title": "F-Zero - Silence",
+  "authors": [
+    "Taffy"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "grassland",
+    "sky",
+    "space",
+    "title"
+  ],
+  "description": "My goal for 2019 is to upload more music and generally be more active... and possibly have a shot at mosts!<br>\r\n<br>\r\nThis is Silence, a moody piece from the original F-Zero that debuted on the SNES in 1990, 1991, and 1992 in Japan, America, and Europe respectively. It's probably one of my favorite games... Great soundtrack, and you get to slam into walls at over 3 times the interstate speed limit and uh, die... While listening to some really catchy music! Even the music that plays after you die is great<br>\r\n<br>\r\nUnlike the song's name implies, there is no actual silence. It starts out rather calm, but then the second part of it drops into something less calm that would definitely fit an exciting level.<br>\r\n<br>\r\nAccuracy was not in mind when I made this song!",
+  "latest_version": "smwc-18785-1549336311",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18785,
+      "title": "F-Zero - Silence",
+      "version": "smwc-18785-1549336311",
+      "upstream_time": 1549336311,
+      "download_url": "https://dl.smwcentral.net/18785/F-Zero%20-%20Silence.zip",
+      "filename": "F-Zero - Silence.zip",
+      "size": 32044,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7801,
+      "title": "F-Zero - Silence",
+      "version": "smwc-7801-1311888314",
+      "upstream_time": 1311888314,
+      "download_url": "https://dl.smwcentral.net/7801/F-Zero%20-%20Silence.zip",
+      "filename": "F-Zero - Silence.zip",
+      "size": 61755,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

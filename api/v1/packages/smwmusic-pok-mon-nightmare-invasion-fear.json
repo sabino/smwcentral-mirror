@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-pok-mon-nightmare-invasion-fear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26431,
+  "title": "Pokémon Nightmare: Invasion - Fear",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "cutscene",
+    "dark",
+    "environmental",
+    "final",
+    "misc",
+    "overworld",
+    "spooky",
+    "tense"
+  ],
+  "description": "Uneasy, vile song useful for overworlds or these little rooms before a terrifying boss... Like the calm before the storm.",
+  "latest_version": "smwc-26431-1618720332",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26431,
+      "title": "Pokémon Nightmare: Invasion - Fear",
+      "version": "smwc-26431-1618720332",
+      "upstream_time": 1618720332,
+      "download_url": "https://dl.smwcentral.net/26431/invasion_fear_0_1.zip",
+      "filename": "invasion_fear_0_1.zip",
+      "size": 32438,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

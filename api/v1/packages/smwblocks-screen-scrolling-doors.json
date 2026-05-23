@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-screen-scrolling-doors",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 12638,
+  "title": "Screen Scrolling Doors",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "door",
+    "lorom",
+    "maze",
+    "screen scrolling"
+  ],
+  "description": "This door, when entered will take Mario to another location within the same level without having to refresh the screen.<br>\r\n<br>\r\nNote that Yoshi also turns invisible when entering doors. So make sure that you make it impossible to have Yoshi in the places that you are gonna use these doors.",
+  "latest_version": "smwc-12638-1446758668",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 12638,
+      "title": "Screen Scrolling Doors",
+      "version": "smwc-12638-1446758668",
+      "upstream_time": 1446758668,
+      "download_url": "https://dl.smwcentral.net/12638/ScreenScrollingDoors.zip",
+      "filename": "ScreenScrollingDoors.zip",
+      "size": 101344,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

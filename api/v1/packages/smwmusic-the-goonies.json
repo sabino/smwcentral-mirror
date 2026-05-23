@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-goonies",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7509,
+  "title": "The Goonies 2 - Rooms Theme (Slightly Altered)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "ghost house",
+    "night",
+    "ruins"
+  ],
+  "description": "A slightly changed version of the Rooms theme from the NES game The Goonies 2. Could fit a cutscene.",
+  "latest_version": "smwc-7509-1323916094",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7509,
+      "title": "The Goonies 2 - Rooms Theme (Slightly Altered)",
+      "version": "smwc-7509-1323916094",
+      "upstream_time": 1323916094,
+      "download_url": "https://dl.smwcentral.net/7509/TG2Rooms%20v1.8.zip",
+      "filename": "TG2Rooms v1.8.zip",
+      "size": 66478,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

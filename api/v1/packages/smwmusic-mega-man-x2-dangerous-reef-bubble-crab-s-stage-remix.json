@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x2-dangerous-reef-bubble-crab-s-stage-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23495,
+  "title": "Mega Man X2 - Dangerous Reef ~ Bubble Crab's Stage (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cave",
+    "water"
+  ],
+  "description": "A remix I did months ago of Bubble Crab's stage theme from <i>Mega Man X2</i>.<br>\r\n<br>\r\nThis baby can fit in underwater stages and (flooded) caverns.<br>\r\n<br>\r\nNote:<br>\r\n- There is a \"READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n- The Thunder SFX, Yoshi SFX, and @7 are disabled.",
+  "latest_version": "smwc-23495-1594083172",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23495,
+      "title": "Mega Man X2 - Dangerous Reef ~ Bubble Crab's Stage (Remix)",
+      "version": "smwc-23495-1594083172",
+      "upstream_time": 1594083172,
+      "download_url": "https://dl.smwcentral.net/23495/Bubble%20Crab.zip",
+      "filename": "Bubble Crab.zip",
+      "size": 87466,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

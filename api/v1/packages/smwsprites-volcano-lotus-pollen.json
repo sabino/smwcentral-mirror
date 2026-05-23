@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-volcano-lotus-pollen",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20655,
+  "title": "Volcano Lotus + Pollen",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "extended sprites",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A \"disassembly\" of the Volcano Lotus and its extended sprite pollen, to be inserted with PIXI.<br>\r\nIncludes extra features, such as the ability to make the pollen homing, and a saner graphics routine.",
+  "latest_version": "smwc-20655-1563564637",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20655,
+      "title": "Volcano Lotus + Pollen",
+      "version": "smwc-20655-1563564637",
+      "upstream_time": 1563564637,
+      "download_url": "https://dl.smwcentral.net/20655/Customizable%20Volcano%20Lotus%20%2B%20PIXI.zip",
+      "filename": "Customizable Volcano Lotus + PIXI.zip",
+      "size": 5864,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

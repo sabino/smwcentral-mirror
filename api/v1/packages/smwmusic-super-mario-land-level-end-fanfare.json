@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-land-level-end-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34362,
+  "title": "Super Mario Land - Level End Fanfare",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "misc",
+    "retro"
+  ],
+  "description": "Level End Fanfare from Super Mario Land.",
+  "latest_version": "smwc-34362-1692935719",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34362,
+      "title": "Super Mario Land - Level End Fanfare",
+      "version": "smwc-34362-1692935719",
+      "upstream_time": 1692935719,
+      "download_url": "https://dl.smwcentral.net/34362/Super%20Mario%20Land%20-%20Level%20End%20Fanfare.zip",
+      "filename": "Super Mario Land - Level End Fanfare.zip",
+      "size": 32945,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

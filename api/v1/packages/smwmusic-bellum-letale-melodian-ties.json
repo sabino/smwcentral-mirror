@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-bellum-letale-melodian-ties",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8052,
+  "title": "Bellum Letale: Melodian Ties",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "cave",
+    "overworld"
+  ],
+  "description": "A custom track I composed for my secondary hack. Remixes a few of my older pieces in.",
+  "latest_version": "smwc-8052-1319819905",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8052,
+      "title": "Bellum Letale: Melodian Ties",
+      "version": "smwc-8052-1319819905",
+      "upstream_time": 1319819905,
+      "download_url": "https://dl.smwcentral.net/8052/blm.zip",
+      "filename": "blm.zip",
+      "size": 67600,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

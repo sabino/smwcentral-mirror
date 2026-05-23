@@ -1,0 +1,42 @@
+{
+  "name": "smwgraphics-classic-moon",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27198,
+  "title": "Classic Moon 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "space"
+  ],
+  "description": "This lunar tileset is compatible with FG palettes 3, 4, 5, and 7.  It even includes evil stars a la Super Mario Land 2's Space Zone.  They turn into coins with a Silver P-Switch.  If using both the stars and standard spikes in the same level, it's best to use a custom hurt block with the latter.",
+  "latest_version": "smwc-27198-1622861339",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27198,
+      "title": "Classic Moon 2021",
+      "version": "smwc-27198-1622861339",
+      "upstream_time": 1622861339,
+      "download_url": "https://dl.smwcentral.net/27198/ClassicMoon2021.zip",
+      "filename": "ClassicMoon2021.zip",
+      "size": 4358,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19747,
+      "title": "Classic Moon",
+      "version": "smwc-19747-1556586838",
+      "upstream_time": 1556586838,
+      "download_url": "https://dl.smwcentral.net/19747/ClassicMoon.zip",
+      "filename": "ClassicMoon.zip",
+      "size": 3551,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

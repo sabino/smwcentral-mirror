@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-true-golf-classics-waialae-country-club-snes-award",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41869,
+  "title": "True Golf Classics: Waialae Country Club (SNES) - Award",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "credits",
+    "cutscene"
+  ],
+  "description": "'Congratulations'<br>\r\nChampions/Award victory music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
+  "latest_version": "smwc-41869-1777744372",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41869,
+      "title": "True Golf Classics: Waialae Country Club (SNES) - Award",
+      "version": "smwc-41869-1777744372",
+      "upstream_time": 1777744372,
+      "download_url": "https://dl.smwcentral.net/41869/Waialae%20Country%20Club%20%28SNES%29%20-%20Award.zip",
+      "filename": "Waialae Country Club (SNES) - Award.zip",
+      "size": 55016,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

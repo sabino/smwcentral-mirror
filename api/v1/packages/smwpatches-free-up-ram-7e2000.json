@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-free-up-ram-7e2000",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32508,
+  "title": "Free up RAM $7E2000",
+  "authors": [
+    "p4plus2"
+  ],
+  "tags": [
+    "free ram",
+    "freeram",
+    "graphics",
+    "lorom",
+    "ram",
+    "sa-1"
+  ],
+  "description": "This patch frees up the RAM at $7E2000-$7EACFF by moving GFX32 and GFX33 to ROM and leaving them uncompressed.<br>\r\n<br>\r\nUpdate on 03/11/2022 by <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span><br>\r\n- Added an error for using Exanimation prior to inserting the patch<br>\r\n- Updated the patch with an edit by <span class=\"un-outer\" title=\"Kevin\"><a href=\"/?p=profile&amp;id=36308\" style=\"color: var(--user-color-2);\" class=\"un\">Kevin</a></span> to fix animation display in LM after insertion<br>\r\n- More tags",
+  "latest_version": "smwc-32508-1698587242",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32508,
+      "title": "Free up RAM $7E2000",
+      "version": "smwc-32508-1698587242",
+      "upstream_time": 1698587242,
+      "download_url": "https://dl.smwcentral.net/32508/7E2000%20free%20patch.zip",
+      "filename": "7E2000 free patch.zip",
+      "size": 20157,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-ii-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7589,
+  "title": "Final Fantasy II - Dungeon",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "cave",
+    "jungle",
+    "ruins"
+  ],
+  "description": "The song that plays <br>\r\n when you enter the cave. <br>\r\n Suitable for mysterious caves.",
+  "latest_version": "smwc-7589-1320051126",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7589,
+      "title": "Final Fantasy II - Dungeon",
+      "version": "smwc-7589-1320051126",
+      "upstream_time": 1320051126,
+      "download_url": "https://dl.smwcentral.net/7589/ff2jcave.zip",
+      "filename": "ff2jcave.zip",
+      "size": 67188,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tyrian-tyrian-the-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7670,
+  "title": "Tyrian - Tyrian, The Level",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "athletic",
+    "space"
+  ],
+  "description": "Works very well in various space levels, athletic, fast levels.<br>\r\n<br>\r\n<br>\r\nUpdate (01/11/20):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 47 bytes.",
+  "latest_version": "smwc-7670-1405798659",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7670,
+      "title": "Tyrian - Tyrian, The Level",
+      "version": "smwc-7670-1405798659",
+      "upstream_time": 1405798659,
+      "download_url": "https://dl.smwcentral.net/7670/Tyrian.%20The%20Level.zip",
+      "filename": "Tyrian. The Level.zip",
+      "size": 57241,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

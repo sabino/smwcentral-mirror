@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-romantic-children",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31969,
+  "title": "Touhou Kaikidan ~ Mystic Square - Romantic Children",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Romantic Children<br>\r\nStage 3 theme of Touhou Kaikidan<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-31969-1672513869",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31969,
+      "title": "Touhou Kaikidan ~ Mystic Square - Romantic Children",
+      "version": "smwc-31969-1672513869",
+      "upstream_time": 1672513869,
+      "download_url": "https://dl.smwcentral.net/31969/th5_06.zip",
+      "filename": "th5_06.zip",
+      "size": 32672,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19659,
+      "title": "Touhou Kaikidan ~ Mystic Square - Romantic Children",
+      "version": "smwc-19659-1555719266",
+      "upstream_time": 1555719266,
+      "download_url": "https://dl.smwcentral.net/19659/thp5-stage3.zip",
+      "filename": "thp5-stage3.zip",
+      "size": 33246,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

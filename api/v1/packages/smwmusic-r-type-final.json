@@ -1,0 +1,56 @@
+{
+  "name": "smwmusic-r-type-final",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34442,
+  "title": "R-Type Final 2: Breaking In - Stolen AI Laboratory",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "calm",
+    "cutscene",
+    "dark",
+    "final",
+    "night",
+    "sad",
+    "sky",
+    "space",
+    "tense"
+  ],
+  "description": "The song heard in the stage 3, where you search for the missing level textures. You fight against a big airship in the stage, and it clearly fits slow airship levels, with a bit of tense feeling. The second part also gets kinda upbeat and athletic.",
+  "latest_version": "smwc-34442-1696202490",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34442,
+      "title": "R-Type Final 2: Breaking In - Stolen AI Laboratory",
+      "version": "smwc-34442-1696202490",
+      "upstream_time": 1696202490,
+      "download_url": "https://dl.smwcentral.net/34442/stolenAILab.zip",
+      "filename": "stolenAILab.zip",
+      "size": 34523,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33036,
+      "title": "R-Type Final 2 - Final Point: Graveyard of Trans-dimensional Fighters",
+      "version": "smwc-33036-1682951440",
+      "upstream_time": 1682951440,
+      "download_url": "https://dl.smwcentral.net/33036/Final%20Point.zip",
+      "filename": "Final Point.zip",
+      "size": 22389,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-john-coltrane-naima",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22956,
+  "title": "John Coltrane - Naima",
+  "authors": [
+    "BoneFish"
+  ],
+  "tags": [
+    "overworld",
+    "space",
+    "water"
+  ],
+  "description": "A synth based arrangement of John Coltrane's ballad \"Naima\" from his 1960 album \"Giant Steps\".",
+  "latest_version": "smwc-22956-1590867946",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22956,
+      "title": "John Coltrane - Naima",
+      "version": "smwc-22956-1590867946",
+      "upstream_time": 1590867946,
+      "download_url": "https://dl.smwcentral.net/22956/Naima.zip",
+      "filename": "Naima.zip",
+      "size": 31535,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

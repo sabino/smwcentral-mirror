@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-cloud-timer-indication",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20697,
+  "title": "Cloud Timer Indication",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "cloud",
+    "lorom",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This patch adds indication to when lakitu's cloud is about to disappear, like in SMA2.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-20697-1563572730",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20697,
+      "title": "Cloud Timer Indication",
+      "version": "smwc-20697-1563572730",
+      "upstream_time": 1563572730,
+      "download_url": "https://dl.smwcentral.net/20697/CloudWarningPatch.zip",
+      "filename": "CloudWarningPatch.zip",
+      "size": 1075,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

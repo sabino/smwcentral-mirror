@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-tales-of-symphonia-the-struggle-to-survive",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25731,
+  "title": "Tales of Symphonia - The Struggle to Survive",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "fire",
+    "tense"
+  ],
+  "description": "The Struggle to Survive from Tales of Symphonia. Good for bosses and intense environments.",
+  "latest_version": "smwc-25731-1611518098",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25731,
+      "title": "Tales of Symphonia - The Struggle to Survive",
+      "version": "smwc-25731-1611518098",
+      "upstream_time": 1611518098,
+      "download_url": "https://dl.smwcentral.net/25731/tosstruggle.zip",
+      "filename": "tosstruggle.zip",
+      "size": 73119,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-spider-man-and-the-x-men-in-arcade-s-revenge-gambit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25998,
+  "title": "Spider-Man and the X-Men in Arcade's Revenge - Gambit",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "urban"
+  ],
+  "description": "One of Follin's best works on the SNES, this long track doesn't really fit into any level theme, but maybe it could work in an urban/athletic setting.<br>\r\nI tried my best to replicate everything, and considering the limitations of the N-SPC engine I think it turned out fairly accurate.<br>\r\n<br>\r\nNote: not compatible with thunder sfx/Blarggs or with the \"Bonus end\" global song.<br>\r\n<br>\r\nUpdate:<br>\r\n- Added sample group.<br>\r\n- Compiled with AMK 1.0.8, so the SPC doesn't have slowdown.<br>\r\n- Removed staccato in a bunch of places. Now the bass is <b><i>THICC</i></b> like in the original, but it also has a bit of noticeable clicking.<br>\r\n- Small edits/fixes.",
+  "latest_version": "smwc-25998-1614374683",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25998,
+      "title": "Spider-Man and the X-Men in Arcade's Revenge - Gambit",
+      "version": "smwc-25998-1614374683",
+      "upstream_time": 1614374683,
+      "download_url": "https://dl.smwcentral.net/25998/04%20Gambit.zip",
+      "filename": "04 Gambit.zip",
+      "size": 111023,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

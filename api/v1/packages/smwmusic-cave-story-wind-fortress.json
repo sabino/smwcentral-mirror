@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-cave-story-wind-fortress",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15754,
+  "title": "Cave Story - Wind Fortress",
+  "authors": [
+    "Taffy"
+  ],
+  "tags": [
+    "sky"
+  ],
+  "description": "One of the beta songs from Cave Story.<br>\r\n<br>\r\nYou never hear this in the original PC Cave Story (nor is it actually in the game's resources), but on the 3DS eShop version and the Plus version avalible on Steam, you hear this song in the Wind Fortress challenge.<br>\r\n<br>\r\nIt would totally work with a sky-themed level or the underside of floating island.<br>\r\n<br>\r\nMay also work for a level built into the side of a high canyon or cliff.<br>\r\n<br>\r\n<br>\r\nIt always feels good to be in the credits of something, but just knowing I contributed is enough to make me content.<br>\r\n(Credit not required but welcome)",
+  "latest_version": "smwc-15754-1499765625",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15754,
+      "title": "Cave Story - Wind Fortress",
+      "version": "smwc-15754-1499765625",
+      "upstream_time": 1499765625,
+      "download_url": "https://dl.smwcentral.net/15754/kaze.zip",
+      "filename": "kaze.zip",
+      "size": 31916,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

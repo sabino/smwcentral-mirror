@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-velduxia-el-cometa",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7850,
+  "title": "Velduxia - El Cometa",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "athletic",
+    "boss"
+  ],
+  "description": "A bit on the repetitive side, but has an interesting sound to it. May suit several level types.",
+  "latest_version": "smwc-7850-1319962953",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7850,
+      "title": "Velduxia - El Cometa",
+      "version": "smwc-7850-1319962953",
+      "upstream_time": 1319962953,
+      "download_url": "https://dl.smwcentral.net/7850/Velduxia%20-%20El%20Cometa.zip",
+      "filename": "Velduxia - El Cometa.zip",
+      "size": 72345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

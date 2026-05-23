@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-kottpower-alternate-red-brinstar",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35570,
+  "title": "Kottpower - Alternate Red Brinstar",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "mysterious",
+    "night",
+    "sky",
+    "water"
+  ],
+  "description": "A challenge submission for Super Famicompo 5 which ranked 16 and ultimately ended up mostly using SMW samples save for three.<br>\r\n<br>\r\nAn aetherial track composed by kottpower, intended as an alternative version for Super Metroid's Red Brinstar (even though it fits Maridia more IMO) and used in various Super Metroid hacks like Contamination and Arcade.<br>\r\n<br>\r\nThis version isn't based of Metaquarius's port but instead is based of the original MIDI and kott's <a href=\"https://www.youtube.com/watch?v=jJXChDw1LsY\" rel=\"nofollow\">original composition</a> with my own twists.",
+  "latest_version": "smwc-35570-1702056406",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35570,
+      "title": "Kottpower - Alternate Red Brinstar",
+      "version": "smwc-35570-1702056406",
+      "upstream_time": 1702056406,
+      "download_url": "https://dl.smwcentral.net/35570/Alternate%20Red%20Brinstar%20SDK.zip",
+      "filename": "Alternate Red Brinstar SDK.zip",
+      "size": 51513,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-spittin-rex",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39736,
+  "title": "Spittin' Rex",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "birdo",
+    "enemy",
+    "lorom",
+    "projectile",
+    "rex",
+    "sa-1"
+  ],
+  "description": "This Rex spits out sprites. Includes Birdo's egg and fireball so it can act like a rex-birdo mashup.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"AmperSam\"><span title=\"Administrator\" class=\"icon icon-admin\"></span><a href=\"/?p=profile&amp;id=41223\" style=\"color: #ee0066;\" class=\"un\">AmperSam</a></span>.",
+  "latest_version": "smwc-39736-1763220049",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39736,
+      "title": "Spittin' Rex",
+      "version": "smwc-39736-1763220049",
+      "upstream_time": 1763220049,
+      "download_url": "https://dl.smwcentral.net/39736/Spittin%20Rex.zip",
+      "filename": "Spittin Rex.zip",
+      "size": 11758,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-sticky-ceiling",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 14496,
+  "title": "Sticky Ceiling",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "ceiling",
+    "lorom",
+    "sa-1",
+    "sticky"
+  ],
+  "description": "A ceiling that the player will stick to when going upwards and holding a Jump button. <br>\r\n<br>\r\nEnemies will also stick to the ceiling as long as they have upwards vertical speed. Sprites in \"Stunned\" or \"Thrown\" state will stick to the ceiling until they either move away from it, or the player grabs it.<br>\r\n<br>\r\nWhen going downwards, the player and any sprite will just fall through.<br>\r\n<br>\r\nRepresented by Yellow Glass in the gif set.",
+  "latest_version": "smwc-14496-1476496336",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 14496,
+      "title": "Sticky Ceiling",
+      "version": "smwc-14496-1476496336",
+      "upstream_time": 1476496336,
+      "download_url": "https://dl.smwcentral.net/14496/stickyceiling.zip",
+      "filename": "stickyceiling.zip",
+      "size": 1728,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

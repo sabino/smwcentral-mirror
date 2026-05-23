@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-rockfish-unreleased-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22027,
+  "title": "Rockfish (Unreleased) - Boss",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "chase",
+    "cutscene",
+    "retro"
+  ],
+  "description": "Accurate port of a game of Studio Pixel (the guy who made Cave Story and Ikachan) that was in development for the IOS on his Devlogs, and eventually got unreleased. This game has later reworked to become Gero Blaster, and finally Kero Blaster.<br>\r\nAlso manually programed the samples, using only the filter 0, for better accuracy.",
+  "latest_version": "smwc-22027-1581717538",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22027,
+      "title": "Rockfish (Unreleased) - Boss",
+      "version": "smwc-22027-1581717538",
+      "upstream_time": 1581717538,
+      "download_url": "https://dl.smwcentral.net/22027/Rockfish%20-%20Boss.zip",
+      "filename": "Rockfish - Boss.zip",
+      "size": 37607,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

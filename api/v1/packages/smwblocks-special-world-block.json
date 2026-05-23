@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-special-world-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4039,
+  "title": "Special World Block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "color",
+    "colors",
+    "lorom",
+    "overworld",
+    "special world"
+  ],
+  "description": "This block, when hit from below by Mario, will activate the special world flag changing the OW colours and such. It also plays sound effects and can be reverted to normal if it's hit again.",
+  "latest_version": "smwc-4039-1426735310",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4039,
+      "title": "Special World Block",
+      "version": "smwc-4039-1426735310",
+      "upstream_time": 1426735310,
+      "download_url": "https://dl.smwcentral.net/4039/OWcolours.zip",
+      "filename": "OWcolours.zip",
+      "size": 1117,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-make-red-vertical-parakoopas-always-face-mario",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40027,
+  "title": "Make Red Vertical Parakoopas Always Face Mario",
+  "authors": [
+    "Anonymous"
+  ],
+  "tags": [
+    "direction",
+    "lorom",
+    "parakoopa",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch makes the vertical red Parakoopas stop turning left and right when they go all the way down or up like in most 2D Super Mario games. Instead, they'll face Mario.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"CalHal\"><a href=\"/?p=profile&amp;id=33725\" style=\"color: var(--user-color-1);\" class=\"un\">CalHal</a></span>.",
+  "latest_version": "smwc-40027-1755964197",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40027,
+      "title": "Make Red Vertical Parakoopas Always Face Mario",
+      "version": "smwc-40027-1755964197",
+      "upstream_time": 1755964197,
+      "download_url": "https://dl.smwcentral.net/40027/red_parakoopa_direction.zip",
+      "filename": "red_parakoopa_direction.zip",
+      "size": 550,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

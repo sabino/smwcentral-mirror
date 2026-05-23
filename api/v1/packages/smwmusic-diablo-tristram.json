@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-diablo-tristram",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37995,
+  "title": "Diablo - Tristram",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "forest",
+    "mysterious",
+    "overworld"
+  ],
+  "description": "First 4 minutes of the iconic Tristram song of Diablo.<br>\r\nThis port was made mainly with the overworld in mind. As not the entirety of the song was ported, the song does not loop well. It is therefore not recommended to use in levels.",
+  "latest_version": "smwc-37995-1726080067",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37995,
+      "title": "Diablo - Tristram",
+      "version": "smwc-37995-1726080067",
+      "upstream_time": 1726080067,
+      "download_url": "https://dl.smwcentral.net/37995/tristram.zip",
+      "filename": "tristram.zip",
+      "size": 94875,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

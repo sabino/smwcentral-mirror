@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-epic-sax-guy-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7804,
+  "title": "Epic Sax Guy (Arrangement)",
+  "authors": [
+    "Airbourne Bubblun"
+  ],
+  "tags": [
+    "bonus",
+    "overworld"
+  ],
+  "description": "This is the recent internet meme, Epic Sax Guy, ported to SMW, Vanilla. It can get dangerously repetitive, though, so don't use it in long levels!",
+  "latest_version": "smwc-7804-1314204289",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7804,
+      "title": "Epic Sax Guy (Arrangement)",
+      "version": "smwc-7804-1314204289",
+      "upstream_time": 1314204289,
+      "download_url": "https://dl.smwcentral.net/7804/Epic%20Sax%20Guy%20Vanilla%20Port.zip",
+      "filename": "Epic Sax Guy Vanilla Port.zip",
+      "size": 66635,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

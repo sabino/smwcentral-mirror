@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-p-switch-solid-directional-coins",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 29801,
+  "title": "P-Switch Solid Directional Coins",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "directional coins",
+    "lorom",
+    "p-switch",
+    "sa-1",
+    "solid"
+  ],
+  "description": "This patch fixes an \"oversight\" (more likely a lazy design choice) where the leading coin of the Directional Coins sprite will not become solid when the blue P-Switch is active - sometimes resulting in the player getting crushed as the sprite generates a solid tile, or pushed out from the blocks when moving up. The patch makes the leading coin act solid when the P-Switch is active, allowing the player to ride the block and preventing them from getting crushed.",
+  "latest_version": "smwc-29801-1654784173",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 29801,
+      "title": "P-Switch Solid Directional Coins",
+      "version": "smwc-29801-1654784173",
+      "upstream_time": 1654784173,
+      "download_url": "https://dl.smwcentral.net/29801/SolidDirCoins.zip",
+      "filename": "SolidDirCoins.zip",
+      "size": 791,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-golf-boo-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7468,
+  "title": "Mario Golf - Boo Valley",
+  "authors": [
+    "spigmike"
+  ],
+  "tags": [
+    "calm",
+    "grassland"
+  ],
+  "description": "Nice calm and relaxing theme from Mario Golf.",
+  "latest_version": "smwc-7468-1311934285",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7468,
+      "title": "Mario Golf - Boo Valley",
+      "version": "smwc-7468-1311934285",
+      "upstream_time": 1311934285,
+      "download_url": "https://dl.smwcentral.net/7468/Mario%20Golf%20-%20Boo%20Valley.zip",
+      "filename": "Mario Golf - Boo Valley.zip",
+      "size": 68058,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

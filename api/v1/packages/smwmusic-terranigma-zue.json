@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-terranigma-zue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28727,
+  "title": "Terranigma - Zue",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "forest",
+    "jungle",
+    "mountain"
+  ],
+  "description": "Probably best suited for a jungle or savanna.",
+  "latest_version": "smwc-28727-1640461988",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28727,
+      "title": "Terranigma - Zue",
+      "version": "smwc-28727-1640461988",
+      "upstream_time": 1640461988,
+      "download_url": "https://dl.smwcentral.net/28727/Zue_.zip",
+      "filename": "Zue_.zip",
+      "size": 68224,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-thwomp-ceiling-interaction",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18715,
+  "title": "Thwomp Ceiling Interaction",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "ceiling",
+    "lorom",
+    "sa-1",
+    "thwomp"
+  ],
+  "description": "This patch adds ceiling interaction to thwomps, so they stop raising if they hit it.<br>\r\nCredit is optional. Requested by hash.",
+  "latest_version": "smwc-18715-1545709927",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18715,
+      "title": "Thwomp Ceiling Interaction",
+      "version": "smwc-18715-1545709927",
+      "upstream_time": 1545709927,
+      "download_url": "https://dl.smwcentral.net/18715/ThwompCeiling.zip",
+      "filename": "ThwompCeiling.zip",
+      "size": 674,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

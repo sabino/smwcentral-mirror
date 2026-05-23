@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-the-amazing-mirror-cabbage-cavern",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25258,
+  "title": "Kirby & The Amazing Mirror - Cabbage Cavern",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave",
+    "forest",
+    "grassland",
+    "mountain"
+  ],
+  "description": "SNES Arrangement of Cabbage Cavern from Kirby and the Amazing Mirror on the Game Boy Advance. Could be used in a caverns level as the song title suggests, but I also think it could fit in a forest setting as well.",
+  "latest_version": "smwc-25258-1607466360",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25258,
+      "title": "Kirby & The Amazing Mirror - Cabbage Cavern",
+      "version": "smwc-25258-1607466360",
+      "upstream_time": 1607466360,
+      "download_url": "https://dl.smwcentral.net/25258/Kirby%20and%20the%20Amazing%20Mirror%20-%20Cabbage%20Cavern.zip",
+      "filename": "Kirby and the Amazing Mirror - Cabbage Cavern.zip",
+      "size": 82410,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ristar-round-5",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32456,
+  "title": "Ristar - Round 5-1 ~ Ring Rink",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "ice",
+    "mountain",
+    "snow"
+  ],
+  "description": "a good soundtrack for ice and snow levels. it was different from the original, because I cut some parts of the song to fit the SMW, and the mix is ​​different.it suffers a small slowdown in point where @36 starts, I haven't been able to solve it yet",
+  "latest_version": "smwc-32456-1675565389",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32456,
+      "title": "Ristar - Round 5-1 ~ Ring Rink",
+      "version": "smwc-32456-1675565389",
+      "upstream_time": 1675565389,
+      "download_url": "https://dl.smwcentral.net/32456/Ring%20Rink.zip",
+      "filename": "Ring Rink.zip",
+      "size": 27094,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

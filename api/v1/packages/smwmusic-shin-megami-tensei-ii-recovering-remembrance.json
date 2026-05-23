@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-recovering-remembrance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37264,
+  "title": "Shin Megami Tensei II - Recovering Remembrance",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "cutscene",
+    "spooky"
+  ],
+  "description": "Plays during some cutscene‘s of the main character. Also known as 'Dimensional Portal‘ in SMT if…",
+  "latest_version": "smwc-37264-1713581093",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37264,
+      "title": "Shin Megami Tensei II - Recovering Remembrance",
+      "version": "smwc-37264-1713581093",
+      "upstream_time": 1713581093,
+      "download_url": "https://dl.smwcentral.net/37264/SMT2%20Recovering%20Remembrance.zip",
+      "filename": "SMT2 Recovering Remembrance.zip",
+      "size": 48822,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

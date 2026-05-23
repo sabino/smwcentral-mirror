@@ -1,0 +1,33 @@
+{
+  "name": "uberasm-trigger-cutscene-on-level-end",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40739,
+  "title": "Trigger Cutscene on Level End",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This code allows you to have a vanilla cutscene (including credits) after getting a goal post/orb level clear, rather than having to use a boss. You can choose which cutscene in the asm file. Note that it doesn't work for keyholes and secret exit goal tapes.",
+  "latest_version": "smwc-40739-1759760442",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40739,
+      "title": "Trigger Cutscene on Level End",
+      "version": "smwc-40739-1759760442",
+      "upstream_time": 1759760442,
+      "download_url": "https://dl.smwcentral.net/40739/level_end_cutscene_V2.zip",
+      "filename": "level_end_cutscene_V2.zip",
+      "size": 697,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

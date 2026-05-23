@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-alcahest-alcahest-god-of-death",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25825,
+  "title": "Alcahest - Alcahest ~ God of Death",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Could fit as a final boss theme.",
+  "latest_version": "smwc-25825-1612299018",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25825,
+      "title": "Alcahest - Alcahest ~ God of Death",
+      "version": "smwc-25825-1612299018",
+      "upstream_time": 1612299018,
+      "download_url": "https://dl.smwcentral.net/25825/Alcahest%20-%2023%20Alcahest%20~%20God%20of%20Death.zip",
+      "filename": "Alcahest - 23 Alcahest ~ God of Death.zip",
+      "size": 59769,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22774,
+      "title": "Alcahest - Alcahest ~ God of Death",
+      "version": "smwc-22774-1587761094",
+      "upstream_time": 1587761094,
+      "download_url": "https://dl.smwcentral.net/22774/23%20Alcahest%20~%20God%20of%20Death%20%28unsampled%29.zip",
+      "filename": "23 Alcahest ~ God of Death (unsampled).zip",
+      "size": 36436,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

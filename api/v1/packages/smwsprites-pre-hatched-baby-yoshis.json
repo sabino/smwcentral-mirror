@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pre-hatched-baby-yoshis",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36846,
+  "title": "Pre-hatched Baby Yoshis",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "These are Red, Blue, and Yellow Baby Yoshis that appear directly without hatching from an egg, much like the standard Green Baby Yoshi.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36846-1720988288",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36846,
+      "title": "Pre-hatched Baby Yoshis",
+      "version": "smwc-36846-1720988288",
+      "upstream_time": 1720988288,
+      "download_url": "https://dl.smwcentral.net/36846/Baby%20Yoshis.zip",
+      "filename": "Baby Yoshis.zip",
+      "size": 549,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

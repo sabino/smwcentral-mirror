@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-custom-scale-platform-disassembly",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25239,
+  "title": "Custom Scale Platform + Disassembly",
+  "authors": [
+    "MarkAlarm"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This is a customizable version of the scale platform sprite, along with an unmodified disassembly of the original sprite that is now SA-1 compatible. Credit is unnecessary.<br>\r\n<br>\r\nWith this, you're able to customize things such as the distance between platforms, the rise/fall speeds, and the tiles that the sprite generates. It makes use of three extra bytes in order to pull this off. Check the .asm file for more details, since it documents these things in a bit more depth.<br>\r\n<br>\r\nAs for the disassembly, it acts just as the original sprite does, so the X position will still determine whether the distance between platforms is long or short. This may be altered in a future update to use the extra bit instead, but for now it is based on position.",
+  "latest_version": "smwc-25239-1607733977",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25239,
+      "title": "Custom Scale Platform + Disassembly",
+      "version": "smwc-25239-1607733977",
+      "upstream_time": 1607733977,
+      "download_url": "https://dl.smwcentral.net/25239/Custom%20Scale%20Platform%20%2B%20Disassembly.zip",
+      "filename": "Custom Scale Platform + Disassembly.zip",
+      "size": 7095,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-looping-eerie",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19383,
+  "title": "Looping Eerie",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "wrap"
+  ],
+  "description": "This eerie will loop/wrap around the screen once it reaches its border. Extra bit controls the movement pattern.<br>\r\n<br>\r\nMod update 2023-3-27: Fixed a couple incorrect SA-1 conversions.",
+  "latest_version": "smwc-19383-1552955299",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19383,
+      "title": "Looping Eerie",
+      "version": "smwc-19383-1552955299",
+      "upstream_time": 1552955299,
+      "download_url": "https://dl.smwcentral.net/19383/Looping%20Eerie.zip",
+      "filename": "Looping Eerie.zip",
+      "size": 1174,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

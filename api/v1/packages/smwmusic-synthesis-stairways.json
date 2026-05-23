@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-synthesis-stairways",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8010,
+  "title": "Synthesis - Stairways",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "retro",
+    "space",
+    "water"
+  ],
+  "description": "A spacey sounding custom composition.",
+  "latest_version": "smwc-8010-1314320426",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8010,
+      "title": "Synthesis - Stairways",
+      "version": "smwc-8010-1314320426",
+      "upstream_time": 1314320426,
+      "download_url": "https://dl.smwcentral.net/8010/Synthesis%203%20-%20Stairways.zip",
+      "filename": "Synthesis 3 - Stairways.zip",
+      "size": 66667,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

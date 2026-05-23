@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-bumpty",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 27639,
+  "title": "Bumpty",
+  "authors": [
+    "Romi"
+  ],
+  "tags": [
+    "bouncy",
+    "ice",
+    "lorom",
+    "penguin",
+    "sa-1",
+    "smw2",
+    "yoshi's island"
+  ],
+  "description": "The penguin from SMW2:YI. When touched, Bumpty will bump the player.<br>\r\n<br>\r\nThis sprite was part of Romi's Sprite Package, and was resubmitted separately after the remoderation for ease of search and to fit current standards.<br>\r\n<br>\r\nDarolac's edit: changed the order of a LDX and changed a bit a properties table to fix a lot of graphical bugs with the hand and leg tiles.",
+  "latest_version": "smwc-27639-1638671303",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 27639,
+      "title": "Bumpty",
+      "version": "smwc-27639-1638671303",
+      "upstream_time": 1638671303,
+      "download_url": "https://dl.smwcentral.net/27639/bumpty.zip",
+      "filename": "bumpty.zip",
+      "size": 4814,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ice-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8166,
+  "title": "Ice Map",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "overworld"
+  ],
+  "description": "A custom composition that fits a cave/ice cave.<br>\r\n<br>\r\n<br>\r\nUpdate (11/10/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.",
+  "latest_version": "smwc-8166-1314318532",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8166,
+      "title": "Ice Map",
+      "version": "smwc-8166-1314318532",
+      "upstream_time": 1314318532,
+      "download_url": "https://dl.smwcentral.net/8166/Ice.Map.zip",
+      "filename": "Ice.Map.zip",
+      "size": 49695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

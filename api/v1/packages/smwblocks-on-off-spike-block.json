@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-on-off-spike-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4014,
+  "title": "ON/OFF Spike Block",
+  "authors": [
+    "Shog"
+  ],
+  "tags": [
+    "hurt mario",
+    "lorom",
+    "on-off",
+    "on-off block",
+    "spike"
+  ],
+  "description": "This block has either a spiky top or bottom, depending in which state the \"ON/OFF switch\" is.<br>\r\nIt can be reversed,too. Now, when it's \"ON\", the top is spiky and the bottom is flat. When it's \"OFF\", the opposite applies.<br>\r\nCheck the block for reversing the effect.",
+  "latest_version": "smwc-4014-1426198986",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4014,
+      "title": "ON/OFF Spike Block",
+      "version": "smwc-4014-1426198986",
+      "upstream_time": 1426198986,
+      "download_url": "https://dl.smwcentral.net/4014/BlockspikeX.zip",
+      "filename": "BlockspikeX.zip",
+      "size": 659,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

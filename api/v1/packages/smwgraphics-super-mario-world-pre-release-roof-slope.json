@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-roof-slope",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25237,
+  "title": "Super Mario World (Pre-release) - 'Roof Slope'",
+  "authors": [
+    "nnj"
+  ],
+  "tags": [
+    "bonus",
+    "needs remoderation"
+  ],
+  "description": "An early foreground tileset found in the Super Mario World prototype leaks. According to tcrf.net, this one is known as 'Yane Saka', which roughly translates to 'roof slope'. Dated 24 October 1989 15:23.<br>\r\n<br>\r\nIt's a weird looking one for sure. I used its intended colors, but you probably will want to change the red to a green or something.",
+  "latest_version": "smwc-25237-1606099492",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25237,
+      "title": "Super Mario World (Pre-release) - 'Roof Slope'",
+      "version": "smwc-25237-1606099492",
+      "upstream_time": 1606099492,
+      "download_url": "https://dl.smwcentral.net/25237/proto_terrain.zip",
+      "filename": "proto_terrain.zip",
+      "size": 3947,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

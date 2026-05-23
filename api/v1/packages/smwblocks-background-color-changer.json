@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-background-color-changer",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21198,
+  "title": "Background Color Changer",
+  "authors": [
+    "7601"
+  ],
+  "tags": [
+    "background",
+    "color",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block changes the background color.",
+  "latest_version": "smwc-21198-1569187227",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21198,
+      "title": "Background Color Changer",
+      "version": "smwc-21198-1569187227",
+      "upstream_time": 1569187227,
+      "download_url": "https://dl.smwcentral.net/21198/bgcolor.zip",
+      "filename": "bgcolor.zip",
+      "size": 326,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

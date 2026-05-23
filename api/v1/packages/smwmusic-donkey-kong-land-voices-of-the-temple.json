@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-donkey-kong-land-voices-of-the-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21876,
+  "title": "Donkey Kong Land - Voices of the Temple",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "dark",
+    "night",
+    "ruins",
+    "temple"
+  ],
+  "description": "This is personally one of the best tracks from DKL, of which I decided to create my own sampled remix. Good for ruins/temples/caves.",
+  "latest_version": "smwc-21876-1578450822",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21876,
+      "title": "Donkey Kong Land - Voices of the Temple",
+      "version": "smwc-21876-1578450822",
+      "upstream_time": 1578450822,
+      "download_url": "https://dl.smwcentral.net/21876/Donkey%20Kong%20Land%20-%20Voices%20of%20the%20Temple.zip",
+      "filename": "Donkey Kong Land - Voices of the Temple.zip",
+      "size": 56588,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8263,
+      "title": "Donkey Kong Land - Voices of the Temple (16-bit Remix)",
+      "version": "smwc-8263-1343860098",
+      "upstream_time": 1343860098,
+      "download_url": "https://dl.smwcentral.net/8263/Donkey%20Kong%20Land%20-%20Voices%20of%20the%20Temple%20%2816-bit%20remix%29.zip",
+      "filename": "Donkey Kong Land - Voices of the Temple (16-bit remix).zip",
+      "size": 69013,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

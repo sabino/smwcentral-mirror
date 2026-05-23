@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-horizontal-speed-limit",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 17556,
+  "title": "Horizontal Speed Limit",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1",
+    "speed",
+    "super fx"
+  ],
+  "description": "Makes it so player can run only at certain speed, similar to Iceguy's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12451\">patch</a>.<br>\r\nMaximum speed values can be configured through ASM.<br>\r\nCredit is unecessary.",
+  "latest_version": "smwc-17556-1526840678",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 17556,
+      "title": "Horizontal Speed Limit",
+      "version": "smwc-17556-1526840678",
+      "upstream_time": 1526840678,
+      "download_url": "https://dl.smwcentral.net/17556/X%20speed%20limit.zip",
+      "filename": "X speed limit.zip",
+      "size": 465,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

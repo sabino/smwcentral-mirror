@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-smb3-koopa-patch-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 15283,
+  "title": "SMB3 Koopa Patch v2.0",
+  "authors": [
+    "Major Flare",
+    "Mattrizzle"
+  ],
+  "tags": [
+    "koopas",
+    "lorom",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "This patch prevents the Koopas from getting out of their shells when being jumped on or after being stunned. Yellow Koopas become flashing shells after being stunned, but this can be changed easily. Original code by Mattrizzle, conversion by Roy.<br>\r\n<br>\r\n*Update: Added a Koopa 'turning around' frame disabler, as SMB3 Koopas didn't have it. Also, converted the patch to be user, asar and SA-1 friendly.",
+  "latest_version": "smwc-15283-1489277724",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 15283,
+      "title": "SMB3 Koopa Patch v2.0",
+      "version": "smwc-15283-1489277724",
+      "upstream_time": 1489277724,
+      "download_url": "https://dl.smwcentral.net/15283/SMB3Koopas.zip",
+      "filename": "SMB3Koopas.zip",
+      "size": 1630,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

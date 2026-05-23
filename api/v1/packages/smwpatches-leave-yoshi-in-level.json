@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-leave-yoshi-in-level",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18055,
+  "title": "Leave Yoshi in Level",
+  "authors": [
+    "JackTheSpades",
+    "Katrina"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "Leaves Yoshi after passing the goal tape. In case of key-keyhole or start-select exit, Yoshi just disappears.<br>\r\n<br>\r\nTake some care when setting up your goal sequences with this patch - if you have weird stuff after the goal, Mario might land back on Yoshi, which doesn't break anything but can look quite silly since he tries to jump off again.<br>\r\n<br>\r\nNow doesn't crash when used with AddMusicK, although if you are using AddMusicK you should still open the ASM file and change \"!IrisOut = $11\" to \"!IrisOut = $08\" to fix the zoom sound effect.<br>\r\n<br>\r\nThis version fixes a bug where, under certain circumstances, the player would jump even without Yoshi.",
+  "latest_version": "smwc-18055-1535749122",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18055,
+      "title": "Leave Yoshi in Level",
+      "version": "smwc-18055-1535749122",
+      "upstream_time": 1535749122,
+      "download_url": "https://dl.smwcentral.net/18055/LeaveYoshi.zip",
+      "filename": "LeaveYoshi.zip",
+      "size": 1202,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

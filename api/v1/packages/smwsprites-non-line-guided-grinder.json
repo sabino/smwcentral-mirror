@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-non-line-guided-grinder",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3323,
+  "title": "Non-Line Guided Grinder",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "grinder",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Disassembly of sprite B4, the non-line grounded Grinder, commented on and ready to be inserted with PIXI.<br>\r\n<br>\r\nSome stuff such as the X speeds and sound to produce is customisable.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3323-1253888136",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3323,
+      "title": "Non-Line Guided Grinder",
+      "version": "smwc-3323-1253888136",
+      "upstream_time": 1253888136,
+      "download_url": "https://dl.smwcentral.net/3323/ngrinder.zip",
+      "filename": "ngrinder.zip",
+      "size": 2076,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-fatal-chase",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7420,
+  "title": "Fatal Chase",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "athletic",
+    "final"
+  ],
+  "description": "An energetic theme that could fit in long, dangerous levels",
+  "latest_version": "smwc-7420-1311888276",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7420,
+      "title": "Fatal Chase",
+      "version": "smwc-7420-1311888276",
+      "upstream_time": 1311888276,
+      "download_url": "https://dl.smwcentral.net/7420/Fatal%20Chase.zip",
+      "filename": "Fatal Chase.zip",
+      "size": 68790,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

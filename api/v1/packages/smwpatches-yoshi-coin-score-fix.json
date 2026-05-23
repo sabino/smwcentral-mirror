@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-yoshi-coin-score-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18592,
+  "title": "Yoshi Coin Score Fix",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "dragon coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes a bug where collecting 247 Yoshi Coins cause them to give you incorrect score values, starting from nothing, 10, 20, 40 and etc. points.<br>\r\n<br>\r\nThis also fixes yoshi coins appearing on status bar again after overflow.<br>\r\n<br>\r\nCredit is unnecessary. ",
+  "latest_version": "smwc-18592-1544571005",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18592,
+      "title": "Yoshi Coin Score Fix",
+      "version": "smwc-18592-1544571005",
+      "upstream_time": 1544571005,
+      "download_url": "https://dl.smwcentral.net/18592/FixYC.zip",
+      "filename": "FixYC.zip",
+      "size": 730,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

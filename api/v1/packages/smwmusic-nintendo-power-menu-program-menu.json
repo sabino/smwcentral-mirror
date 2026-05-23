@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-nintendo-power-menu-program-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32103,
+  "title": "Nintendo Power Menu Program - Menu",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "credits",
+    "retro",
+    "title"
+  ],
+  "description": "The menu music from the Nintendo Power Menu Program.",
+  "latest_version": "smwc-32103-1674934520",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32103,
+      "title": "Nintendo Power Menu Program - Menu",
+      "version": "smwc-32103-1674934520",
+      "upstream_time": 1674934520,
+      "download_url": "https://dl.smwcentral.net/32103/NinPowMenu.zip",
+      "filename": "NinPowMenu.zip",
+      "size": 46044,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-chrono-trigger-delightful-spekkio",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21744,
+  "title": "Chrono Trigger - Delightful Spekkio",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "carnival",
+    "grassland",
+    "sky"
+  ],
+  "description": "The song that plays during the fight with Spekkio, it could fit calm or cheerful areas.<br>\r\n<br>\r\nNote: not compatible with thunder sfx/Blarggs.",
+  "latest_version": "smwc-21744-1578446027",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21744,
+      "title": "Chrono Trigger - Delightful Spekkio",
+      "version": "smwc-21744-1578446027",
+      "upstream_time": 1578446027,
+      "download_url": "https://dl.smwcentral.net/21744/214%20Delightful%20Spekkio.zip",
+      "filename": "214 Delightful Spekkio.zip",
+      "size": 62435,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

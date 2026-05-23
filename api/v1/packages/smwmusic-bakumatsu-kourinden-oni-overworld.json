@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bakumatsu-kourinden-oni-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33189,
+  "title": "Bakumatsu Kourinden Oni - Overworld",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "sky"
+  ],
+  "description": "The overworld theme of the game.",
+  "latest_version": "smwc-33189-1678002576",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33189,
+      "title": "Bakumatsu Kourinden Oni - Overworld",
+      "version": "smwc-33189-1678002576",
+      "upstream_time": 1678002576,
+      "download_url": "https://dl.smwcentral.net/33189/BakumatsuOverworld.zip",
+      "filename": "BakumatsuOverworld.zip",
+      "size": 69535,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

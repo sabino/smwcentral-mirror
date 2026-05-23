@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-kart-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8085,
+  "title": "Super Mario Kart - Title Screen",
+  "authors": [
+    "Masashi27"
+  ],
+  "tags": [
+    "title"
+  ],
+  "description": "The title screen theme of Super Mario Kart. This could suit level C7 well.<br>\r\n<br>\r\n<br>\r\nUpdate (11/03/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 132 bytes.",
+  "latest_version": "smwc-8085-1319952765",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8085,
+      "title": "Super Mario Kart - Title Screen",
+      "version": "smwc-8085-1319952765",
+      "upstream_time": 1319952765,
+      "download_url": "https://dl.smwcentral.net/8085/Super%20Mario.Kart%20-%20Title%20Screen.zip",
+      "filename": "Super Mario.Kart - Title Screen.zip",
+      "size": 56519,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

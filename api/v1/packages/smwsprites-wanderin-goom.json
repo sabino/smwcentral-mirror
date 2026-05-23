@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-wanderin-goom",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3258,
+  "title": "Wanderin' Goom",
+  "authors": [
+    "ghettoyouth"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "wario land"
+  ],
+  "description": "Enclosed is Wonderin' Gooms from Wario Land 1.<br>\r\n<br>\r\nWanderin' Goom:<br>\r\nA small guy who looks like a cat. Takes 2 hits to kill. Shoots fire when extra bit is set (it's beta stuff from WL).<br>\r\n<br>\r\nExGFX included.",
+  "latest_version": "smwc-3258-1205202990",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3258,
+      "title": "Wanderin' Goom",
+      "version": "smwc-3258-1205202990",
+      "upstream_time": 1205202990,
+      "download_url": "https://dl.smwcentral.net/3258/Wario%20Land%201%20-%20Wandering%20Goom.zip",
+      "filename": "Wario Land 1 - Wandering Goom.zip",
+      "size": 5428,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

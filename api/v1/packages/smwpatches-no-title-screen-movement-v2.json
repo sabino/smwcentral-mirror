@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-no-title-screen-movement-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14901,
+  "title": "No Title Screen Movement v2.0",
+  "authors": [
+    "Arinsu",
+    "DiscoTheBat"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "title screen"
+  ],
+  "description": "This patch sets the same address located in ROM Map but instead of just setting these addresses, it will delete the original movement data, freeing up 69 bytes of ROM.<br>\r\n<br>\r\nAlso, there is an REVERT if someone wants to use the original movement only.<br>\r\n<br>\r\nv2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Now can nuke LM's title screen recording data.",
+  "latest_version": "smwc-14901-1484703206",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14901,
+      "title": "No Title Screen Movement v2.0",
+      "version": "smwc-14901-1484703206",
+      "upstream_time": 1484703206,
+      "download_url": "https://dl.smwcentral.net/14901/NoScreenMovement.zip",
+      "filename": "NoScreenMovement.zip",
+      "size": 991,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

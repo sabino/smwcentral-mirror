@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-bakumatsu-kourinden-oni-battle-against-the-san-hakase",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33194,
+  "title": "Bakumatsu Kourinden Oni - Battle against the San-Hakase",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "The San-Hakase (三博士) are 3 powerful beings that you have to defeat before you get to the final boss fight. There are 2 versions of this boss fight music, this one is used for 2 of the 3 San-Hakase (Alva and Tesla), the second version is used for the leader (Raihi).<br>\r\n<br>\r\nThe versions differ only from their intro and maybe I will port the other version in the future.",
+  "latest_version": "smwc-33194-1678519377",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33194,
+      "title": "Bakumatsu Kourinden Oni - Battle against the San-Hakase",
+      "version": "smwc-33194-1678519377",
+      "upstream_time": 1678519377,
+      "download_url": "https://dl.smwcentral.net/33194/BakumatsuSanhakaseBattle.zip",
+      "filename": "BakumatsuSanhakaseBattle.zip",
+      "size": 79948,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

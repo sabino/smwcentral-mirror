@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-configurable-yoshi-swallow-timer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 34977,
+  "title": "Configurable Yoshi Swallow Timer",
+  "authors": [
+    "Abdu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "timer",
+    "yoshi"
+  ],
+  "description": "This UberASM allows you to configure the Yoshi swallow timer.",
+  "latest_version": "smwc-34977-1701332104",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 34977,
+      "title": "Configurable Yoshi Swallow Timer",
+      "version": "smwc-34977-1701332104",
+      "upstream_time": 1701332104,
+      "download_url": "https://dl.smwcentral.net/34977/swallow_timer.zip",
+      "filename": "swallow_timer.zip",
+      "size": 317,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-woozy-guy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16766,
+  "title": "Woozy Guy",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "dynamic",
+    "extra bit",
+    "lorom",
+    "sa-1",
+    "shy guy",
+    "yoshi island"
+  ],
+  "description": "This is a type of Shy Guy that moves forward by doing small jumps, doing flips in the air.<br>\r\n<br>\r\nThe extra bit will determine the size: it will be 16x16 if clear and 32x32 if set.<br>\r\n<br>\r\nOriginally from smkdan's Yoshi's Island dynamic sprites pack.",
+  "latest_version": "smwc-16766-1513132199",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16766,
+      "title": "Woozy Guy",
+      "version": "smwc-16766-1513132199",
+      "upstream_time": 1513132199,
+      "download_url": "https://dl.smwcentral.net/16766/Woozy%20Guy.zip",
+      "filename": "Woozy Guy.zip",
+      "size": 11419,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

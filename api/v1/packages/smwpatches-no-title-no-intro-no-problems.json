@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-no-title-no-intro-no-problems",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27938,
+  "title": "No Title, No Intro, No Problems",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch will make the game skip the Nintendo Presents screen, the Title screen and the Intro screen, meaning that you start on the Overworld as soon as booting up the game. This can be useful for contest levels/overworlds, where usually those screens are not meaningful.<br>\r\nYou can also pair it with the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22554\">No Overworld UberASM</a> to have the game start on the level of your choice right away.<br>\r\nDo note that the game will always start from a new save file, so saving the game will be pointless.<br>\r\nMake sure to check out the readme for instructions and info.",
+  "latest_version": "smwc-27938-1631481199",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27938,
+      "title": "No Title, No Intro, No Problems",
+      "version": "smwc-27938-1631481199",
+      "upstream_time": 1631481199,
+      "download_url": "https://dl.smwcentral.net/27938/boot_on_ow.zip",
+      "filename": "boot_on_ow.zip",
+      "size": 2218,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

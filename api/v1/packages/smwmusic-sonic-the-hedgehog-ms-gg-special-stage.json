@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-ms-gg-special-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41233,
+  "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "airship",
+    "bonus",
+    "night",
+    "space",
+    "upbeat"
+  ],
+  "description": "16-bit arrangement of the bonus stage of Sonic 8-bit. Requested by <span class=\"un-outer\" title=\"MaxtonChao\"><a href=\"/?p=profile&amp;id=69227\" style=\"color: var(--user-color-1);\" class=\"un\">MaxtonChao</a></span>.<br>\r\n<br>\r\nI used a tempo somewhere between the NTSC and PAL versions. Use t43 for the PAL version and t51 for the NTSC version.",
+  "latest_version": "smwc-41233-1776619798",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41233,
+      "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+      "version": "smwc-41233-1776619798",
+      "upstream_time": 1776619798,
+      "download_url": "https://dl.smwcentral.net/41233/sonic8bit-bonusstage.zip",
+      "filename": "sonic8bit-bonusstage.zip",
+      "size": 32884,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

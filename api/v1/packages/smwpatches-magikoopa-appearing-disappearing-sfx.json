@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-magikoopa-appearing-disappearing-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17517,
+  "title": "Magikoopa Appearing/Disappearing SFX",
+  "authors": [
+    "Yan"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This is a simple patch that adds a sound effect when Magikoopa appears and disappears in levels.<br>\r\n<br>\r\nThis time it doesn't mess with A register. By default, it uses entering pipe/hurt SFX, as seen in Yoshi's Island.",
+  "latest_version": "smwc-17517-1526174246",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17517,
+      "title": "Magikoopa Appearing/Disappearing SFX",
+      "version": "smwc-17517-1526174246",
+      "upstream_time": 1526174246,
+      "download_url": "https://dl.smwcentral.net/17517/magikoopa_appearing_sfx.zip",
+      "filename": "magikoopa_appearing_sfx.zip",
+      "size": 483,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

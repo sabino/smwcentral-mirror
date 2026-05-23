@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-widescreen-overworld",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12773,
+  "title": "Widescreen Overworld",
+  "authors": [
+    "Medic"
+  ],
+  "tags": [
+    "hdma",
+    "lorom",
+    "needs remoderation",
+    "overworld",
+    "overworld border",
+    "sa-1"
+  ],
+  "description": "Allows for the full horizontal screen as an overworld.<br>\r\n<br>\r\nHijacks: too many to name, look in the ASM file.<br>\r\nDoesn't use Free RAM.<br>\r\nNote that custom OW sprites need to be modified to include using the X position high bit in $0420 and up in their graphics routine.<br>\r\n<br>\r\nThanks to Vitor Vilela and Alcaro for helping me make this.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-12773-1448561831",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12773,
+      "title": "Widescreen Overworld",
+      "version": "smwc-12773-1448561831",
+      "upstream_time": 1448561831,
+      "download_url": "https://dl.smwcentral.net/12773/Widescreen.zip",
+      "filename": "Widescreen.zip",
+      "size": 3521,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

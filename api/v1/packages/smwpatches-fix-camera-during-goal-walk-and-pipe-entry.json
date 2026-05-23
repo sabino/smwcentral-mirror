@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-fix-camera-during-goal-walk-and-pipe-entry",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41676,
+  "title": "Fix Camera During Goal Walk and Pipe Entry",
+  "authors": [
+    "Donut"
+  ],
+  "tags": [
+    "camera",
+    "goal",
+    "lorom",
+    "pipe",
+    "sa-1",
+    "scroll"
+  ],
+  "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
+  "latest_version": "V1.0.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41676,
+      "title": "Fix Camera During Goal Walk and Pipe Entry",
+      "version": "V1.0.1",
+      "upstream_time": 1778024959,
+      "download_url": "https://dl.smwcentral.net/41676/fix_camera_during_goal_walk_and_pipe_entry_V1.0.1.zip",
+      "filename": "fix_camera_during_goal_walk_and_pipe_entry_V1.0.1.zip",
+      "size": 1138,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

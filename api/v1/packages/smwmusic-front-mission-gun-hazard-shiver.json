@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-front-mission-gun-hazard-shiver",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36580,
+  "title": "Front Mission: Gun Hazard - Shiver",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "menu",
+    "overworld"
+  ],
+  "description": "The theme that plays in the menu from before you start a mission in Gun Hazard.",
+  "latest_version": "smwc-36580-1705094005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36580,
+      "title": "Front Mission: Gun Hazard - Shiver",
+      "version": "smwc-36580-1705094005",
+      "upstream_time": 1705094005,
+      "download_url": "https://dl.smwcentral.net/36580/Front%20Mission%20Gun%20Hazard%20-%20Shiver.zip",
+      "filename": "Front Mission Gun Hazard - Shiver.zip",
+      "size": 63816,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

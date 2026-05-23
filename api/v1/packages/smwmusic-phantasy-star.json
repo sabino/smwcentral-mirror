@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-phantasy-star",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20568,
+  "title": "Phantasy Star 4 - Bio Plant",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "forest",
+    "jungle",
+    "overworld"
+  ],
+  "description": "Song that Bio Plant from Phantasy Star 4. Good a for forest or jungle levels.",
+  "latest_version": "smwc-20568-1563219080",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20568,
+      "title": "Phantasy Star 4 - Bio Plant",
+      "version": "smwc-20568-1563219080",
+      "upstream_time": 1563219080,
+      "download_url": "https://dl.smwcentral.net/20568/Phantasy%20Star%204%20-%20Bio%20Plant.zip",
+      "filename": "Phantasy Star 4 - Bio Plant.zip",
+      "size": 32198,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20027,
+      "title": "Phantasy Star 3 - Overworld (Full)",
+      "version": "smwc-20027-1559175372",
+      "upstream_time": 1559175372,
+      "download_url": "https://dl.smwcentral.net/20027/Overworld.zip",
+      "filename": "Overworld.zip",
+      "size": 31750,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

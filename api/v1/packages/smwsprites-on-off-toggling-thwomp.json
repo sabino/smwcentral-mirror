@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-on-off-toggling-thwomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32531,
+  "title": "On/Off Toggling Thwomp",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "onoff switch",
+    "sa-1",
+    "thwomp"
+  ],
+  "description": "This thwomp will toggle on/off switch when it lands.<br>\r\n<br>\r\nCredit is unecessary. Requested by <span class=\"un-outer\" title=\"Israelcv12cv\"><a href=\"/?p=profile&amp;id=41123\" style=\"color: var(--user-color-1);\" class=\"un\">Israelcv12cv</a></span>.",
+  "latest_version": "smwc-32531-1675028157",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32531,
+      "title": "On/Off Toggling Thwomp",
+      "version": "smwc-32531-1675028157",
+      "upstream_time": 1675028157,
+      "download_url": "https://dl.smwcentral.net/32531/OnOffTogglingThwomp.zip",
+      "filename": "OnOffTogglingThwomp.zip",
+      "size": 3690,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

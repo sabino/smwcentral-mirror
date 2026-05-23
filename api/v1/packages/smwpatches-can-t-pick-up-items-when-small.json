@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-can-t-pick-up-items-when-small",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20902,
+  "title": "Can't Pick Up Items When Small",
+  "authors": [
+    "JackTheSpades"
+  ],
+  "tags": [
+    "carry",
+    "lorom",
+    "power-up",
+    "sa-1",
+    "small",
+    "throw block"
+  ],
+  "description": "Mario can't pick up sprites, nor throwblocks when being small.",
+  "latest_version": "smwc-20902-1565717055",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20902,
+      "title": "Can't Pick Up Items When Small",
+      "version": "smwc-20902-1565717055",
+      "upstream_time": 1565717055,
+      "download_url": "https://dl.smwcentral.net/20902/No_Carry_Small.zip",
+      "filename": "No_Carry_Small.zip",
+      "size": 1300,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

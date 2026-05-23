@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-goldeneye-007",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40325,
+  "title": "GoldenEye 007 - 007 Watch Theme",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "overworld",
+    "switch palace"
+  ],
+  "description": "The famous pause theme from GoldenEye 007. Fitting for overworld maps, cutscenes and more.",
+  "latest_version": "smwc-40325-1757088939",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40325,
+      "title": "GoldenEye 007 - 007 Watch Theme",
+      "version": "smwc-40325-1757088939",
+      "upstream_time": 1757088939,
+      "download_url": "https://dl.smwcentral.net/40325/007%20Watch%20Theme.zip",
+      "filename": "007 Watch Theme.zip",
+      "size": 47181,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

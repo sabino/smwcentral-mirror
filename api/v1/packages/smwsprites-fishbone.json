@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-fishbone",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3466,
+  "title": "Fishbone",
+  "authors": [
+    "NekohDot"
+  ],
+  "tags": [
+    "enemy",
+    "fishbone",
+    "lorom",
+    "sa-1",
+    "underwater"
+  ],
+  "description": "This is a disassembly of the fishbone.<br>\r\n<br>\r\nCredit is not necessary but would be nice as I spent along time doing this.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3466-1251579732",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3466,
+      "title": "Fishbone",
+      "version": "smwc-3466-1251579732",
+      "upstream_time": 1251579732,
+      "download_url": "https://dl.smwcentral.net/3466/FishboneDis.zip",
+      "filename": "FishboneDis.zip",
+      "size": 2366,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

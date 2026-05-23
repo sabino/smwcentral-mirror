@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-the-place",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8231,
+  "title": "EarthBound - The Place",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "space"
+  ],
+  "description": "The Place is more or less a supernatural theme, really fitting in dark, eerie and creepy places.",
+  "latest_version": "smwc-8231-1341666912",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8231,
+      "title": "EarthBound - The Place",
+      "version": "smwc-8231-1341666912",
+      "upstream_time": 1341666912,
+      "download_url": "https://dl.smwcentral.net/8231/Earthbound%20-%20The%20Place.zip",
+      "filename": "Earthbound - The Place.zip",
+      "size": 60719,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

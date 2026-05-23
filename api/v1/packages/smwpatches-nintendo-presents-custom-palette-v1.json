@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-nintendo-presents-custom-palette-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14754,
+  "title": "Nintendo Presents Custom Palette v1.1",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "lorom",
+    "nintendo presents",
+    "palette",
+    "palette change",
+    "sa-1"
+  ],
+  "description": "This patch applies a small ASM hack that enables a custom palette (by default on palette 8, which is used by the 'Nintendo Presents' logo). The background colour can also be changed. You have to change the RGB values of the custom palette yourself (by default they're all FFFF, which is white).<br>\r\nNo credit needed.",
+  "latest_version": "smwc-14754-1481932093",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14754,
+      "title": "Nintendo Presents Custom Palette v1.1",
+      "version": "smwc-14754-1481932093",
+      "upstream_time": 1481932093,
+      "download_url": "https://dl.smwcentral.net/14754/PalNinPre.zip",
+      "filename": "PalNinPre.zip",
+      "size": 1558,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-the-fortress-of-doom-shopping",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21421,
+  "title": "Lufia & the Fortress of Doom - Shopping",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "bonus",
+    "carnival"
+  ],
+  "description": "A happy song from the first Lufia game that would work well in bonus rooms.",
+  "latest_version": "smwc-21421-1573095259",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21421,
+      "title": "Lufia & the Fortress of Doom - Shopping",
+      "version": "smwc-21421-1573095259",
+      "upstream_time": 1573095259,
+      "download_url": "https://dl.smwcentral.net/21421/Lufia%20Shop.zip",
+      "filename": "Lufia Shop.zip",
+      "size": 27928,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

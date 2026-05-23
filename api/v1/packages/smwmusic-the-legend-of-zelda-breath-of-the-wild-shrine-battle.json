@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-breath-of-the-wild-shrine-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28550,
+  "title": "The Legend of Zelda: Breath of the Wild - Shrine Battle",
+  "authors": [
+    "Jonah"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "space",
+    "tense"
+  ],
+  "description": "The battle music that plays when you fight a shrine guardian in Breath of the Wild.<br>\r\nIt's got some odd time signatures, so it feels very tense and uneasy.<br>\r\nWould probably fit in boss fights or abstract levels.<br>\r\n<br>\r\nNOTE: Not compatible with Thunder/Blargg, Bonus End, or Starman SFX/Global songs.<br>\r\n@7, @8, @17, @21, and Thunder are omitted.",
+  "latest_version": "smwc-28550-1638063716",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28550,
+      "title": "The Legend of Zelda: Breath of the Wild - Shrine Battle",
+      "version": "smwc-28550-1638063716",
+      "upstream_time": 1638063716,
+      "download_url": "https://dl.smwcentral.net/28550/TLozBotW%20-%20Shrine%20Battle.zip",
+      "filename": "TLozBotW - Shrine Battle.zip",
+      "size": 73767,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

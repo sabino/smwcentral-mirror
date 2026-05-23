@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-ix-rose-of-may",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26622,
+  "title": "Final Fantasy IX - Rose of May",
+  "authors": [
+    "Beruga1990"
+  ],
+  "tags": [
+    "misc",
+    "retro",
+    "title",
+    "town"
+  ],
+  "description": "\"Rose of May\" is Beatrix´s theme from Final Fantasy IX. This port is dedicated to the \"klempnerohneskill\". Have fun with the song! :)",
+  "latest_version": "smwc-26622-1622008770",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26622,
+      "title": "Final Fantasy IX - Rose of May",
+      "version": "smwc-26622-1622008770",
+      "upstream_time": 1622008770,
+      "download_url": "https://dl.smwcentral.net/26622/Final%20Fantasy%20IX%20-%20Rose%20of%20May.zip",
+      "filename": "Final Fantasy IX - Rose of May.zip",
+      "size": 31510,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

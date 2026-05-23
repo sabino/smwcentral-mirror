@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-castlevania-skeleton",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1740,
+  "title": "Castlevania - Skeleton",
+  "authors": [
+    "ralphdnak"
+  ],
+  "tags": [
+    "dry bones",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "This is a rip of the skeleton from the first Castlevania game. (to be used with the asm patch included.)",
+  "latest_version": "smwc-1740-1420934908",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1740,
+      "title": "Castlevania - Skeleton",
+      "version": "smwc-1740-1420934908",
+      "upstream_time": 1420934908,
+      "download_url": "https://dl.smwcentral.net/1740/Castlevania_Skeleton.zip",
+      "filename": "Castlevania_Skeleton.zip",
+      "size": 5532,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

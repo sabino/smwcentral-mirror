@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-floating-rex-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19771,
+  "title": "Floating Rex Fix",
+  "authors": [
+    "chillyfox"
+  ],
+  "tags": [
+    "floating",
+    "lorom",
+    "physics",
+    "rex",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "Fixes a minor bug where Rexes briefly float if you stomp them in midair.<br>\r\n<br>\r\nAlso makes flattened Rexes inedible.",
+  "latest_version": "smwc-19771-1556315139",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19771,
+      "title": "Floating Rex Fix",
+      "version": "smwc-19771-1556315139",
+      "upstream_time": 1556315139,
+      "download_url": "https://dl.smwcentral.net/19771/Floating%20Rex%20Fix%201.zip",
+      "filename": "Floating Rex Fix 1.zip",
+      "size": 1002,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-midway-block-with",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3932,
+  "title": "Midway Block with 50-Coin Teleport",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "midway",
+    "teleport"
+  ],
+  "description": "This block will set the midway point if hit from below, but if the player hits it with 50 or more coins, it'll also teleport him to the screen exit set in Lunar Magic. Think of it like the Star Posts from Sonic 2.",
+  "latest_version": "smwc-3932-1426211292",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3932,
+      "title": "Midway Block with 50-Coin Teleport",
+      "version": "smwc-3932-1426211292",
+      "upstream_time": 1426211292,
+      "download_url": "https://dl.smwcentral.net/3932/BonusTeleport.zip",
+      "filename": "BonusTeleport.zip",
+      "size": 619,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

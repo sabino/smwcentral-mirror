@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-ghidorah-a-piece-for-freedom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32649,
+  "title": "Ghidorah - A Piece for Freedom",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "ghost house",
+    "mysterious",
+    "night",
+    "retro",
+    "sad"
+  ],
+  "description": "A very calm song that only uses sine waves. It's also used as keygen music.<br>\r\n<br>\r\nEdit (02.12.2022): Fixed a typo in the title and changed / added a lot of ADSR",
+  "latest_version": "smwc-32649-1677637320",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32649,
+      "title": "Ghidorah - A Piece for Freedom",
+      "version": "smwc-32649-1677637320",
+      "upstream_time": 1677637320,
+      "download_url": "https://dl.smwcentral.net/32649/A%20Piece%20for%20Freedom.zip",
+      "filename": "A Piece for Freedom.zip",
+      "size": 32493,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

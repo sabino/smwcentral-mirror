@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-clouds-and-mushrooms",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 21924,
+  "title": "Clouds and Mushrooms",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "mushroom",
+    "needs remoderation",
+    "patch needed",
+    "sky"
+  ],
+  "description": "Here's a cloud and mushroom Layer 3 background for when you want your sky levels to have moving Layer 2.  You will need to install an alternate Status Bar patch to use this, like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21562\">Minimalist Status Bars</a>.",
+  "latest_version": "smwc-21924-1584469797",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 21924,
+      "title": "Clouds and Mushrooms",
+      "version": "smwc-21924-1584469797",
+      "upstream_time": 1584469797,
+      "download_url": "https://dl.smwcentral.net/21924/Layer%203%20Mushrooms.zip",
+      "filename": "Layer 3 Mushrooms.zip",
+      "size": 2298,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 11471,
+      "title": "Clouds and Mushrooms",
+      "version": "smwc-11471-1435183070",
+      "upstream_time": 1435183070,
+      "download_url": "https://dl.smwcentral.net/11471/CloudsNShrooms.zip",
+      "filename": "CloudsNShrooms.zip",
+      "size": 2402,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

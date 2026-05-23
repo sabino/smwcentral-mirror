@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-earthworm-jim-for-pete-s-sake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25808,
+  "title": "Earthworm Jim - For Pete's Sake",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "space"
+  ],
+  "description": "Kinda weird song from EJ (SNES) that could fit a space theme. A couple samples have been fixed to remove the loud clicks that they had originally (seriously why??).",
+  "latest_version": "smwc-25808-1612283611",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25808,
+      "title": "Earthworm Jim - For Pete's Sake",
+      "version": "smwc-25808-1612283611",
+      "upstream_time": 1612283611,
+      "download_url": "https://dl.smwcentral.net/25808/Earthworm%20Jim%20-%2007%20For%20Pete%27s%20Sake.zip",
+      "filename": "Earthworm Jim - 07 For Pete%27s Sake.zip",
+      "size": 66471,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

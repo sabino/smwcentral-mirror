@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-papercut-caves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40391,
+  "title": "Papercut - Caves",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cave",
+    "dark",
+    "night"
+  ],
+  "description": "Caves from a cancelled hack, Papercut.",
+  "latest_version": "smwc-40391-1756151387",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40391,
+      "title": "Papercut - Caves",
+      "version": "smwc-40391-1756151387",
+      "upstream_time": 1756151387,
+      "download_url": "https://dl.smwcentral.net/40391/Papercut%20-%20Caves.zip",
+      "filename": "Papercut - Caves.zip",
+      "size": 54800,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

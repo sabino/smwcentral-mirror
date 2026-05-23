@@ -1,0 +1,37 @@
+{
+  "name": "gps",
+  "aliases": [
+    "gps"
+  ],
+  "section": "tools",
+  "upstream_id": 40056,
+  "title": "GPS V1.4.5 - Gopher Popcorn Stew",
+  "authors": [
+    "TheBiob",
+    "p4plus2"
+  ],
+  "tags": [
+    "block",
+    "blocktool",
+    "btsd",
+    "gps",
+    "sa-1"
+  ],
+  "description": "This tool, as the name clearly doesn't imply, is a block inserter designed to replace the dated BTSD. It is backwards compatible with BTSD and will upgrade your ROM when using the tool.  The readme has full details on benefits.  A GUI is not included in this version. If you want one download it from an <a href=\"?p=section&a=details&id=15337&r=0\">older version of GPS</a>. The GUI does not support the features of the current list and has not been kept up to date.  Use the GUI at your own risk.<br>\r\n<br>\r\n<br>\r\nSimple blocks, for example Mario-only, can be created with <a href=\"?p=section&a=details&id=9397\">Blockreator</a>.",
+  "latest_version": "smwc-40056-1752228288",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 40056,
+      "title": "GPS V1.4.5 - Gopher Popcorn Stew",
+      "version": "smwc-40056-1752228288",
+      "upstream_time": 1752228288,
+      "download_url": "https://dl.smwcentral.net/40056/GPS%28V1.4.5%29.zip",
+      "filename": "GPS(V1.4.5).zip",
+      "size": 406590,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

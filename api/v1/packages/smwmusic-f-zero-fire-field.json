@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-f-zero-fire-field",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26348,
+  "title": "F-Zero - Fire Field",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "athletic",
+    "fire"
+  ],
+  "description": "The song that plays during the Fire Fields in F-Zero.<br>\r\nCan fit well in intense fire/volcano athletic levels.<br>\r\n<br>\r\nRequested by MKDSmaster91, this song is fully sampled.<br>\r\n",
+  "latest_version": "smwc-26348-1617251019",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26348,
+      "title": "F-Zero - Fire Field",
+      "version": "smwc-26348-1617251019",
+      "upstream_time": 1617251019,
+      "download_url": "https://dl.smwcentral.net/26348/F-Zero%20-%20Fire%20Field.zip",
+      "filename": "F-Zero - Fire Field.zip",
+      "size": 47728,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

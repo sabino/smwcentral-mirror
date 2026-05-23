@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-overworld-warp-menu",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 25839,
+  "title": "Overworld Warp Menu",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "menu",
+    "overworld",
+    "sa-1",
+    "stripe image",
+    "warp"
+  ],
+  "description": "This UberASM will enable a menu on the OW to teleport to different places. Each warp option is unlocked after a specific event has run, so you can, for example, set up a warp point for each world in the hack and allow faster backtracking, but you can also use it to unlock new places after beating a certain level. By default the menu is opened with the Select button, since it's the only unused button on the OW.<br>\r\nThere's a lot of customizations you can use in the defines file: position of the text on screen, if to enable the warp counter or not (and position of the counter), palettes, sound effects, how many options to display at once, and of course name and destination of each warp, along with which event unlocks them.<br>\r\nIt uses 6 + &lt;Number of possible warps&gt; bytes of freeram, and you can have up to 253 warps (pay attention to the freeram usage, though!). It includes a modified GFX28 file, to be inserted in LG1 in all submaps, to insert if enabling the counter (it contains the \"/\" tile).<br>\r\nIt must be inserted in game mode 0E. If using more codes in this game mode, make sure to use the %call_library() macro to call it, as explained in the FAQ, as just doing JSL will mess up the table reads.",
+  "latest_version": "smwc-25839-1615468892",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 25839,
+      "title": "Overworld Warp Menu",
+      "version": "smwc-25839-1615468892",
+      "upstream_time": 1615468892,
+      "download_url": "https://dl.smwcentral.net/25839/ow_teleport_menu.zip",
+      "filename": "ow_teleport_menu.zip",
+      "size": 7832,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-moving-castle-block-offscreen-handling-fix-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18721,
+  "title": "Moving Castle Block Offscreen Handling Fix v1.1",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "castle block",
+    "lorom",
+    "off screen",
+    "sa-1"
+  ],
+  "description": "This patch makes it so the castle block sprite is now properly handled when offscreen. Previously, it would never despawn - preventing sprite slots from being erased and leading to other sprites not spawning - despite the 'Process when off screen' option being unchecked in Tweaker.<br>\r\n<br>\r\nv1.1<br>\r\n------<br>\r\nAdded support to LM 3.0. Suboffscreen now used register B as well, so XBA had to be changed to stack push / pull.",
+  "latest_version": "smwc-18721-1546216943",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18721,
+      "title": "Moving Castle Block Offscreen Handling Fix v1.1",
+      "version": "smwc-18721-1546216943",
+      "upstream_time": 1546216943,
+      "download_url": "https://dl.smwcentral.net/18721/CastleBlkFix_v1.1.zip",
+      "filename": "CastleBlkFix_v1.1.zip",
+      "size": 1333,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

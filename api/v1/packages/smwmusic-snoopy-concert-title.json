@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-snoopy-concert-title",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22468,
+  "title": "Snoopy Concert - Title",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "overworld",
+    "title"
+  ],
+  "description": "The main song played where you select the chapters from said game. An optimized version is included, where changes most of the volume fades for ADSR, deletes some similar notes on some channels and nukes channel 7 (#6) and a single Hi-hat sample that plays once in the song.",
+  "latest_version": "smwc-22468-1585212090",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22468,
+      "title": "Snoopy Concert - Title",
+      "version": "smwc-22468-1585212090",
+      "upstream_time": 1585212090,
+      "download_url": "https://dl.smwcentral.net/22468/Snoopy%20Concert%20-%20Title.zip",
+      "filename": "Snoopy Concert - Title.zip",
+      "size": 113048,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

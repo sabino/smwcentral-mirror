@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-charli-xcx",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40689,
+  "title": "Charli XCX - 360",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "grassland",
+    "overworld",
+    "star",
+    "switch palace",
+    "title"
+  ],
+  "description": "This port is so Julia",
+  "latest_version": "smwc-40689-1770479470",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40689,
+      "title": "Charli XCX - 360",
+      "version": "smwc-40689-1770479470",
+      "upstream_time": 1770479470,
+      "download_url": "https://dl.smwcentral.net/40689/360.zip",
+      "filename": "360.zip",
+      "size": 55202,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24691,
+      "title": "Charli XCX - 1999",
+      "version": "smwc-24691-1604715629",
+      "upstream_time": 1604715629,
+      "download_url": "https://dl.smwcentral.net/24691/Charli%20XCX%20-%201999.zip",
+      "filename": "Charli XCX - 1999.zip",
+      "size": 31428,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

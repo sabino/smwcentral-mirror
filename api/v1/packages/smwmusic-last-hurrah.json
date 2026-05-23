@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-last-hurrah",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34960,
+  "title": "Last Hurrah",
+  "authors": [
+    "neptunes-bad-at-hacking"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "forest",
+    "night",
+    "overworld",
+    "title",
+    "water"
+  ],
+  "description": "A little port of an original song I made not that long ago.",
+  "latest_version": "smwc-34960-1696386629",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34960,
+      "title": "Last Hurrah",
+      "version": "smwc-34960-1696386629",
+      "upstream_time": 1696386629,
+      "download_url": "https://dl.smwcentral.net/34960/Last%20Hurrah.zip",
+      "filename": "Last Hurrah.zip",
+      "size": 62500,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

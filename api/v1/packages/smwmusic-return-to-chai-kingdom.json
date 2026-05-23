@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-return-to-chai-kingdom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7143,
+  "title": "Return to Chai Kingdom",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "mountain"
+  ],
+  "description": "An eastern-sounding composition inspired by SML's Chai Kingdom theme.",
+  "latest_version": "smwc-7143-1317472646",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7143,
+      "title": "Return to Chai Kingdom",
+      "version": "smwc-7143-1317472646",
+      "upstream_time": 1317472646,
+      "download_url": "https://dl.smwcentral.net/7143/Return%20to%20Chai%20Kingdom.zip",
+      "filename": "Return to Chai Kingdom.zip",
+      "size": 67144,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

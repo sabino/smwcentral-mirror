@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-clouds",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 2544,
+  "title": "Super Mario World - Clouds",
+  "authors": [
+    "allowiscous",
+    "imamelia"
+  ],
+  "tags": [
+    "2bpp",
+    "sky"
+  ],
+  "description": "Now compatible with LM2.30+<br>\r\n<br>\r\nThis is a Layer 3 version of the cloud background seen in some levels in SMW (such as Cheese Bridge Area).  It uses few enough colors that very little was lost in the 4bpp -&gt; 2bpp transition; the only thing different about it is that the oval clouds no longer have eyes.<br>\r\nallowiscous' custom tilemap and palette also included.<br>\r\n<br>\r\nmod note: as the original status bar will cut fullscreen layer 3 backgrounds off, you may want to use a status bar patch (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">Sprite Status Bar</a>)",
+  "latest_version": "smwc-2544-1412599663",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 2544,
+      "title": "Super Mario World - Clouds",
+      "version": "smwc-2544-1412599663",
+      "upstream_time": 1412599663,
+      "download_url": "https://dl.smwcentral.net/2544/SMW%20Clouds.zip",
+      "filename": "SMW Clouds.zip",
+      "size": 4090,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

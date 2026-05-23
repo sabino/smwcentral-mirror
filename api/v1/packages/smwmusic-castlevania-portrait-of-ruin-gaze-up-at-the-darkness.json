@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castlevania-portrait-of-ruin-gaze-up-at-the-darkness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11265,
+  "title": "Castlevania: Portrait of Ruin - Gaze Up at the Darkness",
+  "authors": [
+    "HertzDevil"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "night"
+  ],
+  "description": "The song that plays in the Master's Keep in Castlevania: Portrait of Ruin.",
+  "latest_version": "smwc-11265-1431472045",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11265,
+      "title": "Castlevania: Portrait of Ruin - Gaze Up at the Darkness",
+      "version": "smwc-11265-1431472045",
+      "upstream_time": 1431472045,
+      "download_url": "https://dl.smwcentral.net/11265/gaze.zip",
+      "filename": "gaze.zip",
+      "size": 34446,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

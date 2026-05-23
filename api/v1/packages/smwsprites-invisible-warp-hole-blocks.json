@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-invisible-warp-hole-blocks",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3473,
+  "title": "Invisible Warp Hole Blocks",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "invisible",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "wall"
+  ],
+  "description": "A disassembly of sprite 8E. It warps Mario to the right of it when he touches it. Dunno what it would be useful for, but hey, its here for everyone wanting it. No credit needed.",
+  "latest_version": "smwc-3473-1251579839",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3473,
+      "title": "Invisible Warp Hole Blocks",
+      "version": "smwc-3473-1251579839",
+      "upstream_time": 1251579839,
+      "download_url": "https://dl.smwcentral.net/3473/InvisWarp.zip",
+      "filename": "InvisWarp.zip",
+      "size": 696,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

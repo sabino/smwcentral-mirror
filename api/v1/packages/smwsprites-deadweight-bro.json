@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-deadweight-bro",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3254,
+  "title": "Deadweight Bro",
+  "authors": [
+    "Schwa",
+    "imamelia"
+  ],
+  "tags": [
+    "bounce",
+    "bouncing",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "sledge bro",
+    "weight"
+  ],
+  "description": "A gray Sledge Bro which doesn't jump and throws weights instead of hammers. It walks back and forth. When they hit the ground, the weights will bounce up to 4 times before falling off the screen. With each bounce, the screen shakes and Mario gets stunned if he's on the ground. This makes it very difficult to move out of the way once you're caught on the ground, making this sprite an extremely tough enemy.<br>\r\n<br>\r\nCheck the ASM files for customization options. Make sure to specify the sprite number of deadweight.cfg from list.txt in deadweight_bro.asm!<br>\r\n<br>\r\nGive credit if used or tweaked. Special thanks to mikeyk for the base code (Sledge Bro and Tweeter).",
+  "latest_version": "smwc-3254-1204805581",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3254,
+      "title": "Deadweight Bro",
+      "version": "smwc-3254-1204805581",
+      "upstream_time": 1204805581,
+      "download_url": "https://dl.smwcentral.net/3254/Deadweight%20Bro.zip",
+      "filename": "Deadweight Bro.zip",
+      "size": 7981,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

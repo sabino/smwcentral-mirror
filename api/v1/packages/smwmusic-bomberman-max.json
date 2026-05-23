@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-bomberman-max",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35399,
+  "title": "Bomberman Max 2 - Garden Stage",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "grassland",
+    "title"
+  ],
+  "description": "It looks good on title screens.",
+  "latest_version": "smwc-35399-1698893074",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35399,
+      "title": "Bomberman Max 2 - Garden Stage",
+      "version": "smwc-35399-1698893074",
+      "upstream_time": 1698893074,
+      "download_url": "https://dl.smwcentral.net/35399/Garden%20Stage.zip",
+      "filename": "Garden Stage.zip",
+      "size": 58765,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

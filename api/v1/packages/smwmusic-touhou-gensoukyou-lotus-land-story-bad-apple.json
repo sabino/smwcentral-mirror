@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-touhou-gensoukyou-lotus-land-story-bad-apple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33707,
+  "title": "Touhou Gensoukyou ~ Lotus Land Story - Bad Apple!!",
+  "authors": [
+    "onigirikun"
+  ],
+  "tags": [
+    "abstract",
+    "hard",
+    "music",
+    "night"
+  ],
+  "description": "This music is good at a hard course.",
+  "latest_version": "smwc-33707-1693078505",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33707,
+      "title": "Touhou Gensoukyou ~ Lotus Land Story - Bad Apple!!",
+      "version": "smwc-33707-1693078505",
+      "upstream_time": 1693078505,
+      "download_url": "https://dl.smwcentral.net/33707/badapple.zip",
+      "filename": "badapple.zip",
+      "size": 36869,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24462,
+      "title": "Touhou Gensoukyou ~ Lotus Land Story - Bad Apple!!",
+      "version": "smwc-24462-1599194690",
+      "upstream_time": 1599194690,
+      "download_url": "https://dl.smwcentral.net/24462/touhou%20-%20bad%20apple.zip",
+      "filename": "touhou - bad apple.zip",
+      "size": 52790,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

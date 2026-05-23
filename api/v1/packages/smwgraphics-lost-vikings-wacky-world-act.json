@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-lost-vikings-wacky-world-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 2920,
+  "title": "Lost Vikings - Wacky World (Act 2)",
+  "authors": [
+    "Anonymous"
+  ],
+  "tags": [
+    "bonus",
+    "food",
+    "needs remoderation"
+  ],
+  "description": "The foreground found in a few levels of Lost Vikings' Wacky World. It's first appearance is in the second act.",
+  "latest_version": "smwc-2920-1376236241",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 2920,
+      "title": "Lost Vikings - Wacky World (Act 2)",
+      "version": "smwc-2920-1376236241",
+      "upstream_time": 1376236241,
+      "download_url": "https://dl.smwcentral.net/2920/lost%20vikings%20candy.zip",
+      "filename": "lost vikings candy.zip",
+      "size": 8903,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2919,
+      "title": "Lost Vikings - Wacky World (Act 1)",
+      "version": "smwc-2919-1376236172",
+      "upstream_time": 1376236172,
+      "download_url": "https://dl.smwcentral.net/2919/lost%20vikings%20bonus.zip",
+      "filename": "lost vikings bonus.zip",
+      "size": 6745,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

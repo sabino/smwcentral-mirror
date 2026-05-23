@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-pocky-rocky-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38374,
+  "title": "Pocky & Rocky - Map",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "奇々怪界 謎の黒マント - 始まる物語<br>\r\n<br>\r\n*Song is not loop.",
+  "latest_version": "smwc-38374-1729697970",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38374,
+      "title": "Pocky & Rocky - Map",
+      "version": "smwc-38374-1729697970",
+      "upstream_time": 1729697970,
+      "download_url": "https://dl.smwcentral.net/38374/kiki-06s.zip",
+      "filename": "kiki-06s.zip",
+      "size": 41696,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38373,
+      "title": "Pocky & Rocky - Map",
+      "version": "smwc-38373-1729697964",
+      "upstream_time": 1729697964,
+      "download_url": "https://dl.smwcentral.net/38373/kiki-06.zip",
+      "filename": "kiki-06.zip",
+      "size": 30095,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

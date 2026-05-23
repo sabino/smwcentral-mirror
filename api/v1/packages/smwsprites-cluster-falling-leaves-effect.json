@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-cluster-falling-leaves-effect",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34440,
+  "title": "Cluster Falling Leaves Effect",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "effect",
+    "leaf",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A cluster effect based of the existing <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30466\">Cluster Effects Pack</a> but with a few gimmicks which ultimately warrants it to be a separate submission.<br>\r\n<br>\r\nAs implied by the name, this is a visual sprite which replicates leaves falling from trees, bringing in some nice addition for a forest level.<br>\r\n<br>\r\nRead the readme from more information.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Blizzard Buffalo\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Blizzard Buffalo</a></span>",
+  "latest_version": "smwc-34440-1705178977",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34440,
+      "title": "Cluster Falling Leaves Effect",
+      "version": "smwc-34440-1705178977",
+      "upstream_time": 1705178977,
+      "download_url": "https://dl.smwcentral.net/34440/Falling%20Leaves%20Cluster.zip",
+      "filename": "Falling Leaves Cluster.zip",
+      "size": 9709,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

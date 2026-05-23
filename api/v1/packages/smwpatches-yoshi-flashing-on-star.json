@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-yoshi-flashing-on-star",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 39533,
+  "title": "Yoshi Flashing on Star",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "star",
+    "yoshi"
+  ],
+  "description": "What this patch does is make Yoshi flash when the player has invincibility (via a star or whatever) and is riding him.<br>\r\nAdditionally, you can make Yoshi keep the last color it had when the star runs out or you hop off him! This will even affect what shell ability Yoshi has while you're invincible!",
+  "latest_version": "smwc-39533-1753401085",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 39533,
+      "title": "Yoshi Flashing on Star",
+      "version": "smwc-39533-1753401085",
+      "upstream_time": 1753401085,
+      "download_url": "https://dl.smwcentral.net/39533/yoshi_color_animate.zip",
+      "filename": "yoshi_color_animate.zip",
+      "size": 1134,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

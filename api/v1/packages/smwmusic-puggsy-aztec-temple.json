@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-puggsy-aztec-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16019,
+  "title": "Puggsy - Aztec Temple",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "temple"
+  ],
+  "description": "The song that plays in Aztec Temple in Puggsy.",
+  "latest_version": "smwc-16019-1503930351",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16019,
+      "title": "Puggsy - Aztec Temple",
+      "version": "smwc-16019-1503930351",
+      "upstream_time": 1503930351,
+      "download_url": "https://dl.smwcentral.net/16019/Aztec_Temple.zip",
+      "filename": "Aztec_Temple.zip",
+      "size": 30570,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-naruto-fooling-mode",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29817,
+  "title": "Naruto - Fooling Mode",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "cutscene"
+  ],
+  "description": "A humorous song from the Naruto anime. Suitable for troll / meme level.<br>\r\n<br>\r\nThe following global songs / SFX are not compatible with this song:<br>\r\nStarman, Bonus-End, P-Switch, Thunder/Firework/Blargg <br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"kebabchilla\"><a href=\"/?p=profile&amp;id=16967\" style=\"color: var(--user-color-3);\" class=\"un\">kebabchilla</a></span>",
+  "latest_version": "smwc-29817-1656637569",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29817,
+      "title": "Naruto - Fooling Mode",
+      "version": "smwc-29817-1656637569",
+      "upstream_time": 1656637569,
+      "download_url": "https://dl.smwcentral.net/29817/FoolingMode.zip",
+      "filename": "FoolingMode.zip",
+      "size": 106265,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

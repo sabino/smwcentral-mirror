@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-s-s-anne",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7264,
+  "title": "Pokémon Red/Blue/Yellow - S. S. Anne",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "grassland",
+    "retro",
+    "town"
+  ],
+  "description": "Short, sweet tune from Pokemon Red/Blue/Yellow that would suit a ship or short level rather well.",
+  "latest_version": "smwc-7264-1314130143",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7264,
+      "title": "Pokémon Red/Blue/Yellow - S. S. Anne",
+      "version": "smwc-7264-1314130143",
+      "upstream_time": 1314130143,
+      "download_url": "https://dl.smwcentral.net/7264/prbyssa.zip",
+      "filename": "prbyssa.zip",
+      "size": 67993,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

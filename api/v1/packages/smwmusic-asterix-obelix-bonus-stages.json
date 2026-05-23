@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-asterix-obelix-bonus-stages",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34762,
+  "title": "Asterix & Obelix - Bonus Stages",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "athletic",
+    "bonus"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nBonus game theme.",
+  "latest_version": "smwc-34762-1691404945",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34762,
+      "title": "Asterix & Obelix - Bonus Stages",
+      "version": "smwc-34762-1691404945",
+      "upstream_time": 1691404945,
+      "download_url": "https://dl.smwcentral.net/34762/Asterix%20and%20Obelix%20-%2030%20Bonus%20Game.zip",
+      "filename": "Asterix and Obelix - 30 Bonus Game.zip",
+      "size": 81656,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

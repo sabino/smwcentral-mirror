@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-fire-emblem-mystery-of-the-emblem-holy-war",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35687,
+  "title": "Fire Emblem: Mystery of the Emblem - Holy War",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "dark",
+    "final",
+    "overworld",
+    "tense"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"buggy789\"><a href=\"/?p=profile&amp;id=16466\" style=\"color: var(--user-color-1);\" class=\"un\">buggy789</a></span>.<br>\r\n<br>\r\nThe map theme for the final chapters of Book 2 of Fire Emblem: Mystery of the Emblem. Suitable for final areas, overworlds, and perhaps castles.<br>\r\n<br>\r\nComes with an option to either play at the original volume or match the channel volume values to the original SPC, the latter of which will be louder due to a difference in master volume between SMW and FE3.",
+  "latest_version": "smwc-35687-1703364627",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35687,
+      "title": "Fire Emblem: Mystery of the Emblem - Holy War",
+      "version": "smwc-35687-1703364627",
+      "upstream_time": 1703364627,
+      "download_url": "https://dl.smwcentral.net/35687/FE%203%20-%20Holy%20War.zip",
+      "filename": "FE 3 - Holy War.zip",
+      "size": 64406,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35686,
+      "title": "Fire Emblem: Mystery of the Emblem - Holy War",
+      "version": "smwc-35686-1704034387",
+      "upstream_time": 1704034387,
+      "download_url": "https://dl.smwcentral.net/35686/Fire%20Emblem%203%20-%20Holy%20War.zip",
+      "filename": "Fire Emblem 3 - Holy War.zip",
+      "size": 88523,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

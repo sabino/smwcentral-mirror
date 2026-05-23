@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-wiggler-score-glitch-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12393,
+  "title": "Wiggler Score Glitch Fix",
+  "authors": [
+    "sugar"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes rather well known glitch which allows to get money and points easily while bouncing of Wigglers.<br>\r\n<br>\r\nIt was made for request of Tails_155.",
+  "latest_version": "smwc-12393-1448914441",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12393,
+      "title": "Wiggler Score Glitch Fix",
+      "version": "smwc-12393-1448914441",
+      "upstream_time": 1448914441,
+      "download_url": "https://dl.smwcentral.net/12393/wigglerfix.zip",
+      "filename": "wigglerfix.zip",
+      "size": 541,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

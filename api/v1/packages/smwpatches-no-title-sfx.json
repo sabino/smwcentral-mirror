@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-no-title-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20849,
+  "title": "No Title SFX",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sfx",
+    "title screen"
+  ],
+  "description": "Disables sound effects on the title screen, but still keeps the level soundtrack running.<br>\r\nNow compatible Asar and SA-1.<br>\r\n<br>\r\nNote: it doesn't work with AddmusicK.<br>\r\n",
+  "latest_version": "smwc-20849-1565479161",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20849,
+      "title": "No Title SFX",
+      "version": "smwc-20849-1565479161",
+      "upstream_time": 1565479161,
+      "download_url": "https://dl.smwcentral.net/20849/notitlesfx.zip",
+      "filename": "notitlesfx.zip",
+      "size": 830,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

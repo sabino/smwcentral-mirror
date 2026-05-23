@@ -1,0 +1,41 @@
+{
+  "name": "smwsprites-treasure-chest",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3533,
+  "title": "Treasure Chest",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "chest",
+    "item",
+    "item box",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "smb 3",
+    "smb3",
+    "super mario bros 3",
+    "treasure"
+  ],
+  "description": "A treasure chest from Super Mario Bros. 3. It can spawn a sprite or put a sprite in the player's item box. Optionally, it can end the level, too (only if putting a sprite in the item box). There is also a version which contains a coin and gives 1-Ups and a version which contains a bonus coin (from the pink berry cloud minigame) and gives 1-Ups.<br>\r\n<br>\r\nNon-standard sprites in the item box will have glitched graphics unless you apply <a href=\"https://smwc.me/s/12388\">Kenny3900's Item Box GFX Fix patch</a> or <a href=\"https://smwc.me/s/12694\">imamelia's Item Box Special patch</a>.<br>\r\n<br>\r\nThis sprite makes heavy use of the extra byte. Make sure to check the readme for detailed usage instructions.",
+  "latest_version": "smwc-3533-1261006990",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3533,
+      "title": "Treasure Chest",
+      "version": "smwc-3533-1261006990",
+      "upstream_time": 1261006990,
+      "download_url": "https://dl.smwcentral.net/3533/Treasure%20Chest.zip",
+      "filename": "Treasure Chest.zip",
+      "size": 15965,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

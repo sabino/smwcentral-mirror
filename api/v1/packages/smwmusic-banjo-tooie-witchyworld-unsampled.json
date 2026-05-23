@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-banjo-tooie-witchyworld-unsampled",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11217,
+  "title": "Banjo-Tooie - Witchyworld (Unsampled)",
+  "authors": [
+    "Sayuri"
+  ],
+  "tags": [
+    "carnival",
+    "spooky"
+  ],
+  "description": "The song that plays in the demented theme park world in Banjo-Tooie. This version is unsampled, save for a crash cymbal. ",
+  "latest_version": "smwc-11217-1430023741",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11217,
+      "title": "Banjo-Tooie - Witchyworld (Unsampled)",
+      "version": "smwc-11217-1430023741",
+      "upstream_time": 1430023741,
+      "download_url": "https://dl.smwcentral.net/11217/Banjo-Tooie%20-%20Witchyworld%20%28U%29.zip",
+      "filename": "Banjo-Tooie - Witchyworld (U).zip",
+      "size": 44001,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

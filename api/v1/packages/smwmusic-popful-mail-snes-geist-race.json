@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-popful-mail-snes-geist-race",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36798,
+  "title": "Popful Mail (SNES) - Geist Race",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "fire"
+  ],
+  "description": "The final boss' second phase music. Good for bosses and chase sequences.",
+  "latest_version": "smwc-36798-1709235695",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36798,
+      "title": "Popful Mail (SNES) - Geist Race",
+      "version": "smwc-36798-1709235695",
+      "upstream_time": 1709235695,
+      "download_url": "https://dl.smwcentral.net/36798/Popful%20Mail%20%28SFC%29%20-%20Geist%20Race.zip",
+      "filename": "Popful Mail (SFC) - Geist Race.zip",
+      "size": 63223,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

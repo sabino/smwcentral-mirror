@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-dragon-warrior-overture-march",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29905,
+  "title": "Dragon Warrior - Overture March",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "castle",
+    "credits",
+    "cutscene",
+    "overworld",
+    "retro",
+    "title"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nUseful for title screen, bonus, carnival, castle, credits, cutscene, or overworld.",
+  "latest_version": "smwc-29905-1654005985",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29905,
+      "title": "Dragon Warrior - Overture March",
+      "version": "smwc-29905-1654005985",
+      "upstream_time": 1654005985,
+      "download_url": "https://dl.smwcentral.net/29905/DragonQuest01Intro-Overture.zip",
+      "filename": "DragonQuest01Intro-Overture.zip",
+      "size": 59904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

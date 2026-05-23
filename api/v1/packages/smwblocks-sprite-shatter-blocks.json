@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-sprite-shatter-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41214,
+  "title": "Sprite Shatter Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "A pack of blocks which shatter upon sprite contact. Inspired by the original BlockTool's Mega Mole shatter blocks.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-41214-1764810719",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41214,
+      "title": "Sprite Shatter Blocks",
+      "version": "smwc-41214-1764810719",
+      "upstream_time": 1764810719,
+      "download_url": "https://dl.smwcentral.net/41214/Sprite%20Shatter.zip",
+      "filename": "Sprite Shatter.zip",
+      "size": 11421,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

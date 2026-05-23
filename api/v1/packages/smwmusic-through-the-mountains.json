@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-through-the-mountains",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23652,
+  "title": "Through the Mountains",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "mountain"
+  ],
+  "description": "100 100 100 100 100 100 100 100 100 100 100 100 100 100 ",
+  "latest_version": "smwc-23652-1594963125",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23652,
+      "title": "Through the Mountains",
+      "version": "smwc-23652-1594963125",
+      "upstream_time": 1594963125,
+      "download_url": "https://dl.smwcentral.net/23652/throughmountains.zip",
+      "filename": "throughmountains.zip",
+      "size": 57661,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

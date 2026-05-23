@@ -1,0 +1,56 @@
+{
+  "name": "smwmusic-silent-hill",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40943,
+  "title": "Silent Hill 2 - Alone in the Town",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "dark",
+    "environmental",
+    "ghost house",
+    "mysterious",
+    "night",
+    "sea",
+    "sky",
+    "spooky"
+  ],
+  "description": "Also known as \"Pizza & Bowling\".<br>\r\n<b>Not compatible with Starman or thunder.</b>",
+  "latest_version": "smwc-40943-1766606193",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40943,
+      "title": "Silent Hill 2 - Alone in the Town",
+      "version": "smwc-40943-1766606193",
+      "upstream_time": 1766606193,
+      "download_url": "https://dl.smwcentral.net/40943/sh2pizza.zip",
+      "filename": "sh2pizza.zip",
+      "size": 88006,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32553,
+      "title": "Silent Hill 2 - White Noiz",
+      "version": "smwc-32553-1680309950",
+      "upstream_time": 1680309950,
+      "download_url": "https://dl.smwcentral.net/32553/Silent%20Hill%202%20-%20White%20Noiz.zip",
+      "filename": "Silent Hill 2 - White Noiz.zip",
+      "size": 68491,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-sonic-styled-powerdown-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19540,
+  "title": "Sonic Styled Powerdown Patch",
+  "authors": [
+    "RPG Hacker"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "powerdown",
+    "sa-1",
+    "sonic"
+  ],
+  "description": "This patch makes it so that you lose all your coins when you get hit, and that you die when you get hit while not having any coins. Compatible with the 3 Digit Coin Counter patch, just check the defines.<br>\r\n<br>\r\n<i>Tester's note: If you're going to use the 3 Digit Coin Counter compatible version, you need to get the Three-Digit Coin Counter from the patches section, it's not integrated into this patch.</i><br>\r\n<br>\r\n4-1-2019: Updated for Asar, and SA-1. The normal and 3 Digit Coin Counter versions have been merged together and can be set in the defines.",
+  "latest_version": "smwc-19540-1555609887",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19540,
+      "title": "Sonic Styled Powerdown Patch",
+      "version": "smwc-19540-1555609887",
+      "upstream_time": 1555609887,
+      "download_url": "https://dl.smwcentral.net/19540/Sonic_Powerdown.zip",
+      "filename": "Sonic_Powerdown.zip",
+      "size": 1274,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

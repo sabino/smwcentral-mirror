@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-final-fantasy-vi-esper-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26524,
+  "title": "Final Fantasy VI - Esper World",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "dark",
+    "ghost house",
+    "mysterious",
+    "night",
+    "ruins",
+    "sad",
+    "spooky",
+    "water"
+  ],
+  "description": "(Also known as \"Another World of Beasts\")<br>\r\n<br>\r\nA slow, pensive, rather disconcerting tune with heavy echo which could work in caves, ghost houses, and other such places.",
+  "latest_version": "smwc-26524-1618190535",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26524,
+      "title": "Final Fantasy VI - Esper World",
+      "version": "smwc-26524-1618190535",
+      "upstream_time": 1618190535,
+      "download_url": "https://dl.smwcentral.net/26524/ff6cave.zip",
+      "filename": "ff6cave.zip",
+      "size": 30866,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

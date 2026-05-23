@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-the-dunes-at-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25290,
+  "title": "The Dunes At Night",
+  "authors": [
+    "VecchiaZim"
+  ],
+  "tags": [
+    "ambient",
+    "beach",
+    "calm",
+    "dark",
+    "desert",
+    "environmental",
+    "mysterious",
+    "night",
+    "temple"
+  ],
+  "description": "Deserts, beaches, nighttime, anything calm/atmospheric/mysterious. According to idol it's \"hesitant in all the naughty ways\" which I'm pretending is a compliment.",
+  "latest_version": "smwc-25290-1607666593",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25290,
+      "title": "The Dunes At Night",
+      "version": "smwc-25290-1607666593",
+      "upstream_time": 1607666593,
+      "download_url": "https://dl.smwcentral.net/25290/The%20Dunes%20at%20Night.zip",
+      "filename": "The Dunes at Night.zip",
+      "size": 33673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

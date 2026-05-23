@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-14",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23067,
+  "title": "14",
+  "authors": [
+    "BoneFish"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "night",
+    "space",
+    "water"
+  ],
+  "description": "A piece of music in 14/8 inspired by Steve Reich and American Football. I'd probably recommend you use this for forest levels because of heavy use of the marimba.",
+  "latest_version": "smwc-23067-1590888096",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23067,
+      "title": "14",
+      "version": "smwc-23067-1590888096",
+      "upstream_time": 1590888096,
+      "download_url": "https://dl.smwcentral.net/23067/14_.zip",
+      "filename": "14_.zip",
+      "size": 31525,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

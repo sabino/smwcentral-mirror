@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-overworld-music-disable-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12389,
+  "title": "Overworld Music Disable Fix",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "disable",
+    "lorom",
+    "music",
+    "needs remoderation",
+    "overworld"
+  ],
+  "description": "This patch fixes the problem where the overworld music doesn't play after certain overworld levels.  In fact, it allows you to choose for yourself which levels will disable the music and which will not.  No freespace required normally.",
+  "latest_version": "smwc-12389-1451237783",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12389,
+      "title": "Overworld Music Disable Fix",
+      "version": "smwc-12389-1451237783",
+      "upstream_time": 1451237783,
+      "download_url": "https://dl.smwcentral.net/12389/OW%2520Music%2520Disable%2520Fix.zip",
+      "filename": "OW%2520Music%2520Disable%2520Fix.zip",
+      "size": 1136,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

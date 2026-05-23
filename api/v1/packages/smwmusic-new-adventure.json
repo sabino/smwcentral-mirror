@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-adventure",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40157,
+  "title": "New Adventure!",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "grassland",
+    "overworld",
+    "title"
+  ],
+  "description": "Short sketch from a few months ago. Could fit welcome levels or title screens.",
+  "latest_version": "smwc-40157-1755290986",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40157,
+      "title": "New Adventure!",
+      "version": "smwc-40157-1755290986",
+      "upstream_time": 1755290986,
+      "download_url": "https://dl.smwcentral.net/40157/newadventure%20.zip",
+      "filename": "newadventure .zip",
+      "size": 30686,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

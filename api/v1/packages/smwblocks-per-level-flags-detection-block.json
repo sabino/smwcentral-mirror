@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-per-level-flags-detection-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 27073,
+  "title": "Per-Level Flags Detection Block",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "layer 2",
+    "lorom",
+    "sa-1",
+    "shatter",
+    "solid"
+  ],
+  "description": "This simple block will change its act as (and optionally shatter) when touched, if a specific per-level flag is set (either \"Invisible 1-Ups collected\" flag, \"All Dragon Coins collected\" flag, \"3-Up Moon collected\" flag). Check the asm file for more info and options.",
+  "latest_version": "smwc-27073-1627111937",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 27073,
+      "title": "Per-Level Flags Detection Block",
+      "version": "smwc-27073-1627111937",
+      "upstream_time": 1627111937,
+      "download_url": "https://dl.smwcentral.net/27073/perlevel_flag_detector.zip",
+      "filename": "perlevel_flag_detector.zip",
+      "size": 865,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

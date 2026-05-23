@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-level-depending-on-event",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40192,
+  "title": "Level Depending On Event",
+  "authors": [
+    "Deflaktor"
+  ],
+  "tags": [
+    "event",
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "The level number of an overworld tile changes after a particular event has been passed. This can be done for any number of levels, and each can change depending on a different event. Check out the readme and the asm files for more info.",
+  "latest_version": "smwc-40192-1753731032",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40192,
+      "title": "Level Depending On Event",
+      "version": "smwc-40192-1753731032",
+      "upstream_time": 1753731032,
+      "download_url": "https://dl.smwcentral.net/40192/EventLevelChange.zip",
+      "filename": "EventLevelChange.zip",
+      "size": 2967,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

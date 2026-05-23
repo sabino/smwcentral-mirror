@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-alcahest-dark-ambition",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30399,
+  "title": "Alcahest - Dark Ambition",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "Short and tense song that could fit a cutscene or a dark area.",
+  "latest_version": "smwc-30399-1652225419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30399,
+      "title": "Alcahest - Dark Ambition",
+      "version": "smwc-30399-1652225419",
+      "upstream_time": 1652225419,
+      "download_url": "https://dl.smwcentral.net/30399/10%20Dark%20Ambition.zip",
+      "filename": "10 Dark Ambition.zip",
+      "size": 35747,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

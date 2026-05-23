@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shelltrove-shores-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41625,
+  "title": "Shelltrove Shores (Map)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "overworld"
+  ],
+  "description": "Sunset Beach Overworld Map with resorts",
+  "latest_version": "smwc-41625-1774545912",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41625,
+      "title": "Shelltrove Shores (Map)",
+      "version": "smwc-41625-1774545912",
+      "upstream_time": 1774545912,
+      "download_url": "https://dl.smwcentral.net/41625/Shelltrove%20Shoes%20%28Map%29.zip",
+      "filename": "Shelltrove Shoes (Map).zip",
+      "size": 31194,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

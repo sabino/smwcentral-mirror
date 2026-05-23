@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-mega-man-bass-burner-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25776,
+  "title": "Mega Man & Bass - Burner Man",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "carnival",
+    "fire",
+    "forest",
+    "grassland",
+    "jungle"
+  ],
+  "description": "Burner Man's stage theme from Megaman & Bass.",
+  "latest_version": "smwc-25776-1612032839",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25776,
+      "title": "Mega Man & Bass - Burner Man",
+      "version": "smwc-25776-1612032839",
+      "upstream_time": 1612032839,
+      "download_url": "https://dl.smwcentral.net/25776/Burner%20Man.zip",
+      "filename": "Burner Man.zip",
+      "size": 33435,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22163,
+      "title": "Mega Man & Bass - Burner Man",
+      "version": "smwc-22163-1581960761",
+      "upstream_time": 1581960761,
+      "download_url": "https://dl.smwcentral.net/22163/Rockman%20%26%20Forte%20-%20Burner%20Man.zip",
+      "filename": "Rockman %26 Forte - Burner Man.zip",
+      "size": 56853,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

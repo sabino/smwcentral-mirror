@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-remove-carried-item",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3886,
+  "title": "Remove Carried Item",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "carry",
+    "item",
+    "lorom",
+    "remove"
+  ],
+  "description": "This item will remove the item the player is currently carrying. More information can be found in the .asm file.",
+  "latest_version": "smwc-3886-1410401975",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3886,
+      "title": "Remove Carried Item",
+      "version": "smwc-3886-1410401975",
+      "upstream_time": 1410401975,
+      "download_url": "https://dl.smwcentral.net/3886/remove_carrieditem.zip",
+      "filename": "remove_carrieditem.zip",
+      "size": 449,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

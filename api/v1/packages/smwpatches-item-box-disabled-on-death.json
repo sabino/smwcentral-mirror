@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-item-box-disabled-on-death",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 31711,
+  "title": "Item Box Disabled on Death",
+  "authors": [
+    "Final Theory"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "reserve item",
+    "sa-1"
+  ],
+  "description": "This patch fixes a glitch in the original SMW game. If Mario dies then it is still possible to drop the item in the item box by pressing Select. Thus losing your reserve item. <br>\r\n<br>\r\nThis patch checks if Mario is dying and disables the item box preventing the player from losing their reserve item. <br>\r\n<br>\r\nSpecial thanks to yoshifanatic for some coding assistance.",
+  "latest_version": "smwc-31711-1677590848",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 31711,
+      "title": "Item Box Disabled on Death",
+      "version": "smwc-31711-1677590848",
+      "upstream_time": 1677590848,
+      "download_url": "https://dl.smwcentral.net/31711/itemboxfix.zip",
+      "filename": "itemboxfix.zip",
+      "size": 396,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

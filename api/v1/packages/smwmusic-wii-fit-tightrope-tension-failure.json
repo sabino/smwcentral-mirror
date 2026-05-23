@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-wii-fit-tightrope-tension-failure",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34140,
+  "title": "Wii Fit - Tightrope Tension - Failure",
+  "authors": [
+    "KungFuFurby"
+  ],
+  "tags": [
+    "abstract",
+    "misc",
+    "miss",
+    "retro"
+  ],
+  "description": "Oh dear. Your bubble has been burst and you fell off the tightrope of a course down the pit.<br>\r\n<br>\r\nFrom the song originally ported in Super Famicompo 3 on the KFFSND sound driver.",
+  "latest_version": "smwc-34140-1692480872",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34140,
+      "title": "Wii Fit - Tightrope Tension - Failure",
+      "version": "smwc-34140-1692480872",
+      "upstream_time": 1692480872,
+      "download_url": "https://dl.smwcentral.net/34140/WiiFitTightropeTensionFailureSampled.zip",
+      "filename": "WiiFitTightropeTensionFailureSampled.zip",
+      "size": 35681,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34139,
+      "title": "Wii Fit - Tightrope Tension - Failure",
+      "version": "smwc-34139-1692480829",
+      "upstream_time": 1692480829,
+      "download_url": "https://dl.smwcentral.net/34139/WiiFitTightropeTensionFailureUnsampled.zip",
+      "filename": "WiiFitTightropeTensionFailureUnsampled.zip",
+      "size": 65646,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

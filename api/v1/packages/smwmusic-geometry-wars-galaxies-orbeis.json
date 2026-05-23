@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-geometry-wars-galaxies-orbeis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23133,
+  "title": "Geometry Wars Galaxies - Orbeis",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "abstract",
+    "space"
+  ],
+  "description": "Part of Wyatt Croucher's music pack. A hectic song that suits abstract and space levels.",
+  "latest_version": "smwc-23133-1590734257",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23133,
+      "title": "Geometry Wars Galaxies - Orbeis",
+      "version": "smwc-23133-1590734257",
+      "upstream_time": 1590734257,
+      "download_url": "https://dl.smwcentral.net/23133/orbeis.zip",
+      "filename": "orbeis.zip",
+      "size": 32142,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

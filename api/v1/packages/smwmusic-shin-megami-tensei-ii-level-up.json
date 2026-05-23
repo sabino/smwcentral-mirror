@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-level-up",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37268,
+  "title": "Shin Megami Tensei II - Level Up",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "tense"
+  ],
+  "description": "The level up jingle in SMT 2 and SMT if…",
+  "latest_version": "smwc-37268-1713422025",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37268,
+      "title": "Shin Megami Tensei II - Level Up",
+      "version": "smwc-37268-1713422025",
+      "upstream_time": 1713422025,
+      "download_url": "https://dl.smwcentral.net/37268/SMT2%20Level%20Up.zip",
+      "filename": "SMT2 Level Up.zip",
+      "size": 51195,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

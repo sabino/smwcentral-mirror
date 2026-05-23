@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-darkwing-duck-nes-quackerjack-s-bridge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31508,
+  "title": "Darkwing Duck (NES) - Quackerjack's Bridge",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "dark",
+    "night",
+    "retro",
+    "urban"
+  ],
+  "description": "Quackerjack's Bridge from Darkwing Duck on the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31508-1663842998",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31508,
+      "title": "Darkwing Duck (NES) - Quackerjack's Bridge",
+      "version": "smwc-31508-1663842998",
+      "upstream_time": 1663842998,
+      "download_url": "https://dl.smwcentral.net/31508/Darkwing%20Duck%20%28NES%29%20-%20Quackerjack%27s%20Bridge.zip",
+      "filename": "Darkwing Duck (NES) - Quackerjack%27s Bridge.zip",
+      "size": 78876,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

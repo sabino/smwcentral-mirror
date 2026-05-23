@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-solid-magikoopa-magic-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4085,
+  "title": "Solid Magikoopa Magic Block",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "lorom",
+    "magic",
+    "sa-1",
+    "sprite contact"
+  ],
+  "description": "A simple solid block like a cement block that can be affected by Magikoopa's magic spells.",
+  "latest_version": "smwc-4085-1426271270",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4085,
+      "title": "Solid Magikoopa Magic Block",
+      "version": "smwc-4085-1426271270",
+      "upstream_time": 1426271270,
+      "download_url": "https://dl.smwcentral.net/4085/SolidMagicBlock.zip",
+      "filename": "SolidMagicBlock.zip",
+      "size": 558,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

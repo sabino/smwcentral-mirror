@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-pokey-heading-yoshi-s-island-pokey",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41979,
+  "title": "Pokey Heading (Yoshi's Island Pokey)",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "needlenose",
+    "pokey",
+    "sa-1",
+    "yoshi's island"
+  ],
+  "description": "This is an enemy from Yoshi's Island that was always really funny.<br>\r\nThe Needlenose that it spawns can be defeated by thrown objects or eaten by Yoshi, which will make the Pokey really sad.<br>\r\nThe Pokey itself is mostly-invulnerable, only able to die from a star powered player, explosions, and lava.<br>\r\n<br>\r\nThere are 5 varieties available by default, accessible via Extra Byte 1;<br>\r\n- <b>Green</b>: Original behavior.<br>\r\n- <b>Yellow</b>: Launches the Needlenose at a consistent height.<br>\r\n- <b>Red</b>: Launches the Needlenose at much lower heights.<br>\r\n- <b>Blue</b>: Same behavior as the green variant, but its Needlenose never regrows, so it stays sad forever.<br>\r\n- <b>Gray</b>: The last bounce of its pattern will make the Needlenose explode.<br>\r\nMore varieties with different patterns can be added from the ASM file.<br>\r\n<br>\r\nExtra Byte 2 will delay its initial bounce of the Needlenose, allowing you to fine-tune it.<br>\r\n<br>\r\nThis sprite has also been uploaded on my Patreon, available <a href=\"https://www.patreon.com/posts/153546494\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-41979-1774910938",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41979,
+      "title": "Pokey Heading (Yoshi's Island Pokey)",
+      "version": "smwc-41979-1774910938",
+      "upstream_time": 1774910938,
+      "download_url": "https://dl.smwcentral.net/41979/NeedlenoseAndPokey.zip",
+      "filename": "NeedlenoseAndPokey.zip",
+      "size": 8774,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

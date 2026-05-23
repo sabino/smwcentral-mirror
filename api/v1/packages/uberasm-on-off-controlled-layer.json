@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-on-off-controlled-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40874,
+  "title": "ON/OFF Controlled Layer 2 Scroll",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "layer 2",
+    "lorom",
+    "on-off",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite command F2, the layer 2 scroll sprite that's controlled by the ON/OFF switch. By default, it'll make the layer 2 go down when the switch is ON, and go up when it's OFF. Additionally, it will flip the switch state when reaching the top, so it will start to move down again immediately (this can be disabled). In the file you can customize different parameters like acceleration, speed, movement range, or also change it to move horizontally instead of vertically.<br>\r\n<br>\r\nRequested by Knight of Time.",
+  "latest_version": "smwc-40874-1761412342",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40874,
+      "title": "ON/OFF Controlled Layer 2 Scroll",
+      "version": "smwc-40874-1761412342",
+      "upstream_time": 1761412342,
+      "download_url": "https://dl.smwcentral.net/40874/OnOffLayer2Scroll.zip",
+      "filename": "OnOffLayer2Scroll.zip",
+      "size": 1764,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

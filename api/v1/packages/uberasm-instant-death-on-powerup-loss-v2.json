@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-instant-death-on-powerup-loss-v2",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 22847,
+  "title": "Instant Death on Powerup Loss v2.1",
+  "authors": [
+    "badummzi"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "instant kill",
+    "kaizo",
+    "lorom",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This uberASM can be inserted as level specific asm or as gamemode 14.<br>\r\n<br>\r\nAll it does, is, killing the player instantly, after getting hurt.<br>\r\n<br>\r\nUpdate to Version 2.1:<br>\r\n-Small optimizations<br>\r\n<br>\r\nCompatible with SA-1",
+  "latest_version": "smwc-22847-1589867198",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 22847,
+      "title": "Instant Death on Powerup Loss v2.1",
+      "version": "smwc-22847-1589867198",
+      "upstream_time": 1589867198,
+      "download_url": "https://dl.smwcentral.net/22847/idopl_v2.1.zip",
+      "filename": "idopl_v2.1.zip",
+      "size": 26921,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

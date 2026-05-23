@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-chaos",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34485,
+  "title": "Shin Megami Tensei II - Chaos",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "final",
+    "mysterious",
+    "sad",
+    "temple"
+  ],
+  "description": "(Also known as \"Shin Megami Tensei if... - Between the Seals\")<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Skewer\"><a href=\"/?p=profile&amp;id=1055\" style=\"color: var(--user-color-2);\" class=\"un\">Skewer</a></span>",
+  "latest_version": "smwc-34485-1695284862",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34485,
+      "title": "Shin Megami Tensei II - Chaos",
+      "version": "smwc-34485-1695284862",
+      "upstream_time": 1695284862,
+      "download_url": "https://dl.smwcentral.net/34485/Between%20The%20Seals.zip",
+      "filename": "Between The Seals.zip",
+      "size": 50563,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

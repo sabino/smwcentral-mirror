@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tomodachi-life-forecast",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29390,
+  "title": "Tomodachi Life - Forecast",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "Music Played in Forecast from Tomodachi's Life. Could fit on the beach levels and overworld. Also Yoshi's House levels or Toad's House.",
+  "latest_version": "smwc-29390-1643580053",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29390,
+      "title": "Tomodachi Life - Forecast",
+      "version": "smwc-29390-1643580053",
+      "upstream_time": 1643580053,
+      "download_url": "https://dl.smwcentral.net/29390/Tomodachi%20Life%20-%20Forecast.zip",
+      "filename": "Tomodachi Life - Forecast.zip",
+      "size": 31710,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sonic-robo-blast-2-rocky-mountain-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37018,
+  "title": "Sonic Robo Blast 2 - Rocky Mountain Zone 1 (Arrangement)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "jungle",
+    "mountain"
+  ],
+  "description": "Could fit on rocky mountain levels.",
+  "latest_version": "smwc-37018-1710479597",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37018,
+      "title": "Sonic Robo Blast 2 - Rocky Mountain Zone 1 (Arrangement)",
+      "version": "smwc-37018-1710479597",
+      "upstream_time": 1710479597,
+      "download_url": "https://dl.smwcentral.net/37018/rmz1%20arrangement.zip",
+      "filename": "rmz1 arrangement.zip",
+      "size": 32348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37017,
+      "title": "Sonic Robo Blast 2 - Rocky Mountain Zone 2 (Arrangement)",
+      "version": "smwc-37017-1710479599",
+      "upstream_time": 1710479599,
+      "download_url": "https://dl.smwcentral.net/37017/rmz2%20arrangement.zip",
+      "filename": "rmz2 arrangement.zip",
+      "size": 33109,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

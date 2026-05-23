@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yoshi-s-story-yoshi-s-in-the-wind",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40237,
+  "title": "Yoshi's Story - Yoshi's in the Wind",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "calm",
+    "sea",
+    "snow"
+  ],
+  "description": "A calm track from Yoshi's Story.<br>\r\n<br>\r\nFits in underwater levels.<br>\r\n<br>\r\nUpdate:<br>\r\n-Added a / after $F4 $02",
+  "latest_version": "smwc-40237-1760106929",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40237,
+      "title": "Yoshi's Story - Yoshi's in the Wind",
+      "version": "smwc-40237-1760106929",
+      "upstream_time": 1760106929,
+      "download_url": "https://dl.smwcentral.net/40237/Yoshis_in_the_Wind.zip",
+      "filename": "Yoshis_in_the_Wind.zip",
+      "size": 41687,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

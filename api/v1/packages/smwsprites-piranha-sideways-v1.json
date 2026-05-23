@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-piranha-sideways-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20420,
+  "title": "Piranha Sideways v1.0",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "piranha",
+    "piranha plant",
+    "sa-1"
+  ],
+  "description": "A piranha plant that comes out of horizontal pipes.<br>\r\n<br>\r\nUses first extra bit: YES<br>\r\nIt's direction depends on the first extra bit.  If it is set it will travel to the right to come out of the pipe.  Otherwise it will travel left to come out of the pipe.<br>\r\n<br>\r\nv1.0<br>\r\n-----<br>\r\nTattletale - moved out of pixi.",
+  "latest_version": "smwc-20420-1565022455",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20420,
+      "title": "Piranha Sideways v1.0",
+      "version": "smwc-20420-1565022455",
+      "upstream_time": 1565022455,
+      "download_url": "https://dl.smwcentral.net/20420/piranhaSideways_v1.0.zip",
+      "filename": "piranhaSideways_v1.0.zip",
+      "size": 5332,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

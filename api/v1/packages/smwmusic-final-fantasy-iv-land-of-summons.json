@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-iv-land-of-summons",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7784,
+  "title": "Final Fantasy IV - Land of Summons",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "dark",
+    "ghost house"
+  ],
+  "description": "(Also known as \"Illusionary World\" and \"The Town of Illusions\")<br>\r\n<br>\r\nA creepy song that could fit to ghost houses and caves, or even a final submap.",
+  "latest_version": "smwc-7784-1320048364",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7784,
+      "title": "Final Fantasy IV - Land of Summons",
+      "version": "smwc-7784-1320048364",
+      "upstream_time": 1320048364,
+      "download_url": "https://dl.smwcentral.net/7784/Illusionary%20World.zip",
+      "filename": "Illusionary World.zip",
+      "size": 70697,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

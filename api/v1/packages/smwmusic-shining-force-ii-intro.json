@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shining-force-ii-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16742,
+  "title": "Shining Force II - Intro",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "dark",
+    "tense"
+  ],
+  "description": "This is the spooky intro music for Shining Force II for Sega Genesis. I gave this arrangement a more ambient feel than the Genesis could provide. It probably wouldn't fit well in-game other than perhaps a spooky dark area or cut scene, but of course it's up to you! I do intend to port more tracks from this game and maybe other games in the Shining series, so perhaps it'll become a soundtrack. We'll have to see.<br>\r\n",
+  "latest_version": "smwc-16742-1512901385",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16742,
+      "title": "Shining Force II - Intro",
+      "version": "smwc-16742-1512901385",
+      "upstream_time": 1512901385,
+      "download_url": "https://dl.smwcentral.net/16742/sf2intro.zip",
+      "filename": "sf2intro.zip",
+      "size": 66460,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

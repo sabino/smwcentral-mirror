@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-ledge-vine",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41116,
+  "title": "Ledge Vine",
+  "authors": [
+    "ASM"
+  ],
+  "tags": [
+    "ledge",
+    "lorom",
+    "sa-1",
+    "vine"
+  ],
+  "description": "This block acts like a ledge if the player is standing on top of the block, but pressing down makes it act like a vine. Unlike 'Vinecloud', this one sets a value in RAM address $8B that allows the climbing flag to be set so that the player doesn't just fall if not pressing down. When climbing up from a vine below it, the player will pop up into the air and land on the top of the ledge.",
+  "latest_version": "smwc-41116-1764223905",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41116,
+      "title": "Ledge Vine",
+      "version": "smwc-41116-1764223905",
+      "upstream_time": 1764223905,
+      "download_url": "https://dl.smwcentral.net/41116/Ledge%20Vine.zip",
+      "filename": "Ledge Vine.zip",
+      "size": 796,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

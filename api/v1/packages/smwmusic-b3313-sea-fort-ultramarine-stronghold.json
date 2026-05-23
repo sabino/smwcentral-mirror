@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-b3313-sea-fort-ultramarine-stronghold",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40387,
+  "title": "b3313 - Sea Fort / Ultramarine Stronghold",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "overworld",
+    "sewer",
+    "space",
+    "water"
+  ],
+  "description": "A dinky remix of the SMB1 underwater music featured in b3313.<br>\r\n<br>\r\nThis port has instrumentation inspired by the SMAS version of the track, but don't be fooled, it still has all the poor MIDI conversion charm of the original, including the inaccurate notes and 4-note polyphony limit!",
+  "latest_version": "smwc-40387-1759580021",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40387,
+      "title": "b3313 - Sea Fort / Ultramarine Stronghold",
+      "version": "smwc-40387-1759580021",
+      "upstream_time": 1759580021,
+      "download_url": "https://dl.smwcentral.net/40387/seafort.zip",
+      "filename": "seafort.zip",
+      "size": 31194,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-remove-kebab-chrono-trigger-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16935,
+  "title": "Remove Kebab (Chrono Trigger Style)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "The meme song we all know and love, using most of the instruments from the Guardia Millenial Fair from Chrono Trigger. Also known as Serbia Strong.<br>\r\n<br>\r\nGood for title screens and cutscenes. Also overworlds too maybe.<br>\r\n<br>\r\n(btw yes, this is a serious meme port, before anyone asks)",
+  "latest_version": "smwc-16935-1516131318",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16935,
+      "title": "Remove Kebab (Chrono Trigger Style)",
+      "version": "smwc-16935-1516131318",
+      "upstream_time": 1516131318,
+      "download_url": "https://dl.smwcentral.net/16935/REMOVE.zip",
+      "filename": "REMOVE.zip",
+      "size": 75057,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

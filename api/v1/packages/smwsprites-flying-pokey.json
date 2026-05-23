@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-flying-pokey",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20678,
+  "title": "Flying Pokey",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "pokey",
+    "sa-1"
+  ],
+  "description": "A pokey which flies. It'll drop its segments when Mario passes below him.",
+  "latest_version": "smwc-20678-1564617255",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20678,
+      "title": "Flying Pokey",
+      "version": "smwc-20678-1564617255",
+      "upstream_time": 1564617255,
+      "download_url": "https://dl.smwcentral.net/20678/Flying%20Pokey.zip",
+      "filename": "Flying Pokey.zip",
+      "size": 2407,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

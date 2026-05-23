@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-der-langrisser-story",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7665,
+  "title": "Der Langrisser - Story",
+  "authors": [
+    "Counterfeit"
+  ],
+  "tags": [
+    "overworld",
+    "title"
+  ],
+  "description": "Song that plays during a scenario overview. Suits overworlds and title screens best.",
+  "latest_version": "smwc-7665-1320042075",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7665,
+      "title": "Der Langrisser - Story",
+      "version": "smwc-7665-1320042075",
+      "upstream_time": 1320042075,
+      "download_url": "https://dl.smwcentral.net/7665/DLStory.zip",
+      "filename": "DLStory.zip",
+      "size": 71829,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

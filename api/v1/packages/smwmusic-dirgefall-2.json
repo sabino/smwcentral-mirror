@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dirgefall-2",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7911,
+  "title": "Dirgefall 2.0",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "cave"
+  ],
+  "description": "An upbeat custom composition remix of a rather old composition.<br>\r\n<br>\r\n<br>\r\nUpdate (12/14/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 427 bytes.",
+  "latest_version": "smwc-7911-1312496700",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7911,
+      "title": "Dirgefall 2.0",
+      "version": "smwc-7911-1312496700",
+      "upstream_time": 1312496700,
+      "download_url": "https://dl.smwcentral.net/7911/Dirgefall.2.zip",
+      "filename": "Dirgefall.2.zip",
+      "size": 51521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

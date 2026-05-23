@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-amethyst-chasms",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25688,
+  "title": "Amethyst Chasms",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "Crystals theme, using only 2 samples while keeping the spirits. Fits well on crystals abstract levels.",
+  "latest_version": "smwc-25688-1610743921",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25688,
+      "title": "Amethyst Chasms",
+      "version": "smwc-25688-1610743921",
+      "upstream_time": 1610743921,
+      "download_url": "https://dl.smwcentral.net/25688/Amethyst%20Chasms.zip",
+      "filename": "Amethyst Chasms.zip",
+      "size": 26059,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

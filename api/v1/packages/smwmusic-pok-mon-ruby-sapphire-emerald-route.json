@@ -1,0 +1,77 @@
+{
+  "name": "smwmusic-pok-mon-ruby-sapphire-emerald-route",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25672,
+  "title": "Pokémon Ruby/Sapphire/Emerald - Route 101",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "desert",
+    "grassland",
+    "mountain",
+    "town"
+  ],
+  "description": "Song that The Route 103 a from Pokémon Ruby/Sapphire/Emerald. Could fit a town or grassland levels.",
+  "latest_version": "smwc-25672-1610653540",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25672,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Route 101",
+      "version": "smwc-25672-1610653540",
+      "upstream_time": 1610653540,
+      "download_url": "https://dl.smwcentral.net/25672/Pokemon%20RSE%20-%20Route%20103.zip",
+      "filename": "Pokemon RSE - Route 103.zip",
+      "size": 33089,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23381,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Route 113",
+      "version": "smwc-23381-1593032039",
+      "upstream_time": 1593032039,
+      "download_url": "https://dl.smwcentral.net/23381/Route%20113.zip",
+      "filename": "Route 113.zip",
+      "size": 36739,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19246,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Route 111",
+      "version": "smwc-19246-1551760854",
+      "upstream_time": 1551760854,
+      "download_url": "https://dl.smwcentral.net/19246/Route%20111.zip",
+      "filename": "Route 111.zip",
+      "size": 80850,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15558,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Route 111",
+      "version": "smwc-15558-1495470632",
+      "upstream_time": 1495470632,
+      "download_url": "https://dl.smwcentral.net/15558/Pokemon%20%28Ruby%2C%20Sapphire%29.zip",
+      "filename": "Pokemon (Ruby%2C Sapphire).zip",
+      "size": 32959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

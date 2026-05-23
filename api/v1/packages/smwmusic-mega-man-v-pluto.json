@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-v-pluto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29181,
+  "title": "Mega Man V - Pluto",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "industrial",
+    "space"
+  ],
+  "description": "Pluto from Mega Man V (GB). Could fit a industrial levels.",
+  "latest_version": "smwc-29181-1643662682",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29181,
+      "title": "Mega Man V - Pluto",
+      "version": "smwc-29181-1643662682",
+      "upstream_time": 1643662682,
+      "download_url": "https://dl.smwcentral.net/29181/Mega%20Man%20V%20%28GB%29%20-%20Pluto%20%28U%29.zip",
+      "filename": "Mega Man V (GB) - Pluto (U).zip",
+      "size": 32584,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

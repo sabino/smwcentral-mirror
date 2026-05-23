@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-fading-lights-v1-1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41443,
+  "title": "Fading Lights v1.1.2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "dark",
+    "light",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM will fade the brightness in the level in and out. There's two different modes available:<br>\r\n- Constant fading in/out based on a timer.<br>\r\n- Fade based on a certain switch. This can also be of two types: lights go back to bright when hitting a switch, but fade immediately to dark; or they only fade to dark when the switch goes off. Possible switches are: ON/OFF, blue POW, silver POW, red ? block.<br>\r\nIn the file you can customize some parameters: how bright/dark the lights go and how long the fade will take.<br>\r\n<br>\r\nv1.1:<br>\r\n- Doesn't use a dedicated HDMA channel anymore (smh).<br>\r\n- Uses 2 bytes of freeram instead of 7.<br>\r\n- Smaller code.<br>\r\n<br>\r\nv1.1.1:<br>\r\n- Fixed a bug where this causes flashing during level end.<br>\r\n<br>\r\nv1.1.2<br>\r\n- Fixed an underflow bug that caused the screen to turn black if !DarkValue was set lower than the default.",
+  "latest_version": "smwc-41443-1768763821",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41443,
+      "title": "Fading Lights v1.1.2",
+      "version": "smwc-41443-1768763821",
+      "upstream_time": 1768763821,
+      "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
+      "filename": "lights_timer asar2.zip",
+      "size": 1920,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

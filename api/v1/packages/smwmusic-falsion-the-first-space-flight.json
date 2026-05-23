@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-falsion-the-first-space-flight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29957,
+  "title": "Falsion - The First Space Flight",
+  "authors": [
+    "mueuen"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "boss",
+    "chase",
+    "space"
+  ],
+  "description": "Energetic song from one of Konami's schmups.<br>\r\nWould fit best with a level that has some scrolling shooter elements.",
+  "latest_version": "smwc-29957-1658795407",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29957,
+      "title": "Falsion - The First Space Flight",
+      "version": "smwc-29957-1658795407",
+      "upstream_time": 1658795407,
+      "download_url": "https://dl.smwcentral.net/29957/falsion_the_first_space_flight.zip",
+      "filename": "falsion_the_first_space_flight.zip",
+      "size": 52077,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

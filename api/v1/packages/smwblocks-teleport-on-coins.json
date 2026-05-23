@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41146,
+  "title": "Teleport on Coins",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Teleports the player when they acquire a certain amount of coins.<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41146-1764371563",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41146,
+      "title": "Teleport on Coins",
+      "version": "smwc-41146-1764371563",
+      "upstream_time": 1764371563,
+      "download_url": "https://dl.smwcentral.net/41146/teleport_coins.zip",
+      "filename": "teleport_coins.zip",
+      "size": 640,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

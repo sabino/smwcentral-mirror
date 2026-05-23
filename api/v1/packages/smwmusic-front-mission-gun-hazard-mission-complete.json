@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-front-mission-gun-hazard-mission-complete",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36782,
+  "title": "Front Mission: Gun Hazard - Mission Complete",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "misc"
+  ],
+  "description": "The song that plays after you beat a level in Gun Hazard. Could probably fit a castle destruction scene.<br>\r\n<br>\r\nIncludes an option to skip the intro (0:00-0:03) (Insert size will be 0x019F bytes)<br>\r\n<br>\r\nUpdate (1/30/2024):<br>\r\n- Added an intro only version (For when a castle is blown up, which is before any text appears in the black part of the screen) (Size is 0x006F bytes)",
+  "latest_version": "smwc-36782-1706735294",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36782,
+      "title": "Front Mission: Gun Hazard - Mission Complete",
+      "version": "smwc-36782-1706735294",
+      "upstream_time": 1706735294,
+      "download_url": "https://dl.smwcentral.net/36782/Mission%20Complete.zip",
+      "filename": "Mission Complete.zip",
+      "size": 144262,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

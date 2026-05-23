@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-metal-combat-viscount-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7645,
+  "title": "Metal Combat - Viscount's Theme",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "overworld"
+  ],
+  "description": "This is the song for when you fight Viscount on the moon in Metal Combat. Upbeat theme.",
+  "latest_version": "smwc-7645-1311970765",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7645,
+      "title": "Metal Combat - Viscount's Theme",
+      "version": "smwc-7645-1311970765",
+      "upstream_time": 1311970765,
+      "download_url": "https://dl.smwcentral.net/7645/MC%20-%20Viscount%27s%20Theme.zip",
+      "filename": "MC - Viscount%27s Theme.zip",
+      "size": 70316,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

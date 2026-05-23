@@ -1,0 +1,31 @@
+{
+  "name": "tools-snes9x-8mb-custom-build",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4638,
+  "title": "Snes9x 8MB Custom Build",
+  "authors": [
+    "FuSoYa"
+  ],
+  "tags": [
+    "emulator",
+    "sa-1"
+  ],
+  "description": "This program is an unofficial build of Snes9x, which fixes Snes9x's implementation of the SA-1's bank switch registers to honor bit 7 (previously it would act as though the bit was always on). This means that by placing the values 4,5,6,7 in $2220-$2223, you can access all 8MB of a 64Mbit ROM at the same time without any further bank switching required. <br>\r\n<br>\r\nThis build also restores the ExLoROM map to 64Mbits, as it appears to have been accidently reduced to 48Mbits in the current 1.5x series of Snes9x. ",
+  "latest_version": "smwc-4638-1363205403",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4638,
+      "title": "Snes9x 8MB Custom Build",
+      "version": "smwc-4638-1363205403",
+      "upstream_time": 1363205403,
+      "download_url": "https://dl.smwcentral.net/4638/snes9x1.53-FuSoYa-8MB_R1.zip",
+      "filename": "snes9x1.53-FuSoYa-8MB_R1.zip",
+      "size": 1000595,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

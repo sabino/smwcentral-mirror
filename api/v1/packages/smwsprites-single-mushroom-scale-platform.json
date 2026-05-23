@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-single-mushroom-scale-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20580,
+  "title": "Single Mushroom Scale Platform",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "scale",
+    "scale platform"
+  ],
+  "description": "This platform sinks when Mario is touching it from above and rises when it is not. The first extra byte customises its sinking speed; the second one, its rising speed (vanilla values: 08FE). Please note that very high speeds can make the scale tiles not appear.<br>\r\n<br>\r\nCompletely coded from scratch (and thus, contains nothing of the somewhat obscure code of the dissasembly). It also fixes several bugs related to the platforms, such as the tile generation that occurs while in equilibrium and the cutoff that appears when despawning in a position of non-equilibrium.",
+  "latest_version": "smwc-20580-1564398550",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20580,
+      "title": "Single Mushroom Scale Platform",
+      "version": "smwc-20580-1564398550",
+      "upstream_time": 1564398550,
+      "download_url": "https://dl.smwcentral.net/20580/single_scale.zip",
+      "filename": "single_scale.zip",
+      "size": 1456,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

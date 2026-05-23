@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-net-koopas",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3611,
+  "title": "Net Koopas",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "net koopa",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprites 22-25 in SMW, the net Koopas.  They have more options than would fit within a single .cfg file (horizontal/vertical, green/red, above/below the net), so I included two.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3611-1277492502",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3611,
+      "title": "Net Koopas",
+      "version": "smwc-3611-1277492502",
+      "upstream_time": 1277492502,
+      "download_url": "https://dl.smwcentral.net/3611/SMWSDIS%20-%20sprites%2022-25%20-%20net%20Koopas.zip",
+      "filename": "SMWSDIS - sprites 22-25 - net Koopas.zip",
+      "size": 3469,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

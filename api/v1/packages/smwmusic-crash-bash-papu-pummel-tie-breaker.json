@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bash-papu-pummel-tie-breaker",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37225,
+  "title": "Crash Bash - Papu Pummel / Tie Breaker",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "boss",
+    "jungle",
+    "ruins",
+    "temple"
+  ],
+  "description": "An intense tribal song that plays in the boss fight against Papu Papu in Crash Bash. It also plays in the secret Tie Breaker minigame that is only avaliable in co-op mode when the two players are in different teams.<br>\r\n<br>\r\nNote: Not compatible with Yoshi, thunder and Bonus End.",
+  "latest_version": "smwc-37225-1712509175",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37225,
+      "title": "Crash Bash - Papu Pummel / Tie Breaker",
+      "version": "smwc-37225-1712509175",
+      "upstream_time": 1712509175,
+      "download_url": "https://dl.smwcentral.net/37225/CBash%20-%20Papu%20Pummel.zip",
+      "filename": "CBash - Papu Pummel.zip",
+      "size": 112012,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

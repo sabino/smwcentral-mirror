@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tails-adventure-battle-fortress",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16020,
+  "title": "Tails Adventure - Battle Fortress",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "cutscene",
+    "tense"
+  ],
+  "description": "The song that plays in Battle Fortress in Tails Adventure.",
+  "latest_version": "smwc-16020-1503271306",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16020,
+      "title": "Tails Adventure - Battle Fortress",
+      "version": "smwc-16020-1503271306",
+      "upstream_time": 1503271306,
+      "download_url": "https://dl.smwcentral.net/16020/Tails%20Adventure%20-%20Battle%20Fortress.zip",
+      "filename": "Tails Adventure - Battle Fortress.zip",
+      "size": 31197,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

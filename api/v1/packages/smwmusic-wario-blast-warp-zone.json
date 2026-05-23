@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wario-blast-warp-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13979,
+  "title": "Wario Blast - Warp Zone",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "cave",
+    "night",
+    "urban"
+  ],
+  "description": "A 16-bit arrangement of the jazzy music from the second stage of Wario Blast.  Could probably suit a cave.  *shrug*",
+  "latest_version": "smwc-13979-1470070452",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13979,
+      "title": "Wario Blast - Warp Zone",
+      "version": "smwc-13979-1470070452",
+      "upstream_time": 1470070452,
+      "download_url": "https://dl.smwcentral.net/13979/Warp%20Zone.zip",
+      "filename": "Warp Zone.zip",
+      "size": 31503,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

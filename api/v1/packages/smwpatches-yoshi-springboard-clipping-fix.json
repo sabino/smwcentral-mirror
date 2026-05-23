@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-yoshi-springboard-clipping-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14857,
+  "title": "Yoshi-Springboard Clipping Fix",
+  "authors": [
+    "lolcats439"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "super fx"
+  ],
+  "description": "Fixes the Yoshi-Springboard glitch where you eat the springboard while walking on top of it, and clip through the blocks above.",
+  "latest_version": "smwc-14857-1484267782",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14857,
+      "title": "Yoshi-Springboard Clipping Fix",
+      "version": "smwc-14857-1484267782",
+      "upstream_time": 1484267782,
+      "download_url": "https://dl.smwcentral.net/14857/yoshispringboardfix.zip",
+      "filename": "yoshispringboardfix.zip",
+      "size": 802,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

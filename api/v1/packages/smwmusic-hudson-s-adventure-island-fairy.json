@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-fairy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39377,
+  "title": "Hudson's Adventure Island - Fairy",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "retro",
+    "upbeat"
+  ],
+  "description": "Fairy from Hudson's Adventure Island.",
+  "latest_version": "smwc-39377-1741194006",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39377,
+      "title": "Hudson's Adventure Island - Fairy",
+      "version": "smwc-39377-1741194006",
+      "upstream_time": 1741194006,
+      "download_url": "https://dl.smwcentral.net/39377/Hudson%27s%20Adventure%20Island%20-%20Fairy.zip",
+      "filename": "Hudson%27s Adventure Island - Fairy.zip",
+      "size": 48012,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

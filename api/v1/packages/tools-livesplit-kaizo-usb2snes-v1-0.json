@@ -1,0 +1,32 @@
+{
+  "name": "tools-livesplit-kaizo-usb2snes-v1-0",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 28607,
+  "title": "LiveSplit.Kaizo.USB2SNES v1.0.2",
+  "authors": [
+    "NecroSky90"
+  ],
+  "tags": [
+    "livesplit",
+    "smw",
+    "speedrun"
+  ],
+  "description": "Livesplit.Kaizo.USB2SNES<br>\r\n<br>\r\nA livesplit component for splitting various kaizo romhacks automatically via USB2SNES, based on the work of tewtal and Skarsnik<br>\r\nCheck out their work here: <br>\r\n<a>https://github.com/usb2snes/LiveSplit.USB2SNESSplitter</a><br>\r\n<br>\r\n<br>\r\n<br>\r\nWhat do you need?<br>\r\n•    LiveSplit<br>\r\n•    QUsb2Snes (You can get the latest version <a href=\"https://github.com/usb2snes/usb2snes/releases\" rel=\"nofollow\">here</a>)<br>\r\n•    One of the supported devices<br>\r\n•    One of the supported hacks<br>\r\n•    Splits for this hack<br>\r\n<br>\r\n<br>\r\n<br>\r\nSupported devices<br>\r\n<br>\r\n•    Fxpak Pro (Install firmware based on these instructions: <a>http://usb2snes.com/</a>)<br>\r\n•    SNES Classic (See installation guide <a href=\"https://github.com/Skarsnik/QUsb2snes/blob/master/README.md#snes-classic-called-also-snes-mini\" rel=\"nofollow\">here</a>)<br>\r\n<br>\r\n<br>\r\n<br>\r\nInstallation<br>\r\n<br>\r\n•    Copy \"LiveSplit.USB2SNESSplitter.dll\" to your LiveSplit-folder \"LiveSplit/Components\"<br>\r\n•    In Livesplit -&gt; Edit Layout… <br>\r\n•    Add -&gt; Control -&gt; USB2SNES Auto Splitter<br>\r\n•    Connect your device via USB with your computer and start QUsb2Snes<br>\r\n•    Layout Settings (lower left corner) -&gt; choose tab 'USB2SNES Auto Splitter'<br>\r\n•    Click 'Autodetect' next to Device to find your device (if it is not detected, make sure the correct firmware is installed, connection is working and QUsb2Snes is running)<br>\r\n•    Config file: Choose the config file corresponding to the hack. A config file works for all categories of a romhack.<br>\r\n•    Set correct exits for your splits. Default settings for hacks are level names (followed by (S) for secret exits). Settings can be changed in the config file or <br>\r\n     through the drop-down menus next to your splits in Layout Settings<br>\r\n•    Attention: For a hack to be recognized correctly, the correct Game Name has to be set in LiveSplit (Best done with Autocomplete in 'Edit Splits...')<br>\r\n<br>\r\n<br>\r\n<br>\r\nSupported Hacks<br>\r\n<br>\r\nLiveSplit.Kaizo does not work on all hacks and has to be adjusted individually for other hacks. By now these hacks work without issues:<br>\r\n<br>\r\nAkogare 2<br>\r\nBaby Kaizo World<br>\r\nClimb The Tower<br>\r\nEl Dorado<br>\r\nGrand Poo World 2<br>\r\nInvictus<br>\r\nMahogen<br>\r\nQuickie World<br>\r\nQuickie World 2<br>\r\nShellax<br>\r\n<br>\r\n<br>\r\nIf you wish for a specific hack, let me know and I'll have a look on implementing it.<br>\r\n<br>\r\nI'm always happy to hear about critic and suggestions to improving this tool!<br>\r\n<br>\r\nv1.0.1:<br>\r\n- Casio Mario World<br>\r\n- Orcus<br>\r\nhave been added to the list of supported hacks<br>\r\n<br>\r\nv1.0.2<br>\r\n<br>\r\n- Boogie Wonderland<br>\r\n- Dreams<br>\r\n- Joy of Kaizo<br>\r\n- Polyphony<br>\r\n- Silencio<br>\r\n- Super Joe Bros. 2<br>\r\n- Super Swunsh World 2<br>\r\n<br>\r\nhave been added to the list of supported hacks",
+  "latest_version": "smwc-28607-1635525450",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 28607,
+      "title": "LiveSplit.Kaizo.USB2SNES v1.0.2",
+      "version": "smwc-28607-1635525450",
+      "upstream_time": 1635525450,
+      "download_url": "https://dl.smwcentral.net/28607/LiveSplit.Kaizo.USB2SNES_v1.0.2.zip",
+      "filename": "LiveSplit.Kaizo.USB2SNES_v1.0.2.zip",
+      "size": 138252,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

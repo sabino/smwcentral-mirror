@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-mountains-and-pines",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27295,
+  "title": "Mountains and Pines",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "mountain",
+    "needs remoderation"
+  ],
+  "description": "Here's another Layer 2/Layer 3 combo background with a pine forest set against Layer 3 mountains based on GFX19.",
+  "latest_version": "smwc-27295-1623889221",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27295,
+      "title": "Mountains and Pines",
+      "version": "smwc-27295-1623889221",
+      "upstream_time": 1623889221,
+      "download_url": "https://dl.smwcentral.net/27295/Mountain%20Trees.zip",
+      "filename": "Mountain Trees.zip",
+      "size": 3255,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 11863,
+      "title": "Mountains and Pines",
+      "version": "smwc-11863-1438279313",
+      "upstream_time": 1438279313,
+      "download_url": "https://dl.smwcentral.net/11863/mountains.zip",
+      "filename": "mountains.zip",
+      "size": 3388,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

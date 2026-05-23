@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-infinite-star",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40195,
+  "title": "Infinite Star",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1",
+    "star"
+  ],
+  "description": "Makes it so star power is infinite once a star is collected.<br>\r\nIncludes two variants: one changes the music to the regular star theme, and another which keeps the level music intact.",
+  "latest_version": "smwc-40195-1756744188",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40195,
+      "title": "Infinite Star",
+      "version": "smwc-40195-1756744188",
+      "upstream_time": 1756744188,
+      "download_url": "https://dl.smwcentral.net/40195/Infinite_Star.zip",
+      "filename": "Infinite_Star.zip",
+      "size": 476,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

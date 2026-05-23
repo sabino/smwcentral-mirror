@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-star-fox-titania-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7994,
+  "title": "Star Fox - Titania Boss",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "boss",
+    "ice"
+  ],
+  "description": "A nice upbeat song from Star Fox. Serves its general purpose.",
+  "latest_version": "smwc-7994-1311932797",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7994,
+      "title": "Star Fox - Titania Boss",
+      "version": "smwc-7994-1311932797",
+      "upstream_time": 1311932797,
+      "download_url": "https://dl.smwcentral.net/7994/StarFox%20-%20Titania%20Boss.zip",
+      "filename": "StarFox - Titania Boss.zip",
+      "size": 234959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

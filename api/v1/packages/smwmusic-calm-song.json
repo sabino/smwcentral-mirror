@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-calm-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12048,
+  "title": "Calm Song",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "cutscene",
+    "dark",
+    "desert",
+    "forest",
+    "industrial",
+    "night",
+    "ruins",
+    "sad",
+    "temple",
+    "town"
+  ],
+  "description": "<a href=\"https://www.youtube.com/watch?v=zWALg6ygDOY\" rel=\"nofollow\">&gt; Preview (Youtube) &lt;</a><br>\r\n<br>\r\nA melancholic and calm yet unsettling song.<br>\r\nIt could fit in a lot of places, like a sad setting, or a graveyard. It has a general enough sound to it to fit in many places, especially desolate ones.",
+  "latest_version": "smwc-12048-1444872540",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12048,
+      "title": "Calm Song",
+      "version": "smwc-12048-1444872540",
+      "upstream_time": 1444872540,
+      "download_url": "https://dl.smwcentral.net/12048/calmsong.zip",
+      "filename": "calmsong.zip",
+      "size": 31419,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

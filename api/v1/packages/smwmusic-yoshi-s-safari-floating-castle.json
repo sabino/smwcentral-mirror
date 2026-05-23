@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-yoshi-s-safari-floating-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30150,
+  "title": "Yoshi's Safari - Floating Castle",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "castle",
+    "sky"
+  ],
+  "description": "Could fit a sky/abstract setting.",
+  "latest_version": "smwc-30150-1652205777",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30150,
+      "title": "Yoshi's Safari - Floating Castle",
+      "version": "smwc-30150-1652205777",
+      "upstream_time": 1652205777,
+      "download_url": "https://dl.smwcentral.net/30150/14%20Floating%20Castle.zip",
+      "filename": "14 Floating Castle.zip",
+      "size": 54527,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

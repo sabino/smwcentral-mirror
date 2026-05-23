@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-oracle-of-seasons-hero-s-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11439,
+  "title": "The Legend of Zelda: Oracle of Seasons - Hero's Cave",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "cave",
+    "overworld"
+  ],
+  "description": "The simple track that plays in the Hero's Cave. Could possibly fit in a cave overworld.",
+  "latest_version": "smwc-11439-1436459991",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11439,
+      "title": "The Legend of Zelda: Oracle of Seasons - Hero's Cave",
+      "version": "smwc-11439-1436459991",
+      "upstream_time": 1436459991,
+      "download_url": "https://dl.smwcentral.net/11439/Hero%27s%20Cave.zip",
+      "filename": "Hero%27s Cave.zip",
+      "size": 30341,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

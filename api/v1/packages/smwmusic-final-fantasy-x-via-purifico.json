@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-fantasy-x-via-purifico",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29610,
+  "title": "Final Fantasy X - Via Purifico",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "ruins",
+    "sad",
+    "temple",
+    "tense"
+  ],
+  "description": "A tense piano piece from Final Fantasy X.",
+  "latest_version": "smwc-29610-1645808132",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29610,
+      "title": "Final Fantasy X - Via Purifico",
+      "version": "smwc-29610-1645808132",
+      "upstream_time": 1645808132,
+      "download_url": "https://dl.smwcentral.net/29610/FFX%20-%20Via%20Purifico.zip",
+      "filename": "FFX - Via Purifico.zip",
+      "size": 64912,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

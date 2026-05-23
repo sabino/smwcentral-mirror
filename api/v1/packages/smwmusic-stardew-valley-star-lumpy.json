@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-stardew-valley-star-lumpy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18882,
+  "title": "Stardew Valley - Star Lumpy",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice"
+  ],
+  "description": "This is a theme that you hear in Stardew Valley in the first few caves you enter. The only instrument present for the most part in this is the marimba, or @3. It's a good song for those sparkly cave settings.<br>\r\n<br>\r\nThere's two versions. One loops when the song reaches the end, while the other one doesn't (the original did not loop).",
+  "latest_version": "smwc-18882-1546974413",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18882,
+      "title": "Stardew Valley - Star Lumpy",
+      "version": "smwc-18882-1546974413",
+      "upstream_time": 1546974413,
+      "download_url": "https://dl.smwcentral.net/18882/Star%20Lumpy.zip",
+      "filename": "Star Lumpy.zip",
+      "size": 63935,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

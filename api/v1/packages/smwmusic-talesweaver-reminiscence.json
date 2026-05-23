@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-talesweaver-reminiscence",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23209,
+  "title": "TalesWeaver - Reminiscence",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "credits",
+    "night",
+    "overworld"
+  ],
+  "description": "Lovely but intense piano song featured in JUMP's World 5.<br>\r\n<br>\r\nNot compatible with Bonus End, Blargg/Thunder, or Yoshi.",
+  "latest_version": "smwc-23209-1591066185",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23209,
+      "title": "TalesWeaver - Reminiscence",
+      "version": "smwc-23209-1591066185",
+      "upstream_time": 1591066185,
+      "download_url": "https://dl.smwcentral.net/23209/Reminiscence.zip",
+      "filename": "Reminiscence.zip",
+      "size": 87017,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

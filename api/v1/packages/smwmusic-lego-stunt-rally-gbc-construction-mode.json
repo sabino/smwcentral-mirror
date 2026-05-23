@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lego-stunt-rally-gbc-construction-mode",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11363,
+  "title": "LEGO Stunt Rally (GBC) - Construction Mode",
+  "authors": [
+    "lu9"
+  ],
+  "tags": [
+    "cave",
+    "industrial",
+    "overworld",
+    "space",
+    "title"
+  ],
+  "description": "An arpeggio-ish song that could fit Underground or Industrial levels.",
+  "latest_version": "smwc-11363-1435202656",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11363,
+      "title": "LEGO Stunt Rally (GBC) - Construction Mode",
+      "version": "smwc-11363-1435202656",
+      "upstream_time": 1435202656,
+      "download_url": "https://dl.smwcentral.net/11363/LSRconstructionGBC.zip",
+      "filename": "LSRconstructionGBC.zip",
+      "size": 30729,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

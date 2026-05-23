@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-a-plumber-for-all-seasons-credits",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27922,
+  "title": "A Plumber For All Seasons - Credits",
+  "authors": [
+    "Kevin",
+    "wye"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "sky"
+  ],
+  "description": "Song that could fit a credits sequence.",
+  "latest_version": "smwc-27922-1632256028",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27922,
+      "title": "A Plumber For All Seasons - Credits",
+      "version": "smwc-27922-1632256028",
+      "upstream_time": 1632256028,
+      "download_url": "https://dl.smwcentral.net/27922/APFAS%20-%20Credits.zip",
+      "filename": "APFAS - Credits.zip",
+      "size": 33318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

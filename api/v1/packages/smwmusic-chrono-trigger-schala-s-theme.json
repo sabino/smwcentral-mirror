@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-chrono-trigger-schala-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26366,
+  "title": "Chrono Trigger - Schala's Theme",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "forest",
+    "ice",
+    "overworld",
+    "sad",
+    "water"
+  ],
+  "description": "An iconic yet immensely underused theme from Chrono Trigger, good for overall cold/sad settings.",
+  "latest_version": "smwc-26366-1618470020",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26366,
+      "title": "Chrono Trigger - Schala's Theme",
+      "version": "smwc-26366-1618470020",
+      "upstream_time": 1618470020,
+      "download_url": "https://dl.smwcentral.net/26366/schala.zip",
+      "filename": "schala.zip",
+      "size": 32174,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19325,
+      "title": "Chrono Trigger - Schala's Theme",
+      "version": "smwc-19325-1552861659",
+      "upstream_time": 1552861659,
+      "download_url": "https://dl.smwcentral.net/19325/Schala%27s%20Theme.zip",
+      "filename": "Schala%27s Theme.zip",
+      "size": 71287,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8287,
+      "title": "Chrono Trigger - Schala's Theme",
+      "version": "smwc-8287-1347636416",
+      "upstream_time": 1347636416,
+      "download_url": "https://dl.smwcentral.net/8287/Schalas%20Theme%20%28SMW%29.zip",
+      "filename": "Schalas Theme (SMW).zip",
+      "size": 60253,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

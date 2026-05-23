@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mortal-kombat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22057,
+  "title": "Mortal Kombat 3 - Title Screen",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "dark",
+    "mysterious",
+    "overworld",
+    "title"
+  ],
+  "description": "The short yet ominous title theme from MK3. It's not strong or anything but still tense-sounding, so it may be mostly suitable to shady and obscure places, such as cemeteries or castle entrances.",
+  "latest_version": "smwc-22057-1581369119",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22057,
+      "title": "Mortal Kombat 3 - Title Screen",
+      "version": "smwc-22057-1581369119",
+      "upstream_time": 1581369119,
+      "download_url": "https://dl.smwcentral.net/22057/mk3title.zip",
+      "filename": "mk3title.zip",
+      "size": 44404,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

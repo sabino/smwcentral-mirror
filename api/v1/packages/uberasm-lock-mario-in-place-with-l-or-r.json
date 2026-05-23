@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-lock-mario-in-place-with-l-or-r",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 26589,
+  "title": "Lock Mario in Place With L or R",
+  "authors": [
+    "ageVerrly"
+  ],
+  "tags": [
+    "gimmick",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "I was asked for this very simple level ASM multiple times so I think it is a good idea to upload it.<br>\r\n<br>\r\nAll this does is set mario's position next frame to his position this frame if L is pressed. That means momentum is stored and can be gained even when locked. You can gain p-speed that way and change your direction midair.<br>\r\n<br>\r\nYou can die if you lock mario during an autoscroll as the screen will go past him.<br>\r\n<br>\r\nWorks in vertical levels as well. ",
+  "latest_version": "smwc-26589-1616996936",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 26589,
+      "title": "Lock Mario in Place With L or R",
+      "version": "smwc-26589-1616996936",
+      "upstream_time": 1616996936,
+      "download_url": "https://dl.smwcentral.net/26589/lockMario.zip",
+      "filename": "lockMario.zip",
+      "size": 476,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

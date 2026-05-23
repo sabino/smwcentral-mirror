@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-press-r-to-change-power-up-on-overworld",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 33672,
+  "title": "Press R to Change Power-up on Overworld",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "Power-up farm no more! <br>\r\n<br>\r\nSimple bit of UberASM to change player power-up state with a button press, in this case R to avoid commonly used buttons. Includes an option to store the same power-up to the item box (enabled by default).<br>\r\n<br>\r\nUses 1 byte of FreeRAM.",
+  "latest_version": "smwc-33672-1681400068",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 33672,
+      "title": "Press R to Change Power-up on Overworld",
+      "version": "smwc-33672-1681400068",
+      "upstream_time": 1681400068,
+      "download_url": "https://dl.smwcentral.net/33672/cycle_powerup_on_button_press.zip",
+      "filename": "cycle_powerup_on_button_press.zip",
+      "size": 860,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

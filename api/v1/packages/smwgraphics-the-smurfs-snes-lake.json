@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-the-smurfs-snes-lake",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 15021,
+  "title": "The Smurfs (SNES) - Lake",
+  "authors": [
+    "Ayami"
+  ],
+  "tags": [
+    "lake"
+  ],
+  "description": "The background used on The Lake level on The Smurfs (SNES) It uses 269 (0x10D) map16 tiles and 26 colors.<br>\r\n<br>\r\n(I had to remain a empty space below the bg due to the converted size of the bg, but with the correct BG position setup it shouldn't be a problem)<br>\r\n<br>\r\nUses the second half of palette 6 and 7.",
+  "latest_version": "smwc-15021-1485183891",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 15021,
+      "title": "The Smurfs (SNES) - Lake",
+      "version": "smwc-15021-1485183891",
+      "upstream_time": 1485183891,
+      "download_url": "https://dl.smwcentral.net/15021/Lake.zip",
+      "filename": "Lake.zip",
+      "size": 6861,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

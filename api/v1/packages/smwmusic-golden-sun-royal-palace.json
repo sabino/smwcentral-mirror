@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-golden-sun-royal-palace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20519,
+  "title": "Golden Sun - Royal Palace",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "town"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nThis one's from Golden Sun. I love when Sakuraba does baroque stuff.",
+  "latest_version": "smwc-20519-1562578913",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20519,
+      "title": "Golden Sun - Royal Palace",
+      "version": "smwc-20519-1562578913",
+      "upstream_time": 1562578913,
+      "download_url": "https://dl.smwcentral.net/20519/Golden%20Sun%20-%20Royal%20Palace.zip",
+      "filename": "Golden Sun - Royal Palace.zip",
+      "size": 53197,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

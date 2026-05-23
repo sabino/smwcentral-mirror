@@ -1,0 +1,40 @@
+{
+  "name": "uberasm-mega-man-styled-scrolling-for-vertical-levels",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 15164,
+  "title": "Mega Man Styled Scrolling for Vertical Levels",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "camera",
+    "lorom",
+    "physics",
+    "scroll",
+    "scrolling",
+    "smb2",
+    "vertical",
+    "vertical level"
+  ],
+  "description": "This code will make the camera in a Vertical Level act like one found<br>\r\nin vertical segments of Mega Man or Super Mario Bros. 2<br>\r\n<br>\r\nFor this feature to work, the level header must indicate either \"No Vertical Scrolling\" or \"No Horizontal or Vertical Scrolling\".<br>\r\nIn addition, the Starting FG position must not be 0, or else the player will die when going down a screen.<br>\r\n<br>\r\nUses one byte of freeRAM (default $5E, which is unused in vertical levels).<br>\r\n<br>\r\nNo credit necessary.",
+  "latest_version": "smwc-15164-1487194842",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 15164,
+      "title": "Mega Man Styled Scrolling for Vertical Levels",
+      "version": "smwc-15164-1487194842",
+      "upstream_time": 1487194842,
+      "download_url": "https://dl.smwcentral.net/15164/MegaManScroller.zip",
+      "filename": "MegaManScroller.zip",
+      "size": 1091,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

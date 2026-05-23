@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-overworld-border-plus-v1-2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21665,
+  "title": "Overworld Border Plus v1.2.2",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "overworld border",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "The overworld border is pretty limited to edit, especially because it's a fixed tilemap in comparison to e.g. the status bar, especially the super version. Because of that, I made this patch which enables you to edit at least the top and bottom part.<br>\r\n<br>\r\nFor a list with (in)compatible patches and codes and, check out <a href=\"https://www.smwcentral.net/?p=viewthread&t=88043\">this</a> thread.<br>\r\n<br>\r\nAs always, the readme contains more information.<br>\r\n<br>\r\nRequest made by GreenHammerBro.<br>\r\n<br>\r\nGHB changes:<br>\r\n-Added an HTML javascript document that displays the memory range, what tile correlates to what RAM.<br>\r\n-Patching now displays on the Asar console window the RAM range.<br>\r\n-<a href=\"https://github.com/GhbSmwc/MarioFanGamer_OWBplus\" rel=\"nofollow\">Github</a>.<br>\r\n-2019-12-19: now shows relative RAM address.",
+  "latest_version": "smwc-21665-1578047988",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21665,
+      "title": "Overworld Border Plus v1.2.2",
+      "version": "smwc-21665-1578047988",
+      "upstream_time": 1578047988,
+      "download_url": "https://dl.smwcentral.net/21665/Overworld%20Border%20%2B_1_2_2.zip",
+      "filename": "Overworld Border +_1_2_2.zip",
+      "size": 49194,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

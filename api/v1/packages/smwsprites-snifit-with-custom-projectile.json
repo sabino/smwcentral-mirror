@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-snifit-with-custom-projectile",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 27613,
+  "title": "Snifit With Custom Projectile",
+  "authors": [
+    "ICB",
+    "RussianMan",
+    "Sonikku",
+    "mikeyk"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "projectile",
+    "sa-1",
+    "snifit"
+  ],
+  "description": "This is <span class=\"un-outer\" title=\"mikeyk\"><a href=\"/?p=profile&amp;id=155\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mikeyk</a></span>'s Snifit that shoots a custom projectile that acts more like SMB2 counterpart.<br>\r\n<br>\r\nCredit is unecessary. Requested by <span class=\"un-outer\" title=\"NopeContest\"><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=45664\" style=\"color: #73c873;\" class=\"un\">NopeContest</a></span>.",
+  "latest_version": "smwc-27613-1633948131",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 27613,
+      "title": "Snifit With Custom Projectile",
+      "version": "smwc-27613-1633948131",
+      "upstream_time": 1633948131,
+      "download_url": "https://dl.smwcentral.net/27613/Snifit%20W%20Custom%20Projectile.zip",
+      "filename": "Snifit W Custom Projectile.zip",
+      "size": 12265,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

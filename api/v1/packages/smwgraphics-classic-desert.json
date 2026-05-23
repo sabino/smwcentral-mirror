@@ -1,0 +1,56 @@
+{
+  "name": "smwgraphics-classic-desert",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27058,
+  "title": "Classic Desert 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "desert",
+    "needs remoderation",
+    "ruins"
+  ],
+  "description": "Here's a desert tileset that includes SMB2-style pots, cacti based on the Pokey sprite, and several pieces that can be used with custom blocks.  These include:<br>\r\n* <a href=\"https://dl.smwcentral.net/21197/QuicksandBlks.zip\" rel=\"nofollow\">Animated Quicksand</a><br>\r\n* <a href=\"https://dl.smwcentral.net/6672/assortedSMB2stuff4.zip\" rel=\"nofollow\">SMB2-Style diggable sand</a><br>\r\n* <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4011\">Cracked Stone Block</a><br>\r\n",
+  "latest_version": "smwc-27058-1621430729",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27058,
+      "title": "Classic Desert 2021",
+      "version": "smwc-27058-1621430729",
+      "upstream_time": 1621430729,
+      "download_url": "https://dl.smwcentral.net/27058/Classic%20Desert%202021.zip",
+      "filename": "Classic Desert 2021.zip",
+      "size": 4337,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19744,
+      "title": "Classic Desert 2",
+      "version": "smwc-19744-1556566183",
+      "upstream_time": 1556566183,
+      "download_url": "https://dl.smwcentral.net/19744/ClassicDesert2.zip",
+      "filename": "ClassicDesert2.zip",
+      "size": 4134,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13081,
+      "title": "Classic Desert",
+      "version": "smwc-13081-1453242304",
+      "upstream_time": 1453242304,
+      "download_url": "https://dl.smwcentral.net/13081/ClassicDesert.zip",
+      "filename": "ClassicDesert.zip",
+      "size": 4548,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

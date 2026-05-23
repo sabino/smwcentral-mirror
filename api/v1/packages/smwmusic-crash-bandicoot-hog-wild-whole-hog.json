@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bandicoot-hog-wild-whole-hog",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36878,
+  "title": "Crash Bandicoot - Hog Wild / Whole Hog",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "jungle",
+    "town"
+  ],
+  "description": "A fast paced cartoony theme that plays in the hog riding levels from Crash Bandicoot.<br>\r\n<br>\r\nUpdate (15/02): replaced the cymbal and hi-hat samples with the samples from the game, added bongo samples and replaced the snare sample with the correct one",
+  "latest_version": "smwc-36878-1708661589",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36878,
+      "title": "Crash Bandicoot - Hog Wild / Whole Hog",
+      "version": "smwc-36878-1708661589",
+      "upstream_time": 1708661589,
+      "download_url": "https://dl.smwcentral.net/36878/CB%20-%20Hog%20Wild.zip",
+      "filename": "CB - Hog Wild.zip",
+      "size": 102546,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

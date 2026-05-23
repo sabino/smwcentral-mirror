@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-over-blue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31369,
+  "title": "Over Blue",
+  "authors": [
+    "FantasticFox"
+  ],
+  "tags": [
+    "sky"
+  ],
+  "description": "This is a song I composed for Galactic Refugees, a game I made in GameMaker. It's upbeat and a little driving.",
+  "latest_version": "smwc-31369-1672548405",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31369,
+      "title": "Over Blue",
+      "version": "smwc-31369-1672548405",
+      "upstream_time": 1672548405,
+      "download_url": "https://dl.smwcentral.net/31369/over%20blue.zip",
+      "filename": "over blue.zip",
+      "size": 53187,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

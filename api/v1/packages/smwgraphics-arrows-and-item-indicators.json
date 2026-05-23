@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-arrows-and-item-indicators",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 33198,
+  "title": "Arrows and Item Indicators",
+  "authors": [
+    "ECS.98"
+  ],
+  "tags": [
+    "arrow",
+    "indicator",
+    "item"
+  ],
+  "description": "This is a pack of tiles intended to be used as item indicators. Essentially, they were made as a way to show where the player should throw/drop/use an item.<br>\r\nThink of it as in those kaizo levels where a coin is used to indicate where a shell should be thrown.<br>\r\nIt also comes with arrow graphics in all 8 directions and \"correct\" and \"wrong\" symbols, so hopefully it can be useful in a variety of situations.<br>\r\n<br>\r\nNote: This uses a handful of palette rows to accomodate for the palettes of all different sprites, but uses the right side of them, so the only palette that is overwritten is the Pink Berry's.<br>\r\nIf you don't use all indicators, you might not need all the palettes. (The readme contains detailed information on palette usage)",
+  "latest_version": "smwc-33198-1676237940",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 33198,
+      "title": "Arrows and Item Indicators",
+      "version": "smwc-33198-1676237940",
+      "upstream_time": 1676237940,
+      "download_url": "https://dl.smwcentral.net/33198/Arrows%20and%20Item%20Indicators.zip",
+      "filename": "Arrows and Item Indicators.zip",
+      "size": 4414,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

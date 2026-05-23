@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-illusion-of-gaia-legendary-sunken-continent",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23217,
+  "title": "Illusion of Gaia - Legendary Sunken Continent",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "airship",
+    "cave",
+    "dark",
+    "ruins",
+    "swamp"
+  ],
+  "description": "An epic/horror theme that plays when the protagonist becomes trapped in an ancient temple underwater.<br>\r\n<br>\r\nTrivia:<br>\r\n- My first 1:1 port using spc2mml and VGMtrans.<br>\r\n- Special thanks to @Dippy for helping me through channels #6 and #7",
+  "latest_version": "smwc-23217-1591329113",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23217,
+      "title": "Illusion of Gaia - Legendary Sunken Continent",
+      "version": "smwc-23217-1591329113",
+      "upstream_time": 1591329113,
+      "download_url": "https://dl.smwcentral.net/23217/iog_mu_0_2.zip",
+      "filename": "iog_mu_0_2.zip",
+      "size": 65653,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

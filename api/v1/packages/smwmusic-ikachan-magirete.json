@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ikachan-magirete",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27676,
+  "title": "Ikachan - Magirete",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cutscene",
+    "intro",
+    "overworld"
+  ],
+  "description": "A cute song, used on the controls screen of Ikachan. It was apparently also a theme song for Pixel's dev room.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\nThere's a plenty of define options for this song, where two of them fast forward, or slow downs the song (and pitch), and an option for make the percussions audible again (as the original puts them all the way down to volume 1, for some reason). If you want either of those options, open the text file, and change one of those define values, by anything other than 0.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○雨に紛れて：開発室Pixelのテーマ曲だった。<br>\r\nRough translation:<br>\r\n• Behind the rain: It was the theme song of the development room Pixel.</div></div>",
+  "latest_version": "smwc-27676-1629590928",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27676,
+      "title": "Ikachan - Magirete",
+      "version": "smwc-27676-1629590928",
+      "upstream_time": 1629590928,
+      "download_url": "https://dl.smwcentral.net/27676/Magirete.zip",
+      "filename": "Magirete.zip",
+      "size": 244069,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

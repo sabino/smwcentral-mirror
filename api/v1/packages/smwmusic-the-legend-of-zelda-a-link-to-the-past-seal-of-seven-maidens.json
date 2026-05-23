@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-seal-of-seven-maidens",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7498,
+  "title": "The Legend of Zelda: A Link to the Past - Seal of Seven Maidens",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "The song that plays in the introduction of Zelda 3. Might be good for a decisive cutscene.<br>\r\n<br>\r\nUpdate (09/20/19): Updated to use .brr instead of .bnk as per remoderation.",
+  "latest_version": "smwc-7498-1394448801",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7498,
+      "title": "The Legend of Zelda: A Link to the Past - Seal of Seven Maidens",
+      "version": "smwc-7498-1394448801",
+      "upstream_time": 1394448801,
+      "download_url": "https://dl.smwcentral.net/7498/LoZ%20ATTP%20-%20Story%20Theme.zip",
+      "filename": "LoZ ATTP - Story Theme.zip",
+      "size": 37734,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

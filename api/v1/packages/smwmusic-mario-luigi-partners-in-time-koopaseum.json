@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-koopaseum",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7632,
+  "title": "Mario & Luigi: Partners in Time - Koopaseum",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "calm",
+    "temple"
+  ],
+  "description": "This is the theme played in the Koopaseum, in the center of the Gritzy Desert in Partners in Time. Would suit an ancient temple, or somewhere mysterious.",
+  "latest_version": "smwc-7632-1312814458",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7632,
+      "title": "Mario & Luigi: Partners in Time - Koopaseum",
+      "version": "smwc-7632-1312814458",
+      "upstream_time": 1312814458,
+      "download_url": "https://dl.smwcentral.net/7632/MLPIT%20-%20Koopaseum.zip",
+      "filename": "MLPIT - Koopaseum.zip",
+      "size": 67940,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

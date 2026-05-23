@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-forbidden-magic-forbidden-magic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34654,
+  "title": "Touhou Kaikidan ~ Mystic Square - Forbidden Magic ~ Forbidden Magic",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "禁断の魔法　～ Forbidden Magic<br>\r\nYuki and Mai's theme of Touhou Kaikidan<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-34654-1696099212",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34654,
+      "title": "Touhou Kaikidan ~ Mystic Square - Forbidden Magic ~ Forbidden Magic",
+      "version": "smwc-34654-1696099212",
+      "upstream_time": 1696099212,
+      "download_url": "https://dl.smwcentral.net/34654/th5_09.zip",
+      "filename": "th5_09.zip",
+      "size": 31809,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

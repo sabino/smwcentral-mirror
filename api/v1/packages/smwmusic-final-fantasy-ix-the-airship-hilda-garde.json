@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-final-fantasy-ix-the-airship-hilda-garde",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32952,
+  "title": "Final Fantasy IX - The Airship, Hilda Garde",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "bonus",
+    "calm",
+    "chase",
+    "overworld"
+  ],
+  "description": "Wonderful song from Final Fantasy IX which fits any airship or cloud themed level, and also if you're riding a winged Yoshi that cycles trough the 4 colors.",
+  "latest_version": "smwc-32952-1680239740",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32952,
+      "title": "Final Fantasy IX - The Airship, Hilda Garde",
+      "version": "smwc-32952-1680239740",
+      "upstream_time": 1680239740,
+      "download_url": "https://dl.smwcentral.net/32952/brutal%20mario.zip",
+      "filename": "brutal mario.zip",
+      "size": 37200,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

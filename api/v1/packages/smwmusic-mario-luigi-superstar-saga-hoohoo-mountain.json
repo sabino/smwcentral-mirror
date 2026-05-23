@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-hoohoo-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17367,
+  "title": "Mario & Luigi: Superstar Saga - Hoohoo Mountain",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "dark",
+    "mountain",
+    "overworld"
+  ],
+  "description": "The intense and epic song that plays on Hoohoo Mountain.  Would best suit a dark mountain, airship, or castle level.",
+  "latest_version": "smwc-17367-1523603201",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17367,
+      "title": "Mario & Luigi: Superstar Saga - Hoohoo Mountain",
+      "version": "smwc-17367-1523603201",
+      "upstream_time": 1523603201,
+      "download_url": "https://dl.smwcentral.net/17367/Hoohoo%20Mountain.zip",
+      "filename": "Hoohoo Mountain.zip",
+      "size": 31691,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

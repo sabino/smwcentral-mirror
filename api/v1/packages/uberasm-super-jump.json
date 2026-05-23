@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-super-jump",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 20158,
+  "title": "Super Jump",
+  "authors": [
+    "HuFlungDu",
+    "Major Flare"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "UberASM version of a <span class=\"un-outer\" title=\"HuFlungDu\"><span title=\"HuFlungDu donated $200.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=6666\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">HuFlungDu</a></span>'s patch made at request of <span class=\"un-outer\" title=\"leod\"><a href=\"/?p=profile&amp;id=6878\" style=\"color: var(--user-banned);\" class=\"un unavailable\">leod</a></span>. Changes the SpinJump to a SuperJump if you are not moving (though it's easy to change that and I say how in the patch). No credit necessary. Use with level or Game Mode 14.",
+  "latest_version": "smwc-20158-1559892721",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 20158,
+      "title": "Super Jump",
+      "version": "smwc-20158-1559892721",
+      "upstream_time": 1559892721,
+      "download_url": "https://dl.smwcentral.net/20158/SuperJump.zip",
+      "filename": "SuperJump.zip",
+      "size": 209,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

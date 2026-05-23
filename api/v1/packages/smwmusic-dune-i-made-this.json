@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dune-i-made-this",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37424,
+  "title": "Dune - I made this",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival"
+  ],
+  "description": "Silly little tune. Maybe fits for bonus levels.",
+  "latest_version": "smwc-37424-1718416193",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37424,
+      "title": "Dune - I made this",
+      "version": "smwc-37424-1718416193",
+      "upstream_time": 1718416193,
+      "download_url": "https://dl.smwcentral.net/37424/I%20made%20this.zip",
+      "filename": "I made this.zip",
+      "size": 90445,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

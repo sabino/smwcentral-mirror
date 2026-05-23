@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kanon-little-fragments",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7083,
+  "title": "Kanon - Little Fragments",
+  "authors": [
+    "Crispy"
+  ],
+  "tags": [
+    "calm",
+    "ice"
+  ],
+  "description": "A calm Ice sounding song, would be perfect for a title screen.",
+  "latest_version": "smwc-7083-1313378347",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7083,
+      "title": "Kanon - Little Fragments",
+      "version": "smwc-7083-1313378347",
+      "upstream_time": 1313378347,
+      "download_url": "https://dl.smwcentral.net/7083/Kanon%20-%20Little%20Fragments.zip",
+      "filename": "Kanon - Little Fragments.zip",
+      "size": 34810,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-giant-ninji",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23712,
+  "title": "Giant Ninji",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "giant",
+    "lorom",
+    "ninji",
+    "sa-1"
+  ],
+  "description": "It's a 32x32 ninji. That's, that's it. What else would you expect?<br>\r\nCredit is optional.<br>\r\n<br>\r\n(Rykon-V73): Small change: Converted the sprite into .json file and added a 2nd version and converted that into .json. The 2nd version is green and has improved GFX. You can edit tilemap, ceiling fix value, Y speeds of the ninji and jumping timer.",
+  "latest_version": "smwc-23712-1595124815",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23712,
+      "title": "Giant Ninji",
+      "version": "smwc-23712-1595124815",
+      "upstream_time": 1595124815,
+      "download_url": "https://dl.smwcentral.net/23712/GigaNinji-edited.zip",
+      "filename": "GigaNinji-edited.zip",
+      "size": 11672,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

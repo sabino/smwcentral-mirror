@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bandicoot-cortex-power",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36873,
+  "title": "Crash Bandicoot - Cortex Power",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "ghost house",
+    "industrial",
+    "sewer"
+  ],
+  "description": "A stealthy track that plays in the powerplant level from Crash Bandicoot.<br>\r\n<br>\r\nUpdate (02/15): added the hihat samples from the game",
+  "latest_version": "smwc-36873-1708265560",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36873,
+      "title": "Crash Bandicoot - Cortex Power",
+      "version": "smwc-36873-1708265560",
+      "upstream_time": 1708265560,
+      "download_url": "https://dl.smwcentral.net/36873/CB%20-%20Cortex%20Power.zip",
+      "filename": "CB - Cortex Power.zip",
+      "size": 80037,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-breath-of-fire-ancient-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26258,
+  "title": "Breath of Fire - Ancient Ruins",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "industrial",
+    "ruins",
+    "sewer",
+    "space"
+  ],
+  "description": "Song that The Ancient Ruins from Breath of Fire. Could fit a factory or mine levels.",
+  "latest_version": "smwc-26258-1616565685",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26258,
+      "title": "Breath of Fire - Ancient Ruins",
+      "version": "smwc-26258-1616565685",
+      "upstream_time": 1616565685,
+      "download_url": "https://dl.smwcentral.net/26258/Ancient_Ruins.zip",
+      "filename": "Ancient_Ruins.zip",
+      "size": 32694,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21372,
+      "title": "Breath of Fire - Ancient Ruins",
+      "version": "smwc-21372-1572529556",
+      "upstream_time": 1572529556,
+      "download_url": "https://dl.smwcentral.net/21372/Breath%20of%20Fire%20-%20Ancient%20Ruins.zip",
+      "filename": "Breath of Fire - Ancient Ruins.zip",
+      "size": 74228,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

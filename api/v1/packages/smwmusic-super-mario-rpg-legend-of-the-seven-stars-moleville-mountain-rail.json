@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-moleville-mountain-rail",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21116,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Moleville Mountain Rail",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "carnival",
+    "cave",
+    "chase",
+    "desert",
+    "mountain"
+  ],
+  "description": "Could fit a mountain or minecart level.<br>\r\n<br>\r\nNote: not compatible with thunder sfx/Blarggs. I included an alternate version with slightly less echo delay, that's also compatible with thunder.<br>\r\n<br>\r\nRequested by Pitchin Luigi.",
+  "latest_version": "smwc-21116-1567987730",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21116,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Moleville Mountain Rail",
+      "version": "smwc-21116-1567987730",
+      "upstream_time": 1567987730,
+      "download_url": "https://dl.smwcentral.net/21116/Docaty%20Mountain%20Railroad.zip",
+      "filename": "Docaty Mountain Railroad.zip",
+      "size": 55585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15601,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Moleville Mountain Rail",
+      "version": "smwc-15601-1496258692",
+      "upstream_time": 1496258692,
+      "download_url": "https://dl.smwcentral.net/15601/Super%20Mario%20RPG%20-%20Docaty%20Mountain%20Railroad%20%28v2%29.zip",
+      "filename": "Super Mario RPG - Docaty Mountain Railroad (v2).zip",
+      "size": 34341,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

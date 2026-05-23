@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pitfall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7833,
+  "title": "Pitfall 2 - Main Theme",
+  "authors": [
+    "ShUriK KiD"
+  ],
+  "tags": [
+    "calm",
+    "jungle"
+  ],
+  "description": " This would suit some Jungle levels.",
+  "latest_version": "smwc-7833-1312285188",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7833,
+      "title": "Pitfall 2 - Main Theme",
+      "version": "smwc-7833-1312285188",
+      "upstream_time": 1312285188,
+      "download_url": "https://dl.smwcentral.net/7833/pitfall2.zip",
+      "filename": "pitfall2.zip",
+      "size": 111487,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

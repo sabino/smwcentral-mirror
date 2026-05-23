@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-plok-boxing-glove",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8822,
+  "title": "Plok - Boxing Glove",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "title"
+  ],
+  "description": "A short song from Plok that could be used in a bonus area, maybe?",
+  "latest_version": "smwc-8822-1410543212",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8822,
+      "title": "Plok - Boxing Glove",
+      "version": "smwc-8822-1410543212",
+      "upstream_time": 1410543212,
+      "download_url": "https://dl.smwcentral.net/8822/boxingglove.zip",
+      "filename": "boxingglove.zip",
+      "size": 60562,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

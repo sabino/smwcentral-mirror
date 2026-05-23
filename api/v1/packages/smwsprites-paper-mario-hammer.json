@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-paper-mario-hammer",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3307,
+  "title": "Paper Mario Hammer",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "hammer",
+    "lorom",
+    "paper mario",
+    "powerup"
+  ],
+  "description": "This is the hammer from Paper Mario, you can swing it to shake the ground and stun enemies. ",
+  "latest_version": "smwc-3307-1282842356",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3307,
+      "title": "Paper Mario Hammer",
+      "version": "smwc-3307-1282842356",
+      "upstream_time": 1282842356,
+      "download_url": "https://dl.smwcentral.net/3307/pmhammer.zip",
+      "filename": "pmhammer.zip",
+      "size": 5848,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

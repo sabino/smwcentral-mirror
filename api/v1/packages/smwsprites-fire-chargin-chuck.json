@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-fire-chargin-chuck",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20432,
+  "title": "Fire Chargin' Chuck",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "chargin' chuck",
+    "chuck",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Chargin' Chuck leaves behind a trail of flames when moving.<br>\r\nThis also fixes the palette change of the shoulder tiles of the chuck.<br>\r\n<br>\r\nBased on mikeyk dissasembly of the Chargin' Chuck.",
+  "latest_version": "smwc-20432-1563619142",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20432,
+      "title": "Fire Chargin' Chuck",
+      "version": "smwc-20432-1563619142",
+      "upstream_time": 1563619142,
+      "download_url": "https://dl.smwcentral.net/20432/FireChargin%27Chuck.zip",
+      "filename": "FireChargin%27Chuck.zip",
+      "size": 8831,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

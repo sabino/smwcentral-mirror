@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-rhythm-heaven-let-s-practice",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28730,
+  "title": "Rhythm Heaven - Let's Practice!",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "misc",
+    "overworld"
+  ],
+  "description": "The practice tune from Rhythm Heaven on the DS! Could work well with tutorial areas or overworld",
+  "latest_version": "smwc-28730-1638732742",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28730,
+      "title": "Rhythm Heaven - Let's Practice!",
+      "version": "smwc-28730-1638732742",
+      "upstream_time": 1638732742,
+      "download_url": "https://dl.smwcentral.net/28730/rhythm%20heaven%20-%20lets%20practice.zip",
+      "filename": "rhythm heaven - lets practice.zip",
+      "size": 31989,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

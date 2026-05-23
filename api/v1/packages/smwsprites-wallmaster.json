@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-wallmaster",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 17881,
+  "title": "Wallmaster",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "teleport",
+    "zelda"
+  ],
+  "description": "This is a hand sprite that acts like the ones found in some games of The Legend of Zelda series. Once in a while, it falls from the ceiling, trying to catch the player. If it succeeds, they're teleported. Extra Bytes 1 and 2 determine the first warp destination (used when the midway point isn't collected), and Extra Bytes 3 and 4 determine the second warp destination (used when the midway point is collected).<br>\r\n<br>\r\nIncludes tilemap defines, a free RAM define (whose address is required for some functions explained in the Readme file), defines for amount of time before the hand falls and for how long the hand should stand in place before closing, an option to respawn if killed with star or fireballs, and sound effect defines for falling and catching the player.",
+  "latest_version": "smwc-17881-1532104944",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 17881,
+      "title": "Wallmaster",
+      "version": "smwc-17881-1532104944",
+      "upstream_time": 1532104944,
+      "download_url": "https://dl.smwcentral.net/17881/LoZWallmaster.zip",
+      "filename": "LoZWallmaster.zip",
+      "size": 12532,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

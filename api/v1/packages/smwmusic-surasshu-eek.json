@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-surasshu-eek",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33709,
+  "title": "Surasshu - Eek!",
+  "authors": [
+    "SweatyNoodle"
+  ],
+  "tags": [
+    "abstract",
+    "carnival",
+    "retro"
+  ],
+  "description": "A rad tracker song, also known as \"The Penis\" for whatever reason.<br>\r\n<br>\r\nIncompatible with stuff like Blargg and Thunder.<br>\r\n<br>\r\nEdit: fixed oops (x2 combo)",
+  "latest_version": "smwc-33709-1690068624",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33709,
+      "title": "Surasshu - Eek!",
+      "version": "smwc-33709-1690068624",
+      "upstream_time": 1690068624,
+      "download_url": "https://dl.smwcentral.net/33709/Eek%21.zip",
+      "filename": "Eek%21.zip",
+      "size": 93748,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

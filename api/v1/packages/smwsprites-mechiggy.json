@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-mechiggy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23711,
+  "title": "MechIggy",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "explosion",
+    "iggy",
+    "lorom",
+    "mechakoopa",
+    "sa-1"
+  ],
+  "description": "Iggy-Flavored Mechakoopa that should go on a production line. It explodes after being bopped.<br>\r\n<br>\r\nExplosion stars GFX not included. Those should go in SP4, tile $BC<br>\r\n<br>\r\n(Rykon-V73): Small change: You can edit the tilemap and Mario contact routine.",
+  "latest_version": "smwc-23711-1594967028",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23711,
+      "title": "MechIggy",
+      "version": "smwc-23711-1594967028",
+      "upstream_time": 1594967028,
+      "download_url": "https://dl.smwcentral.net/23711/MechIggy.zip",
+      "filename": "MechIggy.zip",
+      "size": 13712,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

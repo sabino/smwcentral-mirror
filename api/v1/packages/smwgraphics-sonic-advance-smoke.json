@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-sonic-advance-smoke",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 23324,
+  "title": "Sonic Advance - Smoke",
+  "authors": [
+    "DTA450"
+  ],
+  "tags": [
+    "needs remoderation",
+    "puff of smoke",
+    "smoke sprites"
+  ],
+  "description": "The smoke sprite used in Sonic Advance. I modified it so it can use SMW's original palettes.<br>\r\n<br>\r\nIt includes GFX00. I added a custom 'water splash' effect to make it match with the smoke's graphics.<br>\r\nCredits are not needed.",
+  "latest_version": "smwc-23324-1593391801",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 23324,
+      "title": "Sonic Advance - Smoke",
+      "version": "smwc-23324-1593391801",
+      "upstream_time": 1593391801,
+      "download_url": "https://dl.smwcentral.net/23324/SmokeEffect.zip",
+      "filename": "SmokeEffect.zip",
+      "size": 2046,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-parlour-games-billiards-five-ball",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37070,
+  "title": "Parlour Games - Billiards - Five Ball",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "retro"
+  ],
+  "description": "Relaxing jazzy \"lounge\" song. Could fit puzzle levels.<br>\r\nUnsampled version.",
+  "latest_version": "smwc-37070-1709496442",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37070,
+      "title": "Parlour Games - Billiards - Five Ball",
+      "version": "smwc-37070-1709496442",
+      "upstream_time": 1709496442,
+      "download_url": "https://dl.smwcentral.net/37070/Billiards-unsmpl.zip",
+      "filename": "Billiards-unsmpl.zip",
+      "size": 32362,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37069,
+      "title": "Parlour Games - Billiards - Five Ball",
+      "version": "smwc-37069-1709496407",
+      "upstream_time": 1709496407,
+      "download_url": "https://dl.smwcentral.net/37069/Billiards-smpl.zip",
+      "filename": "Billiards-smpl.zip",
+      "size": 59715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

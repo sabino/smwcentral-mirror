@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-nitro-crate-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3385,
+  "title": "Nitro Crate v1.0",
+  "authors": [
+    "Skewer"
+  ],
+  "tags": [
+    "crate",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "I decided to create the Nitro Crate from Crash Bandicoot.  Even more, I wanted to share it on this site!<br>\r\n<br>\r\nAnyway, below is the description.<br>\r\n<br>\r\nThe Nitrous Crate is a sprite that will explode when it is touched.  There are a few minor issues that can be easily worked around.<br>\r\n<br>\r\n#1:  The Nitro Crate sprite uses SP1, however... it's blast uses SP4.  So, SP's = SP1= ExGFXxx SP4= GFX02 or ExGFXxx<br>\r\n<br>\r\n#2:  It will only explode if Mario touches, not when a koopa does.<br>\r\n<br>\r\n#3:  It doesn't hop... yet.<br>\r\n<br>\r\nPlease give credit if used.<br>\r\n<br>\r\nNow SA-1 compatible.",
+  "latest_version": "smwc-3385-1240880932",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3385,
+      "title": "Nitro Crate v1.0",
+      "version": "smwc-3385-1240880932",
+      "upstream_time": 1240880932,
+      "download_url": "https://dl.smwcentral.net/3385/Nitro%20Crate.zip",
+      "filename": "Nitro Crate.zip",
+      "size": 5665,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

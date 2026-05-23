@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-radical-dreamers-dungeon-ambience",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24611,
+  "title": "Radical Dreamers - Dungeon Ambience",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "environmental"
+  ],
+  "description": "Dungeon ambience.<br>\r\n<br>\r\nIt (partially) breaks when pausing.",
+  "latest_version": "smwc-24611-1600185721",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24611,
+      "title": "Radical Dreamers - Dungeon Ambience",
+      "version": "smwc-24611-1600185721",
+      "upstream_time": 1600185721,
+      "download_url": "https://dl.smwcentral.net/24611/16%20Dungeon%20Ambience.zip",
+      "filename": "16 Dungeon Ambience.zip",
+      "size": 167080,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-better-vertical-camera-scrolling-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40256,
+  "title": "Better Vertical Camera Scrolling V1.1",
+  "authors": [
+    "Nowieso",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "camera",
+    "lorom",
+    "sa-1",
+    "scroll",
+    "vertical"
+  ],
+  "description": "This patch allows you to change three hardcoded values of the vertical camera scrolling routine on a per-level basis.<br>\r\n<br>\r\nIt allows you to change the Y-Positions within the screen Mario has to be at in order for the camera to scroll vertically, as well as where to stop the screen relative to Mario when scrolling vertically.<br>\r\n<br>\r\nAll you have to do is to change some values in BetterVertCamTable.asm , do not change anything inside the other ASM file. Make sure both files are located in the same folder when inserting the patch.<br>\r\n<br>\r\nYoshifanatic's update:<br>\r\n- Removed an @ from the \"includefrom\" command in BetterVertCamTable.asm, so this patch will work in asar 2.0.<br>\r\n- Removed the code that stores the level number to $010B, as Lunar Magic 3.30+ can do this already.<br>\r\n- Made the JML to original code use the !bank defines so it jumps to FastROM addressing on non-SA-1 ROMs.<br>\r\n- Majorly optimized the code. I cut it down by 2/3 and removed one hijack.<br>\r\n- Changed the freecode command to freedata, since this no longer needs to change the Data Bank Register.<br>\r\n- Removed one of the 3 tables, as the screen scroll center point can be be gotten by averaging out the other 2 tables' values. This saved around 500 bytes and made the patch more user friendly.",
+  "latest_version": "smwc-40256-1759605467",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40256,
+      "title": "Better Vertical Camera Scrolling V1.1",
+      "version": "smwc-40256-1759605467",
+      "upstream_time": 1759605467,
+      "download_url": "https://dl.smwcentral.net/40256/BetterVerticalCameraV1_1.zip",
+      "filename": "BetterVerticalCameraV1_1.zip",
+      "size": 1865,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

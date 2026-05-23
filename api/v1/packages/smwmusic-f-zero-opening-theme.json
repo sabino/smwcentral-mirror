@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-f-zero-opening-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31913,
+  "title": "F-Zero - Opening Theme",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "title"
+  ],
+  "description": "Opening Theme (Title Screen) from F-Zero.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MKDSmaster91\"><a href=\"/?p=profile&amp;id=28195\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MKDSmaster91</a></span>.",
+  "latest_version": "smwc-31913-1672508846",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31913,
+      "title": "F-Zero - Opening Theme",
+      "version": "smwc-31913-1672508846",
+      "upstream_time": 1672508846,
+      "download_url": "https://dl.smwcentral.net/31913/F-Zero%20-%20Opening%20Theme.zip",
+      "filename": "F-Zero - Opening Theme.zip",
+      "size": 50957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

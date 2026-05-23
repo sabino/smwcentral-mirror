@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-satellaview-bs-x-jingle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39866,
+  "title": "Satellaview BS-X - Jingle 1",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "nintendo presents"
+  ],
+  "description": "A jingle from the Satellaview BIOS",
+  "latest_version": "smwc-39866-1749817934",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39866,
+      "title": "Satellaview BS-X - Jingle 1",
+      "version": "smwc-39866-1749817934",
+      "upstream_time": 1749817934,
+      "download_url": "https://dl.smwcentral.net/39866/Satellaview%20BS-X%20-%20Jingle%201.zip",
+      "filename": "Satellaview BS-X - Jingle 1.zip",
+      "size": 31254,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

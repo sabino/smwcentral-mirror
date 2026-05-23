@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-star-fox-meteor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22063,
+  "title": "Star Fox - Meteor",
+  "authors": [
+    "DanTheVP"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "dark",
+    "mysterious",
+    "night"
+  ],
+  "description": "Music from the Meteor level from Star Fox on the SNES with the original samples. This is obviously a space themed song but could also work well in science or tech themed levels. The drums are more of an ostinato than a tradition drum beat which adds a unique feel to the song. ",
+  "latest_version": "smwc-22063-1581975146",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22063,
+      "title": "Star Fox - Meteor",
+      "version": "smwc-22063-1581975146",
+      "upstream_time": 1581975146,
+      "download_url": "https://dl.smwcentral.net/22063/Star_Fox_-_Meteor.zip",
+      "filename": "Star_Fox_-_Meteor.zip",
+      "size": 36588,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

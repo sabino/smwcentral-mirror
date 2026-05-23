@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-rotating-multi-bill-cannon",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 17028,
+  "title": "Rotating Multi-Bill Cannon",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "airship",
+    "bullet bill",
+    "cannon",
+    "lorom",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "Found in some of the SMB3 doomship stages, this sprite fires Bullet Bills at intervals, alternating between vertical, diagonal, horizontal, then diagonal again. Extra bit determines if the sprite will rotate clockwise or counterclockwise, and Extra Byte 1 determines the initial shooting position.<br>\r\n<br>\r\nThis sprite was part of imamelia's Misc. Sprite Pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-17028-1516816462",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 17028,
+      "title": "Rotating Multi-Bill Cannon",
+      "version": "smwc-17028-1516816462",
+      "upstream_time": 1516816462,
+      "download_url": "https://dl.smwcentral.net/17028/SMB3MultiBillCannon.zip",
+      "filename": "SMB3MultiBillCannon.zip",
+      "size": 5634,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

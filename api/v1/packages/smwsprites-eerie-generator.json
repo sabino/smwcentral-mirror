@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-eerie-generator",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23318,
+  "title": "Eerie Generator",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "eerie",
+    "lorom",
+    "random",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite CB in SMW, Eerie Generator.<br>\r\nCredit is unecessary. Requested by Anorakun.",
+  "latest_version": "smwc-23318-1592609326",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23318,
+      "title": "Eerie Generator",
+      "version": "smwc-23318-1592609326",
+      "upstream_time": 1592609326,
+      "download_url": "https://dl.smwcentral.net/23318/EerieGenerator.zip",
+      "filename": "EerieGenerator.zip",
+      "size": 1219,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

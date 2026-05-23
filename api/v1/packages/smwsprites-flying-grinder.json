@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-flying-grinder",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41608,
+  "title": "Flying Grinder",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "grinder",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This evil variant of a Grinder has wings! It has two patterns, one where it flies in a determined range or, and a second one where it chases the player around. This, as well as the speed, can be configured as extra bytes.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"GatheringStorm\"><a href=\"/?p=profile&amp;id=72759\" style=\"color: var(--user-color-1);\" class=\"un\">GatheringStorm</a></span>.",
+  "latest_version": "smwc-41608-1773235625",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41608,
+      "title": "Flying Grinder",
+      "version": "smwc-41608-1773235625",
+      "upstream_time": 1773235625,
+      "download_url": "https://dl.smwcentral.net/41608/Flying%20Grinder.zip",
+      "filename": "Flying Grinder.zip",
+      "size": 3271,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

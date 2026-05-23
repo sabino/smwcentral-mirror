@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-activate-bowser-scene",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3689,
+  "title": "Activate Bowser Scene",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "boss",
+    "bowser",
+    "disassembly",
+    "final",
+    "final boss",
+    "lorom",
+    "sa-1",
+    "vanilla"
+  ],
+  "description": "A disassembly of Bowser (sprite A0), commented and ready to be inserted with PIXI.<br>\r\n<br>\r\nPlease note that the level mode should be set to 10 and the sprite memory to 00 for the sprite to work correctly.<br>\r\n<br>\r\nCheck the ASM file for customization options, especially if you're using AddmusicK.",
+  "latest_version": "smwc-3689-1300568350",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3689,
+      "title": "Activate Bowser Scene",
+      "version": "smwc-3689-1300568350",
+      "upstream_time": 1300568350,
+      "download_url": "https://dl.smwcentral.net/3689/Bowser.zip",
+      "filename": "Bowser.zip",
+      "size": 11581,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-yoshi-expansion-kit-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17798,
+  "title": "Yoshi Expansion Kit V1.01",
+  "authors": [
+    "Maarfy"
+  ],
+  "tags": [
+    "baby yoshi",
+    "berry",
+    "lorom",
+    "sa-1",
+    "yoshi",
+    "yoshi egg"
+  ],
+  "description": "This patch intends to provide users with a means of dramatically expanding and easily customizing the functions of the Yoshi, baby Yoshi and Yoshi egg sprites, with no requirement of ASM knowledge.<br>\r\n<br>\r\nThis patch:<br>\r\n<br>\r\n- Enables functioning Yoshi sprites for all 8 sprite palettes, thus doubling the number of usable Yoshi colors<br>\r\n- Allows a great many functional attributes of Yoshi to be customized on a per-Yoshi-color basis<br>\r\n- Provides a framework for up to 8 unique shell-carrying abilities, settable on a per-Yoshi-color, per-shell-color basis<br>\r\n- Provides a means of inserting all 8 palettes of Yoshi within Lunar Magic via the extra bit - no custom sprite insertion needed<br>\r\n- Adds custom sprite/expanded sprite state support for cases in which a non-Yoshi sprite hatches from a Yoshi egg (such as after eating berries)<br>\r\n- Optionally fixes a number of Yoshi-related glitches and other oddities<br>\r\n<br>\r\nSee the included instructions for specific usage details. All code is exhaustively commented.<br>\r\n<br>\r\n<br>\r\nAdded in V 1.01:<br>\r\n<br>\r\n- Added SA-1 detection and support.<br>\r\n- Added a define for address $18E7 and changed RAM addresses in shell_carry_abl.asm to defines.<br>\r\n- Added the option to replicate the original game's horizontal dismount routine, which does not alter X speed at all upon aerial dismount (impossible to replicate in V 1.00 as coded) - thanks go out to Kazkek for reporting this oversight.<br>\r\n- Added a proper explanation of the modified behavior of RAM address $13C7 to readme.txt.",
+  "latest_version": "smwc-17798-1536123047",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17798,
+      "title": "Yoshi Expansion Kit V1.01",
+      "version": "smwc-17798-1536123047",
+      "upstream_time": 1536123047,
+      "download_url": "https://dl.smwcentral.net/17798/Yoshi%20Expansion%20Kit%20V1.01.zip",
+      "filename": "Yoshi Expansion Kit V1.01.zip",
+      "size": 32888,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-on-off-slippery-activation-v2",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39081,
+  "title": "ON/OFF Slippery Activation v2.0",
+  "authors": [
+    "Nitrocell Inc."
+  ],
+  "tags": [
+    "lorom",
+    "on-off",
+    "sa-1",
+    "slippery"
+  ],
+  "description": "When you hit ON/OFF switch, or change it no matter how, if that's ON, it will turn slippery mode ON, else, slippery will be disabled. By default, it will set ON/OFF status to OFF, and thus, slippery will be disabled.<br>\r\n<br>\r\nUpdate:<br>\r\nIn new version you can set if slippery will be activated on ON or OFF and you can force ON/OFF to change onload opposite to slippery specification. For more info, see readme.",
+  "latest_version": "smwc-39081-1738207530",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39081,
+      "title": "ON/OFF Slippery Activation v2.0",
+      "version": "smwc-39081-1738207530",
+      "upstream_time": 1738207530,
+      "download_url": "https://dl.smwcentral.net/39081/OnOffSlipperyActivator.zip",
+      "filename": "OnOffSlipperyActivator.zip",
+      "size": 1431,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

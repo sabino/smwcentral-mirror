@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tomodachi-life-interior-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29392,
+  "title": "Tomodachi Life - Interior Shop",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "city",
+    "night",
+    "overworld"
+  ],
+  "description": "Music Played in Interior Shop from Tomodachi's Life. Could fit on the night abstract overworld or Rest area levels.",
+  "latest_version": "smwc-29392-1648143183",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29392,
+      "title": "Tomodachi Life - Interior Shop",
+      "version": "smwc-29392-1648143183",
+      "upstream_time": 1648143183,
+      "download_url": "https://dl.smwcentral.net/29392/Tomodachi%20Life%20-%20Interior%20Shop.zip",
+      "filename": "Tomodachi Life - Interior Shop.zip",
+      "size": 32444,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

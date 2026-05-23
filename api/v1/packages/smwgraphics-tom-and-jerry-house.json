@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-tom-and-jerry-house",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20137,
+  "title": "Tom and Jerry - House",
+  "authors": [
+    "Ayami"
+  ],
+  "tags": [
+    "house",
+    "needs remoderation",
+    "patch needed",
+    "texture"
+  ],
+  "description": "Background used in the house level in Tom and Jerry (SNES). Comes in both Layer 2 and Layer 3 format, being both of them identical, so you can use whatever you want (keep in mind though, that you would need the Sprite Status Bar patch if you use the Layer 3 one).",
+  "latest_version": "smwc-20137-1560714487",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20137,
+      "title": "Tom and Jerry - House",
+      "version": "smwc-20137-1560714487",
+      "upstream_time": 1560714487,
+      "download_url": "https://dl.smwcentral.net/20137/Tom%20and%20Jerry%20-%20House.zip",
+      "filename": "Tom and Jerry - House.zip",
+      "size": 3255,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

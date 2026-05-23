@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-v-stage-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15931,
+  "title": "Mega Man V - Stage Select",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "athletic",
+    "overworld",
+    "space"
+  ],
+  "description": "The song that plays in Space in Mega Man V (Gameboy).<br>\r\n<br>\r\nFixed",
+  "latest_version": "smwc-15931-1501315251",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15931,
+      "title": "Mega Man V - Stage Select",
+      "version": "smwc-15931-1501315251",
+      "upstream_time": 1501315251,
+      "download_url": "https://dl.smwcentral.net/15931/MMV%20-%20Stage%20Select.zip",
+      "filename": "MMV - Stage Select.zip",
+      "size": 31909,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

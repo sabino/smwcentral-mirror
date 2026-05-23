@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-freeram-controlled-hitbox",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21682,
+  "title": "Freeram Controlled Hitbox",
+  "authors": [
+    "Chdata",
+    "Chibikko"
+  ],
+  "tags": [
+    "flag",
+    "hitbox",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Creates a freeram flag that lets you control Mario's hitbox.<br>\r\n<br>\r\n0 = NORMAL<br>\r\n1 = SMALL<br>\r\n2 = BIG<br>\r\n<br>\r\nThis can be changed midlevel and whatnot.",
+  "latest_version": "smwc-21682-1578791382",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21682,
+      "title": "Freeram Controlled Hitbox",
+      "version": "smwc-21682-1578791382",
+      "upstream_time": 1578791382,
+      "download_url": "https://dl.smwcentral.net/21682/Hitbox.zip",
+      "filename": "Hitbox.zip",
+      "size": 1441,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

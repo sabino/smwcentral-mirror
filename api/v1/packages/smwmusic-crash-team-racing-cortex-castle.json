@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-cortex-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38490,
+  "title": "Crash Team Racing - Cortex Castle",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "ghost house",
+    "night"
+  ],
+  "description": "A fast paced orchestral theme that plays in Cortex Castle, an evil castle themed track that is pretty much the CTR equivalent of the Bowser Castle tracks from the Mario Kart games.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38490-1726850839",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38490,
+      "title": "Crash Team Racing - Cortex Castle",
+      "version": "smwc-38490-1726850839",
+      "upstream_time": 1726850839,
+      "download_url": "https://dl.smwcentral.net/38490/CTR%20-%20Cortex%20Castle.zip",
+      "filename": "CTR - Cortex Castle.zip",
+      "size": 150174,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

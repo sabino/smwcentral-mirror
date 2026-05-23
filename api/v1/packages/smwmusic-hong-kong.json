@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-hong-kong",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9433,
+  "title": "Hong Kong 97 - Main Theme",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "overworld"
+  ],
+  "description": "This is the main theme of Hong Kong 97. Good for joke hacks.<br>\r\n<br>\r\nDo not credit me for this, since this one is extremely easy to port (considering the original song is just a BRR sample).",
+  "latest_version": "smwc-9433-1415568026",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9433,
+      "title": "Hong Kong 97 - Main Theme",
+      "version": "smwc-9433-1415568026",
+      "upstream_time": 1415568026,
+      "download_url": "https://dl.smwcentral.net/9433/Hong%20Kong%2097%20-%20Main%20Theme.zip",
+      "filename": "Hong Kong 97 - Main Theme.zip",
+      "size": 64767,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

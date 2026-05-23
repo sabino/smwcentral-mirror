@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-jowth-s-16x16-font",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 6363,
+  "title": "JowTH's 16x16 Font",
+  "authors": [
+    "Jonny Azzuris"
+  ],
+  "tags": [
+    "cutscene",
+    "needs remoderation",
+    "title"
+  ],
+  "description": "The Zip Contains:<br>\r\nExGFX81 [BG2].bin - BG2<br>\r\nExGFX83 [BG3].bin - BG3<br>\r\nMap16 [0x6].map16 - The Map 16 Thing.<br>\r\nReadme. Please..txt - ... if you ask which file is that, I obviously will not answer. |B|<br>\r\n------<br>\r\nExGFX81 uses BG2, and ExGFX83 uses BG3. (Sorry Users of LM 1.65 or lower versions.)<br>\r\nThe Letters, Numbers and Simbols, uses palettes 3, 5, 6 and 7.<br>\r\nThe Big Star only uses Palette 6.<br>\r\nAnd Please, give Credit to me! You heard? GIVE CREDIT TO ME!<br>\r\n<br>\r\n<i>Updater's note: This description copied from the original readme.txt, since the original description isn't that good.</i>",
+  "latest_version": "smwc-6363-1394314923",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 6363,
+      "title": "JowTH's 16x16 Font",
+      "version": "smwc-6363-1394314923",
+      "upstream_time": 1394314923,
+      "download_url": "https://dl.smwcentral.net/6363/JowTH%27s%2016x16%20Font.zip",
+      "filename": "JowTH%27s 16x16 Font.zip",
+      "size": 4099,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lizardking-gametune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37324,
+  "title": "Lizardking - Gametune 5",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "urban"
+  ],
+  "description": "This is one of the ports I made for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34714\">Entropy</a>",
+  "latest_version": "smwc-37324-1712273980",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37324,
+      "title": "Lizardking - Gametune 5",
+      "version": "smwc-37324-1712273980",
+      "upstream_time": 1712273980,
+      "download_url": "https://dl.smwcentral.net/37324/Gametune%205.zip",
+      "filename": "Gametune 5.zip",
+      "size": 81679,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

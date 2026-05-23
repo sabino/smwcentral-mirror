@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-long-range-motivation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26497,
+  "title": "Long Range Motivation",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "ice",
+    "mountain",
+    "night",
+    "sky"
+  ],
+  "description": "An original song I made in a <a href=\"https://cdn.discordapp.com/attachments/489314277228806154/657608190665687120/Compo_XI.zip\" rel=\"nofollow\">competition of ORG Maker</a>. I felt so happy with what I had composed, that I wanted to port it.<br>\r\n<span style=\"font-size: 6pt;\">I think it doesn't seem to fit very well in a SMW level, unless someone use it wisely.</span><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>03/19/2021 Update</span></div><div class=\"collapse-content\"> * Did rework the entire port from zero, so now every section is properly optimized, and the text file is MUCH MORE readable;<br>\r\n* Added more channels to fill the strings part, so it sounds much more fuller;<br>\r\n* Replaced the cymbal sample to the KSS one;<br>\r\n* Reworked on most of non Kirby samples, downgrading some, and making the organ-like wave more higher quality;<br>\r\n* Crammed all of the percussion parts in one single channel;<br>\r\n* Added a second text file which does contain the final section of the song (which is where the actual song ends, instead of looping forever). Keep in mind that the full one loops once, then it'll stay silent, like the original piece;<br>\r\n* Lowered the global volume to w166.</div></div><br>\r\n<br>\r\n03/22/2021 Update: Just a small fix on the organ-like wave sample on the full version, where the highest note channel overflows at the final section.",
+  "latest_version": "smwc-26497-1617746260",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26497,
+      "title": "Long Range Motivation",
+      "version": "smwc-26497-1617746260",
+      "upstream_time": 1617746260,
+      "download_url": "https://dl.smwcentral.net/26497/Long%20range%20motivation%20-%20Compo%20XI.zip",
+      "filename": "Long range motivation - Compo XI.zip",
+      "size": 114981,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

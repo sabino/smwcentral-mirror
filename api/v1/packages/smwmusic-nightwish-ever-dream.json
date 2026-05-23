@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-nightwish-ever-dream",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7704,
+  "title": "Nightwish - Ever Dream",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "athletic",
+    "final"
+  ],
+  "description": "Here's a SMW-ized version of the song Everdream by Nightwish. Cut down from it's original length to more match the average VG song duration.",
+  "latest_version": "smwc-7704-1311889126",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7704,
+      "title": "Nightwish - Ever Dream",
+      "version": "smwc-7704-1311889126",
+      "upstream_time": 1311889126,
+      "download_url": "https://dl.smwcentral.net/7704/Nightwish%20-%20Ever%20Dream%20%28SMW%20Version%29.zip",
+      "filename": "Nightwish - Ever Dream (SMW Version).zip",
+      "size": 75360,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

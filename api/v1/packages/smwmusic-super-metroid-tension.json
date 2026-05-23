@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-metroid-tension",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36755,
+  "title": "Super Metroid - Tension",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "cutscene",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36755-1706163166",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36755,
+      "title": "Super Metroid - Tension",
+      "version": "smwc-36755-1706163166",
+      "upstream_time": 1706163166,
+      "download_url": "https://dl.smwcentral.net/36755/95%20Tension.zip",
+      "filename": "95 Tension.zip",
+      "size": 201890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

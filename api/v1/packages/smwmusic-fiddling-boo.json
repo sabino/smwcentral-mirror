@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-fiddling-boo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24256,
+  "title": "Fiddling Boo",
+  "authors": [
+    "VecchiaZim"
+  ],
+  "tags": [
+    "carnival",
+    "castle",
+    "dark",
+    "ghost house",
+    "mysterious",
+    "retro",
+    "ruins",
+    "sad",
+    "spooky",
+    "swamp"
+  ],
+  "description": "A spooky old-timey waltz for ghost houses, or anything creepy. (Update - fixed echo problem)",
+  "latest_version": "smwc-24256-1598924468",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24256,
+      "title": "Fiddling Boo",
+      "version": "smwc-24256-1598924468",
+      "upstream_time": 1598924468,
+      "download_url": "https://dl.smwcentral.net/24256/Fiddling%20Boo.zip",
+      "filename": "Fiddling Boo.zip",
+      "size": 32938,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

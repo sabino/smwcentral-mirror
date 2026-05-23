@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-haunted-castle-order-of-the-holy-spirit-cross-your-heart-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21229,
+  "title": "Haunted Castle - Order of the Holy Spirit ~ Cross Your Heart (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "castle",
+    "industrial",
+    "tense"
+  ],
+  "description": "<span style=\"color: #db5e58;\"><span style=\"font-size: 16pt;\">𝖂𝖍𝖆𝖙 𝖆 𝖍𝖔𝖗𝖗𝖎𝖇𝖑𝖊 𝖓𝖎𝖌𝖍𝖙 𝖙𝖔 𝖍𝖆𝖛𝖊 𝖆 𝖈𝖚𝖗𝖘𝖊!</span></span><br>\r\n<br>\r\nThis is an arrangement <i>Cross Your Heart</i>, the first stage theme from Konami's Castlevania arcade game <i>Haunted Castle</i>. I had this song stuck in my head for about a week and decided to let it out of my head and into a port.<br>\r\n<br>\r\nThis song can fit castle, factories, towers, and intense levels / scenarios.<br>\r\n<br>\r\n<b>Note:</b><br>\r\nThere is a !! Read Me!!.txt file that has the sample bank that you need to move to Addmusic_sample_groups.txt. Thunder and Yoshi sound effects are disabled.<br>\r\nThere are three customizable pitches for this song that you can adjust in the song file:<br>\r\n- f# minor (The default pitch from the original game)<br>\r\n- g minor (Based on <i>Crucifix Held Close</i> from <i>Castlevania: Portrait of Ruin</i>)<br>\r\n- e minor (A custom pitch that I thought sounded pretty cool for this song)<br>\r\n<br>\r\nIf you haven't already, check out Ultima's arrangement of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18907\"><i>Crucifix Held Close</i></a>, a similar song from <i>Castlevania: Portrait of Ruin</i>. It's a well-crafted arrangement that some may prefer over this one if you liked that version better than what <i>Haunted Castle</i> had to offer.<br>\r\n<br>\r\nmod note: the $EE command used in versions 1 and 2 detunes certain sound effects very slightly.",
+  "latest_version": "smwc-21229-1569803979",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21229,
+      "title": "Haunted Castle - Order of the Holy Spirit ~ Cross Your Heart (Remix)",
+      "version": "smwc-21229-1569803979",
+      "upstream_time": 1569803979,
+      "download_url": "https://dl.smwcentral.net/21229/Order_of_the_Holy_Spirit.zip",
+      "filename": "Order_of_the_Holy_Spirit.zip",
+      "size": 184945,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

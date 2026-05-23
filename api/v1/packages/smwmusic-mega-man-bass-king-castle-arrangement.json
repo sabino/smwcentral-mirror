@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-mega-man-bass-king-castle-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7489,
+  "title": "Mega Man & Bass - King Castle (Arrangement)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "fire",
+    "ghost house",
+    "mountain",
+    "overworld",
+    "temple",
+    "town"
+  ],
+  "description": "A dark song that could fit a castle, like its name suggests. It could also work great for epic areas like a mountain level.",
+  "latest_version": "smwc-7489-1374796787",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7489,
+      "title": "Mega Man & Bass - King Castle (Arrangement)",
+      "version": "smwc-7489-1374796787",
+      "upstream_time": 1374796787,
+      "download_url": "https://dl.smwcentral.net/7489/kingcastle.zip",
+      "filename": "kingcastle.zip",
+      "size": 59652,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

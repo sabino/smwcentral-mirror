@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-yoob-s-belly",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37870,
+  "title": "Mario & Luigi: Partners in Time - Yoob's Belly",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cave",
+    "industrial",
+    "sewer",
+    "space",
+    "urban"
+  ],
+  "description": "The music that plays inside Yoob in Mario & Luigi: Partners in Time. Difficult to describe; probably would fit best in abstract factory environments.",
+  "latest_version": "smwc-37870-1721657523",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37870,
+      "title": "Mario & Luigi: Partners in Time - Yoob's Belly",
+      "version": "smwc-37870-1721657523",
+      "upstream_time": 1721657523,
+      "download_url": "https://dl.smwcentral.net/37870/yoob.zip",
+      "filename": "yoob.zip",
+      "size": 32470,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7288,
+      "title": "Mario & Luigi: Partners in Time - Yoob's Belly",
+      "version": "smwc-7288-1312283923",
+      "upstream_time": 1312283923,
+      "download_url": "https://dl.smwcentral.net/7288/mlpityb.zip",
+      "filename": "mlpityb.zip",
+      "size": 68205,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

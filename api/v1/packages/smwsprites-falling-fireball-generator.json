@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-falling-fireball-generator",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41845,
+  "title": "Falling Fireball Generator",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "falling",
+    "fire",
+    "fireball",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Generates falling fireballs from the top of the screen. The fireballs fall and disappear in a puff of smoke when they encounter the ground. If a fireball encounters certain blocks, it makes them shatter.<br>\r\n<br>\r\nThere are many configuration options in the sprite and generator files, such as which sizes to spawn the fireballs in (16x16, 16x32 or both), the spawning rate per horizontal screen, which map16 tiles should be shattered by the fireballs (by default, they shatter item blocks and derivatives) and more.<br>\r\n<br>\r\n<b>Make sure to set the fireball's sprite number in the generator's .asm file!</b>",
+  "latest_version": "smwc-41845-1773022692",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41845,
+      "title": "Falling Fireball Generator",
+      "version": "smwc-41845-1773022692",
+      "upstream_time": 1773022692,
+      "download_url": "https://dl.smwcentral.net/41845/falling%20fireball%20generator.zip",
+      "filename": "falling fireball generator.zip",
+      "size": 8560,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

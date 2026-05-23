@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shin-megami-tensei-if-gouman-kai",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37265,
+  "title": "Shin Megami Tensei if... - Gouman Kai",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "mysterious"
+  ],
+  "description": "Plays in Gouman Kai (World of Pride). It‘s an extended and longer version of SMT 1's track 'Shibuya‘",
+  "latest_version": "smwc-37265-1713581094",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37265,
+      "title": "Shin Megami Tensei if... - Gouman Kai",
+      "version": "smwc-37265-1713581094",
+      "upstream_time": 1713581094,
+      "download_url": "https://dl.smwcentral.net/37265/SMT%20if%20Gouman%20Kai.zip",
+      "filename": "SMT if Gouman Kai.zip",
+      "size": 60539,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

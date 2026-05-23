@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-cave-story-meltdown",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15753,
+  "title": "Cave Story - Meltdown 2",
+  "authors": [
+    "Taffy"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "cave",
+    "cave story",
+    "desert",
+    "fire",
+    "mountain"
+  ],
+  "description": "This is the song you hear in the Sand Zone in Cave Story.<br>\r\n<br>\r\nIt's a very intense and upbeat song that would fit any extreme settings.<br>\r\n<br>\r\nThink ice, sand, lava, stuff like that.<br>\r\n<br>\r\n<br>\r\nThe idea of using noise as hi-hats was taken from Torchkas' On to Grasstown port.<br>\r\n<br>\r\n<br>\r\nCredit not required. Just enjoy the song and use it well.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-15753-1499765605",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15753,
+      "title": "Cave Story - Meltdown 2",
+      "version": "smwc-15753-1499765605",
+      "upstream_time": 1499765605,
+      "download_url": "https://dl.smwcentral.net/15753/mdown2.zip",
+      "filename": "mdown2.zip",
+      "size": 33026,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 12902,
+      "title": "Cave Story - Meltdown 2",
+      "version": "smwc-12902-1452566711",
+      "upstream_time": 1452566711,
+      "download_url": "https://dl.smwcentral.net/12902/meltdown2.zip",
+      "filename": "meltdown2.zip",
+      "size": 52184,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7235,
+      "title": "Cave Story - Meltdown 2",
+      "version": "smwc-7235-1312819064",
+      "upstream_time": 1312819064,
+      "download_url": "https://dl.smwcentral.net/7235/cssz.zip",
+      "filename": "cssz.zip",
+      "size": 69376,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-level-dependent-yoshi-message-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40245,
+  "title": "Level Dependent Yoshi Message V1.1",
+  "authors": [
+    "Alcaro",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "message box",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch allows different Yoshi Rescued messages each level, depending on level number. Might also be useful for someone wanting to use more than 2 messages per level.<br>\r\n<br>\r\nModerator's note: You can only set a message per translevel (0x000-0x024 and 0x101-0x13B). This means that you have to set the message for the level the player enters from the overworld rather than the level they actually might encounter Yoshi in.<br>\r\nYou must also change a message in LM's message editor at least once for the patch to work.<br>\r\n<br>\r\nYoshifanatic's update:<br>\r\n- Removed an instance of xkas style left to right math.<br>\r\n- Made the patch throw an error if the overworld hasn't been saved in Lunar Magic, as this patch hijacks LM's message text routine.<br>\r\n- Made it so that the first parameter of the macros is now the level ID rather than $13BF values.<br>\r\n- Added support for Lunar Magic's optional ASM hack for the increased level+event slots.<br>\r\n- Allows you to choose whether the message displays or not and whether $0EF8 is checked before displaying the message.",
+  "latest_version": "smwc-40245-1757282009",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40245,
+      "title": "Level Dependent Yoshi Message V1.1",
+      "version": "smwc-40245-1757282009",
+      "upstream_time": 1757282009,
+      "download_url": "https://dl.smwcentral.net/40245/YoshiMessagesUpdate.zip",
+      "filename": "YoshiMessagesUpdate.zip",
+      "size": 1840,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

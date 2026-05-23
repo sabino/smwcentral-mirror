@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rise-of-the-robots-the-crusher",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32030,
+  "title": "Rise of the Robots - The Crusher",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "industrial",
+    "space"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-32030-1668055018",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32030,
+      "title": "Rise of the Robots - The Crusher",
+      "version": "smwc-32030-1668055018",
+      "upstream_time": 1668055018,
+      "download_url": "https://dl.smwcentral.net/32030/08%20The%20Crusher.zip",
+      "filename": "08 The Crusher.zip",
+      "size": 57598,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

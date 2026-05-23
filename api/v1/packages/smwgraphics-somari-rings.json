@@ -1,0 +1,34 @@
+{
+  "name": "smwgraphics-somari-rings",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 39084,
+  "title": "Somari - Rings",
+  "authors": [
+    "Hammerer",
+    "KaidenThelens"
+  ],
+  "tags": [
+    "2bpp",
+    "bonus",
+    "coin",
+    "retro"
+  ],
+  "description": "That's an update for the Somari Rings submission (firstly submitted by <span class=\"un-outer\" title=\"KaidenThelens\"><a href=\"/?p=profile&amp;id=42233\" style=\"color: var(--user-color-2);\" class=\"un\">KaidenThelens</a></span> and updated by <span class=\"un-outer\" title=\"Hammerer\"><a href=\"/?p=profile&amp;id=56714\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Hammerer</a></span> (me)).<br>\r\n<br>\r\nThis update includes some notable changes, like:<br>\r\n<br>\r\n1.  The gfx for the rings was modified, now it looks more like the Somari rings ripped.<br>\r\n<hr>2. Added the ring graphics in GFX01 (for the coin animation when hit blocks), something missed in the first submission, along with the ring palette in palette row A for the coin sprites (it replaces the last 3 color slots (AD, AE and AF))<br>\r\n<b>NOTE:</b> The tile EA is slighter than the GFX33 version, since it was necessary to reduce the tile size to fit in the 8x8 space.<br>\r\n<hr>3.  The blue palette in row 7 is different now, with shades that match best with the original palette (in row 6).<br>\r\n<hr>4. There's now the option to modify also the coin tile used in status bar, replacing it with the ring miniature in Sumari's status bar. I've included two ways to do that:<br>\r\n<br>\r\nWay 1 (still): Using the tile 2E included in the submission's GFX28;<br>\r\n<br>\r\nWay 2 (animated): Using ExAnimation to replace the original tile 2E in GFX28 with an animation similar to the coin animation in Sumari's status bar.<br>\r\n<br>\r\nFor this, the submission includes a mwl file with the exanimation (it's in the <u>level</u> exanimation option - you can change it to the <u>global</u> exanimation option if you want without problems) and a ExGFX file to be inserted in AN2 slot (you can set the exanimation to use alternate ExGFX file instead of using AN2, name the file with 60-63 for it).<br>\r\n<b>NOTE:</b> It will also change the collected Dragon/Yoshi Coin graphics in the status bar, as SMW uses the same tile for both! <br>\r\n<hr>5. You may want to use <a href=\"https://smwc.me/s/4585\">Tweaker</a> tool to change the palette row used by sprites 45 (directional coin) and 7E (flying coin) from 8 and C to A.<br>\r\n<hr>Description from the first version of the submission:<br>\r\n<br>\r\n<i>Rings from Somari. That's about it.</i>",
+  "latest_version": "smwc-39084-1740811213",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 39084,
+      "title": "Somari - Rings",
+      "version": "smwc-39084-1740811213",
+      "upstream_time": 1740811213,
+      "download_url": "https://dl.smwcentral.net/39084/somari_rings.zip",
+      "filename": "somari_rings.zip",
+      "size": 12481,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-adventure-island-fruit",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22437,
+  "title": "Adventure Island - Fruit",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This is a fruit from Adventure Island for the NES. It'll appear after a set amount of time, and disappear shortly after. When picked up, it'll add some time to the timer.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-22437-1584832962",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22437,
+      "title": "Adventure Island - Fruit",
+      "version": "smwc-22437-1584832962",
+      "upstream_time": 1584832962,
+      "download_url": "https://dl.smwcentral.net/22437/Adventure%20Island%20Fruit.zip",
+      "filename": "Adventure Island Fruit.zip",
+      "size": 4189,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

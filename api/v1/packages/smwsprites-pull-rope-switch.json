@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-pull-rope-switch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32360,
+  "title": "Pull Rope Switch",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "climb",
+    "lorom",
+    "pacifist",
+    "rope",
+    "sa-1"
+  ],
+  "description": "This rope can be pulled down by a climbing player in which it may activate something.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Dappertron\"><span title=\"Dappertron donated $15.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=5767\" style=\"color: #ded8a0;\" class=\"un\">Dappertron</a></span>.",
+  "latest_version": "smwc-32360-1695979505",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32360,
+      "title": "Pull Rope Switch",
+      "version": "smwc-32360-1695979505",
+      "upstream_time": 1695979505,
+      "download_url": "https://dl.smwcentral.net/32360/Rope%20Switch.zip",
+      "filename": "Rope Switch.zip",
+      "size": 7240,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

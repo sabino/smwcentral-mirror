@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-o-oe-our-hisoutensoku",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13336,
+  "title": "Touhou Hisoutensoku ~ Choudokyuu Ginyoru no Nazo o Oe - Our Hisoutensoku",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "fire",
+    "tense"
+  ],
+  "description": "Tense song from Touhou 12.3, could fit some intense athletic areas or boss battles.",
+  "latest_version": "smwc-13336-1456671393",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13336,
+      "title": "Touhou Hisoutensoku ~ Choudokyuu Ginyoru no Nazo o Oe - Our Hisoutensoku",
+      "version": "smwc-13336-1456671393",
+      "upstream_time": 1456671393,
+      "download_url": "https://dl.smwcentral.net/13336/HisouTensoku.zip",
+      "filename": "HisouTensoku.zip",
+      "size": 24658,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

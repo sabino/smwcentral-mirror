@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-m-c-kids-the-garden",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7728,
+  "title": "M.C. Kids - The Garden",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach",
+    "grassland"
+  ],
+  "description": "The music that plays in the first level of M.C. Kids.",
+  "latest_version": "smwc-7728-1317543913",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7728,
+      "title": "M.C. Kids - The Garden",
+      "version": "smwc-7728-1317543913",
+      "upstream_time": 1317543913,
+      "download_url": "https://dl.smwcentral.net/7728/MC%20Kids%20-%20The%20Garden.zip",
+      "filename": "MC Kids - The Garden.zip",
+      "size": 67479,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

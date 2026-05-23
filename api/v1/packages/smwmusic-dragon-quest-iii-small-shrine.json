@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-dragon-quest-iii-small-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9529,
+  "title": "Dragon Quest III - Small Shrine",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "A calm but tender song come from DQ3.",
+  "latest_version": "smwc-9529-1416543640",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9529,
+      "title": "Dragon Quest III - Small Shrine",
+      "version": "smwc-9529-1416543640",
+      "upstream_time": 1416543640,
+      "download_url": "https://dl.smwcentral.net/9529/Dragon%20Quest%203%20-%20Small%20Shrine.zip",
+      "filename": "Dragon Quest 3 - Small Shrine.zip",
+      "size": 65723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

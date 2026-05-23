@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-bros-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40913,
+  "title": "Super Mario Bros. - Game Over",
+  "authors": [
+    "LuciCat"
+  ],
+  "tags": [
+    "cutscene",
+    "menu",
+    "retro",
+    "sad"
+  ],
+  "description": "Ah yes, the classic song that plays whenever you lose all of your lives in what is undoubtedly one of the most influential video games of all time (and also a game that's somewhat ahead of its time, as back in 1985, they somehow managed to compress 32 levels onto a single 40-kilobyte cartridge, which even today, is SUPER impressive).<br>\r\n<br>\r\nGood for you know... game over screens, especially on a retro-styled hack.",
+  "latest_version": "smwc-40913-1768854778",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40913,
+      "title": "Super Mario Bros. - Game Over",
+      "version": "smwc-40913-1768854778",
+      "upstream_time": 1768854778,
+      "download_url": "https://dl.smwcentral.net/40913/Super%20Mario%20Bros.%20-%20Game%20Over.zip",
+      "filename": "Super Mario Bros. - Game Over.zip",
+      "size": 34312,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

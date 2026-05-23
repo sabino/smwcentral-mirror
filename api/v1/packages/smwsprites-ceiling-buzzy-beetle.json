@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-ceiling-buzzy-beetle",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 21714,
+  "title": "Ceiling Buzzy Beetle",
+  "authors": [
+    "Ixtab"
+  ],
+  "tags": [
+    "buzzy beetle",
+    "cave",
+    "ceiling",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "underground"
+  ],
+  "description": "A Buzzy Beetle that walks on the ceiling and drops when you get underneath.<br>\r\n<br>\r\n<b>Tester's note: Make sure to block him off, or else he'll start scuttling on air</b>.",
+  "latest_version": "smwc-21714-1577563430",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 21714,
+      "title": "Ceiling Buzzy Beetle",
+      "version": "smwc-21714-1577563430",
+      "upstream_time": 1577563430,
+      "download_url": "https://dl.smwcentral.net/21714/CeilingBuzzy.zip",
+      "filename": "CeilingBuzzy.zip",
+      "size": 1826,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

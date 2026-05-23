@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-laser-from-quick-man-s-stage",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16661,
+  "title": "Laser from Quick Man's stage",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "laser",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A laser as annoying as the ones in Quick Man's stage. Has 4 configurable directions, and it can play a sound effect.<br>\r\n<br>\r\nNote that this works by spawning a custom map16 tile: if it were merely sprites it'd be overkill. Because of that, don't put a lot of them in a single screen or you'll get black bars at the top.",
+  "latest_version": "smwc-16661-1511301777",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16661,
+      "title": "Laser from Quick Man's stage",
+      "version": "smwc-16661-1511301777",
+      "upstream_time": 1511301777,
+      "download_url": "https://dl.smwcentral.net/16661/Quick_Mans_Laser.zip",
+      "filename": "Quick_Mans_Laser.zip",
+      "size": 2422,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

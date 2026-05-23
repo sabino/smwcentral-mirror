@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-adventure-island-hawaiian",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34675,
+  "title": "Super Adventure Island - Hawaiian",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "credits",
+    "sea"
+  ],
+  "description": "Can fit a beach theme.",
+  "latest_version": "smwc-34675-1695245847",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34675,
+      "title": "Super Adventure Island - Hawaiian",
+      "version": "smwc-34675-1695245847",
+      "upstream_time": 1695245847,
+      "download_url": "https://dl.smwcentral.net/34675/14%20Hawaiian.zip",
+      "filename": "14 Hawaiian.zip",
+      "size": 37600,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

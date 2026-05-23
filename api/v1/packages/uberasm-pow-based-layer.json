@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-pow-based-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 19734,
+  "title": "POW-based Layer 2 Height Control",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "layer 2",
+    "lorom",
+    "p-switch",
+    "sa-1"
+  ],
+  "description": "This code controls the height of Layer 2 depending on the blue/silver POW status.<br>\r\n<br>\r\nIncludes defines to determine which switch will cause layer 2 to move, and initial/final Y positions for layer 2. More details on the ASM file.",
+  "latest_version": "smwc-19734-1556583093",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 19734,
+      "title": "POW-based Layer 2 Height Control",
+      "version": "smwc-19734-1556583093",
+      "upstream_time": 1556583093,
+      "download_url": "https://dl.smwcentral.net/19734/L2ControlPSwitch.zip",
+      "filename": "L2ControlPSwitch.zip",
+      "size": 1055,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

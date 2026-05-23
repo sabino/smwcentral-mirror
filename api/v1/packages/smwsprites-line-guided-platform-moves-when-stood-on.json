@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-line-guided-platform-moves-when-stood-on",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22205,
+  "title": "Line-Guided Platform, Moves When Stood On",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This is a line guided platform that moves only when player is standing on it. If extra bit is set, it won't move when stood on.<br>\r\n<br>\r\nCredit is optional. Requested by FragOnCrack.",
+  "latest_version": "smwc-22205-1582409121",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22205,
+      "title": "Line-Guided Platform, Moves When Stood On",
+      "version": "smwc-22205-1582409121",
+      "upstream_time": 1582409121,
+      "download_url": "https://dl.smwcentral.net/22205/LineGuidedPlatform_MoveOnStand.zip",
+      "filename": "LineGuidedPlatform_MoveOnStand.zip",
+      "size": 5790,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-7th-min-seaside-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28901,
+  "title": "7th Min Seaside (Overworld)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "jungle",
+    "overworld",
+    "swamp",
+    "water"
+  ],
+  "description": "Original composition all 7th min chords with musical palindrome as both flipped notes. Could fit on the beach, seaside, tropical, water, overworlds.",
+  "latest_version": "smwc-28901-1643662532",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28901,
+      "title": "7th Min Seaside (Overworld)",
+      "version": "smwc-28901-1643662532",
+      "upstream_time": 1643662532,
+      "download_url": "https://dl.smwcentral.net/28901/7th%20min%20seaside.zip",
+      "filename": "7th min seaside.zip",
+      "size": 31944,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

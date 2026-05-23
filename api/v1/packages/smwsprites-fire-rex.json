@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-fire-rex",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33209,
+  "title": "Fire Rex",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "flame",
+    "lorom",
+    "rex",
+    "sa-1"
+  ],
+  "description": "This rex will leave a trail of flame behind.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Blizzard Buffalo\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Blizzard Buffalo</a></span>.",
+  "latest_version": "smwc-33209-1678661942",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33209,
+      "title": "Fire Rex",
+      "version": "smwc-33209-1678661942",
+      "upstream_time": 1678661942,
+      "download_url": "https://dl.smwcentral.net/33209/Fire%20Rex.zip",
+      "filename": "Fire Rex.zip",
+      "size": 8969,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

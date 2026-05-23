@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-paper-mario-shy-guy-s-toybox",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8066,
+  "title": "Paper Mario - Shy Guy's Toybox",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "The happy, whimisical song that plays in Chapter 4 of Paper Mario. It would fit switch palaces, bonus areas, or any toy-themed level.",
+  "latest_version": "smwc-8066-1312817142",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8066,
+      "title": "Paper Mario - Shy Guy's Toybox",
+      "version": "smwc-8066-1312817142",
+      "upstream_time": 1312817142,
+      "download_url": "https://dl.smwcentral.net/8066/PM%20-%20Shyguy%20Toybox.zip",
+      "filename": "PM - Shyguy Toybox.zip",
+      "size": 68186,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

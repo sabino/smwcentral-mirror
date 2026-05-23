@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-lantern",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3765,
+  "title": "Lantern",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "brightness",
+    "fire",
+    "fireball",
+    "lantern",
+    "light",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "When this sprite spawns, it will decrease the screen brightness to a configurable amount. When it's shot by a fireball (Mario's or Yoshi's), it will light up for a short amount of time. If the extra bit is set, it will never go out.<br>\r\n<br>\r\nCheck the ASM file for configuration options.<br>\r\n<br>\r\nBased on the lanterns in Legend of Zelda: A Link to the Past. <a href=\"http://www.youtube.com/watch?v=D4c_9qvLQYA\" rel=\"nofollow\">Demonstration video.</a>",
+  "latest_version": "smwc-3765-1327153714",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3765,
+      "title": "Lantern",
+      "version": "smwc-3765-1327153714",
+      "upstream_time": 1327153714,
+      "download_url": "https://dl.smwcentral.net/3765/Lantern.zip",
+      "filename": "Lantern.zip",
+      "size": 1884,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

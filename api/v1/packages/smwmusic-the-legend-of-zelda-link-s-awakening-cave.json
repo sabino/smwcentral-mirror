@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-link-s-awakening-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10385,
+  "title": "The Legend of Zelda: Link's Awakening - Cave",
+  "authors": [
+    "K.T.B."
+  ],
+  "tags": [
+    "cave",
+    "overworld"
+  ],
+  "description": "This is a port I made of the cave theme from The Legend of Zelda: Link's Awakening. This is NOT to be confused with the dungeon cave theme, this is the one you hear in caves on the main overworld.<br>\r\n<br>\r\n<br>\r\n<br>\r\nThis is my very first completed port, so it's probably not the best, but I am planning on making more ports soon, so hopefully I will slowly get better as time goes on.",
+  "latest_version": "smwc-10385-1419884829",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10385,
+      "title": "The Legend of Zelda: Link's Awakening - Cave",
+      "version": "smwc-10385-1419884829",
+      "upstream_time": 1419884829,
+      "download_url": "https://dl.smwcentral.net/10385/LoZLA%20-%20Cave.zip",
+      "filename": "LoZLA - Cave.zip",
+      "size": 31133,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

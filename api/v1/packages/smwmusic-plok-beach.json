@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-plok-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11183,
+  "title": "Plok - Beach",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "beach",
+    "credits",
+    "grassland",
+    "mountain",
+    "sky",
+    "title"
+  ],
+  "description": "The beach theme from Plok. One of the more recognizable themes of the game. Is probably better suited for long levels.",
+  "latest_version": "smwc-11183-1428812430",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11183,
+      "title": "Plok - Beach",
+      "version": "smwc-11183-1428812430",
+      "upstream_time": 1428812430,
+      "download_url": "https://dl.smwcentral.net/11183/Plok%20-%20Beach.zip",
+      "filename": "Plok - Beach.zip",
+      "size": 129075,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

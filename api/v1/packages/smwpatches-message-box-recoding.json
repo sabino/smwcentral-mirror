@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-message-box-recoding",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12441,
+  "title": "Message Box \"Recoding\"",
+  "authors": [
+    "Chdata"
+  ],
+  "tags": [
+    "flag",
+    "lorom",
+    "message box",
+    "needs remoderation",
+    "sa-1"
+  ],
+  "description": "The main attractions of this patch are:<br>\r\n<br>\r\nCreates a \"You hit this info box from below\" flag. Also when it's set it becomes set to whatever the number of the message the info box was playing.<br>\r\n<br>\r\nCreates a flag that when set, uses a new system for displaying messages. If you set this flag, message boxes will play from the CURRENT SUBLEVEL instead of the first level you enter on the overworld. It auto-detects invalid levels and if you are in one, it plays from the translevel number.<br>\r\n<br>\r\nAutomatically restores $13BF (translevel number) when a message is finished popping up. This is useful incase you want to temporarily change $13BF to another number so you can play multiple messages in a single sublevel. (For example by using custom sign blocks or NPC's.)<br>\r\n<br>\r\n(If you change $13BF and don't restore it screen exits can get screwed up.)<br>\r\n<br>\r\nFor further information, refer to the README.",
+  "latest_version": "smwc-12441-1459998066",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12441,
+      "title": "Message Box \"Recoding\"",
+      "version": "smwc-12441-1459998066",
+      "upstream_time": 1459998066,
+      "download_url": "https://dl.smwcentral.net/12441/Messages.zip",
+      "filename": "Messages.zip",
+      "size": 3880,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

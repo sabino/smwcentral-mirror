@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-chuckya",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1314,
+  "title": "Chuckya",
+  "authors": [
+    "Buu"
+  ],
+  "tags": [
+    "chuckya",
+    "needs remoderation"
+  ],
+  "description": "These are the Chuckya graphics I recently drew. Just replace the BIN that comes with Roy's Chuckya sprite with this one here.<br>\r\nThe palette the colors from the Chuckya are on is palette B.<br>\r\n<br>\r\nNo credit needed though you might want to credit \"mirror\" whose spritesheet I based the graphics off.",
+  "latest_version": "smwc-1314-1413400381",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1314,
+      "title": "Chuckya",
+      "version": "smwc-1314-1413400381",
+      "upstream_time": 1413400381,
+      "download_url": "https://dl.smwcentral.net/1314/chuckya_gfx.zip",
+      "filename": "chuckya_gfx.zip",
+      "size": 2534,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1304,
+      "title": "Chuckya",
+      "version": "smwc-1304-1413400119",
+      "upstream_time": 1413400119,
+      "download_url": "https://dl.smwcentral.net/1304/SMWChuckya.zip",
+      "filename": "SMWChuckya.zip",
+      "size": 1731,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

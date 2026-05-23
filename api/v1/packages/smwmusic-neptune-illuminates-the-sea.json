@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-neptune-illuminates-the-sea",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38766,
+  "title": "Neptune Illuminates the Sea",
+  "authors": [
+    "Archbishop Weeble-Wobble",
+    "bebn legg"
+  ],
+  "tags": [
+    "ambient",
+    "ice",
+    "mysterious",
+    "sea",
+    "water"
+  ],
+  "description": "A mysterious and deeply emotional piece which took 3rd place in the Super Famicompo 6 Originals category!<br>\r\n<br>\r\nThis song requires that you add the custom sample group, #weebeb.<br>\r\n<br>\r\nOmits Thunder.brr and Blargg.brr. Note that this song does not loop.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>mfw the neptune brew hit</span></div><div class=\"collapse-content\"><br>\r\n<img src=\"https://i.ibb.co/rwckgXr/omgpowerofneptune.png\" alt=\"\"><br>\r\n</div></div>",
+  "latest_version": "smwc-38766-1733015943",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38766,
+      "title": "Neptune Illuminates the Sea",
+      "version": "smwc-38766-1733015943",
+      "upstream_time": 1733015943,
+      "download_url": "https://dl.smwcentral.net/38766/neptune.zip",
+      "filename": "neptune.zip",
+      "size": 83270,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

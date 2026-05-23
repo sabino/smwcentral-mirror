@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-customizable-coin-block-version-one",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 8842,
+  "title": "Customizable Coin Block (Version One)",
+  "authors": [
+    "bowser5543"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "pay",
+    "powerup",
+    "stop"
+  ],
+  "description": "This block will allow you to stop a player from advancing until they have enough coins. You can change the amount of coins and if you pay once, all other blocks in the level don't require payment. You can also change if the player gets a powerup after paying for the first time. Please enjoy my block, and read the Readme.",
+  "latest_version": "smwc-8842-1430525354",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 8842,
+      "title": "Customizable Coin Block (Version One)",
+      "version": "smwc-8842-1430525354",
+      "upstream_time": 1430525354,
+      "download_url": "https://dl.smwcentral.net/8842/Coin-Block-V-1-1.zip",
+      "filename": "Coin-Block-V-1-1.zip",
+      "size": 1329,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

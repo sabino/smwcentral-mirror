@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-wario-master-of-disguise-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25925,
+  "title": "Wario: Master of Disguise - Boss Battle",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "boss"
+  ],
+  "description": "Banging song fit for boss fights.<br>\r\nNot compatible with \"Bonus end\".",
+  "latest_version": "smwc-25925-1613678838",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25925,
+      "title": "Wario: Master of Disguise - Boss Battle",
+      "version": "smwc-25925-1613678838",
+      "upstream_time": 1613678838,
+      "download_url": "https://dl.smwcentral.net/25925/Wario%20Master%20of%20Disguise%20-%20Boss%20Battle.zip",
+      "filename": "Wario Master of Disguise - Boss Battle.zip",
+      "size": 129638,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

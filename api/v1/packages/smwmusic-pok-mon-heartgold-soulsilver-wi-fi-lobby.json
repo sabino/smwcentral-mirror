@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-heartgold-soulsilver-wi-fi-lobby",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7638,
+  "title": "Pokémon HeartGold/SoulSilver - Wi-Fi Lobby",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "overworld",
+    "sky",
+    "title",
+    "town"
+  ],
+  "description": "The Wifi lobby theme in Pokémon HG/SS. Could fit a calm area and/or overworld.",
+  "latest_version": "smwc-7638-1325397267",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7638,
+      "title": "Pokémon HeartGold/SoulSilver - Wi-Fi Lobby",
+      "version": "smwc-7638-1325397267",
+      "upstream_time": 1325397267,
+      "download_url": "https://dl.smwcentral.net/7638/Pokemon%20HGSS-WifiLobby.zip",
+      "filename": "Pokemon HGSS-WifiLobby.zip",
+      "size": 71424,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

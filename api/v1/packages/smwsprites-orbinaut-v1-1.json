@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-orbinaut-v1-1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35780,
+  "title": "Orbinaut v1.1.0",
+  "authors": [
+    "zuccha"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "sonic"
+  ],
+  "description": "Orbinaut sprite from the Sonic series, requested by <span class=\"un-outer\" title=\"NopeContest\"><a href=\"/?p=profile&amp;id=45664\" style=\"color: #73c873;\" class=\"un\">NopeContest</a></span>.<br>\r\n<br>\r\nThe orbinaut is a sphere with four spike balls orbiting around it. The orbinaut can throw the balls in Mario's direction if the player is close enough. It can be customized in several ways via extra bytes and defines (customizations are documented in the ASMs file).<br>\r\n<br>\r\nN.B.: This only works with PIXI 1.40 or newer. Older versions of PIXI are not supported.",
+  "latest_version": "smwc-35780-1706532470",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35780,
+      "title": "Orbinaut v1.1.0",
+      "version": "smwc-35780-1706532470",
+      "upstream_time": 1706532470,
+      "download_url": "https://dl.smwcentral.net/35780/orbinaut-1.1.0.zip",
+      "filename": "orbinaut-1.1.0.zip",
+      "size": 15710,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

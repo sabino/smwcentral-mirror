@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-romancing-saga-beat-of-the-evil",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38835,
+  "title": "Romancing SaGa - Beat of the Evil",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "cutscene",
+    "dark",
+    "final",
+    "spooky",
+    "tense"
+  ],
+  "description": "Song that Beat of the Evil from The Romancing SaGa. Could fit a haunted and castle levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+  "latest_version": "smwc-38835-1738370580",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38835,
+      "title": "Romancing SaGa - Beat of the Evil",
+      "version": "smwc-38835-1738370580",
+      "upstream_time": 1738370580,
+      "download_url": "https://dl.smwcentral.net/38835/Beat%20of%20the%20Evil.zip",
+      "filename": "Beat of the Evil.zip",
+      "size": 32280,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30935,
+      "title": "Romancing SaGa - Beat of the Evil",
+      "version": "smwc-30935-1658866674",
+      "upstream_time": 1658866674,
+      "download_url": "https://dl.smwcentral.net/30935/Romancing%20SaGa%20-%20Beat%20of%20the%20Evil.zip",
+      "filename": "Romancing SaGa - Beat of the Evil.zip",
+      "size": 56030,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

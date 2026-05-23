@@ -1,0 +1,35 @@
+{
+  "name": "tools-m64-parser-0",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 13234,
+  "title": "M64 Parser 0.09",
+  "authors": [
+    "MrGreenThunder",
+    "messiaen"
+  ],
+  "tags": [
+    "gui",
+    "m64",
+    "music",
+    "parser",
+    "sm64"
+  ],
+  "description": "This tool converts M64 into a readable text file, which is useful for debugging M64 files and understanding their structure better.<br>\r\n<br>\r\nChanges in 0.08;<br>\r\n<br>\r\n* Now outputs vibrato(0xD8) correctly.<br>\r\n* 0xD4 is now a known and named command.<br>\r\n<br>\r\nChanges in 0.09;<br>\r\n<br>\r\n* Now outputs octaves correctly (errors like c5 being outputted as c4).<br>\r\n* 0xD3 is now called Pitch/Pitchbend.<br>\r\n* Corrected typo with Beat Per Minute being \"BMP\" instead of \"BPM\".<br>\r\n* There is now an \"Open parsed file or not\" dialog prompt in the GUI. <br>\r\n* Fix bug with the GUI preventing m64 files from being edited when opened",
+  "latest_version": "smwc-13234-1461876349",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 13234,
+      "title": "M64 Parser 0.09",
+      "version": "smwc-13234-1461876349",
+      "upstream_time": 1461876349,
+      "download_url": "https://dl.smwcentral.net/13234/M64%20Parser%200.9.zip",
+      "filename": "M64 Parser 0.9.zip",
+      "size": 28910,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-angry-sun-happy-moon-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22630,
+  "title": "Angry Sun/Happy Moon (v1.3)",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "chase",
+    "desert",
+    "enemy",
+    "follow",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "smb3",
+    "sun"
+  ],
+  "description": "The Angry Sun from Super Mario Bros. 3 (and Super Mario Maker 2). It's locked on the screen horizontally and remains dormant until Mario reaches a certain screen (customizable with the first extra property byte), at which point it starts spinning in circles and swooping down in attempt to hurt Mario. It can be killed with a star or a thrown object.<br>\r\n<br>\r\nIf the Extra Property Byte 2's first bit (i.e. set it to 1) is set, it will instead use the Super Mario Maker 2 graphics set and animations.<br>\r\n<br>\r\nSetting the Extra Bit will cause the sprite to look and act like the Happy Moon enemy from Super Mario Maker 2. Touching it will cause it to instantly kill all sprites that are not set to \"Invincible to star/cape/fire/bouncing blk\". Do note that while the SMB3 graphics are in effect, the Happy Moon will NOT display properly. You will need to remap the sprite if you wish to have the Happy Moon and SMB3 Angry Sun available in the same ExGFX file.<br>\r\n<br>\r\nThe initial position of the sprite is determined by setting the Y position of the sprite. If it is an even number, it'll appear on the left side. If it's odd, it'll appear on the right.<br>\r\n<br>\r\nNote that this sprite disables L/R scrolling for any level it's put into in order to prevent an issue with following the screen.",
+  "latest_version": "smwc-22630-1592081176",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22630,
+      "title": "Angry Sun/Happy Moon (v1.3)",
+      "version": "smwc-22630-1592081176",
+      "upstream_time": 1592081176,
+      "download_url": "https://dl.smwcentral.net/22630/AngrySun.zip",
+      "filename": "AngrySun.zip",
+      "size": 14849,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

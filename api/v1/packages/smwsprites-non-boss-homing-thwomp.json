@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-non-boss-homing-thwomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3552,
+  "title": "Non-Boss Homing Thwomp",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "enemy",
+    "homing",
+    "lorom",
+    "thwomp"
+  ],
+  "description": "Much like the boss version, this Thwomp follows Mario horizontally when on the ceiling, and falls whenever it gets close to him. However, this version doesn't spawn Bob-Ombs, is completely invulnerable, and is perfectly compatible with levels of more than one screen's length.",
+  "latest_version": "smwc-3552-1269542006",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3552,
+      "title": "Non-Boss Homing Thwomp",
+      "version": "smwc-3552-1269542006",
+      "upstream_time": 1269542006,
+      "download_url": "https://dl.smwcentral.net/3552/Non-Boss%20Homing%20Thwomp.zip",
+      "filename": "Non-Boss Homing Thwomp.zip",
+      "size": 2365,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

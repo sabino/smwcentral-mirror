@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-grey-lava-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3485,
+  "title": "Grey Lava Platform",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "grey platform",
+    "lava",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Sprite C0, the grey lava platform disassembled from SMW.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\nMod edit 2024/3/11 -- fixed a typo causing sunk platforms not to respawn correctly.",
+  "latest_version": "smwc-3485-1251635073",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3485,
+      "title": "Grey Lava Platform",
+      "version": "smwc-3485-1251635073",
+      "upstream_time": 1251635073,
+      "download_url": "https://dl.smwcentral.net/3485/lavaplat.zip",
+      "filename": "lavaplat.zip",
+      "size": 1307,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

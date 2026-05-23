@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-kyrandia-floating-will-o-wisp",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41661,
+  "title": "The Legend of Kyrandia - Floating (Will-o'-Wisp)",
+  "authors": [
+    "Fernap"
+  ],
+  "tags": [
+    "calm",
+    "cave"
+  ],
+  "description": "A relaxing song that plays during an underground section of The Legend of Kyrandia.",
+  "latest_version": "smwc-41661-1775449660",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41661,
+      "title": "The Legend of Kyrandia - Floating (Will-o'-Wisp)",
+      "version": "smwc-41661-1775449660",
+      "upstream_time": 1775449660,
+      "download_url": "https://dl.smwcentral.net/41661/kyrandia_wisp_r2.zip",
+      "filename": "kyrandia_wisp_r2.zip",
+      "size": 64561,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

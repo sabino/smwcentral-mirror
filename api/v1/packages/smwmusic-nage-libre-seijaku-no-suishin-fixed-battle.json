@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-nage-libre-seijaku-no-suishin-fixed-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42189,
+  "title": "Nage Libre: Seijaku no Suishin - Fixed Battle 2",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "fire",
+    "tense",
+    "upbeat"
+  ],
+  "description": "Fixed Battle 2 from Nage Libre on the SNES.",
+  "latest_version": "smwc-42189-1776425908",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42189,
+      "title": "Nage Libre: Seijaku no Suishin - Fixed Battle 2",
+      "version": "smwc-42189-1776425908",
+      "upstream_time": 1776425908,
+      "download_url": "https://dl.smwcentral.net/42189/Nage%20Libre%20-%20Fixed%20Battle%202.zip",
+      "filename": "Nage Libre - Fixed Battle 2.zip",
+      "size": 43845,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41911,
+      "title": "Nage Libre: Seijaku no Suishin - Fixed Battle 1",
+      "version": "smwc-41911-1776425880",
+      "upstream_time": 1776425880,
+      "download_url": "https://dl.smwcentral.net/41911/Nage%20Libre%20-%20Fixed%20Battle%201.zip",
+      "filename": "Nage Libre - Fixed Battle 1.zip",
+      "size": 38343,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

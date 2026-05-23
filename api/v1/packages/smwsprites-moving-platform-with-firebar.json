@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-moving-platform-with-firebar",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36668,
+  "title": "Moving Platform with Firebar",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "firebars",
+    "lorom",
+    "moving",
+    "platform",
+    "sa-1"
+  ],
+  "description": "You can create lifts that go back and forth between certain sections and lifts that keep moving in one direction when you get on them.<br>\r\nIn the case of going back and forth over a fixed section, the problem of the lift not returning to its original position after exiting the screen has also been fix.<br>\r\n<br>\r\nThe following settings are available<br>\r\n- Common -<br>\r\nSetting the direction of movement (8 directions)<br>\r\nPlatform Size (4 levels)<br>\r\nFirebar presence<br>\r\nFirebar size<br>\r\nDirection of firebar rotation<br>\r\nRotation speed of the firebar<br>\r\n<br>\r\n- Going back and forth between fixed sections -<br>\r\nMaximum speed travel time setting (32 steps)<br>\r\nMaximum speed setting (4 steps)<br>\r\nSetting of acceleration (normal or x2)<br>\r\nSetting of numbers (none, 1-7 Only one per number works at the same time)<br>\r\nShift of initial position according to travel distance and direction<br>\r\n<br>\r\n- Movement in one direction -<br>\r\nSetting of moving speed (4 levels)<br>\r\nWhether it disappears if not ridden for a certain period of time<br>\r\n<br>\r\n-Update-<br>\r\n-A few explanatory notes in the asm file have been added.<br>\r\n-In Lunar Magic, the direction of movement of the lift is now displayed. It is also drawn as a Checker platform, just as it is in the game.<br>\r\n-A problem with one of the double firebars being slightly shifted by the initial position shift has been corrected.",
+  "latest_version": "smwc-36668-1741579024",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36668,
+      "title": "Moving Platform with Firebar",
+      "version": "smwc-36668-1741579024",
+      "upstream_time": 1741579024,
+      "download_url": "https://dl.smwcentral.net/36668/Moving%20Platform%20with%20Firebar.zip",
+      "filename": "Moving Platform with Firebar.zip",
+      "size": 80257,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

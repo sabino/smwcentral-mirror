@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-kirby-s-return-to-dream-land-egg-engines",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8197,
+  "title": "Kirby's Return to Dream Land - Egg Engines 2",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "dark",
+    "industrial"
+  ],
+  "description": "The second stage of world six in Return to Dreamland. Made for your factory levels.",
+  "latest_version": "smwc-8197-1324572552",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8197,
+      "title": "Kirby's Return to Dream Land - Egg Engines 2",
+      "version": "smwc-8197-1324572552",
+      "upstream_time": 1324572552,
+      "download_url": "https://dl.smwcentral.net/8197/EggEngines2.zip",
+      "filename": "EggEngines2.zip",
+      "size": 48817,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-aboard-the-koopa-cruiser",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7270,
+  "title": "Mario & Luigi: Partners in Time - Aboard the Koopa Cruiser",
+  "authors": [
+    "Supertails"
+  ],
+  "tags": [
+    "athletic"
+  ],
+  "description": "This theme plays aboard the Koopa Cruiser in Partners in Time, as well as when Baby Bowser appears. Short and upbeat.",
+  "latest_version": "smwc-7270-1313742422",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7270,
+      "title": "Mario & Luigi: Partners in Time - Aboard the Koopa Cruiser",
+      "version": "smwc-7270-1313742422",
+      "upstream_time": 1313742422,
+      "download_url": "https://dl.smwcentral.net/7270/koopacruiser.zip",
+      "filename": "koopacruiser.zip",
+      "size": 67394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

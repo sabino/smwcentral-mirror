@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x2-red-alert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8102,
+  "title": "Mega Man X2 - Red Alert",
+  "authors": [
+    "Karatekid5"
+  ],
+  "tags": [
+    "athletic",
+    "boss"
+  ],
+  "description": "The music that plays on Magna Centipede's stage in Mega Man X2. Would fit a fast paced castle/secret base area or a fast autoscroll level.",
+  "latest_version": "smwc-8102-1313741182",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8102,
+      "title": "Mega Man X2 - Red Alert",
+      "version": "smwc-8102-1313741182",
+      "upstream_time": 1313741182,
+      "download_url": "https://dl.smwcentral.net/8102/MegaManX2%20-%20Magna%20Centipede.zip",
+      "filename": "MegaManX2 - Magna Centipede.zip",
+      "size": 72070,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-everquest-plane-of-hate-neriak",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38157,
+  "title": "EverQuest - Plane of Hate (Neriak)",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "cave",
+    "credits",
+    "forest",
+    "overworld",
+    "title"
+  ],
+  "description": "This port was requested years ago but went unused. I dusted it off, cleaned things up, and decided to upload. I created many of the samples by recording General MIDI, in the hopes of best translating the original work.<br>\r\n<br>\r\nThunder SFX is disabled",
+  "latest_version": "smwc-38157-1725165201",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38157,
+      "title": "EverQuest - Plane of Hate (Neriak)",
+      "version": "smwc-38157-1725165201",
+      "upstream_time": 1725165201,
+      "download_url": "https://dl.smwcentral.net/38157/Everquest_Plane%20of%20Hate%20%28Neriak%29.zip",
+      "filename": "Everquest_Plane of Hate (Neriak).zip",
+      "size": 78459,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

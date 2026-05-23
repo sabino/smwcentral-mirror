@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-goof-troop-to-the-south",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7698,
+  "title": "Goof Troop - To The South",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "desert",
+    "forest",
+    "grassland"
+  ],
+  "description": "A good tropical song. Would fit beaches and the like.",
+  "latest_version": "smwc-7698-1330614630",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7698,
+      "title": "Goof Troop - To The South",
+      "version": "smwc-7698-1330614630",
+      "upstream_time": 1330614630,
+      "download_url": "https://dl.smwcentral.net/7698/ToTheSouth.zip",
+      "filename": "ToTheSouth.zip",
+      "size": 72224,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

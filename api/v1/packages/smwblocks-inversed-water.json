@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-inversed-water",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3798,
+  "title": "Inversed Water",
+  "authors": [
+    "Ersanio",
+    "KilloZapit"
+  ],
+  "tags": [
+    "lorom",
+    "water",
+    "wtf"
+  ],
+  "description": "Once you swim in this water, the controls will be inversed! That means if you press right, the player will go to the left, and vice versa. More details in the asm file!",
+  "latest_version": "smwc-3798-1409414367",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3798,
+      "title": "Inversed Water",
+      "version": "smwc-3798-1409414367",
+      "upstream_time": 1409414367,
+      "download_url": "https://dl.smwcentral.net/3798/Inversion.zip",
+      "filename": "Inversion.zip",
+      "size": 445,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

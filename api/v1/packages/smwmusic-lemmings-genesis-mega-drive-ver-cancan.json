@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lemmings-genesis-mega-drive-ver-cancan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7240,
+  "title": "Lemmings (Genesis/Mega Drive ver.) - Cancan",
+  "authors": [
+    "Midna"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grassland",
+    "star"
+  ],
+  "description": "Cancan theme from Lemmings. Could fit a bonus level or an athletic level.",
+  "latest_version": "smwc-7240-1337735537",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7240,
+      "title": "Lemmings (Genesis/Mega Drive ver.) - Cancan",
+      "version": "smwc-7240-1337735537",
+      "upstream_time": 1337735537,
+      "download_url": "https://dl.smwcentral.net/7240/mdlemmingscancan.zip",
+      "filename": "mdlemmingscancan.zip",
+      "size": 74385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

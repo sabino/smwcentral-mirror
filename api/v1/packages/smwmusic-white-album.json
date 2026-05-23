@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-white-album",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18070,
+  "title": "WHITE ALBUM 2 - Sunshine Day",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "grassland",
+    "ice",
+    "overworld"
+  ],
+  "description": "Could fit with beach theme",
+  "latest_version": "smwc-18070-1535052877",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18070,
+      "title": "WHITE ALBUM 2 - Sunshine Day",
+      "version": "smwc-18070-1535052877",
+      "upstream_time": 1535052877,
+      "download_url": "https://dl.smwcentral.net/18070/WHITE%20ALBUM%202%20-%20Sunshine%20Day.zip",
+      "filename": "WHITE ALBUM 2 - Sunshine Day.zip",
+      "size": 35364,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16667,
+      "title": "WHITE ALBUM 2 - Holy Night",
+      "version": "smwc-16667-1511588258",
+      "upstream_time": 1511588258,
+      "download_url": "https://dl.smwcentral.net/16667/WHITE%20ALBUM%202%20-%20Holy%20Night.zip",
+      "filename": "WHITE ALBUM 2 - Holy Night.zip",
+      "size": 63181,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-3d-dot-game-heroes-block-demolition",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22905,
+  "title": "3D Dot Game Heroes - Block Demolition",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "grassland",
+    "title"
+  ],
+  "description": "The song from 3D Dot Game Heroes that plays during the Breakout clone segment, hence why the song is often referred to as just \"Breakout\" though in the game the minigame is called Blockout, and personally I like to call it \"Who wanted Breakout out of all retro arcade games?\" Regardless of what it's called, this song is an absolute gem that can fit in a variety of places. <br>\r\n<br>\r\nNote that this song uses noise, which may cause issues with certain sound effects.  ",
+  "latest_version": "smwc-22905-1589181127",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22905,
+      "title": "3D Dot Game Heroes - Block Demolition",
+      "version": "smwc-22905-1589181127",
+      "upstream_time": 1589181127,
+      "download_url": "https://dl.smwcentral.net/22905/breakout.zip",
+      "filename": "breakout.zip",
+      "size": 32134,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

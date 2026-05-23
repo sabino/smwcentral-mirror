@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-adventures-of-tintin-opening-illusion-of-gaia-samples",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25956,
+  "title": "The Adventures of Tintin - Opening (Illusion of Gaia samples)",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "chase",
+    "cutscene",
+    "overworld",
+    "tense"
+  ],
+  "description": "My favourite childhood TV show's opening theme, ported in my favourite SNES adventure game's style. Well fitting for any kind of intro or cutscene, even overworld.<br>\r\n<br>\r\nModeration told me a looping point would be nice but I did not find any so it will just go back to start. If you want it to stop instead, just open the txt file and end the block of #0 with a ? character.<br>\r\n<br>\r\nBig props to user KungFuFurby for the help on tuning.<br>\r\n<br>\r\n<a href=\"https://musescore.com/bokoblin/les-aventures-de-tintin-g-n-rique\" rel=\"nofollow\">Arrangement</a> courtesy of Musescore user Bokoblin.",
+  "latest_version": "smwc-25956-1614495299",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25956,
+      "title": "The Adventures of Tintin - Opening (Illusion of Gaia samples)",
+      "version": "smwc-25956-1614495299",
+      "upstream_time": 1614495299,
+      "download_url": "https://dl.smwcentral.net/25956/tintin_iog_style_0_1.zip",
+      "filename": "tintin_iog_style_0_1.zip",
+      "size": 58591,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

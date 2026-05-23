@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-new-super-mario-bros-koopa",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 24117,
+  "title": "New Super Mario Bros. - Koopa",
+  "authors": [
+    "Ralshi02"
+  ],
+  "tags": [
+    "koopa",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "The Koopa from New Super Mario Bros.<br>\r\n<br>\r\nTo use these graphics, you have to change the sprite's tilemap using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14987\">STEAR</a> (changes shown in the last screenshot).<br>\r\n<br>\r\nI also recommend you to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=15283\">this patch</a> for the sprite (you also have to enable the turning animation in it).<br>\r\n<br>\r\n",
+  "latest_version": "smwc-24117-1596735242",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 24117,
+      "title": "New Super Mario Bros. - Koopa",
+      "version": "smwc-24117-1596735242",
+      "upstream_time": 1596735242,
+      "download_url": "https://dl.smwcentral.net/24117/NSMB_koopas.zip",
+      "filename": "NSMB_koopas.zip",
+      "size": 9457,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

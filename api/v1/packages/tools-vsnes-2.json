@@ -1,0 +1,30 @@
+{
+  "name": "tools-vsnes-2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4590,
+  "title": "vSNES 2.91",
+  "authors": [
+    "creaothceann"
+  ],
+  "tags": [
+    "debugger"
+  ],
+  "description": "In SMW hacking, this has mainly the same purpose as BGMapper, but this has a GUI (it's not DOS). It also has a lot more features, try it out for yourself. It also opens SNES9x savestates, and maybe a few others.",
+  "latest_version": "smwc-4590-1363203289",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4590,
+      "title": "vSNES 2.91",
+      "version": "smwc-4590-1363203289",
+      "upstream_time": 1363203289,
+      "download_url": "https://dl.smwcentral.net/4590/vSNES291_exec.zip",
+      "filename": "vSNES291_exec.zip",
+      "size": 1105062,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

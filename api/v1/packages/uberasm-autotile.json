@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-autotile",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 37887,
+  "title": "Autotile",
+  "authors": [
+    "CircleFriendo"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "An autotile utility for SMW. This utility allows you to build shapes in Lunar Magic using a single tile and it will merge the tiles in-game using the correct edges.<br>\r\n<br>\r\nTutorial with screenshots here: <a href=\"https://github.com/CircleFriendo/AutotileUberasm\" rel=\"nofollow\">https://github.com/CircleFriendo/AutotileUberasm</a>",
+  "latest_version": "smwc-37887-1722528114",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 37887,
+      "title": "Autotile",
+      "version": "smwc-37887-1722528114",
+      "upstream_time": 1722528114,
+      "download_url": "https://dl.smwcentral.net/37887/Autotile.zip",
+      "filename": "Autotile.zip",
+      "size": 4513,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

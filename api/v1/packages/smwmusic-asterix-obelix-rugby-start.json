@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-asterix-obelix-rugby-start",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34741,
+  "title": "Asterix & Obelix - Rugby Start",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nShort and happy fanfare.",
+  "latest_version": "smwc-34741-1691404422",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34741,
+      "title": "Asterix & Obelix - Rugby Start",
+      "version": "smwc-34741-1691404422",
+      "upstream_time": 1691404422,
+      "download_url": "https://dl.smwcentral.net/34741/Asterix%20and%20Obelix%20-%2009%20Rugby%20Start.zip",
+      "filename": "Asterix and Obelix - 09 Rugby Start.zip",
+      "size": 74335,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

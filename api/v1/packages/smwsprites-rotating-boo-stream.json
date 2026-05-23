@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-rotating-boo-stream",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25594,
+  "title": "Rotating Boo Stream",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "boo",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "stream"
+  ],
+  "description": "This boo stream rotates like roto-disc or ball 'n chain. See readme for notes and .asm for customizations. Includes versions that can and cannot interact with objects.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-25594-1610424478",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25594,
+      "title": "Rotating Boo Stream",
+      "version": "smwc-25594-1610424478",
+      "upstream_time": 1610424478,
+      "download_url": "https://dl.smwcentral.net/25594/RotatingBooStream.zip",
+      "filename": "RotatingBooStream.zip",
+      "size": 4328,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

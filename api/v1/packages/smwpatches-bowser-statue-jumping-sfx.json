@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bowser-statue-jumping-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17533,
+  "title": "Bowser Statue Jumping SFX",
+  "authors": [
+    "Yan"
+  ],
+  "tags": [
+    "bowser statue",
+    "lorom",
+    "sa-1",
+    "sfx",
+    "sprite"
+  ],
+  "description": "This is a simple patch that adds a sound effect when the golden Bowser statue jumps.<br>\r\n<br>\r\nBy default, it uses the bouncing SFX.",
+  "latest_version": "smwc-17533-1527252014",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17533,
+      "title": "Bowser Statue Jumping SFX",
+      "version": "smwc-17533-1527252014",
+      "upstream_time": 1527252014,
+      "download_url": "https://dl.smwcentral.net/17533/Bowser%20Statue%20Jumping%20SFX.zip",
+      "filename": "Bowser Statue Jumping SFX.zip",
+      "size": 486,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

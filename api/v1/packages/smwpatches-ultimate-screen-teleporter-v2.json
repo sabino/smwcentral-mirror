@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-ultimate-screen-teleporter-v2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 38914,
+  "title": "Ultimate Screen Teleporter v2.2",
+  "authors": [
+    "mario90"
+  ],
+  "tags": [
+    "exit",
+    "falling",
+    "lorom",
+    "sa-1",
+    "screen exit",
+    "teleport",
+    "warp"
+  ],
+  "description": "This patch allows you to use screen exits by walking/going off various sides of the screen. When you walk toward the left or right edges of the screen, Mario will walk off it before warping like in Yoshi's Island. Jumping off the top or bottom of the screen can also trigger it. This patch should eliminate the need for teleport blocks unless they're specialized.<br>\r\n<br>\r\nv2.2 Fixed a bug preventing right side screen exits from working.",
+  "latest_version": "smwc-38914-1755545439",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 38914,
+      "title": "Ultimate Screen Teleporter v2.2",
+      "version": "smwc-38914-1755545439",
+      "upstream_time": 1755545439,
+      "download_url": "https://dl.smwcentral.net/38914/Ultimate%20Screen%20Teleporter%20v2.2.zip",
+      "filename": "Ultimate Screen Teleporter v2.2.zip",
+      "size": 118710,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

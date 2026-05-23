@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-starry-cradle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20515,
+  "title": "The Starry Cradle",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "cutscene",
+    "night",
+    "overworld",
+    "space"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nSoothing little tune which could fit space/night overworlds.",
+  "latest_version": "smwc-20515-1562576668",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20515,
+      "title": "The Starry Cradle",
+      "version": "smwc-20515-1562576668",
+      "upstream_time": 1562576668,
+      "download_url": "https://dl.smwcentral.net/20515/CUSTOM%20-%20The%20Starry%20Cradle.zip",
+      "filename": "CUSTOM - The Starry Cradle.zip",
+      "size": 32409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

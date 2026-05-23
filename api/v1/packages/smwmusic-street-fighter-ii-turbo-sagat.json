@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-street-fighter-ii-turbo-sagat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34130,
+  "title": "Street Fighter II Turbo - Sagat",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "urban"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span>",
+  "latest_version": "smwc-34130-1694833916",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34130,
+      "title": "Street Fighter II Turbo - Sagat",
+      "version": "smwc-34130-1694833916",
+      "upstream_time": 1694833916,
+      "download_url": "https://dl.smwcentral.net/34130/Sagat.zip",
+      "filename": "Sagat.zip",
+      "size": 59291,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

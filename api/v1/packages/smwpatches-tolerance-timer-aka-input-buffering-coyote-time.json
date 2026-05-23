@@ -1,0 +1,54 @@
+{
+  "name": "smwpatches-tolerance-timer-aka-input-buffering-coyote-time",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41751,
+  "title": "Tolerance Timer (aka Input Buffering & \"Coyote Time\")",
+  "authors": [
+    "RPG Hacker"
+  ],
+  "tags": [
+    "bsnes",
+    "delay",
+    "early",
+    "early jump",
+    "early jumps",
+    "emulator",
+    "enhancement",
+    "gameplay",
+    "higan",
+    "input delay",
+    "input lag",
+    "input latency",
+    "jump",
+    "lag",
+    "late",
+    "late jump",
+    "late jumps",
+    "latency",
+    "lorom",
+    "physics",
+    "sa-1",
+    "timer",
+    "tolerance"
+  ],
+  "description": "This patch aims at making the game's controls more responsive while also lessening the impact of input lag (such as in BSNES or Higan).<br>\r\n<br>\r\nSo far, two different tricks are supported in the patch and both of them are based on simple timers that add some kind of tolerance window to the game.<br>\r\n<br>\r\nThe first trick (aka \"Coyote Time\") allows Mario to perform late jumps. This means that if Mario is about to fall down a platform, as long as a certain amount of time hasn't passed yet, Mario can still perform a jump.<br>\r\n<br>\r\nThe second trick (aka \"Input buffering\") basically does the exact opposite to this, as it allows Mario to perform early jumps. This means that if Mario is currently still in the air and pressing a jump button, if he lands on a platform within the next few frames, he will immediately jump off that platform, as if the jump button was pressed the exact moment he landed on it.<br>\r\n<br>\r\nBy default, both hacks are set to use a frame count of 3 frames (which is equal to about 50 ms of time), but this can be adjusted in the patch. I personally think that 3 frames is a great starting point, but depending on your hack's design, other settings might work even better for you. You can also activate and deactivate both hacks independently from each other. Just take a look at the defines at the top of the patch for details on each setting.<br>\r\n<br>\r\nPlease play around with the patch for yourself to see how much of a difference it makes, especially in hacks with tight and precise (single block to single block) jumps.<br>\r\n<br>\r\nRequires up to 5 bytes of free RAM, depending on which features you enable (3 for late jumps and 2 for early jumps).<br>\r\n<br>\r\nFeel free to contribute to this and other patches via my <a href=\"https://github.com/RPGHacker/SMW-Workspace\" rel=\"nofollow\">GitHub repository</a>.",
+  "latest_version": "smwc-41751-1771791566",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41751,
+      "title": "Tolerance Timer (aka Input Buffering & \"Coyote Time\")",
+      "version": "smwc-41751-1771791566",
+      "upstream_time": 1771791566,
+      "download_url": "https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip",
+      "filename": "tolerance-timer-asar2.zip",
+      "size": 1981,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

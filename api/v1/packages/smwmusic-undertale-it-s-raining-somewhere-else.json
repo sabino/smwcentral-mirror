@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-undertale-it-s-raining-somewhere-else",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21545,
+  "title": "Undertale - It's Raining Somewhere Else",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "ice",
+    "sad"
+  ],
+  "description": "One of my favorite songs from Undertale. It plays when you're grabbing some dinner with sans and its calm melody creates a good atmosphere, making it useful for cutscenes. I've also included a version with no rain in the intro, which allows a more versatile use of it.",
+  "latest_version": "smwc-21545-1574981938",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21545,
+      "title": "Undertale - It's Raining Somewhere Else",
+      "version": "smwc-21545-1574981938",
+      "upstream_time": 1574981938,
+      "download_url": "https://dl.smwcentral.net/21545/Undertale_-_Its_Raining_Somewhere_Else.zip",
+      "filename": "Undertale_-_Its_Raining_Somewhere_Else.zip",
+      "size": 89069,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-funky-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20512,
+  "title": "Funky Forest",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "abstract",
+    "forest"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\n\"You inexplicably find yourself in a lost forest. But it's a funky forest - whatever that means. Enemies start chasing you, you must escape...this is what you could possibly hear in your mind!\"",
+  "latest_version": "smwc-20512-1562575459",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20512,
+      "title": "Funky Forest",
+      "version": "smwc-20512-1562575459",
+      "upstream_time": 1562575459,
+      "download_url": "https://dl.smwcentral.net/20512/CUSTOM%20-%20Funky%20Forest.zip",
+      "filename": "CUSTOM - Funky Forest.zip",
+      "size": 35684,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

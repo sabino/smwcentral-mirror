@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-bob-omb-kicked-palette-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24684,
+  "title": "Bob-omb Kicked Palette Fix",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "bob-omb",
+    "lorom",
+    "palette",
+    "sa-1"
+  ],
+  "description": "A simple patch that restores the bob-omb's palette when it's kicked. Originally, the palette it's currently flashing through is kept, which may look weird especially when using certain custom graphics.",
+  "latest_version": "smwc-24684-1600961134",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24684,
+      "title": "Bob-omb Kicked Palette Fix",
+      "version": "smwc-24684-1600961134",
+      "upstream_time": 1600961134,
+      "download_url": "https://dl.smwcentral.net/24684/bombpalfix.zip",
+      "filename": "bombpalfix.zip",
+      "size": 402,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-battle-against-a-machine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24213,
+  "title": "EarthBound - Battle Against a Machine",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "industrial",
+    "space"
+  ],
+  "description": "The machine battle song from Earthbound. Could fit a space battle level.",
+  "latest_version": "smwc-24213-1598199688",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24213,
+      "title": "EarthBound - Battle Against a Machine",
+      "version": "smwc-24213-1598199688",
+      "upstream_time": 1598199688,
+      "download_url": "https://dl.smwcentral.net/24213/Earthbound%20-%20Battle%20Against%20a%20Machine.zip",
+      "filename": "Earthbound - Battle Against a Machine.zip",
+      "size": 41032,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

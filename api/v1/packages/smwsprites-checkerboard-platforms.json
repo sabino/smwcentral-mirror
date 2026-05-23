@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-checkerboard-platforms",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3629,
+  "title": "Checkerboard Platforms",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "checkered",
+    "lorom",
+    "move",
+    "moving",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprites 55 and 57 in Super Mario World, the checkerboard platforms which move horizontally and vertically. The extra bit determines which of the original two sprites it acts like.",
+  "latest_version": "smwc-3629-1277643924",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3629,
+      "title": "Checkerboard Platforms",
+      "version": "smwc-3629-1277643924",
+      "upstream_time": 1277643924,
+      "download_url": "https://dl.smwcentral.net/3629/Checkerboard%20Platforms.zip",
+      "filename": "Checkerboard Platforms.zip",
+      "size": 1763,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

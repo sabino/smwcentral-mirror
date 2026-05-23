@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-brake-sound-effect",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32138,
+  "title": "Brake Sound Effect",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sound effect"
+  ],
+  "description": "This simple patch adds a sound effect when you brake / turn around like in Super Mario All-Stars and Super Mario Advance 2.<br>\r\n<br>\r\nIncluded with it is the brake sound effect under the name <kbd>Turning Around (SMAS).txt</kbd>.",
+  "latest_version": "smwc-32138-1677689097",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32138,
+      "title": "Brake Sound Effect",
+      "version": "smwc-32138-1677689097",
+      "upstream_time": 1677689097,
+      "download_url": "https://dl.smwcentral.net/32138/brake_sfx.zip",
+      "filename": "brake_sfx.zip",
+      "size": 635,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

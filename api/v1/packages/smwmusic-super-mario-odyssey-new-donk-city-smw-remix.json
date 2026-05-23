@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-odyssey-new-donk-city-smw-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25231,
+  "title": "Super Mario Odyssey - New Donk City (SMW Remix)",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "city",
+    "title"
+  ],
+  "description": "The SMW-ish rendition of New Donk City, I made for the 72hoSPC #7 contest.<br>\r\n<br>\r\nI added an option to enable or disable the noise cymbal, used on the contest, as it sounds kinda crispy. If you want to use the noise cymbal, change the \"Add_Noise_Cymbal\" define 1.<br>\r\n<span style=\"font-size: 4pt;\">(it was about time)</span>",
+  "latest_version": "smwc-25231-1607462522",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25231,
+      "title": "Super Mario Odyssey - New Donk City (SMW Remix)",
+      "version": "smwc-25231-1607462522",
+      "upstream_time": 1607462522,
+      "download_url": "https://dl.smwcentral.net/25231/Super%20Mario%20Odyssey%20-%20New%20Donk%20City%20%28Remix%29.zip",
+      "filename": "Super Mario Odyssey - New Donk City (Remix).zip",
+      "size": 70933,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

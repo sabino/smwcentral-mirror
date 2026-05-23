@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-star-timer-depending-on-coins",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21311,
+  "title": "Star Timer Depending On Coins",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This patch will set different values to the star timer depending on Mario's coins. You can change the timers in the table if you want. It only works with the original 2 digit coin counter since it uses $0DBF, though.",
+  "latest_version": "smwc-21311-1571618955",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21311,
+      "title": "Star Timer Depending On Coins",
+      "version": "smwc-21311-1571618955",
+      "upstream_time": 1571618955,
+      "download_url": "https://dl.smwcentral.net/21311/startimer.zip",
+      "filename": "startimer.zip",
+      "size": 2456,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

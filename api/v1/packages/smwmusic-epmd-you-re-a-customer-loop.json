@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-epmd-you-re-a-customer-loop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27146,
+  "title": "EPMD - You're a customer (loop)",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "bonus",
+    "cave",
+    "cutscene",
+    "misc"
+  ],
+  "description": "Really short loop of a rap song.<br>\r\n<br>\r\nMade on <a href=\"https://www.smwcentral.net/?p=viewthread&t=118137\">request</a> for danwaleby.",
+  "latest_version": "smwc-27146-1625113283",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27146,
+      "title": "EPMD - You're a customer (loop)",
+      "version": "smwc-27146-1625113283",
+      "upstream_time": 1625113283,
+      "download_url": "https://dl.smwcentral.net/27146/yourea_customer_loop_0_1.zip",
+      "filename": "yourea_customer_loop_0_1.zip",
+      "size": 34858,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

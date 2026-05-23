@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-yoshi-sprites-interaction-fix-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 23178,
+  "title": "Yoshi Sprites Interaction Fix v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This simple patch fixes a couple weird behaviors that happen while riding Yoshi:<br>\r\n- Getting damaged by kicked throw blocks.<br>\r\n- Getting damaged by Dry Bones and Bony Beetles in the crumbled state.<br>\r\nv1.1:<br>\r\n- Getting damaged by stationary Bowser Statues.<br>\r\n- Getting damaged by Boo Blocks (while in block state).",
+  "latest_version": "smwc-23178-1593399948",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 23178,
+      "title": "Yoshi Sprites Interaction Fix v1.1",
+      "version": "smwc-23178-1593399948",
+      "upstream_time": 1593399948,
+      "download_url": "https://dl.smwcentral.net/23178/YoshiSpriteInteractionsFix.zip",
+      "filename": "YoshiSpriteInteractionsFix.zip",
+      "size": 1542,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

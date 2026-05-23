@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-tetris",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7325,
+  "title": "Tetris 2 - Music A",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "This is one of the four music tracks in Tetris 2's single player mode. Could suit some happy bonus area or something.",
+  "latest_version": "smwc-7325-1405800160",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7325,
+      "title": "Tetris 2 - Music A",
+      "version": "smwc-7325-1405800160",
+      "upstream_time": 1405800160,
+      "download_url": "https://dl.smwcentral.net/7325/Tetris2A.zip",
+      "filename": "Tetris2A.zip",
+      "size": 36880,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

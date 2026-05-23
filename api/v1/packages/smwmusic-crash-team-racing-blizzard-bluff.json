@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-blizzard-bluff",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38487,
+  "title": "Crash Team Racing - Blizzard Bluff",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "ice",
+    "mountain",
+    "snow"
+  ],
+  "description": "An upbeat and jolly snow theme that plays in Blizzard Bluff, the first snow race track from CTR.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38487-1726850831",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38487,
+      "title": "Crash Team Racing - Blizzard Bluff",
+      "version": "smwc-38487-1726850831",
+      "upstream_time": 1726850831,
+      "download_url": "https://dl.smwcentral.net/38487/CTR%20-%20Blizzard%20Bluff.zip",
+      "filename": "CTR - Blizzard Bluff.zip",
+      "size": 120171,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

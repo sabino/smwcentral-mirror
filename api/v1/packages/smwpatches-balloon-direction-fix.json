@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-balloon-direction-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4695,
+  "title": "Balloon Direction Fix",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "This patch fixes the quirk where picking up a P-Balloon makes you always face the same direction, even if you move in the opposite direction.<br>\r\n<br>\r\nThis patch previously lacked SA-1 support. The original version <a href=\"https://files.telinc1.com/smwc/patches/yourfatface.zip\" rel=\"nofollow\">is backed up here</a>.",
+  "latest_version": "smwc-4695-1367952455",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4695,
+      "title": "Balloon Direction Fix",
+      "version": "smwc-4695-1367952455",
+      "upstream_time": 1367952455,
+      "download_url": "https://dl.smwcentral.net/4695/Ballon%20Direction%20Fix.zip",
+      "filename": "Ballon Direction Fix.zip",
+      "size": 305,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

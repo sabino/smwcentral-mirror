@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-startropics-captain-bell-s-memorial",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7701,
+  "title": "StarTropics - Captain Bell's Memorial",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark",
+    "ghost house",
+    "ice",
+    "night",
+    "overworld",
+    "ruins",
+    "temple",
+    "water"
+  ],
+  "description": "The eerie song at Captain Bell's Memorial place and the cave in chapter 6. It would work for solemn and dreadful submaps.",
+  "latest_version": "smwc-7701-1325319075",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7701,
+      "title": "StarTropics - Captain Bell's Memorial",
+      "version": "smwc-7701-1325319075",
+      "upstream_time": 1325319075,
+      "download_url": "https://dl.smwcentral.net/7701/StarTropics%20-%20Captain%20Bell%27s%20Memorial.zip",
+      "filename": "StarTropics - Captain Bell%27s Memorial.zip",
+      "size": 66345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

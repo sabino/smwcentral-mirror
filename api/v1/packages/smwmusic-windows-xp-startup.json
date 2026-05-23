@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-windows-xp-startup",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39784,
+  "title": "Windows XP - Startup",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "keyhole",
+    "nintendo presents"
+  ],
+  "description": "Music that plays when Windows XP fully starts up.<br>\r\n<br>\r\nInitially I wanted to directly sample the entire song (in stereo, too), but when I downsampled the samples to fit the ARAM (considering how long they are), the sound quality loss was too much. So I instead used individual instrument samples.",
+  "latest_version": "smwc-39784-1748608949",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39784,
+      "title": "Windows XP - Startup",
+      "version": "smwc-39784-1748608949",
+      "upstream_time": 1748608949,
+      "download_url": "https://dl.smwcentral.net/39784/Windows%20XP%20-%20Startup%20%28Sampled%29..zip",
+      "filename": "Windows XP - Startup (Sampled)..zip",
+      "size": 69246,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39779,
+      "title": "Windows XP - Startup",
+      "version": "smwc-39779-1748608900",
+      "upstream_time": 1748608900,
+      "download_url": "https://dl.smwcentral.net/39779/Windows%20XP%20-%20Startup..zip",
+      "filename": "Windows XP - Startup..zip",
+      "size": 61439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

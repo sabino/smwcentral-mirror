@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-yoshi-coin-overworld-tile-locks",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 37934,
+  "title": "Yoshi Coin Overworld Tile Locks",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "dragon coins",
+    "lorom",
+    "overworld",
+    "sa-1",
+    "yoshi coins"
+  ],
+  "description": "This patch will cause specific levels, pipes, or star warps to become unenterable/unusable until a certain number Yoshi coins have been collected.<br>\r\n<br>\r\nTwo versions are included: one which uses SMW's original system, where coins are only recorded after collecting all five in a level, and one which uses either imamelia's Numerical 3-digit Dragon Coin Counter or LX5's NSMB Star Coins.",
+  "latest_version": "smwc-37934-1734994988",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 37934,
+      "title": "Yoshi Coin Overworld Tile Locks",
+      "version": "smwc-37934-1734994988",
+      "upstream_time": 1734994988,
+      "download_url": "https://dl.smwcentral.net/37934/YoshiCoinOWLocks.zip",
+      "filename": "YoshiCoinOWLocks.zip",
+      "size": 3691,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

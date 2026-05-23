@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-ghouls-n-ghosts-c64-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24275,
+  "title": "Ghouls 'n Ghosts (C64) - Stage 5 (Lucifer's Castle)",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "castle",
+    "dark",
+    "ghost house",
+    "mysterious",
+    "spooky"
+  ],
+  "description": "Final stage music from Ghouls 'n Ghosts, Commodore 64 version.<br>\r\nAlso used as the title screen music for the Atari ST version in addition to it being used in the final stage.<br>\r\nPlease please PLEASE use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23477\">this patch</a> when using this tune, because it makes really heavy use of legato commands and this patch will circumvent music problems when pausing and resuming.",
+  "latest_version": "smwc-24275-1598924836",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24275,
+      "title": "Ghouls 'n Ghosts (C64) - Stage 5 (Lucifer's Castle)",
+      "version": "smwc-24275-1598924836",
+      "upstream_time": 1598924836,
+      "download_url": "https://dl.smwcentral.net/24275/Ghouls%20%27n%20Ghosts%20%28C64%29%20-%20Stage%205.zip",
+      "filename": "Ghouls %27n Ghosts (C64) - Stage 5.zip",
+      "size": 37041,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

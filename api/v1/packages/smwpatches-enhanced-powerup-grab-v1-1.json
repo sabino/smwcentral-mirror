@@ -1,0 +1,42 @@
+{
+  "name": "smwpatches-enhanced-powerup-grab-v1-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40273,
+  "title": "Enhanced Powerup Grab v1.1.1",
+  "authors": [
+    "Maxx",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "animation",
+    "earthquake",
+    "feather",
+    "fire flower",
+    "flower",
+    "lorom",
+    "mushroom",
+    "pose",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This patch will \"enhance\" getting a powerup. For a cape, it slightly shakes the ground, makes a more fitting noise, and spins mario around a bit. For a flower, it makes a cooler noise and shoots out 2 fireballs into the air. And for the mushroom, it simply makes the ground do a tiny shudder with a better sound.<br>\r\n<br>\r\nI realize there is a patch where you could do this yourself, but I started the code in a better place and besides, some of us don't know ASM.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><br>\r\nv1.1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>):<br>\r\n- Made the fireballs spawn in an invalid layer state so they don't interact with anything.<br>\r\n- Enabled fireballs spawning from an item box again.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>):<br>\r\n- Removed the depreciated \"header\" command so this will work in asar 2.0.<br>\r\n- Made it so that the \"mapper already selected\" warning no longer displays when applying this to an SA-1 ROM.<br>\r\n- Added !bank defines to the SA-1 implementation.<br>\r\n- Use the new !bank defines to make it so the 2 JMLs point to FastROM addresses on non-SA-1 ROMs.<br>\r\n- Changed the hijack location for the \"Mushedit:\" routine so it only affects the mushroom, not the star as well.<br>\r\n- Changed the default sound for collecting a mushroom so this patch works out of the box with AddmusicK. You'll need to insert $1DF9 sound $2A to channel $1DFC to use the original sound as intended.<br>\r\n- Fixed a bug where if you triggered the fire flower collection animation while the fireballs from the previous animation were on screen, the game would crash.<br>\r\n- Optimized the fireball spawning by using a JSR + scratch RAM to reduce the amount of code used.<br>\r\n- Changed the fireball spawned to be Mario's fireballs. This not only allows the animation to play without causing Yoshi to run away, but also prevents the fireballs from changing if you acquire a fire flower in the Reznor fight. This does mean the fireballs now have the properties Mario's fireballs do, but I suppose it's harmless. Though to prevent exploiting that, the fireballs don't spawn from a reserve fire flower.<br>\r\n- Made the fireballs spawn in the center of the fire flower instead of the top left corner.<br>\r\n- Made all the sound effects configurable, and made it possible to change the general powerup collection sound.<br>\r\n- Removed the readme, as it was just a word for word copy of the description.</div></div>",
+  "latest_version": "smwc-40273-1759603636",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40273,
+      "title": "Enhanced Powerup Grab v1.1.1",
+      "version": "smwc-40273-1759603636",
+      "upstream_time": 1759603636,
+      "download_url": "https://dl.smwcentral.net/40273/PowerupNew%20v1.1.1.zip",
+      "filename": "PowerupNew v1.1.1.zip",
+      "size": 1047,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

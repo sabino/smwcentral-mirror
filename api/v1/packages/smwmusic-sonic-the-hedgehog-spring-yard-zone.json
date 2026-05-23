@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-spring-yard-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15878,
+  "title": "Sonic the Hedgehog - Spring Yard Zone",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "industrial"
+  ],
+  "description": "Classic Sonic music which fits any kind of calm level.",
+  "latest_version": "smwc-15878-1500585982",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15878,
+      "title": "Sonic the Hedgehog - Spring Yard Zone",
+      "version": "smwc-15878-1500585982",
+      "upstream_time": 1500585982,
+      "download_url": "https://dl.smwcentral.net/15878/Spring%20Yard.zip",
+      "filename": "Spring Yard.zip",
+      "size": 33872,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

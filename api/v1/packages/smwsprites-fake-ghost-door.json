@@ -1,0 +1,43 @@
+{
+  "name": "smwsprites-fake-ghost-door",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23710,
+  "title": "Fake Ghost Door",
+  "authors": [
+    "Telinc1",
+    "dahnamics"
+  ],
+  "tags": [
+    "boo",
+    "door",
+    "doors",
+    "fake",
+    "ghost",
+    "ghost house",
+    "lorom",
+    "new mario bros wii",
+    "nsmbwii",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This sprite looks exactly like a normal door (with optional gravity). If Mario tries to enter it, it will turn into four Boos, which will fly out from the center and disappear after a few seconds.<br>\r\n<br>\r\nIf the extra bit is set, the door will be one tile high and only small Mario will be able to enter it. If Mario is on Yoshi, he can only enter the big door if he's small, just like a regular door.<br>\r\n<br>\r\nUsage with Yoshi is not recommended. Because of the way the OAM is laid out, Yoshi will appear behind the door. This is true for other sprites, too.<br>\r\n<br>\r\nCheck the ASM file for customization options.<br>\r\n<br>\r\n(Rykon-V73): Small changes: Gave a good description to gravity, distance of boo, boo speed, vanishing time, sound effect and its bank and you can edit the tilemap.<br>\r\nThe sprite has been converted to .json and added another sprite, converted that to .json and this one doesn't need a palette anymore.",
+  "latest_version": "smwc-23710-1594323857",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23710,
+      "title": "Fake Ghost Door",
+      "version": "smwc-23710-1594323857",
+      "upstream_time": 1594323857,
+      "download_url": "https://dl.smwcentral.net/23710/boo_door-edited.zip",
+      "filename": "boo_door-edited.zip",
+      "size": 14545,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

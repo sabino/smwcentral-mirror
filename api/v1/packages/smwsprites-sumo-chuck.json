@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-sumo-chuck",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 21660,
+  "title": "Sumo Chuck",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A hybrid of the Sumo Bros. and Chargin' Chuck enemies.<br>\r\nIf stomped, it will take damage like a Chargin' Chuck -- animation included. It can be configured to turn into a standard Chargin' Chuck like some variants of the normal Chargin' Chucks, but by default will continue doing whatever it was doing.<br>\r\n<br>\r\nThere are a few base customizations through the use of the \"Extension\" field when inserting the sprite:<br>\r\n- Extra Byte 1 will define how much HP the Chuck has. If set to xFF it will be invincible to stomps/hits from below. If set to x00 it will default to 3 hits.<br>\r\n- Extra Byte 2 defines how far the sprite moves on the platform, from x00-7F. If set to x00, it uses the same distance as the default Sumo Bros. and if set to x01, will not move at all. If the highest bit is set (by adding x80) it will transform into a default Chargin' Chuck (which overrides all HP-related configurations).<br>\r\n- Extra Byte 3 will define which sprite the Chuck throws, from a list. The default values for this are as follows:<br>\r\n--- x00 - Sumo Bros. Lightning<br>\r\n--- x01 - Next sprite in your list.txt.<br>\r\n--- x02 - Exploding Bob-Omb.<br>\r\n--- x03 - Hammer Bros.' Hammer<br>\r\n--- x04 - Spiny Egg<br>\r\nNew entries can be created if desired.",
+  "latest_version": "smwc-21660-1583325947",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 21660,
+      "title": "Sumo Chuck",
+      "version": "smwc-21660-1583325947",
+      "upstream_time": 1583325947,
+      "download_url": "https://dl.smwcentral.net/21660/SumoChuck_edited.zip",
+      "filename": "SumoChuck_edited.zip",
+      "size": 7505,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

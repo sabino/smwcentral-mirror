@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sunny-fields",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7076,
+  "title": "Sunny Fields",
+  "authors": [
+    "gpetry"
+  ],
+  "tags": [
+    "grassland",
+    "town"
+  ],
+  "description": "Here's another one I composed. It really sounds like you're playing Mario, so that way you have a new song with the same feeling you get from the original field song. Suits the outside field levels.",
+  "latest_version": "smwc-7076-1318102307",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7076,
+      "title": "Sunny Fields",
+      "version": "smwc-7076-1318102307",
+      "upstream_time": 1318102307,
+      "download_url": "https://dl.smwcentral.net/7076/Custom%20-%20Sunny%20Fields.zip",
+      "filename": "Custom - Sunny Fields.zip",
+      "size": 70962,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lemmings-3-the-lemmings-chronicles-egypt-tribe-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7844,
+  "title": "Lemmings 3: The Lemmings Chronicles - Egypt Tribe Theme 1",
+  "authors": [
+    "Kipernal"
+  ],
+  "tags": [
+    "cave",
+    "ruins",
+    "temple"
+  ],
+  "description": "One of the themes that plays for the Egyptian tribe in Lemmings 3. In my opinion, the ideal location for this song would be in a puzzle-ish pyramid or temple; something not too action oriented.<br>\r\n<br>\r\nNote: It's not recommended to use this in levels with the timer on, as the tempo increase will break the percussion. Please set the timer to 0 or disable the tempo hike following the instructions from <a href=\"https://www.smwcentral.net/?p=memorymap&game=smw&region=rom&address=008E1A&context=\">here ($008E5C)</a>.<br>\r\n<br>\r\n<br>\r\nUpdate (01/06/20):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 720 bytes.",
+  "latest_version": "smwc-7844-1318146884",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7844,
+      "title": "Lemmings 3: The Lemmings Chronicles - Egypt Tribe Theme 1",
+      "version": "smwc-7844-1318146884",
+      "upstream_time": 1318146884,
+      "download_url": "https://dl.smwcentral.net/7844/L3%20Egypt%201.zip",
+      "filename": "L3 Egypt 1.zip",
+      "size": 60613,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

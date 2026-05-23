@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-monstania-black-curtain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7233,
+  "title": "Monstania - Black Curtain",
+  "authors": [
+    "Counterfeit"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "cutscene",
+    "dark",
+    "final",
+    "fire",
+    "industrial"
+  ],
+  "description": "Final boss theme of Monstania, though would most likely fit better in SMW as a factory, heavy or final area.",
+  "latest_version": "smwc-7233-1323419844",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7233,
+      "title": "Monstania - Black Curtain",
+      "version": "smwc-7233-1323419844",
+      "upstream_time": 1323419844,
+      "download_url": "https://dl.smwcentral.net/7233/blackcurtain.zip",
+      "filename": "blackcurtain.zip",
+      "size": 74409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

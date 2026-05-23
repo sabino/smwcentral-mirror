@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-beat-level-by-collecting-all-of-the-coins",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19511,
+  "title": "Beat Level by Collecting All of the Coins",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch makes you win the level if you get all coins.<br>\r\nNotes: <br>\r\n- It doesn't count anything except object 05 when determining the number of coins in the level, but picking up Map16 tiles 2A, 2B, 2C and 132 will count as picking up a coin.<br>\r\n- Covered up instances of object 05 count.<br>\r\n- If you've got purple coins/etc. you want the player to grab, place object 05 behind them.<br>\r\n- To disable this patch in a level, hide some instances of object 05 behind a block.",
+  "latest_version": "smwc-19511-1554040641",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19511,
+      "title": "Beat Level by Collecting All of the Coins",
+      "version": "smwc-19511-1554040641",
+      "upstream_time": 1554040641,
+      "download_url": "https://dl.smwcentral.net/19511/Get%20all%20coins%20to%20win.zip",
+      "filename": "Get all coins to win.zip",
+      "size": 603,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

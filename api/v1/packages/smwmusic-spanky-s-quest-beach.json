@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-spanky-s-quest-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26066,
+  "title": "Spanky's Quest - Beach",
+  "authors": [
+    "DanTheVP"
+  ],
+  "tags": [
+    "athletic",
+    "beach"
+  ],
+  "description": "Funky beach song.",
+  "latest_version": "smwc-26066-1615237019",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26066,
+      "title": "Spanky's Quest - Beach",
+      "version": "smwc-26066-1615237019",
+      "upstream_time": 1615237019,
+      "download_url": "https://dl.smwcentral.net/26066/Spanky%27s%20Quest%20-%20Beach.zip",
+      "filename": "Spanky%27s Quest - Beach.zip",
+      "size": 33776,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-prison-of-the-reaper",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7528,
+  "title": "Prison of the Reaper",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "ghost house"
+  ],
+  "description": "A very creepy song for chilly and gloomy castles or prisons.<br>\r\n<br>\r\n<br>\r\nUpdate (12/19/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 372 bytes.",
+  "latest_version": "smwc-7528-1319817909",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7528,
+      "title": "Prison of the Reaper",
+      "version": "smwc-7528-1319817909",
+      "upstream_time": 1319817909,
+      "download_url": "https://dl.smwcentral.net/7528/Reaper.Prison.zip",
+      "filename": "Reaper.Prison.zip",
+      "size": 64085,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

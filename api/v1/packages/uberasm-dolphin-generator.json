@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-dolphin-generator",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41094,
+  "title": "Dolphin Generator",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "dolphin",
+    "generator",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a UberASM version of dolphin, left/right, generator, sprites CF and D0 in SMW.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RZRider\"><a href=\"/?p=profile&amp;id=40619\" style=\"color: var(--user-color-1);\" class=\"un\">RZRider</a></span>.",
+  "latest_version": "smwc-41094-1763928381",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41094,
+      "title": "Dolphin Generator",
+      "version": "smwc-41094-1763928381",
+      "upstream_time": 1763928381,
+      "download_url": "https://dl.smwcentral.net/41094/DolphinGeneratorUBERASM.zip",
+      "filename": "DolphinGeneratorUBERASM.zip",
+      "size": 2298,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

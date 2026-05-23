@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-skippable-castle-destruction-scene",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21888,
+  "title": "Skippable Castle Destruction Scene",
+  "authors": [
+    "Karisa"
+  ],
+  "tags": [
+    "cutscene",
+    "lorom",
+    "speedrun"
+  ],
+  "description": "This patch allows the player to press Start to skip castle destruction scenes.<br>\r\n<br>\r\nIntended for speedrun/replay-oriented hacks, so that the player won't be forced to wait through the same cutscene every time they defeat the boss, but potentially applicable to any hack.",
+  "latest_version": "smwc-21888-1585758870",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21888,
+      "title": "Skippable Castle Destruction Scene",
+      "version": "smwc-21888-1585758870",
+      "upstream_time": 1585758870,
+      "download_url": "https://dl.smwcentral.net/21888/CastleScene-StartToSkip.zip",
+      "filename": "CastleScene-StartToSkip.zip",
+      "size": 749,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

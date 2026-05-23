@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x2-dangerous-reef",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33034,
+  "title": "Mega Man X2 - Dangerous Reef",
+  "authors": [
+    "Mentholeus"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "Bubble Crab's stage theme (also known as Bubbly Crablos in the japanese version of the game).<br>\r\nFits a whole variety of underwater stages, might fit shores, lakes, and other masses of land with water nearby as well.",
+  "latest_version": "smwc-33034-1685575757",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33034,
+      "title": "Mega Man X2 - Dangerous Reef",
+      "version": "smwc-33034-1685575757",
+      "upstream_time": 1685575757,
+      "download_url": "https://dl.smwcentral.net/33034/Bubble%20Crabb.zip",
+      "filename": "Bubble Crabb.zip",
+      "size": 34608,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

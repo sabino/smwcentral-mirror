@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ducktales-title-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7818,
+  "title": "DuckTales - Title Theme",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "bonus",
+    "title"
+  ],
+  "description": "The happy theme from Duck Tales, it could fit in a title screen.",
+  "latest_version": "smwc-7818-1318000160",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7818,
+      "title": "DuckTales - Title Theme",
+      "version": "smwc-7818-1318000160",
+      "upstream_time": 1318000160,
+      "download_url": "https://dl.smwcentral.net/7818/Duck%20Tales%20-%20Title%20Theme.zip",
+      "filename": "Duck Tales - Title Theme.zip",
+      "size": 71905,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

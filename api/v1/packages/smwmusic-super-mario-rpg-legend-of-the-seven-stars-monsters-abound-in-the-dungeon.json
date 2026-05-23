@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-monsters-abound-in-the-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16549,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Monsters Abound in the Dungeon",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "ghost house",
+    "ruins",
+    "sewer",
+    "tense"
+  ],
+  "description": "This song plays in the level kero sewers, and fits in castles, ghost houses and towers.",
+  "latest_version": "smwc-16549-1510130412",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16549,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Monsters Abound in the Dungeon",
+      "version": "smwc-16549-1510130412",
+      "upstream_time": 1510130412,
+      "download_url": "https://dl.smwcentral.net/16549/The%20Dungeon%20is%20Full%20of%20Monsters.zip",
+      "filename": "The Dungeon is Full of Monsters.zip",
+      "size": 44345,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15420,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Monsters Abound in the Dungeon",
+      "version": "smwc-15420-1491873366",
+      "upstream_time": 1491873366,
+      "download_url": "https://dl.smwcentral.net/15420/The%20Dungeon%20is%20Full%20of%20Monsters.zip",
+      "filename": "The Dungeon is Full of Monsters.zip",
+      "size": 31612,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

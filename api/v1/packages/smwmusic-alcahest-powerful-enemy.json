@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-alcahest-powerful-enemy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25821,
+  "title": "Alcahest - Powerful Enemy",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "Can fit a (mini)boss theme.",
+  "latest_version": "smwc-25821-1612158647",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25821,
+      "title": "Alcahest - Powerful Enemy",
+      "version": "smwc-25821-1612158647",
+      "upstream_time": 1612158647,
+      "download_url": "https://dl.smwcentral.net/25821/Alcahest%20-%2007%20Powerful%20Enemy.zip",
+      "filename": "Alcahest - 07 Powerful Enemy.zip",
+      "size": 51432,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

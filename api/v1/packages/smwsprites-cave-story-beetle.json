@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-cave-story-beetle",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26656,
+  "title": "Cave Story - Beetle",
+  "authors": [
+    "RussianMan",
+    "linkunarre"
+  ],
+  "tags": [
+    "beetle",
+    "cave story",
+    "enemy",
+    "flying",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "The beetle from Egg Corridor in Cave Story, this is the one that moves between two walls.<br>\r\n<br>\r\nIt cannot be jumped on normally, and must be placed on the right extremity of the area in which it'll move.<br>\r\n<br>\r\nMore info in the readme. Also includes a readme in spanish.",
+  "latest_version": "smwc-26656-1627948795",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26656,
+      "title": "Cave Story - Beetle",
+      "version": "smwc-26656-1627948795",
+      "upstream_time": 1627948795,
+      "download_url": "https://dl.smwcentral.net/26656/CaveStory_Beetle.zip",
+      "filename": "CaveStory_Beetle.zip",
+      "size": 5263,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

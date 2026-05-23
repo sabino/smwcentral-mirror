@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lagoon-tales-from-the-peaceful-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18915,
+  "title": "Lagoon - Tales from the Peaceful World",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "night",
+    "sky",
+    "space"
+  ],
+  "description": "One of the ending themes of Lagoon, it could be used in an abstract or space themed level.",
+  "latest_version": "smwc-18915-1547350695",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18915,
+      "title": "Lagoon - Tales from the Peaceful World",
+      "version": "smwc-18915-1547350695",
+      "upstream_time": 1547350695,
+      "download_url": "https://dl.smwcentral.net/18915/lagoon-tales.zip",
+      "filename": "lagoon-tales.zip",
+      "size": 51149,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

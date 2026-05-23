@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-better-bob-omb-explosion",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28077,
+  "title": "Better Bob-Omb Explosion",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "bob-omb",
+    "bomb",
+    "destructable walls",
+    "lorom",
+    "sa-1",
+    "super mario bros 2",
+    "super mario bros 3"
+  ],
+  "description": "This patch adds a few changes to the Bob-Omb sprite which makes its explosions look and act more in-line with later Mario titles.<br>\r\n--- You are able to change the design of the explosion to match the explosion used in SMW's cutscenes (the large \"BOMB\" text), or use SMB2's or SMB3's explosion effect. You can also add the SMB3 explosion effect on top of the SMW cutscene or SMB2 explosion effect. Additionally, you can also add the four clouds of smoke Super Mario Maker's explosions use if OAM isn't a concern for you.<br>\r\n--- Besides just visuals, you can remove the jank that lets Mario sometimes not get hit by the explosion and you can also force the explosion to accrue score like a thrown shell normally would.<br>\r\n--- Lastly, you can also configure it to destroy certain tiles -- a function available in SMB2 and Super Mario Maker.<br>\r\n<br>\r\nDue to the nature of this patch -- in the way that it overwrites the default explosion code -- it will also affect any custom sprites that might transform into an exploding Bob-Omb.",
+  "latest_version": "smwc-28077-1647672458",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28077,
+      "title": "Better Bob-Omb Explosion",
+      "version": "smwc-28077-1647672458",
+      "upstream_time": 1647672458,
+      "download_url": "https://dl.smwcentral.net/28077/BetterBobomb.zip",
+      "filename": "BetterBobomb.zip",
+      "size": 10807,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

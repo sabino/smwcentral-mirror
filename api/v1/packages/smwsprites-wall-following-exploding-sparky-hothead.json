@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-wall-following-exploding-sparky-hothead",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33199,
+  "title": "Wall-Following Exploding Sparky/Hothead",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "enemy",
+    "explosion",
+    "lorom",
+    "sa-1",
+    "wall-following"
+  ],
+  "description": "It's a Sparky/Hothead which follows walls except they explode when the player gets close to them.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: var(--user-color-2);\" class=\"un\">RollingRigatonis</a></span>",
+  "latest_version": "smwc-33199-1690806739",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33199,
+      "title": "Wall-Following Exploding Sparky/Hothead",
+      "version": "smwc-33199-1690806739",
+      "upstream_time": 1690806739,
+      "download_url": "https://dl.smwcentral.net/33199/Explosive%20Sparky.zip",
+      "filename": "Explosive Sparky.zip",
+      "size": 4297,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

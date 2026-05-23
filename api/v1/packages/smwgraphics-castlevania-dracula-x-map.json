@@ -1,0 +1,34 @@
+{
+  "name": "smwgraphics-castlevania-dracula-x-map",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 13380,
+  "title": "Castlevania: Dracula X - Map",
+  "authors": [
+    "cheat-master30"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "lava",
+    "needs remoderation",
+    "night"
+  ],
+  "description": "Like the version in Brutal Mario, although this one doesn't need any custom patches or event tile set up.  Great for final castles, when used with overworld hdma.<br>\r\n<br>\r\nNote: You will need to use ExAnimation to change the back area color. While it will work like in the .ips, there are a few minuses:<div class=\"quote\"><span class=\"quoteHead\">Originally posted by LM help file</span><div class=\"quoteInner\">This should not be used. While technically it works, the overworld already uses the back area color for menus and the exit tile transition effect. Therefore the back area color shouldn't be used as part of your maps.</div></div>",
+  "latest_version": "smwc-13380-1458166499",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 13380,
+      "title": "Castlevania: Dracula X - Map",
+      "version": "smwc-13380-1458166499",
+      "upstream_time": 1458166499,
+      "download_url": "https://dl.smwcentral.net/13380/castlevaniamap.zip",
+      "filename": "castlevaniamap.zip",
+      "size": 162712,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

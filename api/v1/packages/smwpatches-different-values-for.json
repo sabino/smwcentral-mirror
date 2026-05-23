@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-different-values-for",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41355,
+  "title": "Different Values for 1-Up",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lives",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Leverages unused Super Mario World code to allow you to set a different lives value for 1-up mushrooms, when the extra bit is set and using extra byte 1, without using a custom sprite slot. You can also remap the tile and the palette!<br>\r\n<br>\r\nRequires PIXI to work. Requires five bytes of free ROM in bank 01.",
+  "latest_version": "smwc-41355-1768426767",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41355,
+      "title": "Different Values for 1-Up",
+      "version": "smwc-41355-1768426767",
+      "upstream_time": 1768426767,
+      "download_url": "https://dl.smwcentral.net/41355/Different%20Value%20for%201-Up.zip",
+      "filename": "Different Value for 1-Up.zip",
+      "size": 1657,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

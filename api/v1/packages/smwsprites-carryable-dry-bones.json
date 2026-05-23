@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-carryable-dry-bones",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38716,
+  "title": "Carryable Dry Bones",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "carriable",
+    "dry bones",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a Dry Bones that can be carried by the player after collapsing.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knetog\"><a href=\"/?p=profile&amp;id=54876\" style=\"color: var(--user-color-2);\" class=\"un\">Knetog</a></span> during Winter C3 2023.",
+  "latest_version": "smwc-38716-1733002996",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38716,
+      "title": "Carryable Dry Bones",
+      "version": "smwc-38716-1733002996",
+      "upstream_time": 1733002996,
+      "download_url": "https://dl.smwcentral.net/38716/CarriableDryBones.zip",
+      "filename": "CarriableDryBones.zip",
+      "size": 10922,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

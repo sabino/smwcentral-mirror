@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-biker-mice-from-mars-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29551,
+  "title": "Biker Mice From Mars - City",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "industrial",
+    "urban"
+  ],
+  "description": "A heavy rock song from Biker Mice from Mars.",
+  "latest_version": "smwc-29551-1646746311",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29551,
+      "title": "Biker Mice From Mars - City",
+      "version": "smwc-29551-1646746311",
+      "upstream_time": 1646746311,
+      "download_url": "https://dl.smwcentral.net/29551/BMFMCity.zip",
+      "filename": "BMFMCity.zip",
+      "size": 85412,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

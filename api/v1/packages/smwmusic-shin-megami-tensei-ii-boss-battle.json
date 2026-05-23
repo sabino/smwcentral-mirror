@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37257,
+  "title": "Shin Megami Tensei II - Boss Battle",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "tense"
+  ],
+  "description": "The Boss battle theme from SMT 2 and SMT if… . Also known as 'Danger‘ in SMT if… which is also played directly at the start of the game",
+  "latest_version": "smwc-37257-1713416990",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37257,
+      "title": "Shin Megami Tensei II - Boss Battle",
+      "version": "smwc-37257-1713416990",
+      "upstream_time": 1713416990,
+      "download_url": "https://dl.smwcentral.net/37257/SMT2%20Boss%20Battle.zip",
+      "filename": "SMT2 Boss Battle.zip",
+      "size": 55896,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

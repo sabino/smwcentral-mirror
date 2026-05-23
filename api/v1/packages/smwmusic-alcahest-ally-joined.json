@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-alcahest-ally-joined",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37925,
+  "title": "Alcahest - Ally Joined",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "The fanfare that plays when someone joins you in Alcahest<br>\r\n<br>\r\nIncludes a define in the txt file for a goal sound (insert size is 0x0105 with it disabled)<br>\r\n<br>\r\nUsing this as a global song isn't a very advisable choice (Especially because there's echo, and the delay is 6, mind you)<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MKDSmaster91\"><a href=\"/?p=profile&amp;id=28195\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MKDSmaster91</a></span><br>\r\n",
+  "latest_version": "smwc-37925-1721663305",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37925,
+      "title": "Alcahest - Ally Joined",
+      "version": "smwc-37925-1721663305",
+      "upstream_time": 1721663305,
+      "download_url": "https://dl.smwcentral.net/37925/Ally%20Joined.zip",
+      "filename": "Ally Joined.zip",
+      "size": 89082,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

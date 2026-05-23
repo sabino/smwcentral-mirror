@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-magikoopa-palette-editor",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20281,
+  "title": "Magikoopa Palette Editor",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "lorom",
+    "magikoopa",
+    "palette",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch was inspired in the \"Big Boo Boss Palette Editor\", by Chdata.<br>\r\n<br>\r\nWhat it does is basically enabling the user to edit the Magikoopa's palettes in a per-level basis. It's asar and SA-1 compatible.",
+  "latest_version": "smwc-20281-1562514390",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20281,
+      "title": "Magikoopa Palette Editor",
+      "version": "smwc-20281-1562514390",
+      "upstream_time": 1562514390,
+      "download_url": "https://dl.smwcentral.net/20281/Makigoopa%20Palettes.zip",
+      "filename": "Makigoopa Palettes.zip",
+      "size": 2056,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

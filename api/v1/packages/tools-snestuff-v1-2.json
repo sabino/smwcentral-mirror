@@ -1,0 +1,35 @@
+{
+  "name": "tools-snestuff-v1-2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4613,
+  "title": "SNEStuff v1.2.1",
+  "authors": [
+    "spel werdz rite"
+  ],
+  "tags": [
+    "converter",
+    "expander",
+    "freespace",
+    "hdma",
+    "ips",
+    "patcher"
+  ],
+  "description": "A hacker's tool which contains an address converter, ROM expander, option to add or remove header, IPS patcher that can patch regardless of header, ASM patcher*, and now, a color converter between PC, SNES, and HDMA all in a nice GUI form!<br>\r\n<br>\r\n*uses xkas v0.06",
+  "latest_version": "smwc-4613-1363204402",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4613,
+      "title": "SNEStuff v1.2.1",
+      "version": "smwc-4613-1363204402",
+      "upstream_time": 1363204402,
+      "download_url": "https://dl.smwcentral.net/4613/SNEStuff121.zip",
+      "filename": "SNEStuff121.zip",
+      "size": 218369,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

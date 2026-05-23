@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mygg-cosmic-glide",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41789,
+  "title": "Mygg - Cosmic Glide",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "tense"
+  ],
+  "description": "An intense, trippy song that could be used for boss fights, castles or other tense atmospheres",
+  "latest_version": "smwc-41789-1776425138",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41789,
+      "title": "Mygg - Cosmic Glide",
+      "version": "smwc-41789-1776425138",
+      "upstream_time": 1776425138,
+      "download_url": "https://dl.smwcentral.net/41789/Cosmic%20Glide.zip",
+      "filename": "Cosmic Glide.zip",
+      "size": 86529,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

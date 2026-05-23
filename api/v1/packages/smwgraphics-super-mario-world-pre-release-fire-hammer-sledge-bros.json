@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-fire-hammer-sledge-bros",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25342,
+  "title": "Super Mario World (Pre-release) - Fire / Hammer / Sledge Bros.",
+  "authors": [
+    "Dark Prince"
+  ],
+  "tags": [
+    "fire bro",
+    "hammer bro",
+    "needs remoderation",
+    "sledge bro"
+  ],
+  "description": "The hammer brothers and sledge brothers from super mario world's prototype, now edited to be used in your hack!<br>\r\n<br>\r\nTo be used with the next sprites:<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=16695\">fire bro</a><br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=16730\">hammer bro</a><br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=16745\">boomerang bro</a><br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=16747\">sledge bro</a><br>\r\n<br>\r\n-------------------------------------------------------------<br>\r\nnote that to use the fire bro correctly, you have to find this line in the original ASM file:<br>\r\n<br>\r\n.tilemap<br>\r\n    db $A2,$A0,$A2,$E6,$A6,$A4<br>\r\n<br>\r\n-------------------------------------------------------------<br>\r\nand change it to:<br>\r\n-------------------------------------------------------------<br>\r\n<br>\r\n.tilemap<br>\r\n    db $A6,$A0,$A6,$E6,$A6,$A4<br>\r\n-------------------------------------------------------------",
+  "latest_version": "smwc-25342-1607389718",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25342,
+      "title": "Super Mario World (Pre-release) - Fire / Hammer / Sledge Bros.",
+      "version": "smwc-25342-1607389718",
+      "upstream_time": 1607389718,
+      "download_url": "https://dl.smwcentral.net/25342/hammerfiresledgebros.zip",
+      "filename": "hammerfiresledgebros.zip",
+      "size": 2131,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

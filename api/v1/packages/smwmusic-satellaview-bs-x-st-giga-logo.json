@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-satellaview-bs-x-st-giga-logo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37683,
+  "title": "Satellaview BS-X - St. Giga Logo",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "The jingle you hear on the St. Giga logo when starting a Satellaview game. Could fit a Nintendo Presents screen.",
+  "latest_version": "smwc-37683-1717973487",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37683,
+      "title": "Satellaview BS-X - St. Giga Logo",
+      "version": "smwc-37683-1717973487",
+      "upstream_time": 1717973487,
+      "download_url": "https://dl.smwcentral.net/37683/St%20Giga%20logo.zip",
+      "filename": "St Giga logo.zip",
+      "size": 32014,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

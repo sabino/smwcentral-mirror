@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mystery-deeps",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8626,
+  "title": "Mystery Deeps",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "water"
+  ],
+  "description": "A custom song that was entered in SMWC Idol. It mixes three other tracks on the site.",
+  "latest_version": "smwc-8626-1405691267",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8626,
+      "title": "Mystery Deeps",
+      "version": "smwc-8626-1405691267",
+      "upstream_time": 1405691267,
+      "download_url": "https://dl.smwcentral.net/8626/Mystery%20Deeps.zip",
+      "filename": "Mystery Deeps.zip",
+      "size": 32970,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

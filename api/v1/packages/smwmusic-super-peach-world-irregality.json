@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-peach-world-irregality",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25635,
+  "title": "Super Peach World - Irregality",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "castle"
+  ],
+  "description": "The castle theme from my hack Super Peach World.<br>\r\nPlease credit me if used :)",
+  "latest_version": "smwc-25635-1610492030",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25635,
+      "title": "Super Peach World - Irregality",
+      "version": "smwc-25635-1610492030",
+      "upstream_time": 1610492030,
+      "download_url": "https://dl.smwcentral.net/25635/SPW%20-%20Irregality.zip",
+      "filename": "SPW - Irregality.zip",
+      "size": 66187,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

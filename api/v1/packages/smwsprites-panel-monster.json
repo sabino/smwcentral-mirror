@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-panel-monster",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41127,
+  "title": "Panel Monster",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1",
+    "stationary"
+  ],
+  "description": "This strange monster, from Solomon's Key, fires off projectiles to Mario. The extra bit controls the direction of the monster.<br>\r\n<br>\r\nCheck the ASM file for some customisation options.",
+  "latest_version": "smwc-41127-1764294134",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41127,
+      "title": "Panel Monster",
+      "version": "smwc-41127-1764294134",
+      "upstream_time": 1764294134,
+      "download_url": "https://dl.smwcentral.net/41127/PanelMonster.zip",
+      "filename": "PanelMonster.zip",
+      "size": 3540,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

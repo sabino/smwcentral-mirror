@@ -1,0 +1,31 @@
+{
+  "name": "tools-snes9x-1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 11501,
+  "title": "SNES9x 1.43 debugger",
+  "authors": [
+    "Geiger"
+  ],
+  "tags": [
+    "debugger",
+    "emulator"
+  ],
+  "description": "Special build of SNES9x with a debugger included<br>\r\nWARNING: Will delete the $200 byte header when you load the ROM",
+  "latest_version": "smwc-11501-1435549127",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 11501,
+      "title": "SNES9x 1.43 debugger",
+      "version": "smwc-11501-1435549127",
+      "upstream_time": 1435549127,
+      "download_url": "https://dl.smwcentral.net/11501/SNES9Xdebugger.zip",
+      "filename": "SNES9Xdebugger.zip",
+      "size": 1192080,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-gentle-city-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33112,
+  "title": "Gentle City (Forest)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "swamp"
+  ],
+  "description": "Music like jazzy for the forests Could fit on the forest and beach music.",
+  "latest_version": "smwc-33112-1680559574",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33112,
+      "title": "Gentle City (Forest)",
+      "version": "smwc-33112-1680559574",
+      "upstream_time": 1680559574,
+      "download_url": "https://dl.smwcentral.net/33112/Gentle%20City%20%28Forest%29.zip",
+      "filename": "Gentle City (Forest).zip",
+      "size": 40597,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

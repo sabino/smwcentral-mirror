@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-banana-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13205,
+  "title": "Banana - Main Theme",
+  "authors": [
+    "Pseudogon"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "cutscene",
+    "p-switch",
+    "sky",
+    "title"
+  ],
+  "description": "This is my first port ever. This is the main theme for an nes game called \"Banana\".<br>\r\n<br>\r\nThis would fit well for a P-switch theme, bonus room, cutscene, or title screen.<br>\r\n<br>\r\nUPDATE: Fixed looping",
+  "latest_version": "smwc-13205-1455691880",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13205,
+      "title": "Banana - Main Theme",
+      "version": "smwc-13205-1455691880",
+      "upstream_time": 1455691880,
+      "download_url": "https://dl.smwcentral.net/13205/Banana%20-%20Main%20Theme.zip",
+      "filename": "Banana - Main Theme.zip",
+      "size": 30766,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

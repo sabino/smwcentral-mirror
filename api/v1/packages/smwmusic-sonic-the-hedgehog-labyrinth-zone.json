@@ -1,0 +1,79 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-labyrinth-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32188,
+  "title": "Sonic the Hedgehog - Labyrinth Zone",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "grassland",
+    "night",
+    "temple",
+    "water"
+  ],
+  "description": "The disproportionately chill sounding fourth level from Sonic the Hedgehog. This level is infamous for being a slow water level with many tricks and dangers and an annoying boss to contend with, but it's honestly not as bad as people claim it to be. As such, this song is perfect for levels where Mario has to speed from air pocket to air pocket to avoid drowning.<br>\r\n<br>\r\nUses noise, so be careful of noise SFX. ",
+  "latest_version": "smwc-32188-1672536727",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32188,
+      "title": "Sonic the Hedgehog - Labyrinth Zone",
+      "version": "smwc-32188-1672536727",
+      "upstream_time": 1672536727,
+      "download_url": "https://dl.smwcentral.net/32188/labyrinth%20zone.zip",
+      "filename": "labyrinth zone.zip",
+      "size": 32957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21019,
+      "title": "Sonic the Hedgehog - Labyrinth Zone",
+      "version": "smwc-21019-1566698771",
+      "upstream_time": 1566698771,
+      "download_url": "https://dl.smwcentral.net/21019/Labyrinth%20Zone%20-%20Unsampled.zip",
+      "filename": "Labyrinth Zone - Unsampled.zip",
+      "size": 32421,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20198,
+      "title": "Sonic the Hedgehog - Labyrinth Zone",
+      "version": "smwc-20198-1560295664",
+      "upstream_time": 1560295664,
+      "download_url": "https://dl.smwcentral.net/20198/Labyrinth%20Zone.zip",
+      "filename": "Labyrinth Zone.zip",
+      "size": 75155,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13514,
+      "title": "Sonic the Hedgehog - Labyrinth Zone",
+      "version": "smwc-13514-1459475362",
+      "upstream_time": 1459475362,
+      "download_url": "https://dl.smwcentral.net/13514/Labyrinth%20Zone.zip",
+      "filename": "Labyrinth Zone.zip",
+      "size": 68970,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

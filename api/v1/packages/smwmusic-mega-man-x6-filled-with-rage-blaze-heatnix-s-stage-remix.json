@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mega-man-x6-filled-with-rage-blaze-heatnix-s-stage-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25157,
+  "title": "Mega Man X6 - Filled with Rage ~ Blaze Heatnix's Stage (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "cave",
+    "final",
+    "industrial",
+    "tower"
+  ],
+  "description": "Been meaning to do a remix of <a href=\"https://youtu.be/me3Me0jikwE\" rel=\"nofollow\">Blaze Heatnix's stage</a> from Mega Man X6 (aka the stage where you fight a <a href=\"https://i.redd.it/6gcva6mojoi41.png\" rel=\"nofollow\">Donut</a> five times). This entire soundtrack in general is just filled with nothing but slappers, and I really wish the game got the same kind of treatment... instead of being the frustrating mess it is.<br>\r\n<br>\r\nThis bad boy is great for caves (lava themed ones), castles / towers, factories, intense stages, final areas, and [final] boss fights.<br>\r\n<br>\r\n<b><span style=\"color: #920dff;\">Important:</span></b><br>\r\nThere is a \"!READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n<br>\r\nThere are also 2 customizable pitches for this song that you can adjust in the song's txt file:<br>\r\n1. C# Minor (Remix Pitch, turned on default)<br>\r\n2. B Minor (Custom Pitch)",
+  "latest_version": "smwc-25157-1607226830",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25157,
+      "title": "Mega Man X6 - Filled with Rage ~ Blaze Heatnix's Stage (Remix)",
+      "version": "smwc-25157-1607226830",
+      "upstream_time": 1607226830,
+      "download_url": "https://dl.smwcentral.net/25157/Filled%20with%20Rage.zip",
+      "filename": "Filled with Rage.zip",
+      "size": 119608,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

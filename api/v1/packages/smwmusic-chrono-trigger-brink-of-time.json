@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-chrono-trigger-brink-of-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18945,
+  "title": "Chrono Trigger - Brink of Time",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "ghost house",
+    "overworld"
+  ],
+  "description": "The End of Time from Chrono Trigger. Good for overworlds or calm areas. THUNDER SFX DO NOT WORK WITH THIS PORT.",
+  "latest_version": "smwc-18945-1547411631",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18945,
+      "title": "Chrono Trigger - Brink of Time",
+      "version": "smwc-18945-1547411631",
+      "upstream_time": 1547411631,
+      "download_url": "https://dl.smwcentral.net/18945/Chrono%20Trigger%20-%20Brink%20of%20Time.zip",
+      "filename": "Chrono Trigger - Brink of Time.zip",
+      "size": 61449,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18558,
+      "title": "Chrono Trigger - Brink of Time",
+      "version": "smwc-18558-1543532381",
+      "upstream_time": 1543532381,
+      "download_url": "https://dl.smwcentral.net/18558/Chrono%20Trigger%20-%20Brink%20of%20Time.zip",
+      "filename": "Chrono Trigger - Brink of Time.zip",
+      "size": 32024,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-boss-fireball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3572,
+  "title": "Boss Fireball",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 34 in SMW, the boss fireball (spat by Ludwig).<br>\r\nNOTE: This sprite behaves exactly like original sprite 34, meaning it is stationary unless its X speed is set by another sprite when it is spawned.",
+  "latest_version": "smwc-3572-1274677010",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3572,
+      "title": "Boss Fireball",
+      "version": "smwc-3572-1274677010",
+      "upstream_time": 1274677010,
+      "download_url": "https://dl.smwcentral.net/3572/SMWSDIS%20-%20sprite%2034%20-%20boss%20fireball.zip",
+      "filename": "SMWSDIS - sprite 34 - boss fireball.zip",
+      "size": 1925,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

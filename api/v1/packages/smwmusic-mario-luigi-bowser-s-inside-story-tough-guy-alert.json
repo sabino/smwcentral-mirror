@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-luigi-bowser-s-inside-story-tough-guy-alert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29886,
+  "title": "Mario & Luigi: Bowser's Inside Story - Tough Guy Alert!",
+  "authors": [
+    "FalseCircus"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "Boss music from Bowser's Inside Story.",
+  "latest_version": "smwc-29886-1658794341",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29886,
+      "title": "Mario & Luigi: Bowser's Inside Story - Tough Guy Alert!",
+      "version": "smwc-29886-1658794341",
+      "upstream_time": 1658794341,
+      "download_url": "https://dl.smwcentral.net/29886/toughguyalert.zip",
+      "filename": "toughguyalert.zip",
+      "size": 80086,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

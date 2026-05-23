@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-hall-of-mirrors",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37769,
+  "title": "Hall Of Mirrors",
+  "authors": [
+    "KungFuFurby"
+  ],
+  "tags": [
+    "abstract",
+    "chaotic",
+    "mysterious"
+  ],
+  "description": "Welcome to the null and void, where you and everything within will leave behind their own afterimages... oh wait, the SNES normally doesn't do this. Nevertheless, you may have noticed that some time ago I started using a game name of \"Hall Of Mirrors Effect\" for a few of my songs as part of an indirect series of songs. This is the titular song, and it also compliments the Strange Hub song via the same utilization of the Legend of Zelda: A Link To The Past's Mirror song sample (though the quality was increased somewhat), as well as some instrument samples straight out of the song for extra flavor.<br>\r\n<br>\r\nContains four user defines: one is a master echo enable switch, and a second one enables it for the music. Echo for SFX (though I tuned it so that the effect doesn't go too far into the seemingly endless), within the context of AddmusicK 1.0.10, the latest moderated version at the time of this release, (<i>which still requires the master echo enable switch to be on</i>) is handled through 1DFA commands $05 and $06: use 1DFA command $06 right after the song starts to enable echo for SFX. A third one enables all of the panning commands (without them, the song is in mono), and the last one enables a surround effect. The latter also requires panning to be enabled in order to be used.",
+  "latest_version": "smwc-37769-1718545559",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37769,
+      "title": "Hall Of Mirrors",
+      "version": "smwc-37769-1718545559",
+      "upstream_time": 1718545559,
+      "download_url": "https://dl.smwcentral.net/37769/Hall%20Of%20Mirrors.zip",
+      "filename": "Hall Of Mirrors.zip",
+      "size": 293473,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

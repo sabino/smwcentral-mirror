@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-asterix-obelix-the-mountains",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34747,
+  "title": "Asterix & Obelix - The Mountains",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "castle",
+    "mountain",
+    "ruins",
+    "temple"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nThe best known song from the game. Good for mountains or castles.",
+  "latest_version": "smwc-34747-1691404608",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34747,
+      "title": "Asterix & Obelix - The Mountains",
+      "version": "smwc-34747-1691404608",
+      "upstream_time": 1691404608,
+      "download_url": "https://dl.smwcentral.net/34747/Asterix%20and%20Obelix%20-%2015%20The%20Mountains.zip",
+      "filename": "Asterix and Obelix - 15 The Mountains.zip",
+      "size": 72842,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

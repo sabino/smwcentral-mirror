@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-kart-wii-toad-s-factory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35137,
+  "title": "Mario Kart Wii - Toad's Factory",
+  "authors": [
+    "Overcrow03"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "industrial"
+  ],
+  "description": "Toad's Factory from Mario Kart Wii, as featured in my hack, In the Pocket. Tempo is a bit faster compared to the original source. If you wish to be closer to the original tempo, use t45 instead of t48. ",
+  "latest_version": "smwc-35137-1698115065",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35137,
+      "title": "Mario Kart Wii - Toad's Factory",
+      "version": "smwc-35137-1698115065",
+      "upstream_time": 1698115065,
+      "download_url": "https://dl.smwcentral.net/35137/ToadFactory.zip",
+      "filename": "ToadFactory.zip",
+      "size": 101163,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

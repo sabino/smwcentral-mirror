@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-papercut-space-command-hard",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40403,
+  "title": "Papercut - Space Command (Hard)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "chaotic",
+    "final",
+    "space",
+    "tense"
+  ],
+  "description": "Space Command (Hard) from a cancelled hack, Papercut.",
+  "latest_version": "smwc-40403-1756151443",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40403,
+      "title": "Papercut - Space Command (Hard)",
+      "version": "smwc-40403-1756151443",
+      "upstream_time": 1756151443,
+      "download_url": "https://dl.smwcentral.net/40403/Papercut%20-%20Space%20Command%20%28Hard%29.zip",
+      "filename": "Papercut - Space Command (Hard).zip",
+      "size": 87266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

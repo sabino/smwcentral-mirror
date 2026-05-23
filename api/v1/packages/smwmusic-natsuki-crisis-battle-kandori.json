@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-natsuki-crisis-battle-kandori",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31603,
+  "title": "Natsuki Crisis Battle - Kandori",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "sewer",
+    "tense",
+    "urban"
+  ],
+  "description": "A slow Metal track from the fighting game Natsuki Crisis Battle.",
+  "latest_version": "smwc-31603-1672447014",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31603,
+      "title": "Natsuki Crisis Battle - Kandori",
+      "version": "smwc-31603-1672447014",
+      "upstream_time": 1672447014,
+      "download_url": "https://dl.smwcentral.net/31603/Kandori.zip",
+      "filename": "Kandori.zip",
+      "size": 64378,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

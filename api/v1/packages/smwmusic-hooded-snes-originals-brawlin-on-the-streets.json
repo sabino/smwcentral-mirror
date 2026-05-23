@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-hooded-snes-originals-brawlin-on-the-streets",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35618,
+  "title": "Hooded SNES Originals - Brawlin' On The Streets 👊",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "industrial"
+  ],
+  "description": "A boss variation of the original song I made before this one, <a href=\"https://smwc.me/s/35597\">Groovin' Through The Streets</a>. Leaned in more towards JRPG battle themes for this bad boy, especially with battle & boss themes from SNES Final Fantasy and Mega Man Battle Network.<br>\r\n<br>\r\n<b><span style=\"color: #920DFF;\">Important:</span></b><br>\r\n‎‎‎‎‎‎‎‎ㅤ♠ \"Bonus End,\" & Thunder SFX are disabled.<br>\r\n‎‎‎‎‎‎‎‎ㅤ♠ Death sound is gonna sound weird (@0 replaces @9 to save on space).<br>\r\n<br>\r\n <span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file</u></span>:<br>\r\n‎‎‎‎‎‎‎‎ㅤ1. F Minor (Original Pitch)  <span style=\"color: #F95E5E;\">[turned on by default]</span><br>\r\n‎‎‎‎‎‎‎‎ㅤ2. E Minor (Custom Pitch 1)<br>\r\n‎‎‎‎‎‎‎‎ㅤ3. F# Minor (Custom Pitch 2)<br>\r\n‎‎‎‎‎‎‎‎ㅤ4. G Minor (Custom Pitch 3)<br>\r\n<br>\r\n <span style=\"color: #66FFE3;\"><u>Also, there's an option to change compatibility to either support the Yoshi SFX or P-Switch Music</u></span>:<br>\r\n‎‎‎‎‎‎‎‎ㅤ1. Enables Yoshi SFX, but Disables P-Switch Music  <span style=\"color: #F95E5E;\">[turned on by default]</span><br>\r\n‎‎‎‎‎‎‎‎ㅤ2. Enables P-Switch Music, but Disables Yoshi SFX",
+  "latest_version": "smwc-35618-1703625962",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35618,
+      "title": "Hooded SNES Originals - Brawlin' On The Streets 👊",
+      "version": "smwc-35618-1703625962",
+      "upstream_time": 1703625962,
+      "download_url": "https://dl.smwcentral.net/35618/Brawlin%27%20On%20The%20Streets.zip",
+      "filename": "Brawlin%27 On The Streets.zip",
+      "size": 194110,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

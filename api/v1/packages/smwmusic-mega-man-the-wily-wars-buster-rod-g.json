@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mega-man-the-wily-wars-buster-rod-g",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11139,
+  "title": "Mega Man: The Wily Wars - Buster Rod-G",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "grassland"
+  ],
+  "description": "This is the music from Buster Rod-G's stage in Mega Man: The Wily Wars.  There are two versions included, one of which is intended to be closer to the original Genesis version and the other of which is intended to be more suitable for the SNES.",
+  "latest_version": "smwc-11139-1428335808",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11139,
+      "title": "Mega Man: The Wily Wars - Buster Rod-G",
+      "version": "smwc-11139-1428335808",
+      "upstream_time": 1428335808,
+      "download_url": "https://dl.smwcentral.net/11139/Mega%20Man%20-%20The%20Wily%20Wars%20-%20Buster%20Rod-G.zip",
+      "filename": "Mega Man - The Wily Wars - Buster Rod-G.zip",
+      "size": 65984,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-yi-nipper-and-dandelion",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31010,
+  "title": "YI Nipper and Dandelion",
+  "authors": [
+    "codfish1002"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "smw2",
+    "yoshi's island"
+  ],
+  "description": "Yoshi's island Dandelion parachute, spawns a sprite after touching the ground.<br>\r\n<br>\r\nthe palette and the sprite it spawns can also be customized with the extra bytes.<br>\r\n<br>\r\nalso comes with the YI nipper plant and a cluster sprite for the smoke. <br>\r\n<br>\r\ncheck the ASM file for details on how to use the sprite<br>\r\n<br>\r\nrequested by <span class=\"un-outer\" title=\"Rykon-V73\"><a href=\"/?p=profile&amp;id=207\" style=\"color: var(--user-color-1);\" class=\"un\">Rykon-V73</a></span><br>\r\n<br>\r\n2022-05-25:<br>\r\nadded a option to decrease the amount of cluster smoke that the dandelion spawns<br>\r\n<br>\r\nconverted some ram addresses I missed, the sprites should properly work on sa-1 now.<br>\r\n<br>\r\nadded a delay for the nippers (this can be toggled off in the ASM file)",
+  "latest_version": "smwc-31010-1673008616",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31010,
+      "title": "YI Nipper and Dandelion",
+      "version": "smwc-31010-1673008616",
+      "upstream_time": 1673008616,
+      "download_url": "https://dl.smwcentral.net/31010/YI_NipperDandelion_V1.3.zip",
+      "filename": "YI_NipperDandelion_V1.3.zip",
+      "size": 7211,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

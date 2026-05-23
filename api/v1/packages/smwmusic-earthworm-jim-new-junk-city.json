@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-earthworm-jim-new-junk-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29062,
+  "title": "Earthworm Jim - New Junk City",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "industrial",
+    "sewer",
+    "title",
+    "urban"
+  ],
+  "description": "Song from the first level of Earthworm Jim that is also used as the title theme.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Fernandito2018\"><a href=\"/?p=profile&amp;id=36104\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Fernandito2018</a></span><br>\r\n<br>\r\nEDIT: Deleted the second version with the wrong cut-offs.",
+  "latest_version": "smwc-29062-1642871337",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29062,
+      "title": "Earthworm Jim - New Junk City",
+      "version": "smwc-29062-1642871337",
+      "upstream_time": 1642871337,
+      "download_url": "https://dl.smwcentral.net/29062/NewJunkCity.zip",
+      "filename": "NewJunkCity.zip",
+      "size": 68331,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-yi-blow-hard-v2",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23057,
+  "title": "YI Blow Hard v2.2",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "cactus",
+    "dynamic",
+    "lorom",
+    "sa-1",
+    "yoshi island"
+  ],
+  "description": "A Cactus-like sprite from Yoshi's Island that fires needlenoses<br>\r\n<br>\r\nUpdated to fix three Yoshi interaction glitches.<br>\r\n2020 update: Now properly SA-1 compatible. Fixed inaccurate aiming and glitchy flashing GFX in SA-1 ROMs.<br>\r\n<br>\r\n<s>**REQUIRES MANUAL GFX INSERTION**</s> Not anymore.",
+  "latest_version": "smwc-23057-1596979291",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23057,
+      "title": "YI Blow Hard v2.2",
+      "version": "smwc-23057-1596979291",
+      "upstream_time": 1596979291,
+      "download_url": "https://dl.smwcentral.net/23057/yiblowhardv2.zip",
+      "filename": "yiblowhardv2.zip",
+      "size": 39070,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

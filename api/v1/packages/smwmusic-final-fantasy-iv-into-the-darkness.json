@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-final-fantasy-iv-into-the-darkness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26794,
+  "title": "Final Fantasy IV - Into the Darkness",
+  "authors": [
+    "K.T.B."
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "mysterious",
+    "night",
+    "ruins",
+    "sewer",
+    "spooky",
+    "temple"
+  ],
+  "description": "A cave theme from Final Fantasy IV that manages to somehow be simultaneously dramatically tense <b>and</b> awe-inspiringly beautiful. Composed by Nobuo Uematsu.<br>\r\n<br>\r\nThis could easily fit into a cave or dungeon level, potentially suiting slightly \"creepy\" areas.<br>\r\n<br>\r\nRequested by Brutapode89.<br>\r\n<br>\r\n<b>Note:</b> This song uses many notes in several sound channels that include different varieties of \"volume fade\" effects, which took up a lot of space on their own. If you believe you'll need it, I have made a second version of this port that cuts down quite a bit on the song's volume effects, which reduced the insertion size to around half of this one (0x03C3 bytes) at the cost of faithfulness to the original song. This .TXT, and its respective .SPC, have been included in the file.",
+  "latest_version": "smwc-26794-1621277068",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26794,
+      "title": "Final Fantasy IV - Into the Darkness",
+      "version": "smwc-26794-1621277068",
+      "upstream_time": 1621277068,
+      "download_url": "https://dl.smwcentral.net/26794/KTB%20ff4darkness.zip",
+      "filename": "KTB ff4darkness.zip",
+      "size": 96677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7652,
+      "title": "Final Fantasy IV - Into the Darkness",
+      "version": "smwc-7652-1320048465",
+      "upstream_time": 1320048465,
+      "download_url": "https://dl.smwcentral.net/7652/FF4%20Into%20the%20Darkness.zip",
+      "filename": "FF4 Into the Darkness.zip",
+      "size": 71781,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

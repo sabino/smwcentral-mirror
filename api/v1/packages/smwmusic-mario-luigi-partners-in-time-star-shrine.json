@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-star-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7275,
+  "title": "Mario & Luigi: Partners in Time - Star Shrine",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "space"
+  ],
+  "description": "This is the theme played in Star Shrine, in Partners in Time. Has a very calming effect, yet upbeat at the same time.",
+  "latest_version": "smwc-7275-1406218666",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7275,
+      "title": "Mario & Luigi: Partners in Time - Star Shrine",
+      "version": "smwc-7275-1406218666",
+      "upstream_time": 1406218666,
+      "download_url": "https://dl.smwcentral.net/7275/mlpitss.zip",
+      "filename": "mlpitss.zip",
+      "size": 62120,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

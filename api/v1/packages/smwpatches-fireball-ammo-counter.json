@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-fireball-ammo-counter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18521,
+  "title": "Fireball Ammo Counter",
+  "authors": [
+    "0x400",
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "ability",
+    "asar 2 remoderation",
+    "coin",
+    "counter",
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This patch makes it cost an adjustable amount of coins OR points to shoot a fireball. (You can't shoot when you don't have enough.) You can also change the counter into freeRAM too. This might be useful for some shoot 'em up hacks.",
+  "latest_version": "smwc-18521-1543106584",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18521,
+      "title": "Fireball Ammo Counter",
+      "version": "smwc-18521-1543106584",
+      "upstream_time": 1543106584,
+      "download_url": "https://dl.smwcentral.net/18521/fireballammo.zip",
+      "filename": "fireballammo.zip",
+      "size": 2943,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "smwmusic-sonic-3-knuckles-flying-battery-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35445,
+  "title": "Sonic 3 & Knuckles - Flying Battery Zone Act 2",
+  "authors": [
+    "JordanTRS"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "chase",
+    "industrial",
+    "sky"
+  ],
+  "description": "Would best fit a fast paced airship/sky level, but honestly as long as it's fast paced it should work!",
+  "latest_version": "smwc-35445-1703978159",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35445,
+      "title": "Sonic 3 & Knuckles - Flying Battery Zone Act 2",
+      "version": "smwc-35445-1703978159",
+      "upstream_time": 1703978159,
+      "download_url": "https://dl.smwcentral.net/35445/Flying%20Battery%20Act%202.zip",
+      "filename": "Flying Battery Act 2.zip",
+      "size": 33062,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22619,
+      "title": "Sonic 3 & Knuckles - Flying Battery Zone Act 2",
+      "version": "smwc-22619-1586668871",
+      "upstream_time": 1586668871,
+      "download_url": "https://dl.smwcentral.net/22619/flying%20battery%202.zip",
+      "filename": "flying battery 2.zip",
+      "size": 34564,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20800,
+      "title": "Sonic 3 & Knuckles - Flying Battery Zone Act 1",
+      "version": "smwc-20800-1564615627",
+      "upstream_time": 1564615627,
+      "download_url": "https://dl.smwcentral.net/20800/Flying%20Battery%20Zone%20Act%201.zip",
+      "filename": "Flying Battery Zone Act 1.zip",
+      "size": 79389,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10848,
+      "title": "Sonic 3 & Knuckles - Flying Battery Zone Act 1",
+      "version": "smwc-10848-1424721607",
+      "upstream_time": 1424721607,
+      "download_url": "https://dl.smwcentral.net/10848/Sonic%203%20%26%20Knuckles%20-%20Flying%20Battery%20Zone%201.zip",
+      "filename": "Sonic 3 %26 Knuckles - Flying Battery Zone 1.zip",
+      "size": 32456,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "tools-snes-binary-utility-v1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 15479,
+  "title": "SNES Binary Utility - v1.0",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "data",
+    "format",
+    "snes",
+    "tables"
+  ],
+  "description": "This tool is mainly made for dealing with tables when working with a ROM disassembly. It is capable of formatting tables, as well as extracting tables or even binary files, from a source binary file.<br>\r\n<br>\r\nPlease read the readme before using.<br>\r\n<br>\r\nRequires .NET 3.5",
+  "latest_version": "smwc-15479-1498347519",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 15479,
+      "title": "SNES Binary Utility - v1.0",
+      "version": "smwc-15479-1498347519",
+      "upstream_time": 1498347519,
+      "download_url": "https://dl.smwcentral.net/15479/SNES%20Binary%20Utility.zip",
+      "filename": "SNES Binary Utility.zip",
+      "size": 312755,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-gun",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31442,
+  "title": "Gun",
+  "authors": [
+    "NerDose"
+  ],
+  "tags": [
+    "boost",
+    "lorom",
+    "pacifist",
+    "physics",
+    "sa-1"
+  ],
+  "description": "a gun sprite that acts as a (sort of) carriable sprite, which means you cannot carry any other sprite or use Yoshi if you want to use it.<br>\r\n<br>\r\nIt has customizable cooldown time, recoil forces, bullet speeds, and disarm button (default is select), you will also lose this weapon when you beat a level, take damage or die.<br>\r\n<br>\r\nThe bullets themselves act as kicked shells, they will kill sprites and activate blocks from below and from the sides but they will also hurt the player if not hit from above.<br>\r\n<br>\r\nIMPORTANT: remember to write the bullet sprite's PIXI number in gun.asm's !bulletSprite variable.<br>\r\n<br>\r\nif unintended behavior occurs, try updating PIXI to the latest version<br>\r\n<br>\r\n<br>\r\n<br>\r\nV 1.1 added the possibility to use coins as ammo with the option to set how many coins you lose after firing a bullet",
+  "latest_version": "smwc-31442-1693436447",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31442,
+      "title": "Gun",
+      "version": "smwc-31442-1693436447",
+      "upstream_time": 1693436447,
+      "download_url": "https://dl.smwcentral.net/31442/gunV1.1.zip",
+      "filename": "gunV1.1.zip",
+      "size": 7032,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

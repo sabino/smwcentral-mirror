@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-escape",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26047,
+  "title": "Escape!!!",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "And as an extra, here is the first ever original compo I did, which as you can tell is obviously built with an timed escape sequence in mind (which is also why the song doesn't loop from the start btw, and why I won't put in a loop since it would lose much of the impact I wanted to portray otherwise). Since this is only usable in a very specific context I dunno how many would bother using this, but it's definitely something to consider if you're planning to have a escape sequence in your own hack either way :P",
+  "latest_version": "smwc-26047-1611603825",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26047,
+      "title": "Escape!!!",
+      "version": "smwc-26047-1611603825",
+      "upstream_time": 1611603825,
+      "download_url": "https://dl.smwcentral.net/26047/Escape%21%21%21.zip",
+      "filename": "Escape%21%21%21.zip",
+      "size": 71765,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

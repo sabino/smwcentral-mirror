@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bash-manic-panic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37222,
+  "title": "Crash Bash - Manic Panic",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "ice",
+    "mountain",
+    "sad",
+    "snow"
+  ],
+  "description": "A chilly and somewhat sad theme that plays in Manic Panic, one of the polar push minigames.<br>\r\n<br>\r\nNote: Not compatible with Yoshi, thunder and Bonus End.",
+  "latest_version": "smwc-37222-1712618725",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37222,
+      "title": "Crash Bash - Manic Panic",
+      "version": "smwc-37222-1712618725",
+      "upstream_time": 1712618725,
+      "download_url": "https://dl.smwcentral.net/37222/CBash_-_Manic_Panic.zip",
+      "filename": "CBash_-_Manic_Panic.zip",
+      "size": 105943,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

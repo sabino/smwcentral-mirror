@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-treasure-chest-with-coins",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3229,
+  "title": "Treasure Chest with Coins",
+  "authors": [
+    "Schwa"
+  ],
+  "tags": [
+    "chest",
+    "lorom",
+    "pacifist",
+    "treasure"
+  ],
+  "description": "This is a completely original, coded-from-scratch custom sprite. In the game it stays closed, and opens when touched. When opened, moving coins \"pop out\", one at a time, for Mario to collect. After that it just sits there, open and empty. Readme and GFX included; use SP3.<br>\r\n<br>\r\nGive credit if used or tweaked.",
+  "latest_version": "smwc-3229-1202530372",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3229,
+      "title": "Treasure Chest with Coins",
+      "version": "smwc-3229-1202530372",
+      "upstream_time": 1202530372,
+      "download_url": "https://dl.smwcentral.net/3229/TreasureChest.zip",
+      "filename": "TreasureChest.zip",
+      "size": 4624,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

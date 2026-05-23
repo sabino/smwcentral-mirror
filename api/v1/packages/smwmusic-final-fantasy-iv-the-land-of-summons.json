@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-final-fantasy-iv-the-land-of-summons",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23054,
+  "title": "Final Fantasy IV - The Land of Summons",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark",
+    "ghost house",
+    "night",
+    "overworld",
+    "tense"
+  ],
+  "description": "(Also known as \"Illusionary World\" and \"Town of Illusions\")<br>\r\n<br>\r\nThe eerie theme of the Sylph Cave and the Land of Eidolons from Final Fantasy IV. Could suit really any dark cave environment, or just an overworld if you'd like. But more importantly, if you're trying to give an excuse as to why a character aged so quickly and has more summons and spells as a result, this is the theme of that excuse.",
+  "latest_version": "smwc-23054-1590875365",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23054,
+      "title": "Final Fantasy IV - The Land of Summons",
+      "version": "smwc-23054-1590875365",
+      "upstream_time": 1590875365,
+      "download_url": "https://dl.smwcentral.net/23054/sylph.zip",
+      "filename": "sylph.zip",
+      "size": 31482,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16694,
+      "title": "Final Fantasy IV - The Land of Summons",
+      "version": "smwc-16694-1512016747",
+      "upstream_time": 1512016747,
+      "download_url": "https://dl.smwcentral.net/16694/FF4%20-%20Illusionary%20World.zip",
+      "filename": "FF4 - Illusionary World.zip",
+      "size": 52081,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

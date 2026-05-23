@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-sprite-shell-speed-limiter",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 32053,
+  "title": "Sprite/Shell Speed Limiter",
+  "authors": [
+    "xhsdf"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Limits the speed of a sprite to a configurable limit. Tested with shells.<br>\r\nCan be used to make shells easier to hit or make their speed consistent. Sprites will keep their new speed even after leaving the block.",
+  "latest_version": "smwc-32053-1662487208",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 32053,
+      "title": "Sprite/Shell Speed Limiter",
+      "version": "smwc-32053-1662487208",
+      "upstream_time": 1662487208,
+      "download_url": "https://dl.smwcentral.net/32053/sprite_speed_limit.asm.zip",
+      "filename": "sprite_speed_limit.asm.zip",
+      "size": 452,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

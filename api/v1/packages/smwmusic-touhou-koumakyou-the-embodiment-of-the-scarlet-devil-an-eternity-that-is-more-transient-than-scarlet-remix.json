@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-koumakyou-the-embodiment-of-the-scarlet-devil-an-eternity-that-is-more-transient-than-scarlet-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23560,
+  "title": "Touhou Koumakyou ~ the Embodiment of the Scarlet Devil - An Eternity that is More Transient than Scarlet (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cave",
+    "credits",
+    "title",
+    "water"
+  ],
+  "description": "My very first port I ever worked on (though never uploaded it due to being unsatisfied with it) long time ago. It's the ending theme of <i>Touhou 6: Embodiment of the Scarlet Devil</i>.<br>\r\n<br>\r\nNote:<br>\r\n- There is a \"READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n       - The Thunder SFX and @7 are disabled.<br>\r\n- There are three customizable pitches for this song that you can adjust in the song file:<br>\r\n       - e minor (The default pitch)<br>\r\n       - f minor (The midi pitch)<br>\r\n       - d# minor (A custom pitch for this remix) ",
+  "latest_version": "smwc-23560-1594350446",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23560,
+      "title": "Touhou Koumakyou ~ the Embodiment of the Scarlet Devil - An Eternity that is More Transient than Scarlet (Remix)",
+      "version": "smwc-23560-1594350446",
+      "upstream_time": 1594350446,
+      "download_url": "https://dl.smwcentral.net/23560/Crimson%20Ending.zip",
+      "filename": "Crimson Ending.zip",
+      "size": 167911,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

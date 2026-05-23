@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-y-y-hakusho-snes-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40343,
+  "title": "Yū Yū Hakusho (SNES) - Battle",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "boss"
+  ],
+  "description": "The trippy battle theme from Yuu Yuu Hakusho for the SNES.",
+  "latest_version": "smwc-40343-1758747962",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40343,
+      "title": "Yū Yū Hakusho (SNES) - Battle",
+      "version": "smwc-40343-1758747962",
+      "upstream_time": 1758747962,
+      "download_url": "https://dl.smwcentral.net/40343/YYH%20Battle.zip",
+      "filename": "YYH Battle.zip",
+      "size": 45719,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

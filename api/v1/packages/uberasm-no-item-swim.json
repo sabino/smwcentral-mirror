@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-no-item-swim",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29797,
+  "title": "No Item Swim",
+  "authors": [
+    "MarioriaM",
+    "MellyMellouange"
+  ],
+  "tags": [
+    "carry",
+    "disable",
+    "lorom",
+    "sa-1",
+    "swim"
+  ],
+  "description": "This piece of code will disable Item Swimming. Requested by <span class=\"un-outer\" title=\"buckaroodle610\"><a href=\"/?p=profile&amp;id=49721\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">buckaroodle610</a></span>.",
+  "latest_version": "smwc-29797-1644805257",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29797,
+      "title": "No Item Swim",
+      "version": "smwc-29797-1644805257",
+      "upstream_time": 1644805257,
+      "download_url": "https://dl.smwcentral.net/29797/Norm_swim.zip",
+      "filename": "Norm_swim.zip",
+      "size": 176,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

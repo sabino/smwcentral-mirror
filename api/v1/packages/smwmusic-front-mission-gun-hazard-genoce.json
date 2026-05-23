@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-front-mission-gun-hazard-genoce",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20136,
+  "title": "Front Mission: Gun Hazard - Genoce",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Could fit well in boss fights or very dangerous areas.<br>\r\nOriginally made for the hack \"Wrath of Bowser\".<br>\r\n<br>\r\nNote: not compatible with Bonus end and P-Switch songs, nor with thunder/Blargg sfx.",
+  "latest_version": "smwc-20136-1559962743",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20136,
+      "title": "Front Mission: Gun Hazard - Genoce",
+      "version": "smwc-20136-1559962743",
+      "upstream_time": 1559962743,
+      "download_url": "https://dl.smwcentral.net/20136/FMGH_Genoce.zip",
+      "filename": "FMGH_Genoce.zip",
+      "size": 74356,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

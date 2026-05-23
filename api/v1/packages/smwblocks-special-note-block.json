@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-special-note-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3787,
+  "title": "Special Note Block",
+  "authors": [
+    "ghettoyouth"
+  ],
+  "tags": [
+    "lorom",
+    "note block",
+    "sa-1",
+    "special",
+    "warp"
+  ],
+  "description": "A block that will shoot the player in the sky and warp to level 1C8.<br>\r\n<br>\r\n<i>Note: Do <b>not</b> make it act like a note block, as the bounce sprite will overwrite it.</i>",
+  "latest_version": "smwc-3787-1410751710",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3787,
+      "title": "Special Note Block",
+      "version": "smwc-3787-1410751710",
+      "upstream_time": 1410751710,
+      "download_url": "https://dl.smwcentral.net/3787/SMB3-Like%20Note%20Block.zip",
+      "filename": "SMB3-Like Note Block.zip",
+      "size": 281,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

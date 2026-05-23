@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-the-magical-quest-starring-mickey-mouse-pete-s-peak",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27267,
+  "title": "The Magical Quest Starring Mickey Mouse - Pete's Peak",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "mountain",
+    "ruins",
+    "sky"
+  ],
+  "description": "In the original game, this stage features howls of wind and a grapple attack, so the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=26062\">sling pack</a> could complement this music. You find the Background image <a href=\"https://www.smwcentral.net/?p=section&a=details&id=27273\">here</a>.<br>\r\n<br>\r\nMade on <a href=\"https://www.smwcentral.net/?p=viewthread&t=118057\">request</a> for TCgamerboy2002.",
+  "latest_version": "smwc-27267-1625898011",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27267,
+      "title": "The Magical Quest Starring Mickey Mouse - Pete's Peak",
+      "version": "smwc-27267-1625898011",
+      "upstream_time": 1625898011,
+      "download_url": "https://dl.smwcentral.net/27267/mq_petes_peak_0_2.zip",
+      "filename": "mq_petes_peak_0_2.zip",
+      "size": 63808,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27266,
+      "title": "The Magical Quest Starring Mickey Mouse - Pete's Peak",
+      "version": "smwc-27266-1625897998",
+      "upstream_time": 1625897998,
+      "download_url": "https://dl.smwcentral.net/27266/mq_petes_peak_smwsf_0_2.zip",
+      "filename": "mq_petes_peak_smwsf_0_2.zip",
+      "size": 33650,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-final-fantasy-vi-unused-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35852,
+  "title": "Final Fantasy VI - Unused Fanfare",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "An unused fanfare from FF6 that was an important fanfare in previous games. Perhaps this was intended for a similar purpose. ",
+  "latest_version": "smwc-35852-1704556895",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35852,
+      "title": "Final Fantasy VI - Unused Fanfare",
+      "version": "smwc-35852-1704556895",
+      "upstream_time": 1704556895,
+      "download_url": "https://dl.smwcentral.net/35852/Unused%20Fanfare.zip",
+      "filename": "Unused Fanfare.zip",
+      "size": 35730,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8490,
+      "title": "Final Fantasy VI - Unused Fanfare",
+      "version": "smwc-8490-1388172375",
+      "upstream_time": 1388172375,
+      "download_url": "https://dl.smwcentral.net/8490/FF6%20-%20Fanfare%20%28Unused%29.zip",
+      "filename": "FF6 - Fanfare (Unused).zip",
+      "size": 63076,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

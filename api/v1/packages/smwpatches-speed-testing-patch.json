@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-speed-testing-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 22582,
+  "title": "Speed Testing Patch",
+  "authors": [
+    "Pseudonym"
+  ],
+  "tags": [
+    "debug",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch allows you to test speed settings in SMW by pressing L and R to increase a counter in the status bar, and then shoots you in that direction if you press up.<br>\r\nNote: not for use in hacks(but feel free to if you have some wacky idea)",
+  "latest_version": "smwc-22582-1590138010",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 22582,
+      "title": "Speed Testing Patch",
+      "version": "smwc-22582-1590138010",
+      "upstream_time": 1590138010,
+      "download_url": "https://dl.smwcentral.net/22582/Speed%20Testing.zip",
+      "filename": "Speed Testing.zip",
+      "size": 408,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

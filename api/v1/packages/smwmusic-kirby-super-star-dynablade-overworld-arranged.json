@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-super-star-dynablade-overworld-arranged",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27203,
+  "title": "Kirby Super Star - Dynablade Overworld (Arranged)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "grassland",
+    "overworld"
+  ],
+  "description": "An Arranged version of the Dynablade Overworld from Kirby Super Star.<br>\r\n<br>\r\nCan be used in overworlds with an upbeat atmosphere, similar to Yoshi's Island.",
+  "latest_version": "smwc-27203-1624967820",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27203,
+      "title": "Kirby Super Star - Dynablade Overworld (Arranged)",
+      "version": "smwc-27203-1624967820",
+      "upstream_time": 1624967820,
+      "download_url": "https://dl.smwcentral.net/27203/Kirby_Super_Star_-_Dynablade_Overworld_Arranged.zip",
+      "filename": "Kirby_Super_Star_-_Dynablade_Overworld_Arranged.zip",
+      "size": 32422,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

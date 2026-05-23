@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-12th-vanilla-level-design-contest-space-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32419,
+  "title": "The 12th Vanilla Level Design Contest - Space Map",
+  "authors": [
+    "Maxodex",
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "overworld",
+    "space"
+  ],
+  "description": "The Space World song played in VLDC12.",
+  "latest_version": "smwc-32419-1670290760",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32419,
+      "title": "The 12th Vanilla Level Design Contest - Space Map",
+      "version": "smwc-32419-1670290760",
+      "upstream_time": 1670290760,
+      "download_url": "https://dl.smwcentral.net/32419/VLDC%2012%20-%20Space%20Map.zip",
+      "filename": "VLDC 12 - Space Map.zip",
+      "size": 35439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-p-switches",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23332,
+  "title": "P-Switches",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "map16",
+    "p-switch",
+    "sa-1",
+    "solid",
+    "sprite"
+  ],
+  "description": "A set of ungrabbable P-Switches which can be either blue or silver, rightside up or upside down, solid to sprites or not, can be jumped on or not and changes to the next Map16 tiles.",
+  "latest_version": "smwc-23332-1593685383",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23332,
+      "title": "P-Switches",
+      "version": "smwc-23332-1593685383",
+      "upstream_time": 1593685383,
+      "download_url": "https://dl.smwcentral.net/23332/P-Switches.zip",
+      "filename": "P-Switches.zip",
+      "size": 7933,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-devil-summoner-2-battle-raidou",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7666,
+  "title": "Devil Summoner 2 - Battle ~Raidou~ 2008",
+  "authors": [
+    "Holy Order Sol"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "This is originally a battle theme from Devil Summoner 1, the remix of which is used outside of battles in DS2.",
+  "latest_version": "smwc-7666-1320042379",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7666,
+      "title": "Devil Summoner 2 - Battle ~Raidou~ 2008",
+      "version": "smwc-7666-1320042379",
+      "upstream_time": 1320042379,
+      "download_url": "https://dl.smwcentral.net/7666/Battle%20Raidou.zip",
+      "filename": "Battle Raidou.zip",
+      "size": 69680,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

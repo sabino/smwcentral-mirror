@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kid-icarus-palace-in-the-sky",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22979,
+  "title": "Kid Icarus - Palace in the Sky",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "sky"
+  ],
+  "description": "Song that Palace in the Sky from Kid Icarus. Good a for sky levels.",
+  "latest_version": "smwc-22979-1590643766",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22979,
+      "title": "Kid Icarus - Palace in the Sky",
+      "version": "smwc-22979-1590643766",
+      "upstream_time": 1590643766,
+      "download_url": "https://dl.smwcentral.net/22979/Palace%20in%20the%20Sky.zip",
+      "filename": "Palace in the Sky.zip",
+      "size": 30776,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

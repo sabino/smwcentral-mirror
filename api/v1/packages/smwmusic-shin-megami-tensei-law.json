@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shin-megami-tensei-law",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37277,
+  "title": "Shin Megami Tensei - Law",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "Also known as 'Seishin Kai' (Mental World) in SMT if… which is exclusive to Reiko‘s route.",
+  "latest_version": "smwc-37277-1714363229",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37277,
+      "title": "Shin Megami Tensei - Law",
+      "version": "smwc-37277-1714363229",
+      "upstream_time": 1714363229,
+      "download_url": "https://dl.smwcentral.net/37277/SMT%20Law.zip",
+      "filename": "SMT Law.zip",
+      "size": 43390,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

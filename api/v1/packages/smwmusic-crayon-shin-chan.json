@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crayon-shin-chan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12677,
+  "title": "Crayon Shin-chan 2: Dai Maou no Gyakushuu - Park",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "grassland",
+    "sky"
+  ],
+  "description": "Song from the second level of a random Shin-chan game for the SFC. Could fit grassland and cloudy levels.",
+  "latest_version": "smwc-12677-1447607810",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12677,
+      "title": "Crayon Shin-chan 2: Dai Maou no Gyakushuu - Park",
+      "version": "smwc-12677-1447607810",
+      "upstream_time": 1447607810,
+      "download_url": "https://dl.smwcentral.net/12677/Shin-chan%20park.zip",
+      "filename": "Shin-chan park.zip",
+      "size": 33266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-pocky-rocky-enchanted-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37612,
+  "title": "Pocky & Rocky - Enchanted Forest",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "althetic",
+    "athletic",
+    "calm",
+    "forest",
+    "sky"
+  ],
+  "description": "奇々怪界 謎の黒マント - 混乱の森",
+  "latest_version": "smwc-37612-1717172681",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37612,
+      "title": "Pocky & Rocky - Enchanted Forest",
+      "version": "smwc-37612-1717172681",
+      "upstream_time": 1717172681,
+      "download_url": "https://dl.smwcentral.net/37612/kiki%2012.zip",
+      "filename": "kiki 12.zip",
+      "size": 60225,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35312,
+      "title": "Pocky & Rocky - Enchanted Forest",
+      "version": "smwc-35312-1698236985",
+      "upstream_time": 1698236985,
+      "download_url": "https://dl.smwcentral.net/35312/KiKi-12.zip",
+      "filename": "KiKi-12.zip",
+      "size": 32667,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

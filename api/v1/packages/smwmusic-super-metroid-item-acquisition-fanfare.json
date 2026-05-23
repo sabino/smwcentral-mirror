@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-super-metroid-item-acquisition-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36739,
+  "title": "Super Metroid - Item Acquisition Fanfare",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36739-1706162228",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36739,
+      "title": "Super Metroid - Item Acquisition Fanfare",
+      "version": "smwc-36739-1706162228",
+      "upstream_time": 1706162228,
+      "download_url": "https://dl.smwcentral.net/36739/17%20Item%20Acquisition%20Fanfare.zip",
+      "filename": "17 Item Acquisition Fanfare.zip",
+      "size": 200520,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18401,
+      "title": "Super Metroid - Item Acquisition Fanfare",
+      "version": "smwc-18401-1541117155",
+      "upstream_time": 1541117155,
+      "download_url": "https://dl.smwcentral.net/18401/Item.zip",
+      "filename": "Item.zip",
+      "size": 30754,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

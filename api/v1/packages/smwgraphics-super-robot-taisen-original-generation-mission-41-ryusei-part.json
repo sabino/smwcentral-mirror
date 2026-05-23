@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-super-robot-taisen-original-generation-mission-41-ryusei-part",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20315,
+  "title": "Super Robot Taisen: Original Generation - Mission 41 (Ryusei) Part 2",
+  "authors": [
+    "Ayami"
+  ],
+  "tags": [
+    "block",
+    "mechanical",
+    "needs remoderation",
+    "space"
+  ],
+  "description": "The map of the second part of the Mission 41 (Ryusei) in Super Robot Taisen: Original Generation (GBA), re-arranged (and edited a bit) as a background.<br>\r\n<br>\r\nThis is a HUGE background: basically every color besides Status Bar's and first half of palettes 2 and 6 are used, and only FG1 and FG3 are free to use. Keep this in mind. Also note that this background is <b>32x24</b> and doesn't loop, so it works best with a custom scroll setting (as Variable 3 or 4 for both horizontal and vertical scroll).",
+  "latest_version": "smwc-20315-1561945790",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20315,
+      "title": "Super Robot Taisen: Original Generation - Mission 41 (Ryusei) Part 2",
+      "version": "smwc-20315-1561945790",
+      "upstream_time": 1561945790,
+      "download_url": "https://dl.smwcentral.net/20315/SRT%20OG%20Mission%2041%20%28Part%202%29.zip",
+      "filename": "SRT OG Mission 41 (Part 2).zip",
+      "size": 14840,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 20314,
+      "title": "Super Robot Taisen: Original Generation - Mission 41 (Ryusei) Part 1",
+      "version": "smwc-20314-1561945663",
+      "upstream_time": 1561945663,
+      "download_url": "https://dl.smwcentral.net/20314/SRT%20OG%20Mission%2041%20%28Part%201%29.zip",
+      "filename": "SRT OG Mission 41 (Part 1).zip",
+      "size": 4659,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

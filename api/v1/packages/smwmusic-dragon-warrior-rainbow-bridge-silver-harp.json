@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dragon-warrior-rainbow-bridge-silver-harp",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25081,
+  "title": "Dragon Warrior - Rainbow Bridge (Silver Harp)",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "goal",
+    "keyhole",
+    "nintendo presents"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for course clear or a custom event.",
+  "latest_version": "smwc-25081-1604721627",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25081,
+      "title": "Dragon Warrior - Rainbow Bridge (Silver Harp)",
+      "version": "smwc-25081-1604721627",
+      "upstream_time": 1604721627,
+      "download_url": "https://dl.smwcentral.net/25081/DragonQuest09SilverHarp.zip",
+      "filename": "DragonQuest09SilverHarp.zip",
+      "size": 30964,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

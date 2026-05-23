@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ganbare-goemon-toukai-douchuu-ooedo-tengu-ri-kaeshi-no-maki-daring-midnight-escape",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38825,
+  "title": "Ganbare Goemon: Toukai Douchuu Ooedo Tengu ri Kaeshi no Maki - Daring Midnight Escape",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "upbeat",
+    "urban"
+  ],
+  "description": "small, somewhat funky Ganbare Goemon DS port.",
+  "latest_version": "smwc-38825-1733034899",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38825,
+      "title": "Ganbare Goemon: Toukai Douchuu Ooedo Tengu ri Kaeshi no Maki - Daring Midnight Escape",
+      "version": "smwc-38825-1733034899",
+      "upstream_time": 1733034899,
+      "download_url": "https://dl.smwcentral.net/38825/Daring%20Midnight%20Escape.zip",
+      "filename": "Daring Midnight Escape.zip",
+      "size": 91052,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

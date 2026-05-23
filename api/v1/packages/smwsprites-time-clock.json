@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-time-clock",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26711,
+  "title": "+/- Time Clock",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "clock",
+    "lorom",
+    "sa-1",
+    "time",
+    "timer"
+  ],
+  "description": "This is a Clock that can add to or subtract from the timer when collected, like in games such as Super Mario 3D Land/World. You can customize the number of timer seconds added/subtracted (from 1-255), the type of effect produced when collected, whether the Clock is solid, and more.<br>\r\nIt also handles overflow and underflow - If adding to the timer would take it past 999, the timer is set to 999. If subtracting from it would take it below 0, the timer is set to 0 and the player is killed with a TIME UP!.<br>\r\n<br>\r\nSee the .asm file for customization options.<br>\r\n<br>\r\nRequested by M. Yusuf Suleman.",
+  "latest_version": "smwc-26711-1626759051",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26711,
+      "title": "+/- Time Clock",
+      "version": "smwc-26711-1626759051",
+      "upstream_time": 1626759051,
+      "download_url": "https://dl.smwcentral.net/26711/Plusminusclock.zip",
+      "filename": "Plusminusclock.zip",
+      "size": 6277,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

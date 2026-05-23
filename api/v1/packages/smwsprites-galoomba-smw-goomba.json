@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-galoomba-smw-goomba",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41905,
+  "title": "Galoomba (SMW Goomba)",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "galoomba",
+    "goomba",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 0F in SMW, Galoomba (SMW Goomba).",
+  "latest_version": "smwc-41905-1774550220",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41905,
+      "title": "Galoomba (SMW Goomba)",
+      "version": "smwc-41905-1774550220",
+      "upstream_time": 1774550220,
+      "download_url": "https://dl.smwcentral.net/41905/GaloombaDisassembly.zip",
+      "filename": "GaloombaDisassembly.zip",
+      "size": 10788,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

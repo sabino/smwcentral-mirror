@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-bakumatsu-kourinden-oni-to-mount-fuji",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33192,
+  "title": "Bakumatsu Kourinden Oni - To Mount Fuji",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "mountain",
+    "tense"
+  ],
+  "description": "Shortly before the end of the game you climb Mount Fuji. I like how the track keeps building up.",
+  "latest_version": "smwc-33192-1678335511",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33192,
+      "title": "Bakumatsu Kourinden Oni - To Mount Fuji",
+      "version": "smwc-33192-1678335511",
+      "upstream_time": 1678335511,
+      "download_url": "https://dl.smwcentral.net/33192/BakumatsuToMtFuji.zip",
+      "filename": "BakumatsuToMtFuji.zip",
+      "size": 69860,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

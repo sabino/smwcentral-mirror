@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-ultimate-boom-boom",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25221,
+  "title": "Ultimate Boom Boom",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "boom boom",
+    "boss",
+    "custom",
+    "extra bytes",
+    "flying",
+    "lorom",
+    "sa-1",
+    "smb3",
+    "spiked"
+  ],
+  "description": "My entry on the third round of the second Mad Scientist ASM Contest. Based on the SMB3 Boom Boom by Ice Man and Tsutarja, this is an extremely customizable Boom Boom boss that can be configured to have a diverse array of attacks and speeds depending on its HP. This sprite uses 7 extra bytes that should be configured properly; please check the readme regarding that. The graphics for the mini Boom Boom were originally created by P-Tux and edited by me.",
+  "latest_version": "smwc-25221-1608251566",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25221,
+      "title": "Ultimate Boom Boom",
+      "version": "smwc-25221-1608251566",
+      "upstream_time": 1608251566,
+      "download_url": "https://dl.smwcentral.net/25221/Ultimate%20Customizable%20Boom%20Boom.zip",
+      "filename": "Ultimate Customizable Boom Boom.zip",
+      "size": 15991,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

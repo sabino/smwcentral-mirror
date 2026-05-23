@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wii-shop-channel-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22985,
+  "title": "Wii Shop Channel - Main Theme",
+  "authors": [
+    "Kevin",
+    "tssf"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "calm"
+  ],
+  "description": "rip 2006-2019<br>\r\n<br>\r\n<br>\r\nshoutouts to Mathew Valente/TSSF for making the original spc<br>\r\n<br>\r\n<br>\r\n(not compatible with thunder sfx/Blarggs and Bonus End song).",
+  "latest_version": "smwc-22985-1590356198",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22985,
+      "title": "Wii Shop Channel - Main Theme",
+      "version": "smwc-22985-1590356198",
+      "upstream_time": 1590356198,
+      "download_url": "https://dl.smwcentral.net/22985/Wii%20Shop.zip",
+      "filename": "Wii Shop.zip",
+      "size": 114195,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

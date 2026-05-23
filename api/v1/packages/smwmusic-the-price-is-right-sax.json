@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-price-is-right-sax",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41744,
+  "title": "The Price Is Right (Sax Version)",
+  "authors": [
+    "jneen"
+  ],
+  "tags": [
+    "bonus",
+    "menu",
+    "title"
+  ],
+  "description": "Theme song for the UK version of The Price Is Right with Bruce Forsyth. As heard in pixlrik's precision hack \"The Precise Is Right\".<br>\r\n<br>\r\nThis theme was used in the Bruce Forsyth version (UK 1995), as well as The New Price Is Right (US 1994), and possibly others. The naming of syndications and spin-offs of The Price Is Right is extremely confusing, but this is the jazzy one with the epic saxophone solo.<br>\r\n<br>\r\nUses samples from PlayerSounds '23 and Super Bonk.",
+  "latest_version": "smwc-41744-1777997568",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41744,
+      "title": "The Price Is Right (Sax Version)",
+      "version": "smwc-41744-1777997568",
+      "upstream_time": 1777997568,
+      "download_url": "https://dl.smwcentral.net/41744/price-is-right.zip",
+      "filename": "price-is-right.zip",
+      "size": 48628,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

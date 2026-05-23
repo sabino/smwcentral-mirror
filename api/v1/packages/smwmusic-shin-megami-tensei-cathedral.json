@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-shin-megami-tensei-cathedral",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17211,
+  "title": "Shin Megami Tensei - Cathedral",
+  "authors": [
+    "Eli Moskowitz"
+  ],
+  "tags": [
+    "custcene",
+    "dark",
+    "final",
+    "industrial",
+    "overworld",
+    "ruins",
+    "tense"
+  ],
+  "description": "Short song from Shin Megami Tensei. Could be used for cutscenes or final overworld.",
+  "latest_version": "smwc-17211-1520151364",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17211,
+      "title": "Shin Megami Tensei - Cathedral",
+      "version": "smwc-17211-1520151364",
+      "upstream_time": 1520151364,
+      "download_url": "https://dl.smwcentral.net/17211/Cathedral.zip",
+      "filename": "Cathedral.zip",
+      "size": 46025,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

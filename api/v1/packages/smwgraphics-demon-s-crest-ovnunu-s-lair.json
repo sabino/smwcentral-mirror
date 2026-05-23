@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-demon-s-crest-ovnunu-s-lair",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 2044,
+  "title": "Demon's Crest - Ovnunu's Lair",
+  "authors": [
+    "Hadron"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "needs remoderation"
+  ],
+  "description": "<a href=\"http://img88.imageshack.us/img88/1267/picturebj.png\" rel=\"nofollow\">Level editor screenshot</a><br>\r\nNumber of ExGFX files: 3<br>\r\nUsed slots: BG1,FG3,BG2<br>\r\nMap16 page number: 7, 48<br>\r\nSample level: 2D<br>\r\nNumber of used palette rows: 5<br>\r\nPalette numbers: 2,3,4,5,7<br>\r\n<br>\r\nA great cave rip for scary and abandoned cave levels. However, it uses a lot of palettes. It's the full rip of the first area.<br>\r\n<br>\r\nNOTE: Don't forget to set the FG/BG index to 3 (Underground 1, otherwise the ceiling slopes won't work properly! <br>\r\n<br>\r\n<br>\r\nCredit would be cool. Thanks for downloading. ",
+  "latest_version": "smwc-2044-1424104770",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 2044,
+      "title": "Demon's Crest - Ovnunu's Lair",
+      "version": "smwc-2044-1424104770",
+      "upstream_time": 1424104770,
+      "download_url": "https://dl.smwcentral.net/2044/Background%3BForeground.zip",
+      "filename": "Background%3BForeground.zip",
+      "size": 75397,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

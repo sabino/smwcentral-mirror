@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-new-super-mario-bros-loves-me",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20583,
+  "title": "New Super Mario Bros. - Loves Me...",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "night",
+    "overworld",
+    "water"
+  ],
+  "description": "Dreamy music for the hackers in the back. Could do well with a daring cutscene too!",
+  "latest_version": "smwc-20583-1562905319",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20583,
+      "title": "New Super Mario Bros. - Loves Me...",
+      "version": "smwc-20583-1562905319",
+      "upstream_time": 1562905319,
+      "download_url": "https://dl.smwcentral.net/20583/Loves%20Me.zip",
+      "filename": "Loves Me.zip",
+      "size": 37597,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

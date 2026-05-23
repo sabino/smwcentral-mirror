@@ -1,0 +1,40 @@
+{
+  "name": "uberasm-basic-numerical-air-meter-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41011,
+  "title": "Basic Numerical Air Meter V1.1",
+  "authors": [
+    "Sonikku",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "air",
+    "air meter",
+    "layer 3",
+    "lorom",
+    "numerical",
+    "sa-1",
+    "status bar",
+    "water"
+  ],
+  "description": "This simple piece of code places a numerical air meter on the status bar, effectively replacing the stars counter (protip: change the star graphics to a bubble or something for a better impact).<br>\r\n<br>\r\nQuite customizable, and SA-1 hybrid.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where pausing on the frame the meter updates will cause it to update every frame. You'd also softlock if this happened while in water.<br>\r\n- Created a define that does the effect described in the comments for reversing the air meter.<br>\r\n- Made it so the air meter tile is initialized in init so it displays during the fade in instead of popping in right after.<br>\r\n- Made a few minor code optimizations.",
+  "latest_version": "smwc-41011-1763931254",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41011,
+      "title": "Basic Numerical Air Meter V1.1",
+      "version": "smwc-41011-1763931254",
+      "upstream_time": 1763931254,
+      "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
+      "filename": "AirMeter.zip",
+      "size": 980,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

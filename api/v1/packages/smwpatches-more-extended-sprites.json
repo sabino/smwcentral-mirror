@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-more-extended-sprites",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 33698,
+  "title": "More Extended Sprites",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "extended sprites",
+    "minor sprites",
+    "oam",
+    "sa-1",
+    "thunder"
+  ],
+  "description": "Up to 16 extended sprites, excluding fireballs, can coexist in the screen.<br>\r\nIf minimalist status bars are used or the item box is disabled, up to 18 items can be served.<br>\r\nLava splash are used as Minor Sprite 04 (same as Flame from Podoboo), and<br>\r\nThe spin-jump star is used as minor sprite 09 (overwrites the address of the note that moves to the left). (Extended sprites 07 and 10 will be erased.)<br>\r\n(Notes that move to the left can be used by using minor sprite 08 and setting $7820,x to $01 or higher. If it is $00, it will move to the right.)<br>\r\n<br>\r\n<b><span style=\"color: #ffff00;\">Routine to spawn spin jump stars. : JSL $07FC3B|!bank</span></b><br>\r\n<b><span style=\"color: #ffff00;\">Routine to spawn Lava drops. : JSL $028528|!bank</span></b><br>\r\n<br>\r\nBubbles in water will disappear in a certain amount of time without touching the ceiling or the air.<br>\r\n<br>\r\nIn the original, the Boo Stream row is also used as a minor sprite, so I recommend using it with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=26854\">this</a> one.<br>\r\nTo insert a sprite in PIXI, download <a href=\"https://www.atarismwc.com/pixi_releases/pixi.zip\" rel=\"nofollow\">here</a> one, copy the contents of the included \"pixi\" folder into it, and overwrite it.<br>\r\n<br>\r\n<b><span style=\"color: #ffff00;\">This patch is for SA-1ROM only, and cannot be used for LoROM.</span></b><br>\r\n<br>\r\n<b><span style=\"color: #ffff00;\">Some of the extended sprite usage RAM will be changed.<br>\r\nThe OAM index used for score sprites and the OAM index used for bounce sprites will be changed.</span></b><br>\r\n<br>\r\n<b><span style=\"color: #ffff00;\">Please save the level in Lunar Magic at least once before applying this patch.</span></b><br>\r\n<br>\r\nTo make your resources compatible with this patch, you need to map them to the extended sprite usage RAM using the supplied Converter and add this code.<br>\r\nIt is necessary to manually replace \"LD? #$07\" to \"LD?.b #!ExSprSize\" and \"LD? #$09\" to \"LD?.b #!FireballSprSize\" in the extended sprite index.<br>\r\n<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\t!More_ExSprite = 0\r\n\t!ExSprSize = $07\r\nif read2($029B39) == $0000\r\n\t!More_ExSprite = 1\r\n\t!ExSprSize = read01(00FAD5)\r\nendif\r\n\t!FireballSprSize = !ExSprSize+2\r\n\r\nmacro define_ram_exsp(name, name2, exsp, exsp_more)\r\nif !More_ExSprite == 0\r\n    !&lt;name&gt; = &lt;exsp&gt;\r\nelse\r\n    !&lt;name&gt; = &lt;exsp_more&gt;\r\nendif\r\n    !&lt;name2&gt; = !&lt;name&gt;\r\nendmacro\r\n\r\n%define_ram_exsp(ex_sprite_num, \"170B\", $170B|!addr, $770B)\r\n%define_ram_exsp(ex_sprite_y_low, \"1715\", $1715|!addr, $3426)\r\n%define_ram_exsp(ex_sprite_x_low, \"171F\", $171F|!addr, $343A)\r\n%define_ram_exsp(ex_sprite_y_high, \"1729\", $1729|!addr, $771F)\r\n%define_ram_exsp(ex_sprite_x_high, \"1733\", $1733|!addr, $7733)\r\n%define_ram_exsp(ex_sprite_speed_y, \"173D\", $173D|!addr, $344E)\r\n%define_ram_exsp(ex_sprite_speed_x, \"1747\", $1747|!addr, $3462)\r\n%define_ram_exsp(ex_sprite_speed_y_frac, \"1751\", $1751|!addr, $7747)\r\n%define_ram_exsp(ex_sprite_speed_x_frac, \"175B\", $175B|!addr, $775B)\r\n%define_ram_exsp(ex_sprite_inc, \"1765\", $1765|!addr, $3476)\r\n%define_ram_exsp(ex_sprite_misc, \"176F\", $176F|!addr, $776F)\r\n%define_ram_exsp(ex_sprite_layer, \"1779\", $1779|!addr, $348A)\r\n%define_ram_exsp(ex_sprite_table1, \"1765\", $1765|!addr, $3476)\r\n%define_ram_exsp(ex_sprite_table2, \"198C\", $198C|!addr, $798C)\r\n%define_ram_exsp(ex_sprite_table3, \"1996\", $1996|!addr, $349E)\r\n%define_ram_exsp(ex_sprite_table4, \"19A0\", $19A0|!addr, $79A0)\r\n%define_ram_exsp(ex_sprite_table5, \"19AA\", $19AA|!addr, $34B2)</pre></div><br>\r\n<br>\r\nUpdate 1<br>\r\n - Added documentation of OAM index after patching.<br>\r\n<br>\r\nUpdate 2<br>\r\n - Added the ability to fix the Sumo bro Lightning Flame bug.(Extended No Sprite Limits patch is no longer required.)<br>\r\n - Fixed a bug that prevented Yoshi's flame from animating.<br>\r\n- Edited sa1def.asm",
+  "latest_version": "smwc-33698-1711611891",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 33698,
+      "title": "More Extended Sprites",
+      "version": "smwc-33698-1711611891",
+      "upstream_time": 1711611891,
+      "download_url": "https://dl.smwcentral.net/33698/More%20Extended%20Sprites.zip",
+      "filename": "More Extended Sprites.zip",
+      "size": 22980,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

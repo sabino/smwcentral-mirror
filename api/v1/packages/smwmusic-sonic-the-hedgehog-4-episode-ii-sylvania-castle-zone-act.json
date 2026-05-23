@@ -1,0 +1,85 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-4-episode-ii-sylvania-castle-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31019,
+  "title": "Sonic the Hedgehog 4: Episode II - Sylvania Castle Zone Act 1",
+  "authors": [
+    "MANGOMILK"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "calm",
+    "castle",
+    "grassland",
+    "mountain",
+    "mysterious",
+    "night",
+    "overworld",
+    "ruins",
+    "sky",
+    "temple"
+  ],
+  "description": "good energetic first level music (even though the source game is a Mushroom Hill situation where it's more of the midpoint)<br>\r\n<br>\r\nedit 24 may 2022: fixed some inaccuracies in the drum track",
+  "latest_version": "smwc-31019-1661046347",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31019,
+      "title": "Sonic the Hedgehog 4: Episode II - Sylvania Castle Zone Act 1",
+      "version": "smwc-31019-1661046347",
+      "upstream_time": 1661046347,
+      "download_url": "https://dl.smwcentral.net/31019/sylvaniaCastleZone1.zip",
+      "filename": "sylvaniaCastleZone1.zip",
+      "size": 32802,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25759,
+      "title": "Sonic the Hedgehog 4: Episode II - Sylvania Castle Zone Act 3",
+      "version": "smwc-25759-1611877344",
+      "upstream_time": 1611877344,
+      "download_url": "https://dl.smwcentral.net/25759/sylvania%20castle%203.zip",
+      "filename": "sylvania castle 3.zip",
+      "size": 32597,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23043,
+      "title": "Sonic the Hedgehog 4: Episode II - Sylvania Castle Zone Act 2",
+      "version": "smwc-23043-1590710042",
+      "upstream_time": 1590710042,
+      "download_url": "https://dl.smwcentral.net/23043/Sylvania%20castle%20act%202.zip",
+      "filename": "Sylvania castle act 2.zip",
+      "size": 34630,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20084,
+      "title": "Sonic the Hedgehog 4: Episode II - Sylvania Castle Zone Act 3",
+      "version": "smwc-20084-1560020941",
+      "upstream_time": 1560020941,
+      "download_url": "https://dl.smwcentral.net/20084/Sylvania%20Castle%20Act%203.zip",
+      "filename": "Sylvania Castle Act 3.zip",
+      "size": 32722,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "smwsprites-lemmy-wendy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3776,
+  "title": "Lemmy/Wendy",
+  "authors": [
+    "dahnamics"
+  ],
+  "tags": [
+    "ball",
+    "boss",
+    "egg",
+    "koopa",
+    "koopaling",
+    "koopalings",
+    "koopas",
+    "lemmy",
+    "lorom",
+    "ring",
+    "sa-1",
+    "wendy"
+  ],
+  "description": "This boss will walk back and forth, occasionally spawning a projectile. Depending on the extra bit, it will behave like a custom Lemmy or a custom Wendy. By default, it takes 5 hits to kill. It can activate a switch in the middle of the fight.<br>\r\n<br>\r\nLemmy will either spawn a ball which will break on hitting a wall, or a ball which can be picked up and thrown at him to damage him.<br>\r\n<br>\r\nWendy will either spawn rings which will disappear on hitting a wall, or a rideable egg which can be picked up and thrown at her to damage her.<br>\r\n<br>\r\nMake sure to specify the sprite numbers of the balls, the ring, and the egg in lemmy_wendy.asm! Check the ASM files for customization options.",
+  "latest_version": "smwc-3776-1339156945",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3776,
+      "title": "Lemmy/Wendy",
+      "version": "smwc-3776-1339156945",
+      "upstream_time": 1339156945,
+      "download_url": "https://dl.smwcentral.net/3776/Lemmy%20Wendy.zip",
+      "filename": "Lemmy Wendy.zip",
+      "size": 19965,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 3286,
+      "title": "Lemmy + Wendy",
+      "version": "smwc-3286-1289926874",
+      "upstream_time": 1289926874,
+      "download_url": "https://dl.smwcentral.net/3286/Lemmy%2BWendy.zip",
+      "filename": "Lemmy+Wendy.zip",
+      "size": 5536,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

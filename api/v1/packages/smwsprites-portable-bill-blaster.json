@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-portable-bill-blaster",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3706,
+  "title": "Portable Bill Blaster",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "bullet",
+    "lorom",
+    "pacifist",
+    "shooter"
+  ],
+  "description": "This is a bullet bill blaster you can carry. Once you grab the blaster, it'll start shooting projectiles straight-forward which can hurt enemies and interact with blocks. Useful as a pseudo-powerup! More information in readme and portableblaster.asm<br>\r\n<br>\r\nYou can see a demonstration of this sprite <a href=\"http://www.youtube.com/watch?v=pZj8cMICk4Q\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-3706-1299524814",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3706,
+      "title": "Portable Bill Blaster",
+      "version": "smwc-3706-1299524814",
+      "upstream_time": 1299524814,
+      "download_url": "https://dl.smwcentral.net/3706/%5BSprite%5D%20Portable%20Bill%20Blaster.zip",
+      "filename": "%5BSprite%5D Portable Bill Blaster.zip",
+      "size": 3449,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

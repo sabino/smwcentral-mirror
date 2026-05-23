@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-sonic-frontiers-break-through-it-all",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34334,
+  "title": "Sonic Frontiers - Break Through it All",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "<img src=\"https://cdn.discordapp.com/attachments/486603758243938306/1128387147670499378/super-sonic-wyvern.gif\" alt=\"\"><br>\r\n<br>\r\nThe song that plays for one of the Titan fights in Sonic Frontiers, A.K.A widely considered by many to be the hypest fuckin' thing in that game, and for damn good reason.<br>\r\n<br>\r\nAnyway, for me at least, this seems to be best suited to boss and final boss fights almost exclusively, so I dunno whether or not it can fit in a level, but regardless I've added a looped and non-looped version to fit whatever needs you desire... well, technically you'll have to manually edit the .txt file for that to work (change the ? in the text file to / and vice-versa basically), but I just didn't want to clutter up the .zip file with too much shit this time around so uh, yeah.",
+  "latest_version": "smwc-34334-1698291979",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34334,
+      "title": "Sonic Frontiers - Break Through it All",
+      "version": "smwc-34334-1698291979",
+      "upstream_time": 1698291979,
+      "download_url": "https://dl.smwcentral.net/34334/Break%20Through%20It%20All.zip",
+      "filename": "Break Through It All.zip",
+      "size": 223660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

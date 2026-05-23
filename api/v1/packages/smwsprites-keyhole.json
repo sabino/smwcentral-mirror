@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-keyhole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3480,
+  "title": "Keyhole",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "keyhole",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "The keyhole from SMW, disassembled and commented.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3480-1251633323",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3480,
+      "title": "Keyhole",
+      "version": "smwc-3480-1251633323",
+      "upstream_time": 1251633323,
+      "download_url": "https://dl.smwcentral.net/3480/KeyholeDis.zip",
+      "filename": "KeyholeDis.zip",
+      "size": 2414,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

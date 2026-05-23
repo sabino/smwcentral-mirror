@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-demon-of-laplace-watery-grave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8363,
+  "title": "Demon of Laplace - Watery Grave",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "water"
+  ],
+  "description": "A short song that might work in a graveyard or possibly a ghost ship. Not recommended for use in longer levels. This version is sampled.",
+  "latest_version": "smwc-8363-1359133348",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8363,
+      "title": "Demon of Laplace - Watery Grave",
+      "version": "smwc-8363-1359133348",
+      "upstream_time": 1359133348,
+      "download_url": "https://dl.smwcentral.net/8363/Watery%20Grave%20%28S%29.zip",
+      "filename": "Watery Grave (S).zip",
+      "size": 70945,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8361,
+      "title": "Demon of Laplace - Watery Grave",
+      "version": "smwc-8361-1359133133",
+      "upstream_time": 1359133133,
+      "download_url": "https://dl.smwcentral.net/8361/Watery%20Grave.zip",
+      "filename": "Watery Grave.zip",
+      "size": 60493,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-nazo-puyo-ruru-no-ruu-boss-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15874,
+  "title": "Super Nazo Puyo: Ruru no Ruu - Boss Theme",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final"
+  ],
+  "description": "Could fit bosses.",
+  "latest_version": "smwc-15874-1500511538",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15874,
+      "title": "Super Nazo Puyo: Ruru no Ruu - Boss Theme",
+      "version": "smwc-15874-1500511538",
+      "upstream_time": 1500511538,
+      "download_url": "https://dl.smwcentral.net/15874/Nazo%20Puyo%20Boss.zip",
+      "filename": "Nazo Puyo Boss.zip",
+      "size": 35252,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

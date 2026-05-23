@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-arcana-second-armageddon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23003,
+  "title": "Arcana - Second Armageddon",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "Could fit a final boss theme.",
+  "latest_version": "smwc-23003-1590635008",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23003,
+      "title": "Arcana - Second Armageddon",
+      "version": "smwc-23003-1590635008",
+      "upstream_time": 1590635008,
+      "download_url": "https://dl.smwcentral.net/23003/Arcana%20-%20Second%20Armageddon.zip",
+      "filename": "Arcana - Second Armageddon.zip",
+      "size": 52542,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

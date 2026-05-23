@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-super-metroid-mysterious-statue-chamber",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36756,
+  "title": "Super Metroid - Mysterious Statue Chamber",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "dark",
+    "environmental",
+    "ruins",
+    "sewer",
+    "tense",
+    "water"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36756-1706163227",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36756,
+      "title": "Super Metroid - Mysterious Statue Chamber",
+      "version": "smwc-36756-1706163227",
+      "upstream_time": 1706163227,
+      "download_url": "https://dl.smwcentral.net/36756/96%20Mysterious%20Statue%20Chamber.zip",
+      "filename": "96 Mysterious Statue Chamber.zip",
+      "size": 205593,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

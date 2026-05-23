@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-battle-metal-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24186,
+  "title": "Shin Megami Tensei II - Battle (Metal Arrangement)",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "This is the battle theme from Shin Megami Tensei 2, requested by Celestial Seraph. This version is very intense, and could be used for epic boss fights or other action sequences.<br>\r\n<br>\r\nUpdate 2020-08-08: <br>\r\nlowered volume to a much more reasonable level<br>\r\noptimized the crap out of this to knock down the insert size, which always bothered me about this port tbh",
+  "latest_version": "smwc-24186-1598113685",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24186,
+      "title": "Shin Megami Tensei II - Battle (Metal Arrangement)",
+      "version": "smwc-24186-1598113685",
+      "upstream_time": 1598113685,
+      "download_url": "https://dl.smwcentral.net/24186/smt2battle.zip",
+      "filename": "smt2battle.zip",
+      "size": 65315,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

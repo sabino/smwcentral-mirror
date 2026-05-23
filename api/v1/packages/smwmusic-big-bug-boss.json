@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-big-bug-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28989,
+  "title": "Big Bug Boss",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Dizzy fighting music, lightly inspired by Alcahest's music. Made for the hackjam entry \"lost mario\".",
+  "latest_version": "smwc-28989-1642482587",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28989,
+      "title": "Big Bug Boss",
+      "version": "smwc-28989-1642482587",
+      "upstream_time": 1642482587,
+      "download_url": "https://dl.smwcentral.net/28989/Big%20Bug%20Boss%20by%20brickblock369.zip",
+      "filename": "Big Bug Boss by brickblock369.zip",
+      "size": 87319,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

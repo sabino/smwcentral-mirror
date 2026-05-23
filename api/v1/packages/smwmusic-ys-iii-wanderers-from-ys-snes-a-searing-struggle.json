@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ys-iii-wanderers-from-ys-snes-a-searing-struggle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8828,
+  "title": "Ys III: Wanderers from Ys (SNES) - A Searing Struggle",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "final",
+    "fire"
+  ],
+  "description": "An upbeat song that would work well in a cave, volcano, etc.",
+  "latest_version": "smwc-8828-1412474408",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8828,
+      "title": "Ys III: Wanderers from Ys (SNES) - A Searing Struggle",
+      "version": "smwc-8828-1412474408",
+      "upstream_time": 1412474408,
+      "download_url": "https://dl.smwcentral.net/8828/searing_struggle.zip",
+      "filename": "searing_struggle.zip",
+      "size": 34845,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

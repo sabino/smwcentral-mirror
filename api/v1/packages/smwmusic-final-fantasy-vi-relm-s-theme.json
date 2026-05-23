@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-final-fantasy-vi-relm-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27440,
+  "title": "Final Fantasy VI - Relm's Theme",
+  "authors": [
+    "K.T.B."
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cutscene",
+    "sad"
+  ],
+  "description": "A calm and melancholy character theme from FF6. Composed by Nobuo Uematsu.<br>\r\n<br>\r\nMay fit in cutscenes or peaceful areas.",
+  "latest_version": "smwc-27440-1626898020",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27440,
+      "title": "Final Fantasy VI - Relm's Theme",
+      "version": "smwc-27440-1626898020",
+      "upstream_time": 1626898020,
+      "download_url": "https://dl.smwcentral.net/27440/KTB_ff6relm.zip",
+      "filename": "KTB_ff6relm.zip",
+      "size": 56280,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8420,
+      "title": "Final Fantasy VI - Relm's Theme",
+      "version": "smwc-8420-1367204272",
+      "upstream_time": 1367204272,
+      "download_url": "https://dl.smwcentral.net/8420/relm.zip",
+      "filename": "relm.zip",
+      "size": 65236,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

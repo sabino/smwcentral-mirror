@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-on-my-way",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35593,
+  "title": "On My Way",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "bonus",
+    "calm",
+    "credits",
+    "misc",
+    "night",
+    "sad",
+    "title"
+  ],
+  "description": "A vaporwave version of Mariya Takeuchi - Plastic Love.<br>\r\n<br>\r\nMod note: For SMW Hacking usage, you are only supposed to use <code>OnMyWay-optimized.txt</code>",
+  "latest_version": "smwc-35593-1702381935",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35593,
+      "title": "On My Way",
+      "version": "smwc-35593-1702381935",
+      "upstream_time": 1702381935,
+      "download_url": "https://dl.smwcentral.net/35593/OnMyWay%2020231212.zip",
+      "filename": "OnMyWay 20231212.zip",
+      "size": 213359,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

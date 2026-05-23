@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-the-7th-saga-frozen-depths-of-the-earth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37087,
+  "title": "The 7th Saga - Frozen Depths of the Earth",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "ice",
+    "mountain",
+    "water"
+  ],
+  "description": "One of the dungeon themes from The 7th Saga. Great for caves, icy places, and tense situations.",
+  "latest_version": "smwc-37087-1710352743",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37087,
+      "title": "The 7th Saga - Frozen Depths of the Earth",
+      "version": "smwc-37087-1710352743",
+      "upstream_time": 1710352743,
+      "download_url": "https://dl.smwcentral.net/37087/7S%20-%20Frozen%20Depths%20of%20the%20Earth.zip",
+      "filename": "7S - Frozen Depths of the Earth.zip",
+      "size": 31427,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37086,
+      "title": "The 7th Saga - Frozen Depths of the Earth",
+      "version": "smwc-37086-1710352656",
+      "upstream_time": 1710352656,
+      "download_url": "https://dl.smwcentral.net/37086/7thSaga%20-%20Frozen%20Depths%20of%20the%20Earth.zip",
+      "filename": "7thSaga - Frozen Depths of the Earth.zip",
+      "size": 48655,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

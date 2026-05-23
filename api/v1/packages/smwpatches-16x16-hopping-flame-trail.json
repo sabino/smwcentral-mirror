@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-16x16-hopping-flame-trail",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20812,
+  "title": "16x16 Hopping Flame Trail",
+  "authors": [
+    "Hamtaro126"
+  ],
+  "tags": [
+    "hopping flame",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch is inspired by SMB3's Hopping Flames, which are 8x16 for the flame's tail, so I wanted to do something to increase the size of the flame remains left by the Hopping Flame.<br>\r\n<br>\r\nThe hijack does emulation of these 8x16 sprites using 16x16 to do the job easily!<br>\r\n<br>\r\nGraphics included, credit not needed, Asar (and <a href=\"http://www.smwcentral.net/?p=viewthread&t=67718\">STEAR</a> unless you want garbled graphics) is required!",
+  "latest_version": "smwc-20812-1570496393",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20812,
+      "title": "16x16 Hopping Flame Trail",
+      "version": "smwc-20812-1570496393",
+      "upstream_time": 1570496393,
+      "download_url": "https://dl.smwcentral.net/20812/HoppingFlameHack%20%2B%20SA1.zip",
+      "filename": "HoppingFlameHack + SA1.zip",
+      "size": 2783,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-64-the-crystal-shards-rock-star-kirby-s-dream-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26626,
+  "title": "Kirby 64: The Crystal Shards - Rock Star (Kirby's Dream Land 3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "mountain"
+  ],
+  "description": "I made 'Rock Star from Kirby 64' into KDL3 style.",
+  "latest_version": "smwc-26626-1619290226",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26626,
+      "title": "Kirby 64: The Crystal Shards - Rock Star (Kirby's Dream Land 3 Style)",
+      "version": "smwc-26626-1619290226",
+      "upstream_time": 1619290226,
+      "download_url": "https://dl.smwcentral.net/26626/K64RockStarKDL3.zip",
+      "filename": "K64RockStarKDL3.zip",
+      "size": 42518,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

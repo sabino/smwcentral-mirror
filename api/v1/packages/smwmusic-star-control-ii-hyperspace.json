@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-star-control-ii-hyperspace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29061,
+  "title": "Star Control II - Hyperspace",
+  "authors": [
+    "drspork"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "sky",
+    "space"
+  ],
+  "description": "The hyperspace theme from Star Control II by Riku Nuottajärvi.  Converted to use native SMW instruments.  Could be good for outdoor/sky stages with open space.",
+  "latest_version": "smwc-29061-1643683024",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29061,
+      "title": "Star Control II - Hyperspace",
+      "version": "smwc-29061-1643683024",
+      "upstream_time": 1643683024,
+      "download_url": "https://dl.smwcentral.net/29061/hyperspace.zip",
+      "filename": "hyperspace.zip",
+      "size": 32348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

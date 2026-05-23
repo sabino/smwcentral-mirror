@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-mario-bros-underwater",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40652,
+  "title": "Super Mario Bros. - Underwater",
+  "authors": [
+    "E-man38"
+  ],
+  "tags": [
+    "calm",
+    "carnival",
+    "night",
+    "retro",
+    "title",
+    "water"
+  ],
+  "description": "The classic waltz that accompanies water levels in Super Mario Bros. for the NES. Fitting for, well, you know. 🤭",
+  "latest_version": "smwc-40652-1763577407",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40652,
+      "title": "Super Mario Bros. - Underwater",
+      "version": "smwc-40652-1763577407",
+      "upstream_time": 1763577407,
+      "download_url": "https://dl.smwcentral.net/40652/underwater%20%5Bu%5D.zip",
+      "filename": "underwater %5Bu%5D.zip",
+      "size": 31834,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwsprites-star-power-station-add-on",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3368,
+  "title": "Star Power Station (Add-on)",
+  "authors": [
+    "Maxx"
+  ],
+  "tags": [
+    "lorom"
+  ],
+  "description": "This sprite looks like a tan star. When Mario passes over it, his \"star power\" (displayed on the status bar on the \"TIME\" tiles) increases by amount you set (usually 5). When he presses up, Mario will have star power activated for as much time as he has on the star power meter, which then resets itself.<br>\r\nThis add-on fixes a error where the sprite would not insert, and lets you now select what button activates star power.",
+  "latest_version": "smwc-3368-1240800094",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3368,
+      "title": "Star Power Station (Add-on)",
+      "version": "smwc-3368-1240800094",
+      "upstream_time": 1240800094,
+      "download_url": "https://dl.smwcentral.net/3368/StarPowerStation.zip",
+      "filename": "StarPowerStation.zip",
+      "size": 1521,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-bowling-goonie",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16770,
+  "title": "Bowling Goonie",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "bird",
+    "dynamic",
+    "goonie",
+    "lorom",
+    "sa-1",
+    "yoshi island"
+  ],
+  "description": "The fat rolling bird from Yoshi's Island. Note that this sprite doesn't work well with slopes.<br>\r\n<br>\r\nOriginally from smkdan's Yoshi's Island dynamic sprite pack.",
+  "latest_version": "smwc-16770-1513175651",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16770,
+      "title": "Bowling Goonie",
+      "version": "smwc-16770-1513175651",
+      "upstream_time": 1513175651,
+      "download_url": "https://dl.smwcentral.net/16770/Bowling%20Goonie.zip",
+      "filename": "Bowling Goonie.zip",
+      "size": 9850,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-kirby-squeak-squad-menu-lobby-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8151,
+  "title": "Kirby Squeak Squad - Menu/Lobby Theme",
+  "authors": [
+    "Sinister Pixel"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "Here is the calming file select theme from said game suitable for rest areas, menus, and submaps.",
+  "latest_version": "smwc-8151-1405801649",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8151,
+      "title": "Kirby Squeak Squad - Menu/Lobby Theme",
+      "version": "smwc-8151-1405801649",
+      "upstream_time": 1405801649,
+      "download_url": "https://dl.smwcentral.net/8151/KirbyMenu.zip",
+      "filename": "KirbyMenu.zip",
+      "size": 35723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

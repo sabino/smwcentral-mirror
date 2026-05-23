@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-slope-edge-fix-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 19026,
+  "title": "Slope Edge Fix Block",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "fix",
+    "lorom",
+    "sa-1",
+    "slope"
+  ],
+  "description": "This block allows you to have an instant dropoff from a slope, rather than having to place a one-tile ledge before the dropoff.<br>\r\n<br>\r\nSee readme.txt for more info.<br>\r\n<br>\r\nThis block does not require the reserve.ips that is included with BMF's non-BTSD version.<br>\r\n<br>\r\nNow contains intersection tiles for grassland levels.<br>\r\n<br>\r\n(Shiny Ninetales): Minor update, now it is SA-1 hybrid and contains tiles for underground and rope levels.",
+  "latest_version": "smwc-19026-1548713056",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 19026,
+      "title": "Slope Edge Fix Block",
+      "version": "smwc-19026-1548713056",
+      "upstream_time": 1548713056,
+      "download_url": "https://dl.smwcentral.net/19026/slopefix.zip",
+      "filename": "slopefix.zip",
+      "size": 1550,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

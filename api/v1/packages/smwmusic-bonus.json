@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bonus",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8059,
+  "title": "BONUS!",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "The song that was supposed to be played in the bonus rooms in Mario's Time Quest. Would suit a bonus area, a cutscene, or maybe even a submap.",
+  "latest_version": "smwc-8059-1319820060",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8059,
+      "title": "BONUS!",
+      "version": "smwc-8059-1319820060",
+      "upstream_time": 1319820060,
+      "download_url": "https://dl.smwcentral.net/8059/BONUS%21.zip",
+      "filename": "BONUS%21.zip",
+      "size": 64806,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lollypop-amiga-underground",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32901,
+  "title": "Lollypop (Amiga) - Underground",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "Underground from Lollypop on the Amiga. Useful for dark environments, like caves or ghost houses.<br>\r\n<br>\r\nThis port was based off of the Amiga version, but I decided to spruce the port up a bit by applying some SNES echo and giving the delayed voices their own channels.",
+  "latest_version": "smwc-32901-1680084768",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32901,
+      "title": "Lollypop (Amiga) - Underground",
+      "version": "smwc-32901-1680084768",
+      "upstream_time": 1680084768,
+      "download_url": "https://dl.smwcentral.net/32901/Lollypop%20%28Amiga%29%20-%20Underground.zip",
+      "filename": "Lollypop (Amiga) - Underground.zip",
+      "size": 67315,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "smwmusic-super-mario-kart-donut-plains",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33301,
+  "title": "Super Mario Kart - Donut Plains",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "mountain"
+  ],
+  "description": "There is a define in the document that can be changed to get the \"Final Lap\" version of the song.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>",
+  "latest_version": "smwc-33301-1685563567",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33301,
+      "title": "Super Mario Kart - Donut Plains",
+      "version": "smwc-33301-1685563567",
+      "upstream_time": 1685563567,
+      "download_url": "https://dl.smwcentral.net/33301/Donut%20Plains.zip",
+      "filename": "Donut Plains.zip",
+      "size": 82488,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21324,
+      "title": "Super Mario Kart - Donut Plains",
+      "version": "smwc-21324-1571218966",
+      "upstream_time": 1571218966,
+      "download_url": "https://dl.smwcentral.net/21324/DonutPlains.zip",
+      "filename": "DonutPlains.zip",
+      "size": 33538,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8121,
+      "title": "Super Mario Kart - Donut Plains",
+      "version": "smwc-8121-1314610841",
+      "upstream_time": 1314610841,
+      "download_url": "https://dl.smwcentral.net/8121/DonutPlains%28Samples%29.zip",
+      "filename": "DonutPlains(Samples).zip",
+      "size": 45073,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

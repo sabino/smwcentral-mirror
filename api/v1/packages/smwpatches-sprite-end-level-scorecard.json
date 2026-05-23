@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-sprite-end-level-scorecard",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41234,
+  "title": "Sprite End Level Scorecard",
+  "authors": [
+    "ASMagician Maks"
+  ],
+  "tags": [
+    "dynamic",
+    "goal",
+    "lorom",
+    "oam",
+    "sa-1",
+    "tile"
+  ],
+  "description": "This patch allows you to replace the layer 3 scorecard with one drawn using sprite tiles, which resolves conflicts with layer 3 briefly disappearing when you clear a level.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nMod Note: Doesn't work in the mode 7 boss rooms. Enable the original layer 3 scorecard for those levels specifically.",
+  "latest_version": "smwc-41234-1765743079",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41234,
+      "title": "Sprite End Level Scorecard",
+      "version": "smwc-41234-1765743079",
+      "upstream_time": 1765743079,
+      "download_url": "https://dl.smwcentral.net/41234/oamscorecard.zip",
+      "filename": "oamscorecard.zip",
+      "size": 5982,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

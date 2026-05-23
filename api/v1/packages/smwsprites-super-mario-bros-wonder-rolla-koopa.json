@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-super-mario-bros-wonder-rolla-koopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40994,
+  "title": "Super Mario Bros. Wonder - Rolla Koopa",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "koopa",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Rolla Koopa from Super Mario Bros. Wonder. It acts like a normal koopa that moves fast and jumps off inclines.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Blizzard Buffalo\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Blizzard Buffalo</a></span>.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"deltomX3\"><a href=\"/?p=profile&amp;id=60074\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">deltomX3</a></span>. Original sprite sheet can be found <a href=\"https://mfgg.net/index.php?act=resdb&param=02&c=1&id=40147\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-40994-1766602236",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40994,
+      "title": "Super Mario Bros. Wonder - Rolla Koopa",
+      "version": "smwc-40994-1766602236",
+      "upstream_time": 1766602236,
+      "download_url": "https://dl.smwcentral.net/40994/Rolla%20Koopa.zip",
+      "filename": "Rolla Koopa.zip",
+      "size": 24022,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

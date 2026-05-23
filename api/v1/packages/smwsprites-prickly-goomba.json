@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-prickly-goomba",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20111,
+  "title": "Prickly Goomba",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This otherwise static sprite will spawn a sprite when hit with either a fireball or the cape - this based on the extra byte. The sprite is configurable in the ASM file.",
+  "latest_version": "smwc-20111-1559442887",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20111,
+      "title": "Prickly Goomba",
+      "version": "smwc-20111-1559442887",
+      "upstream_time": 1559442887,
+      "download_url": "https://dl.smwcentral.net/20111/Prickly%20Goomba.zip",
+      "filename": "Prickly Goomba.zip",
+      "size": 2292,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

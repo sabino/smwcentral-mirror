@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-encounter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40675,
+  "title": "Shin Megami Tensei II - Encounter",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene"
+  ],
+  "description": "A short, tense song that would be fitting before a boss.<br>\r\n<br>\r\n9/24/25 - Updated this port to sound more accurate",
+  "latest_version": "smwc-40675-1760669776",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40675,
+      "title": "Shin Megami Tensei II - Encounter",
+      "version": "smwc-40675-1760669776",
+      "upstream_time": 1760669776,
+      "download_url": "https://dl.smwcentral.net/40675/SMT2%20Encounter.zip",
+      "filename": "SMT2 Encounter.zip",
+      "size": 31219,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37262,
+      "title": "Shin Megami Tensei II - Encounter",
+      "version": "smwc-37262-1713418544",
+      "upstream_time": 1713418544,
+      "download_url": "https://dl.smwcentral.net/37262/SMT2%20Encounter.zip",
+      "filename": "SMT2 Encounter.zip",
+      "size": 42339,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

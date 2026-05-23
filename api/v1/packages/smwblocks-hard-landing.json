@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-hard-landing",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3870,
+  "title": "Hard Landing",
+  "authors": [
+    "Klazen"
+  ],
+  "tags": [
+    "fall",
+    "hard",
+    "lorom",
+    "stun"
+  ],
+  "description": "When the player lands on this block, the screen shakes and he gets stunned for a moment. Useful for emphasizing long falls.<br>\r\nCode allows for one specific Map16 block per level, as the code runs only once. Uses one byte of free RAM.",
+  "latest_version": "smwc-3870-1409869305",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3870,
+      "title": "Hard Landing",
+      "version": "smwc-3870-1409869305",
+      "upstream_time": 1409869305,
+      "download_url": "https://dl.smwcentral.net/3870/HardLanding.zip",
+      "filename": "HardLanding.zip",
+      "size": 1043,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

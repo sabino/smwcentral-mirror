@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-2-casino-night-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23641,
+  "title": "Sonic the Hedgehog 2 - Casino Night Zone (2-Player)",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "carnival",
+    "night",
+    "urban"
+  ],
+  "description": "The poppy second 2-player stage from Sonic the Hedgehog 2. Good for levels that allow two players to gamble simultaneously, on the same screen.",
+  "latest_version": "smwc-23641-1594229386",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23641,
+      "title": "Sonic the Hedgehog 2 - Casino Night Zone (2-Player)",
+      "version": "smwc-23641-1594229386",
+      "upstream_time": 1594229386,
+      "download_url": "https://dl.smwcentral.net/23641/casino%20night%202p.zip",
+      "filename": "casino night 2p.zip",
+      "size": 32434,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8604,
+      "title": "Sonic the Hedgehog 2 - Casino Night Zone (2-Player)",
+      "version": "smwc-8604-1404339181",
+      "upstream_time": 1404339181,
+      "download_url": "https://dl.smwcentral.net/8604/Casino%20Night%20Zone%202P.zip",
+      "filename": "Casino Night Zone 2P.zip",
+      "size": 66433,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

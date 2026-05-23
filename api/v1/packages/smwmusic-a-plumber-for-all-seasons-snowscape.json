@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-a-plumber-for-all-seasons-snowscape",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27920,
+  "title": "A Plumber For All Seasons - Snowscape",
+  "authors": [
+    "Kevin",
+    "wye"
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "overworld",
+    "snow"
+  ],
+  "description": "Short piece fitting for snowy/icy overworlds.",
+  "latest_version": "smwc-27920-1631598840",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27920,
+      "title": "A Plumber For All Seasons - Snowscape",
+      "version": "smwc-27920-1631598840",
+      "upstream_time": 1631598840,
+      "download_url": "https://dl.smwcentral.net/27920/APFAS%20-%20Snowscape.zip",
+      "filename": "APFAS - Snowscape.zip",
+      "size": 39657,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

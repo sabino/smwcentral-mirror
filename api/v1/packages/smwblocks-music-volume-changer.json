@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-music-volume-changer",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 17295,
+  "title": "Music Volume Changer",
+  "authors": [
+    "AuraDee"
+  ],
+  "tags": [
+    "lorom",
+    "music",
+    "sa-1",
+    "spc700"
+  ],
+  "description": "A block that, when interacted with, will allow the player to increase the background music's volume by pressing up, or decrease it by pressing down.<br>\r\n<br>\r\nAddmusicK is needed to insert two included sound effects. This block will not work without them!<br>\r\nSee the included readme for more details.",
+  "latest_version": "smwc-17295-1522169614",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 17295,
+      "title": "Music Volume Changer",
+      "version": "smwc-17295-1522169614",
+      "upstream_time": 1522169614,
+      "download_url": "https://dl.smwcentral.net/17295/MusicVolumeChanger.zip",
+      "filename": "MusicVolumeChanger.zip",
+      "size": 4042,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

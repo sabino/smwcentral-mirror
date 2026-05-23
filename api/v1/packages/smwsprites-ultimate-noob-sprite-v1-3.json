@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-ultimate-noob-sprite-v1-3",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20307,
+  "title": "Ultimate Noob Sprite v1.3.4",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "boss",
+    "customizable",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is the infamous \"Ultimate Noob Boss\" made by Iceguy. It is now back with a new name that implies it can be used for more than boss fights. It has quite a few attacks and is very customizable. Read the comments in the .asm file for details.",
+  "latest_version": "smwc-20307-1561683115",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20307,
+      "title": "Ultimate Noob Sprite v1.3.4",
+      "version": "smwc-20307-1561683115",
+      "upstream_time": 1561683115,
+      "download_url": "https://dl.smwcentral.net/20307/NoobiestSprite-v1.3.4.zip",
+      "filename": "NoobiestSprite-v1.3.4.zip",
+      "size": 24991,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

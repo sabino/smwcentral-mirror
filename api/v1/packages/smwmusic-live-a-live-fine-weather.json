@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-live-a-live-fine-weather",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30100,
+  "title": "Live A Live - Fine Weather",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "credits",
+    "grassland",
+    "mountain",
+    "overworld",
+    "sky",
+    "title",
+    "town"
+  ],
+  "description": "A very relaxing, happy song.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+  "latest_version": "smwc-30100-1648219949",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30100,
+      "title": "Live A Live - Fine Weather",
+      "version": "smwc-30100-1648219949",
+      "upstream_time": 1648219949,
+      "download_url": "https://dl.smwcentral.net/30100/NiceWeather.zip",
+      "filename": "NiceWeather.zip",
+      "size": 57939,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16090,
+      "title": "Live A Live - Fine Weather",
+      "version": "smwc-16090-1503723688",
+      "upstream_time": 1503723688,
+      "download_url": "https://dl.smwcentral.net/16090/Live%20A%20Live%20-%20Nice%20Weather%20Ain%27t%20it%21.zip",
+      "filename": "Live A Live - Nice Weather Ain%27t it%21.zip",
+      "size": 33910,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

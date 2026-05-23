@@ -1,0 +1,46 @@
+{
+  "name": "smwgraphics-mario-vs-donkey-kong",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30348,
+  "title": "Mario vs. Donkey Kong 2: March of The Minis - Peach's Castle",
+  "authors": [
+    "TheBourgyman"
+  ],
+  "tags": [
+    "bonus",
+    "castle",
+    "haunted",
+    "mechanical",
+    "needs remoderation"
+  ],
+  "description": "A nice, pastely rendition of Peach's Castle from the aforementioned game.<br>\r\n<br>\r\nWhile this retains the general feel and appearance of the original background, it has been heavily optimized: it fits in a single ExGFX file, and although it uses a lot of palettes slots, it doesn't overwrite anything crucial (unless you count the berries as being somewhat important). The only major downside to the optimization is loss of symmetry in the design, but I judged it being a worthy sacrifice.<br>\r\n<br>\r\nLooks best with an equally pastely foreground. See the sample level for an example.",
+  "latest_version": "smwc-30348-1649157778",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30348,
+      "title": "Mario vs. Donkey Kong 2: March of The Minis - Peach's Castle",
+      "version": "smwc-30348-1649157778",
+      "upstream_time": 1649157778,
+      "download_url": "https://dl.smwcentral.net/30348/mvsdk2%20peach%20castle.zip",
+      "filename": "mvsdk2 peach castle.zip",
+      "size": 4301,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2258,
+      "title": "Mario vs. Donkey Kong 2: March of the Minis - Spooky Attic",
+      "version": "smwc-2258-1416157497",
+      "upstream_time": 1416157497,
+      "download_url": "https://dl.smwcentral.net/2258/MariovsDIE.zip",
+      "filename": "MariovsDIE.zip",
+      "size": 2578,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

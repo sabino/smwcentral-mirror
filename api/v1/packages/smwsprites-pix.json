@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pix",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3356,
+  "title": "Pix",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "boss",
+    "kirby",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Five different-coloured crystal sprites that bounce around diagonally. Each crystal has two hit points (can be changed), and depending on its palette, can either get hurt by a Koopa shell that matches its own colour, or get hurt by any stunned sprite. Also includes a shooter that spawns random Koopa shells.",
+  "latest_version": "smwc-3356-1232594950",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3356,
+      "title": "Pix",
+      "version": "smwc-3356-1232594950",
+      "upstream_time": 1232594950,
+      "download_url": "https://dl.smwcentral.net/3356/Pix.zip",
+      "filename": "Pix.zip",
+      "size": 6879,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-dimension-of-r-verie",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30485,
+  "title": "Touhou Kaikidan ~ Mystic Square - Dimension of Rêverie",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "industrial",
+    "night",
+    "space",
+    "tense"
+  ],
+  "description": "夢想時空<br>\r\nStage 2 theme of Touhou Kaikidan<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-30485-1652146720",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30485,
+      "title": "Touhou Kaikidan ~ Mystic Square - Dimension of Rêverie",
+      "version": "smwc-30485-1652146720",
+      "upstream_time": 1652146720,
+      "download_url": "https://dl.smwcentral.net/30485/th5_04.zip",
+      "filename": "th5_04.zip",
+      "size": 32598,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15459,
+      "title": "Touhou Kaikidan ~ Mystic Square - Dimension of Rêverie",
+      "version": "smwc-15459-1493585525",
+      "upstream_time": 1493585525,
+      "download_url": "https://dl.smwcentral.net/15459/Dimension%20of%20Reverie.zip",
+      "filename": "Dimension of Reverie.zip",
+      "size": 33519,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

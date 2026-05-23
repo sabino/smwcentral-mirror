@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-alien-invasion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27048,
+  "title": "EarthBound - Alien Invasion 1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "environmental",
+    "industrial",
+    "tense"
+  ],
+  "description": "Ambient song from EB. Could fit cutscenes or settings with urgency.",
+  "latest_version": "smwc-27048-1622659662",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27048,
+      "title": "EarthBound - Alien Invasion 1",
+      "version": "smwc-27048-1622659662",
+      "upstream_time": 1622659662,
+      "download_url": "https://dl.smwcentral.net/27048/Earthbound%20-%20Alien%20Invasion%201.zip",
+      "filename": "Earthbound - Alien Invasion 1.zip",
+      "size": 47578,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

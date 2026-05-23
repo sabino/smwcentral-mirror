@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-better-dkc2-styled-skull-kart",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16073,
+  "title": "Better DKC2-styled Skull Kart",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "dkc2",
+    "lorom",
+    "minecart",
+    "pacifist",
+    "sa-1",
+    "skull"
+  ],
+  "description": "A cart thing that moves automatically, similar to the one in DKC2. It has improved speed handling, uses more animation frames for going up/down slopes, as well as extra features - like slight accel and decceleration by pressing right or left.",
+  "latest_version": "smwc-16073-1509031255",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16073,
+      "title": "Better DKC2-styled Skull Kart",
+      "version": "smwc-16073-1509031255",
+      "upstream_time": 1509031255,
+      "download_url": "https://dl.smwcentral.net/16073/BetterDKC2SkullKart.zip",
+      "filename": "BetterDKC2SkullKart.zip",
+      "size": 10269,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bowser",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 37338,
+  "title": "Bowser",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "bowser",
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Bowser from Romi's Sprite Tool, converted and ready to be inserted with PIXI.",
+  "latest_version": "smwc-37338-1729660938",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 37338,
+      "title": "Bowser",
+      "version": "smwc-37338-1729660938",
+      "upstream_time": 1729660938,
+      "download_url": "https://dl.smwcentral.net/37338/Mikeyk%27s%20Bowser%20for%20PIXI.zip",
+      "filename": "Mikeyk%27s Bowser for PIXI.zip",
+      "size": 7888,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

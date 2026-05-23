@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-prison-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8558,
+  "title": "Prison Theme",
+  "authors": [
+    "Mayonnai"
+  ],
+  "tags": [
+    "cave",
+    "dark"
+  ],
+  "description": "A composition best suited for dark cave levels.",
+  "latest_version": "smwc-8558-1397625541",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8558,
+      "title": "Prison Theme",
+      "version": "smwc-8558-1397625541",
+      "upstream_time": 1397625541,
+      "download_url": "https://dl.smwcentral.net/8558/prison.zip",
+      "filename": "prison.zip",
+      "size": 64752,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

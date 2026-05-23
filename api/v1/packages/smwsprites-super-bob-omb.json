@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-super-bob-omb",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22407,
+  "title": "Super Bob-omb",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "bob-omb",
+    "bobomb",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a Super Bob-omb, inspired and rehauled from its original japanese code. It behaves like a normal Bob-omb, but it has a wider explosion range.<br>\r\n<br>\r\nIncludes .cfg and .json files. Tested with SA-1 and the latest version of PIXI.",
+  "latest_version": "smwc-22407-1587843635",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22407,
+      "title": "Super Bob-omb",
+      "version": "smwc-22407-1587843635",
+      "upstream_time": 1587843635,
+      "download_url": "https://dl.smwcentral.net/22407/Super%20Bob%20Omb.zip",
+      "filename": "Super Bob Omb.zip",
+      "size": 3025,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

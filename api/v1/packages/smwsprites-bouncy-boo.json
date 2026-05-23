@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bouncy-boo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41921,
+  "title": "Bouncy Boo",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "boo",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Boo bounces around, like a Puntin' Chuck football or a Diggin' Chuck rock. You can make it bounce always, or only when not stared at.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Boosius\"><a href=\"/?p=profile&amp;id=32517\" style=\"color: var(--user-color-3);\" class=\"un\">Boosius</a></span>, I wouldn't be able to come up with something like this myself lol.",
+  "latest_version": "smwc-41921-1773807906",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41921,
+      "title": "Bouncy Boo",
+      "version": "smwc-41921-1773807906",
+      "upstream_time": 1773807906,
+      "download_url": "https://dl.smwcentral.net/41921/Bouncy%20Boo.zip",
+      "filename": "Bouncy Boo.zip",
+      "size": 4404,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-oriental-blossom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29741,
+  "title": "New Super Mario Classic - Oriental Blossom",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "forest",
+    "temple"
+  ],
+  "description": "Japanese Levels from NSMC Series. Could fit on the blossom temple levels.",
+  "latest_version": "smwc-29741-1651353367",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29741,
+      "title": "New Super Mario Classic - Oriental Blossom",
+      "version": "smwc-29741-1651353367",
+      "upstream_time": 1651353367,
+      "download_url": "https://dl.smwcentral.net/29741/NSMC%20Oriental%20Blossom.zip",
+      "filename": "NSMC Oriental Blossom.zip",
+      "size": 54194,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

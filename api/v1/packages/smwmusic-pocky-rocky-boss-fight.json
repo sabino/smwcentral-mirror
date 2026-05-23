@@ -1,0 +1,64 @@
+{
+  "name": "smwmusic-pocky-rocky-boss-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39564,
+  "title": "Pocky & Rocky - Boss Fight 2",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "奇々怪界 謎の黒マント - 前半ボスBGM",
+  "latest_version": "smwc-39564-1744462182",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39564,
+      "title": "Pocky & Rocky - Boss Fight 2",
+      "version": "smwc-39564-1744462182",
+      "upstream_time": 1744462182,
+      "download_url": "https://dl.smwcentral.net/39564/kiki-14.zip",
+      "filename": "kiki-14.zip",
+      "size": 32116,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39562,
+      "title": "Pocky & Rocky - Boss Fight 3",
+      "version": "smwc-39562-1744423644",
+      "upstream_time": 1744423644,
+      "download_url": "https://dl.smwcentral.net/39562/kiki-15.zip",
+      "filename": "kiki-15.zip",
+      "size": 49483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39561,
+      "title": "Pocky & Rocky - Boss Fight 2",
+      "version": "smwc-39561-1744423779",
+      "upstream_time": 1744423779,
+      "download_url": "https://dl.smwcentral.net/39561/kiki-14.zip",
+      "filename": "kiki-14.zip",
+      "size": 55407,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

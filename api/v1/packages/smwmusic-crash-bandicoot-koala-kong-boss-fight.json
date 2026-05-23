@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bandicoot-koala-kong-boss-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37466,
+  "title": "Crash Bandicoot - Koala Kong Boss Fight",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "fire",
+    "mountain"
+  ],
+  "description": "The theme that plays in the boss fight against Koala Kong, a buff koala that... never really returned as a boss in the franchise, only returning as a playable character in Crash Bash and 20 years later in CTR Nitro Fueled. Fitting for cave or volcano settings.<br>\r\n<br>\r\nUpdate (02/15): fixed the loop in the crystal sample and added missing samples<br>\r\nUpdate (03/16): added another missing sample",
+  "latest_version": "smwc-37466-1717251690",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37466,
+      "title": "Crash Bandicoot - Koala Kong Boss Fight",
+      "version": "smwc-37466-1717251690",
+      "upstream_time": 1717251690,
+      "download_url": "https://dl.smwcentral.net/37466/CB%20-%20Koala%20Kong.zip",
+      "filename": "CB - Koala Kong.zip",
+      "size": 103316,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

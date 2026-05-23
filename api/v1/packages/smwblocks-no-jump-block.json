@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-no-jump-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41175,
+  "title": "No Jump Block",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "sa-1",
+    "spinjump"
+  ],
+  "description": "This block disables Mario's jump and/or spinjump when Mario is touching it from above. It's pretty customisable, as it can be configured to only restrict Mario's jump on certain conditions (on/off switch, blue/silver p-switch and Mario is in water/starman/on Yoshi). Check the asm file for those customization options.",
+  "latest_version": "smwc-41175-1764466936",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41175,
+      "title": "No Jump Block",
+      "version": "smwc-41175-1764466936",
+      "upstream_time": 1764466936,
+      "download_url": "https://dl.smwcentral.net/41175/No-Jump%20Block.zip",
+      "filename": "No-Jump Block.zip",
+      "size": 775,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

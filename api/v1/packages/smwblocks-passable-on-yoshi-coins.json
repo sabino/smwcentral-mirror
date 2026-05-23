@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-passable-on-yoshi-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 30193,
+  "title": "Passable On Yoshi Coins",
+  "authors": [
+    "Multibella"
+  ],
+  "tags": [
+    "dragon coin",
+    "lorom",
+    "passable",
+    "sa-1",
+    "yoshi coin"
+  ],
+  "description": "A block that lets you pass when you have 4 Yoshi Coins. (Exact amount easy to specify in the .asm file.)",
+  "latest_version": "smwc-30193-1661513019",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 30193,
+      "title": "Passable On Yoshi Coins",
+      "version": "smwc-30193-1661513019",
+      "upstream_time": 1661513019,
+      "download_url": "https://dl.smwcentral.net/30193/PassOnDragonCoin.zip",
+      "filename": "PassOnDragonCoin.zip",
+      "size": 547,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

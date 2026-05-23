@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-bass-king-castle-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25785,
+  "title": "Mega Man & Bass - King Castle Intro",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "misc",
+    "tense"
+  ],
+  "description": "The King's Fortress Intro theme from Megaman & Bass.",
+  "latest_version": "smwc-25785-1612124707",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25785,
+      "title": "Mega Man & Bass - King Castle Intro",
+      "version": "smwc-25785-1612124707",
+      "upstream_time": 1612124707,
+      "download_url": "https://dl.smwcentral.net/25785/King%27s%20Fortress%20Intro.zip",
+      "filename": "King%27s Fortress Intro.zip",
+      "size": 32116,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

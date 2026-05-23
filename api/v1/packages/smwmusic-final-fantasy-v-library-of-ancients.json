@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-v-library-of-ancients",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27940,
+  "title": "Final Fantasy V - Library of Ancients",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "mysterious",
+    "ruins",
+    "temple"
+  ],
+  "description": "(Also known as \"The Ancient Library\")<br>\r\n<br>\r\nCould fit library themed levels or ruins.<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>.",
+  "latest_version": "smwc-27940-1632342328",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27940,
+      "title": "Final Fantasy V - Library of Ancients",
+      "version": "smwc-27940-1632342328",
+      "upstream_time": 1632342328,
+      "download_url": "https://dl.smwcentral.net/27940/FFV%20-%20The%20Ancient%20Library.zip",
+      "filename": "FFV - The Ancient Library.zip",
+      "size": 75305,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

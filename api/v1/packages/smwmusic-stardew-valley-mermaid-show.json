@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-stardew-valley-mermaid-show",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21306,
+  "title": "Stardew Valley - Mermaid Show",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "ice",
+    "night",
+    "snow",
+    "temple",
+    "water"
+  ],
+  "description": "The sweet song you hear at the mermaid show. Fits temples, save rooms, maybe ice levels.",
+  "latest_version": "smwc-21306-1571022309",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21306,
+      "title": "Stardew Valley - Mermaid Show",
+      "version": "smwc-21306-1571022309",
+      "upstream_time": 1571022309,
+      "download_url": "https://dl.smwcentral.net/21306/mermaids%20exist.zip",
+      "filename": "mermaids exist.zip",
+      "size": 31859,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

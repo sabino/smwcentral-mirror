@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-lab-basement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38494,
+  "title": "Crash Team Racing - Lab Basement",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "industrial",
+    "urban"
+  ],
+  "description": "A remix of Skull Rock with samples from Rampage Ruins and a synth sound effect added, it plays in Lab Basement, an industrial themed battle arena.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38494-1726851899",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38494,
+      "title": "Crash Team Racing - Lab Basement",
+      "version": "smwc-38494-1726851899",
+      "upstream_time": 1726851899,
+      "download_url": "https://dl.smwcentral.net/38494/CTR%20-%20Lab%20Basement.zip",
+      "filename": "CTR - Lab Basement.zip",
+      "size": 137668,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

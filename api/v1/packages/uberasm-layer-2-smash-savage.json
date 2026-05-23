@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-layer-2-smash-savage",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 17863,
+  "title": "Layer 2 Smash: Savage Version",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "layer 2",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is an version of the Layer 2 smasher which stuns the player in place if he's on the ground once it hits. Check the ASM file for more info.",
+  "latest_version": "smwc-17863-1538320136",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 17863,
+      "title": "Layer 2 Smash: Savage Version",
+      "version": "smwc-17863-1538320136",
+      "upstream_time": 1538320136,
+      "download_url": "https://dl.smwcentral.net/17863/Savage%20Layer%202%20Smasher.zip",
+      "filename": "Savage Layer 2 Smasher.zip",
+      "size": 1665,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

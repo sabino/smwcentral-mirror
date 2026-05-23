@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cencho-shoji-dissolution",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27567,
+  "title": "Cencho Shoji - Dissolution",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "industrial"
+  ],
+  "description": "A banger composed by Cencho Shoji, a Japanese musician who wrote game midis for the Sound Canvas series in the mid 2000s. According to the notes supplied with the midi, this track was intended to be somewhat less melodious than other battle themes, so perhaps this could be useful to set the atmosphere of a difficult, memorable fight.<br>\r\n",
+  "latest_version": "smwc-27567-1628750629",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27567,
+      "title": "Cencho Shoji - Dissolution",
+      "version": "smwc-27567-1628750629",
+      "upstream_time": 1628750629,
+      "download_url": "https://dl.smwcentral.net/27567/dissolution.zip",
+      "filename": "dissolution.zip",
+      "size": 136094,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-bubba-n-stix-amiga-ending",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22050,
+  "title": "Bubba 'n' Stix (Amiga) - Ending",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "The ending theme from the Amiga version of Bubba 'n' Stix.<br>\r\nI'd recommend using it on a cutscene, because all channels use the legato command, meaning that if you pause the game while this song is playing and resume, it'll go silent. I know it's lame but it had to be done for the sake of accuracy.<br>\r\n<br>\r\nA second version with less legato is also included in order to prevent the song from cutting out when the game is paused.",
+  "latest_version": "smwc-22050-1581808816",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22050,
+      "title": "Bubba 'n' Stix (Amiga) - Ending",
+      "version": "smwc-22050-1581808816",
+      "upstream_time": 1581808816,
+      "download_url": "https://dl.smwcentral.net/22050/Bubba%20%27n%27%20Stix%20%28Amiga%29%20-%20Ending.zip",
+      "filename": "Bubba %27n%27 Stix (Amiga) - Ending.zip",
+      "size": 79915,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-chrono-trigger-pre-release-presentation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20719,
+  "title": "Chrono Trigger (Pre-Release) - Presentation",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "A lesser known song from Chrono Trigger's Pre-Release that could be used for endings, cutscenes, or dramatic title screens.",
+  "latest_version": "smwc-20719-1564235406",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20719,
+      "title": "Chrono Trigger (Pre-Release) - Presentation",
+      "version": "smwc-20719-1564235406",
+      "upstream_time": 1564235406,
+      "download_url": "https://dl.smwcentral.net/20719/Chrono%20Trigger%20Pre-Release%20-%20Presentation.zip",
+      "filename": "Chrono Trigger Pre-Release - Presentation.zip",
+      "size": 30739,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15427,
+      "title": "Chrono Trigger (Pre-Release) - Presentation",
+      "version": "smwc-15427-1493572267",
+      "upstream_time": 1493572267,
+      "download_url": "https://dl.smwcentral.net/15427/Chrono%20Trigger%20Pre-Release%20-%20Presentation.zip",
+      "filename": "Chrono Trigger Pre-Release - Presentation.zip",
+      "size": 33053,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-blastar-end",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40342,
+  "title": "Blastar - End",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "space"
+  ],
+  "description": "A fun, groovy song by Spaceman.",
+  "latest_version": "smwc-40342-1756590079",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40342,
+      "title": "Blastar - End",
+      "version": "smwc-40342-1756590079",
+      "upstream_time": 1756590079,
+      "download_url": "https://dl.smwcentral.net/40342/Spaceman%20-%20End.zip",
+      "filename": "Spaceman - End.zip",
+      "size": 98681,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

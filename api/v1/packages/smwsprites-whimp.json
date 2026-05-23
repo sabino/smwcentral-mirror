@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-whimp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22265,
+  "title": "Whimp",
+  "authors": [
+    "Tsutarja"
+  ],
+  "tags": [
+    "lorom",
+    "nsmb",
+    "nsmb2",
+    "sa-1",
+    "whimp"
+  ],
+  "description": "As requested by Roberto Zampari, here's a Whimp sprite that behaves just like NSMB2's whomp. When mario reaches near, it jumps and, when it reaches the ground, it slaps the ground with its face. <br>\r\n<br>\r\nIn order to kill it, while it's lying on the ground, you must spinjump in it, and it'll break.<br>\r\n<br>\r\nCredits go to Squishy Rex for drawing the <a href=\"https://mfgg.net/index.php?act=resdb¶m=02&c=1&id=33564\" rel=\"nofollow\">graphics</a> that come included.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\n(Rykon-V73): Converted the sprite into a .json file. My version uses palette 9, but it can be changed, by changing every $03 from PROP: db $03,$03,$03,$03 to $0D. And added a .gif. Blame my laptop for the .gif.",
+  "latest_version": "smwc-22265-1583842874",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22265,
+      "title": "Whimp",
+      "version": "smwc-22265-1583842874",
+      "upstream_time": 1583842874,
+      "download_url": "https://dl.smwcentral.net/22265/whimp_edited.zip",
+      "filename": "whimp_edited.zip",
+      "size": 4108,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

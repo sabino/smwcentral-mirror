@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-nage-libre-seijaku-no-suishin-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42184,
+  "title": "Nage Libre: Seijaku no Suishin - Map 5",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "overworld",
+    "upbeat"
+  ],
+  "description": "Map 5 from Nage Libre on the SNES.",
+  "latest_version": "smwc-42184-1776425928",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42184,
+      "title": "Nage Libre: Seijaku no Suishin - Map 5",
+      "version": "smwc-42184-1776425928",
+      "upstream_time": 1776425928,
+      "download_url": "https://dl.smwcentral.net/42184/Nage%20Libre%20-%20Map%205.zip",
+      "filename": "Nage Libre - Map 5.zip",
+      "size": 39778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

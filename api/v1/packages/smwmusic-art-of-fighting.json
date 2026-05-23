@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-art-of-fighting",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28875,
+  "title": "Art of Fighting 2 - Diet",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "carnival",
+    "urban"
+  ],
+  "description": "Yuri's stage theme from SNK fighting game <i>Art of Fighting 2</i>. Based on the Neo Geo version, with samples from the SNES version. Could be used in bonus levels or gyms.<br>\r\n<br>\r\nThis port uses the optimized SMW sample set.",
+  "latest_version": "smwc-28875-1642044310",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28875,
+      "title": "Art of Fighting 2 - Diet",
+      "version": "smwc-28875-1642044310",
+      "upstream_time": 1642044310,
+      "download_url": "https://dl.smwcentral.net/28875/Art%20of%20Fighting%202%20Diet%20Version%201.1.zip",
+      "filename": "Art of Fighting 2 Diet Version 1.1.zip",
+      "size": 64624,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

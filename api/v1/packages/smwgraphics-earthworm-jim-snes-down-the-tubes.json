@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-earthworm-jim-snes-down-the-tubes",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 1234,
+  "title": "Earthworm Jim (SNES) - Down the Tubes",
+  "authors": [
+    "Mippish"
+  ],
+  "tags": [
+    "needs remoderation",
+    "space",
+    "underwater"
+  ],
+  "description": "ExGFXA0 - BG1<br>\r\nExGFXA1 - FG1<br>\r\nExGFXA2 - FG2<br>\r\n<br>\r\nThis is the layer 2 version of Down the Tubes from Earthworm Jim.<br>\r\n<br>\r\nNo credit needed.",
+  "latest_version": "smwc-1234-1403269812",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 1234,
+      "title": "Earthworm Jim (SNES) - Down the Tubes",
+      "version": "smwc-1234-1403269812",
+      "upstream_time": 1403269812,
+      "download_url": "https://dl.smwcentral.net/1234/eat-space.zip",
+      "filename": "eat-space.zip",
+      "size": 50143,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

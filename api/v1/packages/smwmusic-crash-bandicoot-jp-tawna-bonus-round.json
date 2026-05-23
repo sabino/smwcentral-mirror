@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bandicoot-jp-tawna-bonus-round",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36909,
+  "title": "Crash Bandicoot (JP) - Tawna Bonus Round",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "sky"
+  ],
+  "description": "A happy and upbeat bonus theme that plays on the Tawna bonus rounds in the japanese version of Crash Bandicoot<br>\r\n<br>\r\nUpdate (02/16): replaced the hihat samples",
+  "latest_version": "smwc-36909-1708722668",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36909,
+      "title": "Crash Bandicoot (JP) - Tawna Bonus Round",
+      "version": "smwc-36909-1708722668",
+      "upstream_time": 1708722668,
+      "download_url": "https://dl.smwcentral.net/36909/CB%20-%20Tawna%20Bonus%20Round%20%28Japanese%29.zip",
+      "filename": "CB - Tawna Bonus Round (Japanese).zip",
+      "size": 51153,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

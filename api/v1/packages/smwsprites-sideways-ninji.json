@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-sideways-ninji",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28494,
+  "title": "Sideways Ninji",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "ninji",
+    "sa-1",
+    "wall"
+  ],
+  "description": "This is a ninji that gravitates towards walls.<br>\r\n<br>\r\nDo note that it doesn't work properly with slopes!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>.",
+  "latest_version": "smwc-28494-1639415467",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28494,
+      "title": "Sideways Ninji",
+      "version": "smwc-28494-1639415467",
+      "upstream_time": 1639415467,
+      "download_url": "https://dl.smwcentral.net/28494/sidewaysNinji.zip",
+      "filename": "sidewaysNinji.zip",
+      "size": 5388,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

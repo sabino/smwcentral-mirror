@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-no-button-aliases",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32740,
+  "title": "No Button Aliases",
+  "authors": [
+    "mszegedy"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "The default behavior of $15 and $17 is that the A button is conflated with the B button, and the X button is conflated with the Y button. This patch rewrites the routine that sets them, at $86a8, so that it does not do this. It comes with the option to re-enable either alias. (By default, both are disabled.)<br>\r\n<br>\r\nThe gameplay effect for an otherwise unaltered SMW is that X no longer does the things that both X and Y do (running, cape spin, fire flower, Yoshi's tongue, confirm choices), and A no longer does the things that both A and B do (make you jump higher and fall slower, confirm choices). This is useful if you want to re-bind X or A for things that have nothing to do with what Y or B do. (This was my motivation for making this patch.)<br>\r\n<br>\r\nAs far as I know, this is the first patch to hijack $86a8. I don't think it will break anything.<br>\r\n<br>\r\nThis patch is also available on my Github <a href=\"https://github.com/mszegedy/smw-patches/blob/main/no-button-aliases.asm\" rel=\"nofollow\">here.</a>",
+  "latest_version": "smwc-32740-1671157756",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32740,
+      "title": "No Button Aliases",
+      "version": "smwc-32740-1671157756",
+      "upstream_time": 1671157756,
+      "download_url": "https://dl.smwcentral.net/32740/no-button-aliases.zip",
+      "filename": "no-button-aliases.zip",
+      "size": 646,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

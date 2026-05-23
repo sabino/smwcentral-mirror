@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-paper-mario-the-thousand-year-door-pit-of",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8030,
+  "title": "Paper Mario: The Thousand Year Door - Pit of 100 Trials",
+  "authors": [
+    "KennyJ"
+  ],
+  "tags": [
+    "calm",
+    "cave"
+  ],
+  "description": "Works well with dark areas or caves.",
+  "latest_version": "smwc-8030-1312741096",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8030,
+      "title": "Paper Mario: The Thousand Year Door - Pit of 100 Trials",
+      "version": "smwc-8030-1312741096",
+      "upstream_time": 1312741096,
+      "download_url": "https://dl.smwcentral.net/8030/100%20Trials.zip",
+      "filename": "100 Trials.zip",
+      "size": 66674,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-autoscroll",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 15711,
+  "title": "Autoscroll ($1411) + L/R Softlock Fix",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "screen",
+    "screen scrolling"
+  ],
+  "description": "This patch fixes the bug where the game softlocks if $1411 (horizontal scrolling flag) is cleared (i.e. horizontal scrolling is disabled) while the screen is being scrolled with L/R. An infamous example of this scenario is scrolling an auto-scroll generator on screen with L/R (which is what the patch was originally made to fix).<br>\r\n<br>\r\nOf course, spontaneously setting $1411 during a level can still result in a glitchy mess if the screen has to scroll (or rather, snap) too much to catch up. This is vanilla behavior and it's not what this patch intends to fix.<br>\r\n<br>\r\nFor the curious (technical information): This issue seems to stem from the routine at $00CDDD, which handles horizontal scrolling. One of the things it does is write $13FD (L/R scrolling flag) to $9D (sprites locked flag), then jump to another part of the routine which handles L/R scrolling if $13FD is set. If $1411 is clear, the routine will return prematurely. This usually fine, however unsetting the flag after sprites have been locked will prevent the game from updating scrolling, which will mean L/R scrolling will hang and keep sprites locked, which ends up practically softlocking the game. This was fixed by resetting L/R scrolling and unlocking sprites if they're locked, the screen is being L/R scrolled, and horizontal scrolling is disabled (all at the same time).<br>\r\n",
+  "latest_version": "smwc-15711-1502321275",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 15711,
+      "title": "Autoscroll ($1411) + L/R Softlock Fix",
+      "version": "smwc-15711-1502321275",
+      "upstream_time": 1502321275,
+      "download_url": "https://dl.smwcentral.net/15711/scrollfix.zip",
+      "filename": "scrollfix.zip",
+      "size": 366,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

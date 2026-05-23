@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-shell-less-koopa-falling-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13556,
+  "title": "Shell-Less Koopa Falling Fix",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "koopa",
+    "lorom",
+    "sa-1",
+    "shell-less"
+  ],
+  "description": "Stops Shell-Less Koopas from falling while sprites are frozen (eg. when $9D is set), such as during powerup/hurt animations, when entering or exiting pipes and when scrolling the screen with the L and R buttons.",
+  "latest_version": "smwc-13556-1459913882",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13556,
+      "title": "Shell-Less Koopa Falling Fix",
+      "version": "smwc-13556-1459913882",
+      "upstream_time": 1459913882,
+      "download_url": "https://dl.smwcentral.net/13556/shelllessfix.zip",
+      "filename": "shelllessfix.zip",
+      "size": 697,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

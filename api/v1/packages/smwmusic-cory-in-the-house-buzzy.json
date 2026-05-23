@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cory-in-the-house-buzzy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14623,
+  "title": "Cory in the House - Buzzy",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "title"
+  ],
+  "description": "So there's actually a Cory in the House game on NDS so um yeah that's where this is from<br>\r\n<br>\r\nAlso Nameless' theme song",
+  "latest_version": "smwc-14623-1481034800",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14623,
+      "title": "Cory in the House - Buzzy",
+      "version": "smwc-14623-1481034800",
+      "upstream_time": 1481034800,
+      "download_url": "https://dl.smwcentral.net/14623/cory_buzzy.zip",
+      "filename": "cory_buzzy.zip",
+      "size": 87814,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

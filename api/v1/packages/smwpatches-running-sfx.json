@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-running-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18562,
+  "title": "Running SFX",
+  "authors": [
+    "Ixtab"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "running",
+    "sa-1",
+    "sound"
+  ],
+  "description": "This patch will make a sound play while running. Look in the file to edit the defines.",
+  "latest_version": "smwc-18562-1543742853",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18562,
+      "title": "Running SFX",
+      "version": "smwc-18562-1543742853",
+      "upstream_time": 1543742853,
+      "download_url": "https://dl.smwcentral.net/18562/runsfx.zip",
+      "filename": "runsfx.zip",
+      "size": 469,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

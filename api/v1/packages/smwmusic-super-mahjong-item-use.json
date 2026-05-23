@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mahjong-item-use",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34058,
+  "title": "Super Mahjong - Item Use",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "goal",
+    "keyhole",
+    "misc"
+  ],
+  "description": "Item Use from Super Mahjong.<br>\r\n<br>\r\nAn older version was used in <a href=\"https://www.smwcentral.net/?p=section&a=details&id=29849\">A Mole in Space</a>.",
+  "latest_version": "smwc-34058-1692027461",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34058,
+      "title": "Super Mahjong - Item Use",
+      "version": "smwc-34058-1692027461",
+      "upstream_time": 1692027461,
+      "download_url": "https://dl.smwcentral.net/34058/Super%20Mahjong%20-%20Item%20Use.zip",
+      "filename": "Super Mahjong - Item Use.zip",
+      "size": 30495,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-3d-land-toad-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31650,
+  "title": "Super Mario 3D Land - Toad House",
+  "authors": [
+    "84GSMeister"
+  ],
+  "tags": [
+    "bonus",
+    "p-switch",
+    "switch palace"
+  ],
+  "description": "Toad House theme from Super Mario 3D Land, originally form Super Mario Bros. 3 where it was both Toad House and P-switch theme. Could fit as a P-switch theme or maybe a bonus area theme.<br>\r\n<br>\r\nUpdated:<br>\r\nIncluded a version with tuned down xylophone.<br>\r\n<br>\r\nAlso, if you want a version that sounds like when you're otside of the Toad House in SM3DL, you can just disable channels 1 to 3.",
+  "latest_version": "smwc-31650-1672447572",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31650,
+      "title": "Super Mario 3D Land - Toad House",
+      "version": "smwc-31650-1672447572",
+      "upstream_time": 1672447572,
+      "download_url": "https://dl.smwcentral.net/31650/Toad%20House.zip",
+      "filename": "Toad House.zip",
+      "size": 104660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

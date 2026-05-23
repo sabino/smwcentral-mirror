@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-vertical-camera-panning",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17737,
+  "title": "Vertical Camera Panning",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "camera",
+    "lorom",
+    "sa-1",
+    "screen",
+    "scroll",
+    "scrolling"
+  ],
+  "description": "This patch adds the ability to pan the camera vertically by holding up/down in levels like in Sonic The Hedgehog or Yoshi's Island.<br>\r\n<br>\r\nThis feature will only work in levels with vertical scrolling set to \"Vertical Scroll at Will\".",
+  "latest_version": "smwc-17737-1534359847",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17737,
+      "title": "Vertical Camera Panning",
+      "version": "smwc-17737-1534359847",
+      "upstream_time": 1534359847,
+      "download_url": "https://dl.smwcentral.net/17737/VerticalCameraPanning.zip",
+      "filename": "VerticalCameraPanning.zip",
+      "size": 1865,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

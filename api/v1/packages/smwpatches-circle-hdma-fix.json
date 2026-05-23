@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-circle-hdma-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 8783,
+  "title": "Circle HDMA Fix",
+  "authors": [
+    "p4plus2"
+  ],
+  "tags": [
+    "hdma",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes the palette glitch when Mario hits the goal to high on the screen. It is however still not recommended to place an exit that high without screen scrolling enabled.",
+  "latest_version": "smwc-8783-1406917425",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 8783,
+      "title": "Circle HDMA Fix",
+      "version": "smwc-8783-1406917425",
+      "upstream_time": 1406917425,
+      "download_url": "https://dl.smwcentral.net/8783/circle_fix.zip",
+      "filename": "circle_fix.zip",
+      "size": 336,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

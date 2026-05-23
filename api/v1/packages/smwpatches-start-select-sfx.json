@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-start-select-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18352,
+  "title": "Start+Select SFX",
+  "authors": [
+    "Yan"
+  ],
+  "tags": [
+    "lorom",
+    "pause",
+    "sa-1",
+    "select",
+    "sfx",
+    "sound effect",
+    "start"
+  ],
+  "description": "This is a simple patch that adds a sound effect when exiting beaten levels with Start+Select.<br>\r\n<br>\r\n<b>Moderator's Note</b>: Requires AddmusicK to work properly.",
+  "latest_version": "smwc-18352-1540756077",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18352,
+      "title": "Start+Select SFX",
+      "version": "smwc-18352-1540756077",
+      "upstream_time": 1540756077,
+      "download_url": "https://dl.smwcentral.net/18352/StartSelectSFX.zip",
+      "filename": "StartSelectSFX.zip",
+      "size": 458,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

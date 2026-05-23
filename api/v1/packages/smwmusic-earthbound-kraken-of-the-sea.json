@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-earthbound-kraken-of-the-sea",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24211,
+  "title": "EarthBound - Kraken of the Sea",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "chase",
+    "swamp",
+    "water"
+  ],
+  "description": "Boss song from Earthbound. Good for aquatic bosses.",
+  "latest_version": "smwc-24211-1600378670",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24211,
+      "title": "EarthBound - Kraken of the Sea",
+      "version": "smwc-24211-1600378670",
+      "upstream_time": 1600378670,
+      "download_url": "https://dl.smwcentral.net/24211/Earthbound%20-%20Kraken%20of%20the%20Sea.zip",
+      "filename": "Earthbound - Kraken of the Sea.zip",
+      "size": 54691,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

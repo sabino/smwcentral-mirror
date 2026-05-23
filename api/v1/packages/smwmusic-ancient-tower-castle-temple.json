@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ancient-tower-castle-temple",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8055,
+  "title": "Ancient Tower/Castle/Temple",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "castle",
+    "ruins",
+    "temple"
+  ],
+  "description": "A mysterious theme, great for tower, castle and temple levels, as the title suggests.",
+  "latest_version": "smwc-8055-1319818239",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8055,
+      "title": "Ancient Tower/Castle/Temple",
+      "version": "smwc-8055-1319818239",
+      "upstream_time": 1319818239,
+      "download_url": "https://dl.smwcentral.net/8055/Ancient%20Tower.zip",
+      "filename": "Ancient Tower.zip",
+      "size": 72336,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

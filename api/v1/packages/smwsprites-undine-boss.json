@@ -1,0 +1,52 @@
+{
+  "name": "smwsprites-undine-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 13623,
+  "title": "Undine Boss",
+  "authors": [
+    "Kickchon"
+  ],
+  "tags": [
+    "boss",
+    "fly",
+    "flying",
+    "ice",
+    "ice block",
+    "ice blocks",
+    "lorom",
+    "pillar",
+    "pillars",
+    "sa-1",
+    "secret of mana",
+    "smwcp",
+    "smwcp1",
+    "stalagmite",
+    "tidal",
+    "tide",
+    "tides",
+    "undine",
+    "water",
+    "wave",
+    "waves"
+  ],
+  "description": "This is Undine from Secret of Mana as a boss for Super Mario World.<br>\r\nShe flies around the room and periodically summons frostblocks which try to hurt Mario or three icicles which try to impale Mario from below.<br>\r\nAdditionally, a tidal wave is present which tries to push Mario around to pull him down into the water.<br>\r\n<br>\r\nWhen the frostblocks hit the tidal wave, they become carryable and can be thrown at Undine to hurt her. The wave becomes faster each time it gets hit by a frostblock.<br>\r\n<br>\r\nMake sure to read the readme before using the sprite, as setting it up can be complicated.",
+  "latest_version": "smwc-13623-1462055035",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 13623,
+      "title": "Undine Boss",
+      "version": "smwc-13623-1462055035",
+      "upstream_time": 1462055035,
+      "download_url": "https://dl.smwcentral.net/13623/Undine%20Boss.zip",
+      "filename": "Undine Boss.zip",
+      "size": 19115,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-castlevania-iv-dracula-s-death",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38133,
+  "title": "Super Castlevania IV - Dracula's Death",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "tense"
+  ],
+  "description": "The theme that plays when you kill Dracula in Super Castlevania 4.",
+  "latest_version": "smwc-38133-1723498163",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38133,
+      "title": "Super Castlevania IV - Dracula's Death",
+      "version": "smwc-38133-1723498163",
+      "upstream_time": 1723498163,
+      "download_url": "https://dl.smwcentral.net/38133/Dracula%27s%20Death.zip",
+      "filename": "Dracula%27s Death.zip",
+      "size": 31565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

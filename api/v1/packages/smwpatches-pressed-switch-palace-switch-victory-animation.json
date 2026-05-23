@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-pressed-switch-palace-switch-victory-animation",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40265,
+  "title": "Pressed Switch Palace Switch Victory Animation",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "switch palace",
+    "victory"
+  ],
+  "description": "Have you noticed how when you press a switch palace switch, Mario kind of just... awkwardly freezes in midair? Or that, aside from a little screen shake, there isn't much <i>oomph</i> to pressing such a big switch? Well, I created a patch that fixes both of those issues. Mario will now display his victory pose, snap down to be on top of the flattened switch, play an appropriate sound, and smoke will appear on both sides of the switch. I implemented this a while ago in my own SMW hack, MYSQ but I got it working in vanilla SMW as well.<br>\r\n<br>\r\nCompatible with the <a href=\"https://smwc.me/s/40263\">Yump Reward / No-Yump Penalty</a> patch.",
+  "latest_version": "smwc-40265-1760513654",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40265,
+      "title": "Pressed Switch Palace Switch Victory Animation",
+      "version": "smwc-40265-1760513654",
+      "upstream_time": 1760513654,
+      "download_url": "https://dl.smwcentral.net/40265/SwitchVictory.zip",
+      "filename": "SwitchVictory.zip",
+      "size": 2613,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

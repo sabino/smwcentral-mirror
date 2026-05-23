@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-wario-dash-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41185,
+  "title": "Wario Dash V1.1",
+  "authors": [
+    "Arinsu",
+    "K3fka",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "abilities",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This UberASM code will give you the ability to dash like Wario in a Wario Land game I haven't played. See the readme for insertion details.<br>\r\n<br>\r\nOriginal description:<br>\r\nAn updated version of my Wario Dash patch. This version changes a few things to fix some bugs. You no longer gain star power while dashing, but a sliding effect is simulated. As such, make sure enemies you want to be able to be killed by the dash are able to be killed by sliding (you can use Tweaker or whatever to enable that).<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Made this main code by default to take advantage of UAT 2.0's ability to insert multiple UberASMs per level.<br>\r\n- Consolidated the two sets of checks to prevent the dash to save on ROM space.<br>\r\n- Fixed the hat shading on the Wario dash frame, added a small dash frame, and included the palette that was meant to come with these graphics.<br>\r\n- Fixed a bug where pausing and having a message on screen affected the dash timer.<br>\r\n- Fixed a bug where you could dash continuously when pressed against a wall.<br>\r\n- Fixed a bug where the sliding state is preserved after the dash ends until the cooldown finishes.<br>\r\n- Fixed a bug where having a cape would make you turn repeatedly while dashing if the button assigned to the dash was X/Y.<br>\r\n- Fixed a bug where the cape did not animate properly while doing a dash.<br>\r\n- Made the sound effect configurable.<br>\r\n- Added a toggle that enables air dashing.<br>\r\n- Made it so the dash is canceled when Mario's $71 state is non-zero, while wall running, while in a lakitu cloud, and during level end.",
+  "latest_version": "smwc-41185-1772910528",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41185,
+      "title": "Wario Dash V1.1",
+      "version": "smwc-41185-1772910528",
+      "upstream_time": 1772910528,
+      "download_url": "https://dl.smwcentral.net/41185/Wario%20Dash%20V1_1.zip",
+      "filename": "Wario Dash V1_1.zip",
+      "size": 15157,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-paint-falling-star",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39554,
+  "title": "Mario Paint - Falling Star",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "A pretty track from Mario Paint that could fit for overworlds, cutscenes, bonus rooms and abstract areas",
+  "latest_version": "smwc-39554-1744469642",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39554,
+      "title": "Mario Paint - Falling Star",
+      "version": "smwc-39554-1744469642",
+      "upstream_time": 1744469642,
+      "download_url": "https://dl.smwcentral.net/39554/FALLINGSTAR.zip",
+      "filename": "FALLINGSTAR.zip",
+      "size": 43629,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

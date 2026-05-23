@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-your-time-has-come",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20195,
+  "title": "Your Time Has Come",
+  "authors": [
+    "Kritter"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "ghost house",
+    "overworld"
+  ],
+  "description": "An ominous, foreboding piece with some rock vibes, featuring bits of the SMW Level themes along with a few of my own themes. There is a sense of urgency and an overall feeling of \"TIME IS RUNNING OUT!\"<br>\r\n<br>\r\nExcellent for your castle, ghost house, final area, dark place, or overworld.",
+  "latest_version": "smwc-20195-1560296558",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20195,
+      "title": "Your Time Has Come",
+      "version": "smwc-20195-1560296558",
+      "upstream_time": 1560296558,
+      "download_url": "https://dl.smwcentral.net/20195/Your%20Time%20Has%20Come.zip",
+      "filename": "Your Time Has Come.zip",
+      "size": 32574,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

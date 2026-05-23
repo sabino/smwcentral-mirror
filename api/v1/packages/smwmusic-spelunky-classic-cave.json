@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-spelunky-classic-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21947,
+  "title": "Spelunky Classic - Cave",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave",
+    "misc"
+  ],
+  "description": "Cave from Spelunky Classic. Good for caves.",
+  "latest_version": "smwc-21947-1580354339",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21947,
+      "title": "Spelunky Classic - Cave",
+      "version": "smwc-21947-1580354339",
+      "upstream_time": 1580354339,
+      "download_url": "https://dl.smwcentral.net/21947/Spelunky%20Classic%20-%20Cave.zip",
+      "filename": "Spelunky Classic - Cave.zip",
+      "size": 32717,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

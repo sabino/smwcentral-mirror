@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-custom-buzzy-beetle-disassembly",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 27350,
+  "title": "Custom Buzzy Beetle + Disassembly",
+  "authors": [
+    "MarkAlarm"
+  ],
+  "tags": [
+    "buzzy beetle",
+    "disassembly",
+    "lorom",
+    "sa-1",
+    "shell"
+  ],
+  "description": "This is a customizable version of the buzzy beetle sprite, along with a (mostly) unmodified disassembly of the original sprite. Credit unnecessary, but appreciated.<br>\r\n<br>\r\nWith this, you're able to customize things such as the walking speed, the base kicked speed, miscellaneous properties, and the state that it spawns in. It makes use of four extra bytes in order to pull this off. Check the .asm file for more details, since it documents these things in a bit more depth.<br>\r\n<br>\r\nThis disassembly is a bit weird given that it uses a shared routine with some sprites from $00 to $13, so some of the miscellaneous properties don't work as one would expect. However, if you leave the disassembly unmodified and only mess with the customizable version, things should work out a bit nicer.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MarioriaM\"><a href=\"/?p=profile&amp;id=43697\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MarioriaM</a></span>.",
+  "latest_version": "smwc-27350-1633574253",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 27350,
+      "title": "Custom Buzzy Beetle + Disassembly",
+      "version": "smwc-27350-1633574253",
+      "upstream_time": 1633574253,
+      "download_url": "https://dl.smwcentral.net/27350/Custom%20Buzzy%20Beetle%20%2B%20Disassembly.zip",
+      "filename": "Custom Buzzy Beetle + Disassembly.zip",
+      "size": 12530,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

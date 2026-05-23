@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-mario-land-course-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25207,
+  "title": "Super Mario Land - Course Clear",
+  "authors": [
+    "Ezek.The Square Remixer"
+  ],
+  "tags": [
+    "course clear",
+    "fanfare",
+    "goal"
+  ],
+  "description": "SMAS arrangement of SML Course Clear.",
+  "latest_version": "smwc-25207-1607130368",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25207,
+      "title": "Super Mario Land - Course Clear",
+      "version": "smwc-25207-1607130368",
+      "upstream_time": 1607130368,
+      "download_url": "https://dl.smwcentral.net/25207/SML%20Course%20Clear.zip",
+      "filename": "SML Course Clear.zip",
+      "size": 37526,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8578,
+      "title": "Super Mario Land - Course Clear",
+      "version": "smwc-8578-1398544215",
+      "upstream_time": 1398544215,
+      "download_url": "https://dl.smwcentral.net/8578/SML%20Goal.zip",
+      "filename": "SML Goal.zip",
+      "size": 63144,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

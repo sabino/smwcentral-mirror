@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-no-score-by-shell-kicked-by-enemy",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40260,
+  "title": "No Score by Shell Kicked by Enemy",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "bob-omb",
+    "bounce blocks",
+    "disco shells",
+    "goomba",
+    "lorom",
+    "sa-1",
+    "score",
+    "shell"
+  ],
+  "description": "If another enemy is killed by a Shell etc used by the enemy, the score will no longer be added.<br>\r\nIf two Shell etc collide with each other, a score is awarded if one of them was used by Mario.<br>\r\nIf the value of!1504,x is 1, it is considered an object used by Mario. It is initially 0 and becomes 1 if it is touched by Mario, spit out by Yoshi, or played by Mario himself or by the shell etc used by Mario.<br>\r\nIf it is not something Mario can have, !1504,x has no effect.<br>\r\n<br>\r\nWhen using with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28721\">Cape Swing Combo</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=27832\">No Consecutive Score Awards</a>, please apply them first.<br>\r\nUses 1 byte of FreeRAM.<br>\r\nIf you are using !1504 in your custom sprites, change its use RAM.<br>\r\nFor a custom sprite that kicks the shell, add the process of setting !1504,y to $00 to the process of kicking the shell.",
+  "latest_version": "smwc-40260-1754836042",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40260,
+      "title": "No Score by Shell Kicked by Enemy",
+      "version": "smwc-40260-1754836042",
+      "upstream_time": 1754836042,
+      "download_url": "https://dl.smwcentral.net/40260/No%20Score%20by%20Shell%20Kicked%20by%20Enemy.zip",
+      "filename": "No Score by Shell Kicked by Enemy.zip",
+      "size": 2788,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

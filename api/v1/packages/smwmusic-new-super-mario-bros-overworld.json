@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-new-super-mario-bros-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41683,
+  "title": "New Super Mario Bros. - Overworld",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "jungle",
+    "mountain",
+    "snow",
+    "upbeat"
+  ],
+  "description": "The classic and retro overworld theme we all know and love from back when the New Super Mario Bros. was actually New.<br>\r\n<br>\r\nDedicated to all the pre-release demo footage we got of the game. R.I.P.<br>\r\n<br>\r\nThis song was harder to port to SMW than I'd expected, since it has a lot going on, though subtle.",
+  "latest_version": "smwc-41683-1774544073",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41683,
+      "title": "New Super Mario Bros. - Overworld",
+      "version": "smwc-41683-1774544073",
+      "upstream_time": 1774544073,
+      "download_url": "https://dl.smwcentral.net/41683/nsmbah.zip",
+      "filename": "nsmbah.zip",
+      "size": 34653,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35815,
+      "title": "New Super Mario Bros. - Overworld",
+      "version": "smwc-35815-1703953142",
+      "upstream_time": 1703953142,
+      "download_url": "https://dl.smwcentral.net/35815/Walking%20The%20Plains.zip",
+      "filename": "Walking The Plains.zip",
+      "size": 184013,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7250,
+      "title": "New Super Mario Bros. - Overworld",
+      "version": "smwc-7250-1312576067",
+      "upstream_time": 1312576067,
+      "download_url": "https://dl.smwcentral.net/7250/NSMB%20-%20MainTheme.zip",
+      "filename": "NSMB - MainTheme.zip",
+      "size": 68647,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-monty-mole-hammer-bro-and-dry-bone-behavior-on-extra-bit",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 30450,
+  "title": "Monty Mole, Hammer Bro and Dry Bone Behavior on Extra Bit",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch removes the submap/level specific behavior of sprites 32, 4D, 4E and 9B and makes them depend on the sprite's extra bit instead. Check out the asm file for more info.",
+  "latest_version": "smwc-30450-1658387481",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 30450,
+      "title": "Monty Mole, Hammer Bro and Dry Bone Behavior on Extra Bit",
+      "version": "smwc-30450-1658387481",
+      "upstream_time": 1658387481,
+      "download_url": "https://dl.smwcentral.net/30450/specific_behavior_with_extra_bit.zip",
+      "filename": "specific_behavior_with_extra_bit.zip",
+      "size": 678,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

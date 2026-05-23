@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-chrono-trigger-frog-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25125,
+  "title": "Chrono Trigger - Frog's Theme",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "mountain"
+  ],
+  "description": "Sample-less requested by Infinity.<br>\r\nFix after Tamaki's first moderation, thanks for the suggestions.<br>\r\n<br>\r\nA dark march that could work for a cutscene or even a mountain level.",
+  "latest_version": "smwc-25125-1604950683",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25125,
+      "title": "Chrono Trigger - Frog's Theme",
+      "version": "smwc-25125-1604950683",
+      "upstream_time": 1604950683,
+      "download_url": "https://dl.smwcentral.net/25125/chronot_frog_0_2.zip",
+      "filename": "chronot_frog_0_2.zip",
+      "size": 32521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8209,
+      "title": "Chrono Trigger - Frog's Theme",
+      "version": "smwc-8209-1339325821",
+      "upstream_time": 1339325821,
+      "download_url": "https://dl.smwcentral.net/8209/Frog%27s%20Theme.zip",
+      "filename": "Frog%27s Theme.zip",
+      "size": 60227,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

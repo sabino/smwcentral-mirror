@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-labyrinth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38241,
+  "title": "Lufia II: Rise of the Sinistrals - Labyrinth",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "mysterious",
+    "ruins",
+    "sewer"
+  ],
+  "description": "This song is the best for the puzzle, mystery, sewer-themed dungeon.",
+  "latest_version": "smwc-38241-1723987386",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38241,
+      "title": "Lufia II: Rise of the Sinistrals - Labyrinth",
+      "version": "smwc-38241-1723987386",
+      "upstream_time": 1723987386,
+      "download_url": "https://dl.smwcentral.net/38241/17laby.zip",
+      "filename": "17laby.zip",
+      "size": 48453,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

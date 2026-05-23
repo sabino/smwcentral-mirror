@@ -1,0 +1,32 @@
+{
+  "name": "tools-lunar-expand-v1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 31275,
+  "title": "Lunar Expand v1.20",
+  "authors": [
+    "FuSoYa"
+  ],
+  "tags": [
+    "expander",
+    "freespace",
+    "lunar magic"
+  ],
+  "description": "This tool is able to expand SNES ROMs to various sizes and thus making it possible to insert more ASM hacks or other data.<br>\r\n<br>\r\nThis update adds a 64-bit build, a command line option and some other fixes. For the changes, see the changelog in the readme.",
+  "latest_version": "smwc-31275-1659299317",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 31275,
+      "title": "Lunar Expand v1.20",
+      "version": "smwc-31275-1659299317",
+      "upstream_time": 1659299317,
+      "download_url": "https://dl.smwcentral.net/31275/le120.zip",
+      "filename": "le120.zip",
+      "size": 135443,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-squeak-squad-staff-credits",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29113,
+  "title": "Kirby: Squeak Squad - Staff Credits",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "credits",
+    "cutscene"
+  ],
+  "description": "One of my Super Famicompo 3 submissions (and the only one that can actually be inserted in a hack lol). Uses Kirby Super Star/Dream Land 3 samples.<br>\r\nSuitable for credits of course. I suggest not to use it in situations where there's sound effects playing as the channel cutoff would be pretty noticeable.<br>\r\nNot compatible with \"Bonus End\" and Thunder SFX/Blarggs/Fireworks.",
+  "latest_version": "smwc-29113-1643566226",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29113,
+      "title": "Kirby: Squeak Squad - Staff Credits",
+      "version": "smwc-29113-1643566226",
+      "upstream_time": 1643566226,
+      "download_url": "https://dl.smwcentral.net/29113/Kirby%20Squeak%20Squad%20-%20Staff%20Credits.zip",
+      "filename": "Kirby Squeak Squad - Staff Credits.zip",
+      "size": 65558,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

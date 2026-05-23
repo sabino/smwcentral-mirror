@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-lemmy-s-circus-ball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 15025,
+  "title": "Lemmy's Circus Ball",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "ball",
+    "bouncing",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "springboard"
+  ],
+  "description": "A ball that bounces around like a football. It will make Mario bounce if he collides with it, kind of like a Bumpty.<br>\r\nRequested by chineesmw.",
+  "latest_version": "smwc-15025-1485627588",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 15025,
+      "title": "Lemmy's Circus Ball",
+      "version": "smwc-15025-1485627588",
+      "upstream_time": 1485627588,
+      "download_url": "https://dl.smwcentral.net/15025/Lemmy%27s%20Circus%20Ball.zip",
+      "filename": "Lemmy%27s Circus Ball.zip",
+      "size": 892,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

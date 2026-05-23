@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-nazo-puyo-satan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23732,
+  "title": "Super Nazo Puyo - Satan",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "final",
+    "space"
+  ],
+  "description": "Intense, good for hard castles or maybe bosses.<br>\r\n<br>\r\nOriginally featured in YUMP 2.",
+  "latest_version": "smwc-23732-1595872062",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23732,
+      "title": "Super Nazo Puyo - Satan",
+      "version": "smwc-23732-1595872062",
+      "upstream_time": 1595872062,
+      "download_url": "https://dl.smwcentral.net/23732/satan.zip",
+      "filename": "satan.zip",
+      "size": 58325,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

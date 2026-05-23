@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tnt-midi-pack-detonation-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39711,
+  "title": "TNT MIDI Pack - Detonation (Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "industrial",
+    "urban"
+  ],
+  "description": "Based : Flame Mammoth<br>\r\nEdit : SMW Ver : #7 -&gt; #0, #6 -&gt; #1 (File : Detonation_TNT_MIDI_Pack_X1_SMW)",
+  "latest_version": "smwc-39711-1750443932",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39711,
+      "title": "TNT MIDI Pack - Detonation (Mega Man X Style)",
+      "version": "smwc-39711-1750443932",
+      "upstream_time": 1750443932,
+      "download_url": "https://dl.smwcentral.net/39711/TNT%20MIDI%20Pack%20-%20Detonation%20%28X1%20Style%29.zip",
+      "filename": "TNT MIDI Pack - Detonation (X1 Style).zip",
+      "size": 110930,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

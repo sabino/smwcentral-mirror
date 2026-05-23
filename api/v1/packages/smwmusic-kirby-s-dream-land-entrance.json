@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-s-dream-land-entrance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27714,
+  "title": "Kirby's Dream Land - Entrance",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "misc",
+    "overworld",
+    "retro"
+  ],
+  "description": "A small song played on the boss rush room of Mt. DeDeDe, from said game.",
+  "latest_version": "smwc-27714-1626989865",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27714,
+      "title": "Kirby's Dream Land - Entrance",
+      "version": "smwc-27714-1626989865",
+      "upstream_time": 1626989865,
+      "download_url": "https://dl.smwcentral.net/27714/Kirby%27s%20Dream%20Land%20-%20Boss%20Room.zip",
+      "filename": "Kirby%27s Dream Land - Boss Room.zip",
+      "size": 61010,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

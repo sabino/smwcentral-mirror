@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dragon-warrior-inn",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25085,
+  "title": "Dragon Warrior - Inn",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "goal",
+    "keyhole",
+    "nintendo presents",
+    "retro"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for course clear, Nintendo presents, custom events, or power-ups.",
+  "latest_version": "smwc-25085-1604722693",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25085,
+      "title": "Dragon Warrior - Inn",
+      "version": "smwc-25085-1604722693",
+      "upstream_time": 1604722693,
+      "download_url": "https://dl.smwcentral.net/25085/DragonQuest13SpecialItem.zip",
+      "filename": "DragonQuest13SpecialItem.zip",
+      "size": 30695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

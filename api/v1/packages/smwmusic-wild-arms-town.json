@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wild-arms-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24437,
+  "title": "Wild Arms - Town",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "town",
+    "urban"
+  ],
+  "description": "looks good in deserts, mountains.<br>\r\nObs.<br>\r\nnot identical to the original",
+  "latest_version": "smwc-24437-1601520667",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24437,
+      "title": "Wild Arms - Town",
+      "version": "smwc-24437-1601520667",
+      "upstream_time": 1601520667,
+      "download_url": "https://dl.smwcentral.net/24437/Wild%20arms%20-%20Town.zip",
+      "filename": "Wild arms - Town.zip",
+      "size": 61232,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

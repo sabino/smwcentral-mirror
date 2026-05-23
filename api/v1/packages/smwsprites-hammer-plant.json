@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-hammer-plant",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3366,
+  "title": "Hammer Plant",
+  "authors": [
+    "Maxx"
+  ],
+  "tags": [
+    "hammer",
+    "lorom",
+    "plant",
+    "sa-1"
+  ],
+  "description": "This little plant will match mario's speed(one of two options), and chuck up hammers every now and then.<br>\r\n<br>\r\nNow SA-1 compatible.",
+  "latest_version": "smwc-3366-1235257831",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3366,
+      "title": "Hammer Plant",
+      "version": "smwc-3366-1235257831",
+      "upstream_time": 1235257831,
+      "download_url": "https://dl.smwcentral.net/3366/Hammer%20Plant.zip",
+      "filename": "Hammer Plant.zip",
+      "size": 2274,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-chasing-urchin-shoots-fire",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38534,
+  "title": "Chasing Urchin, Shoots Fire",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1",
+    "underwater",
+    "urchin"
+  ],
+  "description": "This Urchin will chase the player and shoot fireballs. As strange as it sounds.<br>\r\nRequested by <span class=\"un-outer\" title=\"Samantha\"><span title=\"Samantha donated $5.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=24030\" style=\"color: var(--user-color-3);\" class=\"un\">Samantha</a></span>.",
+  "latest_version": "smwc-38534-1738715867",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38534,
+      "title": "Chasing Urchin, Shoots Fire",
+      "version": "smwc-38534-1738715867",
+      "upstream_time": 1738715867,
+      "download_url": "https://dl.smwcentral.net/38534/Chasing%20Fire%20Urchin_2024.zip",
+      "filename": "Chasing Fire Urchin_2024.zip",
+      "size": 5371,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-new-super-mario-classic-blast-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29395,
+  "title": "New Super Mario Classic - Blast Beach",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "beach"
+  ],
+  "description": "NSMC Hack Series for new composition, Could fit on the beach levels",
+  "latest_version": "smwc-29395-1643603528",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29395,
+      "title": "New Super Mario Classic - Blast Beach",
+      "version": "smwc-29395-1643603528",
+      "upstream_time": 1643603528,
+      "download_url": "https://dl.smwcentral.net/29395/NSMC%20Blast%20Beach.zip",
+      "filename": "NSMC Blast Beach.zip",
+      "size": 32179,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

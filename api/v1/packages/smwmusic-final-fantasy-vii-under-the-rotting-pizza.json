@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-vii-under-the-rotting-pizza",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19688,
+  "title": "Final Fantasy VII - Under the Rotting Pizza",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "night"
+  ],
+  "description": "(Also known as \"Underneath the Rotting Pizza\")<br>\r\n<br>\r\nUnderneath the Rotting Pizza from Final Fantasy 7. Unfortunately, the samples took up too much space for implementing the echo that the original song has, but it's fine.<br>\r\nCould work for calm levels or underground levels.",
+  "latest_version": "smwc-19688-1555719495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19688,
+      "title": "Final Fantasy VII - Under the Rotting Pizza",
+      "version": "smwc-19688-1555719495",
+      "upstream_time": 1555719495,
+      "download_url": "https://dl.smwcentral.net/19688/ff7pizza.zip",
+      "filename": "ff7pizza.zip",
+      "size": 94882,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

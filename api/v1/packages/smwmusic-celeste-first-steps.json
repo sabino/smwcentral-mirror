@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-celeste-first-steps",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33953,
+  "title": "Celeste - First Steps",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "cave",
+    "retro"
+  ],
+  "description": "This is my port of First Steps from Celeste. It was used by MarkAlarm for his SGDQ race level back in 2019 and again in Celeste.smc.",
+  "latest_version": "smwc-33953-1691157446",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33953,
+      "title": "Celeste - First Steps",
+      "version": "smwc-33953-1691157446",
+      "upstream_time": 1691157446,
+      "download_url": "https://dl.smwcentral.net/33953/Celeste_First%20Steps.zip",
+      "filename": "Celeste_First Steps.zip",
+      "size": 74486,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

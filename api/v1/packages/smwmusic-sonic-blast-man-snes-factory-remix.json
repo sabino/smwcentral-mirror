@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sonic-blast-man-snes-factory-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33424,
+  "title": "Sonic Blast Man (SNES) - Factory (Remix)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "A remix of the Factory theme from Sonic Blast Man on the SNES.<br>\r\n<br>\r\nOmits Thunder/Blargg & Yoshi.",
+  "latest_version": "smwc-33424-1687889052",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33424,
+      "title": "Sonic Blast Man (SNES) - Factory (Remix)",
+      "version": "smwc-33424-1687889052",
+      "upstream_time": 1687889052,
+      "download_url": "https://dl.smwcentral.net/33424/Sonic%20Blast%20Man%20%28SNES%29%20-%20Factory%20%28Remix%29.zip",
+      "filename": "Sonic Blast Man (SNES) - Factory (Remix).zip",
+      "size": 69856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

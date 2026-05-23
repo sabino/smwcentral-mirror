@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-shin-megami-tensei-if-donyoku-kai",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35219,
+  "title": "Shin Megami Tensei if... - Donyoku Kai",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "dark",
+    "ghost house",
+    "night",
+    "urban"
+  ],
+  "description": "A cool song that needs a little time to build up.",
+  "latest_version": "smwc-35219-1697095394",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35219,
+      "title": "Shin Megami Tensei if... - Donyoku Kai",
+      "version": "smwc-35219-1697095394",
+      "upstream_time": 1697095394,
+      "download_url": "https://dl.smwcentral.net/35219/DonyokuKai.zip",
+      "filename": "DonyokuKai.zip",
+      "size": 72717,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

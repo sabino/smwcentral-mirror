@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-castle",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25241,
+  "title": "Super Mario World (Pre-release) - Castle",
+  "authors": [
+    "nnj"
+  ],
+  "tags": [
+    "castle",
+    "needs remoderation"
+  ],
+  "description": "An early castle tileset from the Super Mario World prototype leaks. Nothing specific to note here, other than the fact that steep slopes are present, which do not exist in the final game's castle foreground.<br>\r\n<br>\r\nThis tileset does not require map16, and is compatible with SMW's vanilla FG palettes (namely FG 3 through 7). I use FG palette 3 in the sample level.",
+  "latest_version": "smwc-25241-1606135687",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25241,
+      "title": "Super Mario World (Pre-release) - Castle",
+      "version": "smwc-25241-1606135687",
+      "upstream_time": 1606135687,
+      "download_url": "https://dl.smwcentral.net/25241/proto_castle.zip",
+      "filename": "proto_castle.zip",
+      "size": 2579,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

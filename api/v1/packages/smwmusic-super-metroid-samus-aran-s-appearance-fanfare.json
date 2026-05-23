@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-metroid-samus-aran-s-appearance-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36738,
+  "title": "Super Metroid - Samus Aran's Appearance Fanfare",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cutscene",
+    "game over",
+    "misc",
+    "miss"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36738-1706162166",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36738,
+      "title": "Super Metroid - Samus Aran's Appearance Fanfare",
+      "version": "smwc-36738-1706162166",
+      "upstream_time": 1706162166,
+      "download_url": "https://dl.smwcentral.net/36738/16%20Samus%20Aran%27s%20Appearance%20Fanfare.zip",
+      "filename": "16 Samus Aran%27s Appearance Fanfare.zip",
+      "size": 201442,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

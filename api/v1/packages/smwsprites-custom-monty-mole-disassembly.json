@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-custom-monty-mole-disassembly",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32055,
+  "title": "Custom Monty Mole + Disassembly",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "mole",
+    "monty mole",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprites 4D and 4E in SMW - Ground Dwelling Monty Mole and Ledge Dwelling Monty Mole, respectively.<br>\r\n<br>\r\nAlso comes with a custom version that allows for custom jumping out speeds, custom timing and a few other extras.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>.",
+  "latest_version": "smwc-32055-1662660475",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32055,
+      "title": "Custom Monty Mole + Disassembly",
+      "version": "smwc-32055-1662660475",
+      "upstream_time": 1662660475,
+      "download_url": "https://dl.smwcentral.net/32055/MontyMoleDis.zip",
+      "filename": "MontyMoleDis.zip",
+      "size": 14906,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

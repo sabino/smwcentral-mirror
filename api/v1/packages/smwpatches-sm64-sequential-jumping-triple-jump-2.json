@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-sm64-sequential-jumping-triple-jump-2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20157,
+  "title": "SM64 Sequential Jumping/Triple Jump 2.0",
+  "authors": [
+    "HuFlungDu"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "needs remoderation",
+    "physics",
+    "sa-1",
+    "sm64"
+  ],
+  "description": "This is a patch I created that will give you the ability to jump higher the more times you do it in a row (up to three) just like in Super Mario 64.<br>\r\nNo credit necessary<br>\r\n<br>\r\nImportant! New for this version.<br>\r\nNow featuring an almost complete lack of suck.<br>\r\nRemoved some major bugs and general ugliness by changing the way it makes you jump higher<br>\r\nNow has configurable jump heights (what a freaking concept right?)<br>\r\nFinally, no longer hijacks NMI routine.<br>\r\n<br>\r\nGonna go head and say thanks to \tcant_think_of_a_name for reminding me how bad the old one blows and inspiring me to fix it.",
+  "latest_version": "smwc-20157-1562916524",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20157,
+      "title": "SM64 Sequential Jumping/Triple Jump 2.0",
+      "version": "smwc-20157-1562916524",
+      "upstream_time": 1562916524,
+      "download_url": "https://dl.smwcentral.net/20157/TimedJumps.zip",
+      "filename": "TimedJumps.zip",
+      "size": 1737,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

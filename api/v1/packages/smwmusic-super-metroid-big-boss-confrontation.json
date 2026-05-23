@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-super-metroid-big-boss-confrontation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36737,
+  "title": "Super Metroid - Big Boss Confrontation 2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36737-1706162100",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36737,
+      "title": "Super Metroid - Big Boss Confrontation 2",
+      "version": "smwc-36737-1706162100",
+      "upstream_time": 1706162100,
+      "download_url": "https://dl.smwcentral.net/36737/15%20Big%20Boss%20Confrontation%202.zip",
+      "filename": "15 Big Boss Confrontation 2.zip",
+      "size": 207629,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36736,
+      "title": "Super Metroid - Big Boss Confrontation 1",
+      "version": "smwc-36736-1706162022",
+      "upstream_time": 1706162022,
+      "download_url": "https://dl.smwcentral.net/36736/14%20Big%20Boss%20Confrontation%201.zip",
+      "filename": "14 Big Boss Confrontation 1.zip",
+      "size": 206521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

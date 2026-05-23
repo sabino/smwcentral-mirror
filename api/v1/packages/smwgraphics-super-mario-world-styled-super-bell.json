@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-super-bell",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 37390,
+  "title": "Super Mario World Styled Super Bell",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cape",
+    "powerup"
+  ],
+  "description": "A Super Mario World styled Super Bell (from Super Mario 3D World) power-up GFX.<br>\r\n<br>\r\nIt uses Palette A, and it comes with the \"GFX00.bin\" which replaces the cape power-up, and a \"ExGFXA0.bin\" which has the standalone GFX for use with <a href=\"https://github.com/TheLX5/Powerups/tree/master\" rel=\"nofollow\">LX5's Custom Power-Up patch</a> if you want to use it with the cat suit (though you might have to move it around if you got other power-ups you're using with that too).",
+  "latest_version": "smwc-37390-1709765175",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 37390,
+      "title": "Super Mario World Styled Super Bell",
+      "version": "smwc-37390-1709765175",
+      "upstream_time": 1709765175,
+      "download_url": "https://dl.smwcentral.net/37390/SMW%20Styled%20Super%20Bell.zip",
+      "filename": "SMW Styled Super Bell.zip",
+      "size": 2183,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

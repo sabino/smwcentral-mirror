@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-final-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22613,
+  "title": "Mario & Luigi: Partners in Time - Final Battle",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "calm",
+    "cutscene",
+    "final",
+    "sad",
+    "tense"
+  ],
+  "description": "The final boss song from M&L Partners in Time.<br>\r\n<br>\r\nMade a few months back for the hack \"T3rminus\", I'm not 100% happy with it but I figured I'd submit it anyway.<br>\r\n<br>\r\nNote: not compatible with thunder sfx/Blarggs or the \"Bonus end\" song.",
+  "latest_version": "smwc-22613-1587434969",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22613,
+      "title": "Mario & Luigi: Partners in Time - Final Battle",
+      "version": "smwc-22613-1587434969",
+      "upstream_time": 1587434969,
+      "download_url": "https://dl.smwcentral.net/22613/MLPiT%20-%20Final%20Battle.zip",
+      "filename": "MLPiT - Final Battle.zip",
+      "size": 89405,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7257,
+      "title": "Mario & Luigi: Partners in Time - Final Battle",
+      "version": "smwc-7257-1313907999",
+      "upstream_time": 1313907999,
+      "download_url": "https://dl.smwcentral.net/7257/----M%26L%20PiT----%20Elder%20Shroob%20Battle.zip",
+      "filename": "----M%26L PiT---- Elder Shroob Battle.zip",
+      "size": 67486,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lost-times-edm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37118,
+  "title": "Lost Times (EDM)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "chase",
+    "overworld",
+    "space"
+  ],
+  "description": "My original composition from Casino Jazz Music, Could fit on the hidden/secret levels or submap. Likely abstract or space levels.<br>\r\n<br>\r\n4 tempo variations:<br>\r\n[-2] = -2 key, 117BPM [0:61]<br>\r\n[-1] = -1 key, 133BPM [0:53]<br>\r\n[0] = absolute key, 152BPM [0:46]<br>\r\n[1] = +1 key, 177BPM [0:40]",
+  "latest_version": "smwc-37118-1710992846",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37118,
+      "title": "Lost Times (EDM)",
+      "version": "smwc-37118-1710992846",
+      "upstream_time": 1710992846,
+      "download_url": "https://dl.smwcentral.net/37118/%5BEDM%20music%5D%20Lost%20Times%20%28S%29.zip",
+      "filename": "%5BEDM music%5D Lost Times (S).zip",
+      "size": 160769,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

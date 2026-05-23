@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castlevania-iii-dracula-s-curse-clockwork-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11572,
+  "title": "Castlevania III: Dracula's Curse - Clockwork (Remix)",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "tense"
+  ],
+  "description": "A vanilla remix of the clockwork theme. It can fit athletic levels and boss battles.",
+  "latest_version": "smwc-11572-1437619420",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11572,
+      "title": "Castlevania III: Dracula's Curse - Clockwork (Remix)",
+      "version": "smwc-11572-1437619420",
+      "upstream_time": 1437619420,
+      "download_url": "https://dl.smwcentral.net/11572/Clockwork%20SMW.zip",
+      "filename": "Clockwork SMW.zip",
+      "size": 23342,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

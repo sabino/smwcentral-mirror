@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-lemon-drop",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16208,
+  "title": "Lemon Drop",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "yoshi's island"
+  ],
+  "description": "This is the Lemon Drop from Yoshi's Island, that little yellow slime thing found in one room of 3-4 and used to create the 1-8 boss.  It can be made to spawn a single sprite or spawn additional ones like a generator (see the .asm file for more details).<br>\r\n<br>\r\n*NOTE: The version that generates additional Lemon Drops may cause lag; it is best used in a place that doesn't have too many other sprites to process.  Don't use it anywhere where there could be no valid ceiling for the new slimes to spawn on either, or it will freeze the game.",
+  "latest_version": "smwc-16208-1511023334",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16208,
+      "title": "Lemon Drop",
+      "version": "smwc-16208-1511023334",
+      "upstream_time": 1511023334,
+      "download_url": "https://dl.smwcentral.net/16208/Lemon%20Drop.zip",
+      "filename": "Lemon Drop.zip",
+      "size": 6604,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

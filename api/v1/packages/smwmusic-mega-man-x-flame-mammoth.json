@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-x-flame-mammoth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23986,
+  "title": "Mega Man X - Flame Mammoth",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "fire",
+    "industrial"
+  ],
+  "description": "Could fit a factory stage, especially if it somehow contains lava.",
+  "latest_version": "smwc-23986-1595978867",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23986,
+      "title": "Mega Man X - Flame Mammoth",
+      "version": "smwc-23986-1595978867",
+      "upstream_time": 1595978867,
+      "download_url": "https://dl.smwcentral.net/23986/MMX%20-%20Flame%20Mammoth.zip",
+      "filename": "MMX - Flame Mammoth.zip",
+      "size": 62934,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

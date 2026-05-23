@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-oriental-garden",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10822,
+  "title": "Oriental Garden",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "cutscene",
+    "grassland",
+    "sky"
+  ],
+  "description": "calm-ish song i made out of boredom and practice, could fit overworlds or Japanese/Chinese-styled levels.<br>\r\n<br>\r\nincluded is a version that uses mostly SMW samples as well.",
+  "latest_version": "smwc-10822-1425059974",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10822,
+      "title": "Oriental Garden",
+      "version": "smwc-10822-1425059974",
+      "upstream_time": 1425059974,
+      "download_url": "https://dl.smwcentral.net/10822/oriental.zip",
+      "filename": "oriental.zip",
+      "size": 127411,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

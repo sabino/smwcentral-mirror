@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-shuusou-gyoku-disastrous-gemini",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41686,
+  "title": "Shuusou Gyoku - Disastrous Gemini",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "airship",
+    "athletic",
+    "boss",
+    "chaotic",
+    "industrial",
+    "night",
+    "ruins",
+    "sewer",
+    "snow",
+    "space",
+    "upbeat"
+  ],
+  "description": "Mei and Mai's theme from Shuusou Gyoku, the first Seihou game. Somewhere between the in-game MIDI version, the SC-88 arrange, and just doing my own thing. And giving some love to @9.<br>\r\n<br>\r\nIt very much has that early ZUN flavour, compositionally.",
+  "latest_version": "smwc-41686-1774542824",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41686,
+      "title": "Shuusou Gyoku - Disastrous Gemini",
+      "version": "smwc-41686-1774542824",
+      "upstream_time": 1774542824,
+      "download_url": "https://dl.smwcentral.net/41686/disastrousgemini.zip",
+      "filename": "disastrousgemini.zip",
+      "size": 34139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

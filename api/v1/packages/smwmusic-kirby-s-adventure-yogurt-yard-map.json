@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-s-adventure-yogurt-yard-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13603,
+  "title": "Kirby's Adventure - Yogurt Yard Map",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "mountain",
+    "overworld",
+    "submap"
+  ],
+  "description": "This is the bouncy music played on the Yogurt Yard map in Kirby's Adventure.  This would be a great choice for a mountain submap.",
+  "latest_version": "smwc-13603-1461983262",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13603,
+      "title": "Kirby's Adventure - Yogurt Yard Map",
+      "version": "smwc-13603-1461983262",
+      "upstream_time": 1461983262,
+      "download_url": "https://dl.smwcentral.net/13603/Yogurt%20Yard%20Map.zip",
+      "filename": "Yogurt Yard Map.zip",
+      "size": 31218,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

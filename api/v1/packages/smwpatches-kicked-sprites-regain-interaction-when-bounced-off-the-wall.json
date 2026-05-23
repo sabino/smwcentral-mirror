@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-kicked-sprites-regain-interaction-when-bounced-off-the-wall",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 25013,
+  "title": "Kicked Sprites Regain Interaction When Bounced Off the Wall",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "interaction",
+    "kaizo",
+    "lorom",
+    "sa-1",
+    "shell",
+    "shell-jump"
+  ],
+  "description": "This simple patch modifies the intangibility timer ($154C) after kicking shells and p-switches to shorten their timer (or simply zeroes them out to instantly expire it) when they hit a wall. This makes it so you don't need a 2-block space between the player and the wall in order to shelljump.<br>\r\n<br>\r\nThis is very useful in kaizo hack designing.",
+  "latest_version": "smwc-25013-1605145051",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 25013,
+      "title": "Kicked Sprites Regain Interaction When Bounced Off the Wall",
+      "version": "smwc-25013-1605145051",
+      "upstream_time": 1605145051,
+      "download_url": "https://dl.smwcentral.net/25013/BounceInteract.zip",
+      "filename": "BounceInteract.zip",
+      "size": 2419,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-boss-battle-re-arranged",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15798,
+  "title": "Shin Megami Tensei II - Boss Battle (Re-Arranged)",
+  "authors": [
+    "Ultima",
+    "musicalman"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "One of the SPCs between me and musicalman's collab. This is Shin Megami Tensei II's Boss Battle theme, ready to use for SMW (well, hopefully). This particular song could be used as a endgame boss battle, but it could also fit for dangerous situations, like a wall monster which you have to kick shells in order to keep it at bay, or even just a regular chase section filled with Thwomps.<br>\r\n<br>\r\n(also fun fact: this was the only port which was fully done by musicalman, since the guitar solo section was a bit too insane for me to make a version of my own. sorry lol)",
+  "latest_version": "smwc-15798-1499942315",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15798,
+      "title": "Shin Megami Tensei II - Boss Battle (Re-Arranged)",
+      "version": "smwc-15798-1499942315",
+      "upstream_time": 1499942315,
+      "download_url": "https://dl.smwcentral.net/15798/smt2boss.zip",
+      "filename": "smt2boss.zip",
+      "size": 54490,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

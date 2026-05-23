@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bubble-with-instant-explosive",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28268,
+  "title": "Bubble with Instant Explosive",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bomb",
+    "bubble",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a bubble that carries a bomb that explodes instantly when bubble pops.",
+  "latest_version": "smwc-28268-1636434087",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28268,
+      "title": "Bubble with Instant Explosive",
+      "version": "smwc-28268-1636434087",
+      "upstream_time": 1636434087,
+      "download_url": "https://dl.smwcentral.net/28268/BubbleWithInstantExplosive.zip",
+      "filename": "BubbleWithInstantExplosive.zip",
+      "size": 3431,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

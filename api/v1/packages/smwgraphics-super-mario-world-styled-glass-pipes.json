@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-glass-pipes",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 21079,
+  "title": "Super Mario World Styled Glass Pipes",
+  "authors": [
+    "KPhoenix"
+  ],
+  "tags": [
+    "needs remoderation"
+  ],
+  "description": "Glass version of the vanilla SMW pipes. The first type uses a lighter blue color and is completely solid. All tiles are available so you can use decorative pipes and exit enabled pipes. The second type uses a darker blue color and is priority enabled and non-solid. You will need to place solid blocks around these to prevent the player from falling through. The best application is to use them in the ground with solid tiles around them that use the same graphic as the rest of the ground around them. The passthrough pipes have been modified to create a better visual effect preventing the 1 pixel line of transparency on the sides. <br>\r\n<br>\r\nFor an even better visual effect, use a background that has a sky in the top and underground theme on the bottom (such as the underground bg from SMAS SMB3), and set the Layer 2 scrolling to H:Variable, V:Constant. Adjust the height of the background so the sky starts where the ground of the level is going to be, to prevent sky from showing through the transparent underground pipes.",
+  "latest_version": "smwc-21079-1571199013",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 21079,
+      "title": "Super Mario World Styled Glass Pipes",
+      "version": "smwc-21079-1571199013",
+      "upstream_time": 1571199013,
+      "download_url": "https://dl.smwcentral.net/21079/KPhoenix%20-%20Glass%20Pipes.zip",
+      "filename": "KPhoenix - Glass Pipes.zip",
+      "size": 2505,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

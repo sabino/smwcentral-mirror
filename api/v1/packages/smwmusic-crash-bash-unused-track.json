@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bash-unused-track",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37400,
+  "title": "Crash Bash - Unused Track",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "desert",
+    "mysterious",
+    "ruins",
+    "temple"
+  ],
+  "description": "A middle eastern sounding track that can be found in the July 26th 2000 demo in The Official U.S. PlayStation Magazine 38 Demo Disc. It's unknown where it would play in-game but likely it would play in an arabian setting that was scrapped.<br>\r\n<br>\r\nNote: Not compatible with Yoshi, thunder and Bonus End.",
+  "latest_version": "smwc-37400-1713045062",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37400,
+      "title": "Crash Bash - Unused Track",
+      "version": "smwc-37400-1713045062",
+      "upstream_time": 1713045062,
+      "download_url": "https://dl.smwcentral.net/37400/CBash_-_Unused_Track.zip",
+      "filename": "CBash_-_Unused_Track.zip",
+      "size": 110930,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

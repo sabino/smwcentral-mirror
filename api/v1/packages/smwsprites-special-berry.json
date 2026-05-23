@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-special-berry",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29917,
+  "title": "Special Berry",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "abilities",
+    "berries",
+    "berry",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This is a sprite Berry, that can give various rewards when eaten by Yoshi. It can award limited fire shots, Yoshi stomps, or limited Yoshi flight, as well as other bonuses like Yoshi coins, extra seconds on the timer, or the regular bonuses you get from eating 10 red or 2 pink berries. You can customize which palette the Berry uses, it's initial X/Y offsets, and you can optionally draw a warning tile with Yoshi when one of his limited abilities is about to run out.<br>\r\n<br>\r\nIncludes a custom palette that reserves the 2nd half of each palette row for Berries (in the same format as the vanilla Berry sprite palettes) and ExGFX which use the custom palette, as well as an ExGFX which uses the vanilla palette. Note that the listed colours in the .json list entries are only accurate for the custom palette.<br>\r\n<br>\r\nBy default, the custom sprite list is preset to meet the specifications of the <a href=\"https://smwc.me/1598719\">request</a>. See the .asm file for customization options.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Link13\"><a href=\"/?p=profile&amp;id=1944\" style=\"color: var(--user-color-2);\" class=\"un\">Link13</a></span>.",
+  "latest_version": "smwc-29917-1662404152",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29917,
+      "title": "Special Berry",
+      "version": "smwc-29917-1662404152",
+      "upstream_time": 1662404152,
+      "download_url": "https://dl.smwcentral.net/29917/SpecialBerry.zip",
+      "filename": "SpecialBerry.zip",
+      "size": 12646,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

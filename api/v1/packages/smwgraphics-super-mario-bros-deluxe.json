@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-bros-deluxe",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 8930,
+  "title": "Super Mario Bros. Deluxe",
+  "authors": [
+    "Airbourne Bubblun"
+  ],
+  "tags": [
+    "needs remoderation",
+    "sans serif"
+  ],
+  "description": "This font is from SMB DX. No custom palette is needed for this, just replace GFX2A with this one. Even the IllusiYellow is redone also. :D",
+  "latest_version": "smwc-8930-1408987763",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 8930,
+      "title": "Super Mario Bros. Deluxe",
+      "version": "smwc-8930-1408987763",
+      "upstream_time": 1408987763,
+      "download_url": "https://dl.smwcentral.net/8930/DXFont.zip",
+      "filename": "DXFont.zip",
+      "size": 1095,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

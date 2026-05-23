@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-vii-one-winged-angel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9395,
+  "title": "Final Fantasy VII - One-Winged Angel",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "Song to the final battle with Sephiroth in Final Fantasy VII.",
+  "latest_version": "smwc-9395-1414177474",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9395,
+      "title": "Final Fantasy VII - One-Winged Angel",
+      "version": "smwc-9395-1414177474",
+      "upstream_time": 1414177474,
+      "download_url": "https://dl.smwcentral.net/9395/One%20Winged%20Angel.zip",
+      "filename": "One Winged Angel.zip",
+      "size": 96770,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

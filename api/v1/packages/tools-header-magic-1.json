@@ -1,0 +1,35 @@
+{
+  "name": "tools-header-magic-1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 17048,
+  "title": "Header Magic 1.04",
+  "authors": [
+    "Near"
+  ],
+  "tags": [
+    "dll-hook",
+    "fusoya-headerless",
+    "lunar magic",
+    "rom",
+    "sfc",
+    "win32"
+  ],
+  "description": "The original Lunar Magic application requires a header to be appended before it can edit the files. By using Header Magic, headerless ROMs can be opened and edited directly, without the need for a header to ever be appended. Unlike simple batch scripts, Header Magic will not simply create hidden copies of the file. It truly extends Lunar Magic to seamlessly support headerless ROMs.<br>\r\n<br>\r\nTo get it to work, drop the contents alongside the Lunar Magic executable and open the launcher.<br>\r\n<br>\r\nSource code is public domain.<br>\r\n<br>\r\n<b>Mod's note:</b><br>\r\nDoesn't seem to work on Windows 10 anymore, at least it fails on my Windows 10 machine. I had a Windows 7 user confirm it works properly for them, though.",
+  "latest_version": "smwc-17048-1520176286",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 17048,
+      "title": "Header Magic 1.04",
+      "version": "smwc-17048-1520176286",
+      "upstream_time": 1520176286,
+      "download_url": "https://dl.smwcentral.net/17048/hm104.zip",
+      "filename": "hm104.zip",
+      "size": 191990,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

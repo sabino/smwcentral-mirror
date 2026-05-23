@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-tetris-ds-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7809,
+  "title": "Tetris DS - Level 20 (Master Hand Remix)",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "A remixed version of the standard &#34;Tetris A&#34; music we all know. It would suit boss battles, castles and fast paced zones.",
+  "latest_version": "smwc-7809-1380561997",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7809,
+      "title": "Tetris DS - Level 20 (Master Hand Remix)",
+      "version": "smwc-7809-1380561997",
+      "upstream_time": 1380561997,
+      "download_url": "https://dl.smwcentral.net/7809/Tetris.zip",
+      "filename": "Tetris.zip",
+      "size": 67756,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

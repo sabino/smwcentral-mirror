@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-splatoon-2-octo-expansion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37788,
+  "title": "Splatoon 2: Octo Expansion - #6 frisk",
+  "authors": [
+    "Captain 3"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "dark",
+    "industrial",
+    "misc",
+    "upbeat"
+  ],
+  "description": "A song to get frisky to :)<br>\r\n<br>\r\nYyyyeaaahhh I totally didn't realize this song had all of it's samples found, or I woulda ported this sooner.",
+  "latest_version": "smwc-37788-1718554868",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37788,
+      "title": "Splatoon 2: Octo Expansion - #6 frisk",
+      "version": "smwc-37788-1718554868",
+      "upstream_time": 1718554868,
+      "download_url": "https://dl.smwcentral.net/37788/%236%20frisk.zip",
+      "filename": "%236 frisk.zip",
+      "size": 52663,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34108,
+      "title": "Splatoon 2: Octo Expansion - #13 shade",
+      "version": "smwc-34108-1692959570",
+      "upstream_time": 1692959570,
+      "download_url": "https://dl.smwcentral.net/34108/%2313%20shade.zip",
+      "filename": "%2313 shade.zip",
+      "size": 95457,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

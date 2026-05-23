@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-thwimp-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18460,
+  "title": "Thwimp + SFX",
+  "authors": [
+    "Koyuki"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite",
+    "thwimp"
+  ],
+  "description": "Adds sound effect when Thwimp (sprite 27) jumps.",
+  "latest_version": "smwc-18460-1543117465",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18460,
+      "title": "Thwimp + SFX",
+      "version": "smwc-18460-1543117465",
+      "upstream_time": 1543117465,
+      "download_url": "https://dl.smwcentral.net/18460/thwimpsfx.zip",
+      "filename": "thwimpsfx.zip",
+      "size": 401,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

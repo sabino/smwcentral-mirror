@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-ghost-trick-phantom-detective-suspicion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29368,
+  "title": "Ghost Trick: Phantom Detective - Suspicion",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "ghost house",
+    "mysterious",
+    "night",
+    "overworld",
+    "urban"
+  ],
+  "description": "Can be used for overworlds or mysterious/puzzle settings.<br>\r\nIncluded two versions: the normal one only works on overworlds, while for levels use the optimized one (not compatible with Bonus End, Thunder, Yoshi and P-Switch).",
+  "latest_version": "smwc-29368-1643602837",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29368,
+      "title": "Ghost Trick: Phantom Detective - Suspicion",
+      "version": "smwc-29368-1643602837",
+      "upstream_time": 1643602837,
+      "download_url": "https://dl.smwcentral.net/29368/Suspicion.zip",
+      "filename": "Suspicion.zip",
+      "size": 170883,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-ender-chest",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 9010,
+  "title": "Ender Chest",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "minecraft"
+  ],
+  "description": "Inspired by Minecraft.<br>\r\n<br>\r\nWhen a kicked sprite comes into contact with this block, it will \"disappear\" into the block. After this, if the player hits the bottom of the block, it will release the sprite that has been \"stored\". When the sprite is stored, all Ender Chest blocks will contain that same sprite until the player releases them.<br>\r\n<br>\r\nTo have it carry to another level, use any free RAM address that doesn't reset on level load.<br>\r\n<br>\r\nThis is useful for puzzles to avoid \"item babysitting\" and for levels that use \"no carrying\" blocks; the player doesn't have to carry it all around the level.<br>\r\n<br>\r\nRead the readme for more information.",
+  "latest_version": "smwc-9010-1438630502",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 9010,
+      "title": "Ender Chest",
+      "version": "smwc-9010-1438630502",
+      "upstream_time": 1438630502,
+      "download_url": "https://dl.smwcentral.net/9010/ender_chest.zip",
+      "filename": "ender_chest.zip",
+      "size": 3837,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

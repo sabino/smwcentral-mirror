@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-gimmick-good-weather",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40700,
+  "title": "Gimmick - Good Weather",
+  "authors": [
+    "lordlydumbass"
+  ],
+  "tags": [
+    "bonus",
+    "grassland",
+    "retro",
+    "upbeat"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"VeracitySMWC\"><a href=\"/?p=profile&amp;id=58445\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">VeracitySMWC</a></span><br>\r\nStage 2 Music from Gimmick.<br>\r\nSunsoft bass sample used: <a href=\"https://smwc.me/s/38740\">https://smwc.me/s/38740</a>",
+  "latest_version": "smwc-40700-1769630779",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40700,
+      "title": "Gimmick - Good Weather",
+      "version": "smwc-40700-1769630779",
+      "upstream_time": 1769630779,
+      "download_url": "https://dl.smwcentral.net/40700/Gimmick-Good-Weather.zip",
+      "filename": "Gimmick-Good-Weather.zip",
+      "size": 51522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

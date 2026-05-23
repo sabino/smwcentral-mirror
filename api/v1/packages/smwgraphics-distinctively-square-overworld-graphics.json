@@ -1,0 +1,38 @@
+{
+  "name": "smwgraphics-distinctively-square-overworld-graphics",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 20924,
+  "title": "Distinctively Square Overworld Graphics",
+  "authors": [
+    "Katrina"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "forest",
+    "grassland",
+    "mountain",
+    "mushroom",
+    "needs remoderation",
+    "sky",
+    "snow"
+  ],
+  "description": "Hey did you remember the deadline for the overworld contest? I didn't.<br>\r\n<br>\r\nThis is a set of overworld graphics that I tried my best to make look real nice. They have a bunch of ordinary Mario features so they should probably meet at least some of your overworld needs.<br>\r\n<br>\r\nAlso: they're square. Amazing.<br>\r\n<br>\r\n<i>Moderator's note: it's already mentioned in the readme, but to clarify it further: the included ExGFX change the 8x8 tiles used by the vanilla Layer 1 tiles. If you only insert and load the ExGFX and palette files, your Overworld will be filled with garbage tiles due to the new graphics affecting the default Layer 1 tile, which in vanilla was completely transparent. To address this, you have to, in Layer 2 8x8 Editor Mode, copy the new 8x8 Layer 1 tiles (found below the submaps) from the sample BPS's Overworld to the same location within your Overworld, so your Layer 1 tiles will use those instead.</i>",
+  "latest_version": "smwc-20924-1568257727",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 20924,
+      "title": "Distinctively Square Overworld Graphics",
+      "version": "smwc-20924-1568257727",
+      "upstream_time": 1568257727,
+      "download_url": "https://dl.smwcentral.net/20924/Katrina%20-%20Square%20Overworld.zip",
+      "filename": "Katrina - Square Overworld.zip",
+      "size": 140221,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

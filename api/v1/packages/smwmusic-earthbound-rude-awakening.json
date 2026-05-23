@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-rude-awakening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39583,
+  "title": "EarthBound - Rude Awakening",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "environmental",
+    "night"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Skewer\"><a href=\"/?p=profile&amp;id=1055\" style=\"color: var(--user-color-2);\" class=\"un\">Skewer</a></span>",
+  "latest_version": "smwc-39583-1746033300",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39583,
+      "title": "EarthBound - Rude Awakening",
+      "version": "smwc-39583-1746033300",
+      "upstream_time": 1746033300,
+      "download_url": "https://dl.smwcentral.net/39583/Rude%20Awakening.zip",
+      "filename": "Rude Awakening.zip",
+      "size": 42343,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

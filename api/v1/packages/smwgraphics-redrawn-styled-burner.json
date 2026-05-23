@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-redrawn-styled-burner",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 41310,
+  "title": "Redrawn Styled Burner",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "burner",
+    "redrawn"
+  ],
+  "description": "Redrawn-style graphics for <a href=\"https://smwc.me/s/23485\">Super Mario Bros. 3's Burner custom sprite recreation from KobaBeach and an anonymous coder from VIP and Wall and Alaska Mix 5</a>, meant to resemble the enemy's modern design.<br>\r\n<br>\r\nA brief explanation is included on how to change the sprite's palette, due to being hardcoded in the sprite itself rather than in its respective .json files.<br>\r\n<br>\r\nCredit's not necessary but appreciated regardless.",
+  "latest_version": "smwc-41310-1766598716",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 41310,
+      "title": "Redrawn Styled Burner",
+      "version": "smwc-41310-1766598716",
+      "upstream_time": 1766598716,
+      "download_url": "https://dl.smwcentral.net/41310/Redrawn%20SMB3%20Burner%20wPalette.zip",
+      "filename": "Redrawn SMB3 Burner wPalette.zip",
+      "size": 2163,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

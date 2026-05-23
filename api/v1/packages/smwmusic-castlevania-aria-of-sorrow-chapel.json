@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castlevania-aria-of-sorrow-chapel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17174,
+  "title": "Castlevania: Aria of Sorrow - Chapel",
+  "authors": [
+    "Vexations"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "overworld"
+  ],
+  "description": "the piece that plays in the chapel area in castlevania aria of sorrow. suits very well for castles and final levels",
+  "latest_version": "smwc-17174-1519646162",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17174,
+      "title": "Castlevania: Aria of Sorrow - Chapel",
+      "version": "smwc-17174-1519646162",
+      "upstream_time": 1519646162,
+      "download_url": "https://dl.smwcentral.net/17174/Castlevania%20AoS%20-%20Chapel.zip",
+      "filename": "Castlevania AoS - Chapel.zip",
+      "size": 50847,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

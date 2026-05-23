@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-trials-of-mana-the-sacrifice-part",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26839,
+  "title": "Trials of Mana - The Sacrifice, Part 2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "dark",
+    "final",
+    "industrial",
+    "spooky",
+    "tense"
+  ],
+  "description": "One of the songs that plays during the final boss in Seiken Densetsu 3. It could fit tense, dark or final settings or also industrial.",
+  "latest_version": "smwc-26839-1621730879",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26839,
+      "title": "Trials of Mana - The Sacrifice, Part 2",
+      "version": "smwc-26839-1621730879",
+      "upstream_time": 1621730879,
+      "download_url": "https://dl.smwcentral.net/26839/Seiken%20Densetsu%203%20-%20The%20Sacrifice%2C%20Part%20Two.zip",
+      "filename": "Seiken Densetsu 3 - The Sacrifice%2C Part Two.zip",
+      "size": 75059,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21203,
+      "title": "Trials of Mana - The Sacrifice, Part 3",
+      "version": "smwc-21203-1569622243",
+      "upstream_time": 1569622243,
+      "download_url": "https://dl.smwcentral.net/21203/The%20Sacrifice%20Part%203.zip",
+      "filename": "The Sacrifice Part 3.zip",
+      "size": 77665,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8933,
+      "title": "Trials of Mana - The Sacrifice, Part 1",
+      "version": "smwc-8933-1412971200",
+      "upstream_time": 1412971200,
+      "download_url": "https://dl.smwcentral.net/8933/Sacrifice1.zip",
+      "filename": "Sacrifice1.zip",
+      "size": 55588,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

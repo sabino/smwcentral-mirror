@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-terminal-point",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37286,
+  "title": "Shin Megami Tensei II - Terminal Point",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "mysterious",
+    "spooky"
+  ],
+  "description": "Plays at save points. Also simply known as 'Terminal‘ in SMT if…",
+  "latest_version": "smwc-37286-1714366826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37286,
+      "title": "Shin Megami Tensei II - Terminal Point",
+      "version": "smwc-37286-1714366826",
+      "upstream_time": 1714366826,
+      "download_url": "https://dl.smwcentral.net/37286/SMT2%20Terminal%20Point.zip",
+      "filename": "SMT2 Terminal Point.zip",
+      "size": 31244,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

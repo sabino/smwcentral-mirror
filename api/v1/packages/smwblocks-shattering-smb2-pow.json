@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-shattering-smb2-pow",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3833,
+  "title": "Shattering SMB2 POW",
+  "authors": [
+    "Maxx"
+  ],
+  "tags": [
+    "lorom",
+    "pow",
+    "shatter",
+    "shattering",
+    "smb2"
+  ],
+  "description": "When the player touches it, the block will kill all sprites on screen like the SMB2 POW, and then it shatters itself.",
+  "latest_version": "smwc-3833-1409002644",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3833,
+      "title": "Shattering SMB2 POW",
+      "version": "smwc-3833-1409002644",
+      "upstream_time": 1409002644,
+      "download_url": "https://dl.smwcentral.net/3833/pow%20shatter.zip",
+      "filename": "pow shatter.zip",
+      "size": 333,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

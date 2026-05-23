@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-final-fantasy-iii-eternal-wind",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27160,
+  "title": "Final Fantasy III - Eternal Wind",
+  "authors": [
+    "Slash Man"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "grassland",
+    "overworld",
+    "sky",
+    "temple"
+  ],
+  "description": "The world map theme from Final Fantasy III (JP), not Final Fantasy VI! Made with Final Fantasy VI samples. Simple upbeat theme.",
+  "latest_version": "smwc-27160-1625111690",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27160,
+      "title": "Final Fantasy III - Eternal Wind",
+      "version": "smwc-27160-1625111690",
+      "upstream_time": 1625111690,
+      "download_url": "https://dl.smwcentral.net/27160/Final%20Fantasy%20III%20%28JP%29%20-%20Eternal%20Wind.zip",
+      "filename": "Final Fantasy III (JP) - Eternal Wind.zip",
+      "size": 58471,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23948,
+      "title": "Final Fantasy III - Eternal Wind",
+      "version": "smwc-23948-1596246587",
+      "upstream_time": 1596246587,
+      "download_url": "https://dl.smwcentral.net/23948/Final%20Fantasy%20III%20-%20Eternal%20Wind.zip",
+      "filename": "Final Fantasy III - Eternal Wind.zip",
+      "size": 31266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

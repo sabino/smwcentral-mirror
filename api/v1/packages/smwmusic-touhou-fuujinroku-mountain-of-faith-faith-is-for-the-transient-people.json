@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-touhou-fuujinroku-mountain-of-faith-faith-is-for-the-transient-people",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28018,
+  "title": "Touhou Fuujinroku ~ Mountain of Faith - Faith is for the Transient People",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final",
+    "sad"
+  ],
+  "description": "Theme of the best shrine maiden in Touhou. Despite being a boss theme, it's quite soft and gentle.",
+  "latest_version": "smwc-28018-1631600280",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28018,
+      "title": "Touhou Fuujinroku ~ Mountain of Faith - Faith is for the Transient People",
+      "version": "smwc-28018-1631600280",
+      "upstream_time": 1631600280,
+      "download_url": "https://dl.smwcentral.net/28018/Transient%20People.zip",
+      "filename": "Transient People.zip",
+      "size": 37090,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10937,
+      "title": "Touhou Fuujinroku ~ Mountain of Faith - Faith is for the Transient People",
+      "version": "smwc-10937-1426962478",
+      "upstream_time": 1426962478,
+      "download_url": "https://dl.smwcentral.net/10937/Touhou%2010%20M.O.F.%20-%20Faith%20is%20for%20transient%20people.zip",
+      "filename": "Touhou 10 M.O.F. - Faith is for transient people.zip",
+      "size": 75039,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

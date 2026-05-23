@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-conker-s-bad-fur-day-uga-buga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40676,
+  "title": "Conker's Bad Fur Day - Uga Buga",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "forest",
+    "jungle",
+    "swamp",
+    "upbeat"
+  ],
+  "description": "Overworld remix for the caveman area of Conker's Bad Fur Day for the Nintendo 64. Good for upbeat tropical, cave, and lava levels.<br>\r\n<br>\r\nEcho version omits Yoshi, Thunder, P-Switch, and Bonus End.<br>\r\nNo echo version omits Thunder, and Bonus End.",
+  "latest_version": "smwc-40676-1761961764",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40676,
+      "title": "Conker's Bad Fur Day - Uga Buga",
+      "version": "smwc-40676-1761961764",
+      "upstream_time": 1761961764,
+      "download_url": "https://dl.smwcentral.net/40676/Conker%27s%20Bad%20Fur%20Day%20-%20Uga%20Buga.zip",
+      "filename": "Conker%27s Bad Fur Day - Uga Buga.zip",
+      "size": 161743,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

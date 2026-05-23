@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-sonic-styled-midway-post",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35301,
+  "title": "Sonic-Styled Midway Post",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "lorom",
+    "midway point",
+    "pacist",
+    "sa-1",
+    "sonic"
+  ],
+  "description": "This is a sprite that aims to resemble the Midway Posts in the Sonic the Hedgehog series. It's a ball on a post that, when touched, spins around.<br>\r\nIn addition, if the player fulfills a specific set of criteria, a \"star ring\" will appear. You can configure this to merely give points/1ups, to give the player an upgraded powerup, or teleport them to another level!<br>\r\n<br>\r\nThis sprite is intended to be compatible with both vanilla Midway Points as well as the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=17409\">Multiple Midway Points</a> patch. A separate JSON file exists for the latter.<br>\r\n<br>\r\n<b>Release History</b>:<br>\r\n- 10/19/2023: v1.0 - Initial Release.",
+  "latest_version": "smwc-35301-1725108216",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35301,
+      "title": "Sonic-Styled Midway Post",
+      "version": "smwc-35301-1725108216",
+      "upstream_time": 1725108216,
+      "download_url": "https://dl.smwcentral.net/35301/MidwayPost.zip",
+      "filename": "MidwayPost.zip",
+      "size": 9609,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

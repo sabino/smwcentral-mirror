@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-sma2-status-screen",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4573,
+  "title": "SMA2 Status Screen",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "level name",
+    "lorom",
+    "needs remoderation",
+    "overworld"
+  ],
+  "description": "This patch adds the Super Mario Advance 2 overworld status screen to SMW. Make sure to read the readme for more info on what to do.",
+  "latest_version": "smwc-4573-1364069060",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4573,
+      "title": "SMA2 Status Screen",
+      "version": "smwc-4573-1364069060",
+      "upstream_time": 1364069060,
+      "download_url": "https://dl.smwcentral.net/4573/sma2status.zip",
+      "filename": "sma2status.zip",
+      "size": 23157,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

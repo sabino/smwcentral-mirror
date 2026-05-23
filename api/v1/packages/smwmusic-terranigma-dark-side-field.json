@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-terranigma-dark-side-field",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21258,
+  "title": "Terranigma - Dark Side Field",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "overworld",
+    "temple",
+    "tense"
+  ],
+  "description": "A sampled port of the dark and sad song that plays on the Underworld (AKA Dark Side Field) in Terranigma. Would fit into tense levels, such as dark temples or castles.",
+  "latest_version": "smwc-21258-1569982114",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21258,
+      "title": "Terranigma - Dark Side Field",
+      "version": "smwc-21258-1569982114",
+      "upstream_time": 1569982114,
+      "download_url": "https://dl.smwcentral.net/21258/Terranigma_-_Dark_Side_Field.zip",
+      "filename": "Terranigma_-_Dark_Side_Field.zip",
+      "size": 56938,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7088,
+      "title": "Terranigma - Dark Side Field",
+      "version": "smwc-7088-1321297143",
+      "upstream_time": 1321297143,
+      "download_url": "https://dl.smwcentral.net/7088/Terranigma%20-%20Underworld.zip",
+      "filename": "Terranigma - Underworld.zip",
+      "size": 67778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

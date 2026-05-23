@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-different-submap-switching-transition-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40253,
+  "title": "Different Submap Switching Transition v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This simple patch changes the submap switching (aka \"red path\") transition on the overworld, removing the window closing/opening and changing it to a brightness fadeout/fadein. Besides having a different graphical effect, this also solves the issue of HDMA effects turning off or looking weird during the original transition (note: if you're using different gradients for each submap, you'll need to put the HDMA code in both init and main to make it load properly after the red path transition).<br>\r\n<br>\r\nv1.1: fixes an issue with AddmusicK, where the screen doesn't fully go black before loading the submap music",
+  "latest_version": "smwc-40253-1754745011",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40253,
+      "title": "Different Submap Switching Transition v1.1",
+      "version": "smwc-40253-1754745011",
+      "upstream_time": 1754745011,
+      "download_url": "https://dl.smwcentral.net/40253/red_path_fade.zip",
+      "filename": "red_path_fade.zip",
+      "size": 852,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

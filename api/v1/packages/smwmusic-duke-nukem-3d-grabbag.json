@@ -1,0 +1,56 @@
+{
+  "name": "smwmusic-duke-nukem-3d-grabbag",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38671,
+  "title": "Duke Nukem 3D - Grabbag",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "credits",
+    "final",
+    "fire",
+    "industrial",
+    "tense",
+    "title",
+    "upbeat"
+  ],
+  "description": "The iconic theme from Duke Nukem 3D, now with vocals! (I guess) Good for title themes, boss fights, or intense levels in general.<br>\r\n<br>\r\nDISCLAIMER: There are also a couple different versions of this port that I added in depending on what you want to use this for; there's the regular optimized version which has both the intro and vocals, but there are also versions that don't have either the intro, the vocals, or both. Feel free to pick and choose what's best for you.",
+  "latest_version": "smwc-38671-1733014845",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38671,
+      "title": "Duke Nukem 3D - Grabbag",
+      "version": "smwc-38671-1733014845",
+      "upstream_time": 1733014845,
+      "download_url": "https://dl.smwcentral.net/38671/duke3dgrabbag.zip",
+      "filename": "duke3dgrabbag.zip",
+      "size": 279271,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27192,
+      "title": "Duke Nukem 3D - Grabbag",
+      "version": "smwc-27192-1622789709",
+      "upstream_time": 1622789709,
+      "download_url": "https://dl.smwcentral.net/27192/DukeNukem%20-%20Grabbag.zip",
+      "filename": "DukeNukem - Grabbag.zip",
+      "size": 57763,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

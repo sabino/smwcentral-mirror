@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-jazzcat-polaroid-android",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34101,
+  "title": "JazzCat - Polaroid Android",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "retro",
+    "space",
+    "urban"
+  ],
+  "description": "Chiptune!",
+  "latest_version": "smwc-34101-1691905867",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34101,
+      "title": "JazzCat - Polaroid Android",
+      "version": "smwc-34101-1691905867",
+      "upstream_time": 1691905867,
+      "download_url": "https://dl.smwcentral.net/34101/Polaroid%20Android.zip",
+      "filename": "Polaroid Android.zip",
+      "size": 42081,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

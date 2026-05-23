@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-custom-line-guided-rope",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23945,
+  "title": "Custom Line-Guided Rope",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "rope",
+    "sa-1",
+    "switch"
+  ],
+  "description": "This is a custom version of the line-guided rope, based on the disassembly by imamelia.<br>\r\nIt allows for new features including:<br>\r\n- Custom length: it can be up to 254 tiles, controlled by the first extra byte.<br>\r\n- Custom speed: set a speed multiplier for the rope, using the second extra byte.<br>\r\n- Movement options: it can be set to start moving once spawned instead of waiting for Mario, be always stationary or move based on a certain switch.<br>\r\n- Glitch fixes: for example, fix the glitch that allows you to climb in the air (the disassembly doesn't include Rope Fix).<br>\r\nCheck out the asm file for a more detailed explanation.<br>\r\n<br>\r\nNote: the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18741\">No More Sprite Tile Limits</a> patch is highly recommended.<br>\r\n<br>\r\nUpdate: now compatible with the \"line-guide acts-like fix\" patch.",
+  "latest_version": "smwc-23945-1597199735",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23945,
+      "title": "Custom Line-Guided Rope",
+      "version": "smwc-23945-1597199735",
+      "upstream_time": 1597199735,
+      "download_url": "https://dl.smwcentral.net/23945/custom_line_rope.zip",
+      "filename": "custom_line_rope.zip",
+      "size": 6735,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

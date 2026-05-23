@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7454,
+  "title": "The Legend of Zelda - Level 9",
+  "authors": [
+    "Big Al"
+  ],
+  "tags": [
+    "castle",
+    "dark"
+  ],
+  "description": "The music that plays in the final dungeon on the way to Ganon. A good song for a dungeon or castle level.",
+  "latest_version": "smwc-7454-1320152287",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7454,
+      "title": "The Legend of Zelda - Level 9",
+      "version": "smwc-7454-1320152287",
+      "upstream_time": 1320152287,
+      "download_url": "https://dl.smwcentral.net/7454/Zelda%20-%20Level%209.zip",
+      "filename": "Zelda - Level 9.zip",
+      "size": 64966,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

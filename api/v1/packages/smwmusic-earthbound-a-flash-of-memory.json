@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-a-flash-of-memory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8374,
+  "title": "EarthBound - A Flash of Memory",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sky",
+    "water"
+  ],
+  "description": "A really calm and peaceful theme. Could work for short relaxing areas or cutscenes.",
+  "latest_version": "smwc-8374-1365106516",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8374,
+      "title": "EarthBound - A Flash of Memory",
+      "version": "smwc-8374-1365106516",
+      "upstream_time": 1365106516,
+      "download_url": "https://dl.smwcentral.net/8374/%5BM%5D%20Flash%20of%20a%20Memory.zip",
+      "filename": "%5BM%5D Flash of a Memory.zip",
+      "size": 60197,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

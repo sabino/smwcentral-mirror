@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-koopa",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 11486,
+  "title": "Koopa",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "koopa",
+    "needs remoderation"
+  ],
+  "description": "FINALLY!  I've successfully redrawn the Koopa Troopa!  I've made several failed attempts at this since maybe 2011.  Either way, this pack contains not just replacements for the normal Koopas, but also for the Net Koopas and Super Koopas.",
+  "latest_version": "smwc-11486-1434835363",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 11486,
+      "title": "Koopa",
+      "version": "smwc-11486-1434835363",
+      "upstream_time": 1434835363,
+      "download_url": "https://dl.smwcentral.net/11486/Koopas.zip",
+      "filename": "Koopas.zip",
+      "size": 9525,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2208,
+      "title": "Koopa",
+      "version": "smwc-2208-1426685440",
+      "upstream_time": 1426685440,
+      "download_url": "https://dl.smwcentral.net/2208/Sprite.zip",
+      "filename": "Sprite.zip",
+      "size": 4745,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

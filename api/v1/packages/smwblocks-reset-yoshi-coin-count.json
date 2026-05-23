@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-reset-yoshi-coin-count",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3912,
+  "title": "Reset Yoshi Coin Count",
+  "authors": [
+    "Fourpify",
+    "JackTheSpades"
+  ],
+  "tags": [
+    "coin",
+    "dragon coin",
+    "lorom",
+    "reset",
+    "yoshi coin"
+  ],
+  "description": "This block resets the Yoshi Coin counter.<br>\r\nAlso clears the flag if all have been collected but only if the level hasn't been exited in the meantime.<br>\r\n- get 5 coins - touch block - flag cleared.<br>\r\n- get 5 coins - win/die - reenter level - touch block - flag remains.<br>\r\n(see ASM on to make it always delete the flag)",
+  "latest_version": "smwc-3912-1436722697",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3912,
+      "title": "Reset Yoshi Coin Count",
+      "version": "smwc-3912-1436722697",
+      "upstream_time": 1436722697,
+      "download_url": "https://dl.smwcentral.net/3912/resetyc.zip",
+      "filename": "resetyc.zip",
+      "size": 549,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

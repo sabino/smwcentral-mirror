@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-koi-ha-balance-single",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37549,
+  "title": "Koi ha Balance - Single",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sad"
+  ],
+  "description": "<s>First Koi ha Balance port ever?</s><br>\r\n<br>\r\nA somber, simple piece that plays when the current player doesn't have a girl in Koi ha Balance.",
+  "latest_version": "smwc-37549-1717973284",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37549,
+      "title": "Koi ha Balance - Single",
+      "version": "smwc-37549-1717973284",
+      "upstream_time": 1717973284,
+      "download_url": "https://dl.smwcentral.net/37549/Single.zip",
+      "filename": "Single.zip",
+      "size": 42783,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

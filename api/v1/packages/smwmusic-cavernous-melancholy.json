@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cavernous-melancholy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10972,
+  "title": "Cavernous Melancholy",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "calm",
+    "cave"
+  ],
+  "description": "A simple composition that could fit caves quite well.",
+  "latest_version": "smwc-10972-1427223173",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10972,
+      "title": "Cavernous Melancholy",
+      "version": "smwc-10972-1427223173",
+      "upstream_time": 1427223173,
+      "download_url": "https://dl.smwcentral.net/10972/Cavernous%20Melancholy.zip",
+      "filename": "Cavernous Melancholy.zip",
+      "size": 30373,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

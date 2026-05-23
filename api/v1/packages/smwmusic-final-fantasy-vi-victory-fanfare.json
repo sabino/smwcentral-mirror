@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-vi-victory-fanfare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23165,
+  "title": "Final Fantasy VI - Victory Fanfare",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "The Fanfare theme of Final Fantasy VI.<br>\r\n<br>\r\nNote that if you want to use this as a goal theme, you will have to add \"!\" at the end of the following lines:<br>\r\n\"default/0F SMW @21.brr\"<br>\r\n\"default/11 SMW @17.brr\"<br>\r\nNote that this may cause incompatibilities with other songs due to ARAM limitations or omission of these samples.<br>\r\n<br>\r\nUPDATE FIX: 30-05-2020",
+  "latest_version": "smwc-23165-1590867199",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23165,
+      "title": "Final Fantasy VI - Victory Fanfare",
+      "version": "smwc-23165-1590867199",
+      "upstream_time": 1590867199,
+      "download_url": "https://dl.smwcentral.net/23165/FF6%20-%20Victory.zip",
+      "filename": "FF6 - Victory.zip",
+      "size": 32856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

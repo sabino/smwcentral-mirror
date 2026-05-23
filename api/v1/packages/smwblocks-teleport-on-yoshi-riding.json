@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-teleport-on-yoshi-riding",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41153,
+  "title": "Teleport on Yoshi Riding",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "teleport",
+    "yoshi"
+  ],
+  "description": "This block will teleport the player only if he is riding Yoshi.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41153-1764372369",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41153,
+      "title": "Teleport on Yoshi Riding",
+      "version": "smwc-41153-1764372369",
+      "upstream_time": 1764372369,
+      "download_url": "https://dl.smwcentral.net/41153/teleport_yoshi.zip",
+      "filename": "teleport_yoshi.zip",
+      "size": 700,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

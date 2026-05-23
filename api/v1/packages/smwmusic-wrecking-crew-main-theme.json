@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wrecking-crew-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8594,
+  "title": "Wrecking Crew - Main Theme",
+  "authors": [
+    "Dark Mario Bros"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "overworld"
+  ],
+  "description": "This is the main stage theme of Wrecking Crew (not bonus stages.)",
+  "latest_version": "smwc-8594-1403327300",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8594,
+      "title": "Wrecking Crew - Main Theme",
+      "version": "smwc-8594-1403327300",
+      "upstream_time": 1403327300,
+      "download_url": "https://dl.smwcentral.net/8594/WC%20Main%20Theme.zip",
+      "filename": "WC Main Theme.zip",
+      "size": 95437,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

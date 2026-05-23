@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-sprite-status-bar-v1-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12383,
+  "title": "Sprite Status Bar v1.1.1",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "course clear",
+    "dynamic",
+    "layer 3",
+    "lorom",
+    "needs remoderation",
+    "sa-1",
+    "sprite",
+    "status bar"
+  ],
+  "description": "NEW in v1.1.1<br>\r\n- Split up 3-byte table into three different tables, because this makes the data more efficient to access.<br>\r\n- Added a feature to change the IRQ scanline (status bar height) on a per-level basis for levels when SSB is disabled, because the original patch that allowed this shares a hijack with SSB and cannot be used on the same ROM.<br>\r\n<br>\r\nTo use the sprite course clear text feature, you must have No More Sprite Tile Limits patched to your ROM. You do not have to enable it in your level, but it must be installed.<br>\r\n<br>\r\nSee this for more info: http://www.smwcentral.net/?p=thread&id=25824",
+  "latest_version": "smwc-12383-1461972257",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12383,
+      "title": "Sprite Status Bar v1.1.1",
+      "version": "smwc-12383-1461972257",
+      "upstream_time": 1461972257,
+      "download_url": "https://dl.smwcentral.net/12383/SSB111.zip",
+      "filename": "SSB111.zip",
+      "size": 11669,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

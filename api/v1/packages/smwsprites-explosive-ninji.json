@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-explosive-ninji",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36910,
+  "title": "Explosive Ninji",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "explode",
+    "exploding",
+    "lorom",
+    "ninji",
+    "sa-1",
+    "upside down"
+  ],
+  "description": "This is a ninji that explodes after the player comes close. Also includes upside-down variant.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span> during Summer C3 2023.",
+  "latest_version": "smwc-36910-1714325323",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36910,
+      "title": "Explosive Ninji",
+      "version": "smwc-36910-1714325323",
+      "upstream_time": 1714325323,
+      "download_url": "https://dl.smwcentral.net/36910/ExplosiveNinji.zip",
+      "filename": "ExplosiveNinji.zip",
+      "size": 6551,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

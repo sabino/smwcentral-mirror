@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-happy-womanly-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7918,
+  "title": "Happy Womanly Beach",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "beach"
+  ],
+  "description": "A little beach tune.",
+  "latest_version": "smwc-7918-1318100615",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7918,
+      "title": "Happy Womanly Beach",
+      "version": "smwc-7918-1318100615",
+      "upstream_time": 1318100615,
+      "download_url": "https://dl.smwcentral.net/7918/Happy%20Womanly%20Beach.zip",
+      "filename": "Happy Womanly Beach.zip",
+      "size": 67840,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

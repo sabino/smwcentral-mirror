@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-earthbound-your-name-please",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26153,
+  "title": "EarthBound - Your Name, Please",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "credits",
+    "mysterious",
+    "retro",
+    "switch palace",
+    "urban"
+  ],
+  "description": "Your Name, Please from Earthbound.<br>\r\nYou can change the define settings in the text file, with or without noise and voice.",
+  "latest_version": "smwc-26153-1615926582",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26153,
+      "title": "EarthBound - Your Name, Please",
+      "version": "smwc-26153-1615926582",
+      "upstream_time": 1615926582,
+      "download_url": "https://dl.smwcentral.net/26153/Earthbound%20-%20Your%20Name%20Please.zip",
+      "filename": "Earthbound - Your Name Please.zip",
+      "size": 112177,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

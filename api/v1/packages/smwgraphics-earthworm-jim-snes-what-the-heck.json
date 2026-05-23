@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-earthworm-jim-snes-what-the-heck",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25056,
+  "title": "Earthworm Jim (SNES) - What the Heck?",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "needs remoderation",
+    "patch needed",
+    "volcano"
+  ],
+  "description": "Now it's the SNES version of Earthworm Jim - What the Heck, along with its layer 3. I had to fight 2 thingw here: one is frame 'fighting' of Evil the Cat and two is layer 3 management. After overcoming the challenges, I can say the backgrounds are done. In the original, the scrolling was slow, so you must find a way to set scrolling to slow or set it to none. If you check the in-game screenshot, you'll see that layer 3, while vanishing thanks to Remove Status Bar patch, is weirdly placed in front of layer 2. There's an explanation here. In the SNES EJ, the moon thing was placed behind the transparent layer 2, while the layer 3, being transparent at the bottom was in front of the BG and auto-scrolled. It's possible to simulate this in SMW, but you must be careful. Features:<br>\r\n<br>\r\n-you can view the sample level to see how both the BG and layer 3 are set up.<br>\r\n-the palette is weirdly placed. It uses palettes 3, 5 and little bit of palette 1. Speaking of palette 1:<br>\r\n-it only uses 2 colors and placed those colors at layer 3 pslette 6 and 7. Those are the transparent colors, unaffecting SMW colors.<br>\r\n-layer 3 colors are easy to edit. Those don't affect SMW colors. It uses layer 3 palettes 3, 4 and 5.<br>\r\n-Bonus: Evil the Cat animates. Since I wasn't sure where the animations were, I decided to use the Genesis version and recolored tiles, so that it matches the SNES version and turned out good. Check the 1st picture.<br>\r\n-layer 2 can be 512x512 if so desired.<br>\r\n-layer 2 uses 402 9x9 tiles. It overwrites BG1, BG2, BG3 and a bit of FG1. You can't use bushes.<br>\r\n-BG uses 372 Map16 tiles. It almost overwrites 1 Map16 page and a half.<br>\r\n-layer 3 uses 384 tiles. You'd think it uses 3 ExGFX files, which is alraady a lot, but no, it uses 4 in total. I had to avoid tile FC here. It's 256x256 and you need <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">DKCR Sprite Status Bar</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21562\">Minimalist Status Bars</a> patches.<br>\r\n<br>\r\nYou ca say it was version 1.0 above.<br>\r\n<br>\r\nVersion 1.12:<br>\r\n-fixed one of the blue eyes in one of Evil the Cat's animations. Now it's good.<br>\r\n-added transluscent fog to layer 3, which is better now.<br>\r\n-set both layer 2 and layer 3 X and Y scrolling to none for best results.<br>\r\n-extended the fog for layer 3. Anorakun said it cuts off.<br>\r\n",
+  "latest_version": "smwc-25056-1604330295",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25056,
+      "title": "Earthworm Jim (SNES) - What the Heck?",
+      "version": "smwc-25056-1604330295",
+      "upstream_time": 1604330295,
+      "download_url": "https://dl.smwcentral.net/25056/EWJ%20%28SNES%29%20-%20What%20the%20Heck.zip",
+      "filename": "EWJ (SNES) - What the Heck.zip",
+      "size": 22213,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

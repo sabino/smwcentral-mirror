@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-yi-flopsy-fish-constant-jumping",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32907,
+  "title": "YI Flopsy Fish (constant jumping)",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "enemy",
+    "fish",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A fish from YI that constantly jumps out of the water (read the readme for more info on various options)<br>\r\n<br>\r\nv1.1: update for PIXI and SA-1 compatibility (spooonsss)",
+  "latest_version": "smwc-32907-1690114373",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32907,
+      "title": "YI Flopsy Fish (constant jumping)",
+      "version": "smwc-32907-1690114373",
+      "upstream_time": 1690114373,
+      "download_url": "https://dl.smwcentral.net/32907/FlopsyFish.zip",
+      "filename": "FlopsyFish.zip",
+      "size": 12270,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

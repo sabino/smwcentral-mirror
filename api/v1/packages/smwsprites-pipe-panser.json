@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pipe-panser",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31352,
+  "title": "Pipe Panser",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "panser",
+    "sa-1"
+  ],
+  "description": "A panser which hides inside pipes. They either act like Venus Fire Traps i.e. they periodically come out of the pipe and shoot one fireball or will shoot fireballs when the player is near one.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"unknownperson123\"><a href=\"/?p=profile&amp;id=52490\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">unknownperson123</a></span>.",
+  "latest_version": "smwc-31352-1661820404",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31352,
+      "title": "Pipe Panser",
+      "version": "smwc-31352-1661820404",
+      "upstream_time": 1661820404,
+      "download_url": "https://dl.smwcentral.net/31352/Pipe%20Panser.zip",
+      "filename": "Pipe Panser.zip",
+      "size": 9499,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

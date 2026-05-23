@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-separate-jump-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24179,
+  "title": "Separate Jump SFX",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "sa-1",
+    "sfx",
+    "spinjump"
+  ],
+  "description": "This patch makes a different jump and/or spin-jump sound effect play depending on current player's powerup status.<br>\r\nYou can easily customize which sound effects are played in the ASM file.",
+  "latest_version": "smwc-24179-1598865279",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24179,
+      "title": "Separate Jump SFX",
+      "version": "smwc-24179-1598865279",
+      "upstream_time": 1598865279,
+      "download_url": "https://dl.smwcentral.net/24179/SeparateJumpSFX.zip",
+      "filename": "SeparateJumpSFX.zip",
+      "size": 1372,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

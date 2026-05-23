@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-event-based-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3992,
+  "title": "Event Based blocks",
+  "authors": [
+    "Infrared"
+  ],
+  "tags": [
+    "camera",
+    "event",
+    "lorom",
+    "ow event"
+  ],
+  "description": "These blocks do two separate things:<br>\r\n<br>\r\neventpass.asm allows the player to pass through the block when a certain number of events have been triggered.<br>\r\neventscroll.asm allows the camera to scroll when a certain number of events is passed.<br>\r\n<br>\r\nIf you are going to use both, I recommend reading my recommendations for where to place these blocks. These blocks combined can create the perfect 'one screen where you must do something to continue' effect.<br>\r\n<br>\r\nAlso - this is my first block! :D Enjoy, and credit isn't necessary.",
+  "latest_version": "smwc-3992-1426222583",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3992,
+      "title": "Event Based blocks",
+      "version": "smwc-3992-1426222583",
+      "upstream_time": 1426222583,
+      "download_url": "https://dl.smwcentral.net/3992/AfterEventBlock.zip",
+      "filename": "AfterEventBlock.zip",
+      "size": 1311,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

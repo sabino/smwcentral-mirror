@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-despawn-dropped-item-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 39064,
+  "title": "Despawn Dropped Item Fix",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A small patch which fixes a minor bug which causes dropped items from the item box to never disappear, filling up any potential sprite slot in the process.",
+  "latest_version": "smwc-39064-1753375004",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 39064,
+      "title": "Despawn Dropped Item Fix",
+      "version": "smwc-39064-1753375004",
+      "upstream_time": 1753375004,
+      "download_url": "https://dl.smwcentral.net/39064/DespawningDroppedItemFix.zip",
+      "filename": "DespawningDroppedItemFix.zip",
+      "size": 1189,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

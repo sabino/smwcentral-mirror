@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-bash-cutscene",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37213,
+  "title": "Crash Bash - Cutscene",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "cutscene",
+    "tense"
+  ],
+  "description": "A short and tense theme that plays in the pre-boss cutscenes from Crash Bash.",
+  "latest_version": "smwc-37213-1712504704",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37213,
+      "title": "Crash Bash - Cutscene",
+      "version": "smwc-37213-1712504704",
+      "upstream_time": 1712504704,
+      "download_url": "https://dl.smwcentral.net/37213/CBash%20-%20Cutscene.zip",
+      "filename": "CBash - Cutscene.zip",
+      "size": 92261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

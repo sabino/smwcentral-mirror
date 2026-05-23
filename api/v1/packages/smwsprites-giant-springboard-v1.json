@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-giant-springboard-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22249,
+  "title": "Giant Springboard v1.01",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "giant",
+    "lorom",
+    "sa-1",
+    "springboard"
+  ],
+  "description": "This sprite is basically a 32x32 springboard. It isn't carryable, but launches Mario very high. If the Extra Bit is clear, it shoots him normal height like the normal springboard, but if its set, it will make Mario fly upward extremely fast and extremely high.<br>\r\nNo credit needed.<br>\r\n<br>\r\nUPDATE by Manuz: Now works with PIXI and SA-1.<br>\r\n<br>\r\n(Rykon-V73): Added a .json file for the giant springboard and added another ExGFX file for good GFX. You can still use the old one. Both are included in the archive.",
+  "latest_version": "smwc-22249-1582654672",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22249,
+      "title": "Giant Springboard v1.01",
+      "version": "smwc-22249-1582654672",
+      "upstream_time": 1582654672,
+      "download_url": "https://dl.smwcentral.net/22249/GiantSpring-edited.zip",
+      "filename": "GiantSpring-edited.zip",
+      "size": 8051,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

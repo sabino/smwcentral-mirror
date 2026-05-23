@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-fanfare-in-g-minor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26680,
+  "title": "Fanfare in G# Minor",
+  "authors": [
+    "mindmatchingmoment"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "A short fanfare in G# minor.<br>\r\nIntended as a replacement for either the \"boss clear\" or \"stage clear\" theme.<br>\r\nThe text file has a 3 options (echo, end chord, goal tape sound at start) that can be set to 0 or 1.<br>\r\nThe listed insert size and length on this submission are the size and length that result from setting all options to 1.<br>\r\n<br>\r\nEDIT 4/10/21: Fixed Goal Tape sound to be proper tempo.",
+  "latest_version": "smwc-26680-1620155398",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26680,
+      "title": "Fanfare in G# Minor",
+      "version": "smwc-26680-1620155398",
+      "upstream_time": 1620155398,
+      "download_url": "https://dl.smwcentral.net/26680/fanfare_gs_min.zip",
+      "filename": "fanfare_gs_min.zip",
+      "size": 161696,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

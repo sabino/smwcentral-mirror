@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-scarlet-sky",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22703,
+  "title": "Scarlet Sky",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "overworld",
+    "sky"
+  ],
+  "description": "simple and small composition for happy environments.",
+  "latest_version": "smwc-22703-1587866305",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22703,
+      "title": "Scarlet Sky",
+      "version": "smwc-22703-1587866305",
+      "upstream_time": 1587866305,
+      "download_url": "https://dl.smwcentral.net/22703/Scarlet%20Sky.zip",
+      "filename": "Scarlet Sky.zip",
+      "size": 31792,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

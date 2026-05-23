@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-dma-remap-v3",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41544,
+  "title": "DMA Remap v3.0",
+  "authors": [
+    "Vitor Vilela"
+  ],
+  "tags": [
+    "dma",
+    "irq",
+    "lorom",
+    "nmi",
+    "sa-1"
+  ],
+  "description": "Remaps the default channels used by DMA in Super Mario World, allocating these transfers to the first three channels and giving you five HDMA channels free for you to use outside of the credits roll.<br>\r\n<br>\r\nBy default, the remaps are the following:<br>\r\n<ul><li>Channel 0 is reserved for DMAs outside interrupts.</li>\n<li>Channel 1 is reserved for the vanilla windowing HDMA.</li>\n<li>Channel 2 is reserved for DMAs in interrupts.</li>\n<li>You can use channels 3 to 7 for HDMA effects.</li></ul><br>\r\n<br>\r\nThis patch is included in SA-1 Pack and re-patching it is not needed if you have that, but it could help LoROM users should they need more HDMA channels.",
+  "latest_version": "smwc-41544-1770422481",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41544,
+      "title": "DMA Remap v3.0",
+      "version": "smwc-41544-1770422481",
+      "upstream_time": 1770422481,
+      "download_url": "https://dl.smwcentral.net/41544/dma_remap.zip",
+      "filename": "dma_remap.zip",
+      "size": 1111,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

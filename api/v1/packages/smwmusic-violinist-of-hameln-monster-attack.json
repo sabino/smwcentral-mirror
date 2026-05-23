@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-violinist-of-hameln-monster-attack",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8200,
+  "title": "Violinist of Hameln - Monster Attack",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "dark",
+    "final",
+    "mountain",
+    "overworld"
+  ],
+  "description": "A short song that would fit a dark cutscene or pre-boss room.",
+  "latest_version": "smwc-8200-1325229318",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8200,
+      "title": "Violinist of Hameln - Monster Attack",
+      "version": "smwc-8200-1325229318",
+      "upstream_time": 1325229318,
+      "download_url": "https://dl.smwcentral.net/8200/Monster%20Attack.zip",
+      "filename": "Monster Attack.zip",
+      "size": 64909,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

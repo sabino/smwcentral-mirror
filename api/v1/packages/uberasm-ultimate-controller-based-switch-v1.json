@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-ultimate-controller-based-switch-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40808,
+  "title": "Ultimate Controller-Based Switch v1.0",
+  "authors": [
+    "mathie"
+  ],
+  "tags": [
+    "custom",
+    "lorom",
+    "sa-1",
+    "super fx",
+    "switch"
+  ],
+  "description": "This very flexible piece of code allows you to easily setup a ON-OFF kind of switch changed by controller input... or more ! You can have up to 8 of them at the same time. Details in .asm file.<br>\r\n<br>\r\nDefault configuration replicates the classic \"Spin to switch ON-OFF status\" effect.",
+  "latest_version": "smwc-40808-1760635154",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40808,
+      "title": "Ultimate Controller-Based Switch v1.0",
+      "version": "smwc-40808-1760635154",
+      "upstream_time": 1760635154,
+      "download_url": "https://dl.smwcentral.net/40808/UCBS.zip",
+      "filename": "UCBS.zip",
+      "size": 1231,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

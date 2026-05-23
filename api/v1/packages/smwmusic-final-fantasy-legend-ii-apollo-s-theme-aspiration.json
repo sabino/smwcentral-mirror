@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-legend-ii-apollo-s-theme-aspiration",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7142,
+  "title": "Final Fantasy Legend II - Apollo's Theme: \"Aspiration\"",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "final"
+  ],
+  "description": "Very heavy song that would likely suit a boss battle or intense scene.",
+  "latest_version": "smwc-7142-1311973180",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7142,
+      "title": "Final Fantasy Legend II - Apollo's Theme: \"Aspiration\"",
+      "version": "smwc-7142-1311973180",
+      "upstream_time": 1311973180,
+      "download_url": "https://dl.smwcentral.net/7142/ffl2a.zip",
+      "filename": "ffl2a.zip",
+      "size": 69157,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

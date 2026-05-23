@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-tricky-item-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3820,
+  "title": "Tricky Item Blocks",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "question block"
+  ],
+  "description": "Do you know when there is a couple of question/turn blocks, and most of them have coins and only one of them has an item? With this block, you can make that so the item will be always in the last block the player hits!<br>\r\n<br>\r\nYou can define which item the last block will have into, how many blocks are in the couple, and even if they're either question or turn blocks!<br>\r\n<br>\r\nRemember to set up everything correctly in the ASM file. Have fun!",
+  "latest_version": "smwc-3820-1438488937",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3820,
+      "title": "Tricky Item Blocks",
+      "version": "smwc-3820-1438488937",
+      "upstream_time": 1438488937,
+      "download_url": "https://dl.smwcentral.net/3820/TCOIB.zip",
+      "filename": "TCOIB.zip",
+      "size": 1411,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

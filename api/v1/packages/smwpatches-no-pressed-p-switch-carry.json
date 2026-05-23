@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-no-pressed-p-switch-carry",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18553,
+  "title": "No Pressed P-Switch Carry",
+  "authors": [
+    "Deflaktor"
+  ],
+  "tags": [
+    "lorom",
+    "p-switch",
+    "sa-1"
+  ],
+  "description": "Disallows carrying a pressed P-Switch. Self-explanatory.",
+  "latest_version": "smwc-18553-1543395186",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18553,
+      "title": "No Pressed P-Switch Carry",
+      "version": "smwc-18553-1543395186",
+      "upstream_time": 1543395186,
+      "download_url": "https://dl.smwcentral.net/18553/NoPressedPSwitchCarry.zip",
+      "filename": "NoPressedPSwitchCarry.zip",
+      "size": 503,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

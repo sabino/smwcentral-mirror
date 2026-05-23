@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-valis-iv-castle-vanity",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40627,
+  "title": "Super Valis IV - Castle Vanity",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "ruins",
+    "temple",
+    "urban"
+  ],
+  "description": "Music from the second level of Super Valis IV<br>\r\n<br>\r\nLike all songs from Super Valis IV, this one has an extremely high echo delay value, so the following Global Songs / SFX are not compatible:<br>\r\nThunder/Firework/Blargg",
+  "latest_version": "smwc-40627-1759076669",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40627,
+      "title": "Super Valis IV - Castle Vanity",
+      "version": "smwc-40627-1759076669",
+      "upstream_time": 1759076669,
+      "download_url": "https://dl.smwcentral.net/40627/Castle%20Vanity.zip",
+      "filename": "Castle Vanity.zip",
+      "size": 52031,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

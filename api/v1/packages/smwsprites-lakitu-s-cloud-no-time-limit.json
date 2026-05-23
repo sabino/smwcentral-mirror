@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-lakitu-s-cloud-no-time-limit",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 13507,
+  "title": "Lakitu's cloud (No time limit)",
+  "authors": [
+    "Mellonpizza"
+  ],
+  "tags": [
+    "cheat",
+    "cloud",
+    "lakitu",
+    "lorom",
+    "sa-1",
+    "vehicle"
+  ],
+  "description": "A disassembly of sprite 87 in SMW, Lakitu's cloud.",
+  "latest_version": "smwc-13507-1459154891",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 13507,
+      "title": "Lakitu's cloud (No time limit)",
+      "version": "smwc-13507-1459154891",
+      "upstream_time": 1459154891,
+      "download_url": "https://dl.smwcentral.net/13507/SMWSDIS%20-%2087%20-%20Lakitu%27s%20Cloud.zip",
+      "filename": "SMWSDIS - 87 - Lakitu%27s Cloud.zip",
+      "size": 3245,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

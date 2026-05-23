@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-tay-zonday-chocolate-rain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23602,
+  "title": "Tay Zonday - Chocolate Rain",
+  "authors": [
+    "Sariel"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cutscene",
+    "misc",
+    "tense",
+    "title"
+  ],
+  "description": "*I moved away from the spc player to breathe in*<br>\r\nThis is Tay Zonday's most viral song, Chocolate Rain. I think you can find a few ports of it if you browse through some legacy packs, but there's no official submission so far. Quite surprising considering this song is 13 years old already.<br>\r\nHowever, since this has a quite short loop you should only use it for some bonus areas and such things.",
+  "latest_version": "smwc-23602-1595173139",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23602,
+      "title": "Tay Zonday - Chocolate Rain",
+      "version": "smwc-23602-1595173139",
+      "upstream_time": 1595173139,
+      "download_url": "https://dl.smwcentral.net/23602/Tay%20Zonday%20-%20Chocolate%20Rain.zip",
+      "filename": "Tay Zonday - Chocolate Rain.zip",
+      "size": 32542,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-donkey-kong-country-lost-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18651,
+  "title": "Donkey Kong Country - Lost Life",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "game over",
+    "miss"
+  ],
+  "description": "Includes two versions. One with the regular version of the song, and one with the SMW death intro before the song. Requested by RussianMan.",
+  "latest_version": "smwc-18651-1544670885",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18651,
+      "title": "Donkey Kong Country - Lost Life",
+      "version": "smwc-18651-1544670885",
+      "upstream_time": 1544670885,
+      "download_url": "https://dl.smwcentral.net/18651/Donkey%20Kong%20Country%20-%20Lost%20Life.zip",
+      "filename": "Donkey Kong Country - Lost Life.zip",
+      "size": 62693,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

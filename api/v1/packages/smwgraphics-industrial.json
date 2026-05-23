@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-industrial",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 12240,
+  "title": "Industrial",
+  "authors": [
+    "Carld923"
+  ],
+  "tags": [
+    "industrial",
+    "mechanical",
+    "needs remoderation"
+  ],
+  "description": "Industrial Graphics<br>\r\nCredit : optional",
+  "latest_version": "smwc-12240-1444973592",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 12240,
+      "title": "Industrial",
+      "version": "smwc-12240-1444973592",
+      "upstream_time": 1444973592,
+      "download_url": "https://dl.smwcentral.net/12240/cus-industrial%28r%29.zip",
+      "filename": "cus-industrial(r).zip",
+      "size": 4484,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 6555,
+      "title": "Industrial",
+      "version": "smwc-6555-1400249332",
+      "upstream_time": 1400249332,
+      "download_url": "https://dl.smwcentral.net/6555/Industrial.zip",
+      "filename": "Industrial.zip",
+      "size": 4267,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-funky-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35472,
+  "title": "Super Funky World",
+  "authors": [
+    "Jakeapus"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "fire",
+    "industrial"
+  ],
+  "description": "All standard SMW samples? Check. Steady tempo? Check. Head bob? Check. This was really fun to make and one of my favorites so far! I think you could use this in an intro/title, a mini-boss/castle, or some kind of beginning levels to set the mood for a fun hack. Have fun with it!",
+  "latest_version": "smwc-35472-1699853362",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35472,
+      "title": "Super Funky World",
+      "version": "smwc-35472-1699853362",
+      "upstream_time": 1699853362,
+      "download_url": "https://dl.smwcentral.net/35472/SFW.zip",
+      "filename": "SFW.zip",
+      "size": 23796,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-solomon-s-keep-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11405,
+  "title": "Solomon's Keep - Main Theme",
+  "authors": [
+    "xHF01x"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "fire",
+    "tense"
+  ],
+  "description": "The music that plays through basically the whole game in Solomon's Keep. Could fit a long dark dungeon level.",
+  "latest_version": "smwc-11405-1435266237",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11405,
+      "title": "Solomon's Keep - Main Theme",
+      "version": "smwc-11405-1435266237",
+      "upstream_time": 1435266237,
+      "download_url": "https://dl.smwcentral.net/11405/Solomon%27s%20Keep.zip",
+      "filename": "Solomon%27s Keep.zip",
+      "size": 32259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

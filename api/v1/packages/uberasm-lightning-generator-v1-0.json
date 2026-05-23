@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-lightning-generator-v1-0",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41464,
+  "title": "Lightning Generator v1.0.1",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "effect",
+    "lightning",
+    "lorom",
+    "sa-1",
+    "thunder"
+  ],
+  "description": "A visual generator which displays a lightning effect. It can be customised to write to any colour on the palette (it's 0 by default which affects the background) as well as customised in what colours the lightning will generate, how long it waits between each strike, etc.<br>\r\n<br>\r\nAlso included is a generator which can be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32277\">PIXI</a> if you prefer the old-school way.",
+  "latest_version": "smwc-41464-1769128280",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41464,
+      "title": "Lightning Generator v1.0.1",
+      "version": "smwc-41464-1769128280",
+      "upstream_time": 1769128280,
+      "download_url": "https://dl.smwcentral.net/41464/Lightning%20Generator.zip",
+      "filename": "Lightning Generator.zip",
+      "size": 9030,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

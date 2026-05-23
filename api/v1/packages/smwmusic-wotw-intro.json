@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wotw-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23246,
+  "title": "WOTW - Intro 75",
+  "authors": [
+    "Nikku4211"
+  ],
+  "tags": [
+    "mountain",
+    "overworld",
+    "retro",
+    "title"
+  ],
+  "description": "This song is 'Intro Number 75', composed in May 1993 by WOTW for one of Skid Row's Amiga cracktros(intro to pirated game made to credit the people who removed the copy protection). Very creative name.",
+  "latest_version": "smwc-23246-1591328350",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23246,
+      "title": "WOTW - Intro 75",
+      "version": "smwc-23246-1591328350",
+      "upstream_time": 1591328350,
+      "download_url": "https://dl.smwcentral.net/23246/intro75_.zip",
+      "filename": "intro75_.zip",
+      "size": 48788,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

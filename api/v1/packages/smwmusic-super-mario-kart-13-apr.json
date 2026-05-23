@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-kart-13-apr",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23994,
+  "title": "Super Mario Kart (13 Apr. 1992 Prototype) - Vanilla Lake",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "athletic",
+    "ice",
+    "sky"
+  ],
+  "description": "The prototype Vanilla Lake song! It's different from the final song <b>and</b> even <a href=\"https://www.youtube.com/watch?v=wvRQzPjOuCU\" rel=\"nofollow\">this version</a>!",
+  "latest_version": "smwc-23994-1595969875",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23994,
+      "title": "Super Mario Kart (13 Apr. 1992 Prototype) - Vanilla Lake",
+      "version": "smwc-23994-1595969875",
+      "upstream_time": 1595969875,
+      "download_url": "https://dl.smwcentral.net/23994/ProtoVanilla.zip",
+      "filename": "ProtoVanilla.zip",
+      "size": 56651,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

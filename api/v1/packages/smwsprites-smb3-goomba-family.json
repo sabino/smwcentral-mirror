@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-smb3-goomba-family",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23199,
+  "title": "SMB3 Goomba Family",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "enemy",
+    "extended",
+    "goomba",
+    "lorom",
+    "patches",
+    "sa-1"
+  ],
+  "description": "This is the SMB3 Goomba family, which includes the standard Goomba, Para-Goomba, and Para-Goomba Bomber, which drops Micro Goombas, as well as a version of the Para-Goomba Bomber which stays in the air once it starts flying around.  Two patches are also included; one of them is required for the sprite to function and the other is required for inserting the Micro Goomba, which is a custom extended sprite that can be inserted with PIXI.  You don't have to give me (Knight of Time) credit, but please credit Sonikku, as this is his sprite. GFX are included.",
+  "latest_version": "smwc-23199-1596678609",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23199,
+      "title": "SMB3 Goomba Family",
+      "version": "smwc-23199-1596678609",
+      "upstream_time": 1596678609,
+      "download_url": "https://dl.smwcentral.net/23199/SMB3GoombaFamily.zip",
+      "filename": "SMB3GoombaFamily.zip",
+      "size": 17040,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

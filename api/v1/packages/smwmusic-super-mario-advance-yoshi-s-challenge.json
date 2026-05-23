@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-advance-yoshi-s-challenge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12724,
+  "title": "Super Mario Advance - Yoshi's Challenge",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "overworld"
+  ],
+  "description": "The bouncy theme from the level select screen from Super Mario Advance's postgame challenge.",
+  "latest_version": "smwc-12724-1447797790",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12724,
+      "title": "Super Mario Advance - Yoshi's Challenge",
+      "version": "smwc-12724-1447797790",
+      "upstream_time": 1447797790,
+      "download_url": "https://dl.smwcentral.net/12724/Yoshi%27s%20Challenge.zip",
+      "filename": "Yoshi%27s Challenge.zip",
+      "size": 30630,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

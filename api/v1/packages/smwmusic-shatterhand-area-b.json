@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-shatterhand-area-b",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31528,
+  "title": "Shatterhand - Area B",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "final",
+    "industrial",
+    "retro",
+    "tense",
+    "urban"
+  ],
+  "description": "The intense and determined theme played on Area B in Shatterhand for the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31528-1663844071",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31528,
+      "title": "Shatterhand - Area B",
+      "version": "smwc-31528-1663844071",
+      "upstream_time": 1663844071,
+      "download_url": "https://dl.smwcentral.net/31528/Shatterhand%20-%20Area%20B.zip",
+      "filename": "Shatterhand - Area B.zip",
+      "size": 67420,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20040,
+      "title": "Shatterhand - Area B",
+      "version": "smwc-20040-1559176050",
+      "upstream_time": 1559176050,
+      "download_url": "https://dl.smwcentral.net/20040/shatterhand%20-%20area%20b.zip",
+      "filename": "shatterhand - area b.zip",
+      "size": 57273,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

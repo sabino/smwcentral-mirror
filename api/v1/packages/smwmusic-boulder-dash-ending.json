@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-boulder-dash-ending",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17286,
+  "title": "Boulder Dash - Ending",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "credits",
+    "overworld"
+  ],
+  "description": "Boulder Dash (nes) ending theme",
+  "latest_version": "smwc-17286-1522311063",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17286,
+      "title": "Boulder Dash - Ending",
+      "version": "smwc-17286-1522311063",
+      "upstream_time": 1522311063,
+      "download_url": "https://dl.smwcentral.net/17286/Bolder%20Dash%20-%20Ending.zip",
+      "filename": "Bolder Dash - Ending.zip",
+      "size": 32077,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

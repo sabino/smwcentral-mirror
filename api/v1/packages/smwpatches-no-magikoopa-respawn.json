@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-no-magikoopa-respawn",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27997,
+  "title": "No Magikoopa Respawn",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "magikoopa",
+    "sa-1"
+  ],
+  "description": "This simple patch prevents Magikoopas from respawning after they've been killed by the player.",
+  "latest_version": "smwc-27997-1629243270",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27997,
+      "title": "No Magikoopa Respawn",
+      "version": "smwc-27997-1629243270",
+      "upstream_time": 1629243270,
+      "download_url": "https://dl.smwcentral.net/27997/Killmagikoopa.zip",
+      "filename": "Killmagikoopa.zip",
+      "size": 417,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

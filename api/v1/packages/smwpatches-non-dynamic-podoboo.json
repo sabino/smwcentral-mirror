@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-non-dynamic-podoboo",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12452,
+  "title": "Non-Dynamic Podoboo",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Added Yoshi's tongue to the included GFX file (even though it overwrites some of the default tiles in GFX12 if not remapped).<br>\r\n<br>\r\nNormally, the Podoboo's tiles are dynamically uploaded to SP1, which makes them glitch when used with certain other sprites, such as Yoshi. This patch changes that, making its graphics work exactly the same as any other sprite. By default, it uses some unused tiles in GFX12. No freespace required.",
+  "latest_version": "smwc-12452-1448089071",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12452,
+      "title": "Non-Dynamic Podoboo",
+      "version": "smwc-12452-1448089071",
+      "upstream_time": 1448089071,
+      "download_url": "https://dl.smwcentral.net/12452/Non-Dynamic%20Podoboo.zip",
+      "filename": "Non-Dynamic Podoboo.zip",
+      "size": 2492,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

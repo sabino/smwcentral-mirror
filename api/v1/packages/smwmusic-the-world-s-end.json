@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-world-s-end",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7807,
+  "title": "The World's End",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "cave",
+    "final",
+    "fire"
+  ],
+  "description": "An interesting and epic-sounding theme. This would be good for later or final levels, as well as lava-themed areas.",
+  "latest_version": "smwc-7807-1316282313",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7807,
+      "title": "The World's End",
+      "version": "smwc-7807-1316282313",
+      "upstream_time": 1316282313,
+      "download_url": "https://dl.smwcentral.net/7807/The%20Worlds%20End.zip",
+      "filename": "The Worlds End.zip",
+      "size": 68887,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

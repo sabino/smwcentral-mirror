@@ -1,0 +1,47 @@
+{
+  "name": "smwsprites-giant-piranha-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 6960,
+  "title": "Giant Piranha Boss",
+  "authors": [
+    "dahnamics"
+  ],
+  "tags": [
+    "boss",
+    "fall",
+    "falling",
+    "fire",
+    "fire shooter",
+    "fireball",
+    "lorom",
+    "pipe",
+    "pipe enemy",
+    "pipes",
+    "piranha plant",
+    "plant",
+    "plants",
+    "rock",
+    "rocks",
+    "sa-1"
+  ],
+  "description": "A giant Piranha Plant boss. It will appear from random pipes on the ground (similarly to the vanilla Wendy) and perform one of three attacks, along with changing its color.<br>\r\n<br>\r\nIf it becomes red, it will shoot 8 small fireballs. If it becomes purple, it will spawn two big fireballs, which will fly up and then fall down at Mario's position. If it becomes green, it will charge towards the wall and spawn three rocks at Mario's position when it hits it. The rocks will either break when they touch the ground, or they'll remain there for Mario to pick up and throw at the boss.<br>\r\n<br>\r\nBy default, it takes 3 hits for the Piranha Plant to die.<br>\r\n<br>\r\nMake sure to specify the sprite numbers of all auxiliary sprites in giant_piranha_boss.asm! Check the ASM files for customization options.<br>\r\n<br>\r\nDemonstration video: <a href=\"https://www.youtube.com/watch?v=bWS7ySj8ljU\" rel=\"nofollow\">https://www.youtube.com/watch?v=bWS7ySj8ljU</a>",
+  "latest_version": "smwc-6960-1407350982",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 6960,
+      "title": "Giant Piranha Boss",
+      "version": "smwc-6960-1407350982",
+      "upstream_time": 1407350982,
+      "download_url": "https://dl.smwcentral.net/6960/Giant%20Piranha%20Boss.zip",
+      "filename": "Giant Piranha Boss.zip",
+      "size": 19799,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

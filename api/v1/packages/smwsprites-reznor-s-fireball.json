@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-reznor-s-fireball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30484,
+  "title": "Reznor's Fireball",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "projectile",
+    "reznor",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of extended sprite 02 in SMW, Reznor's Fireball.",
+  "latest_version": "smwc-30484-1659919295",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30484,
+      "title": "Reznor's Fireball",
+      "version": "smwc-30484-1659919295",
+      "upstream_time": 1659919295,
+      "download_url": "https://dl.smwcentral.net/30484/ReznorsFireball.zip",
+      "filename": "ReznorsFireball.zip",
+      "size": 2416,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

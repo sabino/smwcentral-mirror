@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-chrono-trigger-battle-with-magus",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23801,
+  "title": "Chrono Trigger - Battle With Magus",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "environmental",
+    "tense"
+  ],
+  "description": "Magus' battle theme. There's an option in the txt file to remove Magus' laugh, if you want.<br>\r\n<br>\r\nNote: if using Magus' laugh, the song is not compatible with the \"Bonus End\" song and with Thunder SFX/Blarggs.",
+  "latest_version": "smwc-23801-1595208508",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23801,
+      "title": "Chrono Trigger - Battle With Magus",
+      "version": "smwc-23801-1595208508",
+      "upstream_time": 1595208508,
+      "download_url": "https://dl.smwcentral.net/23801/Battle%20with%20Magus.zip",
+      "filename": "Battle with Magus.zip",
+      "size": 75226,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

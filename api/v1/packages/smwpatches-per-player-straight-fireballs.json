@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-per-player-straight-fireballs",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42309,
+  "title": "Per-Player Straight Fireballs",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "ability",
+    "fireball",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un\">Zack-san</a></span>.",
+  "latest_version": "V1.0.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42309,
+      "title": "Per-Player Straight Fireballs",
+      "version": "V1.0.1",
+      "upstream_time": 1778017397,
+      "download_url": "https://dl.smwcentral.net/42309/Per-Player%20Straight%20Fireballs%20V1.0.1.zip",
+      "filename": "Per-Player Straight Fireballs V1.0.1.zip",
+      "size": 857,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

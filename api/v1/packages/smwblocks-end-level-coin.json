@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-end-level-coin",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41210,
+  "title": "End Level Coin",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "coin",
+    "counter",
+    "event",
+    "exit",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This coin ends the level after a certain amount is collected. It can either be a regular coin, or use a custom counter. It can trigger the regular exit or any of the three secret exits.",
+  "latest_version": "smwc-41210-1765828351",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41210,
+      "title": "End Level Coin",
+      "version": "smwc-41210-1765828351",
+      "upstream_time": 1765828351,
+      "download_url": "https://dl.smwcentral.net/41210/end_level_coin.zip",
+      "filename": "end_level_coin.zip",
+      "size": 1161,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-anti-moon",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23861,
+  "title": "Anti-Moon",
+  "authors": [
+    "tmercswims"
+  ],
+  "tags": [
+    "3up",
+    "antimoon",
+    "game over",
+    "lives",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block is an evil moon. Instead of giving three lives, it will take three! And if the player has three or less already, a game over awaits!<br>\r\n<br>\r\n<br>\r\nFermin's Update: I added the 3rd time adding sa-1 hybrid compatible.",
+  "latest_version": "smwc-23861-1594928891",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23861,
+      "title": "Anti-Moon",
+      "version": "smwc-23861-1594928891",
+      "upstream_time": 1594928891,
+      "download_url": "https://dl.smwcentral.net/23861/antimoon.zip",
+      "filename": "antimoon.zip",
+      "size": 608,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

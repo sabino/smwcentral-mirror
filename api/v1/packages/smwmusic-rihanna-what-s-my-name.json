@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-rihanna-what-s-my-name",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24339,
+  "title": "Rihanna - What's My Name?",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "credits",
+    "grassland",
+    "misc",
+    "night",
+    "overworld",
+    "sad"
+  ],
+  "description": "Famous pop song. Useful for a number of purposes.<br>\r\nAlso bundles a version with longer intro (0x331 and 1:20).<br>\r\n<br>\r\nRequested by OrangeBronzeDaisy.",
+  "latest_version": "smwc-24339-1601173471",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24339,
+      "title": "Rihanna - What's My Name?",
+      "version": "smwc-24339-1601173471",
+      "upstream_time": 1601173471,
+      "download_url": "https://dl.smwcentral.net/24339/whatsmyname_0_1.zip",
+      "filename": "whatsmyname_0_1.zip",
+      "size": 87903,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

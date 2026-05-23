@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-revenge-of-shinobi-sunrise-blvd",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39305,
+  "title": "The Revenge of Shinobi - Sunrise Blvd",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "athletic",
+    "temple",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Song from the Genesis game the Revenge of Shinobi by Yozu Koshiro (known for the Streets of Rage OSTs). ",
+  "latest_version": "smwc-39305-1748606341",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39305,
+      "title": "The Revenge of Shinobi - Sunrise Blvd",
+      "version": "smwc-39305-1748606341",
+      "upstream_time": 1748606341,
+      "download_url": "https://dl.smwcentral.net/39305/sunriseblvd.zip",
+      "filename": "sunriseblvd.zip",
+      "size": 77195,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

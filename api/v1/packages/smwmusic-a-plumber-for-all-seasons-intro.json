@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-a-plumber-for-all-seasons-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27919,
+  "title": "A Plumber For All Seasons - Intro",
+  "authors": [
+    "Kevin",
+    "wye"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "intro"
+  ],
+  "description": "Short calm piece that could fit an intro cutscene (note: it doesn't loop).",
+  "latest_version": "smwc-27919-1631594865",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27919,
+      "title": "A Plumber For All Seasons - Intro",
+      "version": "smwc-27919-1631594865",
+      "upstream_time": 1631594865,
+      "download_url": "https://dl.smwcentral.net/27919/APFAS%20-%20Intro.zip",
+      "filename": "APFAS - Intro.zip",
+      "size": 31825,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

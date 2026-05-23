@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-sprite-touch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41154,
+  "title": "Teleport on Sprite Touch",
+  "authors": [
+    "Arinsu",
+    "Lexi"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite",
+    "teleport"
+  ],
+  "description": "Teleports the player when touched by a specific sprite.",
+  "latest_version": "smwc-41154-1764372481",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41154,
+      "title": "Teleport on Sprite Touch",
+      "version": "smwc-41154-1764372481",
+      "upstream_time": 1764372481,
+      "download_url": "https://dl.smwcentral.net/41154/teleport_sprite.zip",
+      "filename": "teleport_sprite.zip",
+      "size": 816,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

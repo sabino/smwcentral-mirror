@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-on-off-switch-triggered-dark-room-w-spotlight",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27770,
+  "title": "On/Off Switch-Triggered Dark Room w/ Spotlight",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "consistency",
+    "dark room",
+    "lorom",
+    "on off",
+    "on off block",
+    "sa-1",
+    "spotlight"
+  ],
+  "description": "This patch changes the trigger for the Dark Room w/ Spotlight sprite to trigger based on the On/Off switch status.<br>\r\n<br>\r\nUpon the sprite's init, it will set the On/Off switch to the \"Off\" state unless another spotlight is active, in which case it deletes itself.<br>\r\n<br>\r\nThis patch requires no free space as it occupies either unused data in the default game or repurposes the spot where the default code is.<br>\r\n<br>\r\nThe inspiration comes from a brief epiphany that I had that made me realize that the red ? block sprite has literally zero purpose and I wanted to see if I could make it even more useless.<br>\r\n<br>\r\nTested with default SMW as well as an SA-1-enhanced ROM.",
+  "latest_version": "smwc-27770-1636302966",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27770,
+      "title": "On/Off Switch-Triggered Dark Room w/ Spotlight",
+      "version": "smwc-27770-1636302966",
+      "upstream_time": 1636302966,
+      "download_url": "https://dl.smwcentral.net/27770/OnOffSpotlight.zip",
+      "filename": "OnOffSpotlight.zip",
+      "size": 749,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "smwmusic-final-fantasy-vi-dancing-mad-part",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20401,
+  "title": "Final Fantasy VI - Dancing Mad (Part 5)",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "boss",
+    "carnival",
+    "castle",
+    "cutscene",
+    "dark",
+    "final",
+    "spooky",
+    "temple",
+    "tense"
+  ],
+  "description": "The final and most famous movement of the Dancing Mad theme. It plays against Kefka in his God form. Easily the best final boss theme in the series!<br>\r\n<br>\r\nAlso, I included Kefka's laugh at the end of the track for accuracy's sake, but it's totally unfitting to pretty much every single Mario hack. If you want to remove it, open the text file and look for the instructions at the end of channels #0 and #1.",
+  "latest_version": "smwc-20401-1562471532",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20401,
+      "title": "Final Fantasy VI - Dancing Mad (Part 5)",
+      "version": "smwc-20401-1562471532",
+      "upstream_time": 1562471532,
+      "download_url": "https://dl.smwcentral.net/20401/FF6Dancing5.zip",
+      "filename": "FF6Dancing5.zip",
+      "size": 78144,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20400,
+      "title": "Final Fantasy VI - Dancing Mad (Part 3)",
+      "version": "smwc-20400-1562463854",
+      "upstream_time": 1562463854,
+      "download_url": "https://dl.smwcentral.net/20400/FF6Dancing3.zip",
+      "filename": "FF6Dancing3.zip",
+      "size": 53963,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20399,
+      "title": "Final Fantasy VI - Dancing Mad (Part 2)",
+      "version": "smwc-20399-1562463842",
+      "upstream_time": 1562463842,
+      "download_url": "https://dl.smwcentral.net/20399/FF6Dancing2.zip",
+      "filename": "FF6Dancing2.zip",
+      "size": 64903,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19779,
+      "title": "Final Fantasy VI - Dancing Mad (Part 1)",
+      "version": "smwc-19779-1556217171",
+      "upstream_time": 1556217171,
+      "download_url": "https://dl.smwcentral.net/19779/dancing%20mad%201.zip",
+      "filename": "dancing mad 1.zip",
+      "size": 79498,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18607,
+      "title": "Final Fantasy VI - Dancing Mad (Part 4)",
+      "version": "smwc-18607-1543862888",
+      "upstream_time": 1543862888,
+      "download_url": "https://dl.smwcentral.net/18607/Final%20Fantasy%20VI%20-%20Dancing%20Mad%20%28Tier%204%29.zip",
+      "filename": "Final Fantasy VI - Dancing Mad (Tier 4).zip",
+      "size": 26999,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7193,
+      "title": "Final Fantasy VI - Dancing Mad (Part 5)",
+      "version": "smwc-7193-1320049731",
+      "upstream_time": 1320049731,
+      "download_url": "https://dl.smwcentral.net/7193/DancingMad.zip",
+      "filename": "DancingMad.zip",
+      "size": 74518,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-perfect-dark-pelagic-ii",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7261,
+  "title": "Perfect Dark - Pelagic II",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "dark",
+    "final"
+  ],
+  "description": "A long and epic song from Perfect Dark. Might fit to something 'final'.",
+  "latest_version": "smwc-7261-1312580330",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7261,
+      "title": "Perfect Dark - Pelagic II",
+      "version": "smwc-7261-1312580330",
+      "upstream_time": 1312580330,
+      "download_url": "https://dl.smwcentral.net/7261/pdp2.zip",
+      "filename": "pdp2.zip",
+      "size": 67513,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-smb3-nipper",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16210,
+  "title": "SMB3 Nipper",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "nipper",
+    "plant",
+    "sa-1",
+    "smb 3",
+    "smb3",
+    "super mario bros 3"
+  ],
+  "description": "This is the Nipper from Super Mario Bros. 3, a little plant enemy that jumps up at the player.<br>\r\n<br>\r\nBased on the extra byte (extension field in Lunar Magic), it can stay in place and jump when the player is above it, move around, or spit fireballs when the player is near. Check the ASM file for a list.",
+  "latest_version": "smwc-16210-1510483614",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16210,
+      "title": "SMB3 Nipper",
+      "version": "smwc-16210-1510483614",
+      "upstream_time": 1510483614,
+      "download_url": "https://dl.smwcentral.net/16210/SMB3%20Nipper.zip",
+      "filename": "SMB3 Nipper.zip",
+      "size": 4559,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

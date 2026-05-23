@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-sprite-downward-speed-limiter",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 35601,
+  "title": "Sprite Downward Speed Limiter",
+  "authors": [
+    "xhsdf"
+  ],
+  "tags": [
+    "gravity",
+    "sprite"
+  ],
+  "description": "Limits the downward speed of enemy sprites to a configurable value.<br>\r\nCan be used instead of water to delay enemies.<br>\r\nOr make thwomps go slower. Does not work with platforms.",
+  "latest_version": "smwc-35601-1707699718",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 35601,
+      "title": "Sprite Downward Speed Limiter",
+      "version": "smwc-35601-1707699718",
+      "upstream_time": 1707699718,
+      "download_url": "https://dl.smwcentral.net/35601/sprite_speed_limit_down.asm.zip",
+      "filename": "sprite_speed_limit_down.asm.zip",
+      "size": 434,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

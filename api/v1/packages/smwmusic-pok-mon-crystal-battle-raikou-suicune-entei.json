@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-pok-mon-crystal-battle-raikou-suicune-entei",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28971,
+  "title": "Pokémon Crystal - Battle! Raikou/Suicune/Entei",
+  "authors": [
+    "Francium"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "chase",
+    "misc",
+    "tense"
+  ],
+  "description": "BGM for fighting Suicune, from Pokemon Crystal Version.<br>\r\nMysterious sound. But it doesn't use any external samples!<br>\r\n<br>\r\nNo credit needed if you use this. But it would make me very happy if you added them!lol",
+  "latest_version": "smwc-28971-1647193127",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28971,
+      "title": "Pokémon Crystal - Battle! Raikou/Suicune/Entei",
+      "version": "smwc-28971-1647193127",
+      "upstream_time": 1647193127,
+      "download_url": "https://dl.smwcentral.net/28971/Suicune.zip",
+      "filename": "Suicune.zip",
+      "size": 34294,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28160,
+      "title": "Pokémon Crystal - Battle! Raikou/Suicune/Entei",
+      "version": "smwc-28160-1635707385",
+      "upstream_time": 1635707385,
+      "download_url": "https://dl.smwcentral.net/28160/pokecrys_legend_0_3.zip",
+      "filename": "pokecrys_legend_0_3.zip",
+      "size": 33146,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

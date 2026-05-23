@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-land-bonus-win",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34366,
+  "title": "Super Mario Land - Bonus Win",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "misc",
+    "retro"
+  ],
+  "description": "Bonus Win from Super Mario Land.",
+  "latest_version": "smwc-34366-1692935713",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34366,
+      "title": "Super Mario Land - Bonus Win",
+      "version": "smwc-34366-1692935713",
+      "upstream_time": 1692935713,
+      "download_url": "https://dl.smwcentral.net/34366/Super%20Mario%20Land%20-%20Bonus%20Win.zip",
+      "filename": "Super Mario Land - Bonus Win.zip",
+      "size": 31250,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

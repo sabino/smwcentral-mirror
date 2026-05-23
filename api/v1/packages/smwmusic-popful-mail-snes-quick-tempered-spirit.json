@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-popful-mail-snes-quick-tempered-spirit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36609,
+  "title": "Popful Mail (SNES) - Quick Tempered Spirit",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "overworld",
+    "switch palace",
+    "town",
+    "urban"
+  ],
+  "description": "Plays during the bonk minigame. Good for bonus stages and switch palaces. <a href=\"https://smwc.me/1631659\">Requested by Anorakun.</a>",
+  "latest_version": "smwc-36609-1705328346",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36609,
+      "title": "Popful Mail (SNES) - Quick Tempered Spirit",
+      "version": "smwc-36609-1705328346",
+      "upstream_time": 1705328346,
+      "download_url": "https://dl.smwcentral.net/36609/Popful%20Mail%20%28SFC%29%20-%20Quick%20Tempered%20Spirit.zip",
+      "filename": "Popful Mail (SFC) - Quick Tempered Spirit.zip",
+      "size": 53536,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

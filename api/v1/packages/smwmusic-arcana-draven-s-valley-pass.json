@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-arcana-draven-s-valley-pass",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39430,
+  "title": "Arcana - Draven's Valley Pass",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "final",
+    "grassland",
+    "mountain",
+    "upbeat"
+  ],
+  "description": "Draven's Valley Pass from Arcana/Cardmaster",
+  "latest_version": "smwc-39430-1741301893",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39430,
+      "title": "Arcana - Draven's Valley Pass",
+      "version": "smwc-39430-1741301893",
+      "upstream_time": 1741301893,
+      "download_url": "https://dl.smwcentral.net/39430/ArcanaCardmaster%20-%20Draven%27s%20Valley%20Pass.zip",
+      "filename": "ArcanaCardmaster - Draven%27s Valley Pass.zip",
+      "size": 52801,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15901,
+      "title": "Arcana - Draven's Valley Pass",
+      "version": "smwc-15901-1501235337",
+      "upstream_time": 1501235337,
+      "download_url": "https://dl.smwcentral.net/15901/Cardmaster%20%28Arcana%29%20-%20Draven%27s%20Valley%20Pass.zip",
+      "filename": "Cardmaster (Arcana) - Draven%27s Valley Pass.zip",
+      "size": 32096,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

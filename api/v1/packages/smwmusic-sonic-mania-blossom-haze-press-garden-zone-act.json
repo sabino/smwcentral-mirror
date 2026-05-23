@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-sonic-mania-blossom-haze-press-garden-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32908,
+  "title": "Sonic Mania - Blossom Haze (Press Garden Zone Act 2)",
+  "authors": [
+    "jummy0"
+  ],
+  "tags": [
+    "castle",
+    "ice",
+    "industrial",
+    "mountain",
+    "sky",
+    "urban"
+  ],
+  "description": "Theme of Press Garden Zone Act 2 from Sonic Mania.",
+  "latest_version": "smwc-32908-1682424925",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32908,
+      "title": "Sonic Mania - Blossom Haze (Press Garden Zone Act 2)",
+      "version": "smwc-32908-1682424925",
+      "upstream_time": 1682424925,
+      "download_url": "https://dl.smwcentral.net/32908/Sonic%20Mania%20-%20Blossom%20Haze.zip",
+      "filename": "Sonic Mania - Blossom Haze.zip",
+      "size": 34000,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18136,
+      "title": "Sonic Mania - Blossom Haze (Press Garden Zone Act 2)",
+      "version": "smwc-18136-1536461949",
+      "upstream_time": 1536461949,
+      "download_url": "https://dl.smwcentral.net/18136/Press%20Garden%20Zone%20Act%202.zip",
+      "filename": "Press Garden Zone Act 2.zip",
+      "size": 69266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

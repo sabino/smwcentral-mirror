@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-ganbare-goemon-kirakira-d-ch-boku-ga-dancer-ni-natta-wake-qubasa-castle-soccer-field",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 37116,
+  "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Qubasa Castle (Soccer Field)",
+  "authors": [
+    "Anorakun",
+    "Donut"
+  ],
+  "tags": [
+    "city",
+    "interior",
+    "mechanical"
+  ],
+  "description": "The soccer field background from Ganbare Goemon 4. You may remember this from the second level of my hack, Qubasa Sport Field. Unlike the one used in my hack, this version has been fully optimized. A great fit for stadium themed levels, or in general, sports levels. <br>\r\n<br>\r\nUPDATE: Reripped from scratch to make better use of color 0. Includes an uberasm HDMA gradient code that writes in color 0 or something by my friend Donut. Please insert the HDMA code with UberASM Tool.<br>\r\n<br>\r\nCredit would be great but is optional.",
+  "latest_version": "smwc-37116-1716860448",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 37116,
+      "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Qubasa Castle (Soccer Field)",
+      "version": "smwc-37116-1716860448",
+      "upstream_time": 1716860448,
+      "download_url": "https://dl.smwcentral.net/37116/Ganbare%20Goemon%204%20-%20Qubasa%20Castle%20%28Soccer%20Field%20UPDATE%29.zip",
+      "filename": "Ganbare Goemon 4 - Qubasa Castle (Soccer Field UPDATE).zip",
+      "size": 5160,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

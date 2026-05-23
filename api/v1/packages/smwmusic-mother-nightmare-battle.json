@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mother-nightmare-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23151,
+  "title": "Mother - Nightmare Battle",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "retro",
+    "tense"
+  ],
+  "description": "Part of Tornado's 8-bit music pack. A tense song that can be used for boss battles or otherwise intense levels.",
+  "latest_version": "smwc-23151-1590786176",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23151,
+      "title": "Mother - Nightmare Battle",
+      "version": "smwc-23151-1590786176",
+      "upstream_time": 1590786176,
+      "download_url": "https://dl.smwcentral.net/23151/Mother-NightmareBattle.zip",
+      "filename": "Mother-NightmareBattle.zip",
+      "size": 50391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

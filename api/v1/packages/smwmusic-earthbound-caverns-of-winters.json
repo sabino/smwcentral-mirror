@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-earthbound-caverns-of-winters",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24901,
+  "title": "EarthBound - Caverns of Winters",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "dark",
+    "mysterious",
+    "spooky"
+  ],
+  "description": "Creepy song from Earthbound. Also used (in reverse) in sonic.exe.<br>\r\nRequested by Fernandito2018.",
+  "latest_version": "smwc-24901-1606627908",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24901,
+      "title": "EarthBound - Caverns of Winters",
+      "version": "smwc-24901-1606627908",
+      "upstream_time": 1606627908,
+      "download_url": "https://dl.smwcentral.net/24901/Earthbound%20-%20Caverns%20of%20Winters.zip",
+      "filename": "Earthbound - Caverns of Winters.zip",
+      "size": 41373,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

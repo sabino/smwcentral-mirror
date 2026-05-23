@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-freeze-timer-with-string",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41471,
+  "title": "Freeze Timer With String",
+  "authors": [
+    "korochun",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "counter",
+    "lorom",
+    "sa-1",
+    "superfx",
+    "timer"
+  ],
+  "description": "Makes the game timer display a string upon reaching a certain timer value.",
+  "latest_version": "V3.0",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41471,
+      "title": "Freeze Timer With String",
+      "version": "V3.0",
+      "upstream_time": 1776052263,
+      "download_url": "https://dl.smwcentral.net/41471/retimer3.0.zip",
+      "filename": "retimer3.0.zip",
+      "size": 1580,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

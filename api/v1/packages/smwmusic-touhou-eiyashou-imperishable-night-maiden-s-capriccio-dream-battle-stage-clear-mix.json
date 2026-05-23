@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-touhou-eiyashou-imperishable-night-maiden-s-capriccio-dream-battle-stage-clear-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34339,
+  "title": "Touhou Eiyashou ~ Imperishable Night - Maiden's Capriccio ~ Dream Battle (Stage-Clear-Mix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "Did a short arrangement of Reimu Hakurei's Theme, <a href=\"https://youtu.be/fMdGSTE4-Zk\" rel=\"nofollow\">Maiden's Capriccio ~ Dream Battle</a> (from Touhou 8 Eiyashou ~ Imperishable Night) as a \"stage-clear-mix.\" Everybody loves their red protagonist who's in need of money and is very discriminative towards non-humans (which is not cool, kids).<br>\r\n<br>\r\nGiven it's length, it's much better fit for world clear jingle rather than the general stage clear jingle.<br>\r\n<br>\r\n<img src=\"https://www.andersonkenya1.net/uploads/monthly_2017_05/reimu2.gif.46225b25e294bd6d6b72034c5529b910.gif\" alt=\"\"><br>\r\n<br>\r\n<b><span style=\"color: #32d5fa;\">Note:</span></b><br>\r\n‎‎‎‎‎‎‎‎ㅤ♠ You will need to add ! to the line \"default/0D SMW @14.brr\" in Addmusic_sample_groups.txt for it to sound as intended in-game if you plan to use this as a global song.<br>\r\n<br>\r\n<b><span style=\"color: #920DFF;\">Important:</span></b><br>\r\n‎‎‎‎‎‎‎‎There are also customizable pitches for this song that you can adjust in the song's txt file:<br>\r\n‎‎‎‎‎‎‎‎ㅤ1. D# Minor (Original Pitch) [turned on by default]<br>\r\n‎‎‎‎‎‎‎‎ㅤ2. E Minor (Custom Pitch)<br>\r\n<br>\r\nThere are also customizable options for enabling & disabling the goal tape sound that you can adjust in the song's txt file:<br>\r\n‎‎‎‎‎‎‎‎ㅤ1. Enables Goal SFX [turned on by default]<br>\r\n‎‎‎‎‎‎‎‎ㅤ2. Disables Goal SFX",
+  "latest_version": "smwc-34339-1693564085",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34339,
+      "title": "Touhou Eiyashou ~ Imperishable Night - Maiden's Capriccio ~ Dream Battle (Stage-Clear-Mix)",
+      "version": "smwc-34339-1693564085",
+      "upstream_time": 1693564085,
+      "download_url": "https://dl.smwcentral.net/34339/Maiden%27s%20Capriccio%20~%20Dream%20Battle%20%28Stage-Clear-Mix%29.zip",
+      "filename": "Maiden%27s Capriccio ~ Dream Battle (Stage-Clear-Mix).zip",
+      "size": 126592,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

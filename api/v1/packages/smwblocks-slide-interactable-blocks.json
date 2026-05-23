@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-slide-interactable-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 9056,
+  "title": "slide-interactable blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "puzzle",
+    "slide"
+  ],
+  "description": "These blocks have unique gimmick when mario is sliding, these include:<br>\r\n-a \"ramp\" (actually the custom block is being place above it) from SMB3 that if Mario gain momentum from sliding downwards and press jump when hitting the ramp, will make Mario do a long jump, the arrow gfx for that is optional, you can use a blank tile.<br>\r\n-a solid block that can break if Mario slides into them.<br>\r\n-a \"continue slider\" that keeps mario sliding indefinitely if he prior slides into them, the modifyable speeds are the \"minimal\" speeds that moves mario if slower.<br>\r\n-a passable bridge that is only solid when mario is sliding on it (without falling onto it)<br>\r\n-and much more..<br>\r\n<br>\r\nThese are useful for puzzle and slide based levels.",
+  "latest_version": "smwc-9056-1439692611",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 9056,
+      "title": "slide-interactable blocks",
+      "version": "smwc-9056-1439692611",
+      "upstream_time": 1439692611,
+      "download_url": "https://dl.smwcentral.net/9056/slide_blocks.zip",
+      "filename": "slide_blocks.zip",
+      "size": 53188,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

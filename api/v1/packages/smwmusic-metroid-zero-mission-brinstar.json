@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-metroid-zero-mission-brinstar",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18467,
+  "title": "Metroid: Zero Mission - Brinstar",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "dark",
+    "space"
+  ],
+  "description": "Brinstar from Metroid Zero Mission. More so a heroic theme.",
+  "latest_version": "smwc-18467-1542419393",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18467,
+      "title": "Metroid: Zero Mission - Brinstar",
+      "version": "smwc-18467-1542419393",
+      "upstream_time": 1542419393,
+      "download_url": "https://dl.smwcentral.net/18467/Metroid%20Zero%20Mission%20-%20Brinstar.zip",
+      "filename": "Metroid Zero Mission - Brinstar.zip",
+      "size": 62238,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

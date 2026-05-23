@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-baba-is-you-wall-is-stop-starting-off",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32006,
+  "title": "Baba Is You - Wall Is Stop - Starting Off",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "cave",
+    "mysterious",
+    "night"
+  ],
+  "description": "Good for puzzles.",
+  "latest_version": "smwc-32006-1672536090",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32006,
+      "title": "Baba Is You - Wall Is Stop - Starting Off",
+      "version": "smwc-32006-1672536090",
+      "upstream_time": 1672536090,
+      "download_url": "https://dl.smwcentral.net/32006/Wall%20Is%20Stop.zip",
+      "filename": "Wall Is Stop.zip",
+      "size": 29196,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

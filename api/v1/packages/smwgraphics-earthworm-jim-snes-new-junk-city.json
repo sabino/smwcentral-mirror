@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-earthworm-jim-snes-new-junk-city",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 26006,
+  "title": "Earthworm Jim (SNES) - New Junk City",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "cave",
+    "mountain",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "I uploaded the first converted BG released at Winter C3 2021.<br>\r\n<br>\r\nHere are the features. Most won't care and use the BG, but I decide to specify those, since I'm generous:<br>\r\n<br>\r\n-can be 512x512: with some BG workaround, it can be - check;<br>\r\n-uses all layer 3 palettes: use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21573\">SMB3 Stauts Bar</a>.<br>\r\n-ExGFX amount: 3 + tilemap. This did cost me.<br>\r\n-No extra palettes: no, since some colors can be similar.<br>\r\n<br>\r\nUpdate: Fixed sample level, since it lacked recommended layer 3 BG scrolling.<br>\r\n<br>\r\nCredit can be optional, since I put a lot of effort here.<br>\r\nHave fun!",
+  "latest_version": "smwc-26006-1611282454",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 26006,
+      "title": "Earthworm Jim (SNES) - New Junk City",
+      "version": "smwc-26006-1611282454",
+      "upstream_time": 1611282454,
+      "download_url": "https://dl.smwcentral.net/26006/Earthworm%20Jim%20%28SNES%29%20-%20New%20Junk%20City%20layer%203.zip",
+      "filename": "Earthworm Jim (SNES) - New Junk City layer 3.zip",
+      "size": 6966,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 24912,
+      "title": "Earthworm Jim (SNES) - New Junk City",
+      "version": "smwc-24912-1603415926",
+      "upstream_time": 1603415926,
+      "download_url": "https://dl.smwcentral.net/24912/EWJ%20%28SNES%29%20-%20New%20Junk%20City.zip",
+      "filename": "EWJ (SNES) - New Junk City.zip",
+      "size": 6388,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

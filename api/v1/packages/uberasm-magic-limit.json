@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-magic-limit",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 30300,
+  "title": "Magic Limit",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "filter",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Limits the number of spawned magikoopa magics (and sprites they turn into). If the limit is reached, the oldest sprite is despawned.<br>\r\n<br>\r\n(Screenshot shows limit of 3)",
+  "latest_version": "smwc-30300-1679598491",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 30300,
+      "title": "Magic Limit",
+      "version": "smwc-30300-1679598491",
+      "upstream_time": 1679598491,
+      "download_url": "https://dl.smwcentral.net/30300/MagicLimit.zip",
+      "filename": "MagicLimit.zip",
+      "size": 1579,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

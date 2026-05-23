@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-kart-super-circuit-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11882,
+  "title": "Mario Kart: Super Circuit - Menu",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "overworld",
+    "title"
+  ],
+  "description": "The menu theme from Mario Kart: Super Circuit. Good for menu-esque or otherwise unique overworlds.",
+  "latest_version": "smwc-11882-1438541948",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11882,
+      "title": "Mario Kart: Super Circuit - Menu",
+      "version": "smwc-11882-1438541948",
+      "upstream_time": 1438541948,
+      "download_url": "https://dl.smwcentral.net/11882/Menu.zip",
+      "filename": "Menu.zip",
+      "size": 31949,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

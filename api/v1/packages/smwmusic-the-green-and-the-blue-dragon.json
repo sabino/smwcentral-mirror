@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-green-and-the-blue-dragon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7382,
+  "title": "The green and the blue dragon",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "mountain",
+    "sky"
+  ],
+  "description": "An upbeat custom composition. Could fit an athletic, grass or sky level<br>\r\n<br>\r\n[2022/03/28] Modedit: Changed the channel layout to better suit AMK so that there's no SFX cutoff, and removed the silence at the beginning. If you want the original file, it can be found <a href=\"https://nameless.absolnet.se/bebn/removals/The_green_and_the_blue_dragon.zip\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-7382-1337587670",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7382,
+      "title": "The green and the blue dragon",
+      "version": "smwc-7382-1337587670",
+      "upstream_time": 1337587670,
+      "download_url": "https://dl.smwcentral.net/7382/The%20green%20and%20the%20blue%20dragon.zip",
+      "filename": "The green and the blue dragon.zip",
+      "size": 65439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

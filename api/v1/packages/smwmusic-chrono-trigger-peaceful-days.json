@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-chrono-trigger-peaceful-days",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21224,
+  "title": "Chrono Trigger - Peaceful Days",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Peaceful song that could fit an overworld or a cutscene.",
+  "latest_version": "smwc-21224-1569614526",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21224,
+      "title": "Chrono Trigger - Peaceful Days",
+      "version": "smwc-21224-1569614526",
+      "upstream_time": 1569614526,
+      "download_url": "https://dl.smwcentral.net/21224/104%20Peaceful%20Days.zip",
+      "filename": "104 Peaceful Days.zip",
+      "size": 49191,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18638,
+      "title": "Chrono Trigger - Peaceful Days",
+      "version": "smwc-18638-1544581306",
+      "upstream_time": 1544581306,
+      "download_url": "https://dl.smwcentral.net/18638/Chrono%20Trigger%20-%20Peaceful%20Days.zip",
+      "filename": "Chrono Trigger - Peaceful Days.zip",
+      "size": 31806,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

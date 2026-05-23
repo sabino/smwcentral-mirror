@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-vi-coin-of-fate",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14881,
+  "title": "Final Fantasy VI - Coin of Fate",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "cutscene",
+    "sad"
+  ],
+  "description": "(Also known as \"Coin Song\")<br>\r\n<br>\r\nSad theme that plays in some cutscenes in Final Fantasy VI. It could fit sad cutscenes.",
+  "latest_version": "smwc-14881-1486766345",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14881,
+      "title": "Final Fantasy VI - Coin of Fate",
+      "version": "smwc-14881-1486766345",
+      "upstream_time": 1486766345,
+      "download_url": "https://dl.smwcentral.net/14881/Coin%20Song.zip",
+      "filename": "Coin Song.zip",
+      "size": 33632,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

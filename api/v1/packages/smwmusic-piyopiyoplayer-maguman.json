@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-piyopiyoplayer-maguman",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27680,
+  "title": "PiyoPiyoPlayer - Maguman",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "chase",
+    "industrial"
+  ],
+  "description": "An energectic theme, made by Pixel on his spare time, in a collection of songs from PiyoPiyoPlayer. It was apparently intended to be played on Cave Story, on its early versions.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○マグマン：\"洞窟物語\"で使う予定だった。<br>\r\nRough translation:<br>\r\n• Magman: I was planning to use it in \"Cave Story\".</div></div>",
+  "latest_version": "smwc-27680-1629744011",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27680,
+      "title": "PiyoPiyoPlayer - Maguman",
+      "version": "smwc-27680-1629744011",
+      "upstream_time": 1629744011,
+      "download_url": "https://dl.smwcentral.net/27680/Maguman%20.zip",
+      "filename": "Maguman .zip",
+      "size": 50385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

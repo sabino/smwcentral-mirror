@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-limited-boo-range",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32579,
+  "title": "Limited Boo Range",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "big boo",
+    "boo",
+    "lorom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "Boos and Big Boos will no longer be separated from their initial position by more than a certain distance. This prevents sprite-over by inducing a large number of Boos.<br>\r\nThis effect does not appear on the Block Boos.<br>\r\n<br>\r\nYou can also change the trackable distance according to the value of RAM.(Set between $0000 and $7FFF. If you set it to $0000, it will follow you everywhere.)",
+  "latest_version": "smwc-32579-1671287001",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32579,
+      "title": "Limited Boo Range",
+      "version": "smwc-32579-1671287001",
+      "upstream_time": 1671287001,
+      "download_url": "https://dl.smwcentral.net/32579/Boo%20not%20going%20far.zip",
+      "filename": "Boo not going far.zip",
+      "size": 2138,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

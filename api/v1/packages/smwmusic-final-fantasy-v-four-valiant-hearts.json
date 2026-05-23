@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-v-four-valiant-hearts",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34345,
+  "title": "Final Fantasy V - Four Valiant Hearts",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span>",
+  "latest_version": "smwc-34345-1693482105",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34345,
+      "title": "Final Fantasy V - Four Valiant Hearts",
+      "version": "smwc-34345-1693482105",
+      "upstream_time": 1693482105,
+      "download_url": "https://dl.smwcentral.net/34345/Four%20Valiant%20Hearts.zip",
+      "filename": "Four Valiant Hearts.zip",
+      "size": 72476,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

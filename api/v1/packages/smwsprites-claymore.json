@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-claymore",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24139,
+  "title": "Claymore",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "carriable",
+    "exploding",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a claymore mine that will explode when Mario or another sprite trips the laser. It has a wide range of customization options that can allow it to be picked up and thrown around to function like a tool for Mario, or make it a deadly enemy that must be avoided at all costs.<br>\r\n<br>\r\nYou can change the claymore's detection range, the trip timer, the explosion length, and many other behaviours. All settings are controlled by the extra bytes, for which you can find details in the asm file.",
+  "latest_version": "smwc-24139-1600720876",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24139,
+      "title": "Claymore",
+      "version": "smwc-24139-1600720876",
+      "upstream_time": 1600720876,
+      "download_url": "https://dl.smwcentral.net/24139/Claymore.zip",
+      "filename": "Claymore.zip",
+      "size": 10650,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

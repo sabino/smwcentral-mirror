@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mario-artist-polygon-studio-modeler-rocket-music-type",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38573,
+  "title": "Mario Artist: Polygon Studio - Modeler Rocket (Music Type 2)",
+  "authors": [
+    "Fumu"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "mysterious",
+    "night",
+    "space",
+    "urban"
+  ],
+  "description": "Cool ethereal beat from Mario Artist.",
+  "latest_version": "smwc-38573-1733960480",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38573,
+      "title": "Mario Artist: Polygon Studio - Modeler Rocket (Music Type 2)",
+      "version": "smwc-38573-1733960480",
+      "upstream_time": 1733960480,
+      "download_url": "https://dl.smwcentral.net/38573/modeler_rocket.zip",
+      "filename": "modeler_rocket.zip",
+      "size": 42385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

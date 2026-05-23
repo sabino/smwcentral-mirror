@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-undertale-font",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 13519,
+  "title": "Undertale - Font",
+  "authors": [
+    "TheMorganah"
+  ],
+  "tags": [
+    "cutscene",
+    "needs remoderation",
+    "sans serif"
+  ],
+  "description": "I realized that the only font that had to Undertale was only cutscenes , so I decided to try to recreate the font for smw.<br>\r\nCredits to Toby Fox for this pretty game.<br>\r\nIf you want to credit me feel free.",
+  "latest_version": "smwc-13519-1461931963",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 13519,
+      "title": "Undertale - Font",
+      "version": "smwc-13519-1461931963",
+      "upstream_time": 1461931963,
+      "download_url": "https://dl.smwcentral.net/13519/Undertale%20Font.zip",
+      "filename": "Undertale Font.zip",
+      "size": 1478,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 12817,
+      "title": "Undertale - Font",
+      "version": "smwc-12817-1452109353",
+      "upstream_time": 1452109353,
+      "download_url": "https://dl.smwcentral.net/12817/undertalefonts.zip",
+      "filename": "undertalefonts.zip",
+      "size": 11307,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

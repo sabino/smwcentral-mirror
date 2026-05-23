@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mimoshiro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7892,
+  "title": "Mimoshiro",
+  "authors": [
+    "MuimiMoji"
+  ],
+  "tags": [
+    "grassland",
+    "mountain"
+  ],
+  "description": "A good general-theme song for grasslands.",
+  "latest_version": "smwc-7892-1318099606",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7892,
+      "title": "Mimoshiro",
+      "version": "smwc-7892-1318099606",
+      "upstream_time": 1318099606,
+      "download_url": "https://dl.smwcentral.net/7892/Mimoshiro.zip",
+      "filename": "Mimoshiro.zip",
+      "size": 66992,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

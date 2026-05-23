@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-lava",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 29016,
+  "title": "Super Mario World - Lava",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "2bpp",
+    "lava"
+  ],
+  "description": "Lava tiles converted to layer 3 image. Can be used with layer 3 autoscrolling to make lava flow in a direction. Pretty cool, huh? Due to reduced color palette, some detail is lost, but I think it turned out OK.<br>\r\n<br>\r\nOriginally made for Hackjam. Can be used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=29015\">this uberASM</a>.",
+  "latest_version": "smwc-29016-1640027150",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 29016,
+      "title": "Super Mario World - Lava",
+      "version": "smwc-29016-1640027150",
+      "upstream_time": 1640027150,
+      "download_url": "https://dl.smwcentral.net/29016/SMWLavaLayer3.zip",
+      "filename": "SMWLavaLayer3.zip",
+      "size": 2073,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

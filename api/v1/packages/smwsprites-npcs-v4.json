@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-npcs-v4",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35326,
+  "title": "NPCs v4.4",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "customizable",
+    "lorom",
+    "message",
+    "npc",
+    "npcs",
+    "pacifist",
+    "sa-1",
+    "vwf",
+    "vwf dialogues"
+  ],
+  "description": "This is a sprite that doesn't hurt the player and doesn't interact with any other sprites. It can stay still, walk around, or jump, and also display a message if the player presses a button while touching it.<br>\r\n<br>\r\nIt's compatible with SMW's regular message boxes (can use any message in any level and show up to two at once), the Message Box Expansion patch, and also the VWF Dialogues patch.<br>\r\n<br>\r\nThe movement, graphics and message behavior are <em>highly</em> customizable. All the options are in the extra bytes (of which it uses all 12). This means you only need to have <em>one entry</em> in your sprite list and can fully customize it <em>as you place it in your level</em>!<br>\r\n<br>\r\nAll the customization options are explained in HOW_TO_USE.html, so please refer to that. It also has a user-friendly configuration tool.<br>\r\n<br>\r\n--------------------<br>\r\n<br>\r\nChangelog (see changelog.txt for details):<br>\r\n<br>\r\n- 2023-10-22: fixed the calculation of the custom talking frame<br>\r\n- 2023-02-11: fixed some message handling conflicts when touching more than one NPC at a time<br>\r\n- 2022-01-24: added options for 16x16 and 32x32 sprites, improved solid sprite handling, added compatibility with the upcoming version of the VWF Dialogues patch, and added other minor options<br>\r\n- 2022-01-07: fixed some issues people have reported<br>\r\n<br>\r\n&nbsp;",
+  "latest_version": "smwc-35326-1759256463",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35326,
+      "title": "NPCs v4.4",
+      "version": "smwc-35326-1759256463",
+      "upstream_time": 1759256463,
+      "download_url": "https://dl.smwcentral.net/35326/NPCs_v4.4.zip",
+      "filename": "NPCs_v4.4.zip",
+      "size": 72867,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

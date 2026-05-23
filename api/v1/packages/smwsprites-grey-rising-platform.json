@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-grey-rising-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18925,
+  "title": "Grey Rising Platform",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "rise",
+    "sa-1"
+  ],
+  "description": "This grey platform will rise when Mario steps on it.",
+  "latest_version": "smwc-18925-1547340235",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18925,
+      "title": "Grey Rising Platform",
+      "version": "smwc-18925-1547340235",
+      "upstream_time": 1547340235,
+      "download_url": "https://dl.smwcentral.net/18925/Grey%20Rising%20Platform.zip",
+      "filename": "Grey Rising Platform.zip",
+      "size": 948,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

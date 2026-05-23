@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-nitro-kart-clockwork-wumpa",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38445,
+  "title": "Crash Nitro Kart - Clockwork Wumpa",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "ghost house",
+    "night",
+    "snow"
+  ],
+  "description": "An orchestral theme with a clock-like beat that plays in Clockwork Wumpa, a clock tower themed level from Crash Nitro Kart.<br>\r\n<br>\r\nYou can define in the .txt file which variation you want to use:<br>\r\n0 - Default in-game version<br>\r\n1 - Extended OST version (2:56, 0x0A51)<br>\r\n2 - In-game version but with the addition of the drum intro from CTR Nitro-Fueled (0x0975)<br>\r\n<br>\r\nNote: The OST version of this song is incompatible with thunder, blargg and Yoshi sound effects and the vanilla bonus end jingle.",
+  "latest_version": "smwc-38445-1733154363",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38445,
+      "title": "Crash Nitro Kart - Clockwork Wumpa",
+      "version": "smwc-38445-1733154363",
+      "upstream_time": 1733154363,
+      "download_url": "https://dl.smwcentral.net/38445/CNK%20-%20Clockwork%20Wumpa.zip",
+      "filename": "CNK - Clockwork Wumpa.zip",
+      "size": 223661,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

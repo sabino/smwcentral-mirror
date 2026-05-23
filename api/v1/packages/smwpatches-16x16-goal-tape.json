@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-16x16-goal-tape",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19518,
+  "title": "16x16 Goal Tape",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "goal point",
+    "lorom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "This patch makes the goal tape be 16x16 instead of 24x8. No credit nor freespace needed. Doesn't include graphics.",
+  "latest_version": "smwc-19518-1554042608",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19518,
+      "title": "16x16 Goal Tape",
+      "version": "smwc-19518-1554042608",
+      "upstream_time": 1554042608,
+      "download_url": "https://dl.smwcentral.net/19518/16x16%20Goal%20Tape.zip",
+      "filename": "16x16 Goal Tape.zip",
+      "size": 506,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

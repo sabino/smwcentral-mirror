@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-land-2-6-golden-coins-overworld-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8251,
+  "title": "Super Mario Land 2: 6 Golden Coins - Overworld Map (16-bit Island Remix)",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach",
+    "overworld"
+  ],
+  "description": "A very nice, tropical-sounding arrangement of the main overworld theme from Super Mario Land 2. It can be used for tropical areas, or even town themes!",
+  "latest_version": "smwc-8251-1342452419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8251,
+      "title": "Super Mario Land 2: 6 Golden Coins - Overworld Map (16-bit Island Remix)",
+      "version": "smwc-8251-1342452419",
+      "upstream_time": 1342452419,
+      "download_url": "https://dl.smwcentral.net/8251/Main%20Map%20%28Island%20Remix%29.zip",
+      "filename": "Main Map (Island Remix).zip",
+      "size": 64264,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

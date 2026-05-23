@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-disable-ducking",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19707,
+  "title": "Disable Ducking",
+  "authors": [
+    "AuraDee",
+    "Iceguy"
+  ],
+  "tags": [
+    "disable",
+    "duck",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Completely disables ducking, including when underwater, and when on Yoshi. Can also be set to disable ducking for all but Small Mario, or for Small Mario only. Original code by Iceguy.",
+  "latest_version": "smwc-19707-1555840367",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19707,
+      "title": "Disable Ducking",
+      "version": "smwc-19707-1555840367",
+      "upstream_time": 1555840367,
+      "download_url": "https://dl.smwcentral.net/19707/duck.zip",
+      "filename": "duck.zip",
+      "size": 491,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

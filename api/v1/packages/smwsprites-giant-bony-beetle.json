@@ -1,0 +1,44 @@
+{
+  "name": "smwsprites-giant-bony-beetle",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3771,
+  "title": "Giant Bony Beetle",
+  "authors": [
+    "dahnamics"
+  ],
+  "tags": [
+    "bone",
+    "bones",
+    "bony",
+    "bony beetle",
+    "bony beetles",
+    "castle",
+    "dry",
+    "giant",
+    "giant bony beetle",
+    "invincible",
+    "invulnerable",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A giant Bony Beetle which will walk around and stay on ledges if the extra bit is set. If Mario jumps on it, he will simply bounce off. He must spin-jump on it to dismantle it. It is invulnerable to any damage.",
+  "latest_version": "smwc-3771-1336660036",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3771,
+      "title": "Giant Bony Beetle",
+      "version": "smwc-3771-1336660036",
+      "upstream_time": 1336660036,
+      "download_url": "https://dl.smwcentral.net/3771/Giant%20Bony%20Beetle.zip",
+      "filename": "Giant Bony Beetle.zip",
+      "size": 8490,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-radix-images",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39154,
+  "title": "Radix - Images",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "industrial",
+    "retro",
+    "space"
+  ],
+  "description": "A chill chiptune-y track by Radix.",
+  "latest_version": "smwc-39154-1740791426",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39154,
+      "title": "Radix - Images",
+      "version": "smwc-39154-1740791426",
+      "upstream_time": 1740791426,
+      "download_url": "https://dl.smwcentral.net/39154/Images.zip",
+      "filename": "Images.zip",
+      "size": 48874,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-nitro-kart-fenomena-hubworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38443,
+  "title": "Crash Nitro Kart - Fenomena Hubworld",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "castle",
+    "desert",
+    "overworld"
+  ],
+  "description": "A slow-paced and calm theme that plays in the third hub of Crash Nitro Kart, the planet Fenomena which is a deserted planet with many clockwork buildings. This theme remixes the main motif of Clockwork Wumpa, one of the tracks from this hub.",
+  "latest_version": "smwc-38443-1733091739",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38443,
+      "title": "Crash Nitro Kart - Fenomena Hubworld",
+      "version": "smwc-38443-1733091739",
+      "upstream_time": 1733091739,
+      "download_url": "https://dl.smwcentral.net/38443/CNK%20-%20Fenomena%20Hubworld.zip",
+      "filename": "CNK - Fenomena Hubworld.zip",
+      "size": 97285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

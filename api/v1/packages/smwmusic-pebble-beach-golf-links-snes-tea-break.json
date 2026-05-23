@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pebble-beach-golf-links-snes-tea-break",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41934,
+  "title": "Pebble Beach Golf Links (SNES) - Tea Break",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "beach",
+    "grassland",
+    "sea"
+  ],
+  "description": "'On the links, it's out and back!'<br>\r\nIntermission/Tea Break music heard in the SNES/SFC port of Pebble Beach Golf Links/Pebble Beach no Hatou, originating from the PC-98 edition (a.k.a \"Take a Break\")<br>\r\n",
+  "latest_version": "smwc-41934-1777471589",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41934,
+      "title": "Pebble Beach Golf Links (SNES) - Tea Break",
+      "version": "smwc-41934-1777471589",
+      "upstream_time": 1777471589,
+      "download_url": "https://dl.smwcentral.net/41934/Pebble%20Beach%20Golf%20Links%20%28SNES%29%20-%20Tea%20Break.zip",
+      "filename": "Pebble Beach Golf Links (SNES) - Tea Break.zip",
+      "size": 55977,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

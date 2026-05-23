@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-vortex-thermis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40369,
+  "title": "Vortex - Thermis",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "space"
+  ],
+  "description": "Level music of the fourth stage of Vortex.",
+  "latest_version": "smwc-40369-1756218723",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40369,
+      "title": "Vortex - Thermis",
+      "version": "smwc-40369-1756218723",
+      "upstream_time": 1756218723,
+      "download_url": "https://dl.smwcentral.net/40369/Vortex%20Thermis.zip",
+      "filename": "Vortex Thermis.zip",
+      "size": 53037,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

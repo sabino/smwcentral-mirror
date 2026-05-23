@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-space-football-one-on-one-you-lost",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35317,
+  "title": "Space Football: One on One - You Lost!",
+  "authors": [
+    "KungFuFurby"
+  ],
+  "tags": [
+    "misc",
+    "miss",
+    "retro"
+  ],
+  "description": "Sometimes your craft just can't take the action and gets destroyed... which means the game is aborted. Or alternatively, they outscored you.<br>\r\n<br>\r\nComes with a settable user define to add the stock SMW death SFX to the beginning of the song, and a second one to stop any Hurry Up! speedups, like in vanilla SMW. Or if you want neither or those, you can just simply uncomment the option down below (though it will be activated by default if you choose to have this act as a miss jingle).<br>\r\n<br>\r\nNOTE: Please mark \"0F SMW @21.brr\" as important by putting an exclamation point next to it in the Addmusic_sample groups.txt file prior to using this song as a global song.",
+  "latest_version": "smwc-35317-1698802376",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35317,
+      "title": "Space Football: One on One - You Lost!",
+      "version": "smwc-35317-1698802376",
+      "upstream_time": 1698802376,
+      "download_url": "https://dl.smwcentral.net/35317/Space%20Football%20One%20On%20One%20You%20Lost%20Unsampled.zip",
+      "filename": "Space Football One On One You Lost Unsampled.zip",
+      "size": 66876,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35316,
+      "title": "Space Football: One on One - You Lost!",
+      "version": "smwc-35316-1698802360",
+      "upstream_time": 1698802360,
+      "download_url": "https://dl.smwcentral.net/35316/Space%20Football%20One%20On%20One%20You%20Lost.zip",
+      "filename": "Space Football One On One You Lost.zip",
+      "size": 53077,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

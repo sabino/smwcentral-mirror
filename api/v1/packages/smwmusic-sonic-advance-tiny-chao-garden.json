@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sonic-advance-tiny-chao-garden",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8540,
+  "title": "Sonic Advance - Tiny Chao Garden",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "grassland",
+    "title"
+  ],
+  "description": "The happy little song that plays in the Tiny Chao Garden in Sonic Advance.  Would best suit a simple level or the Title Screen",
+  "latest_version": "smwc-8540-1396516291",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8540,
+      "title": "Sonic Advance - Tiny Chao Garden",
+      "version": "smwc-8540-1396516291",
+      "upstream_time": 1396516291,
+      "download_url": "https://dl.smwcentral.net/8540/Tiny%20Chao%20Garden.zip",
+      "filename": "Tiny Chao Garden.zip",
+      "size": 65671,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

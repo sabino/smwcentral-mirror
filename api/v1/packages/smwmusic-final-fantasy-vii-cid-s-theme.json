@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-vii-cid-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7903,
+  "title": "Final Fantasy VII - Cid's Theme",
+  "authors": [
+    "Atma"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "dark"
+  ],
+  "description": "Cid's theme from Final Fantasy VII. The was excellent at showing the true noble nature of Cid through his constant cursing and yelling at others. Probably best used for various cutscenes in SMW.",
+  "latest_version": "smwc-7903-1320131183",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7903,
+      "title": "Final Fantasy VII - Cid's Theme",
+      "version": "smwc-7903-1320131183",
+      "upstream_time": 1320131183,
+      "download_url": "https://dl.smwcentral.net/7903/CidTheme.zip",
+      "filename": "CidTheme.zip",
+      "size": 67109,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

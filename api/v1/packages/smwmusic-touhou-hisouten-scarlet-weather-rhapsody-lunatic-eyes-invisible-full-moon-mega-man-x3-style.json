@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-hisouten-scarlet-weather-rhapsody-lunatic-eyes-invisible-full-moon-mega-man-x3-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32835,
+  "title": "Touhou Hisouten ~ Scarlet Weather Rhapsody - Lunatic Eyes ~ Invisible Full Moon (Mega Man X3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss",
+    "forest"
+  ],
+  "description": "The \"TH_10_5_Reisen_X3_original.txt\" file is the original version with the master volume changed to reproduce \"Mega Man X3 Style\" as much as possible, and \"TH_10_5_Reisen_X3.txt\" will be the version that can be used for SMW hack. = Don't bother about \"TH_10_5_Reisen_X3_original.txt\".<br>\r\n<br>\r\nThere is a limit to the pitch that the \"13 Volt Catfish_2b.brr\" sample can express, so \"2b_oc2.brr\" (the version with octave increased by 1) was used only for the necessary parts.",
+  "latest_version": "smwc-32835-1674420300",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32835,
+      "title": "Touhou Hisouten ~ Scarlet Weather Rhapsody - Lunatic Eyes ~ Invisible Full Moon (Mega Man X3 Style)",
+      "version": "smwc-32835-1674420300",
+      "upstream_time": 1674420300,
+      "download_url": "https://dl.smwcentral.net/32835/TH_10_5_Reisen_X3.zip",
+      "filename": "TH_10_5_Reisen_X3.zip",
+      "size": 107929,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

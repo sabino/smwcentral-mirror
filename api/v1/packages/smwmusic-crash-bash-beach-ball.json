@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bash-beach-ball",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37209,
+  "title": "Crash Bash - Beach Ball",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "beach",
+    "industrial",
+    "sewer",
+    "water"
+  ],
+  "description": "A tense but upbeat techno theme that plays in Beach Ball, an underwater themed minigame.",
+  "latest_version": "smwc-37209-1712502247",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37209,
+      "title": "Crash Bash - Beach Ball",
+      "version": "smwc-37209-1712502247",
+      "upstream_time": 1712502247,
+      "download_url": "https://dl.smwcentral.net/37209/CBash%20-%20Beach%20Ball.zip",
+      "filename": "CBash - Beach Ball.zip",
+      "size": 95839,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

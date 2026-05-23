@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-flag-controlled-free-vertical-scroll",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13684,
+  "title": "Flag-Controlled Free Vertical Scroll",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "screen",
+    "screen-scrolling",
+    "scroll",
+    "scrolling"
+  ],
+  "description": "This patch lets you enable or disable free vertical scrolling by using a flag.<br>\r\nThis is meant for people like me who dislike how free vertical scrolling looks when constantly enabled, however need it for stuff like wall-jump blocks or similar sections where the camera doesn't scroll.<br>\r\n",
+  "latest_version": "smwc-13684-1463802874",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13684,
+      "title": "Flag-Controlled Free Vertical Scroll",
+      "version": "smwc-13684-1463802874",
+      "upstream_time": 1463802874,
+      "download_url": "https://dl.smwcentral.net/13684/Flag-controlled%20Free%20Vertical%20Scroll.zip",
+      "filename": "Flag-controlled Free Vertical Scroll.zip",
+      "size": 1797,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

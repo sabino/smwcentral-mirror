@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-savior-of-those-on-earth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20185,
+  "title": "Lufia II: Rise of the Sinistrals - The Savior of Those on Earth",
+  "authors": [
+    "Vaelstraza"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "title"
+  ],
+  "description": "Epic/Heroic track from Lufia II. Perfect for Castles or darker levels. <br>\r\n<br>\r\nThere are 2 versions. The original port and an additional port with drop tuning to fit a darker theme if desired. <br>\r\n<br>\r\nOriginally ported for the hack \"Wrath of Bowser\"",
+  "latest_version": "smwc-20185-1560131366",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20185,
+      "title": "Lufia II: Rise of the Sinistrals - The Savior of Those on Earth",
+      "version": "smwc-20185-1560131366",
+      "upstream_time": 1560131366,
+      "download_url": "https://dl.smwcentral.net/20185/LufiaSavior.zip",
+      "filename": "LufiaSavior.zip",
+      "size": 84960,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

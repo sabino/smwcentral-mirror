@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-warioware-d-i-y-d-i-y-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19829,
+  "title": "WarioWare: D.I.Y. - D.I.Y. Shop",
+  "authors": [
+    "Lazy"
+  ],
+  "tags": [
+    "bonus",
+    "town"
+  ],
+  "description": "Silly, lighthearted song featuring a guy saying \"ye\". Fits in town areas.<br>\r\n<br>\r\nNote that due to space constraints, I had to remove a few vanilla samples, As a consequence, a few of SMW's sound effect will not sound right if you use this song.<br>\r\n<br>\r\nUpdate by musicalman: added readme for #optimized3 which is needed for this song.",
+  "latest_version": "smwc-19829-1556608515",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19829,
+      "title": "WarioWare: D.I.Y. - D.I.Y. Shop",
+      "version": "smwc-19829-1556608515",
+      "upstream_time": 1556608515,
+      "download_url": "https://dl.smwcentral.net/19829/diyshop.zip",
+      "filename": "diyshop.zip",
+      "size": 89722,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

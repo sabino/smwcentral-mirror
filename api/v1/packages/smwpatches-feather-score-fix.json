@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-feather-score-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20763,
+  "title": "Feather Score Fix",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "feather",
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This patch fixes a small oversight where collecting dropped feather gives player score if not a cape mario, unlike other power-ups.<br>\r\n<br>\r\nCredit is unecessary.",
+  "latest_version": "smwc-20763-1564295683",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20763,
+      "title": "Feather Score Fix",
+      "version": "smwc-20763-1564295683",
+      "upstream_time": 1564295683,
+      "download_url": "https://dl.smwcentral.net/20763/Feather%20Score%20Fix.zip",
+      "filename": "Feather Score Fix.zip",
+      "size": 529,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

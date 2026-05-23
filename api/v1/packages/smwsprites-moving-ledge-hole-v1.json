@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-moving-ledge-hole-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28094,
+  "title": "Moving Ledge Hole v1.1",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "ledge hole",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "The moving ledge hole sprite seen in SMW ghost houses, disassembled and commented.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\nv1.1 (KevinM):<br>\r\n- Fixed \"act as\" in the CFG file.<br>\r\n- Added fix from LM 2.53+ that prevents the sprite from teleporting one screen down when placed on a vertical screen boundary.<br>\r\n- Fixed issue on SA-1 where the sprite would only interact with the first 12 sprite slots.",
+  "latest_version": "smwc-28094-1634214452",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28094,
+      "title": "Moving Ledge Hole v1.1",
+      "version": "smwc-28094-1634214452",
+      "upstream_time": 1634214452,
+      "download_url": "https://dl.smwcentral.net/28094/hole.zip",
+      "filename": "hole.zip",
+      "size": 2272,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

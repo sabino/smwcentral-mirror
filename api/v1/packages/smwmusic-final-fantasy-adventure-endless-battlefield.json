@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-final-fantasy-adventure-endless-battlefield",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32852,
+  "title": "Final Fantasy Adventure - Endless Battlefield",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "fire",
+    "mountain",
+    "night",
+    "space"
+  ],
+  "description": "A short but intense song that might fit a mountain or other high-tension area.",
+  "latest_version": "smwc-32852-1680146190",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32852,
+      "title": "Final Fantasy Adventure - Endless Battlefield",
+      "version": "smwc-32852-1680146190",
+      "upstream_time": 1680146190,
+      "download_url": "https://dl.smwcentral.net/32852/ffa-eb.zip",
+      "filename": "ffa-eb.zip",
+      "size": 35633,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

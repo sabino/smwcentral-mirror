@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-gunstar-heroes-the-ancient-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10878,
+  "title": "Gunstar Heroes - The Ancient Ruins",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "An intense song for athletic or probably futuristic themes. Most instruments are vanilla except the bass and percussions which are actually from genesis.<br>\r\n<br>\r\nNote that due to the size of samples, the song doesn't contain the sample of explosion which is used by a lightning or blargg. In levels using this song, their SFX will sound weird.",
+  "latest_version": "smwc-10878-1425483772",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10878,
+      "title": "Gunstar Heroes - The Ancient Ruins",
+      "version": "smwc-10878-1425483772",
+      "upstream_time": 1425483772,
+      "download_url": "https://dl.smwcentral.net/10878/The%20Ancient%20Ruins.zip",
+      "filename": "The Ancient Ruins.zip",
+      "size": 94827,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

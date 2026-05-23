@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-punishment-for-getting-lives",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40967,
+  "title": "Punishment For Getting Lives",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "A simple code to either hurt or kill the player whenever they collect lives by any means, be it 1-UP, 3-UP moons, enemy chains, etc. Requires 1 byte of free RAM.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MorrieTheMagpie\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=43194\" style=\"color: #3399ff;\" class=\"un\">MorrieTheMagpie</a></span>.",
+  "latest_version": "smwc-40967-1762550361",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40967,
+      "title": "Punishment For Getting Lives",
+      "version": "smwc-40967-1762550361",
+      "upstream_time": 1762550361,
+      "download_url": "https://dl.smwcentral.net/40967/lives_punishment.zip",
+      "filename": "lives_punishment.zip",
+      "size": 606,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

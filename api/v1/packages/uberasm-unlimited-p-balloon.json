@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-unlimited-p-balloon",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 18191,
+  "title": "Unlimited P-Balloon",
+  "authors": [
+    "Megafonzie",
+    "Vivian Darkbloom"
+  ],
+  "tags": [
+    "lorom",
+    "p-balloon",
+    "sa-1"
+  ],
+  "description": "This sets the P-Balloon timer to #$7F every frame, which means that the balloon doesn't have a time limit.",
+  "latest_version": "smwc-18191-1538339729",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 18191,
+      "title": "Unlimited P-Balloon",
+      "version": "smwc-18191-1538339729",
+      "upstream_time": 1538339729,
+      "download_url": "https://dl.smwcentral.net/18191/unlimitedballoon.zip",
+      "filename": "unlimitedballoon.zip",
+      "size": 294,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

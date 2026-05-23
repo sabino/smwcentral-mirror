@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-bidirectional-goal",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19708,
+  "title": "Bidirectional Goal",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "goal",
+    "lorom",
+    "pose",
+    "sa-1"
+  ],
+  "description": "If the number of screens in the current sublevel is even, the victory march will go right. If odd, left. Works on both goal tape and ? spheres.<br>\r\n<br>\r\n<i>Tester's Note: Although changing the behavior to depending on the number of screens is a little odd, it does work as intended and is clear and consistent. The previous patch's method was indeed flawed, as it did not take into account players flying over the goal.</i>",
+  "latest_version": "smwc-19708-1555896386",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19708,
+      "title": "Bidirectional Goal",
+      "version": "smwc-19708-1555896386",
+      "upstream_time": 1555896386,
+      "download_url": "https://dl.smwcentral.net/19708/goaldir.zip",
+      "filename": "goaldir.zip",
+      "size": 631,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

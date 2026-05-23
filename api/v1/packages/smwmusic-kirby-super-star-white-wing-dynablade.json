@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-super-star-white-wing-dynablade",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8388,
+  "title": "Kirby Super Star - White Wing Dynablade",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "credits",
+    "grassland",
+    "overworld",
+    "title"
+  ],
+  "description": "A happy, upbeat song that would work in early grassland levels. However, it does have a rather large insert size.",
+  "latest_version": "smwc-8388-1405782397",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8388,
+      "title": "Kirby Super Star - White Wing Dynablade",
+      "version": "smwc-8388-1405782397",
+      "upstream_time": 1405782397,
+      "download_url": "https://dl.smwcentral.net/8388/KSSDynablade.zip",
+      "filename": "KSSDynablade.zip",
+      "size": 55334,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

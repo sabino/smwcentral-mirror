@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-stellar-sonata",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18821,
+  "title": "Stellar Sonata",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice"
+  ],
+  "description": "Although not half as good as some other pieces out there, this is probably my best song to date. With its sad melody and echoes/crystally effects, it should suit night levels, sad cutscenes or ice caves quite well.<br>\r\n<br>\r\n(2019/01/04: restored the echo that used to be there.)",
+  "latest_version": "smwc-18821-1547232322",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18821,
+      "title": "Stellar Sonata",
+      "version": "smwc-18821-1547232322",
+      "upstream_time": 1547232322,
+      "download_url": "https://dl.smwcentral.net/18821/StellarSonata.zip",
+      "filename": "StellarSonata.zip",
+      "size": 30677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-kirby-super-star-marx-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28622,
+  "title": "Kirby Super Star - Marx's Theme",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "The famous theme that plays during the battle with Marx, now in top-notch unsampled glory!<br>\r\n<br>\r\nUpdate: Added the FIR filter from the original song, so now the echo should truly be accurate.",
+  "latest_version": "smwc-28622-1639262032",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28622,
+      "title": "Kirby Super Star - Marx's Theme",
+      "version": "smwc-28622-1639262032",
+      "upstream_time": 1639262032,
+      "download_url": "https://dl.smwcentral.net/28622/marx.zip",
+      "filename": "marx.zip",
+      "size": 35382,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

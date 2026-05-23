@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-elevator-sprite-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 32270,
+  "title": "Elevator Sprite Blocks",
+  "authors": [
+    "Davros",
+    "Knight of Time",
+    "mikeyk"
+  ],
+  "tags": [
+    "elevator",
+    "lorom",
+    "sa-1",
+    "sprite needed"
+  ],
+  "description": "An updated and optimized version of the elevator sprite blocks included in Sprite Tool. These custom blocks spawn a custom sprite when touched from above or the corners. Details in the readme.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Hayashi Neru\"><a href=\"/?p=profile&amp;id=31439\" style=\"color: var(--user-color-2);\" class=\"un\">Hayashi Neru</a></span>",
+  "latest_version": "smwc-32270-1675149754",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 32270,
+      "title": "Elevator Sprite Blocks",
+      "version": "smwc-32270-1675149754",
+      "upstream_time": 1675149754,
+      "download_url": "https://dl.smwcentral.net/32270/elevator.zip",
+      "filename": "elevator.zip",
+      "size": 15058,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

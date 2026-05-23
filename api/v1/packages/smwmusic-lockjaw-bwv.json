@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lockjaw-bwv",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23173,
+  "title": "Lockjaw - BWV 814 Menuet",
+  "authors": [
+    "Nikku4211"
+  ],
+  "tags": [
+    "castle",
+    "retro",
+    "title"
+  ],
+  "description": "French Suite No. 3 in B minor, BWV 814: V. Menuet<br>\r\n<br>\r\nThis is based on the S3M version remixed by Damian Yerrick for the PC version of his Tetris clone known as 'Lockjaw'.",
+  "latest_version": "smwc-23173-1591051498",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23173,
+      "title": "Lockjaw - BWV 814 Menuet",
+      "version": "smwc-23173-1591051498",
+      "upstream_time": 1591051498,
+      "download_url": "https://dl.smwcentral.net/23173/bwv814minuet_.zip",
+      "filename": "bwv814minuet_.zip",
+      "size": 31892,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

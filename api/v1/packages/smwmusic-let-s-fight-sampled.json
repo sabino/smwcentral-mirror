@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-let-s-fight-sampled",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21625,
+  "title": "Let's Fight! (Sampled Version)",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "Sampled version of the tense song composed by me for over a year, good for battle or tense levels.",
+  "latest_version": "smwc-21625-1577497221",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21625,
+      "title": "Let's Fight! (Sampled Version)",
+      "version": "smwc-21625-1577497221",
+      "upstream_time": 1577497221,
+      "download_url": "https://dl.smwcentral.net/21625/Let%27s%20Fight%21%20SVersion.zip",
+      "filename": "Let%27s Fight%21 SVersion.zip",
+      "size": 76832,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

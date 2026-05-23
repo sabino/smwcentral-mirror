@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-yoshi-s-safari-last-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29023,
+  "title": "Yoshi's Safari - Last Boss",
+  "authors": [
+    "Francium"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Request from <span class=\"un-outer\" title=\"MKDSmaster91\"><a href=\"/?p=profile&amp;id=28195\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MKDSmaster91</a></span>.<br>\r\n<br>\r\nCheerful boss battle music from Yoshi's Safari.<br>\r\nSome samples are used.",
+  "latest_version": "smwc-29023-1643000512",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29023,
+      "title": "Yoshi's Safari - Last Boss",
+      "version": "smwc-29023-1643000512",
+      "upstream_time": 1643000512,
+      "download_url": "https://dl.smwcentral.net/29023/Last%20Boss.zip",
+      "filename": "Last Boss.zip",
+      "size": 29318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

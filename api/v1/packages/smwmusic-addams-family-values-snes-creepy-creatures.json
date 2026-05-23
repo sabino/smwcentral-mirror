@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-addams-family-values-snes-creepy-creatures",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19888,
+  "title": "Addams Family Values (SNES) - Creepy Creatures",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "Good for a ghost house boss fight.",
+  "latest_version": "smwc-19888-1557336511",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19888,
+      "title": "Addams Family Values (SNES) - Creepy Creatures",
+      "version": "smwc-19888-1557336511",
+      "upstream_time": 1557336511,
+      "download_url": "https://dl.smwcentral.net/19888/Addams_CreepyCreatures.zip",
+      "filename": "Addams_CreepyCreatures.zip",
+      "size": 46099,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

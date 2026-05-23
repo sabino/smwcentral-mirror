@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-team-racing-uka-uka-invincibility",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37208,
+  "title": "Crash Team Racing - Uka-Uka Invincibility",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "p-switch",
+    "star"
+  ],
+  "description": "An ominous invincibility theme that plays when getting the invincibility mask item with an evil character.",
+  "latest_version": "smwc-37208-1712330845",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37208,
+      "title": "Crash Team Racing - Uka-Uka Invincibility",
+      "version": "smwc-37208-1712330845",
+      "upstream_time": 1712330845,
+      "download_url": "https://dl.smwcentral.net/37208/CTR%20-%20Uka-Uka%20Invincibility.zip",
+      "filename": "CTR - Uka-Uka Invincibility.zip",
+      "size": 31905,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

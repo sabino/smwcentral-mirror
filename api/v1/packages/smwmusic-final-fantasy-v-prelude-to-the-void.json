@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-final-fantasy-v-prelude-to-the-void",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33859,
+  "title": "Final Fantasy V - Prelude to the Void",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "dark",
+    "dungeon",
+    "final",
+    "mystery",
+    "overworld",
+    "ruins",
+    "temple"
+  ],
+  "description": "The final dungeon theme of Final Fantasy V. This song is well fit on the dungeon area.",
+  "latest_version": "smwc-33859-1689930419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33859,
+      "title": "Final Fantasy V - Prelude to the Void",
+      "version": "smwc-33859-1689930419",
+      "upstream_time": 1689930419,
+      "download_url": "https://dl.smwcentral.net/33859/The%20Prelude%20of%20Empty%20Skies.zip",
+      "filename": "The Prelude of Empty Skies.zip",
+      "size": 66658,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26286,
+      "title": "Final Fantasy V - Prelude to the Void",
+      "version": "smwc-26286-1616795743",
+      "upstream_time": 1616795743,
+      "download_url": "https://dl.smwcentral.net/26286/The%20Prelude%20of%20Empty%20Skies.zip",
+      "filename": "The Prelude of Empty Skies.zip",
+      "size": 34224,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

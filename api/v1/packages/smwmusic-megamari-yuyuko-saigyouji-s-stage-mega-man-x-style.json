@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-megamari-yuyuko-saigyouji-s-stage-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25550,
+  "title": "MegaMari - Yuyuko Saigyouji's Stage (Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "castle",
+    "ghost house",
+    "temple"
+  ],
+  "description": "It seems that the current AddmusicK alone cannot overcome the limitations of SPC700.",
+  "latest_version": "smwc-25550-1609723535",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25550,
+      "title": "MegaMari - Yuyuko Saigyouji's Stage (Mega Man X Style)",
+      "version": "smwc-25550-1609723535",
+      "upstream_time": 1609723535,
+      "download_url": "https://dl.smwcentral.net/25550/YuyukoStage%28MMX%29.zip",
+      "filename": "YuyukoStage(MMX).zip",
+      "size": 57506,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

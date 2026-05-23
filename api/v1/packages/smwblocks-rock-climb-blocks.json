@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-rock-climb-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41485,
+  "title": "Rock Climb Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "ledge",
+    "lorom",
+    "rock climb",
+    "sa-1"
+  ],
+  "description": "These 2 blocks act as \"mini ledges\" that can only be stand on if the player does the following:<br>\r\n<br>\r\n-Not crouching<br>\r\n-Holding in the direction towards the wall.<br>\r\n-Touching the wall, a pixel or more away does not count.",
+  "latest_version": "smwc-41485-1769348990",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41485,
+      "title": "Rock Climb Blocks",
+      "version": "smwc-41485-1769348990",
+      "upstream_time": 1769348990,
+      "download_url": "https://dl.smwcentral.net/41485/RockClimbBlocksUpdate.zip",
+      "filename": "RockClimbBlocksUpdate.zip",
+      "size": 2852,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-move-layer-3-to-subscreen-fix-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40197,
+  "title": "Move Layer 3 to Subscreen Fix v1.1",
+  "authors": [
+    "Kevin",
+    "Lui"
+  ],
+  "tags": [
+    "irq",
+    "layer 3",
+    "lorom",
+    "nmi",
+    "sa-1"
+  ],
+  "description": "This lets you move layer 3 to subscreen via Lunar Magic without actually affecting the layer 3 status bar, which will always remain on top of everything, as usual. Note that this may be incompatible with other patches that hijack IRQ.<br>\r\n<br>\r\nKevin's update: now it works with recent SA-1 versions.<br>\r\n<br>\r\nMod edit (2024-02-03): Changed the default freeram define, as what was there before wasn't actually free.",
+  "latest_version": "smwc-40197-1753754817",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40197,
+      "title": "Move Layer 3 to Subscreen Fix v1.1",
+      "version": "smwc-40197-1753754817",
+      "upstream_time": 1753754817,
+      "download_url": "https://dl.smwcentral.net/40197/Move%20Layer%203%20to%20Subscreen%20Fix.zip",
+      "filename": "Move Layer 3 to Subscreen Fix.zip",
+      "size": 944,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

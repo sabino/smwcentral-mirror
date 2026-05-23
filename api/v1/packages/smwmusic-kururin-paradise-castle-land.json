@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-kururin-paradise-castle-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21314,
+  "title": "Kururin Paradise - Castle Land",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "final",
+    "mysterious",
+    "night",
+    "ruins",
+    "spooky",
+    "temple"
+  ],
+  "description": "Could fit inside the dark castle theme. Alongside the big castle at outside with crescent night.",
+  "latest_version": "smwc-21314-1571502295",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21314,
+      "title": "Kururin Paradise - Castle Land",
+      "version": "smwc-21314-1571502295",
+      "upstream_time": 1571502295,
+      "download_url": "https://dl.smwcentral.net/21314/KP%20-%20Castle%20Land%20%28Sampled%29.zip",
+      "filename": "KP - Castle Land (Sampled).zip",
+      "size": 74479,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21282,
+      "title": "Kururin Paradise - Castle Land",
+      "version": "smwc-21282-1571876341",
+      "upstream_time": 1571876341,
+      "download_url": "https://dl.smwcentral.net/21282/KP%20-%20Castle%20Land%20%28Unsampled%29.zip",
+      "filename": "KP - Castle Land (Unsampled).zip",
+      "size": 33164,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

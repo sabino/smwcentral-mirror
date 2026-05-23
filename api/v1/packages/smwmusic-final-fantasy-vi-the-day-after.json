@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-vi-the-day-after",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33070,
+  "title": "Final Fantasy VI - The Day After",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "ruins"
+  ],
+  "description": "The ruined town theme of Final Fantasy VI. ",
+  "latest_version": "smwc-33070-1684279657",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33070,
+      "title": "Final Fantasy VI - The Day After",
+      "version": "smwc-33070-1684279657",
+      "upstream_time": 1684279657,
+      "download_url": "https://dl.smwcentral.net/33070/Final%20Fantasy%20VI%20-%20The%20Day%20After.zip",
+      "filename": "Final Fantasy VI - The Day After.zip",
+      "size": 45596,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

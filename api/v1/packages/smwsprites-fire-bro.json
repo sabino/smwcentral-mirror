@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-fire-bro",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16695,
+  "title": "Fire Bro",
+  "authors": [
+    "Sonikku",
+    "lx5"
+  ],
+  "tags": [
+    "bros",
+    "extended",
+    "extended sprites",
+    "fire",
+    "fireball",
+    "lorom",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "The Fire Bro from Super Mario Bros. 3. It walks around and occasionally hops. It periodically spits 2 fireballs at Mario. They are extended sprites and are identical to Mario's fireballs, except that they can hurt him.<br>\r\n<br>\r\nMake sure to specify the extended sprite number of the fireball (extended/fireball.asm) from list.txt in the Fire Bro's ASM file (sprites/FireBro.asm)!",
+  "latest_version": "smwc-16695-1511715445",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16695,
+      "title": "Fire Bro",
+      "version": "smwc-16695-1511715445",
+      "upstream_time": 1511715445,
+      "download_url": "https://dl.smwcentral.net/16695/Fire%20Bro.zip",
+      "filename": "Fire Bro.zip",
+      "size": 8528,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-paper-mario-walking-around-the-blue-candy-cane",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7574,
+  "title": "Paper Mario - Walking Around the Blue Candy Cane",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "star"
+  ],
+  "description": "A short and repetitive song played when you walk around the Blue Candy Cane in Paper Mario. Could work as as a replacement for the star music.",
+  "latest_version": "smwc-7574-1324188435",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7574,
+      "title": "Paper Mario - Walking Around the Blue Candy Cane",
+      "version": "smwc-7574-1324188435",
+      "upstream_time": 1324188435,
+      "download_url": "https://dl.smwcentral.net/7574/pm_candycane.zip",
+      "filename": "pm_candycane.zip",
+      "size": 65756,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

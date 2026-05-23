@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-iv-castle-damcyan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22337,
+  "title": "Final Fantasy IV - Castle Damcyan",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "castle",
+    "ruins"
+  ],
+  "description": "this looks good on castle and ruin levels",
+  "latest_version": "smwc-22337-1584924168",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22337,
+      "title": "Final Fantasy IV - Castle Damcyan",
+      "version": "smwc-22337-1584924168",
+      "upstream_time": 1584924168,
+      "download_url": "https://dl.smwcentral.net/22337/Castle%20Damcyan.zip",
+      "filename": "Castle Damcyan.zip",
+      "size": 58192,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

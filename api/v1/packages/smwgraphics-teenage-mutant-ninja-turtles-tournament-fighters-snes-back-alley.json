@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-teenage-mutant-ninja-turtles-tournament-fighters-snes-back-alley",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25120,
+  "title": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES) - Back Alley",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "city",
+    "needs remoderation"
+  ],
+  "description": "Tileset was ripped from the game.<br>\r\n<br>\r\n-if you just want to use the BG and that's it, then insert ExGFX37B.bin into your hack, the Map16 file and palette, check the sample file and you're good to go.<br>\r\n-the palettes can be edited, although you have to experiment.<br>\r\n-tileset uses 5 palettes. While that's a lot, you can use this for a boss battle or where you need to kill enemies to advance.<br>\r\n-a palette is used by both the BG and FG.<br>\r\n-BG only uses 61 8x8 tiles and 32 Map16 tiles. It's quite easy. The FG does use 280 Map16 tiles. About the 8x8 tiles, the total for FG is 503 tiles.<br>\r\n-tileset uses some FG2, BG1, FG3, BG2 and BG3 tiles, sparing room for FG1 and FG3.<br>\r\n-no people included, although they take more tiles than needed.",
+  "latest_version": "smwc-25120-1604772465",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25120,
+      "title": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES) - Back Alley",
+      "version": "smwc-25120-1604772465",
+      "upstream_time": 1604772465,
+      "download_url": "https://dl.smwcentral.net/25120/TMNT%20Tournament%20Fighters%20%28SNES%29%20-%20Back%20Alley.zip",
+      "filename": "TMNT Tournament Fighters (SNES) - Back Alley.zip",
+      "size": 21581,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

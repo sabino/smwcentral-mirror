@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-ys-v-lost-kefin-kingdom-of-sand-in-the-cradle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37100,
+  "title": "Ys V: Lost Kefin, Kingdom of Sand - In the Cradle",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "carnival",
+    "grassland",
+    "overworld",
+    "sky",
+    "snow",
+    "town",
+    "water"
+  ],
+  "description": "A comforting area theme from Ys V. Good for towns, grasslands, and bright overworlds.",
+  "latest_version": "smwc-37100-1710086526",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37100,
+      "title": "Ys V: Lost Kefin, Kingdom of Sand - In the Cradle",
+      "version": "smwc-37100-1710086526",
+      "upstream_time": 1710086526,
+      "download_url": "https://dl.smwcentral.net/37100/Ys%205%20-%20In%20the%20Cradle.zip",
+      "filename": "Ys 5 - In the Cradle.zip",
+      "size": 126814,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37099,
+      "title": "Ys V: Lost Kefin, Kingdom of Sand - In the Cradle",
+      "version": "smwc-37099-1710086516",
+      "upstream_time": 1710086516,
+      "download_url": "https://dl.smwcentral.net/37099/Ys%20V%20-%20In%20the%20Cradle.zip",
+      "filename": "Ys V - In the Cradle.zip",
+      "size": 62881,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

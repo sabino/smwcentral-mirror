@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-magical-quest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33337,
+  "title": "The Magical Quest 3 - The Woods of Downfalling Spores",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "calm",
+    "grassland"
+  ],
+  "description": "Requested by TCgamerboy2002.",
+  "latest_version": "smwc-33337-1688668886",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33337,
+      "title": "The Magical Quest 3 - The Woods of Downfalling Spores",
+      "version": "smwc-33337-1688668886",
+      "upstream_time": 1688668886,
+      "download_url": "https://dl.smwcentral.net/33337/Downfalling%20Spores.zip",
+      "filename": "Downfalling Spores.zip",
+      "size": 63686,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

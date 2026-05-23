@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-enable-disable-side-exit",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3799,
+  "title": "Enable/Disable Side Exit",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "lorom",
+    "side exit"
+  ],
+  "description": "A block that enables or disables the side exit.",
+  "latest_version": "smwc-3799-1411170998",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3799,
+      "title": "Enable/Disable Side Exit",
+      "version": "smwc-3799-1411170998",
+      "upstream_time": 1411170998,
+      "download_url": "https://dl.smwcentral.net/3799/side_exit.zip",
+      "filename": "side_exit.zip",
+      "size": 673,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

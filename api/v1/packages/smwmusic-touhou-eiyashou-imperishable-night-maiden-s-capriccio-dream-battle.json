@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-touhou-eiyashou-imperishable-night-maiden-s-capriccio-dream-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11598,
+  "title": "Touhou Eiyashou ~ Imperishable Night - Maiden's Capriccio ~ Dream Battle",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Reimu Hakurei's theme in Touhou 8. A fast paced music that could work for intense zones and athletic levels.",
+  "latest_version": "smwc-11598-1439220310",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11598,
+      "title": "Touhou Eiyashou ~ Imperishable Night - Maiden's Capriccio ~ Dream Battle",
+      "version": "smwc-11598-1439220310",
+      "upstream_time": 1439220310,
+      "download_url": "https://dl.smwcentral.net/11598/Reimu%27s%20theme.zip",
+      "filename": "Reimu%27s theme.zip",
+      "size": 76008,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

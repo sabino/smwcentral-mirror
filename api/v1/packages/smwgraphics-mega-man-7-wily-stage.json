@@ -1,0 +1,58 @@
+{
+  "name": "smwgraphics-mega-man-7-wily-stage",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30269,
+  "title": "Mega Man 7 - Wily Stage 1 (Mountains)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "futuristic",
+    "mechanical",
+    "mountain",
+    "needs remoderation",
+    "sky"
+  ],
+  "description": "The background used in the interior of the first Wily Stage, in Mega Man 7, an area where the floor and platforms keep turning off the lights. Could be useful for a megaman-like level or maybe an industrial one?<br>\r\n<br>\r\nUses palette row 3, also, the entire BG2 and a small portion of the BG3 slots. Includes ExAnimation.<br>\r\n<br>\r\nRykon-V73 requested a Mega Man rip in C3, so there you have it. Request fulfilled. <br>\r\n<br>\r\nCredit would be great, but is optional.",
+  "latest_version": "smwc-30269-1648509758",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30269,
+      "title": "Mega Man 7 - Wily Stage 1 (Mountains)",
+      "version": "smwc-30269-1648509758",
+      "upstream_time": 1648509758,
+      "download_url": "https://dl.smwcentral.net/30269/Dr.%20Wily%20Stage%201%20%28Mountains%29.zip",
+      "filename": "Dr. Wily Stage 1 (Mountains).zip",
+      "size": 3739,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 30268,
+      "title": "Mega Man 7 - Wily Stage 1 (Inside)",
+      "version": "smwc-30268-1651628599",
+      "upstream_time": 1651628599,
+      "download_url": "https://dl.smwcentral.net/30268/Wily%20Stage%201%28Inside%29.zip",
+      "filename": "Wily Stage 1(Inside).zip",
+      "size": 5162,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2204,
+      "title": "Mega Man 7 - Wily Stage 1",
+      "version": "smwc-2204-1371203696",
+      "upstream_time": 1371203696,
+      "download_url": "https://dl.smwcentral.net/2204/mm7wilyscastlelevel1.zip",
+      "filename": "mm7wilyscastlelevel1.zip",
+      "size": 2769,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

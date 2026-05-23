@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-parallax-hdma-toolkit",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 23788,
+  "title": "Parallax HDMA Toolkit",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "hdma",
+    "lorom",
+    "parallax",
+    "sa-1"
+  ],
+  "description": "A toolkit which easily allows you to create parallax HDMA on either layer 1, 2 or 3.<br>\r\nUnlike most parallax HDMA, this one is more generalised and you can scroll the affected layer vertically. You can also enable waves on certain lines.<br>\r\n<br>\r\nRead the readme for more details.",
+  "latest_version": "smwc-23788-1594828169",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 23788,
+      "title": "Parallax HDMA Toolkit",
+      "version": "smwc-23788-1594828169",
+      "upstream_time": 1594828169,
+      "download_url": "https://dl.smwcentral.net/23788/Parallax%20HDMA%20Toolkit.zip",
+      "filename": "Parallax HDMA Toolkit.zip",
+      "size": 7221,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

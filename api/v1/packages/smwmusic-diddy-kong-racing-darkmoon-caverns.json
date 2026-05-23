@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-diddy-kong-racing-darkmoon-caverns",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16609,
+  "title": "Diddy Kong Racing - Darkmoon Caverns",
+  "authors": [
+    "Koopaly"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "space"
+  ],
+  "description": "Port of Darkmoon Caverns from Diddy Kong Racing.",
+  "latest_version": "smwc-16609-1510885231",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16609,
+      "title": "Diddy Kong Racing - Darkmoon Caverns",
+      "version": "smwc-16609-1510885231",
+      "upstream_time": 1510885231,
+      "download_url": "https://dl.smwcentral.net/16609/Diddy%20Kong%20Racing%20-%20Darkmoon%20Caverns.zip",
+      "filename": "Diddy Kong Racing - Darkmoon Caverns.zip",
+      "size": 36872,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-wario-s-woods-versus",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14124,
+  "title": "Wario's Woods - Versus",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "bonus",
+    "boss",
+    "carnival",
+    "grassland",
+    "mountain",
+    "sky",
+    "space"
+  ],
+  "description": "Short but upbeat song, good for bonus levels/switch palaces/etc.",
+  "latest_version": "smwc-14124-1472270510",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14124,
+      "title": "Wario's Woods - Versus",
+      "version": "smwc-14124-1472270510",
+      "upstream_time": 1472270510,
+      "download_url": "https://dl.smwcentral.net/14124/versus.zip",
+      "filename": "versus.zip",
+      "size": 48939,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

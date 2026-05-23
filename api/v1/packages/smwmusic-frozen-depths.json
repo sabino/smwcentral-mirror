@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-frozen-depths",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7619,
+  "title": "Frozen Depths",
+  "authors": [
+    "Nic Nac"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "A graceful, majestic song that would fit perfectly into any underwater level.",
+  "latest_version": "smwc-7619-1316194895",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7619,
+      "title": "Frozen Depths",
+      "version": "smwc-7619-1316194895",
+      "upstream_time": 1316194895,
+      "download_url": "https://dl.smwcentral.net/7619/Frozen%20Depths.zip",
+      "filename": "Frozen Depths.zip",
+      "size": 66991,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

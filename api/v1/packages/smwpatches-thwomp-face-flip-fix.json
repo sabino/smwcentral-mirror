@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-thwomp-face-flip-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19404,
+  "title": "Thwomp Face Flip Fix",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite",
+    "thwomp"
+  ],
+  "description": "This patch makes Thwomp's eyes follow Mario instead of always looking in the same direction. Doesn't have any effect if Mario is far off. Requested by Ddoomm10.<br>\r\n<br>\r\n(Shiny Ninetales): Now, additionally to the SA-1 support and Asar conversion, has a define to choose which eye the Thwomps will close, the closest or the farest.",
+  "latest_version": "smwc-19404-1553182149",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19404,
+      "title": "Thwomp Face Flip Fix",
+      "version": "smwc-19404-1553182149",
+      "upstream_time": 1553182149,
+      "download_url": "https://dl.smwcentral.net/19404/thwompface.zip",
+      "filename": "thwompface.zip",
+      "size": 590,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

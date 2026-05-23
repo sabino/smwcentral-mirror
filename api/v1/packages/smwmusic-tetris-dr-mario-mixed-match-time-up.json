@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tetris-dr-mario-mixed-match-time-up",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38476,
+  "title": "Tetris & Dr. Mario - Mixed Match Time Up",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "misc"
+  ],
+  "description": "The jingle that plays when you run out of time during a game of Mixed Match.<br>\r\n<br>\r\nUpdate (9/15/2024):<br>\r\n- Fixed an issue with a missing bass sample.",
+  "latest_version": "smwc-38476-1732826227",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38476,
+      "title": "Tetris & Dr. Mario - Mixed Match Time Up",
+      "version": "smwc-38476-1732826227",
+      "upstream_time": 1732826227,
+      "download_url": "https://dl.smwcentral.net/38476/Mixed%20Match%20Time.zip",
+      "filename": "Mixed Match Time.zip",
+      "size": 39654,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

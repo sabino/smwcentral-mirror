@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-cell-phone-recording",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38370,
+  "title": "Cell Phone Recording",
+  "authors": [
+    "Metal-Yoshi94"
+  ],
+  "tags": [
+    "2bpp",
+    "abstract",
+    "patch needed"
+  ],
+  "description": "A simple layer 3 graphic that simulates Mario being recorded at all times. Includes animation slots within the test level<br>\r\n<br>\r\nIt is important to check the box \"Force Layer 3 tiles with priority above other layers and sprites\"<br>\r\n<br>\r\n-Requires sprite status bar<br>\r\n-No messages in layer 3",
+  "latest_version": "smwc-38370-1727390477",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38370,
+      "title": "Cell Phone Recording",
+      "version": "smwc-38370-1727390477",
+      "upstream_time": 1727390477,
+      "download_url": "https://dl.smwcentral.net/38370/smw_phone.zip",
+      "filename": "smw_phone.zip",
+      "size": 3943,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

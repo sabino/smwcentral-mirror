@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-guardian",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3863,
+  "title": "Guardian",
+  "authors": [
+    "Ultimaximus"
+  ],
+  "tags": [
+    "coin",
+    "guard",
+    "lorom",
+    "message"
+  ],
+  "description": "If the player has less than the customizable amount of coins, Guardian displays selected message and flings the player away with a sound. If the player has enough, Guardian takes that many coins away, plays \"correct\" sound, displays selected message, and allows access to blocked passageway.",
+  "latest_version": "smwc-3863-1410748341",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3863,
+      "title": "Guardian",
+      "version": "smwc-3863-1410748341",
+      "upstream_time": 1410748341,
+      "download_url": "https://dl.smwcentral.net/3863/Guardian.zip",
+      "filename": "Guardian.zip",
+      "size": 644,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

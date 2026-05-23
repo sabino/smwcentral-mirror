@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bomberman-b-daman-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25472,
+  "title": "Bomberman B-Daman - Forest",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "sky"
+  ],
+  "description": "Could fit a grassland or forest level.",
+  "latest_version": "smwc-25472-1608232525",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25472,
+      "title": "Bomberman B-Daman - Forest",
+      "version": "smwc-25472-1608232525",
+      "upstream_time": 1608232525,
+      "download_url": "https://dl.smwcentral.net/25472/Bomberman%20B-Daman%20-%20Forest.zip",
+      "filename": "Bomberman B-Daman - Forest.zip",
+      "size": 55993,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

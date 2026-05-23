@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-fantasy-vii-j-e-n-o-v-a",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18672,
+  "title": "Final Fantasy VII - J-E-N-O-V-A",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "space",
+    "tense"
+  ],
+  "description": "The intense, spacey battle theme from FF7.",
+  "latest_version": "smwc-18672-1545015778",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18672,
+      "title": "Final Fantasy VII - J-E-N-O-V-A",
+      "version": "smwc-18672-1545015778",
+      "upstream_time": 1545015778,
+      "download_url": "https://dl.smwcentral.net/18672/jenova.zip",
+      "filename": "jenova.zip",
+      "size": 69344,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

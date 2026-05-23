@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-treasure-adventure-game-adventure-begins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23012,
+  "title": "Treasure Adventure Game - Adventure Begins",
+  "authors": [
+    "TadeLn"
+  ],
+  "tags": [
+    "calm",
+    "title"
+  ],
+  "description": "Short loop good for Yoshi's House.<br>\r\n<br>\r\nOrginal song: https://robitgames.bandcamp.com/album/treasure-adventure-game-ost<br>\r\nThis port on YouTube: https://youtu.be/xOWRwmlQq80<br>\r\n",
+  "latest_version": "smwc-23012-1590825432",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23012,
+      "title": "Treasure Adventure Game - Adventure Begins",
+      "version": "smwc-23012-1590825432",
+      "upstream_time": 1590825432,
+      "download_url": "https://dl.smwcentral.net/23012/Treasure%20Adventure%20Game%20-%20Adventure%20Begins.zip",
+      "filename": "Treasure Adventure Game - Adventure Begins.zip",
+      "size": 30512,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

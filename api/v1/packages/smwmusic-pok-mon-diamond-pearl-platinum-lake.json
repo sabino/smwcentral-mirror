@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-lake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38729,
+  "title": "Pokémon Diamond/Pearl/Platinum - Lake",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "cutscene",
+    "forest",
+    "grassland",
+    "mysterious",
+    "temple",
+    "water"
+  ],
+  "description": "Music from the lakes of the Sinnoh region. Feel like you're on the shores of a mysterious and beautiful lake.<br>\r\nCould fit well in water, forest, temple levels, or cutscenes maybe :)<br>\r\n<br>\r\n24.11.03 Update: Wrong panning value fix<br>\r\n<br>\r\nNote: this is not compatible with Bonus end, Thunder SFX/Blarggs/Fireworks and Yoshi(Rinding sfx only)",
+  "latest_version": "smwc-38729-1733029065",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38729,
+      "title": "Pokémon Diamond/Pearl/Platinum - Lake",
+      "version": "smwc-38729-1733029065",
+      "upstream_time": 1733029065,
+      "download_url": "https://dl.smwcentral.net/38729/Lake.zip",
+      "filename": "Lake.zip",
+      "size": 159698,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

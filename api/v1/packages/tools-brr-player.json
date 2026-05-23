@@ -1,0 +1,35 @@
+{
+  "name": "tools-brr-player",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 7009,
+  "title": "BRR Player",
+  "authors": [
+    "Vitor Vilela"
+  ],
+  "tags": [
+    "adsr",
+    "brr",
+    "brr samples",
+    "gain",
+    "keyboard",
+    "volume"
+  ],
+  "description": "BRR Player is a simple player that lets you play BRR samples. It lets you configure at real time the pitch, volume and adsr/gain and works like a virtual keyboard. Plus it lets you configure how to load the BRR samples, making easier to listen on how the sample should really be in song.<br>\r\n<br>\r\nAs a bonus, it has some volume tools included.<br>\r\n<br>\r\nMore details in readme.",
+  "latest_version": "smwc-7009-1407887476",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 7009,
+      "title": "BRR Player",
+      "version": "smwc-7009-1407887476",
+      "upstream_time": 1407887476,
+      "download_url": "https://dl.smwcentral.net/7009/BRRPlayFinal.zip",
+      "filename": "BRRPlayFinal.zip",
+      "size": 262696,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

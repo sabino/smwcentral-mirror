@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-koyukillo-s-amazing-smb2-dokidokipanic-holding-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18518,
+  "title": "Koyukillo's Amazing SMB2/DokiDokiPanic Holding Patch!",
+  "authors": [
+    "KilloZapit",
+    "Koyuki"
+  ],
+  "tags": [
+    "abilities",
+    "carry",
+    "lorom",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "This is a patch to change holding an object to work like smb2/dokidokipanic: You hold it above your head and release by pressing the button again rather then needing to hold it down. In addition goombas and sprites with the act-like byte set to be the same (most smb2 sprites are) can bounch off sprites when thrown and can hit many enemies in a row.<br>\r\n<br>\r\nNow hopefully bug free, so it doesn't fail anymore!<br>\r\n",
+  "latest_version": "smwc-18518-1543098285",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18518,
+      "title": "Koyukillo's Amazing SMB2/DokiDokiPanic Holding Patch!",
+      "version": "smwc-18518-1543098285",
+      "upstream_time": 1543098285,
+      "download_url": "https://dl.smwcentral.net/18518/holdfinal.zip",
+      "filename": "holdfinal.zip",
+      "size": 3301,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "smwmusic-final-fantasy-iv-mt-ordeals",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29685,
+  "title": "Final Fantasy IV - Mt. Ordeals",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "mountain",
+    "overworld",
+    "tense"
+  ],
+  "description": "The charmingly simple yet somewhat tense theme of Mt. Ordeals (and legally Mt. Hobs first) in Final Fantasy IV. Good for levels where a young Mario overcomes his trauma in less than three lines of dialogue to cast a Fire spell.",
+  "latest_version": "smwc-29685-1648197328",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29685,
+      "title": "Final Fantasy IV - Mt. Ordeals",
+      "version": "smwc-29685-1648197328",
+      "upstream_time": 1648197328,
+      "download_url": "https://dl.smwcentral.net/29685/mt%20ordeals.zip",
+      "filename": "mt ordeals.zip",
+      "size": 31285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27593,
+      "title": "Final Fantasy IV - Mt. Ordeals",
+      "version": "smwc-27593-1627786468",
+      "upstream_time": 1627786468,
+      "download_url": "https://dl.smwcentral.net/27593/KTB_ff4ordeals.zip",
+      "filename": "KTB_ff4ordeals.zip",
+      "size": 58188,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26276,
+      "title": "Final Fantasy IV - Mt. Ordeals",
+      "version": "smwc-26276-1614489359",
+      "upstream_time": 1614489359,
+      "download_url": "https://dl.smwcentral.net/26276/Mt.%20Ordeals.zip",
+      "filename": "Mt. Ordeals.zip",
+      "size": 31116,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

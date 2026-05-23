@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-touhou-kisouken-infinite-blade-pavillon-pierce-through-the-raging-winds",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41064,
+  "title": "Touhou Kisouken ~ Infinite Blade Pavillon - Pierce Through the Raging Winds",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "carnival",
+    "chase",
+    "ghost house",
+    "mountain",
+    "upbeat",
+    "urban"
+  ],
+  "description": "The energetic stage 2 theme from 東方鬼葬剣 ～ Infinite Blade Pavilion, a Touhou fangame. This and the stage 2 boss theme are an energetic combo that I absolutely love.<br>\r\n<br>\r\nPorting this was interesting, because it felt like stuffing 12 channels into 8, but the end result doesn't show!<br>\r\n<br>\r\n[UPDATE] 2025-12-01: Fixed an inaccuracy in the bass, and tweaked echo and some ADSR.",
+  "latest_version": "smwc-41064-1769909583",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41064,
+      "title": "Touhou Kisouken ~ Infinite Blade Pavillon - Pierce Through the Raging Winds",
+      "version": "smwc-41064-1769909583",
+      "upstream_time": 1769909583,
+      "download_url": "https://dl.smwcentral.net/41064/ragingwinds.zip",
+      "filename": "ragingwinds.zip",
+      "size": 35251,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

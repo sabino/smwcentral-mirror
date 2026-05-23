@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-revenge-of-shinobi-china-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18911,
+  "title": "The Revenge of Shinobi - China Town",
+  "authors": [
+    "crm0622"
+  ],
+  "tags": [
+    "ruins",
+    "temple",
+    "town"
+  ],
+  "description": "From the game called \"The Revenge of Shinobi\".<br>\r\n(Also remake of my old unsampled port actually.)<br>\r\n<br>\r\nWarning : Not compatible with levels utilizing thunder sfx or Blarggs!<br>\r\n<br>\r\nMay fit for china-themed stages etc...",
+  "latest_version": "smwc-18911-1549069602",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18911,
+      "title": "The Revenge of Shinobi - China Town",
+      "version": "smwc-18911-1549069602",
+      "upstream_time": 1549069602,
+      "download_url": "https://dl.smwcentral.net/18911/china_town.zip",
+      "filename": "china_town.zip",
+      "size": 92867,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

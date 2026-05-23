@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-romancing-saga-walking-down-the-street",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38218,
+  "title": "Romancing SaGa - Walking Down the Street",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "beach",
+    "grassland",
+    "upbeat"
+  ],
+  "description": "looks good in upbeat places",
+  "latest_version": "smwc-38218-1724876547",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38218,
+      "title": "Romancing SaGa - Walking Down the Street",
+      "version": "smwc-38218-1724876547",
+      "upstream_time": 1724876547,
+      "download_url": "https://dl.smwcentral.net/38218/Walking_Down_the_Street.zip",
+      "filename": "Walking_Down_the_Street.zip",
+      "size": 32025,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

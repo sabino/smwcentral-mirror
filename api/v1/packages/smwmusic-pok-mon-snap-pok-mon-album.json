@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pok-mon-snap-pok-mon-album",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7078,
+  "title": "Pokémon Snap - Pokémon Album",
+  "authors": [
+    "Opposable"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "title"
+  ],
+  "description": "The song that plays while viewing the Pokemon Album. Slow and good for a night level of some kind.",
+  "latest_version": "smwc-7078-1311968751",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7078,
+      "title": "Pokémon Snap - Pokémon Album",
+      "version": "smwc-7078-1311968751",
+      "upstream_time": 1311968751,
+      "download_url": "https://dl.smwcentral.net/7078/Album.zip",
+      "filename": "Album.zip",
+      "size": 67022,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

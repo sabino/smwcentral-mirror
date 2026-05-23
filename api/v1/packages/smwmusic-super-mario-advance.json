@@ -1,0 +1,124 @@
+{
+  "name": "smwmusic-super-mario-advance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38807,
+  "title": "Super Mario Advance 2 - Status Screen",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "credits",
+    "cutscene",
+    "goal",
+    "night",
+    "overworld",
+    "title",
+    "upbeat"
+  ],
+  "description": "Fits into maps, but use however you want.",
+  "latest_version": "smwc-38807-1736713175",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38807,
+      "title": "Super Mario Advance 2 - Status Screen",
+      "version": "smwc-38807-1736713175",
+      "upstream_time": 1736713175,
+      "download_url": "https://dl.smwcentral.net/38807/Status%20Screen.zip",
+      "filename": "Status Screen.zip",
+      "size": 54492,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38635,
+      "title": "Super Mario Advance 3: Yoshi's Island - Perfect Ending",
+      "version": "smwc-38635-1728410929",
+      "upstream_time": 1728410929,
+      "download_url": "https://dl.smwcentral.net/38635/Perfect%20Ending.zip",
+      "filename": "Perfect Ending.zip",
+      "size": 35127,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38634,
+      "title": "Super Mario Advance 3: Yoshi's Island - Perfect Clear",
+      "version": "smwc-38634-1728410897",
+      "upstream_time": 1728410897,
+      "download_url": "https://dl.smwcentral.net/38634/Perfect%20Clear.zip",
+      "filename": "Perfect Clear.zip",
+      "size": 31569,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38633,
+      "title": "Super Mario Advance 3: Yoshi's Island - Choose a Game!",
+      "version": "smwc-38633-1728410867",
+      "upstream_time": 1728410867,
+      "download_url": "https://dl.smwcentral.net/38633/Choose%20a%20Game.zip",
+      "filename": "Choose a Game.zip",
+      "size": 32339,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38632,
+      "title": "Super Mario Advance 3: Yoshi's Island - Title",
+      "version": "smwc-38632-1728410842",
+      "upstream_time": 1728410842,
+      "download_url": "https://dl.smwcentral.net/38632/Title.zip",
+      "filename": "Title.zip",
+      "size": 31943,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26236,
+      "title": "Super Mario Advance 2: Super Mario World - Title Screen",
+      "version": "smwc-26236-1616124136",
+      "upstream_time": 1616124136,
+      "download_url": "https://dl.smwcentral.net/26236/sma2title.zip",
+      "filename": "sma2title.zip",
+      "size": 62873,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19370,
+      "title": "Super Mario Advance 2: Super Mario World - Status Screen",
+      "version": "smwc-19370-1553007080",
+      "upstream_time": 1553007080,
+      "download_url": "https://dl.smwcentral.net/19370/sma2.zip",
+      "filename": "sma2.zip",
+      "size": 62397,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

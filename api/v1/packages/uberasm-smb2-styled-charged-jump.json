@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-smb2-styled-charged-jump",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42124,
+  "title": "SMB2-styled Charged Jump",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "charged",
+    "jump",
+    "lorom",
+    "physics",
+    "player",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "When this code is used, the player can charge a jump by ducking for several frames, until the point they start to flash. While flashing, they can perform a higher jump. The configuration can be applied to all player characters, to a specific character or can be RAM flag dependent. Details and example on how to set and use the code are found all within the ASM file.<br>\r\n<br>\r\nDefines to allow charging while riding Yoshi, charged jump/spinjump heights, SFX for charge ready and how long the player should duck to trigger the charge, as well as other options, are included.",
+  "latest_version": "smwc-42124-1775285222",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42124,
+      "title": "SMB2-styled Charged Jump",
+      "version": "smwc-42124-1775285222",
+      "upstream_time": 1775285222,
+      "download_url": "https://dl.smwcentral.net/42124/ChargedJumpUber.zip",
+      "filename": "ChargedJumpUber.zip",
+      "size": 2201,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

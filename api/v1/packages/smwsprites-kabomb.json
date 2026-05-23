@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-kabomb",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24291,
+  "title": "Kabomb",
+  "authors": [
+    "RudeGuy"
+  ],
+  "tags": [
+    "enemy",
+    "follow player",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A kabomb, inspired by NSMB's kabomb. It walks around and, when it comes in contact with some selected sprites, it'll turn red and chase the player. The sprites it can come in contact with can be customized, and it's possible to use normal, extended and cluster sprites, and both normal and custom sprites. See README.txt for details.<br>\r\n<br>\r\nGraphics made by Epic_Stuff, credit him/her too!",
+  "latest_version": "smwc-24291-1601134337",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24291,
+      "title": "Kabomb",
+      "version": "smwc-24291-1601134337",
+      "upstream_time": 1601134337,
+      "download_url": "https://dl.smwcentral.net/24291/kabomb.zip",
+      "filename": "kabomb.zip",
+      "size": 9032,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

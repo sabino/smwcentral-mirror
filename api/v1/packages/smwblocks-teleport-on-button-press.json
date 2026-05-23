@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-button-press",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41145,
+  "title": "Teleport on Button Press",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Teleports the player if they're pressing a specific button. Includes a variant that has two alternate destinations for different buttons.",
+  "latest_version": "smwc-41145-1764371490",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41145,
+      "title": "Teleport on Button Press",
+      "version": "smwc-41145-1764371490",
+      "upstream_time": 1764371490,
+      "download_url": "https://dl.smwcentral.net/41145/teleport_button.zip",
+      "filename": "teleport_button.zip",
+      "size": 1495,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "smwmusic-last-bible-iii-underworld-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29281,
+  "title": "Last Bible III - Underworld Forest",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "cave",
+    "dark",
+    "forest",
+    "mysterious",
+    "night",
+    "overworld",
+    "temple",
+    "water"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nA lush dreamy song that could work for forests or abstract settings.",
+  "latest_version": "smwc-29281-1644903729",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29281,
+      "title": "Last Bible III - Underworld Forest",
+      "version": "smwc-29281-1644903729",
+      "upstream_time": 1644903729,
+      "download_url": "https://dl.smwcentral.net/29281/53%20Underworld%20Forest.zip",
+      "filename": "53 Underworld Forest.zip",
+      "size": 60132,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22493,
+      "title": "Last Bible III - Underworld Forest",
+      "version": "smwc-22493-1585214220",
+      "upstream_time": 1585214220,
+      "download_url": "https://dl.smwcentral.net/22493/Last%20Bible%20III%20-%20Underworld%20Forest.zip",
+      "filename": "Last Bible III - Underworld Forest.zip",
+      "size": 41408,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

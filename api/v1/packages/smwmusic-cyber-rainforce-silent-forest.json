@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cyber-rainforce-silent-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19820,
+  "title": "Cyber-Rainforce - Silent Forest",
+  "authors": [
+    "Torchkas"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "ice"
+  ],
+  "description": "Calm, reflective song that would fit on a forest map.",
+  "latest_version": "smwc-19820-1556608356",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19820,
+      "title": "Cyber-Rainforce - Silent Forest",
+      "version": "smwc-19820-1556608356",
+      "upstream_time": 1556608356,
+      "download_url": "https://dl.smwcentral.net/19820/silentforest.zip",
+      "filename": "silentforest.zip",
+      "size": 32573,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

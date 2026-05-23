@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-following-wall-cannon",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3371,
+  "title": "Following Wall Cannon",
+  "authors": [
+    "Buster Beetle"
+  ],
+  "tags": [
+    "cannon",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A 32x32 cannon sprite that follows Mario vertically, shooting sprites. Extra bit determines if the spawned sprite will be normal or custom.<br>\r\n<br>\r\nWorks best with Davros' <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16236\">SMB3 Cannonball</a> sprite.",
+  "latest_version": "smwc-3371-1236388634",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3371,
+      "title": "Following Wall Cannon",
+      "version": "smwc-3371-1236388634",
+      "upstream_time": 1236388634,
+      "download_url": "https://dl.smwcentral.net/3371/FollowCannon.zip",
+      "filename": "FollowCannon.zip",
+      "size": 4636,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

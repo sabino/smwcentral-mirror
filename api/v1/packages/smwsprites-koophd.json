@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-koophd",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33148,
+  "title": "KooPhD",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "enemy",
+    "koopa",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is the KooPhD sprite, originally coded by Kipernal for SMWCP II, coded by me completely from scratch with some more features. KooPhD.asm is the main sprite, while the potions he throws is vial.asm. Demonstration video: <a href=\"http://www.youtube.com/watch?v=bRPDkAvaJhc\" rel=\"nofollow\">http://www.youtube.com/watch?v=bRPDkAvaJhc</a><br>\r\n<br>\r\nCredit would be appreciated but isn't necessary.<br>\r\n<br>\r\nMAJOR FLARE's UPDATE: PIXI and SA-1 Conversion. On request by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>.<br>\r\nBLIZZARD BUFFALO'S UPDATE: Added graphics.<br>\r\nTHOMAS' UPDATE: Cleaned up unnecessary unmarked free RAM usage.",
+  "latest_version": "smwc-33148-1681622742",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33148,
+      "title": "KooPhD",
+      "version": "smwc-33148-1681622742",
+      "upstream_time": 1681622742,
+      "download_url": "https://dl.smwcentral.net/33148/koophd_pixi.zip",
+      "filename": "koophd_pixi.zip",
+      "size": 8034,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

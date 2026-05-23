@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-life-stealer",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 21042,
+  "title": "Life Stealer",
+  "authors": [
+    "tmercswims"
+  ],
+  "tags": [
+    "life",
+    "lorom",
+    "sa-1",
+    "steal"
+  ],
+  "description": "This block will steal a life from the player if he has more than one and then shatter. If he only has one, the block will simply kill him.",
+  "latest_version": "smwc-21042-1567287904",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 21042,
+      "title": "Life Stealer",
+      "version": "smwc-21042-1567287904",
+      "upstream_time": 1567287904,
+      "download_url": "https://dl.smwcentral.net/21042/Life%20Stealer.zip",
+      "filename": "Life Stealer.zip",
+      "size": 307,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

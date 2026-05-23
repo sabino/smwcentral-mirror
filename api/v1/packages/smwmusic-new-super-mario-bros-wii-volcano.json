@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-super-mario-bros-wii-volcano",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22114,
+  "title": "New Super Mario Bros. Wii - Volcano",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "dark",
+    "fire",
+    "mountain"
+  ],
+  "description": "The volcano theme from New Super Mario Bros. Wii, obviously fits lava themed stages.<br>\r\n<br>\r\n2/8/2020 Edit: Fixed a looping error.",
+  "latest_version": "smwc-22114-1581293629",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22114,
+      "title": "New Super Mario Bros. Wii - Volcano",
+      "version": "smwc-22114-1581293629",
+      "upstream_time": 1581293629,
+      "download_url": "https://dl.smwcentral.net/22114/NSMBWii%20-%20Volcano.zip",
+      "filename": "NSMBWii - Volcano.zip",
+      "size": 66166,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-you-win",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14208,
+  "title": "EarthBound - You Win!",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "calm",
+    "goal",
+    "misc"
+  ],
+  "description": "The short, recognizable fanfare from EarthBound. Good for goals, or something along those lines",
+  "latest_version": "smwc-14208-1474680821",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14208,
+      "title": "EarthBound - You Win!",
+      "version": "smwc-14208-1474680821",
+      "upstream_time": 1474680821,
+      "download_url": "https://dl.smwcentral.net/14208/you%20win.zip",
+      "filename": "you win.zip",
+      "size": 30493,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

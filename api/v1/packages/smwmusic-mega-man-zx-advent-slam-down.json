@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-zx-advent-slam-down",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27789,
+  "title": "Mega Man ZX Advent - Slam Down",
+  "authors": [
+    "Kusamochi"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "This is a Remix of Boss Theme from Mega Man ZX Advent.",
+  "latest_version": "smwc-27789-1629828169",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27789,
+      "title": "Mega Man ZX Advent - Slam Down",
+      "version": "smwc-27789-1629828169",
+      "upstream_time": 1629828169,
+      "download_url": "https://dl.smwcentral.net/27789/Mega%20Man%20ZX%20Advent%20-%20Slam%20Down.zip",
+      "filename": "Mega Man ZX Advent - Slam Down.zip",
+      "size": 82628,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

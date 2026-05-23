@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-overworld-translucent-layer-3-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 34295,
+  "title": "Overworld Translucent Layer 3 v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "hdma",
+    "layer 3",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This simple HDMA code will make the OW layer 3 translucent without affecting the top and bottom edges of the OW border. Since it still affects the left/right edges, you'll probably want to remove them and use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12773\">this patch</a>. Uses HDMA channel 6.<br>\r\n<br>\r\nNote: Doesn't work properly with the vanilla path fade effect. Disable that in Lunar Magic if you want to use this!<br>\r\n<br>\r\nv1.1 update:<br>\r\n- fixed code not working when entering the map via red path transition, and added compatibility with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30106\">this</a><br>\r\n- added instructions to make effect stop if going to a different map via red path transition",
+  "latest_version": "smwc-34295-1695561193",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 34295,
+      "title": "Overworld Translucent Layer 3 v1.1",
+      "version": "smwc-34295-1695561193",
+      "upstream_time": 1695561193,
+      "download_url": "https://dl.smwcentral.net/34295/ow_l3_translucency.zip",
+      "filename": "ow_l3_translucency.zip",
+      "size": 823,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

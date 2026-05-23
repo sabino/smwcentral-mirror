@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pac-attack-puzzle-pit-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20628,
+  "title": "Pac Attack - Puzzle Pit Fight",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "misc"
+  ],
+  "description": "The 2-player song from Pac-Attack on the SNES. Good for fast-paced levels. <br>\r\nI tried my best to make everything accurate. I didn't use SPC2MML because I don't like working with it.",
+  "latest_version": "smwc-20628-1563226376",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20628,
+      "title": "Pac Attack - Puzzle Pit Fight",
+      "version": "smwc-20628-1563226376",
+      "upstream_time": 1563226376,
+      "download_url": "https://dl.smwcentral.net/20628/Pac-Attack%20-%20Puzzle%20Pit%20Fight.zip",
+      "filename": "Pac-Attack - Puzzle Pit Fight.zip",
+      "size": 58033,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

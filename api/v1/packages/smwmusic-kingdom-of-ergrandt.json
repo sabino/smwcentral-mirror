@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-kingdom-of-ergrandt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40095,
+  "title": "Kingdom of Ergrandt",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "cutscene",
+    "dark",
+    "final",
+    "industrial",
+    "mysterious",
+    "night",
+    "overworld",
+    "tense"
+  ],
+  "description": "A regal and imposing march fit for a powerful kingdom.<br>\r\n<br>\r\nNamed after a fantasy kingdom I came up with for a D&D campaign, composed based on a song I originally made in 1 hour using samples from Sid Meier's Civilization. I think it could fit a lot of more dangerous levels, castles being the most obvious, but also medieval overworlds.",
+  "latest_version": "smwc-40095-1753027063",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40095,
+      "title": "Kingdom of Ergrandt",
+      "version": "smwc-40095-1753027063",
+      "upstream_time": 1753027063,
+      "download_url": "https://dl.smwcentral.net/40095/Kingdom%20of%20Ergrandt.zip",
+      "filename": "Kingdom of Ergrandt.zip",
+      "size": 47689,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

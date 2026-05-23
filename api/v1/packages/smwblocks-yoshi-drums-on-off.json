@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-yoshi-drums-on-off",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23862,
+  "title": "Yoshi Drums On/Off",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "drums",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "These blocks enable or disable the \"Yoshi Drums\" channel when touched.",
+  "latest_version": "smwc-23862-1594928461",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23862,
+      "title": "Yoshi Drums On/Off",
+      "version": "smwc-23862-1594928461",
+      "upstream_time": 1594928461,
+      "download_url": "https://dl.smwcentral.net/23862/Yoshidrums.zip",
+      "filename": "Yoshidrums.zip",
+      "size": 1074,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

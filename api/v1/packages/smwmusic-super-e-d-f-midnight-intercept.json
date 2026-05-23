@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-super-e-d-f-midnight-intercept",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37092,
+  "title": "Super E.D.F. - Midnight Intercept",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "industrial",
+    "sky",
+    "space",
+    "urban",
+    "water"
+  ],
+  "description": "The 2nd stage theme from Super Earth Defense Force. Good for fast-paced and modern areas.",
+  "latest_version": "smwc-37092-1709246550",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37092,
+      "title": "Super E.D.F. - Midnight Intercept",
+      "version": "smwc-37092-1709246550",
+      "upstream_time": 1709246550,
+      "download_url": "https://dl.smwcentral.net/37092/EDF%20-%20Midnight%20Intercept.zip",
+      "filename": "EDF - Midnight Intercept.zip",
+      "size": 35102,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36764,
+      "title": "Super E.D.F. - Midnight Intercept",
+      "version": "smwc-36764-1706798157",
+      "upstream_time": 1706798157,
+      "download_url": "https://dl.smwcentral.net/36764/Super%20E.D.F%20-%20Midnight%20Intercept.zip",
+      "filename": "Super E.D.F - Midnight Intercept.zip",
+      "size": 112495,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

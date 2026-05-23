@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-caveland-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33905,
+  "title": "Caveland - Theme 1",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "cave",
+    "mountain",
+    "town"
+  ],
+  "description": "One of the background tracks from Caveland, an old Windows game about dwarves, digging and mushroom beer. Loops a bit weirdly because it's not originally meant to loop. Recreated as a MIDI by ear, then converted.",
+  "latest_version": "smwc-33905-1691159701",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33905,
+      "title": "Caveland - Theme 1",
+      "version": "smwc-33905-1691159701",
+      "upstream_time": 1691159701,
+      "download_url": "https://dl.smwcentral.net/33905/Caveland%20-%20Theme%201.zip",
+      "filename": "Caveland - Theme 1.zip",
+      "size": 31794,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-chrono-trigger-robo-gang-johnny",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21319,
+  "title": "Chrono Trigger - Robo Gang Johnny",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cutscene",
+    "misc",
+    "overworld",
+    "urban"
+  ],
+  "description": "An unsampled port of Robo Gang Johnny from Chrono Trigger for more vanilla-ish environments. Based off of KKevinM's sampled port of the same song. Good for overworlds.",
+  "latest_version": "smwc-21319-1571283437",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21319,
+      "title": "Chrono Trigger - Robo Gang Johnny",
+      "version": "smwc-21319-1571283437",
+      "upstream_time": 1571283437,
+      "download_url": "https://dl.smwcentral.net/21319/Chrono%20Trigger%20-%20Robo%20Gang%20Johnny.zip",
+      "filename": "Chrono Trigger - Robo Gang Johnny.zip",
+      "size": 32840,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19640,
+      "title": "Chrono Trigger - Robo Gang Johnny",
+      "version": "smwc-19640-1555712590",
+      "upstream_time": 1555712590,
+      "download_url": "https://dl.smwcentral.net/19640/ChronoTrigger_Johnny.zip",
+      "filename": "ChronoTrigger_Johnny.zip",
+      "size": 71884,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

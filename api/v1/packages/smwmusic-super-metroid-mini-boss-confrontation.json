@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-metroid-mini-boss-confrontation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36735,
+  "title": "Super Metroid - Mini Boss Confrontation",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "dark",
+    "fire",
+    "overworld",
+    "ruins",
+    "spooky",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36735-1706161980",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36735,
+      "title": "Super Metroid - Mini Boss Confrontation",
+      "version": "smwc-36735-1706161980",
+      "upstream_time": 1706161980,
+      "download_url": "https://dl.smwcentral.net/36735/13%20Mini%20Boss%20Confrontation.zip",
+      "filename": "13 Mini Boss Confrontation.zip",
+      "size": 206367,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

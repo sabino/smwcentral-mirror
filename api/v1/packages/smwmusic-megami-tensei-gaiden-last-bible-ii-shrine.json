@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33343,
+  "title": "Megami Tensei Gaiden: Last Bible II - Shrine",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "retro",
+    "water"
+  ],
+  "description": "Shrine from Last Bible II.",
+  "latest_version": "smwc-33343-1680581309",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33343,
+      "title": "Megami Tensei Gaiden: Last Bible II - Shrine",
+      "version": "smwc-33343-1680581309",
+      "upstream_time": 1680581309,
+      "download_url": "https://dl.smwcentral.net/33343/Last%20Bible%20II%20-%20Shrine.zip",
+      "filename": "Last Bible II - Shrine.zip",
+      "size": 31921,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

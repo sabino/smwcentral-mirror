@@ -1,0 +1,83 @@
+{
+  "name": "smwmusic-castlevania-iii-dracula-s-curse-mad-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34958,
+  "title": "Castlevania III: Dracula's Curse - Mad Forest",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "dark",
+    "final",
+    "forest",
+    "industrial",
+    "night",
+    "spooky",
+    "tense",
+    "upbeat"
+  ],
+  "description": "A port of the forest theme very inspired from the original on the NES. Fits forests and any kind of dark yet athletic-y environments.",
+  "latest_version": "smwc-34958-1693074593",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34958,
+      "title": "Castlevania III: Dracula's Curse - Mad Forest",
+      "version": "smwc-34958-1693074593",
+      "upstream_time": 1693074593,
+      "download_url": "https://dl.smwcentral.net/34958/madforest.zip",
+      "filename": "madforest.zip",
+      "size": 32406,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33092,
+      "title": "Castlevania III: Dracula's Curse - Mad Forest",
+      "version": "smwc-33092-1679779852",
+      "upstream_time": 1679779852,
+      "download_url": "https://dl.smwcentral.net/33092/Castlevania%20III%20-%20Mad%20Forest.zip",
+      "filename": "Castlevania III - Mad Forest.zip",
+      "size": 32562,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27375,
+      "title": "Castlevania III: Dracula's Curse - Mad Forest",
+      "version": "smwc-27375-1625117761",
+      "upstream_time": 1625117761,
+      "download_url": "https://dl.smwcentral.net/27375/MadForest.zip",
+      "filename": "MadForest.zip",
+      "size": 61211,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11573,
+      "title": "Castlevania III: Dracula's Curse - Mad Forest",
+      "version": "smwc-11573-1437619529",
+      "upstream_time": 1437619529,
+      "download_url": "https://dl.smwcentral.net/11573/Mad%20Forest.zip",
+      "filename": "Mad Forest.zip",
+      "size": 76678,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

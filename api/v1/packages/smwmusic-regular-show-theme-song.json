@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-regular-show-theme-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31780,
+  "title": "Regular Show - Theme Song",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "cutscene",
+    "title"
+  ],
+  "description": "Yes, this is technically a \"theme song\"<br>\r\n<br>\r\nGood for title screens and meme hacks I guess :v",
+  "latest_version": "smwc-31780-1672548785",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31780,
+      "title": "Regular Show - Theme Song",
+      "version": "smwc-31780-1672548785",
+      "upstream_time": 1672548785,
+      "download_url": "https://dl.smwcentral.net/31780/RegularShowThemeSong.zip",
+      "filename": "RegularShowThemeSong.zip",
+      "size": 69401,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

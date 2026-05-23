@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-bros-wii-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38915,
+  "title": "New Super Mario Bros. Wii - Game Over",
+  "authors": [
+    "ShivjotRangi"
+  ],
+  "tags": [
+    "game over",
+    "sad"
+  ],
+  "description": "New Super Mario Bros. Wii - Game Over (with SMW's Electric Piano style)<br>\r\n<br>\r\nSource: <a href=\"https://www.youtube.com/watch?v=RiLQbORTTK8\" rel=\"nofollow\">https://www.youtube.com/watch?v=RiLQbORTTK8</a><br>\r\n<br>\r\nFrom 3:04 - 3:13",
+  "latest_version": "smwc-38915-1741425847",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38915,
+      "title": "New Super Mario Bros. Wii - Game Over",
+      "version": "smwc-38915-1741425847",
+      "upstream_time": 1741425847,
+      "download_url": "https://dl.smwcentral.net/38915/New%20Super%20Mario%20Bros.%20Wii%20-%20Game%20Over%20%28SMW%29.zip",
+      "filename": "New Super Mario Bros. Wii - Game Over (SMW).zip",
+      "size": 31715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

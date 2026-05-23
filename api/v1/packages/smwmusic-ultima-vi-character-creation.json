@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-ultima-vi-character-creation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19288,
+  "title": "Ultima VI - Character Creation",
+  "authors": [
+    "file"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "final",
+    "sad",
+    "tense"
+  ],
+  "description": "A largely dark song that plays on the character creation screen in Ultima VI. Recommended for deep storyline elements, intros, cutscenes, tragic incidents, etc. <br>\r\n<br>\r\nThe \".txt\" file has an alternative main instrument, if you don't like the one being used.",
+  "latest_version": "smwc-19288-1552258645",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19288,
+      "title": "Ultima VI - Character Creation",
+      "version": "smwc-19288-1552258645",
+      "upstream_time": 1552258645,
+      "download_url": "https://dl.smwcentral.net/19288/Ultima%20VI%20-%20Character%20Creation.zip",
+      "filename": "Ultima VI - Character Creation.zip",
+      "size": 31987,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

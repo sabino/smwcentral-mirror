@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-retro-revengers-boss-rush",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39411,
+  "title": "Retro Revengers - Boss Rush",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "One of the late-game boss rush scenarios from Retro Revengers.",
+  "latest_version": "smwc-39411-1746127466",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39411,
+      "title": "Retro Revengers - Boss Rush",
+      "version": "smwc-39411-1746127466",
+      "upstream_time": 1746127466,
+      "download_url": "https://dl.smwcentral.net/39411/Retro%20Revengers%20-%20Boss%20Rush.zip",
+      "filename": "Retro Revengers - Boss Rush.zip",
+      "size": 33377,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

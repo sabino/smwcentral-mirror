@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-32x32-boo-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3684,
+  "title": "32x32 Boo Block",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "boo",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "solid"
+  ],
+  "description": "This is a Boo Block that is 32x32 instead of the normal 16x16.  That about sums it up, really.  It's based off my disassembly of the Boo Block.",
+  "latest_version": "smwc-3684-1290341752",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3684,
+      "title": "32x32 Boo Block",
+      "version": "smwc-3684-1290341752",
+      "upstream_time": 1290341752,
+      "download_url": "https://dl.smwcentral.net/3684/32x32_boo_block.zip",
+      "filename": "32x32_boo_block.zip",
+      "size": 4236,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

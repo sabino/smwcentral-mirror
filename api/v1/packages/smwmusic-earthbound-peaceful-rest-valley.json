@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-earthbound-peaceful-rest-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34676,
+  "title": "EarthBound - Peaceful Rest Valley",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "environmental",
+    "mysterious",
+    "overworld",
+    "swamp",
+    "tense",
+    "water"
+  ],
+  "description": "Eerie ambience.",
+  "latest_version": "smwc-34676-1695245824",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34676,
+      "title": "EarthBound - Peaceful Rest Valley",
+      "version": "smwc-34676-1695245824",
+      "upstream_time": 1695245824,
+      "download_url": "https://dl.smwcentral.net/34676/052a%20Peaceful%20Rest%20Valley.zip",
+      "filename": "052a Peaceful Rest Valley.zip",
+      "size": 56103,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

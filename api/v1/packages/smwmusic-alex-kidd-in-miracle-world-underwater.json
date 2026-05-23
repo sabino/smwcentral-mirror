@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-alex-kidd-in-miracle-world-underwater",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34563,
+  "title": "Alex Kidd in Miracle World - Underwater",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "bonus",
+    "jungle",
+    "town",
+    "water"
+  ],
+  "description": "Part of the Alex Kidd in Miracle World soundtrack.",
+  "latest_version": "smwc-34563-1690723391",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34563,
+      "title": "Alex Kidd in Miracle World - Underwater",
+      "version": "smwc-34563-1690723391",
+      "upstream_time": 1690723391,
+      "download_url": "https://dl.smwcentral.net/34563/Underwater.zip",
+      "filename": "Underwater.zip",
+      "size": 31568,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

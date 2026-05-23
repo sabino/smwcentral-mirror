@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mr-nutz-genesis-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32628,
+  "title": "Mr. Nutz (Genesis) - Boss Battle",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "ghost house",
+    "tense"
+  ],
+  "description": "A menacing boss battle theme from Ocean's platformer <i>Mr. Nutz</i>. This track is found in the Mega Drive version, arranged by Matt Furniss. It replaces some boss themes in the other versions, which had different music for each boss.",
+  "latest_version": "smwc-32628-1675294118",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32628,
+      "title": "Mr. Nutz (Genesis) - Boss Battle",
+      "version": "smwc-32628-1675294118",
+      "upstream_time": 1675294118,
+      "download_url": "https://dl.smwcentral.net/32628/Mr.%20Nutz%20MD%20Boss%20v1.1.zip",
+      "filename": "Mr. Nutz MD Boss v1.1.zip",
+      "size": 33186,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

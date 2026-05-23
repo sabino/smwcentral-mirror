@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mega-man-x2-bubble-crab",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19500,
+  "title": "Mega Man X2 - Bubble Crab",
+  "authors": [
+    "Sariel"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "boss",
+    "sewer",
+    "tense",
+    "water"
+  ],
+  "description": "Bubble Crab's Theme from Megaman X2.<br>\r\nIt's a relatively fast paced battle piece and quite tense, but due to its instrumentation it could also fit beach and water levels.",
+  "latest_version": "smwc-19500-1553966677",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19500,
+      "title": "Mega Man X2 - Bubble Crab",
+      "version": "smwc-19500-1553966677",
+      "upstream_time": 1553966677,
+      "download_url": "https://dl.smwcentral.net/19500/Mega_Man_X2_-_Bubble_Crab.zip",
+      "filename": "Mega_Man_X2_-_Bubble_Crab.zip",
+      "size": 33656,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

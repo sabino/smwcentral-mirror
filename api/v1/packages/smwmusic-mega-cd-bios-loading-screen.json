@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-cd-bios-loading-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38703,
+  "title": "Mega CD - BIOS / Loading Screen",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "credits",
+    "cutscene",
+    "space",
+    "title"
+  ],
+  "description": "Music that plays when booting up the Mega CD in Japan and Europe.",
+  "latest_version": "smwc-38703-1733006869",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38703,
+      "title": "Mega CD - BIOS / Loading Screen",
+      "version": "smwc-38703-1733006869",
+      "upstream_time": 1733006869,
+      "download_url": "https://dl.smwcentral.net/38703/Mega%20CD%20-%20Loading%20Screen.zip",
+      "filename": "Mega CD - Loading Screen.zip",
+      "size": 72400,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

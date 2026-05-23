@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-jazz-jackrabbit-pezrock",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21412,
+  "title": "Jazz Jackrabbit - Pezrock",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave",
+    "misc"
+  ],
+  "description": "I finally managed to complete a port with IT2AMK. This song could be useful in cave areas.<br>\r\nNot compatible with Thunder/Blarggs or the Bonus End song.",
+  "latest_version": "smwc-21412-1572994258",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21412,
+      "title": "Jazz Jackrabbit - Pezrock",
+      "version": "smwc-21412-1572994258",
+      "upstream_time": 1572994258,
+      "download_url": "https://dl.smwcentral.net/21412/Jazz%20Jackrabbit%20-%20Pezrock.zip",
+      "filename": "Jazz Jackrabbit - Pezrock.zip",
+      "size": 90236,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

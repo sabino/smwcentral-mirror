@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-smoggy-smokestacks",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22307,
+  "title": "Smoggy Smokestacks",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "airship",
+    "dark",
+    "industrial"
+  ],
+  "description": "An original song inspired heavily by DKC3.",
+  "latest_version": "smwc-22307-1584514386",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22307,
+      "title": "Smoggy Smokestacks",
+      "version": "smwc-22307-1584514386",
+      "upstream_time": 1584514386,
+      "download_url": "https://dl.smwcentral.net/22307/Smogstack.zip",
+      "filename": "Smogstack.zip",
+      "size": 68599,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

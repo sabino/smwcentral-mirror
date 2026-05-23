@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-metroid-samus-aran-s-final-cry",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36740,
+  "title": "Super Metroid - Samus Aran's Final Cry",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "misc",
+    "miss"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36740-1706162274",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36740,
+      "title": "Super Metroid - Samus Aran's Final Cry",
+      "version": "smwc-36740-1706162274",
+      "upstream_time": 1706162274,
+      "download_url": "https://dl.smwcentral.net/36740/18%20Samus%20Aran%27s%20Final%20Cry.zip",
+      "filename": "18 Samus Aran%27s Final Cry.zip",
+      "size": 209037,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

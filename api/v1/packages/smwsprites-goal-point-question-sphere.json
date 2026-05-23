@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-goal-point-question-sphere",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3380,
+  "title": "Goal Point Question Sphere",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "disassembly",
+    "goal",
+    "lorom",
+    "sa-1",
+    "smb3",
+    "sphere",
+    "warp"
+  ],
+  "description": "A custom sprite that's based on the original sprite. Contains SMW and SMB3 versions that can trigger either the normal or secret exit depending on extra bit, and other versions that will warp you to another place in the overworld - with coordinates also depending on extra bit.",
+  "latest_version": "smwc-3380-1237615784",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3380,
+      "title": "Goal Point Question Sphere",
+      "version": "smwc-3380-1237615784",
+      "upstream_time": 1237615784,
+      "download_url": "https://dl.smwcentral.net/3380/GoalSphere.zip",
+      "filename": "GoalSphere.zip",
+      "size": 7264,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

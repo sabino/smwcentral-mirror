@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-a-cave-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7690,
+  "title": "A Cave Theme",
+  "authors": [
+    "mariomaniac444"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "fire",
+    "jungle"
+  ],
+  "description": "The echo and heavy instrumentation (especially with the bongos) make this a very nice cave theme.",
+  "latest_version": "smwc-7690-1319818124",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7690,
+      "title": "A Cave Theme",
+      "version": "smwc-7690-1319818124",
+      "upstream_time": 1319818124,
+      "download_url": "https://dl.smwcentral.net/7690/A%20Cave%20Theme.zip",
+      "filename": "A Cave Theme.zip",
+      "size": 67013,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

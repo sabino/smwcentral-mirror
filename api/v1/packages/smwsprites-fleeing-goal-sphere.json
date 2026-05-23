@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-fleeing-goal-sphere",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19068,
+  "title": "Fleeing Goal Sphere",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "goal sphere",
+    "lorom",
+    "message",
+    "pacifist",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "This is a goal sphere that'll start fleeing when player gets close.<br>\r\n<br>\r\nFor more info check readme and asm file.<br>\r\n<br>\r\nCredit is optional. Requested by sinseiga.",
+  "latest_version": "smwc-19068-1550686766",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19068,
+      "title": "Fleeing Goal Sphere",
+      "version": "smwc-19068-1550686766",
+      "upstream_time": 1550686766,
+      "download_url": "https://dl.smwcentral.net/19068/FleeGoalSphere.zip",
+      "filename": "FleeGoalSphere.zip",
+      "size": 5891,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

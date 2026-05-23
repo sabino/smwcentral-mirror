@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-invincible-mario-palette-changer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40710,
+  "title": "Invincible Mario Palette Changer",
+  "authors": [
+    "Smallhacker"
+  ],
+  "tags": [
+    "lorom",
+    "palatte",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "Makes invincible Mario use a single palette.",
+  "latest_version": "smwc-40710-1759159804",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40710,
+      "title": "Invincible Mario Palette Changer",
+      "version": "smwc-40710-1759159804",
+      "upstream_time": 1759159804,
+      "download_url": "https://dl.smwcentral.net/40710/New%20star%20palette.zip",
+      "filename": "New star palette.zip",
+      "size": 564,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

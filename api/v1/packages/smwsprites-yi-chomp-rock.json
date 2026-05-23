@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-yi-chomp-rock",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3239,
+  "title": "YI Chomp Rock",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "chomp",
+    "island",
+    "lorom",
+    "pacifist",
+    "rock",
+    "sa-1",
+    "stone",
+    "yoshi"
+  ],
+  "description": "The Chomp Rock from Yoshi's Island. Mario can walk up to it and push it to start rolling it. It will kill sprites in its way and can be used as a stepping stone.<br>\r\n<br>\r\nThis version is not dynamic and has a more choppy animation. It consumes the entirety of SP4.<br>\r\n<br>\r\nCheck the ASM file for customization options.",
+  "latest_version": "smwc-3239-1203356880",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3239,
+      "title": "YI Chomp Rock",
+      "version": "smwc-3239-1203356880",
+      "upstream_time": 1203356880,
+      "download_url": "https://dl.smwcentral.net/3239/Chomp%20Rock.zip",
+      "filename": "Chomp Rock.zip",
+      "size": 9118,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

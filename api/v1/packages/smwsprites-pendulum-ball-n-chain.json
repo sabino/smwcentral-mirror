@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pendulum-ball-n-chain",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16191,
+  "title": "Pendulum Ball N' Chain",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "ball and chain",
+    "lorom",
+    "pendulum",
+    "sa-1"
+  ],
+  "description": "This Ball N' Chain edit follows a pendulum trajectory. It was originally part of a pendulum-based sprite pack by Alcaro.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-16191-1504446802",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16191,
+      "title": "Pendulum Ball N' Chain",
+      "version": "smwc-16191-1504446802",
+      "upstream_time": 1504446802,
+      "download_url": "https://dl.smwcentral.net/16191/ball-n-chain-pendulum.zip",
+      "filename": "ball-n-chain-pendulum.zip",
+      "size": 5079,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

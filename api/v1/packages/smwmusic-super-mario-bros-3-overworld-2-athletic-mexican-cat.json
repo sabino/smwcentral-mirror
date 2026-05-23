@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-bros-3-overworld-2-athletic-mexican-cat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35114,
+  "title": "Super Mario Bros. 3 - Overworld 2 / Athletic (Mexican Cat version)",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grassland",
+    "overworld"
+  ],
+  "description": "The famous song from SMB3 we all love. It could fit athletic grassland levels which are set in Mexico.",
+  "latest_version": "smwc-35114-1698292896",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35114,
+      "title": "Super Mario Bros. 3 - Overworld 2 / Athletic (Mexican Cat version)",
+      "version": "smwc-35114-1698292896",
+      "upstream_time": 1698292896,
+      "download_url": "https://dl.smwcentral.net/35114/SMB3_Athletic.zip",
+      "filename": "SMB3_Athletic.zip",
+      "size": 99439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

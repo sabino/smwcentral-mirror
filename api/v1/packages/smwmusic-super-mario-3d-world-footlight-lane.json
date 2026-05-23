@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-mario-3d-world-footlight-lane",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23725,
+  "title": "Super Mario 3D World - Footlight Lane",
+  "authors": [
+    "Captain 3"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "forest",
+    "night",
+    "water"
+  ],
+  "description": "A port of the best 3D World song, Footlight Lane. Could be used in caves, water levels, or even forests.<br>\r\n<br>\r\nContains two versions, one with a Piano (@9) lead and another with the Electric Piano (@13) lead.",
+  "latest_version": "smwc-23725-1594577745",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23725,
+      "title": "Super Mario 3D World - Footlight Lane",
+      "version": "smwc-23725-1594577745",
+      "upstream_time": 1594577745,
+      "download_url": "https://dl.smwcentral.net/23725/SM3DW%20-%20Footlight%20Lane.zip",
+      "filename": "SM3DW - Footlight Lane.zip",
+      "size": 64287,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

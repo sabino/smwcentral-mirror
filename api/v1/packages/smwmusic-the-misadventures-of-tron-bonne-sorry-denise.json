@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-misadventures-of-tron-bonne-sorry-denise",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22426,
+  "title": "The Misadventures of Tron Bonne - Sorry Denise",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "grassland",
+    "town"
+  ],
+  "description": "My try at 1:1 ear-porting this cute little song from the PS1 game The Misadventures of  Tron Bonne, which's part of the Mega Man Legends series. It might fit into sorta cheery areas, maybe those candy-themed ones.",
+  "latest_version": "smwc-22426-1584605061",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22426,
+      "title": "The Misadventures of Tron Bonne - Sorry Denise",
+      "version": "smwc-22426-1584605061",
+      "upstream_time": 1584605061,
+      "download_url": "https://dl.smwcentral.net/22426/sorrydenise.zip",
+      "filename": "sorrydenise.zip",
+      "size": 89426,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

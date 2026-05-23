@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-yoshi-s-house-birds-offscreen-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27963,
+  "title": "Yoshi's House Birds Offscreen \"Fix\"",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "bird from yoshi's house",
+    "graphics routine",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch \"fixes\" the graphics routine for the Yoshi's House Birds so that they don't wrap horizontally or vertically between screens, when using a Yoshi's House level that extends beyond the original one-screen dimensions.",
+  "latest_version": "smwc-27963-1638062918",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27963,
+      "title": "Yoshi's House Birds Offscreen \"Fix\"",
+      "version": "smwc-27963-1638062918",
+      "upstream_time": 1638062918,
+      "download_url": "https://dl.smwcentral.net/27963/birds.zip",
+      "filename": "birds.zip",
+      "size": 657,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

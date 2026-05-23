@@ -1,0 +1,45 @@
+{
+  "name": "smwsprites-cloud-ball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3465,
+  "title": "Cloud Ball",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "cloud",
+    "clouds",
+    "coin",
+    "disappear",
+    "follow",
+    "follow player",
+    "following",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "sky",
+    "sky level",
+    "sky stage",
+    "throw"
+  ],
+  "description": "This is a 16x16 horizontally moving sprite, which will try to follow Mario and periodically drop coins and play a sound effect. After dropping a configurable amount of coins, it will disappear in a puff of smoke.<br>\r\n<br>\r\nIf the extra bit is set, it will successively toss a list of sprites and then disappear. The sound effect for each sprite can be customized.<br>\r\n<br>\r\nNo GFX included, so you will have to draw them by yourself.<br>\r\n<br>\r\nTo be assembled with PIXI.",
+  "latest_version": "smwc-3465-1251579011",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3465,
+      "title": "Cloud Ball",
+      "version": "smwc-3465-1251579011",
+      "upstream_time": 1251579011,
+      "download_url": "https://dl.smwcentral.net/3465/Cloud%20Ball.zip",
+      "filename": "Cloud Ball.zip",
+      "size": 2377,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

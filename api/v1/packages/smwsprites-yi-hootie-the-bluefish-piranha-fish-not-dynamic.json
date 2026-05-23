@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-yi-hootie-the-bluefish-piranha-fish-not-dynamic",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 21046,
+  "title": "YI Hootie the Bluefish (Piranha Fish) - not dynamic",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "enemy",
+    "fish",
+    "lorom",
+    "piranha",
+    "sa-1",
+    "water"
+  ],
+  "description": "Someone wanted a non-dynamic version of the piranha fish... so I made one since I was bored.",
+  "latest_version": "smwc-21046-1567639956",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 21046,
+      "title": "YI Hootie the Bluefish (Piranha Fish) - not dynamic",
+      "version": "smwc-21046-1567639956",
+      "upstream_time": 1567639956,
+      "download_url": "https://dl.smwcentral.net/21046/piranhafishnd.zip",
+      "filename": "piranhafishnd.zip",
+      "size": 5149,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

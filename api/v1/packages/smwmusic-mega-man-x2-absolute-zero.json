@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-mega-man-x2-absolute-zero",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39575,
+  "title": "Mega Man X2 - Absolute Zero",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "A fast, tense theme from Mega Man X2 that I severely underestimated how complicated it would be to port",
+  "latest_version": "smwc-39575-1744423994",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39575,
+      "title": "Mega Man X2 - Absolute Zero",
+      "version": "smwc-39575-1744423994",
+      "upstream_time": 1744423994,
+      "download_url": "https://dl.smwcentral.net/39575/Absolute%20Zero.zip",
+      "filename": "Absolute Zero.zip",
+      "size": 34977,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13822,
+      "title": "Mega Man X2 - Absolute Zero",
+      "version": "smwc-13822-1467783847",
+      "upstream_time": 1467783847,
+      "download_url": "https://dl.smwcentral.net/13822/Mega%20Man%20X2%20-%20Absolute%20Zero.zip",
+      "filename": "Mega Man X2 - Absolute Zero.zip",
+      "size": 67184,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7345,
+      "title": "Mega Man X2 - Absolute Zero",
+      "version": "smwc-7345-1320310401",
+      "upstream_time": 1320310401,
+      "download_url": "https://dl.smwcentral.net/7345/AbsoluteZero.zip",
+      "filename": "AbsoluteZero.zip",
+      "size": 69126,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-target",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 36627,
+  "title": "Target",
+  "authors": [
+    "RealLink"
+  ],
+  "tags": [
+    "collectable",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "This block will teleport you to another level (set in the .asm file) after you collected 8 (customizable) of it. They shatter when you touch them. Uses one byte of empty RAM - this address can be altered easily and has to be in the 16-bit range ($0000-$1FFF).<br>\r\n<br>\r\nKnight of Time update: Works with SA-1 now.",
+  "latest_version": "smwc-36627-1711896084",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 36627,
+      "title": "Target",
+      "version": "smwc-36627-1711896084",
+      "upstream_time": 1711896084,
+      "download_url": "https://dl.smwcentral.net/36627/Target.zip",
+      "filename": "Target.zip",
+      "size": 629,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

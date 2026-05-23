@@ -1,0 +1,39 @@
+{
+  "name": "smwblocks-spin-jump-block-pack",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 24140,
+  "title": "Spin Jump Block Pack",
+  "authors": [
+    "5544",
+    "Sonikku",
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "bounce",
+    "hurt",
+    "lorom",
+    "sa-1",
+    "shatter",
+    "spin jump"
+  ],
+  "description": "This block when spin jumped on or when landed on while riding Yoshi will launch the player up in to the air. The height the player is launched depends on if the player was holding the A or B button.<br>\r\n<br>\r\nComes in four variations:<br>\r\n1. Behaves like the map16 tile it is set to if the doesn't spin jump on it or land on it while riding Yoshi.<br>\r\n2. Damages the player if not spin jumping on it or landing on it while riding Yoshi.<br>\r\n3. Shatters if spin jumped on or landed on while riding Yoshi, otherwise damages the player.<br>\r\n4. Disappears in a poof of smoke if spin jumped on or landed on while riding Yoshi, otherwise damages the player.<br>\r\n<br>\r\nThe code is intentionally verbose to make changing certain aspects easier and there's an included readme that outlines what you need to do if you don't want the player to bounce on these blocks while riding Yoshi.",
+  "latest_version": "smwc-24140-1596571404",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 24140,
+      "title": "Spin Jump Block Pack",
+      "version": "smwc-24140-1596571404",
+      "upstream_time": 1596571404,
+      "download_url": "https://dl.smwcentral.net/24140/spin-jump-block.zip",
+      "filename": "spin-jump-block.zip",
+      "size": 3991,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-alt-p-switch-tune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20363,
+  "title": "Alt. P-switch Tune",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "p-switch"
+  ],
+  "description": "A brief, chirpy, slightly frantic little thingamajigger to be used exactly where you'd expect.",
+  "latest_version": "smwc-20363-1562477316",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20363,
+      "title": "Alt. P-switch Tune",
+      "version": "smwc-20363-1562477316",
+      "upstream_time": 1562477316,
+      "download_url": "https://dl.smwcentral.net/20363/p-switch.zip",
+      "filename": "p-switch.zip",
+      "size": 29562,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

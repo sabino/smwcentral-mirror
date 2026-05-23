@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-azure-shopping-channel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42000,
+  "title": "Azure Shopping Channel",
+  "authors": [
+    "HaruMKT"
+  ],
+  "tags": [
+    "abstract",
+    "carnival",
+    "upbeat",
+    "urban"
+  ],
+  "description": "BUY NOW !! FOR LOW PRICE OF [REDACTED] !!! WAOW SO CRASY !!!!!!<br>\r\n<br>\r\nAn original song based on infomercial and mall music, with an alternate vapourwave-y version. Uses nothing but SMW samples.<br>\r\n<br>\r\nAlternate version insert size: 0x95D, duration: 1:58",
+  "latest_version": "smwc-42000-1777515099",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42000,
+      "title": "Azure Shopping Channel",
+      "version": "smwc-42000-1777515099",
+      "upstream_time": 1777515099,
+      "download_url": "https://dl.smwcentral.net/42000/mario%20is%20missing%20in%20the%20mall%20please%20call%20his%20parents.zip",
+      "filename": "mario is missing in the mall please call his parents.zip",
+      "size": 67786,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

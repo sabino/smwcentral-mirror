@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-banjo-kazooie-click-clock-wood-lobby",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8204,
+  "title": "Banjo-Kazooie - Click Clock Wood (Lobby)",
+  "authors": [
+    "Slash Man"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "jungle",
+    "night",
+    "temple"
+  ],
+  "description": "The calm music that plays in the lobby room of Click Clock Wood. Could fit a cave type of level.",
+  "latest_version": "smwc-8204-1333716475",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8204,
+      "title": "Banjo-Kazooie - Click Clock Wood (Lobby)",
+      "version": "smwc-8204-1333716475",
+      "upstream_time": 1333716475,
+      "download_url": "https://dl.smwcentral.net/8204/Banjo%20Kazooie%20-%20Click%20Clock%20Wood%20%28Lobby%29.zip",
+      "filename": "Banjo Kazooie - Click Clock Wood (Lobby).zip",
+      "size": 43856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

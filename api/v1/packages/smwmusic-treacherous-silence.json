@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-treacherous-silence",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18883,
+  "title": "Treacherous Silence",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "cave",
+    "night",
+    "sewer"
+  ],
+  "description": "Made this purely from a .txt and got this as a result. Sounded catchy to me. I'd say it's best used for those short cave areas. Anything underground really would do.",
+  "latest_version": "smwc-18883-1546974593",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18883,
+      "title": "Treacherous Silence",
+      "version": "smwc-18883-1546974593",
+      "upstream_time": 1546974593,
+      "download_url": "https://dl.smwcentral.net/18883/Treacherous%20Silence.zip",
+      "filename": "Treacherous Silence.zip",
+      "size": 30686,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

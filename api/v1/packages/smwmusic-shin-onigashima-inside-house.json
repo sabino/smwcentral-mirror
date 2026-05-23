@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shin-onigashima-inside-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7430,
+  "title": "Shin Onigashima - Inside House",
+  "authors": [
+    "Jorshamo"
+  ],
+  "tags": [
+    "calm",
+    "overworld"
+  ],
+  "description": "An eastern track that might suit Yoshi's House or a calm level.",
+  "latest_version": "smwc-7430-1325399799",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7430,
+      "title": "Shin Onigashima - Inside House",
+      "version": "smwc-7430-1325399799",
+      "upstream_time": 1325399799,
+      "download_url": "https://dl.smwcentral.net/7430/Shin%20Onigashima.zip",
+      "filename": "Shin Onigashima.zip",
+      "size": 67137,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

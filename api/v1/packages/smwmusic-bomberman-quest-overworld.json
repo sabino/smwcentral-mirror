@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bomberman-quest-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35648,
+  "title": "Bomberman Quest - Overworld 1 ~ Field Zone Theme",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "sky"
+  ],
+  "description": "My port for the 120hoSPC #11 contest. Can fit athletic etc",
+  "latest_version": "smwc-35648-1703085508",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35648,
+      "title": "Bomberman Quest - Overworld 1 ~ Field Zone Theme",
+      "version": "smwc-35648-1703085508",
+      "upstream_time": 1703085508,
+      "download_url": "https://dl.smwcentral.net/35648/field-zone.zip",
+      "filename": "field-zone.zip",
+      "size": 56077,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

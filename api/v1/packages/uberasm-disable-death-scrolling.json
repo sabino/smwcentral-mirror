@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-disable-death-scrolling",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 14816,
+  "title": "Disable Death Scrolling",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "camera",
+    "lorom",
+    "sa-1",
+    "scroll",
+    "super fx"
+  ],
+  "description": "This makes it so that when the player dies, the screen doesn't scroll vertically anymore.",
+  "latest_version": "smwc-14816-1483490540",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 14816,
+      "title": "Disable Death Scrolling",
+      "version": "smwc-14816-1483490540",
+      "upstream_time": 1483490540,
+      "download_url": "https://dl.smwcentral.net/14816/NoDieVScroll.zip",
+      "filename": "NoDieVScroll.zip",
+      "size": 380,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

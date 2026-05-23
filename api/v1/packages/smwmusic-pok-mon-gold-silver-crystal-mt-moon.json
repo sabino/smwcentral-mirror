@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-mt-moon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22641,
+  "title": "Pokémon Gold/Silver/Crystal - Mt. Moon",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "overworld"
+  ],
+  "description": "Song that Mt. Moon from Pokémon Gold/Silver/Crystal. Good a for cave levels.<br>\r\n<br>\r\nRequested by Brutapode89.",
+  "latest_version": "smwc-22641-1587859514",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22641,
+      "title": "Pokémon Gold/Silver/Crystal - Mt. Moon",
+      "version": "smwc-22641-1587859514",
+      "upstream_time": 1587859514,
+      "download_url": "https://dl.smwcentral.net/22641/PkmGS%20-%20MtMoon.zip",
+      "filename": "PkmGS - MtMoon.zip",
+      "size": 30555,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

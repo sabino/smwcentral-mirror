@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-somari-special-stage",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 23170,
+  "title": "Somari - Special Stage",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "8-bit",
+    "bonus",
+    "needs remoderation"
+  ],
+  "description": "The tileset used in Somari's special stage, which is based on the SMS/GG versions of Sonic the Hedgehog.<br>\r\n<br>\r\nYou will need to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22749\">these blocks</a> to make the springs, bumpers and colossal pillars function. There's a list file included for use with this tileset's Map16, and it's also recommended to make a copy of the up boost block with its power set to $80.<br>\r\n<br>\r\nIt's also recommended to use the included hex edit that makes the screen scroll vertically without needing to land on solid ground.<br>\r\n<br>\r\nRequested by SquidBoy20.",
+  "latest_version": "smwc-23170-1593024784",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 23170,
+      "title": "Somari - Special Stage",
+      "version": "smwc-23170-1593024784",
+      "upstream_time": 1593024784,
+      "download_url": "https://dl.smwcentral.net/23170/Somari%20-%20Special%20Stage.zip",
+      "filename": "Somari - Special Stage.zip",
+      "size": 6475,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

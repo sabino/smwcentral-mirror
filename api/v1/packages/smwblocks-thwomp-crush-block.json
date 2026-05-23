@@ -1,0 +1,39 @@
+{
+  "name": "smwblocks-thwomp-crush-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 13458,
+  "title": "Thwomp Crush Block",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "breakable",
+    "custom sprite",
+    "lorom",
+    "sa-1",
+    "shatter",
+    "sprite",
+    "sprite contact",
+    "thwomp"
+  ],
+  "description": "This block will break when Thwomp comes into contact with it. Read the readme for more and better details.<br>\r\nAct-like recommended to be 130.<br>\r\n<br>\r\nUpdate: It now checks the sprite status of normal/custom Thwomp sprites and the type of brick shatter can now be specified in the asm file.",
+  "latest_version": "smwc-13458-1458536286",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 13458,
+      "title": "Thwomp Crush Block",
+      "version": "smwc-13458-1458536286",
+      "upstream_time": 1458536286,
+      "download_url": "https://dl.smwcentral.net/13458/ThwompCrush.zip",
+      "filename": "ThwompCrush.zip",
+      "size": 1703,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

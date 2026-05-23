@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-trouter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16360,
+  "title": "Trouter",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "enemy",
+    "fish",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "smb2",
+    "water"
+  ],
+  "description": "The fish from SMB2 that jumps from the water. It contains a few minor tweaks;<br>\r\nTrouter.cfg - A Trouter that jumps from where ever you place it, doesn't need water.<br>\r\nTrouterStomp.cfg - Same as the first one, but dies when stomped.<br>\r\nTrouterCarry.cfg - Same as the first one, but can be carried<br>\r\nTrouterSpin.cfg - Same as the first one, but can be killed per spin jump regardless whether you can kill it per stomp or not<br>\r\nTrouterBuoyant.cfg - Buoyant Trouter, only jumps when it reaches water.<br>\r\n<br>\r\n..As well as the ASM file, ExGFX file, and a Readme in case you don't know how, but want to customize certain things such as disabling/enabling killing via spin jump, and if the sprite can be carried or not.<br>\r\n<br>\r\nNo credit needed, PM me if you encounter any (major) errors.",
+  "latest_version": "smwc-16360-1510922489",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16360,
+      "title": "Trouter",
+      "version": "smwc-16360-1510922489",
+      "upstream_time": 1510922489,
+      "download_url": "https://dl.smwcentral.net/16360/Trouter.zip",
+      "filename": "Trouter.zip",
+      "size": 7232,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

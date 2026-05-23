@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-customizable-screen-wrapping-platforms",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40034,
+  "title": "Customizable Screen Wrapping Platforms",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "Like the ones seen in Super Mario Bros. 1, the New Super Mario Bros. games, Ice Climber, and MegaMan 3, these screen-wrapping platforms comes with more Customizable options.<br>\r\n• It can go in 4 directions like down, up (vertical), left, or right (horizontal).<br>\r\n• It will come in different wide sizes like 32, 48, 64, or 80 pixels wide.<br>\r\n• It can move at different speeds between slower to faster.<br>\r\n• On/off blocks changes their opposite direction.<br>\r\nRequested by CalHal",
+  "latest_version": "smwc-40034-1767747428",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40034,
+      "title": "Customizable Screen Wrapping Platforms",
+      "version": "smwc-40034-1767747428",
+      "upstream_time": 1767747428,
+      "download_url": "https://dl.smwcentral.net/40034/screen_loop_platform.zip",
+      "filename": "screen_loop_platform.zip",
+      "size": 5285,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-b3313-jumpscare",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36592,
+  "title": "b3313 - Jumpscare",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "chase",
+    "misc",
+    "tense"
+  ],
+  "description": "This can fit in troll hacks.",
+  "latest_version": "smwc-36592-1704997380",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36592,
+      "title": "b3313 - Jumpscare",
+      "version": "smwc-36592-1704997380",
+      "upstream_time": 1704997380,
+      "download_url": "https://dl.smwcentral.net/36592/B3313Jumpscare.zip",
+      "filename": "B3313Jumpscare.zip",
+      "size": 40271,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

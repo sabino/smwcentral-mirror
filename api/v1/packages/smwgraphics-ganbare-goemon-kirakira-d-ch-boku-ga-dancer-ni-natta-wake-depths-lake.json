@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-ganbare-goemon-kirakira-d-ch-boku-ga-dancer-ni-natta-wake-depths-lake",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25180,
+  "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Depths Lake",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "needs remoderation",
+    "patch needed",
+    "ruins",
+    "underwater"
+  ],
+  "description": "An underwater stage of Planet Impact, from Ganbare Goemon 4. It's an aquatic stage where Yae must cross a coral reef that has tons of dangers like spikes, scuba divers and nasty water currents. Like the name says, it's good for aquatic levels. To replicate the effect from the original game, I used a simple layer 3 + CGADSUB + Level Mode 0C + a horizontal wave HDMA.<br>\r\n<br>\r\nMay be incompatible with vanilla status bar. I recommend you to use a custom status bar. <br>\r\n<br>\r\nCredit would be great, but is optional.",
+  "latest_version": "smwc-25180-1606600293",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25180,
+      "title": "Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake - Depths Lake",
+      "version": "smwc-25180-1606600293",
+      "upstream_time": 1606600293,
+      "download_url": "https://dl.smwcentral.net/25180/Ganbare%20Goemon%204%20-%20Dephts%20Lake.zip",
+      "filename": "Ganbare Goemon 4 - Dephts Lake.zip",
+      "size": 7719,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

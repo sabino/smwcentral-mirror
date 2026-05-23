@@ -1,0 +1,51 @@
+{
+  "name": "smwpatches-sprite-properties-depending-on-the-extra-bit-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27942,
+  "title": "Sprite Properties Depending on the Extra Bit v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "ball and chain",
+    "chainsaw",
+    "extra bit",
+    "fuzzy",
+    "grinder",
+    "info box",
+    "lakitu",
+    "lorom",
+    "mole",
+    "net koopa",
+    "p-switch",
+    "parakoopa",
+    "rope",
+    "sa-1",
+    "scale platform",
+    "side exit",
+    "super koopa",
+    "timed lift",
+    "urchin"
+  ],
+  "description": "This patch will make so that a lot of sprites that use the starting X/Y position to set some property, will use the extra bit instead. Check out the included readme for the complete list and info on what the patch does. You can also turn this off for specific sprites by changing the defines in the asm file.<br>\r\nNote that you need to run a sprite tool (e.g. pixi) on your rom at least once in order for this patch to work properly.<br>\r\n<br>\r\nv1.1:<br>\r\n- Added sprite 64 (the line-guided rope): the extra bit clear will make it short, while setting it will make it long (and it won't depend on the sprite header anymore!)<br>\r\n- Small optimization for SA-1 roms.",
+  "latest_version": "smwc-27942-1630322084",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27942,
+      "title": "Sprite Properties Depending on the Extra Bit v1.1",
+      "version": "smwc-27942-1630322084",
+      "upstream_time": 1630322084,
+      "download_url": "https://dl.smwcentral.net/27942/SpritePropertiesExtraBit.zip",
+      "filename": "SpritePropertiesExtraBit.zip",
+      "size": 3513,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

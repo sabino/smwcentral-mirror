@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-end-level-and-shatter-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23883,
+  "title": "End level and Shatter Block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "exit",
+    "goal",
+    "level end",
+    "lorom",
+    "sa-1",
+    "shatter"
+  ],
+  "description": "A block that will end the level and then shatter. It can be set to activate the normal or secret exit.",
+  "latest_version": "smwc-23883-1595114350",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23883,
+      "title": "End level and Shatter Block",
+      "version": "smwc-23883-1595114350",
+      "upstream_time": 1595114350,
+      "download_url": "https://dl.smwcentral.net/23883/levelend.zip",
+      "filename": "levelend.zip",
+      "size": 454,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

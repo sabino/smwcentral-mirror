@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-dark-jungle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39373,
+  "title": "Hudson's Adventure Island - Dark Jungle",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "dark",
+    "jungle",
+    "retro"
+  ],
+  "description": "Dark Jungle from Hudson's Adventure Island.",
+  "latest_version": "smwc-39373-1741193563",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39373,
+      "title": "Hudson's Adventure Island - Dark Jungle",
+      "version": "smwc-39373-1741193563",
+      "upstream_time": 1741193563,
+      "download_url": "https://dl.smwcentral.net/39373/Hudson%27s%20Adventure%20Island%20-%20Dark%20Jungle.zip",
+      "filename": "Hudson%27s Adventure Island - Dark Jungle.zip",
+      "size": 39185,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

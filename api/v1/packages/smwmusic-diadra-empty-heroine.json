@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-diadra-empty-heroine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23206,
+  "title": "Diadra Empty - Heroine 04",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "overworld",
+    "town",
+    "water"
+  ],
+  "description": "The soothing, dreamy song featured in JUMP's Star World.",
+  "latest_version": "smwc-23206-1591065708",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23206,
+      "title": "Diadra Empty - Heroine 04",
+      "version": "smwc-23206-1591065708",
+      "upstream_time": 1591065708,
+      "download_url": "https://dl.smwcentral.net/23206/Heroine%2004.zip",
+      "filename": "Heroine 04.zip",
+      "size": 64057,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

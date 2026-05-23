@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-skate-or-die-nes-skate-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31535,
+  "title": "Skate or Die (NES) - Skate Shop",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "retro",
+    "title",
+    "urban"
+  ],
+  "description": "Very simple and calm tune from Skate or Die (NES) played in the Skate Shop.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31535-1663849986",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31535,
+      "title": "Skate or Die (NES) - Skate Shop",
+      "version": "smwc-31535-1663849986",
+      "upstream_time": 1663849986,
+      "download_url": "https://dl.smwcentral.net/31535/Skate%20or%20Die%20%28NES%29%20-%20Skate%20Shop.zip",
+      "filename": "Skate or Die (NES) - Skate Shop.zip",
+      "size": 65168,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

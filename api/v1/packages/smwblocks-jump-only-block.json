@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-jump-only-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 32052,
+  "title": "Jump Only Block",
+  "authors": [
+    "Nitrocell Inc."
+  ],
+  "tags": [
+    "act-as",
+    "fixed",
+    "jump",
+    "kill",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block will kill player if not jumping through it. More precisely, it will kill player if player's Y SPEED is positive (falling down). Otherwise, if Y speed is negative (going upwards and thus jumping is performing same), it will let you pass without killing. Also, this is also valid if player is swimming (going up when swimming, without falling). Otherwise, in water, this block will kill player.<br>\r\nAlso, this block pack contains a simple GFX file called ExGFXxx where xx indicates that you can put it wherever you want (as long as you use basic GFX knowledge). This GFX uses original palette, so importing is not needed. You can use default one. Remember to use [Palette 4] for this block in Map16 for best experience.",
+  "latest_version": "smwc-32052-1662421432",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 32052,
+      "title": "Jump Only Block",
+      "version": "smwc-32052-1662421432",
+      "upstream_time": 1662421432,
+      "download_url": "https://dl.smwcentral.net/32052/jump_only_block.zip",
+      "filename": "jump_only_block.zip",
+      "size": 920,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "asar",
+  "aliases": [
+    "asar"
+  ],
+  "section": "tools",
+  "upstream_id": 37443,
+  "title": "Asar v1.91",
+  "authors": [
+    "Alcaro",
+    "Check changelog for full list"
+  ],
+  "tags": [
+    "assembler",
+    "patcher"
+  ],
+  "description": "Asar is a Super Nintendo assembler based on xkas v0.06. It's the assembler used primarily on SMW Central.<br>\r\n<br>\r\nAsar's got a freespace finder, will ask for filenames if double clicked, can use parentheses and proper priority in math, can assemble SPC-700 and SuperFX codes, and has many, many other neat little features. The full list of features can be found in the <a href=\"https://rpghacker.github.io/asar/manual/\" rel=\"nofollow\">manual</a>.<br>\r\n<br>\r\nSome of the new features in Asar 1.90:<br>\r\n<ul>\r\n<li>For loops that look like <code>for i = 0..123</code>, which are a more convenient notation for while loops.</li>\r\n<li><code>spcblock</code> is a new, more flexible replacement for <code>arch spc700-inline</code>.</li>\r\n<li>\"static\" labels (that is, labels that are defined with the <code>label = $123456</code> syntax) can now be used in <code>if</code> conditions.</li>\r\n<li><code>freecode</code> can now be used in HiROM, ExHiROM, and ExLoROM mappers.</li>\r\n<li>New <code>pc()</code> and <code>realbase()</code> math functions.</li>\r\n</ul><br>\r\n1.90 also deprecates a lot of features that will be removed in 2.0. For more details, check the <a href=\"https://rpghacker.github.io/asar/asar_19/changelog/\" rel=\"nofollow\">changelog</a> and the <a href=\"https://www.smwcentral.net/?p=viewthread&t=126820\">release announcement thread</a>. For more details about new features, see the <a href=\"https://rpghacker.github.io/asar/asar_19/manual/\" rel=\"nofollow\">manual</a>.<br>\r\n<br>\r\nSource code can be found on <a href=\"https://github.com/RPGHacker/asar\" rel=\"nofollow\">GitHub</a>, where you can also contribute using issues and pull requests.",
+  "latest_version": "smwc-37443-1711532661",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 37443,
+      "title": "Asar v1.91",
+      "version": "smwc-37443-1711532661",
+      "upstream_time": 1711532661,
+      "download_url": "https://dl.smwcentral.net/37443/asar191.zip",
+      "filename": "asar191.zip",
+      "size": 597087,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-cave-music",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8056,
+  "title": "Cave Music",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "cave",
+    "dark"
+  ],
+  "description": "This cave song is pure awesome after the intro. Fantastic job on percussion, overall flow, and the use of @15 for tense moments.",
+  "latest_version": "smwc-8056-1319880859",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8056,
+      "title": "Cave Music",
+      "version": "smwc-8056-1319880859",
+      "upstream_time": 1319880859,
+      "download_url": "https://dl.smwcentral.net/8056/Cave%20Music.zip",
+      "filename": "Cave Music.zip",
+      "size": 68306,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7384,
+      "title": "Cave Music 2: Dark Cave",
+      "version": "smwc-7384-1319882439",
+      "upstream_time": 1319882439,
+      "download_url": "https://dl.smwcentral.net/7384/Dark%20Cave%20%28Cave%20music%202%29.zip",
+      "filename": "Dark Cave (Cave music 2).zip",
+      "size": 66918,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-micro-paragoomba",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36849,
+  "title": "Micro-Paragoomba",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Micro-Paragoomba is the name given to a species of small Goombas that can fly. They attack with a wave-like pattern. One stomp will ground them for good.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36849-1727268141",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36849,
+      "title": "Micro-Paragoomba",
+      "version": "smwc-36849-1727268141",
+      "upstream_time": 1727268141,
+      "download_url": "https://dl.smwcentral.net/36849/Micro-Paragoomba.zip",
+      "filename": "Micro-Paragoomba.zip",
+      "size": 7819,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

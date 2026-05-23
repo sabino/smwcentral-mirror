@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-power-jumps",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20163,
+  "title": "Power Jumps",
+  "authors": [
+    "HuFlungDu",
+    "Major Flare"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "Made at request of: iRhyiku<br>\r\n<br>\r\nChanges jump height based on powerup. Small Mario jumps low, big jumps regular, fire jumps high, and cape basically flies.<br>\r\n<br>\r\nNo credit necessary.<br>\r\n<br>\r\n<br>\r\n<br>\r\nRemoved some excess code that was totally irrelevant.<br>\r\n<br>\r\nNote: Consider using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=20146\">the UberASM alternative</a>, especially if you're going to use a custom status bar.",
+  "latest_version": "smwc-20163-1559889259",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20163,
+      "title": "Power Jumps",
+      "version": "smwc-20163-1559889259",
+      "upstream_time": 1559889259,
+      "download_url": "https://dl.smwcentral.net/20163/PowerJump.zip",
+      "filename": "PowerJump.zip",
+      "size": 405,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

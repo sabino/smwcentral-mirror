@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-carryable-pipe",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39764,
+  "title": "Carryable Pipe",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "carriable",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This sprite is used in pairs. You can carry them around, and when you enter one of them, like a pipe, you'll be teleported to the other end.<br>\r\n<br>\r\nYou can have up to four different pairs in a level at the same time, which act independently of each other and are distinguished by their color. The pairing depends on the extra byte.<br>\r\n<br>\r\nA pair of pipes only works when there are exactly two of them in the level, and both are spawned (=the player has encountered both); they won't let you enter otherwise.",
+  "latest_version": "smwc-39764-1756615721",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39764,
+      "title": "Carryable Pipe",
+      "version": "smwc-39764-1756615721",
+      "upstream_time": 1756615721,
+      "download_url": "https://dl.smwcentral.net/39764/carryable_pipe.zip",
+      "filename": "carryable_pipe.zip",
+      "size": 11672,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

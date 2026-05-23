@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-illusion-of-gaia-descent-into-darkness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23182,
+  "title": "Illusion of Gaia - Descent into Darkness",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "swamp",
+    "tense"
+  ],
+  "description": "A multi-purpose dungeon song that will play for any unsettling, dirty and abandoned place like castles, caves, mines...<br>\r\n<br>\r\nUpdate 01/06: fixing vibrato in #5.<br>\r\n",
+  "latest_version": "smwc-23182-1591058571",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23182,
+      "title": "Illusion of Gaia - Descent into Darkness",
+      "version": "smwc-23182-1591058571",
+      "upstream_time": 1591058571,
+      "download_url": "https://dl.smwcentral.net/23182/iog_des_darknss.zip",
+      "filename": "iog_des_darknss.zip",
+      "size": 65347,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

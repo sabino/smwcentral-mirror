@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-snowpoint-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22683,
+  "title": "Pokémon Diamond/Pearl/Platinum - Snowpoint City",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "snow",
+    "town"
+  ],
+  "description": "The chill song used in the snowy city in Pokémon DPPt.<br>\r\nThis includes both day and night variants, with the only difference being the inclusion of sleigh bells and triangle in the night variant (you can set it with the #define at the top of the file).<br>\r\nThanks to Exodust for some feedback and advice!<br>\r\n<br>\r\nNote: not compatible with the \"Bonus end\" song.",
+  "latest_version": "smwc-22683-1587944594",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22683,
+      "title": "Pokémon Diamond/Pearl/Platinum - Snowpoint City",
+      "version": "smwc-22683-1587944594",
+      "upstream_time": 1587944594,
+      "download_url": "https://dl.smwcentral.net/22683/Snowpoint.zip",
+      "filename": "Snowpoint.zip",
+      "size": 90108,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

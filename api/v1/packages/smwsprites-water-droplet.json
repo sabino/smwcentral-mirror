@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-water-droplet",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30884,
+  "title": "Water Droplet",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "effect",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A very simple and decorative sprite which spawns itself in place and falls to the ground only to splat.",
+  "latest_version": "smwc-30884-1661990313",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30884,
+      "title": "Water Droplet",
+      "version": "smwc-30884-1661990313",
+      "upstream_time": 1661990313,
+      "download_url": "https://dl.smwcentral.net/30884/water_drop.zip",
+      "filename": "water_drop.zip",
+      "size": 5840,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

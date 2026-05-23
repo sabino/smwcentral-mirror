@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-kart-super-circuit-snow-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7707,
+  "title": "Mario Kart: Super Circuit - Snow Land",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "ice"
+  ],
+  "description": "A somewhat polka-ish song that could suit an athletic ice level.",
+  "latest_version": "smwc-7707-1375582381",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7707,
+      "title": "Mario Kart: Super Circuit - Snow Land",
+      "version": "smwc-7707-1375582381",
+      "upstream_time": 1375582381,
+      "download_url": "https://dl.smwcentral.net/7707/Snow%20Land.zip",
+      "filename": "Snow Land.zip",
+      "size": 65074,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

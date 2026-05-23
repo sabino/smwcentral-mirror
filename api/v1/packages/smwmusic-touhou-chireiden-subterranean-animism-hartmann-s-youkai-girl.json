@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-chireiden-subterranean-animism-hartmann-s-youkai-girl",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28015,
+  "title": "Touhou Chireiden ~ Subterranean Animism - Hartmann's Youkai Girl",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Famous song from the extra stage boss of Touhou 11. It's quite tense and chaotic, so it'd fit chases and tense moments, other than boss battles.",
+  "latest_version": "smwc-28015-1631602887",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28015,
+      "title": "Touhou Chireiden ~ Subterranean Animism - Hartmann's Youkai Girl",
+      "version": "smwc-28015-1631602887",
+      "upstream_time": 1631602887,
+      "download_url": "https://dl.smwcentral.net/28015/Koishi.zip",
+      "filename": "Koishi.zip",
+      "size": 35417,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

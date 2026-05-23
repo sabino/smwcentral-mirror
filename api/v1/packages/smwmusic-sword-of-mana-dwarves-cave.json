@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sword-of-mana-dwarves-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17372,
+  "title": "Sword of Mana - Dwarves' Cave",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "house",
+    "mountain",
+    "town"
+  ],
+  "description": "This whimsical tune would be good for a town or friendly house, especially if it's underground or on a mountain.",
+  "latest_version": "smwc-17372-1523185326",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17372,
+      "title": "Sword of Mana - Dwarves' Cave",
+      "version": "smwc-17372-1523185326",
+      "upstream_time": 1523185326,
+      "download_url": "https://dl.smwcentral.net/17372/Dwarves%27%20Cave.zip",
+      "filename": "Dwarves%27 Cave.zip",
+      "size": 31820,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

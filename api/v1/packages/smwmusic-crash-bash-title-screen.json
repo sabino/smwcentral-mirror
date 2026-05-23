@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-crash-bash-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37234,
+  "title": "Crash Bash - Title Screen",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "title"
+  ],
+  "description": "The title screen theme from Crash Bash, which is a more upbeat and techno remix of the title theme from Crash 3.<br>\r\n<br>\r\nNote: Not compatible with Yoshi, thunder and Bonus End.",
+  "latest_version": "smwc-37234-1712518555",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37234,
+      "title": "Crash Bash - Title Screen",
+      "version": "smwc-37234-1712518555",
+      "upstream_time": 1712518555,
+      "download_url": "https://dl.smwcentral.net/37234/CBash%20-%20Title%20Screen.zip",
+      "filename": "CBash - Title Screen.zip",
+      "size": 109709,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

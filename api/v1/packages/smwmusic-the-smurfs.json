@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-the-smurfs",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33532,
+  "title": "The Smurfs 2 - Crystal Clear!",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "forest",
+    "goal",
+    "jungle"
+  ],
+  "description": "The happy (and not very mysterious) jungle/rainforest stage theme from The Smurfs Travel the World, a.k.a. The Smurfs 2, on the SNES. Ported by ear by listening to each channel of the SPC.",
+  "latest_version": "smwc-33532-1690381519",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33532,
+      "title": "The Smurfs 2 - Crystal Clear!",
+      "version": "smwc-33532-1690381519",
+      "upstream_time": 1690381519,
+      "download_url": "https://dl.smwcentral.net/33532/Smurfs%202%2C%20The%20-%20Crystal%20Clear%21.zip",
+      "filename": "Smurfs 2%2C The - Crystal Clear%21.zip",
+      "size": 30174,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33531,
+      "title": "The Smurfs 2 - Mysterious Jungle",
+      "version": "smwc-33531-1690381559",
+      "upstream_time": 1690381559,
+      "download_url": "https://dl.smwcentral.net/33531/Smurfs%202%2C%20The%20-%20Mysterious%20Jungle.zip",
+      "filename": "Smurfs 2%2C The - Mysterious Jungle.zip",
+      "size": 30866,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-planet-x2-oh-no-more-square-waves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20360,
+  "title": "Planet X2 - Oh No! More Square Waves!",
+  "authors": [
+    "Nikku4211"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "retro",
+    "sad",
+    "space",
+    "title"
+  ],
+  "description": "Yes, I know it mainly uses sawtooth waves, but that's what the original song was called.<br>\r\n<br>\r\n  The song was originally made by David Murray. It was made for video on his '8-Bit Keys' channel where he reviewed a pulse wave keyboard called the Yamaha PSS-125. David Murray then had Anders Enger Jensen compose the soundtrack to his C64 game 'Planet X2', hence the simplicity here. One of those songs happened to be a remix of 'Oh No! More Square Waves!'.",
+  "latest_version": "smwc-20360-1562359359",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20360,
+      "title": "Planet X2 - Oh No! More Square Waves!",
+      "version": "smwc-20360-1562359359",
+      "upstream_time": 1562359359,
+      "download_url": "https://dl.smwcentral.net/20360/OhNoMoreSquareWaves.zip",
+      "filename": "OhNoMoreSquareWaves.zip",
+      "size": 9837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

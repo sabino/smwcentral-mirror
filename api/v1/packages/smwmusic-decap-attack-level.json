@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-decap-attack-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38814,
+  "title": "Decap Attack - Level 1",
+  "authors": [
+    "GeToTeto"
+  ],
+  "tags": [
+    "dark",
+    "forest",
+    "overworld",
+    "spooky",
+    "upbeat"
+  ],
+  "description": "Remix of the BGM that plays in the first level (and other levels iirc) of Decap Attack.<br>\r\nCould fit in forest levels, haunted levels, or somewhere in-between.<br>\r\nAn Atgames-pitched version is included as a bonus as it sounds cooler than the og imo",
+  "latest_version": "smwc-38814-1738370273",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38814,
+      "title": "Decap Attack - Level 1",
+      "version": "smwc-38814-1738370273",
+      "upstream_time": 1738370273,
+      "download_url": "https://dl.smwcentral.net/38814/Decap%20Attack%20-%20Level%20BGM%201.zip",
+      "filename": "Decap Attack - Level BGM 1.zip",
+      "size": 182906,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

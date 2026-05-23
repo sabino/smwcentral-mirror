@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-star-palette-patch",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40234,
+  "title": "Star Palette Patch",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "palatte",
+    "sa-1",
+    "star"
+  ],
+  "description": "This patch hijacks part of the routine that causes the Star sprite to flash palettes, so you can conditionally disable the flashing palette and/or set your own palettes for it.  (You're still limited to 4 palettes, though.)<br>\r\n<br>\r\nRequested by Spade and Fakescaper.",
+  "latest_version": "smwc-40234-1754348890",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40234,
+      "title": "Star Palette Patch",
+      "version": "smwc-40234-1754348890",
+      "upstream_time": 1754348890,
+      "download_url": "https://dl.smwcentral.net/40234/Star%20Palette%20Patch.zip",
+      "filename": "Star Palette Patch.zip",
+      "size": 1188,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

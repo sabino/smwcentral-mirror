@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-reflecting-projectile-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14835,
+  "title": "Reflecting Projectile Block",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "block",
+    "lorom",
+    "projectile",
+    "reflecting",
+    "solid"
+  ],
+  "description": "This sprite acts as a block that reflects enemy projectiles such as Pitchin' Chuck's baseballs in an horizontal or vertical axis. Projectiles reflected are, for now, extended sprites only; I see no reason to add support to other kinds of sprites.",
+  "latest_version": "smwc-14835-1483814681",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14835,
+      "title": "Reflecting Projectile Block",
+      "version": "smwc-14835-1483814681",
+      "upstream_time": 1483814681,
+      "download_url": "https://dl.smwcentral.net/14835/ReflectingBlock.zip",
+      "filename": "ReflectingBlock.zip",
+      "size": 16623,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

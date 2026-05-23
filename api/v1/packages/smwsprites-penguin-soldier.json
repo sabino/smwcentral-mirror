@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-penguin-soldier",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3636,
+  "title": "Penguin Soldier",
+  "authors": [
+    "HuFlungDu"
+  ],
+  "tags": [
+    "dynamic",
+    "enemy",
+    "lorom",
+    "penguin"
+  ],
+  "description": "This little dude is from the game \"Magical Pop'n\". He walks back and forth until Mario comes within 5 blocks of him, then he chases Mario. If mario gets too close, he slashes mario. Will also slash shells, goombas, etc when thrown at him, unless you throw them at him from behind (Though even then he will deflect them sometimes). Kill him by jumping on him, just like any normal enemy.<br>\r\nOf note: This is a dynamic sprite! That means you must patch dsx.asm to use this sprite (I inlcuded graphics and a palette that it needs)<br>\r\n<br>\r\nExtra Bit: No<br>\r\nNo credit necessary, have fun.",
+  "latest_version": "smwc-3636-1278032349",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3636,
+      "title": "Penguin Soldier",
+      "version": "smwc-3636-1278032349",
+      "upstream_time": 1278032349,
+      "download_url": "https://dl.smwcentral.net/3636/PenguinSoldier.zip",
+      "filename": "PenguinSoldier.zip",
+      "size": 7517,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

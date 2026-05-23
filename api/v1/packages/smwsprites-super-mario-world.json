@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-super-mario-world",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24667,
+  "title": "Super Mario World 2: Yoshi's Island - Numbered Platform",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "map16",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "A numbered platform from Super Mario World 2: Yoshi's Island, found in levels like Don't Look Back (4-2).<br>\r\nIt's a platform which allows you to jump on only a limited amount of times.<br>\r\n<br>\r\nCan be used as a standalone sprite or in combination with a block. Uses the Map16 tile number for how often you can jump on one.<br>\r\n<br>\r\nRead the readme for more details.",
+  "latest_version": "v1.0",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24667,
+      "title": "Super Mario World 2: Yoshi's Island - Numbered Platform",
+      "version": "v1.0",
+      "upstream_time": 1604870647,
+      "download_url": "https://dl.smwcentral.net/24667/NumberedPlatform.zip",
+      "filename": "NumberedPlatform.zip",
+      "size": 14349,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

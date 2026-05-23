@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-super-mario-advance",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34185,
+  "title": "Super Mario Advance 4 !-Switch",
+  "authors": [
+    "Burning Loaf"
+  ],
+  "tags": [
+    "block",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "switch",
+    "timer",
+    "uberasm"
+  ],
+  "description": "In certain e-reader levels from Super Mario Advance 4, this unique !-switch appears. It functions mostly the same as the ones from Yoshi's Island, where it makes outlined blocks solid, but this one can be grabbed and re-used as soon as the timer runs out.<br>\r\nThe sprite requires UberASM to trigger Exanimation and decrease the timer. It also comes with a block, and requires 1 byte of freeram.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"edidari\"><a href=\"/?p=profile&amp;id=40944\" style=\"color: var(--user-color-1);\" class=\"un\">edidari</a></span>.",
+  "latest_version": "smwc-34185-1697868125",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34185,
+      "title": "Super Mario Advance 4 !-Switch",
+      "version": "smwc-34185-1697868125",
+      "upstream_time": 1697868125,
+      "download_url": "https://dl.smwcentral.net/34185/SMA4%20Switch.zip",
+      "filename": "SMA4 Switch.zip",
+      "size": 11734,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

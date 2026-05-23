@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shantae-gbc-scuttle-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35575,
+  "title": "Shantae (GBC) - Scuttle Town",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "desert",
+    "retro",
+    "temple",
+    "town"
+  ],
+  "description": "Scuttle Town from Shantae on the Gameboy Color.<br>\r\n<br>\r\nMake sure to insert the sample group included in the submission.<br>\r\nOmits Thunder, @15 (Yoshi) and @7 (Bonus End).",
+  "latest_version": "smwc-35575-1702122498",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35575,
+      "title": "Shantae (GBC) - Scuttle Town",
+      "version": "smwc-35575-1702122498",
+      "upstream_time": 1702122498,
+      "download_url": "https://dl.smwcentral.net/35575/Shantae%20GBC%20-%20Scuttle%20Town.zip",
+      "filename": "Shantae GBC - Scuttle Town.zip",
+      "size": 102997,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "tools-snesgfx-v2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 6523,
+  "title": "SnesGFX v2.62",
+  "authors": [
+    "Vitor Vilela"
+  ],
+  "tags": [
+    "graphics",
+    "map16",
+    "mode 7",
+    "ripping",
+    "sa-1",
+    "tilemap"
+  ],
+  "description": "This tool lets you rip images (png, bmp, jpg, etc) to SNES format with automatic color reduction using pngquant. It can output 2, 3, 4 and 8 BPP. It can output map16, map16+sample level and snes tilemap, allowing to you basically rip anything, like sprite sheets, foreground and even backgrounds.<br>\r\n<br>\r\nCheck out the readme for more details. There's lots of combinations possible, so I recommend to you play it a bit before using.<br>\r\n<br>\r\nThis version fixes some minor issues, adds transparency tool (CGADSUB mode) and adds support for Mode 7 tilemap.",
+  "latest_version": "smwc-6523-1407898027",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 6523,
+      "title": "SnesGFX v2.62",
+      "version": "smwc-6523-1407898027",
+      "upstream_time": 1407898027,
+      "download_url": "https://dl.smwcentral.net/6523/SnesGFX262.zip",
+      "filename": "SnesGFX262.zip",
+      "size": 283314,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-x-y-position-locked-sprite-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24622,
+  "title": "X/Y Position Locked Sprite v1.2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This sprite will spawn another sprite and lock it to Mario's X or Y position.<br>\r\n<br>\r\nExtra bit: clear = vanilla, set = custom.<br>\r\n<br>\r\nExtra byte 1: sprite number to spawn.<br>\r\n<br>\r\nExtra byte 2: X/Y offset from Mario to keep the sprite at. For example, use $F8 with the Hammer Brother's platform to have Mario centered on the platform.<br>\r\n<br>\r\nExtra byte 3: if the lowest bit is not set, the sprite will target the X position, otherwise it'll target the Y position. Additionally, if the highest bit is set, it'll set the extra bit for the spawned sprite.<br>\r\n<br>\r\nExtra bytes 4-7: these 4 values set the 4 extra bytes for the spawned sprite (if custom).<br>\r\n<br>\r\nUpdates:<br>\r\n- v1.1: added Y follow setting.<br>\r\n- v1.2: now the sprite uses 7 extra bytes so you can set the extra bytes for the spawned sprite. Also added an option to set the extra bit for the spawned sprite.<br>\r\n",
+  "latest_version": "smwc-24622-1600720109",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24622,
+      "title": "X/Y Position Locked Sprite v1.2",
+      "version": "smwc-24622-1600720109",
+      "upstream_time": 1600720109,
+      "download_url": "https://dl.smwcentral.net/24622/XYFollowSprite.zip",
+      "filename": "XYFollowSprite.zip",
+      "size": 4804,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

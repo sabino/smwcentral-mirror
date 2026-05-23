@@ -1,0 +1,34 @@
+{
+  "name": "smwgraphics-resplendent-crystal-cave",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 19786,
+  "title": "Resplendent Crystal Cave",
+  "authors": [
+    "Katrina"
+  ],
+  "tags": [
+    "cave",
+    "crystal",
+    "crystal cave",
+    "lava",
+    "needs remoderation"
+  ],
+  "description": "A set of crystal cave graphics with a matching BG on layer 3.<br>\r\n<br>\r\nThe FG includes animated lava. It also includes a lava glow for use on translucent layer 2, and the crystals work well on translucent layer 2.<br>\r\n<br>\r\nThere is a less crystally variant of the FG (using the same map16 and everything), in case crystals aren't your jam re: caves, but it is less featured than the crystal version. In particular, the BG is only available in crystal flavor.<br>\r\n<br>\r\nSome (minor) tiles are designed to go with my <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18241\">Resplendent Global Graphics</a>.",
+  "latest_version": "smwc-19786-1556692053",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 19786,
+      "title": "Resplendent Crystal Cave",
+      "version": "smwc-19786-1556692053",
+      "upstream_time": 1556692053,
+      "download_url": "https://dl.smwcentral.net/19786/crystal-cave.zip",
+      "filename": "crystal-cave.zip",
+      "size": 21399,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

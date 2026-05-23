@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-new-super-mario-classic-autumn-submap-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29729,
+  "title": "New Super Mario Classic - Autumn Submap (Night)",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "night",
+    "overworld"
+  ],
+  "description": "Could fit on autumn season submaps or overworld areas with night time. This music was played on World 6 (Maple Heights) from New Super Mario Classic (Emerald Edition) (My SMW Hack)",
+  "latest_version": "smwc-29729-1651353226",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29729,
+      "title": "New Super Mario Classic - Autumn Submap (Night)",
+      "version": "smwc-29729-1651353226",
+      "upstream_time": 1651353226,
+      "download_url": "https://dl.smwcentral.net/29729/NSMC%20Night%20Autumn%20Submap.zip",
+      "filename": "NSMC Night Autumn Submap.zip",
+      "size": 50249,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

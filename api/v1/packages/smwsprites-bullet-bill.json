@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bullet-bill",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26768,
+  "title": "Bullet Bill",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "bullet bill",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 1C in SMW, the Bullet Bill.<br>\r\n<br>\r\nSetting the extra bit makes the bullet bill play a sound effect and don't go behind the scenes.<br>\r\n<br>\r\nMinor update 2023-03-03: updated a quasi-broken .json file in the zip.",
+  "latest_version": "smwc-26768-1625081387",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26768,
+      "title": "Bullet Bill",
+      "version": "smwc-26768-1625081387",
+      "upstream_time": 1625081387,
+      "download_url": "https://dl.smwcentral.net/26768/SMWSDIS%20-%20sprite%201C%20-%20bullet%20bill.zip",
+      "filename": "SMWSDIS - sprite 1C - bullet bill.zip",
+      "size": 2482,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

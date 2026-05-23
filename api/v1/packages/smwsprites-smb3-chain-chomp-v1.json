@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-smb3-chain-chomp-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 6675,
+  "title": "SMB3 Chain Chomp (v1.2)",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "chain chomp",
+    "chomp",
+    "lorom",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "Unlike the version in the Japanese sprite pack, this chain chomp has a real chain movement, like the one in SMB3.<br>\r\n<br>\r\nThis version fixes a bug that caused the sprite to glitch on the Higan/BSNES emulator. Credit to Kaijyuu for <a href=\"http://smwc.me/775431\">the fix</a> (which he discovered nearly <i>3 years ago</i> at the time of writing...why did nobody submit it sooner?).<br>\r\n<br>\r\nNow SA-1 hybrid, <u>but also incompatible with Wigglers due to the need of a large chunk of RAM for segments.</u> The RAM used can be easily changed via defines.",
+  "latest_version": "smwc-6675-1402868231",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 6675,
+      "title": "SMB3 Chain Chomp (v1.2)",
+      "version": "smwc-6675-1402868231",
+      "upstream_time": 1402868231,
+      "download_url": "https://dl.smwcentral.net/6675/smb3chomp.zip",
+      "filename": "smb3chomp.zip",
+      "size": 9388,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

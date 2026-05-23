@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-direction-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3828,
+  "title": "Direction Block",
+  "authors": [
+    "Delmaru"
+  ],
+  "tags": [
+    "boost",
+    "direction",
+    "lorom"
+  ],
+  "description": "This block throws you in the direction you press while touching it. Speed is configurable in the .asm file. Credit would be nice if used or modified.",
+  "latest_version": "smwc-3828-1409018298",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3828,
+      "title": "Direction Block",
+      "version": "smwc-3828-1409018298",
+      "upstream_time": 1409018298,
+      "download_url": "https://dl.smwcentral.net/3828/direction.zip",
+      "filename": "direction.zip",
+      "size": 501,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

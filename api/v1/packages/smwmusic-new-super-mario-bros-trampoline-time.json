@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-new-super-mario-bros-trampoline-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20581,
+  "title": "New Super Mario Bros. - Trampoline Time",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "grassland",
+    "mountain",
+    "overworld",
+    "space",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "Doo doo de doo. Endless potential. Give some acapella swing vibes to your hack! ",
+  "latest_version": "smwc-20581-1562797036",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20581,
+      "title": "New Super Mario Bros. - Trampoline Time",
+      "version": "smwc-20581-1562797036",
+      "upstream_time": 1562797036,
+      "download_url": "https://dl.smwcentral.net/20581/Trampoline%20Time.zip",
+      "filename": "Trampoline Time.zip",
+      "size": 69368,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

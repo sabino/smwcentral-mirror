@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-final-fantasy-v-legend-of-the-deep-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19620,
+  "title": "Final Fantasy V - Legend of the Deep Forest",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "forest",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "(Also known as \"As I Feel, You Feel', for some reason)<br>\r\n<br>\r\nA spooky tune could fit with ghost house / pre-boss theme",
+  "latest_version": "smwc-19620-1554861096",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19620,
+      "title": "Final Fantasy V - Legend of the Deep Forest",
+      "version": "smwc-19620-1554861096",
+      "upstream_time": 1554861096,
+      "download_url": "https://dl.smwcentral.net/19620/Final%20Fantasy%20V%20-%20As%20I%20Feel%2C%20You%20Feel%20%28Unsampled%29.zip",
+      "filename": "Final Fantasy V - As I Feel%2C You Feel (Unsampled).zip",
+      "size": 31224,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 9020,
+      "title": "Final Fantasy V - Legend of the Deep Forest",
+      "version": "smwc-9020-1412974489",
+      "upstream_time": 1412974489,
+      "download_url": "https://dl.smwcentral.net/9020/Final%20Fantasy%20V%20-%20As%20I%20Feel%2C%20You%20Feel.zip",
+      "filename": "Final Fantasy V - As I Feel%2C You Feel.zip",
+      "size": 41645,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

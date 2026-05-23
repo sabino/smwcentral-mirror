@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cave-story-access",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7293,
+  "title": "Cave Story - Access",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "bonus",
+    "p-switch"
+  ],
+  "description": "Very short song, best for...bonus rooms?",
+  "latest_version": "smwc-7293-1319645123",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7293,
+      "title": "Cave Story - Access",
+      "version": "smwc-7293-1319645123",
+      "upstream_time": 1319645123,
+      "download_url": "https://dl.smwcentral.net/7293/access.zip",
+      "filename": "access.zip",
+      "size": 66381,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

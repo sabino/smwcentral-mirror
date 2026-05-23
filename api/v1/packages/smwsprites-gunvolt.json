@@ -1,0 +1,46 @@
+{
+  "name": "smwsprites-gunvolt",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 5690,
+  "title": "Gunvolt",
+  "authors": [
+    "dahnamics"
+  ],
+  "tags": [
+    "electricity",
+    "enemy",
+    "invincible",
+    "lorom",
+    "machine",
+    "machines",
+    "mega man",
+    "mega man x",
+    "megaman",
+    "megaman x",
+    "robot",
+    "robots",
+    "rocket",
+    "sa-1",
+    "shooter"
+  ],
+  "description": "This Gunvolt from Mega Man X, which appears in the intro stage, in Storm Eagle's stage, in Spark Mandrill's stage, and in Stigma's stage. Gunvolt is an invincible sprite which stays still and regularly fires two missiles or spawns two electric sparks. They will disappear when they hit a wall.<br>\r\n<br>\r\nUsage with the No More Sprite Tile Limits patch is recommended because this is a very big sprite.<br>\r\n<br>\r\nMake sure to specify the sprite numbers of the missile and the spark in gun_volt.asm! Check the ASM files for customization options.",
+  "latest_version": "smwc-5690-1378100967",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 5690,
+      "title": "Gunvolt",
+      "version": "smwc-5690-1378100967",
+      "upstream_time": 1378100967,
+      "download_url": "https://dl.smwcentral.net/5690/Gunvolt.zip",
+      "filename": "Gunvolt.zip",
+      "size": 12584,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

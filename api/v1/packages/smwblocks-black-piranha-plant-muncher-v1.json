@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-black-piranha-plant-muncher-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41222,
+  "title": "Black Piranha Plant (Muncher) v1.1",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "hurt",
+    "lorom",
+    "muncher",
+    "sa-1",
+    "vanilla"
+  ],
+  "description": "<img src=\"http://floating.muncher.se/muncher.gif\"><br>\r\nAn expanded muncher from Super Mario World.<br>\r\n-Can be a reverse muncher (as in, it starts as a coin, but if you trigger the silver P-Switch, changes to a muncher).<br>\r\n- Can choose what switch turns it from muncher to coin.<br>\r\n- Can configure which side won't hurt the player while being a muncher.<br>\r\n<br>\r\nIt retains the \"side touch\" hitbox, meaning that if the player touches the side without overlapping it (by moving straight up and down on it, NOT moving against it), it won't hurt them.",
+  "latest_version": "smwc-41222-1764893715",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41222,
+      "title": "Black Piranha Plant (Muncher) v1.1",
+      "version": "smwc-41222-1764893715",
+      "upstream_time": 1764893715,
+      "download_url": "https://dl.smwcentral.net/41222/VanillaMuncher%20v1.1.zip",
+      "filename": "VanillaMuncher v1.1.zip",
+      "size": 3595,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

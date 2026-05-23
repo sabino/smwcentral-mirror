@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lagrange-point-vesta-s-wall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25357,
+  "title": "Lagrange Point - Vesta's Wall",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cave",
+    "dungeon",
+    "retro",
+    "space",
+    "tense"
+  ],
+  "description": "The song from the second dungeon in outer space.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25357-1607729679",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25357,
+      "title": "Lagrange Point - Vesta's Wall",
+      "version": "smwc-25357-1607729679",
+      "upstream_time": 1607729679,
+      "download_url": "https://dl.smwcentral.net/25357/Lagrange%20Point%20-%20Vesta%27s%20Wall.zip",
+      "filename": "Lagrange Point - Vesta%27s Wall.zip",
+      "size": 141533,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-peach-world-macchiato-nights",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25636,
+  "title": "Super Peach World - Macchiato Nights",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "night",
+    "overworld",
+    "urban"
+  ],
+  "description": "Port of my song Macchiato Nights https://soundcloud.com/jea-1/macchiato-nights<br>\r\nUsed as an overworld theme in my hack Super Peach World. Could fit any night/city themed level.<br>\r\nPlease credit me if used :)",
+  "latest_version": "smwc-25636-1610576392",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25636,
+      "title": "Super Peach World - Macchiato Nights",
+      "version": "smwc-25636-1610576392",
+      "upstream_time": 1610576392,
+      "download_url": "https://dl.smwcentral.net/25636/SPW%20-%20Macchiato%20Nights.zip",
+      "filename": "SPW - Macchiato Nights.zip",
+      "size": 47502,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

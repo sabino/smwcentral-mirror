@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-adventures-of-lolo-main-theme-kirby-s-dream-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28737,
+  "title": "Adventures of Lolo - Main Theme (Kirby's Dream Land 3 Style)",
+  "authors": [
+    "Kitikuchan"
+  ],
+  "tags": [
+    "cutscene",
+    "grassland",
+    "overworld",
+    "switch palace"
+  ],
+  "description": "Main Theme from a NES game, Adventures of Lolo with KDL3 samples.<br>\r\nYoutube:<a href=\"https://youtu.be/LjhvQ1vdPkI\" rel=\"nofollow\">https://youtu.be/LjhvQ1vdPkI</a><br>\r\nIt could well for grassland, switch palace, cutscene, and puzzle levels.",
+  "latest_version": "smwc-28737-1640461342",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28737,
+      "title": "Adventures of Lolo - Main Theme (Kirby's Dream Land 3 Style)",
+      "version": "smwc-28737-1640461342",
+      "upstream_time": 1640461342,
+      "download_url": "https://dl.smwcentral.net/28737/Adventures%20of%20Lolo%20-%20Main%20Theme%28KDL3%29.zip",
+      "filename": "Adventures of Lolo - Main Theme(KDL3).zip",
+      "size": 59257,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-street-fighter-ii-world-warrior-insert-coin",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26344,
+  "title": "Street Fighter II: World Warrior - Insert Coin",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "misc",
+    "nintendo presents"
+  ],
+  "description": "Insert Coin sound effect from Street Fighter II.<br>\r\nUseful as Nintendo Presents or a global song.",
+  "latest_version": "smwc-26344-1617134412",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26344,
+      "title": "Street Fighter II: World Warrior - Insert Coin",
+      "version": "smwc-26344-1617134412",
+      "upstream_time": 1617134412,
+      "download_url": "https://dl.smwcentral.net/26344/Street%20Fighter%20II%20Insert%20Coin.zip",
+      "filename": "Street Fighter II Insert Coin.zip",
+      "size": 30151,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

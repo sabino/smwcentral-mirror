@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-trading-card-game-rock-water-club",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41757,
+  "title": "Pokémon Trading Card Game - Rock & Water Club",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "retro",
+    "sad",
+    "water"
+  ],
+  "description": "Rock & Water Club from Pokémon Trading Card Game.",
+  "latest_version": "smwc-41757-1774196983",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41757,
+      "title": "Pokémon Trading Card Game - Rock & Water Club",
+      "version": "smwc-41757-1774196983",
+      "upstream_time": 1774196983,
+      "download_url": "https://dl.smwcentral.net/41757/Pokemon%20TCG%20-%20Rock%20%26%20Water%20Club.zip",
+      "filename": "Pokemon TCG - Rock %26 Water Club.zip",
+      "size": 34047,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

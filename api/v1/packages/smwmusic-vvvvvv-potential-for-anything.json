@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-vvvvvv-potential-for-anything",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23139,
+  "title": "VVVVVV - Potential for Anything",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "space",
+    "tense"
+  ],
+  "description": "Part of Wyatt Croucher's music pack. A brilliant song with a spacey vibe to it.",
+  "latest_version": "smwc-23139-1590735581",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23139,
+      "title": "VVVVVV - Potential for Anything",
+      "version": "smwc-23139-1590735581",
+      "upstream_time": 1590735581,
+      "download_url": "https://dl.smwcentral.net/23139/vvvvvv10.zip",
+      "filename": "vvvvvv10.zip",
+      "size": 34988,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17057,
+      "title": "VVVVVV - Potential For Anything",
+      "version": "smwc-17057-1517436104",
+      "upstream_time": 1517436104,
+      "download_url": "https://dl.smwcentral.net/17057/potential%20for%20anything.zip",
+      "filename": "potential for anything.zip",
+      "size": 37982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

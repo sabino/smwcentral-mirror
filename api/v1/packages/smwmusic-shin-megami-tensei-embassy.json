@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-embassy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37276,
+  "title": "Shin Megami Tensei - Embassy",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene",
+    "fire",
+    "tense"
+  ],
+  "description": "There‘s a different version of this track with slightly different pitch, panning and a bit more complex drum pattern in SMT if... known as 'School 4–10 F‘.<br>\r\nYou can switch between the SMT 1 and SMT if… versions with:<br>\r\nSet define to #define Version 0, to get the SMT 1 version<br>\r\nset define to #define Version 1, to get the SMT if… version",
+  "latest_version": "smwc-37276-1714363227",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37276,
+      "title": "Shin Megami Tensei - Embassy",
+      "version": "smwc-37276-1714363227",
+      "upstream_time": 1714363227,
+      "download_url": "https://dl.smwcentral.net/37276/SMT%20Embassy%20School%204-10%20F.zip",
+      "filename": "SMT Embassy School 4-10 F.zip",
+      "size": 78540,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

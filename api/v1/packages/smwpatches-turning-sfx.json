@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-turning-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20292,
+  "title": "Turning SFX",
+  "authors": [
+    "AuraDee"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sfx",
+    "sound effect"
+  ],
+  "description": "This patch will add a sound effect to when Mario is turning around.<br>\r\n<br>\r\n6-24-2019: Added a configurable \"threshold\" for how fast Mario's speed should be before the sound effect plays.",
+  "latest_version": "smwc-20292-1561429149",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20292,
+      "title": "Turning SFX",
+      "version": "smwc-20292-1561429149",
+      "upstream_time": 1561429149,
+      "download_url": "https://dl.smwcentral.net/20292/TurningSFX.zip",
+      "filename": "TurningSFX.zip",
+      "size": 613,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

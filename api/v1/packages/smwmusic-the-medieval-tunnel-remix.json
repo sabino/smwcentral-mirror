@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-medieval-tunnel-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10378,
+  "title": "The Medieval Tunnel (Remix)",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "castle",
+    "dark"
+  ],
+  "description": "A remix of the Castle theme from SMW with Tunnel Rhino's Stage from Mega Man X3. Maybe it can be good for a long boss battle, or something...<br>\r\n<br>\r\n<br>\r\nUpdate (12/04/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 509 bytes.",
+  "latest_version": "smwc-10378-1419884720",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10378,
+      "title": "The Medieval Tunnel (Remix)",
+      "version": "smwc-10378-1419884720",
+      "upstream_time": 1419884720,
+      "download_url": "https://dl.smwcentral.net/10378/Remix%20-%20The%20Medieval.Tunnel.zip",
+      "filename": "Remix - The Medieval.Tunnel.zip",
+      "size": 50697,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

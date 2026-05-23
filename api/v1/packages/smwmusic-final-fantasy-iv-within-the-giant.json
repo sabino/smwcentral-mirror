@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-final-fantasy-iv-within-the-giant",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38752,
+  "title": "Final Fantasy IV - Within the Giant",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "final",
+    "tense"
+  ],
+  "description": "Note: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Thunder<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span><br>\r\n<br>\r\nUpdate Nov 6th 2024: Fixed all issues mentioned by Kevin + changed the custom sample group.",
+  "latest_version": "smwc-38752-1733001296",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38752,
+      "title": "Final Fantasy IV - Within the Giant",
+      "version": "smwc-38752-1733001296",
+      "upstream_time": 1733001296,
+      "download_url": "https://dl.smwcentral.net/38752/Within%20the%20Giant.zip",
+      "filename": "Within the Giant.zip",
+      "size": 79101,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38643,
+      "title": "Final Fantasy IV - Within The Giant",
+      "version": "smwc-38643-1732640904",
+      "upstream_time": 1732640904,
+      "download_url": "https://dl.smwcentral.net/38643/FFIV_-_Within_The_Giant.zip",
+      "filename": "FFIV_-_Within_The_Giant.zip",
+      "size": 37431,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

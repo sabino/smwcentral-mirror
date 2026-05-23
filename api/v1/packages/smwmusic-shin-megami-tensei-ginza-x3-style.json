@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ginza-x3-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35240,
+  "title": "Shin Megami Tensei - Ginza (X3 Style)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "castle",
+    "fire",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "Ginza from Shin Megami Tensei, but now it sounds like a Megaman X3 track! Good for intense kinds of stages, like fire, factory and castle stages. Could also work for urban type levels, especially if it plays in a underground area under a city :)",
+  "latest_version": "smwc-35240-1701632161",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35240,
+      "title": "Shin Megami Tensei - Ginza (X3 Style)",
+      "version": "smwc-35240-1701632161",
+      "upstream_time": 1701632161,
+      "download_url": "https://dl.smwcentral.net/35240/ginzax3.zip",
+      "filename": "ginzax3.zip",
+      "size": 66999,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

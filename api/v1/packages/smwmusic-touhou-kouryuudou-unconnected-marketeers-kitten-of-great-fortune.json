@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-touhou-kouryuudou-unconnected-marketeers-kitten-of-great-fortune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28325,
+  "title": "Touhou Kouryuudou ~ Unconnected Marketeers - Kitten of Great Fortune",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Theme of the newly arrived fortune kitten Mike from Touhou 18. As a generic boss theme, fits generic bosses and athletic levels.<br>\r\n<br>\r\nUpdate: fixed a few points according bebn legg's feedback.",
+  "latest_version": "smwc-28325-1632790149",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28325,
+      "title": "Touhou Kouryuudou ~ Unconnected Marketeers - Kitten of Great Fortune",
+      "version": "smwc-28325-1632790149",
+      "upstream_time": 1632790149,
+      "download_url": "https://dl.smwcentral.net/28325/Fortune%20Kitten.zip",
+      "filename": "Fortune Kitten.zip",
+      "size": 35648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26775,
+      "title": "Touhou Kouryuudou ~ Unconnected Marketeers - Kitten of Great Fortune",
+      "version": "smwc-26775-1620178991",
+      "upstream_time": 1620178991,
+      "download_url": "https://dl.smwcentral.net/26775/Touhou%2018%20-%20Fortunate_Kitten.zip",
+      "filename": "Touhou 18 - Fortunate_Kitten.zip",
+      "size": 84007,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

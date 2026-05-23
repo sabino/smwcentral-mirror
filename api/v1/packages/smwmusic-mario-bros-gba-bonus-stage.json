@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mario-bros-gba-bonus-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39665,
+  "title": "Mario Bros. (GBA) - Bonus Stage",
+  "authors": [
+    "LadiesMan217",
+    "musicalman"
+  ],
+  "tags": [
+    "bonus",
+    "switch palace",
+    "upbeat"
+  ],
+  "description": "Part of the \"Super Mario All-Stars Soundtrack: Ultimate Edition\" soundtrack.",
+  "latest_version": "smwc-39665-1743427160",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39665,
+      "title": "Mario Bros. (GBA) - Bonus Stage",
+      "version": "smwc-39665-1743427160",
+      "upstream_time": 1743427160,
+      "download_url": "https://dl.smwcentral.net/39665/Mario%20Bros.%20%28GBA%29%20-%20Bonus%20Stage.zip",
+      "filename": "Mario Bros. (GBA) - Bonus Stage.zip",
+      "size": 194091,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

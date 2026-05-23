@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-romancing-saga-ending-theme-part",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31183,
+  "title": "Romancing SaGa - Ending Theme (Part 3)",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "castle",
+    "credits",
+    "cutscene"
+  ],
+  "description": "Heroic credits theme from Romancing Saga.<br>\r\nThe LOOPED define in the txt file controls the song:<br>\r\n- 0: song loops twice then it ends, like the original<br>\r\n- 1: song loops forever",
+  "latest_version": "smwc-31183-1656618908",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31183,
+      "title": "Romancing SaGa - Ending Theme (Part 3)",
+      "version": "smwc-31183-1656618908",
+      "upstream_time": 1656618908,
+      "download_url": "https://dl.smwcentral.net/31183/34c%20Ending%20Theme%20%28part%203%29.zip",
+      "filename": "34c Ending Theme (part 3).zip",
+      "size": 106483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-full-tilt-space-cadet-pinball-mission-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19909,
+  "title": "Full Tilt! Space Cadet Pinball - Mission Theme",
+  "authors": [
+    "phlip"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "space",
+    "tense"
+  ],
+  "description": "The mission-active theme from the Space Cadet pinball table of Cinematronics's Full Tilt! series.<br>\r\n<br>\r\nNot as widely recognisable as the main theme, as this tune didn't survive the conversion of the game to \"3D Pinball: Space Cadet\" that came with Windows back in the day. But it's still a good tune, and a good complement to the main theme.<br>\r\n<br>\r\nThis port cribs the instrumentation from the previous <a href=\"https://www.smwcentral.net/?p=section&a=details&id=17297\">Space Cadet main theme port</a>, so ideally it should work together to put both in the same hack, for whatever purpose. (But also, this is my first port, and I wanted the head-start while I was figuring out how MML worked.)<br>\r\n<br>\r\nVersion 1.1 fixed a couple of typos so all the tracks are the right length now.",
+  "latest_version": "smwc-19909-1557910907",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19909,
+      "title": "Full Tilt! Space Cadet Pinball - Mission Theme",
+      "version": "smwc-19909-1557910907",
+      "upstream_time": 1557910907,
+      "download_url": "https://dl.smwcentral.net/19909/FullTilt_SpaceCadet_mission.zip",
+      "filename": "FullTilt_SpaceCadet_mission.zip",
+      "size": 34144,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

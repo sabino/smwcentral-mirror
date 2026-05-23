@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-pop-n-twinbee-wild-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28110,
+  "title": "Pop'n Twinbee - Wild Life",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "calm",
+    "grassland",
+    "mountain",
+    "sky",
+    "urban"
+  ],
+  "description": "Wild Life from Pop 'n' Twinbee.",
+  "latest_version": "smwc-28110-1632712435",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28110,
+      "title": "Pop'n Twinbee - Wild Life",
+      "version": "smwc-28110-1632712435",
+      "upstream_time": 1632712435,
+      "download_url": "https://dl.smwcentral.net/28110/Pop%27n%27%20Twinbee%20-%20Wild%20Life.zip",
+      "filename": "Pop%27n%27 Twinbee - Wild Life.zip",
+      "size": 83196,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7355,
+      "title": "Pop'n TwinBee - Wild Life",
+      "version": "smwc-7355-1312738064",
+      "upstream_time": 1312738064,
+      "download_url": "https://dl.smwcentral.net/7355/Pop%27n%20Twinbee%20Level%205.zip",
+      "filename": "Pop%27n Twinbee Level 5.zip",
+      "size": 67578,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

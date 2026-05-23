@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-graphical-air-meter-v2-0",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39678,
+  "title": "Graphical Air Meter v2.0.2",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "air",
+    "air meter",
+    "counter",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is basically similar to the sprite version, but recoded from scratch, and more customizability. The amount of time the player can be in the water, unlike the sprite version, can be any value rather than restricted to powers of 2 \"ticks\" (which happens at every !CountDownFrequency+1 frames) starting at 255 units.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>changelog</span></div><div class=\"collapse-content\"><div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">2025-06-14 (v2.0.2) - small update\r\n - Removed some redundant code relating to storing EXB1 (Index\r\n   0; the maximum air value) into scratch RAM.\r\n - Added a new feature: InvertFill extra byte. When nonzero,\r\n   the displayed meter fills up from empty as the player loses\r\n   air rather than decreases from full.\r\n2025-05-04 (v2.0.1) - text info update\r\n - Explained clearly about when later you need to change the\r\n   defines settings that you need to update its copies and\r\n   reinsert.\r\n - Added comment info about that the tables not being used if\r\n   the corresponding pieces set to 0 in Level_AirMeter.asm.\r\n   This was only mentioned in the defines file.\r\n - Clarify CTRL+F \"Static end tiles option\" inside\r\n   AirMeterDefines.asm on that file rather than being vague.\r\n - Corrected a description about !Freeram_AirMeterAirState\r\n   that previously stated the wrong extra byte.\r\n - Placed a note in this readme explaining where the info\r\n   about the extra bytes is in \"Level_AirMeter.asm\".\r\n2025-04-11 (v2.0.1) - description update\r\n - Updated several graphical bar's write to HUD routine's\r\n   description explaining that writing vertical bars routine\r\n   should not be used for stripe.\r\n - Did mention on the insertion process instructions about the\r\n   list.txt for a demo level test.\r\n - Explained more about sprite positioning in the defines.\r\n2025-04-06 (v2.0.1) - minor fixes and small features\r\n - Fixed a problem with the COURSE CLEAR! message when using\r\n   stripe.\r\n - Added static end tiles support, for status bar, stripe, and\r\n   sprite. This took me FOREVER making sure this works right.\r\n2025-03-31 (v2.0) - BIG massive update\r\n - Uses updated version of the graphical bar system.\r\n - Vertical bar support.\r\n - Makes use of UAT v2.1's new features: extra bytes. This\r\n   allows variations of the same level ASM without duplicates.\r\n --Included per-level different lengths of time of being in\r\n   the water, what effect when the meter runs out (such as\r\n   damage and refill), how fast the meter refills, how it\r\n   drains.\r\n - Makes use of UAT's routines folder, really love that I can\r\n   finally call another routine file from a routine file.\r\n -Supports stripe image and sprite OAM (does not occupy\r\n  one of normal/pixi sprite's 12 or 22 slot).\r\n -When set to use sprite OAM, supports multiple tilesets for\r\n  the bar rather than having a single set so you can have a\r\n  per-level sprite graphics without conflicts (assuming you\r\n  have enough tiles) with other GFX.</pre></div></div></div>",
+  "latest_version": "smwc-39678-1770563680",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39678,
+      "title": "Graphical Air Meter v2.0.2",
+      "version": "smwc-39678-1770563680",
+      "upstream_time": 1770563680,
+      "download_url": "https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip",
+      "filename": "Air-meter_v2_0_2_.zip",
+      "size": 123081,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

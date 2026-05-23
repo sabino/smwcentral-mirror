@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-smb3-goal-card",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14519,
+  "title": "SMB3 Goal Card",
+  "authors": [
+    "mathie"
+  ],
+  "tags": [
+    "goal",
+    "inventory",
+    "item box",
+    "lorom",
+    "powerup",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "A simple level ending sprite that's intended to be a replica of the goal item in SMB3. Highly customizable.<br>\r\n<br>\r\nWhat can be changed:<br>\r\n- Uncommon RAM adresses (to avoid conflicts)<br>\r\n- What items the sprite can give <br>\r\n- How fast the sprite cycles through them<br>\r\n- What musics and SFX are played depending on the combination of items<br>\r\n- Where the player is sent on the overworld (optional)<br>\r\nAdditionally, you can give Mario a booby prize if the collected items don't match, and choose if the item goes directly to the item box or to MarioE's OW inventory ( http://www.smwcentral.net/?p=section&a=details&id=10629)<br>\r\n<br>\r\nDetails in .asm file.",
+  "latest_version": "smwc-14519-1476494918",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14519,
+      "title": "SMB3 Goal Card",
+      "version": "smwc-14519-1476494918",
+      "upstream_time": 1476494918,
+      "download_url": "https://dl.smwcentral.net/14519/%5BSMB3%5D_Goal_Card.zip",
+      "filename": "%5BSMB3%5D_Goal_Card.zip",
+      "size": 3457,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

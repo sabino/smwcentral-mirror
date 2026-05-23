@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-shin-megami-tensei-castle-of-the-four-gods",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37266,
+  "title": "Shin Megami Tensei - Castle of the four Gods",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "cave",
+    "dark",
+    "ghost house",
+    "mysterious",
+    "ruins",
+    "tense"
+  ],
+  "description": "Plays at certain dungeons in the game. Also known as 'Makai Town‘ in SMT if…",
+  "latest_version": "smwc-37266-1713581097",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37266,
+      "title": "Shin Megami Tensei - Castle of the four Gods",
+      "version": "smwc-37266-1713581097",
+      "upstream_time": 1713581097,
+      "download_url": "https://dl.smwcentral.net/37266/SMT%20Castle%20of%20the%20four%20gods.zip",
+      "filename": "SMT Castle of the four gods.zip",
+      "size": 49361,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18570,
+      "title": "Shin Megami Tensei - Castle of the Four Gods",
+      "version": "smwc-18570-1543533823",
+      "upstream_time": 1543533823,
+      "download_url": "https://dl.smwcentral.net/18570/SMT%20-%20Castle%20of%20the%20Four%20Gods.zip",
+      "filename": "SMT - Castle of the Four Gods.zip",
+      "size": 31450,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

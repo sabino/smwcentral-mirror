@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-dragon-warrior-death",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25084,
+  "title": "Dragon Warrior - Death",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "game over",
+    "miss"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for game over, death, or a custom event.",
+  "latest_version": "smwc-25084-1604722566",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25084,
+      "title": "Dragon Warrior - Death",
+      "version": "smwc-25084-1604722566",
+      "upstream_time": 1604722566,
+      "download_url": "https://dl.smwcentral.net/25084/DragonQuest12ThouHastDied.zip",
+      "filename": "DragonQuest12ThouHastDied.zip",
+      "size": 30723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

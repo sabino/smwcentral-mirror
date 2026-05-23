@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-eiyashou-imperishable-night-gensokyo-millennium-history-of-the-moon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10561,
+  "title": "Touhou Eiyashou ~ Imperishable Night - Gensokyo Millennium ~ History of the Moon",
+  "authors": [
+    "Kipernal"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "I've finally ported one of my all-time favorite Touhou songs!  It would be great for intense, long lasting boss battles.<br>\r\n<br>\r\nupdate: fixed surround that didn't convert properly to amk as well as added proper tags to spc",
+  "latest_version": "smwc-10561-1424326552",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10561,
+      "title": "Touhou Eiyashou ~ Imperishable Night - Gensokyo Millennium ~ History of the Moon",
+      "version": "smwc-10561-1424326552",
+      "upstream_time": 1424326552,
+      "download_url": "https://dl.smwcentral.net/10561/TH8_14%20fixed%20v1.1.zip",
+      "filename": "TH8_14 fixed v1.1.zip",
+      "size": 41797,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

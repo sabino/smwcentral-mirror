@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-gatlin-venus",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40179,
+  "title": "Gatlin Venus",
+  "authors": [
+    "Luknight",
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "piranha",
+    "piranha plant",
+    "plant",
+    "sa-1",
+    "venus"
+  ],
+  "description": "The plants shot aiming fast fireball.<br>\r\npalette is E (default)<br>\r\n<br>\r\nRequested by Xulon",
+  "latest_version": "smwc-40179-1769902370",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40179,
+      "title": "Gatlin Venus",
+      "version": "smwc-40179-1769902370",
+      "upstream_time": 1769902370,
+      "download_url": "https://dl.smwcentral.net/40179/gatlin_venus.zip",
+      "filename": "gatlin_venus.zip",
+      "size": 9359,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

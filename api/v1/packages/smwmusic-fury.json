@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-fury",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20953,
+  "title": "Fury 3 - Premonition",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "castle",
+    "industrial"
+  ],
+  "description": "It is not identical to the original but is suitable for various types of levels such as towers, castles.",
+  "latest_version": "smwc-20953-1567271104",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20953,
+      "title": "Fury 3 - Premonition",
+      "version": "smwc-20953-1567271104",
+      "upstream_time": 1567271104,
+      "download_url": "https://dl.smwcentral.net/20953/Fury%203.zip",
+      "filename": "Fury 3.zip",
+      "size": 71248,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

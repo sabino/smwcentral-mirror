@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-fortress2-waiting-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23677,
+  "title": "Fortress2+ - Waiting Room",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "castle",
+    "industrial",
+    "space",
+    "title"
+  ],
+  "description": "An awesome song from Dual, sounds like a space theme.<br>\r\n<br>\r\nFermin's Update 7/6/2020: Added #path and put the samples in a folder for easier insertion.",
+  "latest_version": "smwc-23677-1594263243",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23677,
+      "title": "Fortress2+ - Waiting Room",
+      "version": "smwc-23677-1594263243",
+      "upstream_time": 1594263243,
+      "download_url": "https://dl.smwcentral.net/23677/Fortress2%2B%20-%20Waiting%20Room.zip",
+      "filename": "Fortress2+ - Waiting Room.zip",
+      "size": 54145,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

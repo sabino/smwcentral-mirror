@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-illusion-of-gaia-great-pyramid",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26910,
+  "title": "Illusion of Gaia - Great Pyramid",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "desert",
+    "mysterious",
+    "ruins",
+    "spooky",
+    "temple",
+    "tense"
+  ],
+  "description": "A music for ancient Egypt-themed temples and caves.",
+  "latest_version": "smwc-26910-1622498910",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26910,
+      "title": "Illusion of Gaia - Great Pyramid",
+      "version": "smwc-26910-1622498910",
+      "upstream_time": 1622498910,
+      "download_url": "https://dl.smwcentral.net/26910/iog_great_pyramid_smwsf_0_1.zip",
+      "filename": "iog_great_pyramid_smwsf_0_1.zip",
+      "size": 33355,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26909,
+      "title": "Illusion of Gaia - Great Pyramid",
+      "version": "smwc-26909-1622498777",
+      "upstream_time": 1622498777,
+      "download_url": "https://dl.smwcentral.net/26909/iog_great_pyramid_0_1.zip",
+      "filename": "iog_great_pyramid_0_1.zip",
+      "size": 67757,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

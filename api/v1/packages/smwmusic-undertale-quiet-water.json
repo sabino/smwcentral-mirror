@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-undertale-quiet-water",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21205,
+  "title": "Undertale - Quiet Water",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "mysterious",
+    "night",
+    "overworld"
+  ],
+  "description": "A mysterious song that plays on some areas inside the waterfalls in Undertale. May be suitable to a night-themed level.",
+  "latest_version": "smwc-21205-1569379265",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21205,
+      "title": "Undertale - Quiet Water",
+      "version": "smwc-21205-1569379265",
+      "upstream_time": 1569379265,
+      "download_url": "https://dl.smwcentral.net/21205/Undertale%20-%20Quiet%20Water.zip",
+      "filename": "Undertale - Quiet Water.zip",
+      "size": 30609,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

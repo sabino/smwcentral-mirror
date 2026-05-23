@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-powerup-auto-kill-and-traditional-hurt",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20082,
+  "title": "Powerup Auto-kill and Traditional Hurt",
+  "authors": [
+    "betalogic"
+  ],
+  "tags": [
+    "death",
+    "hurt",
+    "item box",
+    "lorom",
+    "player",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This patch provides three main features that affect the hurt routine and the power-up-into-item-box routine, all of which can be set to be controlled by free RAM:<br>\r\n<br>\r\n1. The ability to choose to bypass the power-down routine and instantly kill Mario regardless of his current power-up status. (This is good for levels that require the player to keep a power-up the entire time.)<br>\r\n<br>\r\n2. The ability to choose to follow the more traditional power-down routine, where Fire and Caped Mario powers-down to big Mario and then to small Mario. There is an additional option to alternatively give Mario the item in his item box instantly; this can also be set to be controlled by free RAM.<br>\r\n<br>\r\n3. The ability to choose when and how a power-up is put into the player's item box. This includes a fix to prevent mushrooms from overwriting capes and fire flowers in your item box.<br>\r\n<br>\r\n<br>\r\nMake sure to read the README.txt and customization notes so you understand what everything does! If you have questions about what exactly something does that is not clarified well enough in the notes, feel free to PM me.",
+  "latest_version": "smwc-20082-1559967613",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20082,
+      "title": "Powerup Auto-kill and Traditional Hurt",
+      "version": "smwc-20082-1559967613",
+      "upstream_time": 1559967613,
+      "download_url": "https://dl.smwcentral.net/20082/Hurt%20Hijack.zip",
+      "filename": "Hurt Hijack.zip",
+      "size": 7488,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

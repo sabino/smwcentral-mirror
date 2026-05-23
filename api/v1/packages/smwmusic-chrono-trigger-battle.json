@@ -1,0 +1,61 @@
+{
+  "name": "smwmusic-chrono-trigger-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25010,
+  "title": "Chrono Trigger - Battle 2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "The unused battle theme from Chrono Trigger. Good for boss fights.",
+  "latest_version": "smwc-25010-1606770586",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25010,
+      "title": "Chrono Trigger - Battle 2",
+      "version": "smwc-25010-1606770586",
+      "upstream_time": 1606770586,
+      "download_url": "https://dl.smwcentral.net/25010/Chrono%20Trigger%20-%20Battle%202.zip",
+      "filename": "Chrono Trigger - Battle 2.zip",
+      "size": 72567,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20587,
+      "title": "Chrono Trigger - Battle 1",
+      "version": "smwc-20587-1562904218",
+      "upstream_time": 1562904218,
+      "download_url": "https://dl.smwcentral.net/20587/Chrono%20Trigger%20-%20Battle%201.zip",
+      "filename": "Chrono Trigger - Battle 1.zip",
+      "size": 32324,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20075,
+      "title": "Chrono Trigger - Battle 1",
+      "version": "smwc-20075-1559331577",
+      "upstream_time": 1559331577,
+      "download_url": "https://dl.smwcentral.net/20075/ChronoTrigger_Battle1.zip",
+      "filename": "ChronoTrigger_Battle1.zip",
+      "size": 78856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

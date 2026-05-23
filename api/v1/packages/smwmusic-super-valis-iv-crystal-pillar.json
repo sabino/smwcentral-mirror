@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-super-valis-iv-crystal-pillar",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37098,
+  "title": "Super Valis IV - Crystal Pillar",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "ice",
+    "overworld",
+    "space",
+    "temple",
+    "tense"
+  ],
+  "description": "The intense 5th stage theme from Super Valis IV. Works well in castles and dark overworlds.",
+  "latest_version": "smwc-37098-1709492478",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37098,
+      "title": "Super Valis IV - Crystal Pillar",
+      "version": "smwc-37098-1709492478",
+      "upstream_time": 1709492478,
+      "download_url": "https://dl.smwcentral.net/37098/Super%20Valis%204%20-%20Crystal%20Pillar.zip",
+      "filename": "Super Valis 4 - Crystal Pillar.zip",
+      "size": 64119,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37097,
+      "title": "Super Valis IV - Crystal Pillar",
+      "version": "smwc-37097-1709492463",
+      "upstream_time": 1709492463,
+      "download_url": "https://dl.smwcentral.net/37097/Super%20Valis%20IV%20-%20Crystal%20Pillar.zip",
+      "filename": "Super Valis IV - Crystal Pillar.zip",
+      "size": 41991,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

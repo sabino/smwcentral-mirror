@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-adventure-island-egg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22430,
+  "title": "Adventure Island - Egg",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bonus",
+    "egg",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is an egg that acts like an egg from Adventure Island (or Wonder Boy port for the NES, if you will). When you touch it, it launches upward with x-speed depending on player's. And when it lands back, it spawns a sprite.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-22430-1584832960",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22430,
+      "title": "Adventure Island - Egg",
+      "version": "smwc-22430-1584832960",
+      "upstream_time": 1584832960,
+      "download_url": "https://dl.smwcentral.net/22430/Adventure%20Island%20Egg.zip",
+      "filename": "Adventure Island Egg.zip",
+      "size": 3692,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

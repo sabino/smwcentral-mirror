@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ristar-ice-scream-round-5",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11775,
+  "title": "Ristar - Ice Scream (Round 5-2)",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "ice",
+    "night",
+    "space"
+  ],
+  "description": "A calm and upbeat song from the game, Ristar. This would be fitting in an Icy, Space, or Night-time environment.",
+  "latest_version": "smwc-11775-1437620675",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11775,
+      "title": "Ristar - Ice Scream (Round 5-2)",
+      "version": "smwc-11775-1437620675",
+      "upstream_time": 1437620675,
+      "download_url": "https://dl.smwcentral.net/11775/Ristar.zip",
+      "filename": "Ristar.zip",
+      "size": 52750,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

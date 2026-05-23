@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-spinjump-picker",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14745,
+  "title": "Spinjump Picker",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "spin jump"
+  ],
+  "description": "Seeing how there is no .cfg setting to make a sprite hurt Mario even through a spinjump, this patch lets you choose which sprites Mario can and can't spinjump on.<br>\r\n<br>\r\nTo use, simply edit the tables at the bottom of the .asm file in Notepad.",
+  "latest_version": "smwc-14745-1481929116",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14745,
+      "title": "Spinjump Picker",
+      "version": "smwc-14745-1481929116",
+      "upstream_time": 1481929116,
+      "download_url": "https://dl.smwcentral.net/14745/spinpick.zip",
+      "filename": "spinpick.zip",
+      "size": 1610,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-asterix-obelix-olympic-victory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34751,
+  "title": "Asterix & Obelix - Olympic Victory",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nA boss clear theme.",
+  "latest_version": "smwc-34751-1691404713",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34751,
+      "title": "Asterix & Obelix - Olympic Victory",
+      "version": "smwc-34751-1691404713",
+      "upstream_time": 1691404713,
+      "download_url": "https://dl.smwcentral.net/34751/Asterix%20and%20Obelix%20-%2019%20Olympic%20Victory.zip",
+      "filename": "Asterix and Obelix - 19 Olympic Victory.zip",
+      "size": 78348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-stationary-reznor",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36885,
+  "title": "Stationary Reznor",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "reznor",
+    "sa-1"
+  ],
+  "description": "A reznor that stays still and spits fireballs at the player. It acts like a regular enemy rather than a boss.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Pink Gold Peach\"><a href=\"/?p=profile&amp;id=23105\" style=\"color: var(--user-color-3);\" class=\"un\">Pink Gold Peach</a></span> during Winter C3 2023.",
+  "latest_version": "smwc-36885-1708651268",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36885,
+      "title": "Stationary Reznor",
+      "version": "smwc-36885-1708651268",
+      "upstream_time": 1708651268,
+      "download_url": "https://dl.smwcentral.net/36885/StationaryReznor.zip",
+      "filename": "StationaryReznor.zip",
+      "size": 3243,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

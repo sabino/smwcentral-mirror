@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-plok-bonus-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39567,
+  "title": "Plok - Bonus Level",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "carnival",
+    "chase",
+    "cutscene",
+    "final",
+    "tense"
+  ],
+  "description": "Or \"Race Against Time\".<br>\r\n<s>Had to raise the kick drum sample's tuning just a tiny bit to remove the clicks that are played in SNES9x.</s> Edit: I updated the kick drum to get the exact same value, anything around that value will click<br>\r\nBest for situations where you really, really, really need to hurry up before you get caught.<br>\r\n<br>\r\nUpdate: Touched up a few parts to make it more accurate.",
+  "latest_version": "smwc-39567-1746011022",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39567,
+      "title": "Plok - Bonus Level",
+      "version": "smwc-39567-1746011022",
+      "upstream_time": 1746011022,
+      "download_url": "https://dl.smwcentral.net/39567/Plok%20-%20Race%20Against%20Time.zip",
+      "filename": "Plok - Race Against Time.zip",
+      "size": 85371,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

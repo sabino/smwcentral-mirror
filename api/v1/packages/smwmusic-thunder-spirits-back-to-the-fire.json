@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-thunder-spirits-back-to-the-fire",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18797,
+  "title": "Thunder Spirits - Back To The Fire",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "fire"
+  ],
+  "description": "Song from the SNES port of the arcade game \"Thunder Force AC\", it could fit any fast paced level.",
+  "latest_version": "smwc-18797-1546547273",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18797,
+      "title": "Thunder Spirits - Back To The Fire",
+      "version": "smwc-18797-1546547273",
+      "upstream_time": 1546547273,
+      "download_url": "https://dl.smwcentral.net/18797/backtothefire.zip",
+      "filename": "backtothefire.zip",
+      "size": 51028,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

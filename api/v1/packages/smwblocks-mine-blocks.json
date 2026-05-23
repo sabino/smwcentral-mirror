@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-mine-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3919,
+  "title": "Mine Blocks",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "explode",
+    "flames",
+    "lorom",
+    "mine"
+  ],
+  "description": "These blocks blow up like Bob-Ombs or burst into flames (like lightning) when touched by the player.",
+  "latest_version": "smwc-3919-1431629325",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3919,
+      "title": "Mine Blocks",
+      "version": "smwc-3919-1431629325",
+      "upstream_time": 1431629325,
+      "download_url": "https://dl.smwcentral.net/3919/Mines.zip",
+      "filename": "Mines.zip",
+      "size": 926,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

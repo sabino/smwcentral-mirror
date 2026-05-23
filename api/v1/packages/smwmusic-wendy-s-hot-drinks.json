@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-wendy-s-hot-drinks",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26750,
+  "title": "Wendy's - Hot Drinks",
+  "authors": [
+    "mmBeefStew"
+  ],
+  "tags": [
+    "misc",
+    "urban"
+  ],
+  "description": "This is a port of the Wendy's training video song \"Hot Drinks\". Could be used in city levels or for meme rooms.",
+  "latest_version": "smwc-26750-1619293107",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26750,
+      "title": "Wendy's - Hot Drinks",
+      "version": "smwc-26750-1619293107",
+      "upstream_time": 1619293107,
+      "download_url": "https://dl.smwcentral.net/26750/Hot%20Drinks.zip",
+      "filename": "Hot Drinks.zip",
+      "size": 53646,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

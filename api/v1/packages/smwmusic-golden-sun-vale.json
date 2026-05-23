@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-golden-sun-vale",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20522,
+  "title": "Golden Sun - Vale",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "calm",
+    "town"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nPeaceful track from Golden Sun I ported to test GBA samples I managed to rip with GBAMusRiper. I absolutely love the sound of panflutes.",
+  "latest_version": "smwc-20522-1562579929",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20522,
+      "title": "Golden Sun - Vale",
+      "version": "smwc-20522-1562579929",
+      "upstream_time": 1562579929,
+      "download_url": "https://dl.smwcentral.net/20522/Golden%20Sun%20-%20Vale.zip",
+      "filename": "Golden Sun - Vale.zip",
+      "size": 78668,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8089,
+      "title": "Golden Sun - Vale",
+      "version": "smwc-8089-1314205195",
+      "upstream_time": 1314205195,
+      "download_url": "https://dl.smwcentral.net/8089/vale.zip",
+      "filename": "vale.zip",
+      "size": 70858,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

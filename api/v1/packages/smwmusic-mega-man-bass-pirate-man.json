@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-mega-man-bass-pirate-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25793,
+  "title": "Mega Man & Bass - Pirate Man",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "calm",
+    "forest",
+    "ice",
+    "sky",
+    "water"
+  ],
+  "description": "Pirate Man's Stage theme from Megaman & Bass.",
+  "latest_version": "smwc-25793-1612386191",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25793,
+      "title": "Mega Man & Bass - Pirate Man",
+      "version": "smwc-25793-1612386191",
+      "upstream_time": 1612386191,
+      "download_url": "https://dl.smwcentral.net/25793/Pirate%20Man.zip",
+      "filename": "Pirate Man.zip",
+      "size": 33599,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19833,
+      "title": "Mega Man & Bass - Pirate Man",
+      "version": "smwc-19833-1556673724",
+      "upstream_time": 1556673724,
+      "download_url": "https://dl.smwcentral.net/19833/RM%26F_Pirateman.zip",
+      "filename": "RM%26F_Pirateman.zip",
+      "size": 69173,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18921,
+      "title": "Mega Man & Bass - Pirate Man",
+      "version": "smwc-18921-1547351053",
+      "upstream_time": 1547351053,
+      "download_url": "https://dl.smwcentral.net/18921/Mega%20Man%20%26%20Bass%20%28SNES%29%20-%20Pirate%20Man.zip",
+      "filename": "Mega Man %26 Bass (SNES) - Pirate Man.zip",
+      "size": 33405,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

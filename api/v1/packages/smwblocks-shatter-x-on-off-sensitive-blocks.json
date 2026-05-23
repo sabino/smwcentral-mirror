@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-shatter-x-on-off-sensitive-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4046,
+  "title": "Shatter x ON/OFF Sensitive Blocks",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [
+    "lorom",
+    "on-off",
+    "shatter",
+    "wtf"
+  ],
+  "description": "These blocks kind of work like regular sensitive blocks. However, when a specific amount of these are shattered by Mario (initially set to 3), they play around with the ON/OFF flag either setting it to on (in this case, the \"Shatter x\" ON Sensitive Block) or setting it to off (the \"Shatter x\" OFF Sensitive Block). The amount of blocks needed to be shattered to the ON/OFF flag routine be read can be easily specified in the ASM files for each block.<br>\r\n<br>\r\nCredit isn't necessary, but would be nice. Enjoy!",
+  "latest_version": "smwc-4046-1438560116",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4046,
+      "title": "Shatter x ON/OFF Sensitive Blocks",
+      "version": "smwc-4046-1438560116",
+      "upstream_time": 1438560116,
+      "download_url": "https://dl.smwcentral.net/4046/ONOFFSB.zip",
+      "filename": "ONOFFSB.zip",
+      "size": 1648,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

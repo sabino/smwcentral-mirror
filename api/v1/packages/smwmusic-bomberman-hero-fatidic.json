@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-bomberman-hero-fatidic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34134,
+  "title": "Bomberman Hero - Fatidic",
+  "authors": [
+    "Fercho91",
+    "Pinci",
+    "dansalvato"
+  ],
+  "tags": [
+    "abstract",
+    "desert",
+    "industrial",
+    "urban"
+  ],
+  "description": "Fatidic song from Bomberman Hero (N64), maybe you would use it for a pyramid level, or idk... A Bomberman Hero snes rom hack is coming!?<br>\r\n<br>\r\nSpecial thanks to Pinci and dansalvato (how can I tag them?) for letting me use some of their .brrs of their ports...!!",
+  "latest_version": "smwc-34134-1694890984",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34134,
+      "title": "Bomberman Hero - Fatidic",
+      "version": "smwc-34134-1694890984",
+      "upstream_time": 1694890984,
+      "download_url": "https://dl.smwcentral.net/34134/Bomberman%20Hero%2064%20-%20Fatidic.zip",
+      "filename": "Bomberman Hero 64 - Fatidic.zip",
+      "size": 88297,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

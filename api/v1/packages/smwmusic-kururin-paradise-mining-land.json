@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-kururin-paradise-mining-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25894,
+  "title": "Kururin Paradise - Mining Land",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "overworld"
+  ],
+  "description": "Music were played from Kururin Paradise. Could fit in the mine levels and overworld.",
+  "latest_version": "smwc-25894-1613481712",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25894,
+      "title": "Kururin Paradise - Mining Land",
+      "version": "smwc-25894-1613481712",
+      "upstream_time": 1613481712,
+      "download_url": "https://dl.smwcentral.net/25894/kururin%20paradise%20-%20mining%20land%20%28s%29.zip",
+      "filename": "kururin paradise - mining land (s).zip",
+      "size": 46198,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25893,
+      "title": "Kururin Paradise - Mining Land",
+      "version": "smwc-25893-1613251240",
+      "upstream_time": 1613251240,
+      "download_url": "https://dl.smwcentral.net/25893/kururin%20paradise%20-%20mining%20land.zip",
+      "filename": "kururin paradise - mining land.zip",
+      "size": 32974,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-rotary-refinery",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29343,
+  "title": "Rotary Refinery",
+  "authors": [
+    "Ruberjig",
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "industrial",
+    "jungle",
+    "mountain",
+    "ruins",
+    "temple",
+    "town",
+    "urban"
+  ],
+  "description": "A funky tune originally composed for Superfamicompo 2 that we never got around to submitting.",
+  "latest_version": "smwc-29343-1643690847",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29343,
+      "title": "Rotary Refinery",
+      "version": "smwc-29343-1643690847",
+      "upstream_time": 1643690847,
+      "download_url": "https://dl.smwcentral.net/29343/rotary.zip",
+      "filename": "rotary.zip",
+      "size": 103522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

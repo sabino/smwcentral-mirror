@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ice-age",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7613,
+  "title": "Ice Age",
+  "authors": [
+    "Exor"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice"
+  ],
+  "description": "The original song came from some Commodore 64 game, but this is a different version of the song. Would suit a calm ice cave level.",
+  "latest_version": "smwc-7613-1319961700",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7613,
+      "title": "Ice Age",
+      "version": "smwc-7613-1319961700",
+      "upstream_time": 1319961700,
+      "download_url": "https://dl.smwcentral.net/7613/Ice%20Age.zip",
+      "filename": "Ice Age.zip",
+      "size": 70142,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

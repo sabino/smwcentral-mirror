@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-explode-bob-ombs-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 22484,
+  "title": "Explode Bob-Ombs Block",
+  "authors": [
+    "Nowieso"
+  ],
+  "tags": [
+    "bob-ombs",
+    "bomb",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block makes Bob-Ombs explode when they touch it.<br>\r\nUses Palette 7.<br>\r\n<br>\r\nI also included defines that let you easily change how long the explosion will happen, how long to shake the screen and if you want the Bob-Omb to explode even when it gets carried, so make sure to check the asm file!<br>\r\n<br>\r\nV1.1:<br>\r\n-The block no longer activates dead Bob-Ombs<br>\r\n-Moved the graphic to use last 8 colors of the palette row<br>\r\n-Added an option to disable exploding the Bob-Omb if it gets carried",
+  "latest_version": "smwc-22484-1585236035",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 22484,
+      "title": "Explode Bob-Ombs Block",
+      "version": "smwc-22484-1585236035",
+      "upstream_time": 1585236035,
+      "download_url": "https://dl.smwcentral.net/22484/Explode%20Bob-Ombs%20Block.zip",
+      "filename": "Explode Bob-Ombs Block.zip",
+      "size": 4798,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

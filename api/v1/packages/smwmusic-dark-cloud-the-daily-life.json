@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-dark-cloud-the-daily-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19268,
+  "title": "Dark Cloud - The Daily Life",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sky"
+  ],
+  "description": "Could fit with calm overworld theme<br>\r\n<br>\r\nEDIT: Fixed the key (musical) issue",
+  "latest_version": "smwc-19268-1552019724",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19268,
+      "title": "Dark Cloud - The Daily Life",
+      "version": "smwc-19268-1552019724",
+      "upstream_time": 1552019724,
+      "download_url": "https://dl.smwcentral.net/19268/Dark%20Cloud%20-%20The%20Daily%20Life.zip",
+      "filename": "Dark Cloud - The Daily Life.zip",
+      "size": 31679,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19267,
+      "title": "Dark Cloud - The Daily Life",
+      "version": "smwc-19267-1552019661",
+      "upstream_time": 1552019661,
+      "download_url": "https://dl.smwcentral.net/19267/Dark%20Cloud%20-%20The%20Daily%20Life%20%28Sampled%29.zip",
+      "filename": "Dark Cloud - The Daily Life (Sampled).zip",
+      "size": 36332,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

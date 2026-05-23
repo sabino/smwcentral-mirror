@@ -1,0 +1,67 @@
+{
+  "name": "smwmusic-winnie-the-pooh-adventures-in",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11375,
+  "title": "Winnie the Pooh: Adventures in 100 Acre Wood (GBC) - The Woods",
+  "authors": [
+    "lu9"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "calm",
+    "grassland",
+    "misc",
+    "overworld",
+    "town",
+    "water"
+  ],
+  "description": "A short, calm song, great for a world map.",
+  "latest_version": "smwc-11375-1434732984",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11375,
+      "title": "Winnie the Pooh: Adventures in 100 Acre Wood (GBC) - The Woods",
+      "version": "smwc-11375-1434732984",
+      "upstream_time": 1434732984,
+      "download_url": "https://dl.smwcentral.net/11375/PoohWoods.zip",
+      "filename": "PoohWoods.zip",
+      "size": 30377,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11355,
+      "title": "Winnie the Pooh: Adventures in 100 Acre Wood (GBC) - Rabbit's Plan",
+      "version": "smwc-11355-1434484490",
+      "upstream_time": 1434484490,
+      "download_url": "https://dl.smwcentral.net/11355/RabbitsPlanSMW.zip",
+      "filename": "RabbitsPlanSMW.zip",
+      "size": 31040,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 9505,
+      "title": "Winnie the Pooh: Adventures in 100 Acre Wood (GBC) - Rabbit's Garden",
+      "version": "smwc-9505-1416511039",
+      "upstream_time": 1416511039,
+      "download_url": "https://dl.smwcentral.net/9505/WtPAi100AW_Rabbits_Garden.zip",
+      "filename": "WtPAi100AW_Rabbits_Garden.zip",
+      "size": 30599,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

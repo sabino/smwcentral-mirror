@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cave-story-scorching-back",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7049,
+  "title": "Cave Story - Scorching Back",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "chase",
+    "final",
+    "space"
+  ],
+  "description": "This is the theme played in the second version of the Egg Corridor in Cave Story. Would suit a penultimate area well.",
+  "latest_version": "smwc-7049-1319646020",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7049,
+      "title": "Cave Story - Scorching Back",
+      "version": "smwc-7049-1319646020",
+      "upstream_time": 1319646020,
+      "download_url": "https://dl.smwcentral.net/7049/Scorching%20Back.zip",
+      "filename": "Scorching Back.zip",
+      "size": 68506,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-ix-kuja-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7916,
+  "title": "Final Fantasy IX - Kuja's Theme",
+  "authors": [
+    "NeoSigma"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "ghost house"
+  ],
+  "description": "The haunting piano theme for Kuja. Could suit a puzzle room or a mysterious castle.",
+  "latest_version": "smwc-7916-1320051794",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7916,
+      "title": "Final Fantasy IX - Kuja's Theme",
+      "version": "smwc-7916-1320051794",
+      "upstream_time": 1320051794,
+      "download_url": "https://dl.smwcentral.net/7916/FFIX_Kuja%27s_Theme.zip",
+      "filename": "FFIX_Kuja%27s_Theme.zip",
+      "size": 66789,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

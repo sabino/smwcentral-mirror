@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-aimed-bullet-bill-eerie-generator",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 16121,
+  "title": "Aimed Bullet Bill / Eerie Generator",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "aimed",
+    "asar 2 remoderation",
+    "bullet bill",
+    "eerie",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This code generates Bullet Bills or Eeries from the side Mario is facing, and at his height, creating a totally predictable pattern as opposed to SMW's.",
+  "latest_version": "smwc-16121-1510887007",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 16121,
+      "title": "Aimed Bullet Bill / Eerie Generator",
+      "version": "smwc-16121-1510887007",
+      "upstream_time": 1510887007,
+      "download_url": "https://dl.smwcentral.net/16121/aimed_billeerie.zip",
+      "filename": "aimed_billeerie.zip",
+      "size": 1055,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

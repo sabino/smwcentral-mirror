@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-speedrun-timer",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33324,
+  "title": "Speedrun Timer",
+  "authors": [
+    "Nowieso"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "timer",
+    "uberasm needed"
+  ],
+  "description": "This sprite is a speedrun timer, which can show the exact minutes, seconds and frames you have been in the level. It can also be used as a countdown, and will trigger a certain effect if the timer reaches 0. <br>\r\n<br>\r\nIt comes with a custom block that can set the timer to any time you want.<br>\r\n<br>\r\nIt also comes with an UberASM file that spawns the sprite so you don't have to place it in your level, in case you have multiple entrances to the same sublevel, which would force you to place the sprite for every single entrance.",
+  "latest_version": "smwc-33324-1693116885",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33324,
+      "title": "Speedrun Timer",
+      "version": "smwc-33324-1693116885",
+      "upstream_time": 1693116885,
+      "download_url": "https://dl.smwcentral.net/33324/speedrunTimerSprite.zip",
+      "filename": "speedrunTimerSprite.zip",
+      "size": 8923,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

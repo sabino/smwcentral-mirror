@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-mega-man-bass-character-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25778,
+  "title": "Mega Man & Bass - Character Select",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "p-switch"
+  ],
+  "description": "The Character Select theme from Megaman & Bass.",
+  "latest_version": "smwc-25778-1612043166",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25778,
+      "title": "Mega Man & Bass - Character Select",
+      "version": "smwc-25778-1612043166",
+      "upstream_time": 1612043166,
+      "download_url": "https://dl.smwcentral.net/25778/Character%20Select.zip",
+      "filename": "Character Select.zip",
+      "size": 31822,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7677,
+      "title": "Mega Man & Bass - Character Select",
+      "version": "smwc-7677-1332751097",
+      "upstream_time": 1332751097,
+      "download_url": "https://dl.smwcentral.net/7677/Mega%20Man%20%26%20Bass%20%28GBA%29%20-%20Character%20Select.zip",
+      "filename": "Mega Man %26 Bass (GBA) - Character Select.zip",
+      "size": 64612,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

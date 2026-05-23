@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-passable-on-a-b-button",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3979,
+  "title": "Passable On A/B Button",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "button",
+    "lorom",
+    "passable"
+  ],
+  "description": "Two blocks. One makes the player pass from whatever side as long as A or B is pressed (blck1.asm), the other (blck2.asm) makes the player pass when neither of those two buttons are pressed.",
+  "latest_version": "smwc-3979-1436701494",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3979,
+      "title": "Passable On A/B Button",
+      "version": "smwc-3979-1436701494",
+      "upstream_time": 1436701494,
+      "download_url": "https://dl.smwcentral.net/3979/Blox.zip",
+      "filename": "Blox.zip",
+      "size": 1122,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

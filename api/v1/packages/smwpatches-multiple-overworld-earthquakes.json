@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-multiple-overworld-earthquakes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 30258,
+  "title": "Multiple Overworld Earthquakes",
+  "authors": [
+    "Ersanio"
+  ],
+  "tags": [
+    "earthquake",
+    "event",
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This patch allows you to have more than one overworld earthquake sequence. More information in the .ASM file.<br>\r\n<br>\r\nEarthquakes happen prior to events themselves, so you can use an earthquake sequence anytime (as long as an event follows after you finish a level)",
+  "latest_version": "smwc-30258-1675493640",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 30258,
+      "title": "Multiple Overworld Earthquakes",
+      "version": "smwc-30258-1675493640",
+      "upstream_time": 1675493640,
+      "download_url": "https://dl.smwcentral.net/30258/Multiple%20Earthquakes.zip",
+      "filename": "Multiple Earthquakes.zip",
+      "size": 1314,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

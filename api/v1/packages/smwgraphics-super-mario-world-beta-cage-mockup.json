@@ -1,0 +1,34 @@
+{
+  "name": "smwgraphics-super-mario-world-beta-cage-mockup",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 35877,
+  "title": "Super Mario World - Beta Cage (Mockup)",
+  "authors": [
+    "DrAnas",
+    "Rachel Mae"
+  ],
+  "tags": [
+    "2bpp",
+    "no-scroll",
+    "patch needed",
+    "sky"
+  ],
+  "description": "At long last, the famous <a href=\"https://tcrf.net/File:SMWCageBirds.png\" rel=\"nofollow\">beta cage mockup</a> from TCRF is finally here to the public, right where it belongs! Credit to BMF (a.k.a. Rachel Mae) for the original mockup! Unfortunately, the actual .bin file for the graphics wasn't shared, so I had to manually draw every tile accurately from the screenshot. Included is a patch that allows you to remap the sprite tiles used by the wings. It also features the basic ability to manually remap the tiles used by the cage in case you don't want to use the provided LT4 file for some reason. The provided LG4 file can either be used per-level or globally replace 'GFX2B.bin', but be aware that the 'Nintendo' and 'SUPER MARIO BROS. 4' text are overwritten. Lastly, the provided SP2 file contains a slightly modified version of the prototype wings that overwrites the Yoshi berry. Enjoy!<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=24816\">No More Sprite Tiles Limit v1.2.1.</a> is needed for all the wings to display properly.",
+  "latest_version": "smwc-35877-1704640735",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 35877,
+      "title": "Super Mario World - Beta Cage (Mockup)",
+      "version": "smwc-35877-1704640735",
+      "upstream_time": 1704640735,
+      "download_url": "https://dl.smwcentral.net/35877/beta_cage_mockup.zip",
+      "filename": "beta_cage_mockup.zip",
+      "size": 6230,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

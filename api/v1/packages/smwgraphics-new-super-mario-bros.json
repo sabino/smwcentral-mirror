@@ -1,0 +1,88 @@
+{
+  "name": "smwgraphics-new-super-mario-bros",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38479,
+  "title": "New Super Mario Bros. - 8-bit Bonus Room",
+  "authors": [
+    "TheOrangeToad"
+  ],
+  "tags": [
+    "2bpp",
+    "bonus",
+    "desert",
+    "dino rhino",
+    "dino torch",
+    "mountain",
+    "needs remoderation",
+    "patch needed",
+    "reznor",
+    "sky",
+    "wood"
+  ],
+  "description": "The 8-bit Bonus Room background from New Super Mario Bros. but got converted and edited into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+  "latest_version": "smwc-38479-1726620761",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38479,
+      "title": "New Super Mario Bros. - 8-bit Bonus Room",
+      "version": "smwc-38479-1726620761",
+      "upstream_time": 1726620761,
+      "download_url": "https://dl.smwcentral.net/38479/%28Layer%203%29%20New%20Super%20Mario%20Bros.%20-%208-bit%20Bonus%20Room.zip",
+      "filename": "(Layer 3) New Super Mario Bros. - 8-bit Bonus Room.zip",
+      "size": 1914,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 26222,
+      "title": "New Super Mario Bros. 2 - Totem Pole",
+      "version": "smwc-26222-1613750697",
+      "upstream_time": 1613750697,
+      "download_url": "https://dl.smwcentral.net/26222/Totem.zip",
+      "filename": "Totem.zip",
+      "size": 5314,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 24740,
+      "title": "New Super Mario Bros. 2 Styled Reznor",
+      "version": "smwc-24740-1601401927",
+      "upstream_time": 1601401927,
+      "download_url": "https://dl.smwcentral.net/24740/NSMB2%20Reznor.zip",
+      "filename": "NSMB2 Reznor.zip",
+      "size": 5019,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 15689,
+      "title": "New Super Mario Bros. 2 - Totem Pole",
+      "version": "smwc-15689-1499197023",
+      "upstream_time": 1499197023,
+      "download_url": "https://dl.smwcentral.net/15689/totem.zip",
+      "filename": "totem.zip",
+      "size": 3640,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1159,
+      "title": "New Super Mario Bros. - 8-bit Bonus Room",
+      "version": "smwc-1159-1402447176",
+      "upstream_time": 1402447176,
+      "download_url": "https://dl.smwcentral.net/1159/nsmb%20-%208-bit_bonus_room.zip",
+      "filename": "nsmb - 8-bit_bonus_room.zip",
+      "size": 3634,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

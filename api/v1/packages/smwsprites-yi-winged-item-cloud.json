@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-yi-winged-item-cloud",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3241,
+  "title": "YI Winged Item Cloud",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "cloud",
+    "dynamic",
+    "item",
+    "lorom",
+    "wing",
+    "yoshi island"
+  ],
+  "description": "This is the flying cloud from YI that contains an item. You can customize which sprite is spawned by modifying the extra property bytes. It is triggered with a shell or a stunned enemy. It comes with some pre-configured CFG files that spawn certain items.",
+  "latest_version": "smwc-3241-1203606746",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3241,
+      "title": "YI Winged Item Cloud",
+      "version": "smwc-3241-1203606746",
+      "upstream_time": 1203606746,
+      "download_url": "https://dl.smwcentral.net/3241/wingcloud.zip",
+      "filename": "wingcloud.zip",
+      "size": 13592,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

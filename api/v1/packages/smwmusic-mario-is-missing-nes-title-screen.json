@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mario-is-missing-nes-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31997,
+  "title": "Mario is Missing! (NES) - Title Screen",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "grassland",
+    "retro",
+    "title"
+  ],
+  "description": "Today is my 2 year anniversary of joining SMWC!<br>\r\nAnd for this very special occasion, I present to you all a very special port!<br>\r\n<br>\r\nThe iconic Title Screen theme from Mario is Missing! on the NES.",
+  "latest_version": "smwc-31997-1663859333",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31997,
+      "title": "Mario is Missing! (NES) - Title Screen",
+      "version": "smwc-31997-1663859333",
+      "upstream_time": 1663859333,
+      "download_url": "https://dl.smwcentral.net/31997/Mario%20is%20Missing%21%20%28NES%29%20-%20Title%20Screen.zip",
+      "filename": "Mario is Missing%21 (NES) - Title Screen.zip",
+      "size": 34946,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

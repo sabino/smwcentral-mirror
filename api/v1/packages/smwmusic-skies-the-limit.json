@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-skies-the-limit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22685,
+  "title": "skies the limit",
+  "authors": [
+    "radicaldawg"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld"
+  ],
+  "description": "I intended to compose this track to be used as an overworld for a world map, but I find that you could also use this in upbeat grassland levels. This is my first time composing music in .txt format so it might be a bit rusty.",
+  "latest_version": "smwc-22685-1587862868",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22685,
+      "title": "skies the limit",
+      "version": "smwc-22685-1587862868",
+      "upstream_time": 1587862868,
+      "download_url": "https://dl.smwcentral.net/22685/skies%20the%20limit.zip",
+      "filename": "skies the limit.zip",
+      "size": 31789,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

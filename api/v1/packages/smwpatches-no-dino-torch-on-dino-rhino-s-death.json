@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-no-dino-torch-on-dino-rhino-s-death",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13615,
+  "title": "No Dino Torch on Dino Rhino's Death",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "dino rhino",
+    "dino torch",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Makes it so the Dino Rhino won't spawn a Dino Torch when it dies.<br>\r\nFreespace is only required if SA-1 is being used.",
+  "latest_version": "smwc-13615-1461788491",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13615,
+      "title": "No Dino Torch on Dino Rhino's Death",
+      "version": "smwc-13615-1461788491",
+      "upstream_time": 1461788491,
+      "download_url": "https://dl.smwcentral.net/13615/No%20Dino%20Torch%20on%20Dino%20Rhino%27s%20Death.zip",
+      "filename": "No Dino Torch on Dino Rhino%27s Death.zip",
+      "size": 434,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

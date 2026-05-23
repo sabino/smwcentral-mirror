@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-earth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40333,
+  "title": "Lufia II: Rise of the Sinistrals - The Earth",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "credits",
+    "intro",
+    "overworld",
+    "title"
+  ],
+  "description": "A pretty theme from Lufia 2, fitting for title screens and overworlds.",
+  "latest_version": "smwc-40333-1756149371",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40333,
+      "title": "Lufia II: Rise of the Sinistrals - The Earth",
+      "version": "smwc-40333-1756149371",
+      "upstream_time": 1756149371,
+      "download_url": "https://dl.smwcentral.net/40333/Lufia%202%20-%20The%20Earth.zip",
+      "filename": "Lufia 2 - The Earth.zip",
+      "size": 32996,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31957,
+      "title": "Lufia II: Rise of the Sinistrals - The Earth",
+      "version": "smwc-31957-1673990841",
+      "upstream_time": 1673990841,
+      "download_url": "https://dl.smwcentral.net/31957/TheEarth.zip",
+      "filename": "TheEarth.zip",
+      "size": 60979,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

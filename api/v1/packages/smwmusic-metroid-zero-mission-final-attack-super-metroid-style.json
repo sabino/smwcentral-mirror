@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-metroid-zero-mission-final-attack-super-metroid-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26934,
+  "title": "Metroid Zero Mission - Final Attack (Super Metroid Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "cave",
+    "final"
+  ],
+  "description": "(Brinstar Hurry Up VER?)",
+  "latest_version": "smwc-26934-1622499065",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26934,
+      "title": "Metroid Zero Mission - Final Attack (Super Metroid Style)",
+      "version": "smwc-26934-1622499065",
+      "upstream_time": 1622499065,
+      "download_url": "https://dl.smwcentral.net/26934/MZM_FA_SM.zip",
+      "filename": "MZM_FA_SM.zip",
+      "size": 66454,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

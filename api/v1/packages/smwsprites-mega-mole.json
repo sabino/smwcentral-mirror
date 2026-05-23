@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-mega-mole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22321,
+  "title": "Mega Mole",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "mega mole",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite BF in SMW, the Mega Mole.<br>\r\n<br>\r\nYes, I know it's already been done, but this one is non-dynamic and, I'd like to think, easier to read than the one mikeyk included with Sprite Tool.<br>\r\n<br>\r\nOn extra bit set it'll be \"Friendly\", which means it can't hurt Mario.<br>\r\n<br>\r\n(Rykon-V73): Converted the sprite and its extra bit to .json.",
+  "latest_version": "smwc-22321-1583272201",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22321,
+      "title": "Mega Mole",
+      "version": "smwc-22321-1583272201",
+      "upstream_time": 1583272201,
+      "download_url": "https://dl.smwcentral.net/22321/mega_mole_BF_edited.zip",
+      "filename": "mega_mole_BF_edited.zip",
+      "size": 4148,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

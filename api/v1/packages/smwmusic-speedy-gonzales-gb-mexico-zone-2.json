@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-speedy-gonzales-gb-mexico-zone-2",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7708,
+  "title": "Speedy Gonzales (GB) - Mexico Zone 2.0",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "grassland"
+  ],
+  "description": "An improved version of my Mexico Zone port.  Would suit athletic grassland or tropical levels.",
+  "latest_version": "smwc-7708-1375667576",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7708,
+      "title": "Speedy Gonzales (GB) - Mexico Zone 2.0",
+      "version": "smwc-7708-1375667576",
+      "upstream_time": 1375667576,
+      "download_url": "https://dl.smwcentral.net/7708/Speedy%20Gonzales%20Game%20Boy%20-%20Mexico%20Zone.zip",
+      "filename": "Speedy Gonzales Game Boy - Mexico Zone.zip",
+      "size": 64594,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

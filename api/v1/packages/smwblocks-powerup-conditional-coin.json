@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-powerup-conditional-coin",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4004,
+  "title": "Powerup Conditional Coin",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "powerup"
+  ],
+  "description": "This coin will give you an amount of coins based on the player's powerup status. You can change the values in the only table in the ASM File.",
+  "latest_version": "smwc-4004-1436639861",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4004,
+      "title": "Powerup Conditional Coin",
+      "version": "smwc-4004-1436639861",
+      "upstream_time": 1436639861,
+      "download_url": "https://dl.smwcentral.net/4004/Power%20Conditional%20Coin.zip",
+      "filename": "Power Conditional Coin.zip",
+      "size": 708,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

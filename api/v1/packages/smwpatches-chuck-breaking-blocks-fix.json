@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-chuck-breaking-blocks-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40307,
+  "title": "Chuck Breaking Blocks Fix",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Did you notice that, when chucks break through turn/throw blocks, the brick piece particles are always rainbow? Except, it turns out that isn't always the case, as the code that handles this is bugged. It uses the block's X/Y position to determine whether the brick pieces are rainbow or not. This causes one of the blocks to create non-rainbow particles when they're placed on the first screen of the level.<br>\r\n<br>\r\nThis patch fixes both of these quirks. With this, turn blocks will always create brown particles and throw blocks will always create rainbow particles when chucks smash through them.<br>\r\n<br>\r\nCredit is not required, but appreciated.",
+  "latest_version": "smwc-40307-1768399710",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40307,
+      "title": "Chuck Breaking Blocks Fix",
+      "version": "smwc-40307-1768399710",
+      "upstream_time": 1768399710,
+      "download_url": "https://dl.smwcentral.net/40307/ChuckBreakBrickFix.zip",
+      "filename": "ChuckBreakBrickFix.zip",
+      "size": 1214,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

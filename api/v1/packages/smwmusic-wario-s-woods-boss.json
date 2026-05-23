@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-wario-s-woods-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7211,
+  "title": "Wario's Woods - Boss",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "A short song from Wario's Woods. Good for dangerous situations.",
+  "latest_version": "smwc-7211-1318675150",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7211,
+      "title": "Wario's Woods - Boss",
+      "version": "smwc-7211-1318675150",
+      "upstream_time": 1318675150,
+      "download_url": "https://dl.smwcentral.net/7211/Wario%27s%20Woods%20-%20Boss.zip",
+      "filename": "Wario%27s Woods - Boss.zip",
+      "size": 66978,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

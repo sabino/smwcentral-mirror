@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-hyperzone-neo-megalopolis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23696,
+  "title": "HyperZone - Neo Megalopolis",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "industrial",
+    "misc",
+    "space",
+    "tense",
+    "urban"
+  ],
+  "description": "Neo Megalopolis from Hyper Zone, but unsampled. Good for industrial levels and urban levels.",
+  "latest_version": "smwc-23696-1595048035",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23696,
+      "title": "HyperZone - Neo Megalopolis",
+      "version": "smwc-23696-1595048035",
+      "upstream_time": 1595048035,
+      "download_url": "https://dl.smwcentral.net/23696/Hyper%20Zone%20-%20Neo%20Megalopolis%20%28Unsampled%29.zip",
+      "filename": "Hyper Zone - Neo Megalopolis (Unsampled).zip",
+      "size": 35866,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23695,
+      "title": "HyperZone - Neo Megalopolis",
+      "version": "smwc-23695-1595048030",
+      "upstream_time": 1595048030,
+      "download_url": "https://dl.smwcentral.net/23695/Hyper%20Zone%20-%20Neo%20Megalopolis.zip",
+      "filename": "Hyper Zone - Neo Megalopolis.zip",
+      "size": 95802,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19858,
+      "title": "HyperZone - Neo Megalopolis",
+      "version": "smwc-19858-1557793249",
+      "upstream_time": 1557793249,
+      "download_url": "https://dl.smwcentral.net/19858/neomegalopolis.zip",
+      "filename": "neomegalopolis.zip",
+      "size": 59971,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

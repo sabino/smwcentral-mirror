@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-mondo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41679,
+  "title": "Mondo!",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cave",
+    "credits",
+    "mountain",
+    "night",
+    "tense",
+    "upbeat",
+    "urban"
+  ],
+  "description": "A tense-ish remix of SMW's leitmotif I did for 48hoSMW #16, where the theme was to combine two vanilla SMW levels. The vibe I was going for was one of when the post-game of a game makes you revisit earlier portions of a game, outside its original context, with the flavour of a challenge.<br>\r\n<br>\r\nSince I finished my level in the first 24 hours, I spent the second making this song. It's a 24hoSPC entry of sorts. #tb{;)}",
+  "latest_version": "smwc-41679-1776286162",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41679,
+      "title": "Mondo!",
+      "version": "smwc-41679-1776286162",
+      "upstream_time": 1776286162,
+      "download_url": "https://dl.smwcentral.net/41679/mondo%21.zip",
+      "filename": "mondo%21.zip",
+      "size": 33485,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

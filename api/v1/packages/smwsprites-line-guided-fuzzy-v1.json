@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-line-guided-fuzzy-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18756,
+  "title": "Line-Guided Fuzzy v1.1",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "fuzzy",
+    "line-guided",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 68 in SMW, the line-guided Fuzzy.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nSupport for LM3 exlevel settings. Only works with pixi 1.2.4+",
+  "latest_version": "smwc-18756-1547514894",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18756,
+      "title": "Line-Guided Fuzzy v1.1",
+      "version": "smwc-18756-1547514894",
+      "upstream_time": 1547514894,
+      "download_url": "https://dl.smwcentral.net/18756/SMWSDIS%20-%20sprite%2068%20-%20line-guided%20Fuzzy%20v1.1.zip",
+      "filename": "SMWSDIS - sprite 68 - line-guided Fuzzy v1.1.zip",
+      "size": 5503,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

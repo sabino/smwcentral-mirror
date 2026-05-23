@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-player-s-bg-ow-tile-palette-changer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21489,
+  "title": "Player's BG OW Tile/Palette Changer",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "overworld border",
+    "sa-1"
+  ],
+  "description": "This patch allows the user to change the palette of the tiles that appear behind the player on the OW border. Version 2.00 allows changing the tiles themselves, as well. These changes can be applied per-submap.",
+  "latest_version": "smwc-21489-1574885552",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21489,
+      "title": "Player's BG OW Tile/Palette Changer",
+      "version": "smwc-21489-1574885552",
+      "upstream_time": 1574885552,
+      "download_url": "https://dl.smwcentral.net/21489/ow_bg_tiles.zip",
+      "filename": "ow_bg_tiles.zip",
+      "size": 849,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

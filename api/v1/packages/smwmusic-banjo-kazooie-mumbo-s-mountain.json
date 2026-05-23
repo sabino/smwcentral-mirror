@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-banjo-kazooie-mumbo-s-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39639,
+  "title": "Banjo Kazooie - Mumbo's Mountain",
+  "authors": [
+    "jneen"
+  ],
+  "tags": [
+    "athletic",
+    "jungle",
+    "mountain",
+    "upbeat"
+  ],
+  "description": "Mumbo's Mountain from Banjo Kazooie. Greaty for trolly underground or forest sections maybe? Smallish aram footprint - compatible with all sfx and global songs, as well as the #default sample group.",
+  "latest_version": "smwc-39639-1748698157",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39639,
+      "title": "Banjo Kazooie - Mumbo's Mountain",
+      "version": "smwc-39639-1748698157",
+      "upstream_time": 1748698157,
+      "download_url": "https://dl.smwcentral.net/39639/mumbo.zip",
+      "filename": "mumbo.zip",
+      "size": 37469,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

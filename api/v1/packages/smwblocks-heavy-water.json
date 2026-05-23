@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-heavy-water",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4042,
+  "title": "Heavy Water",
+  "authors": [
+    "bond84"
+  ],
+  "tags": [
+    "lorom",
+    "water"
+  ],
+  "description": "This is my first block. It makes it to when you are in water, it makes you fall down and swim up slowly.<br>\r\nMore Info in Read-Me.",
+  "latest_version": "smwc-4042-1426272084",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4042,
+      "title": "Heavy Water",
+      "version": "smwc-4042-1426272084",
+      "upstream_time": 1426272084,
+      "download_url": "https://dl.smwcentral.net/4042/Heavy%20Water.zip",
+      "filename": "Heavy Water.zip",
+      "size": 823,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

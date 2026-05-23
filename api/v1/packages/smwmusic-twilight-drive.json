@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-twilight-drive",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37034,
+  "title": "Twilight Drive",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "beach",
+    "night",
+    "overworld",
+    "title",
+    "urban"
+  ],
+  "description": "Could fit on sunset beach levels<br>\r\nPitch:<br>\r\n[-2] D major / B minor<br>\r\n[-1] D# major / C minor<br>\r\n[0] F major / D minor (Default)<br>\r\n[+1] G major / E minor<br>\r\nSpeed:<br>\r\n[-2] 100 BPM<br>\r\n[-1] 110 BPM<br>\r\n[0] 122 BPM (Default)<br>\r\n[+1] 136 BPM",
+  "latest_version": "smwc-37034-1709803059",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37034,
+      "title": "Twilight Drive",
+      "version": "smwc-37034-1709803059",
+      "upstream_time": 1709803059,
+      "download_url": "https://dl.smwcentral.net/37034/twilight%20drive%20%28S%29.zip",
+      "filename": "twilight drive (S).zip",
+      "size": 166495,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

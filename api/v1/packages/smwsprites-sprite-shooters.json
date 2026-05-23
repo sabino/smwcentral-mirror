@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-sprite-shooters",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35170,
+  "title": "Sprite Shooters",
+  "authors": [
+    "Nyako"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "shooter",
+    "spawner"
+  ],
+  "description": "This shooter spawns a sprite of your choosing every so often. You can choose the sprite (custom or vanilla), the amount of it which spawns, the delay between spawns, the offsets, and the randomness of the velocity.<br>\r\n<br>\r\nThe default shooters spawn coins with a random velocity, to make them look like they're coming out of a pipe, like what you can do in Super Mario Maker.<br>\r\n<br>\r\nTo configure shooters, open up <code>SpriteShooter.asm</code> and scroll to <code>SPRITE TABLES</code>. The extension byte controls which shooter gets used.<br>\r\n<br>\r\nAlso includes a custom moving coin, which doesn't overwrite its velocity, and has ground friction. It should be inserted as sprite <code>07</code> to use the defaults, but it can be changed to whatever you want. Moving coin disassembly by <span class=\"un-outer\" title=\"Thomas\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=7012\" style=\"color: #65c816;\" class=\"un\">Thomas</a></span>.<br>\r\n<br>\r\nThis is my first sprite, so credit would be appreciated.",
+  "latest_version": "smwc-35170-1697491957",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35170,
+      "title": "Sprite Shooters",
+      "version": "smwc-35170-1697491957",
+      "upstream_time": 1697491957,
+      "download_url": "https://dl.smwcentral.net/35170/SpriteShooter.zip",
+      "filename": "SpriteShooter.zip",
+      "size": 6584,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

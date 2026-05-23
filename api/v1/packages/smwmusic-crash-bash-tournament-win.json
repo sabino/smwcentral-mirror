@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-crash-bash-tournament-win",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37235,
+  "title": "Crash Bash - Tournament Win",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "bonus",
+    "credits"
+  ],
+  "description": "A happy theme that plays when you win a tournament in Crash Bash.<br>\r\n<br>\r\nNote: Not compatible with Yoshi, thunder and Bonus End.",
+  "latest_version": "smwc-37235-1712519087",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37235,
+      "title": "Crash Bash - Tournament Win",
+      "version": "smwc-37235-1712519087",
+      "upstream_time": 1712519087,
+      "download_url": "https://dl.smwcentral.net/37235/CBash%20-%20Tournament%20Win.zip",
+      "filename": "CBash - Tournament Win.zip",
+      "size": 114311,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-live-a-live-knock-you-down",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34983,
+  "title": "Live A Live - Knock You Down!",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Knock You Down! from Live-A-Live.<br>\r\n<br>\r\nOmits Thunder.",
+  "latest_version": "smwc-34983-1696194990",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34983,
+      "title": "Live A Live - Knock You Down!",
+      "version": "smwc-34983-1696194990",
+      "upstream_time": 1696194990,
+      "download_url": "https://dl.smwcentral.net/34983/Live-A-Live%20-%20Knock%20You%20Down.zip",
+      "filename": "Live-A-Live - Knock You Down.zip",
+      "size": 75391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19501,
+      "title": "Live A Live - Knock You Down!",
+      "version": "smwc-19501-1553949315",
+      "upstream_time": 1553949315,
+      "download_url": "https://dl.smwcentral.net/19501/Live_A_Live_-_Knock_you_Down.zip",
+      "filename": "Live_A_Live_-_Knock_you_Down.zip",
+      "size": 37147,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

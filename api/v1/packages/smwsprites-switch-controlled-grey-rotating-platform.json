@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-switch-controlled-grey-rotating-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20784,
+  "title": "Switch-Controlled Grey Rotating Platform",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "block",
+    "lorom",
+    "on off",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "switch"
+  ],
+  "description": "A recode of the grey rotating platform (sprite A3) with a lot of new behavior based on a switch, including:<br>\r\n- Ability to control with an ON/OFF switch, or a custom one.<br>\r\n- Ability to switch rotation direction, or to start frozen and then rotate after state change.<br>\r\n<br>\r\nNow PIXI compatible.",
+  "latest_version": "smwc-20784-1565233943",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20784,
+      "title": "Switch-Controlled Grey Rotating Platform",
+      "version": "smwc-20784-1565233943",
+      "upstream_time": 1565233943,
+      "download_url": "https://dl.smwcentral.net/20784/Switch-Controlled%20Grey%20Rotating%20Platform%20%5BPIXI%5D.zip",
+      "filename": "Switch-Controlled Grey Rotating Platform %5BPIXI%5D.zip",
+      "size": 3216,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

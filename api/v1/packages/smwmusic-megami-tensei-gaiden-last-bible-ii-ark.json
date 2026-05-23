@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-ark",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33353,
+  "title": "Megami Tensei Gaiden: Last Bible II - Ark",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "retro"
+  ],
+  "description": "Ark from Last Bible II.",
+  "latest_version": "smwc-33353-1680581207",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33353,
+      "title": "Megami Tensei Gaiden: Last Bible II - Ark",
+      "version": "smwc-33353-1680581207",
+      "upstream_time": 1680581207,
+      "download_url": "https://dl.smwcentral.net/33353/Last%20Bible%20II%20-%20Ark.zip",
+      "filename": "Last Bible II - Ark.zip",
+      "size": 53962,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

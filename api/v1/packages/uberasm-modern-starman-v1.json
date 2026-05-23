@@ -1,0 +1,39 @@
+{
+  "name": "uberasm-modern-starman-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40902,
+  "title": "Modern Starman V1.1",
+  "authors": [
+    "Darolac",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "modern",
+    "p-meter",
+    "sa-1",
+    "speed",
+    "star",
+    "starman"
+  ],
+  "description": "This UberASM increases Mario's P-speed and reduces the amount of time required for P-speed while he has a Starman active. Check the asm file for customization options.<br>\r\n<br>\r\nNote: Use this <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=278\">tweak</a> to prevent a bug where Mario can rapidly turn while in an icy level.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where spin jumping/cape spinning causes Mario to rapidly alternate between moving left/right when he has P-speed.<br>\r\n- Fixed a bug where you could clip into walls while running with P-speed.<br>\r\n- Fixed a bug where you'd gain P-speed just by holding down X/Y without moving.<br>\r\n- Fixed a bug where you could fill your P-meter by running into a wall.<br>\r\n- Added checks to stop Mario from keeping his P-speed when climbing, ducking, swimming, stunned, sliding, and while using a P-balloon and lakitu cloud.<br>\r\n- Made it so the turning is not instant.<br>\r\n- Optimized the code a little.<br>\r\n",
+  "latest_version": "smwc-40902-1763926611",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40902,
+      "title": "Modern Starman V1.1",
+      "version": "smwc-40902-1763926611",
+      "upstream_time": 1763926611,
+      "download_url": "https://dl.smwcentral.net/40902/modernstarman_v1_1.zip",
+      "filename": "modernstarman_v1_1.zip",
+      "size": 734,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

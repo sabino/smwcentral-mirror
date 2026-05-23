@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-end-level-door-with-bonus",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4058,
+  "title": "End Level Door (With Bonus)",
+  "authors": [
+    "BD132"
+  ],
+  "tags": [
+    "bonus",
+    "goal",
+    "level end",
+    "lorom",
+    "teleport",
+    "warp",
+    "yoshi coin"
+  ],
+  "description": "This block ends the level normally, except when you have 4 yoshi coins. In this case, it warps you to a defined screen exit. <br>\r\nGreat use if you wish to have Yoshi Coins unlock a bonus level.",
+  "latest_version": "smwc-4058-1426267029",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4058,
+      "title": "End Level Door (With Bonus)",
+      "version": "smwc-4058-1426267029",
+      "upstream_time": 1426267029,
+      "download_url": "https://dl.smwcentral.net/4058/EndLevel%28Bonus%29.zip",
+      "filename": "EndLevel(Bonus).zip",
+      "size": 732,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

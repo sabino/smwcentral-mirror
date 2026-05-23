@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-diagonal-springboard-beans-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24914,
+  "title": "Diagonal Springboard/Beans v1.1",
+  "authors": [
+    "Djief"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "Diagonal Green Beans - now with more settings<br>\r\n<br>\r\nMade using the green beans disassembly by imamelia.<br>\r\n<br>\r\nExtra bit sets the direction, if clear they'll be attached to left wall, if set they'll be attached to right wall.<br>\r\n<br>\r\nExtra byte sets the diagonal direction, 00 is angled up, 01 is angled down.<br>\r\n<br>\r\nV1.1 - Added number of bounces before they poof<br>\r\n     - Second extra byte sets number of bounces<br>\r\n     - Max 4 bounces, 0 means infinite, see ASM for settings",
+  "latest_version": "smwc-24914-1604875079",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24914,
+      "title": "Diagonal Springboard/Beans v1.1",
+      "version": "smwc-24914-1604875079",
+      "upstream_time": 1604875079,
+      "download_url": "https://dl.smwcentral.net/24914/diagonal_beans.zip",
+      "filename": "diagonal_beans.zip",
+      "size": 5111,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

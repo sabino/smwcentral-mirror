@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-lethal-weapon-mission",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33096,
+  "title": "Lethal Weapon - Mission 1",
+  "authors": [
+    "Ahrion",
+    "Zavok"
+  ],
+  "tags": [
+    "fire",
+    "industrial",
+    "sewer",
+    "urban"
+  ],
+  "description": "Could fit a factory or urban theme. ",
+  "latest_version": "smwc-33096-1684741533",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33096,
+      "title": "Lethal Weapon - Mission 1",
+      "version": "smwc-33096-1684741533",
+      "upstream_time": 1684741533,
+      "download_url": "https://dl.smwcentral.net/33096/Lethal%20Weapon%20-%20Mission%201%20%28U%29.zip",
+      "filename": "Lethal Weapon - Mission 1 (U).zip",
+      "size": 35097,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31898,
+      "title": "Lethal Weapon - Mission 1",
+      "version": "smwc-31898-1672508505",
+      "upstream_time": 1672508505,
+      "download_url": "https://dl.smwcentral.net/31898/Mission1.zip",
+      "filename": "Mission1.zip",
+      "size": 60564,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

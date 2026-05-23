@@ -1,0 +1,32 @@
+{
+  "name": "smwpatches-optimize",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41786,
+  "title": "Optimize $0400 Compression Routine",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom"
+  ],
+  "description": "This patch optimizes the routine at $008494, which is run at the end of every frame to compress the $0420 table to $0400, saving 2 scanlines of processing on FastROM (if <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19554\">this patch</a> is used, it'll save ~2.2 scanlines), at the cost of a couple KB of ROM space.<br>\r\nThis is not compatible with SA-1 as that uses its own thing.",
+  "latest_version": "smwc-41786-1772056855",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41786,
+      "title": "Optimize $0400 Compression Routine",
+      "version": "smwc-41786-1772056855",
+      "upstream_time": 1772056855,
+      "download_url": "https://dl.smwcentral.net/41786/optimize0400.zip",
+      "filename": "optimize0400.zip",
+      "size": 833,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-fantasy-viii-blue-fields",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26809,
+  "title": "Final Fantasy VIII - Blue Fields",
+  "authors": [
+    "Kevin",
+    "emberling"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "mountain",
+    "overworld"
+  ],
+  "description": "The main overworld theme from FF8, based on the SNES arrangement made by emberling for the FF6 randomizer. It uses samples from various SNES RPG games like SMRPG, FF6, SD3, etc.",
+  "latest_version": "smwc-26809-1621278925",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26809,
+      "title": "Final Fantasy VIII - Blue Fields",
+      "version": "smwc-26809-1621278925",
+      "upstream_time": 1621278925,
+      "download_url": "https://dl.smwcentral.net/26809/FF8%20-%20Blue%20Fields.zip",
+      "filename": "FF8 - Blue Fields.zip",
+      "size": 57819,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

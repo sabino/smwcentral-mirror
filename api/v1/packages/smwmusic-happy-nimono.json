@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-happy-nimono",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7181,
+  "title": "Happy Nimono",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "calm",
+    "cave",
+    "credits",
+    "cutscene",
+    "forest",
+    "ice",
+    "night",
+    "sky",
+    "space",
+    "title",
+    "town",
+    "water"
+  ],
+  "description": "A happy, paced song with a bit of spice in the style. It could fit a nice cutscene or night sky theme.",
+  "latest_version": "smwc-7181-1326509865",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7181,
+      "title": "Happy Nimono",
+      "version": "smwc-7181-1326509865",
+      "upstream_time": 1326509865,
+      "download_url": "https://dl.smwcentral.net/7181/Happy%20Nimono.zip",
+      "filename": "Happy Nimono.zip",
+      "size": 72364,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-fall-damage",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 37819,
+  "title": "Fall damage",
+  "authors": [
+    "xhsdf"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "Fall damage. I'm sorry.",
+  "latest_version": "smwc-37819-1719688327",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 37819,
+      "title": "Fall damage",
+      "version": "smwc-37819-1719688327",
+      "upstream_time": 1719688327,
+      "download_url": "https://dl.smwcentral.net/37819/falldamage.zip",
+      "filename": "falldamage.zip",
+      "size": 788,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

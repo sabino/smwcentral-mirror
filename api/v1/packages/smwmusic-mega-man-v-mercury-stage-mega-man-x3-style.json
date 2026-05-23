@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-v-mercury-stage-mega-man-x3-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25442,
+  "title": "Mega Man V - Mercury Stage (Mega Man X3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "urban"
+  ],
+  "description": "I feel a slight delay even if I use the q7f ^=1 trick, but it looks better than before.(Maybe it's because my ears are sensitive LOL)<br>\r\nEven now, the struggle with 'inhergent staccato' is very difficult.<br>\r\n<br>\r\nEdit : Bass $ff $e0 $b8 $07 $3e -&gt; $ff $e0 $b8 $07 $58",
+  "latest_version": "smwc-25442-1607762238",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25442,
+      "title": "Mega Man V - Mercury Stage (Mega Man X3 Style)",
+      "version": "smwc-25442-1607762238",
+      "upstream_time": 1607762238,
+      "download_url": "https://dl.smwcentral.net/25442/Mercury%20Stage%28MMX3%29.zip",
+      "filename": "Mercury Stage(MMX3).zip",
+      "size": 67886,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

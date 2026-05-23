@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-p-balloon-and-cloud-clipping-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 8771,
+  "title": "P-Balloon and Cloud Clipping Fix",
+  "authors": [
+    "lolcats439"
+  ],
+  "tags": [
+    "cloud",
+    "lorom",
+    "p-balloon",
+    "sa-1"
+  ],
+  "description": "Fixes the glitch that lets you go though blocks while using a P-balloon or Lakitu cloud, by holding the left and right buttons simultaneously.<br>\r\n<br>\r\n<i>Tester's note: That glitch can only occur if you enable pressing left and right at the same time (in your emulator).</i>",
+  "latest_version": "smwc-8771-1406912012",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 8771,
+      "title": "P-Balloon and Cloud Clipping Fix",
+      "version": "smwc-8771-1406912012",
+      "upstream_time": 1406912012,
+      "download_url": "https://dl.smwcentral.net/8771/pballooncloudfix.zip",
+      "filename": "pballooncloudfix.zip",
+      "size": 476,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

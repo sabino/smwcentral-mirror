@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-final-fantasy-vi-celes-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9133,
+  "title": "Final Fantasy VI - Celes's Theme",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "Sad theme used in Final Fantasy VI. Good for cutscenes.",
+  "latest_version": "smwc-9133-1413461363",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9133,
+      "title": "Final Fantasy VI - Celes's Theme",
+      "version": "smwc-9133-1413461363",
+      "upstream_time": 1413461363,
+      "download_url": "https://dl.smwcentral.net/9133/Celes.zip",
+      "filename": "Celes.zip",
+      "size": 58554,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

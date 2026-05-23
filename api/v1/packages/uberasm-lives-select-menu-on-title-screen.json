@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-lives-select-menu-on-title-screen",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 38974,
+  "title": "Lives Select Menu on Title Screen",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "menu",
+    "player",
+    "sa-1"
+  ],
+  "description": "A couple of gamemode codes which add a custom life selection menu in the title screen. The amount of lives can be configured: check the readme for more info.<br>\r\nAdditionally, the menu can be disabled when continuing an already saved game, as in the second gif.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"E-man38\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=30680\" style=\"color: #99ff99;\" class=\"un\">E-man38</a></span>.",
+  "latest_version": "smwc-38974-1737912080",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 38974,
+      "title": "Lives Select Menu on Title Screen",
+      "version": "smwc-38974-1737912080",
+      "upstream_time": 1737912080,
+      "download_url": "https://dl.smwcentral.net/38974/Lives%20Select%20Menu.zip",
+      "filename": "Lives Select Menu.zip",
+      "size": 4724,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

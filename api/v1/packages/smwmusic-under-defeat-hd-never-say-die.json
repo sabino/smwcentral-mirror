@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-under-defeat-hd-never-say-die",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30950,
+  "title": "Under Defeat HD - Never Say Die",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "<span style=\"font-size: 12pt;\">NOTE: Incompatible w/ Thunder, Blaargs, Yoshi and the Bonus End jingle.</span><br>\r\n<br>\r\nTense theme from Under Defeat HD. Useful for final levels.<br>\r\n<br>\r\nI decided that there isn't enough Yousuke Yasui in the music section, so I decided to make a port of one of his many great songs. ",
+  "latest_version": "smwc-30950-1661042927",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30950,
+      "title": "Under Defeat HD - Never Say Die",
+      "version": "smwc-30950-1661042927",
+      "upstream_time": 1661042927,
+      "download_url": "https://dl.smwcentral.net/30950/Under%20Defeat%20HD%20-%20Never%20Say%20Die_.zip",
+      "filename": "Under Defeat HD - Never Say Die_.zip",
+      "size": 82837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-popful-mail-snes-lucina",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38383,
+  "title": "Popful Mail (SNES) - Lucina",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "overworld",
+    "sad",
+    "temple"
+  ],
+  "description": "Fits calm/sad moments. <a href=\"https://smwc.me/1640567\">Requested by Anorakun.</a>",
+  "latest_version": "smwc-38383-1726241714",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38383,
+      "title": "Popful Mail (SNES) - Lucina",
+      "version": "smwc-38383-1726241714",
+      "upstream_time": 1726241714,
+      "download_url": "https://dl.smwcentral.net/38383/Popful%20Mail%20%28SNES%29%20-%20Lucina.zip",
+      "filename": "Popful Mail (SNES) - Lucina.zip",
+      "size": 46358,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

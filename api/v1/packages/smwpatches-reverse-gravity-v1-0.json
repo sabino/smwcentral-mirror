@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-reverse-gravity-v1-0",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 38018,
+  "title": "Reverse Gravity v1.0.1",
+  "authors": [
+    "MarioE",
+    "underway"
+  ],
+  "tags": [
+    "gravity",
+    "lorom",
+    "physics",
+    "reversed",
+    "sa-1",
+    "upside down"
+  ],
+  "description": "This patch allows the player to have reversed gravity. Included are two gravity blocks and two UberASM for levels for gravity controlled by on-off blocks and gravity controlled by controller button presses; read the readme for more details.<br>\r\n<br>\r\nNote that the instructions for insertion and usage differ if you're using Callisto.",
+  "latest_version": "smwc-38018-1754424503",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 38018,
+      "title": "Reverse Gravity v1.0.1",
+      "version": "smwc-38018-1754424503",
+      "upstream_time": 1754424503,
+      "download_url": "https://dl.smwcentral.net/38018/reverse_gravity.zip",
+      "filename": "reverse_gravity.zip",
+      "size": 5632,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

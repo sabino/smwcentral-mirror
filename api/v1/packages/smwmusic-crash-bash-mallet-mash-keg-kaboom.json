@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-crash-bash-mallet-mash-keg-kaboom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37221,
+  "title": "Crash Bash - Mallet Mash / Keg Kaboom",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "castle"
+  ],
+  "description": "A triumphant orchestral theme that plays in two medieval mayhem minigames from Crash Bash",
+  "latest_version": "smwc-37221-1712508256",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37221,
+      "title": "Crash Bash - Mallet Mash / Keg Kaboom",
+      "version": "smwc-37221-1712508256",
+      "upstream_time": 1712508256,
+      "download_url": "https://dl.smwcentral.net/37221/CBash%20-%20Mallet%20Mash.zip",
+      "filename": "CBash - Mallet Mash.zip",
+      "size": 88416,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

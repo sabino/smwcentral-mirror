@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-creating-block-sprite-path-expander-v3",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40501,
+  "title": "Creating Block Sprite Path Expander v3.00",
+  "authors": [
+    "Alcaro",
+    "Maarfy",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "creating",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch increases the maximum path length for the creating block sprite. This allows said sprite to follow a path of practically arbitrary length, and further allows it to follow a unique path for the main overworld as well as each individual submap.<br>\r\n<br>\r\nYoshifanatic Update:<br>\r\n- Made this patch compatible with asar 2.0.<br>\r\n- Made the patch a lot more user friendly by incorporating my create path macros from my disassembly. So instead of editing raw hex bytes, you now use macros that are more readable.",
+  "latest_version": "smwc-40501-1756951500",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40501,
+      "title": "Creating Block Sprite Path Expander v3.00",
+      "version": "smwc-40501-1756951500",
+      "upstream_time": 1756951500,
+      "download_url": "https://dl.smwcentral.net/40501/cspr3.zip",
+      "filename": "cspr3.zip",
+      "size": 1828,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

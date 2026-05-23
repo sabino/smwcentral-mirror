@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-tom-and-jerry-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22183,
+  "title": "Tom and Jerry - Main Theme",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "title"
+  ],
+  "description": "Unsampled port of the opening theme from the Tom and Jerry cartoons.<br>\r\n<br>\r\nNote: It's looped like in the Gene Deitch Collection DVD menu.<br>\r\n<br>\r\nFits title screens.<br>\r\n<br>\r\nUpdate 2: Merged labels 11 and 8 into one, label 3 was also merged with that label, removed all other label loops, loops like [a8]3 (single notes) were split, fixed bass (#4) desyncing, and changed the ends of each channel.",
+  "latest_version": "smwc-22183-1582080138",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22183,
+      "title": "Tom and Jerry - Main Theme",
+      "version": "smwc-22183-1582080138",
+      "upstream_time": 1582080138,
+      "download_url": "https://dl.smwcentral.net/22183/Tom%20and%20Jerry%20-%20Main%20Theme.zip",
+      "filename": "Tom and Jerry - Main Theme.zip",
+      "size": 30854,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

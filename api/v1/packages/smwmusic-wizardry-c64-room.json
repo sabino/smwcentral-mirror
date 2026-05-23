@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wizardry-c64-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16451,
+  "title": "Wizardry (C64) - Room 6",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "sky",
+    "switch palace"
+  ],
+  "description": "A happy sounding and catchy tune from Wizardy. It'll work well in bonus areas and Switch Palaces.",
+  "latest_version": "smwc-16451-1508086947",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16451,
+      "title": "Wizardry (C64) - Room 6",
+      "version": "smwc-16451-1508086947",
+      "upstream_time": 1508086947,
+      "download_url": "https://dl.smwcentral.net/16451/Wizardry%20%28C64%29%20-%20Room%206.zip",
+      "filename": "Wizardry (C64) - Room 6.zip",
+      "size": 32307,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-frostfall-fridge-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41626,
+  "title": "Frostfall Fridge (Map)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "ice",
+    "overworld"
+  ],
+  "description": "Vanilla Lake inspired Overworld map",
+  "latest_version": "smwc-41626-1774546260",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41626,
+      "title": "Frostfall Fridge (Map)",
+      "version": "smwc-41626-1774546260",
+      "upstream_time": 1774546260,
+      "download_url": "https://dl.smwcentral.net/41626/Frosttall%20Fridge%20%28Map%29.zip",
+      "filename": "Frosttall Fridge (Map).zip",
+      "size": 31284,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

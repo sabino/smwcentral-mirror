@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-touhou-kanjuden-legacy-of-lunatic-kingdom-the-rabbit-has-landed",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33006,
+  "title": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom - The Rabbit has Landed",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athlethic",
+    "bonus",
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "The jumpy cheerful Seiran's theme from Touhou 15. It fits a variety of themes, such as athletic fast-paced levels, mid-bosses, and so on.",
+  "latest_version": "smwc-33006-1675043764",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33006,
+      "title": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom - The Rabbit has Landed",
+      "version": "smwc-33006-1675043764",
+      "upstream_time": 1675043764,
+      "download_url": "https://dl.smwcentral.net/33006/Seiran.zip",
+      "filename": "Seiran.zip",
+      "size": 36975,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

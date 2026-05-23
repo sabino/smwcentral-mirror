@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-tetris-attack-breeze-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18774,
+  "title": "Tetris Attack - Breeze Stage",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "forest",
+    "grassland",
+    "ice",
+    "overworld",
+    "sky",
+    "town"
+  ],
+  "description": "Also known as \"Lakitu stage\" from Tetris Attack.<br>\r\nFitting for calm levels, especially sky ones.",
+  "latest_version": "smwc-18774-1546201208",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18774,
+      "title": "Tetris Attack - Breeze Stage",
+      "version": "smwc-18774-1546201208",
+      "upstream_time": 1546201208,
+      "download_url": "https://dl.smwcentral.net/18774/breeze-stage.zip",
+      "filename": "breeze-stage.zip",
+      "size": 62800,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7436,
+      "title": "Tetris Attack - Breeze Stage",
+      "version": "smwc-7436-1325316396",
+      "upstream_time": 1325316396,
+      "download_url": "https://dl.smwcentral.net/7436/Tetris%20Attack%20-%20Cloud%20Stage%20Theme.zip",
+      "filename": "Tetris Attack - Cloud Stage Theme.zip",
+      "size": 71320,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

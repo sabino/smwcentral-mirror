@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-touhou-bunkachou-shoot-the-bullet-retrospective-kyoto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29029,
+  "title": "Touhou Bunkachou ~ Shoot the Bullet - Retrospective Kyoto",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "forest",
+    "mysterious",
+    "night",
+    "ruins",
+    "sad",
+    "sky",
+    "town",
+    "urban"
+  ],
+  "description": "The somberish fourth photo theme from the 9.5th Touhou game, Shoot the Bullet.<br>\r\n<br>\r\nThe song has a generally solemn vibe to it, kind of like \"it's the end of game, you know what to expect\", but also picks up in the second half. I guess you could think of it truly like a retrospective, with it being bittersweet, but never painful.<br>\r\n<br>\r\nUpdate: fixed an issue with channel #5's legato/pitch not resetting properly on loop.",
+  "latest_version": "smwc-29029-1642778528",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29029,
+      "title": "Touhou Bunkachou ~ Shoot the Bullet - Retrospective Kyoto",
+      "version": "smwc-29029-1642778528",
+      "upstream_time": 1642778528,
+      "download_url": "https://dl.smwcentral.net/29029/retrospectivekyoto.zip",
+      "filename": "retrospectivekyoto.zip",
+      "size": 35656,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

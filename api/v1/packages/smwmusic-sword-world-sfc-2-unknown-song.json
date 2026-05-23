@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-sword-world-sfc-2-unknown-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22928,
+  "title": "Sword World SFC 2 - Unknown Song 2",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "cutscene",
+    "ice",
+    "overworld",
+    "temple",
+    "water"
+  ],
+  "description": "A calm, chilly song that would fit well with an ice level or cave overworld, maybe even a cutscene.",
+  "latest_version": "smwc-22928-1590439754",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22928,
+      "title": "Sword World SFC 2 - Unknown Song 2",
+      "version": "smwc-22928-1590439754",
+      "upstream_time": 1590439754,
+      "download_url": "https://dl.smwcentral.net/22928/Sword%20World%20SFC%202%20-%20Unknown%20Song%202.zip",
+      "filename": "Sword World SFC 2 - Unknown Song 2.zip",
+      "size": 30912,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-bee-hunter-the-loneliness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27897,
+  "title": "Bee Hunter - The Loneliness",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "forest",
+    "industrial",
+    "jungle",
+    "mountain",
+    "urban"
+  ],
+  "description": "The Loneliness, composed by Bee Hunter of jazz (same guy who composed \"Apoplexy\", which is well-known in Mario Forever).<br>\r\n<br>\r\nThunder/Blargg sample and @7 (Bonus End fanfare) have been omitted in both versions, and @12 (P-Switch) has been omitted in the echoed version.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>UPDATE</span></div><div class=\"collapse-content\">-Added a few missing pitch bends in channel 4.<br>\r\n-Enabling or disabling echo is now chosen inside the text file - #define ECHO_ON 1 to enable, #define ECHO_ON 0 to disable. Echo is enabled by default.<br>\r\n</div></div>",
+  "latest_version": "smwc-27897-1630344328",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27897,
+      "title": "Bee Hunter - The Loneliness",
+      "version": "smwc-27897-1630344328",
+      "upstream_time": 1630344328,
+      "download_url": "https://dl.smwcentral.net/27897/Bee%20Hunter%20-%20The%20Loneliness.zip",
+      "filename": "Bee Hunter - The Loneliness.zip",
+      "size": 141951,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

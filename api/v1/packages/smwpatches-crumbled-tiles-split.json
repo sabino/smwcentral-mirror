@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-crumbled-tiles-split",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21708,
+  "title": "Crumbled Tiles Split",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "bony beetle",
+    "dry bones",
+    "lorom",
+    "remap",
+    "sa-1"
+  ],
+  "description": "This patch allows one to use different crumbled tiles for the dry bones and the bony beetle sprites. It also allows for easy remapping of those tiles. Check the asm file for details.",
+  "latest_version": "smwc-21708-1577663937",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21708,
+      "title": "Crumbled Tiles Split",
+      "version": "smwc-21708-1577663937",
+      "upstream_time": 1577663937,
+      "download_url": "https://dl.smwcentral.net/21708/bonestiles.zip",
+      "filename": "bonestiles.zip",
+      "size": 682,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

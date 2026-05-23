@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yoshi-s-cookie-enslaved",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34126,
+  "title": "Yoshi's Cookie - Enslaved!",
+  "authors": [
+    "Sthian Felipe"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "switch palace"
+  ],
+  "description": "*insert VvvvvaVvvvvvr joke here*<br>\r\n<br>\r\nEnslaved! (or Slave) is a song that plays when you get the Slave Power in VS Mode and also in some Puzzles in Puzzle mode.<br>\r\n<br>\r\ncan be useful in joke or puzzle levels!",
+  "latest_version": "smwc-34126-1692396113",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34126,
+      "title": "Yoshi's Cookie - Enslaved!",
+      "version": "smwc-34126-1692396113",
+      "upstream_time": 1692396113,
+      "download_url": "https://dl.smwcentral.net/34126/Enslaved.zip",
+      "filename": "Enslaved.zip",
+      "size": 27313,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

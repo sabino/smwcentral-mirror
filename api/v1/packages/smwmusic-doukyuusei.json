@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-doukyuusei",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21172,
+  "title": "Doukyuusei 2 - Yui's Theme",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "town",
+    "urban"
+  ],
+  "description": "Yui's theme from Doukyuusei 2. Good for Overworld maps or cutscenes.",
+  "latest_version": "smwc-21172-1569097961",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21172,
+      "title": "Doukyuusei 2 - Yui's Theme",
+      "version": "smwc-21172-1569097961",
+      "upstream_time": 1569097961,
+      "download_url": "https://dl.smwcentral.net/21172/Doukyuusei_2_-_Yuis_Theme.zip",
+      "filename": "Doukyuusei_2_-_Yuis_Theme.zip",
+      "size": 40210,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-chucks-with-extra-bit-retain-type-when-hurt",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28594,
+  "title": "Chucks With Extra Bit Retain Type When Hurt",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "chuck",
+    "extra bit",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch adds a feature to the Chucks where if their extra bit is set, they will remember and revert back to their original type when hurt, instead of all turning into a Chargin' Chuck (except Whistlin' Chuck, who already has this mechanic implemented).<br>\r\n<br>\r\nFor this patch to work properly, you must run PIXI on the ROM at least once.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"idol\"><a href=\"/?p=profile&amp;id=18321\" style=\"color: #ff9b55;\" class=\"un unavailable inactive\">idol</a></span>.",
+  "latest_version": "smwc-28594-1638171002",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28594,
+      "title": "Chucks With Extra Bit Retain Type When Hurt",
+      "version": "smwc-28594-1638171002",
+      "upstream_time": 1638171002,
+      "download_url": "https://dl.smwcentral.net/28594/ChuckRetainTypeExBit.zip",
+      "filename": "ChuckRetainTypeExBit.zip",
+      "size": 992,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

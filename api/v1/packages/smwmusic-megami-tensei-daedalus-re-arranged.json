@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-megami-tensei-daedalus-re-arranged",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15799,
+  "title": "Megami Tensei - Daedalus (Re-Arranged)",
+  "authors": [
+    "Ultima",
+    "musicalman"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "final"
+  ],
+  "description": "One of the SPCs between me and musicalman's collab. This is Megami Tensei's Daedalus dungeon, ready to use for SMW (well, hopefully). This particular song could be used as a castle theme, just like the original. It could also be used as a endgame level too. Or even a airship level, who knows?",
+  "latest_version": "smwc-15799-1499942329",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15799,
+      "title": "Megami Tensei - Daedalus (Re-Arranged)",
+      "version": "smwc-15799-1499942329",
+      "upstream_time": 1499942329,
+      "download_url": "https://dl.smwcentral.net/15799/mt2daedalus.zip",
+      "filename": "mt2daedalus.zip",
+      "size": 66462,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

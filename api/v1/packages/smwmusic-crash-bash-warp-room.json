@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bash-warp-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37237,
+  "title": "Crash Bash - Warp Room",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "night",
+    "overworld",
+    "space"
+  ],
+  "description": "The iconic warp room theme from Crash Bash",
+  "latest_version": "smwc-37237-1712618834",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37237,
+      "title": "Crash Bash - Warp Room",
+      "version": "smwc-37237-1712618834",
+      "upstream_time": 1712618834,
+      "download_url": "https://dl.smwcentral.net/37237/CBash_-_Warp_Room.zip",
+      "filename": "CBash_-_Warp_Room.zip",
+      "size": 96144,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

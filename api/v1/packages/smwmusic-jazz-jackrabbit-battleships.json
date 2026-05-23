@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-jazz-jackrabbit-battleships",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35332,
+  "title": "Jazz Jackrabbit - Battleships",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "dungeon",
+    "final",
+    "ruins",
+    "space",
+    "tense"
+  ],
+  "description": "An ominous and ambient-like song from the last stage from said game.<br>\r\nThere's two defines on the text file you can use for customization. One of them let you choose if you want the song to have no staccato, if want more accuracy on the original song, and other optimize some samples, in order avoid ommiting any SMW samples, if you wish to use this song in any level that uses them.<br>\r\nIf want to use any of those defines, open the text file, and change the define values to anything other than 0.",
+  "latest_version": "smwc-35332-1701399494",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35332,
+      "title": "Jazz Jackrabbit - Battleships",
+      "version": "smwc-35332-1701399494",
+      "upstream_time": 1701399494,
+      "download_url": "https://dl.smwcentral.net/35332/Jazz%20Jackrabbit%20-%20Battleships.zip",
+      "filename": "Jazz Jackrabbit - Battleships.zip",
+      "size": 276303,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

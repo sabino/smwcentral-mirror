@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-kirby-s-dream-land-3-level-1",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16933,
+  "title": "Kirby's Dream Land 3 - Level 1-4",
+  "authors": [
+    "Mogu94"
+  ],
+  "tags": [
+    "cave",
+    "forest",
+    "mountain",
+    "needs remoderation"
+  ],
+  "description": "Foreground seen in level 4, world 1, of Kirby's Dream Land 3.<br>\r\nTo take advantage of 2 blocks, you'll need to use edit1754's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=5751\">Slope Edge Fix Block.</a><br>\r\nNo credit is required.",
+  "latest_version": "smwc-16933-1516849777",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16933,
+      "title": "Kirby's Dream Land 3 - Level 1-4",
+      "version": "smwc-16933-1516849777",
+      "upstream_time": 1516849777,
+      "download_url": "https://dl.smwcentral.net/16933/kdl3w1lvl4.zip",
+      "filename": "kdl3w1lvl4.zip",
+      "size": 11615,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1102,
+      "title": "Kirby's Dream Land 3 - Level 1-6",
+      "version": "smwc-1102-1398108016",
+      "upstream_time": 1398108016,
+      "download_url": "https://dl.smwcentral.net/1102/KDL3-1-6BG.zip",
+      "filename": "KDL3-1-6BG.zip",
+      "size": 10721,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

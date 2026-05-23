@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bouncing-spiny-egg-rolling-spiny-egg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 15272,
+  "title": "Bouncing Spiny Egg + Rolling Spiny Egg",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "lorom",
+    "spiny egg",
+    "vanilla graphics",
+    "vanilla-ish"
+  ],
+  "description": "Bouncing Spiny Egg will bounce off the ground slopes at a strict angle. (Set Extra bits to 2)<br>\r\nRolling Spiny Egg will pick up speed if placed on a slope and even decelerate and go the other way. (Set Extra bits to 3)<br>\r\n<br>\r\nThere's a bunch more that can be done with this, but that's the gist of it.<br>\r\n<br>\r\nUpdate March 9th 2017: Horizontal Speed adjustments for the bouncing spinies! They will bounce off slope with half the speed they did before in order to facilitate level design. As such, the screenshots depicting them are no longer accurate until I update those as well. Sorry for the inconvenience!",
+  "latest_version": "smwc-15272-1489938322",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 15272,
+      "title": "Bouncing Spiny Egg + Rolling Spiny Egg",
+      "version": "smwc-15272-1489938322",
+      "upstream_time": 1489938322,
+      "download_url": "https://dl.smwcentral.net/15272/bouncing_spiny.zip",
+      "filename": "bouncing_spiny.zip",
+      "size": 2050,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

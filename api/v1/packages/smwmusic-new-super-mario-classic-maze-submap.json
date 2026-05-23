@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-new-super-mario-classic-maze-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23295,
+  "title": "New Super Mario Classic - Maze Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "overworld"
+  ],
+  "description": "Could fit on the piranha, pipe, or maze submaps or overworld areas. This music was played on World 9 (Muncher Valley) from New Super Mario Classic (Emerald Edition) (My SMW Hack)",
+  "latest_version": "smwc-23295-1592203084",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23295,
+      "title": "New Super Mario Classic - Maze Submap",
+      "version": "smwc-23295-1592203084",
+      "upstream_time": 1592203084,
+      "download_url": "https://dl.smwcentral.net/23295/NSMC%20Maze%20Submap.zip",
+      "filename": "NSMC Maze Submap.zip",
+      "size": 34851,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

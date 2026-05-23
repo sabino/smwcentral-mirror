@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-overworld-layer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 35762,
+  "title": "Overworld Layer 1 Events",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This patch allows you to make events that change layer 1 tiles on the fly: it basically works the same as the vanilla silent layer 1 events, but the changes are applied immediately instead of having to reload the map. You can change up to one layer 1 tile for each step in any event.<br>\r\nMake sure to check the readme for info on how to use it.",
+  "latest_version": "smwc-35762-1744568859",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 35762,
+      "title": "Overworld Layer 1 Events",
+      "version": "smwc-35762-1744568859",
+      "upstream_time": 1744568859,
+      "download_url": "https://dl.smwcentral.net/35762/layer1_events.zip",
+      "filename": "layer1_events.zip",
+      "size": 2867,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

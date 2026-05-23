@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-chrono-trigger-to-far-away-times",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13869,
+  "title": "Chrono Trigger - To Far Away Times",
+  "authors": [
+    "gibbl"
+  ],
+  "tags": [
+    "calm",
+    "credits"
+  ],
+  "description": "The music that plays during the ending credits of Chrono Trigger, to be used for credit scenes.",
+  "latest_version": "smwc-13869-1467786894",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13869,
+      "title": "Chrono Trigger - To Far Away Times",
+      "version": "smwc-13869-1467786894",
+      "upstream_time": 1467786894,
+      "download_url": "https://dl.smwcentral.net/13869/Times.zip",
+      "filename": "Times.zip",
+      "size": 79651,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

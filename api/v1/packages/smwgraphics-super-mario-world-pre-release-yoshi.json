@@ -1,0 +1,59 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-yoshi",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25324,
+  "title": "Super Mario World (Pre-release) - Yoshi",
+  "authors": [
+    "Dark Prince"
+  ],
+  "tags": [
+    "beta",
+    "male",
+    "needs remoderation",
+    "overworld",
+    "yoshi",
+    "yoshi fireball"
+  ],
+  "description": "Yoshi's original design!<br>\r\n<br>\r\nthe .zip file includes:<br>\r\n<br>\r\nGFX33.bin - yoshi's graphics<br>\r\nGFX13.bin - optional yoshi fire, also from the prototype",
+  "latest_version": "smwc-25324-1606767926",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25324,
+      "title": "Super Mario World (Pre-release) - Yoshi",
+      "version": "smwc-25324-1606767926",
+      "upstream_time": 1606767926,
+      "download_url": "https://dl.smwcentral.net/25324/truebetayosho.zip",
+      "filename": "truebetayosho.zip",
+      "size": 8238,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 24369,
+      "title": "Super Mario World (Pre-release) - Yoshi",
+      "version": "smwc-24369-1598332001",
+      "upstream_time": 1598332001,
+      "download_url": "https://dl.smwcentral.net/24369/Beta%20Yoshi.zip",
+      "filename": "Beta Yoshi.zip",
+      "size": 2218,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 16377,
+      "title": "Super Mario World (Pre-release) - Yoshi",
+      "version": "smwc-16377-1506881609",
+      "upstream_time": 1506881609,
+      "download_url": "https://dl.smwcentral.net/16377/SMW%20Beta%20Yoshi.zip",
+      "filename": "SMW Beta Yoshi.zip",
+      "size": 25459,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

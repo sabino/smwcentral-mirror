@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-invisible-sprite",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3566,
+  "title": "Invisible Sprite",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "invisible",
+    "lorom",
+    "sa-1",
+    "spawn"
+  ],
+  "description": "This is basically the invisible mushroom sprite, only it, well, isn't limited to a mushroom. You can make it spawn a normal or custom sprite, or even five sprites at once. Based off of Sonikku's invisible mushroom disassembly, although this one has about 3-4 times more code than the original did.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3566-1271266932",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3566,
+      "title": "Invisible Sprite",
+      "version": "smwc-3566-1271266932",
+      "upstream_time": 1271266932,
+      "download_url": "https://dl.smwcentral.net/3566/invisible%20sprite.zip",
+      "filename": "invisible sprite.zip",
+      "size": 2791,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

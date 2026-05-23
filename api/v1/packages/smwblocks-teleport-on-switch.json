@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41150,
+  "title": "Teleport on Switch",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "switch",
+    "teleport"
+  ],
+  "description": "Teleports the player if a switch (blue or silver P-Switch, ON/OFF, switch palace, or even a custom free RAM switch) is active.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41150-1764372035",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41150,
+      "title": "Teleport on Switch",
+      "version": "smwc-41150-1764372035",
+      "upstream_time": 1764372035,
+      "download_url": "https://dl.smwcentral.net/41150/teleport_switch.zip",
+      "filename": "teleport_switch.zip",
+      "size": 728,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

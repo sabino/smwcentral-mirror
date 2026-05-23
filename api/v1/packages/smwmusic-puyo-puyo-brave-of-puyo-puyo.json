@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-puyo-puyo-brave-of-puyo-puyo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16162,
+  "title": "Puyo Puyo - Brave of Puyo Puyo",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "cutscene",
+    "final",
+    "sad"
+  ],
+  "description": "The second cutscene theme from Puyo Puyo, also present in Dr. Robotnik's Mean Bean Machine as a remix for Stage 13 (A.K.A Robotnik's stage)'s intro, and a version more faithful to the original which has gone unused (Sad!). It was also used in the Mega Drive version of Madou Monogatari as its second opening theme, tho I'm not sure about the other versions of that game.<br>\r\n<br>\r\nAnyway, this song would definitely fit well with a dramatic and final cutscene, so if y'all want to use this for a hack, definitely consider that as a option. If not, the final levels of your hack would also benefit from that. Or you can just ignore this and use it on your own way, I dont care LOL<br>\r\n<br>\r\nOh, and btw, thank JonKaruzu for helping out with the last parts of the conversion of the original SPC to MML. While my skills with MML have definitely been getting better, I'm still not very comfortable with it, so help like this is always very appreciated &gt;:]",
+  "latest_version": "smwc-16162-1504630327",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16162,
+      "title": "Puyo Puyo - Brave of Puyo Puyo",
+      "version": "smwc-16162-1504630327",
+      "upstream_time": 1504630327,
+      "download_url": "https://dl.smwcentral.net/16162/Kirby%27s%20Avalanche%20funy%20moments.zip",
+      "filename": "Kirby%27s Avalanche funy moments.zip",
+      "size": 59143,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

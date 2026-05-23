@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-hyper-iria-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29640,
+  "title": "Hyper Iria - Tower",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cave",
+    "grassland",
+    "mountain"
+  ],
+  "description": "An upbeat song from Hyper Iria",
+  "latest_version": "smwc-29640-1645320562",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29640,
+      "title": "Hyper Iria - Tower",
+      "version": "smwc-29640-1645320562",
+      "upstream_time": 1645320562,
+      "download_url": "https://dl.smwcentral.net/29640/HyperIriaTower.zip",
+      "filename": "HyperIriaTower.zip",
+      "size": 56577,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

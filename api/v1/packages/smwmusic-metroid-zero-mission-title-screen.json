@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-metroid-zero-mission-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7416,
+  "title": "Metroid: Zero Mission - Title Screen",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "cutscene",
+    "space"
+  ],
+  "description": "Title screen of the GBA remake of Metroid. A quiet, but epic, space song.",
+  "latest_version": "smwc-7416-1314132637",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7416,
+      "title": "Metroid: Zero Mission - Title Screen",
+      "version": "smwc-7416-1314132637",
+      "upstream_time": 1314132637,
+      "download_url": "https://dl.smwcentral.net/7416/Metroid%20Zero%20Mission%20-%20Title.zip",
+      "filename": "Metroid Zero Mission - Title.zip",
+      "size": 67084,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

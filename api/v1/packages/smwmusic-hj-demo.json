@@ -1,0 +1,89 @@
+{
+  "name": "smwmusic-hj-demo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29710,
+  "title": "HJ Demo 4 (Intense)",
+  "authors": [
+    "VecchiaZim"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "boss",
+    "calm",
+    "chase",
+    "credits",
+    "final",
+    "grassland",
+    "industrial",
+    "night",
+    "overworld",
+    "retro",
+    "sad",
+    "sky",
+    "tense",
+    "town"
+  ],
+  "description": "See HJ Demo 1.",
+  "latest_version": "smwc-29710-1648729677",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29710,
+      "title": "HJ Demo 4 (Intense)",
+      "version": "smwc-29710-1648729677",
+      "upstream_time": 1648729677,
+      "download_url": "https://dl.smwcentral.net/29710/HJ%20Demo%204%20%28Intense%29.zip",
+      "filename": "HJ Demo 4 (Intense).zip",
+      "size": 26816,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29709,
+      "title": "HJ Demo 3 (Pretty)",
+      "version": "smwc-29709-1648729668",
+      "upstream_time": 1648729668,
+      "download_url": "https://dl.smwcentral.net/29709/HJ%20Demo%203%20%28Pretty%29.zip",
+      "filename": "HJ Demo 3 (Pretty).zip",
+      "size": 31269,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29708,
+      "title": "HJ Demo 2 (Bouncy)",
+      "version": "smwc-29708-1648729660",
+      "upstream_time": 1648729660,
+      "download_url": "https://dl.smwcentral.net/29708/HJ%20Demo%202%20%28Bouncy%29.zip",
+      "filename": "HJ Demo 2 (Bouncy).zip",
+      "size": 31974,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29707,
+      "title": "HJ Demo 1 (Classic)",
+      "version": "smwc-29707-1648691105",
+      "upstream_time": 1648691105,
+      "download_url": "https://dl.smwcentral.net/29707/HJ%20Demo%201%20%28Classic%29.zip",
+      "filename": "HJ Demo 1 (Classic).zip",
+      "size": 24574,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

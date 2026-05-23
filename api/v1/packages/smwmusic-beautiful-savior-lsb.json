@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-beautiful-savior-lsb",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41137,
+  "title": "Beautiful Savior (LSB #537)",
+  "authors": [
+    "TomCube"
+  ],
+  "tags": [
+    "calm",
+    "temple"
+  ],
+  "description": "Could fit churches, funerals, or something of the sort. The original hymn can be found in the Lutheran Service Book at #537 (view online <a href=\"https://hymnary.org/hymn/LSB2006/537\" rel=\"nofollow\">here</a>).",
+  "latest_version": "smwc-41137-1775021380",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41137,
+      "title": "Beautiful Savior (LSB #537)",
+      "version": "smwc-41137-1775021380",
+      "upstream_time": 1775021380,
+      "download_url": "https://dl.smwcentral.net/41137/beautifulsavior_lsb537.zip",
+      "filename": "beautifulsavior_lsb537.zip",
+      "size": 31361,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

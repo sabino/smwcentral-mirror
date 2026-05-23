@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-sticky-ground",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 18190,
+  "title": "Sticky Ground",
+  "authors": [
+    "Vivian Darkbloom",
+    "wye"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sticky"
+  ],
+  "description": "This disables the Left and Right buttons on the control pad when you're on the ground.<br>\r\n<br>\r\nI got the idea from <span class=\"un-outer\" title=\"wye\"><a href=\"/?p=profile&amp;id=951\" style=\"color: #92db00;\" class=\"un\">wye</a></span>'s patch but streamlined it a bit.",
+  "latest_version": "smwc-18190-1543565817",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 18190,
+      "title": "Sticky Ground",
+      "version": "smwc-18190-1543565817",
+      "upstream_time": 1543565817,
+      "download_url": "https://dl.smwcentral.net/18190/Stickyground.zip",
+      "filename": "Stickyground.zip",
+      "size": 740,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

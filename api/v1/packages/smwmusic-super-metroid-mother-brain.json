@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-metroid-mother-brain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36743,
+  "title": "Super Metroid - Mother Brain",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "final",
+    "spooky",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36743-1706162452",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36743,
+      "title": "Super Metroid - Mother Brain",
+      "version": "smwc-36743-1706162452",
+      "upstream_time": 1706162452,
+      "download_url": "https://dl.smwcentral.net/36743/21%20Mother%20Brain.zip",
+      "filename": "21 Mother Brain.zip",
+      "size": 206603,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rpg-maker-xp-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7639,
+  "title": "RPG Maker XP - Theme 01",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "overworld"
+  ],
+  "description": "One of the many amazingly epic themes from RPG Maker XP.<br>\r\n<br>\r\n<br>\r\nUpdate (12/16/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 25 bytes.",
+  "latest_version": "smwc-7639-1313693807",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7639,
+      "title": "RPG Maker XP - Theme 01",
+      "version": "smwc-7639-1313693807",
+      "upstream_time": 1313693807,
+      "download_url": "https://dl.smwcentral.net/7639/Theme.01.zip",
+      "filename": "Theme.01.zip",
+      "size": 59901,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

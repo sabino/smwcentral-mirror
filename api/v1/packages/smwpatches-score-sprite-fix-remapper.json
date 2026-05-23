@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-score-sprite-fix-remapper",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40562,
+  "title": "Score Sprite Fix & Remapper",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "5-up",
+    "coin",
+    "lorom",
+    "sa-1",
+    "score",
+    "score sprites"
+  ],
+  "description": "This patch allows you to customize the palettes of all score sprites in the game, including the unused 5-up and coin score sprites! Speaking of which, those unused score sprites I just mentioned are totally fixed now and you can separately change the 1-up palette from the 10- to 8,000-point score sprites! Requires 9 bytes of freespace in bank 02, starting from $02D523 by default.",
+  "latest_version": "smwc-40562-1769052806",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40562,
+      "title": "Score Sprite Fix & Remapper",
+      "version": "smwc-40562-1769052806",
+      "upstream_time": 1769052806,
+      "download_url": "https://dl.smwcentral.net/40562/score_sprite_fix_and_remapper.zip",
+      "filename": "score_sprite_fix_and_remapper.zip",
+      "size": 1764,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-fade-in-pack-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20571,
+  "title": "Fade-in Pack v1.1",
+  "authors": [
+    "MarioE"
+  ],
+  "tags": [
+    "fadein",
+    "hdma",
+    "lorom",
+    "sa-1",
+    "window"
+  ],
+  "description": "These two patches change the game's default mosaic fade-in to either a circle that zooms into or out from the player or a \"horizontally convex\" shape that zooms into or out from the center of the screen.",
+  "latest_version": "smwc-20571-1564064047",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20571,
+      "title": "Fade-in Pack v1.1",
+      "version": "smwc-20571-1564064047",
+      "upstream_time": 1564064047,
+      "download_url": "https://dl.smwcentral.net/20571/fadein_v1.1.zip",
+      "filename": "fadein_v1.1.zip",
+      "size": 59620,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

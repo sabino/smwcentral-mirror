@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-treasure-conflix-get-treasure",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37762,
+  "title": "Treasure Conflix - Get Treasure",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "keyhole",
+    "misc"
+  ],
+  "description": "The fanfare from when you get a treasure in Treasure Conflix.<br>\r\n<br>\r\nUpdate (5/9/2024):<br>\r\n- Corrected the pitch of the timpani",
+  "latest_version": "smwc-37762-1716061718",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37762,
+      "title": "Treasure Conflix - Get Treasure",
+      "version": "smwc-37762-1716061718",
+      "upstream_time": 1716061718,
+      "download_url": "https://dl.smwcentral.net/37762/Get_Treasure.zip",
+      "filename": "Get_Treasure.zip",
+      "size": 70193,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

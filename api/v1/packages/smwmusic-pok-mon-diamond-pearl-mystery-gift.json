@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-mystery-gift",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20184,
+  "title": "Pokémon Diamond/Pearl - Mystery Gift",
+  "authors": [
+    "Exodust"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "title"
+  ],
+  "description": "A short, lush tune about the best gifts. Suitable for bonus rooms, overworlds, title screens and smug memes.",
+  "latest_version": "smwc-20184-1560281925",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20184,
+      "title": "Pokémon Diamond/Pearl - Mystery Gift",
+      "version": "smwc-20184-1560281925",
+      "upstream_time": 1560281925,
+      "download_url": "https://dl.smwcentral.net/20184/Mystery%20Gift.zip",
+      "filename": "Mystery Gift.zip",
+      "size": 54158,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-smb3-fire-chomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22472,
+  "title": "SMB3 Fire Chomp",
+  "authors": [
+    "Arinsu",
+    "edit1754"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "chomp",
+    "enemy",
+    "fireball",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is the Fire Chomp, as seen in SMB3's 5-6. The extra bit determines how it moves.<br>\r\n<br>\r\nRemoderator note: rewrote a fair bit of code and combined both. GFX routine could still be optimized more. Requires PIXI v1.2 or superior.",
+  "latest_version": "smwc-22472-1586044425",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22472,
+      "title": "SMB3 Fire Chomp",
+      "version": "smwc-22472-1586044425",
+      "upstream_time": 1586044425,
+      "download_url": "https://dl.smwcentral.net/22472/Fire%20Chomp.zip",
+      "filename": "Fire Chomp.zip",
+      "size": 10141,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-super-zugan-hakotenjou-kara-no-shoutai-super-zugan-quiz",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41415,
+  "title": "Super Zugan: Hakotenjou kara no Shoutai - Super Zugan Quiz",
+  "authors": [
+    "LuciCat"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "This is a song from the Japan-only Super Famicom game, <i>Super Zugan: Hakotenjou kara no Shoutai</i>, a Mahjong game based on the manga of the same name. And surprisingly, it was published by EA out of all companies (yes, we're serious; its sequel, on the other hand, was published by J-Wing, which at least makes more sense).<br>\r\n<br>\r\nNote that due to the high echo buffer (in fact, that is unfortunately common with the soundtrack for this game, as well as most other games using the Masakatsu Maekawa/Now Production/Music Worx sound driver, such as <i>Supapoon</i>, <i>Sporting News Power Baseball</i>, the <i>Super Power League series</i>, etc.), samples @7 and Thunder are omitted. So oh well, here's the obligatory <b>NOT COMPATIBLE WITH BONUS END AND BLARGG/THUNDER</b> warning.<br>\r\n<br>\r\nGood for mid-level bonus areas.",
+  "latest_version": "smwc-41415-1772300127",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41415,
+      "title": "Super Zugan: Hakotenjou kara no Shoutai - Super Zugan Quiz",
+      "version": "smwc-41415-1772300127",
+      "upstream_time": 1772300127,
+      "download_url": "https://dl.smwcentral.net/41415/Super%20Zugan%20-%20Super%20Zugan%20Quiz%20%28unsampled%29.zip",
+      "filename": "Super Zugan - Super Zugan Quiz (unsampled).zip",
+      "size": 33003,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 41411,
+      "title": "Super Zugan: Hakotenjou kara no Shoutai - Super Zugan Quiz",
+      "version": "smwc-41411-1772300132",
+      "upstream_time": 1772300132,
+      "download_url": "https://dl.smwcentral.net/41411/Super%20Zugan%20-%20Super%20Zugan%20Quiz.zip",
+      "filename": "Super Zugan - Super Zugan Quiz.zip",
+      "size": 49641,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

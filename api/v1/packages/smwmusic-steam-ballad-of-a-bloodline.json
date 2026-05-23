@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-steam-ballad-of-a-bloodline",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33892,
+  "title": "Steam - Ballad of a Bloodline",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "castle",
+    "temple"
+  ],
+  "description": "(I tried to harmonize with the midi file as much as possible lol)",
+  "latest_version": "smwc-33892-1690872582",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33892,
+      "title": "Steam - Ballad of a Bloodline",
+      "version": "smwc-33892-1690872582",
+      "upstream_time": 1690872582,
+      "download_url": "https://dl.smwcentral.net/33892/BoaB_Steam_SMW.zip",
+      "filename": "BoaB_Steam_SMW.zip",
+      "size": 24127,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

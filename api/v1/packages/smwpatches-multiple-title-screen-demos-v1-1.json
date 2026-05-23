@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-multiple-title-screen-demos-v1-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40309,
+  "title": "Multiple Title Screen Demos v1.1.2",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "title screen"
+  ],
+  "description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nekietDbSBc?si=FXI_iTNhc7zWO-7P\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nA patch that allows you to have multiple title screens, either chosen at random or in a set order. Allows up to 64. All of them have their own movement data!<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nI also made a tool to extract titlescreen recording moves from snes9x and Mesen 2 saves, assuming the LM hack is enabled. Get it <a href=\"https://github.com/arinsuwu/lm_titlescreen_moves_reader/releases/latest\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-40309-1774901115",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40309,
+      "title": "Multiple Title Screen Demos v1.1.2",
+      "version": "smwc-40309-1774901115",
+      "upstream_time": 1774901115,
+      "download_url": "https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip",
+      "filename": "Multiple Title Screen Demos 1.1.2.zip",
+      "size": 6116,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-bugs-bunny-crazy-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7648,
+  "title": "Bugs Bunny: Crazy Castle 2 - Game Over",
+  "authors": [
+    "catfish"
+  ],
+  "tags": [
+    "game over",
+    "miss"
+  ],
+  "description": "The small game over song that could be used for your hack as the game over or even death song.",
+  "latest_version": "smwc-7648-1322171432",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7648,
+      "title": "Bugs Bunny: Crazy Castle 2 - Game Over",
+      "version": "smwc-7648-1322171432",
+      "upstream_time": 1322171432,
+      "download_url": "https://dl.smwcentral.net/7648/Bugs%20Bunny%20Crazy%20Castle%202%20Game%20Over.zip",
+      "filename": "Bugs Bunny Crazy Castle 2 Game Over.zip",
+      "size": 65317,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

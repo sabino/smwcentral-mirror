@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mario-luigi-bowser-s-inside-story-toad-town-i",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7375,
+  "title": "Mario & Luigi: Bowser's Inside Story - Toad Town I",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "town"
+  ],
+  "description": "This is the theme played in Toad Town when you are outside of Bowser. Could suit a town quite nicely.",
+  "latest_version": "smwc-7375-1314130522",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7375,
+      "title": "Mario & Luigi: Bowser's Inside Story - Toad Town I",
+      "version": "smwc-7375-1314130522",
+      "upstream_time": 1314130522,
+      "download_url": "https://dl.smwcentral.net/7375/bistt.zip",
+      "filename": "bistt.zip",
+      "size": 63841,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-time-twisted-attraction-attack-zone-past",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25748,
+  "title": "Sonic Time Twisted - Attraction Attack Zone (Past)",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "athletic",
+    "carnival",
+    "mountain",
+    "town",
+    "urban"
+  ],
+  "description": "The Past version of the first zone in Sonic Time Twisted, a Sonic CD-like Sonic fangame. This song is much more excited than its Future counterpart, and suits upbeat industrial-y areas like construction zones. I took some creative liberties with the instrumentation since the original uses a very peculiar organ for a significant portion of the song.",
+  "latest_version": "smwc-25748-1611514542",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25748,
+      "title": "Sonic Time Twisted - Attraction Attack Zone (Past)",
+      "version": "smwc-25748-1611514542",
+      "upstream_time": 1611514542,
+      "download_url": "https://dl.smwcentral.net/25748/attraction%20attack%20past.zip",
+      "filename": "attraction attack past.zip",
+      "size": 35414,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

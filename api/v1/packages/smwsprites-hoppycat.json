@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-hoppycat",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35110,
+  "title": "Hoppycat",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A spiky enemy that will hop when the player jumps.<br>\r\n<br>\r\nIf the extra bit is clear, it will stay in place, waiting for the player to come close to start hopping. If the extra bit is set, it will instead walk around and occasionally turn towards the player.<br>\r\n<br>\r\nThe enclosed graphics are by <span class=\"un-outer\" title=\"Lmda\"><a href=\"/?p=profile&amp;id=61362\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Lmda</a></span>, so make sure to credit them if used!",
+  "latest_version": "smwc-35110-1703581263",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35110,
+      "title": "Hoppycat",
+      "version": "smwc-35110-1703581263",
+      "upstream_time": 1703581263,
+      "download_url": "https://dl.smwcentral.net/35110/hoppycat.zip",
+      "filename": "hoppycat.zip",
+      "size": 5787,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

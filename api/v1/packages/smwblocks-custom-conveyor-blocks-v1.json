@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-custom-conveyor-blocks-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 20327,
+  "title": "Custom Conveyor Blocks v1.0",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "conveyor",
+    "conveyor belt",
+    "lorom",
+    "on-off",
+    "sa-1",
+    "speed"
+  ],
+  "description": "This is a pack of 12 conveyer blocks.<br>\r\n<br>\r\n&#12539;3 speed levels<br>\r\n&#12539;change with on/off<br>\r\n&#12539;sprite contact",
+  "latest_version": "smwc-20327-1561931874",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 20327,
+      "title": "Custom Conveyor Blocks v1.0",
+      "version": "smwc-20327-1561931874",
+      "upstream_time": 1561931874,
+      "download_url": "https://dl.smwcentral.net/20327/114514810.zip",
+      "filename": "114514810.zip",
+      "size": 10056,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

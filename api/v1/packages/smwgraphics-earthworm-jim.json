@@ -1,0 +1,138 @@
+{
+  "name": "smwgraphics-earthworm-jim",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 35543,
+  "title": "Earthworm Jim 2 (SNES) - Totally Forked",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "2bpp",
+    "carnival",
+    "cave",
+    "food",
+    "industrial",
+    "mechanical",
+    "mountain",
+    "needs remoderation",
+    "night",
+    "no-scroll",
+    "patch needed",
+    "sky",
+    "space"
+  ],
+  "description": "Anorakun suggested converting this BG to layer 3. I ripped it from the game. Do note that I had to fix the BG because of the tile placement. Speaking of tiles, be careful.<br>\r\nThis uses almost up to 3 ExGFX files.<br>\r\n<br>\r\nYou'll need to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18862\">remove the status bar</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=29993\">hide it using UberASM</a> or use a sprite status bar (one can be found in the newest versions of <a href=\"https://www.smwcentral.net/?p=viewthread&t=118748\">Kevin's UberASM Retry</a>) if you want to use this Layer 3 Background.<br>\r\n<br>\r\nEnjoy!",
+  "latest_version": "smwc-35543-1700606804",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 35543,
+      "title": "Earthworm Jim 2 (SNES) - Totally Forked",
+      "version": "smwc-35543-1700606804",
+      "upstream_time": 1700606804,
+      "download_url": "https://dl.smwcentral.net/35543/Earthworm%20Jim%202%20%28SNES%29%20-%20Totally%20Forked%20%28layer%203%29.zip",
+      "filename": "Earthworm Jim 2 (SNES) - Totally Forked (layer 3).zip",
+      "size": 6019,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 34049,
+      "title": "Earthworm Jim 2 (SNES) - Totally Forked",
+      "version": "smwc-34049-1686806261",
+      "upstream_time": 1686806261,
+      "download_url": "https://dl.smwcentral.net/34049/Earthworm%20Jim%202%20%28SNES%29%20-%20Totally%20Forked.zip",
+      "filename": "Earthworm Jim 2 (SNES) - Totally Forked.zip",
+      "size": 6439,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 25132,
+      "title": "Earthworm Jim 2 (SNES) - Anything but Tangerines",
+      "version": "smwc-25132-1604948355",
+      "upstream_time": 1604948355,
+      "download_url": "https://dl.smwcentral.net/25132/Earthworm%20Jim%202%20%28SNES%29%20-%20Anything%20but%20Tangerines.zip",
+      "filename": "Earthworm Jim 2 (SNES) - Anything but Tangerines.zip",
+      "size": 25374,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 25060,
+      "title": "Earthworm Jim 2 (SNES) - Udderly Abducted",
+      "version": "smwc-25060-1604330965",
+      "upstream_time": 1604330965,
+      "download_url": "https://dl.smwcentral.net/25060/EWJ2%20%28SNES%29%20-%20Udderly%20Abducted.zip",
+      "filename": "EWJ2 (SNES) - Udderly Abducted.zip",
+      "size": 11735,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 25020,
+      "title": "Earthworm Jim 2 (SNES) - Level Ate",
+      "version": "smwc-25020-1604096067",
+      "upstream_time": 1604096067,
+      "download_url": "https://dl.smwcentral.net/25020/Earthworm%20Jim%202%28SNES%29%20-%20Level%20Ate.zip",
+      "filename": "Earthworm Jim 2(SNES) - Level Ate.zip",
+      "size": 13583,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 24927,
+      "title": "Earthworm Jim 2 (Genesis) - Inflated Head",
+      "version": "smwc-24927-1603298551",
+      "upstream_time": 1603298551,
+      "download_url": "https://dl.smwcentral.net/24927/EWJ2%20-%20Inflated%20Head%20Genesis.zip",
+      "filename": "EWJ2 - Inflated Head Genesis.zip",
+      "size": 12505,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 24913,
+      "title": "Earthworm Jim 2 (SNES) - Inflated Head",
+      "version": "smwc-24913-1603416868",
+      "upstream_time": 1603416868,
+      "download_url": "https://dl.smwcentral.net/24913/Earthworm%20Jim%202%20%28SNES%29%20-%20Inflated%20Head.zip",
+      "filename": "Earthworm Jim 2 (SNES) - Inflated Head.zip",
+      "size": 12308,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 24911,
+      "title": "Earthworm Jim 2 (Genesis) - Anything but Tangerines",
+      "version": "smwc-24911-1603220787",
+      "upstream_time": 1603220787,
+      "download_url": "https://dl.smwcentral.net/24911/EWJ2%20-%20Anything%20but%20Tangerines%20Genesis.zip",
+      "filename": "EWJ2 - Anything but Tangerines Genesis.zip",
+      "size": 8532,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 21802,
+      "title": "Earthworm Jim 2 (SNES) - See Jim Run, Run Jim Run",
+      "version": "smwc-21802-1581876710",
+      "upstream_time": 1581876710,
+      "download_url": "https://dl.smwcentral.net/21802/See%20Jim%20Run.%20Run%20Jim%20Run.zip",
+      "filename": "See Jim Run. Run Jim Run.zip",
+      "size": 13371,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

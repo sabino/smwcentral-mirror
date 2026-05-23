@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-umineko-no-naku-koro-ni-when-they-cry-kuina",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34955,
+  "title": "Umineko no Naku Koro ni (When They Cry) - Kuina",
+  "authors": [
+    "Aguiar Salsicha"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "ghost house",
+    "spooky",
+    "tense"
+  ],
+  "description": "Kuina from Umineko.",
+  "latest_version": "smwc-34955-1697512007",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34955,
+      "title": "Umineko no Naku Koro ni (When They Cry) - Kuina",
+      "version": "smwc-34955-1697512007",
+      "upstream_time": 1697512007,
+      "download_url": "https://dl.smwcentral.net/34955/Kuina.zip",
+      "filename": "Kuina.zip",
+      "size": 34535,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

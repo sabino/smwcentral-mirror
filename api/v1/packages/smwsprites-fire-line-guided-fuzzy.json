@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-fire-line-guided-fuzzy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20538,
+  "title": "Fire line-guided Fuzzy",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "extended sprites",
+    "fire",
+    "fuzzy",
+    "line-guided",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This fuzzy will shoot fireballs to Mario while moving on the line. The speed of the fireball can be customised,alongside its timer. Based on the dissasembly of the line-guided Fuzzy by imamelia.",
+  "latest_version": "smwc-20538-1564351559",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20538,
+      "title": "Fire line-guided Fuzzy",
+      "version": "smwc-20538-1564351559",
+      "upstream_time": 1564351559,
+      "download_url": "https://dl.smwcentral.net/20538/FireFuzzy.zip",
+      "filename": "FireFuzzy.zip",
+      "size": 4855,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

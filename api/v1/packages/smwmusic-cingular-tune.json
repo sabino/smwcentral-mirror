@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-cingular-tune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18077,
+  "title": "Cingular Tune",
+  "authors": [
+    "Nikku4211"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "description": "This is the Cingular tune that used to be on old AT&T phones. Original author unknown.<br>\r\n<br>\r\nIf you want to use it as global, in the AMK music list, put the global song it will replace into the locals with its number intact and then replace that.",
+  "latest_version": "smwc-18077-1535237920",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18077,
+      "title": "Cingular Tune",
+      "version": "smwc-18077-1535237920",
+      "upstream_time": 1535237920,
+      "download_url": "https://dl.smwcentral.net/18077/CingularTunev2.zip",
+      "filename": "CingularTunev2.zip",
+      "size": 40421,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

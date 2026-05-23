@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-triple-ball-n-chain",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 36603,
+  "title": "Triple Ball 'n' Chain",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "ball and chain",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch makes it possible to have a triple rotating Ball 'n' Chain by using sprite E0 (normally three rotating gray platforms) and setting the extra bit to 1.<br>\r\n<br>\r\nUpdate 2024/4/7 (CircleFriendo): Now compatible with LM's tall levels.",
+  "latest_version": "smwc-36603-1712538534",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 36603,
+      "title": "Triple Ball 'n' Chain",
+      "version": "smwc-36603-1712538534",
+      "upstream_time": 1712538534,
+      "download_url": "https://dl.smwcentral.net/36603/triple_ball_n_chain.zip",
+      "filename": "triple_ball_n_chain.zip",
+      "size": 653,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

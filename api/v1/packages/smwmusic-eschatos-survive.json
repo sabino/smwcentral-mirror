@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-eschatos-survive",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33576,
+  "title": "Eschatos - Survive",
+  "authors": [
+    "Beruga1990"
+  ],
+  "tags": [
+    "athlethic",
+    "bonus",
+    "castle",
+    "chase",
+    "final",
+    "retro",
+    "sky"
+  ],
+  "description": "\"Survive\" is a theme in the scrolling shooter game \"Eschantos\". This port is based on the 8-bit version of \"+TEK\". <br>\r\nI also made the port for the 120hoSPC #10 contest, where you were only allowed to use one sample. Unfortunately the port was disqualified because I forgot to assign the instrument in one of my channels. Nevertheless, you can now use the port earlier in your hack^^",
+  "latest_version": "smwc-33576-1680683702",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33576,
+      "title": "Eschatos - Survive",
+      "version": "smwc-33576-1680683702",
+      "upstream_time": 1680683702,
+      "download_url": "https://dl.smwcentral.net/33576/Eschatos%20-%20Survive.zip",
+      "filename": "Eschatos - Survive.zip",
+      "size": 35939,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

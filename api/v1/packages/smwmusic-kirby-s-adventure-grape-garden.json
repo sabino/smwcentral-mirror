@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-s-adventure-grape-garden",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8255,
+  "title": "Kirby's Adventure - Grape Garden",
+  "authors": [
+    "Masashi27"
+  ],
+  "tags": [
+    "beach",
+    "grassland",
+    "jungle",
+    "sky"
+  ],
+  "description": "A relaxing song from the NES game 'Kirby's Adventure'. Good to be used for tropical levels<br>\r\n<br>\r\nUpdate (09/21/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 73 bytes.",
+  "latest_version": "smwc-8255-1342940639",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8255,
+      "title": "Kirby's Adventure - Grape Garden",
+      "version": "smwc-8255-1342940639",
+      "upstream_time": 1342940639,
+      "download_url": "https://dl.smwcentral.net/8255/Kirby%27s.Adventure%20-%20Grape%20Garden.zip",
+      "filename": "Kirby%27s.Adventure - Grape Garden.zip",
+      "size": 57525,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

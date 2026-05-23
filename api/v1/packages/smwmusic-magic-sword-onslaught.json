@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-magic-sword-onslaught",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35647,
+  "title": "Magic Sword - Onslaught",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "industrial",
+    "night",
+    "tense"
+  ],
+  "description": "Onslaught from Magic Sword.",
+  "latest_version": "smwc-35647-1703198566",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35647,
+      "title": "Magic Sword - Onslaught",
+      "version": "smwc-35647-1703198566",
+      "upstream_time": 1703198566,
+      "download_url": "https://dl.smwcentral.net/35647/Magic%20Sword%20-%20Onslaught.zip",
+      "filename": "Magic Sword - Onslaught.zip",
+      "size": 63043,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22232,
+      "title": "Magic Sword - Onslaught",
+      "version": "smwc-22232-1582942419",
+      "upstream_time": 1582942419,
+      "download_url": "https://dl.smwcentral.net/22232/Magic%20Sword%20-%20Onslaught.zip",
+      "filename": "Magic Sword - Onslaught.zip",
+      "size": 32439,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

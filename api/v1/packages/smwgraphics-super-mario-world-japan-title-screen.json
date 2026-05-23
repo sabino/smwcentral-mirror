@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-japan-title-screen",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16244,
+  "title": "Super Mario World (Japan) - Title Screen",
+  "authors": [
+    "Konata Izumi"
+  ],
+  "tags": [
+    "needs remoderation",
+    "title screen"
+  ],
+  "description": "Title Screen and Misc. Layer 3 Objects present in the Japanese Version of SMW. Credit would be appreciated, it was a pain to get these tiles ripped and merged without overwriting the US's english characters.<br>\r\n<br>\r\nNote: These Graphics are almost straight from the JP version of the game, you have to rearrange the tiles yourself or use the included .bps file to fix the issue.<br>\r\n<br>\r\nThis changes:<br>\r\n-The big \"SUPER MARIO WORLD\" font (duh)<br>\r\n-The Copyright symbol (c)<br>\r\n-The wood borders<br>\r\n-Adds the JP version's ™ symbol (you can still use the US one too)<br>\r\n<br>\r\nHope you enjoy!<br>\r\n<br>\r\nModerator's Note : the set up for the title screen is in the patch provided; there is no known way to export a title screen to a seperate file except by use of an outdated tool.  With this is in mind... accepted.",
+  "latest_version": "smwc-16244-1505510433",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16244,
+      "title": "Super Mario World (Japan) - Title Screen",
+      "version": "smwc-16244-1505510433",
+      "upstream_time": 1505510433,
+      "download_url": "https://dl.smwcentral.net/16244/SMWJapanL3Title.zip",
+      "filename": "SMWJapanL3Title.zip",
+      "size": 76519,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

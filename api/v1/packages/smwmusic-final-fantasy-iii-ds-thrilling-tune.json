@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-final-fantasy-iii-ds-thrilling-tune",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35066,
+  "title": "Final Fantasy III (DS) - Thrilling Tune 3",
+  "authors": [
+    "Alex"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "tense"
+  ],
+  "description": "Short loop for tense areas. Could fit in preboss rooms or cutscenes.",
+  "latest_version": "smwc-35066-1697144025",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35066,
+      "title": "Final Fantasy III (DS) - Thrilling Tune 3",
+      "version": "smwc-35066-1697144025",
+      "upstream_time": 1697144025,
+      "download_url": "https://dl.smwcentral.net/35066/Final%20Fantasy%20III%20%28DS%29%20-%20Dangerous_Short_Music_3.zip",
+      "filename": "Final Fantasy III (DS) - Dangerous_Short_Music_3.zip",
+      "size": 42829,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35065,
+      "title": "Final Fantasy III (DS) - Thrilling Tune 1",
+      "version": "smwc-35065-1697144009",
+      "upstream_time": 1697144009,
+      "download_url": "https://dl.smwcentral.net/35065/Final%20Fantasy%20III%20%28DS%29%20-%20Dangerous_Short_Music_1.zip",
+      "filename": "Final Fantasy III (DS) - Dangerous_Short_Music_1.zip",
+      "size": 44808,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

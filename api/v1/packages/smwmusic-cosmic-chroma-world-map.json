@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cosmic-chroma-world-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41621,
+  "title": "Cosmic Chroma World (Map)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "sky",
+    "space"
+  ],
+  "description": "Rainbow Road based submaps, Star World, or Special World submaps",
+  "latest_version": "smwc-41621-1774545257",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41621,
+      "title": "Cosmic Chroma World (Map)",
+      "version": "smwc-41621-1774545257",
+      "upstream_time": 1774545257,
+      "download_url": "https://dl.smwcentral.net/41621/Cosmic_Chroma_World.zip",
+      "filename": "Cosmic_Chroma_World.zip",
+      "size": 31527,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

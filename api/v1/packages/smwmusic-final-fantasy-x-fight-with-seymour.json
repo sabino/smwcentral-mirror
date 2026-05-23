@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-x-fight-with-seymour",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36898,
+  "title": "Final Fantasy X - Fight with Seymour",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "Twitch streamer Thabeast asked me to port this into SMW and upload to SMWC. He specifically said that he was not making a hack (because if he were he'd be making a hack). However, he wanted all romhack creators to put this into their toughest level so he could listen to it for at least 5 minutes. <br>\r\n<br>\r\nThis track is 3 minutes long, but is entirely #optimized, so no native samples were removed, making it flexible enough to be included in any level style. It definitely has final boss vibes but y'all do with it what you please.",
+  "latest_version": "smwc-36898-1709246028",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36898,
+      "title": "Final Fantasy X - Fight with Seymour",
+      "version": "smwc-36898-1709246028",
+      "upstream_time": 1709246028,
+      "download_url": "https://dl.smwcentral.net/36898/Fight%20with%20Seymour.zip",
+      "filename": "Fight with Seymour.zip",
+      "size": 89143,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

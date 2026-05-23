@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-sonic-advance-ice-mountain-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17120,
+  "title": "Sonic Advance - Ice Mountain Zone Act 1",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice",
+    "snow"
+  ],
+  "description": "Famous sonic advance music. Good for ice levels, and ice map.<br>\r\n<br>\r\nUpdate: Eco adjusted and improved instruments!",
+  "latest_version": "smwc-17120-1519708215",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17120,
+      "title": "Sonic Advance - Ice Mountain Zone Act 1",
+      "version": "smwc-17120-1519708215",
+      "upstream_time": 1519708215,
+      "download_url": "https://dl.smwcentral.net/17120/Ice%20Mountain%20Act%201%20v2.zip",
+      "filename": "Ice Mountain Act 1 v2.zip",
+      "size": 57522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8575,
+      "title": "Sonic Advance - Ice Mountain Zone Act 1",
+      "version": "smwc-8575-1398267929",
+      "upstream_time": 1398267929,
+      "download_url": "https://dl.smwcentral.net/8575/Ice%20Mountain%20Act%201.zip",
+      "filename": "Ice Mountain Act 1.zip",
+      "size": 65673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

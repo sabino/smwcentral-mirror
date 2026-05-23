@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island-underground",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16275,
+  "title": "Hudson's Adventure Island - Underground",
+  "authors": [
+    "DAA234"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ruins"
+  ],
+  "description": "The song that plays in Underworld in Adventure Island.",
+  "latest_version": "smwc-16275-1506108814",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16275,
+      "title": "Hudson's Adventure Island - Underground",
+      "version": "smwc-16275-1506108814",
+      "upstream_time": 1506108814,
+      "download_url": "https://dl.smwcentral.net/16275/Adventure%20Island%20-%20Underworld.zip",
+      "filename": "Adventure Island - Underworld.zip",
+      "size": 31167,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8064,
+      "title": "Hudson's Adventure Island - Underground",
+      "version": "smwc-8064-1320146596",
+      "upstream_time": 1320146596,
+      "download_url": "https://dl.smwcentral.net/8064/Hudson%27s%20Adventure%20Island%20-%20Underground.zip",
+      "filename": "Hudson%27s Adventure Island - Underground.zip",
+      "size": 66842,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

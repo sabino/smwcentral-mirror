@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-coins-give-points",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 16051,
+  "title": "Coins Give Points",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "points",
+    "sa-1",
+    "score",
+    "smb1",
+    "super fx"
+  ],
+  "description": "This patch makes all kinds of collectible coin tiles (regular, purple, invisible, coins from brown blocks, coins from munchers) give score points to the player, similar to how coins act like in SMB. The amount of points given is configurable.<br>\r\n<br>\r\nRequested (kinda) by Luansilva12.",
+  "latest_version": "smwc-16051-1506556737",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 16051,
+      "title": "Coins Give Points",
+      "version": "smwc-16051-1506556737",
+      "upstream_time": 1506556737,
+      "download_url": "https://dl.smwcentral.net/16051/Coins%20Give%20Points.zip",
+      "filename": "Coins Give Points.zip",
+      "size": 1617,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

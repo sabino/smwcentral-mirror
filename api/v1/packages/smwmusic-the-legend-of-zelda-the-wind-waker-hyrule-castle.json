@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-wind-waker-hyrule-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7115,
+  "title": "The Legend of Zelda: The Wind Waker - Hyrule Castle",
+  "authors": [
+    "Holy Order Sol"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "temple"
+  ],
+  "description": "An eerie theme good for castle areas.",
+  "latest_version": "smwc-7115-1318060552",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7115,
+      "title": "The Legend of Zelda: The Wind Waker - Hyrule Castle",
+      "version": "smwc-7115-1318060552",
+      "upstream_time": 1318060552,
+      "download_url": "https://dl.smwcentral.net/7115/The%20Legend%20of%20Zelda%20-%20Wind%20Waker%20-%20Hyrule%20Castle.zip",
+      "filename": "The Legend of Zelda - Wind Waker - Hyrule Castle.zip",
+      "size": 67421,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

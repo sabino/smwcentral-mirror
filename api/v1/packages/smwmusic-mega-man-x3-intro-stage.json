@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-x3-intro-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14500,
+  "title": "Mega Man X3 - Intro Stage",
+  "authors": [
+    "Maxodex"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "An energetic, fast paced song from MMX3. Could go well in chase, athletic or tense levels in a futuristic atmosphere.<br>\r\n<br>\r\nRequested by Decoy Blimp.",
+  "latest_version": "smwc-14500-1477186051",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14500,
+      "title": "Mega Man X3 - Intro Stage",
+      "version": "smwc-14500-1477186051",
+      "upstream_time": 1477186051,
+      "download_url": "https://dl.smwcentral.net/14500/intro%20mmx3.zip",
+      "filename": "intro mmx3.zip",
+      "size": 75125,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

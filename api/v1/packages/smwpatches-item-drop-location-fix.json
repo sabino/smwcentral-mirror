@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-item-drop-location-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20971,
+  "title": "Item Drop Location Fix",
+  "authors": [
+    "UmlautBanana"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Drops items from the box above the player and keeps them there, so you can't miss them when they fall down. Won't work for custom sprites in the box.<br>\r\n<br>\r\nInsert size: 102 bytes",
+  "latest_version": "smwc-20971-1566940902",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20971,
+      "title": "Item Drop Location Fix",
+      "version": "smwc-20971-1566940902",
+      "upstream_time": 1566940902,
+      "download_url": "https://dl.smwcentral.net/20971/itemdroplocationfix.zip",
+      "filename": "itemdroplocationfix.zip",
+      "size": 668,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-fade-disable",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40554,
+  "title": "Fade Disable",
+  "authors": [
+    "Chdata",
+    "Ice Man"
+  ],
+  "tags": [
+    "fade",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Disables the Fade to Black on level ends, but not when defeating a boss which would cause the game to never let you go back to the OW making you stuck forever.<br>\r\n<br>\r\nUpdate:<br>\r\nFixed an xkas bug.<br>\r\n<br>\r\nIce Man Update:<br>\r\nAsar conversion + SA1 hybrid",
+  "latest_version": "smwc-40554-1757523719",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40554,
+      "title": "Fade Disable",
+      "version": "smwc-40554-1757523719",
+      "upstream_time": 1757523719,
+      "download_url": "https://dl.smwcentral.net/40554/DisableFadeOut.zip",
+      "filename": "DisableFadeOut.zip",
+      "size": 483,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

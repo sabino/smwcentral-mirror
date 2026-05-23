@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-soul-blazer-the-mine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21423,
+  "title": "Soul Blazer - The Mine",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "cave",
+    "industrial"
+  ],
+  "description": "The slap bass-heavy song from the first dungeon of Soul Blazer.  This would best fit a cave or factory.",
+  "latest_version": "smwc-21423-1572993839",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21423,
+      "title": "Soul Blazer - The Mine",
+      "version": "smwc-21423-1572993839",
+      "upstream_time": 1572993839,
+      "download_url": "https://dl.smwcentral.net/21423/Underground%20Castle.zip",
+      "filename": "Underground Castle.zip",
+      "size": 31970,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

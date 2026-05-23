@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-smh-on-the-moon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23208,
+  "title": "smh - on the moon",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "overworld",
+    "space"
+  ],
+  "description": "Space-y, chiptune-y song featured in JUMP's World 3B.<br>\r\n<br>\r\nContains both a version that only works on overworlds, and a version for levels with reduced echo, not compatible with Bonus End or Blargg/Thunder.",
+  "latest_version": "smwc-23208-1591066017",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23208,
+      "title": "smh - on the moon",
+      "version": "smwc-23208-1591066017",
+      "upstream_time": 1591066017,
+      "download_url": "https://dl.smwcentral.net/23208/On%20The%20Moon.zip",
+      "filename": "On The Moon.zip",
+      "size": 77843,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

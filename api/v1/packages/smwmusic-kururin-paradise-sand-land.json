@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kururin-paradise-sand-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25895,
+  "title": "Kururin Paradise - Sand Land",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "desert",
+    "night",
+    "sky"
+  ],
+  "description": "Music were played from Kururin Paradise. Could fit in the sand levels.",
+  "latest_version": "smwc-25895-1613332874",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25895,
+      "title": "Kururin Paradise - Sand Land",
+      "version": "smwc-25895-1613332874",
+      "upstream_time": 1613332874,
+      "download_url": "https://dl.smwcentral.net/25895/KP%20-%20Sand%20Land%20%28Unsampled%29.zip",
+      "filename": "KP - Sand Land (Unsampled).zip",
+      "size": 33373,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

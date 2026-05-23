@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-graff-strange-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33177,
+  "title": "Graff - Strange Land",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "credits",
+    "mysterious",
+    "title"
+  ],
+  "description": "calm and mysterious tracker music.",
+  "latest_version": "smwc-33177-1680567671",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33177,
+      "title": "Graff - Strange Land",
+      "version": "smwc-33177-1680567671",
+      "upstream_time": 1680567671,
+      "download_url": "https://dl.smwcentral.net/33177/Strange%20Land.zip",
+      "filename": "Strange Land.zip",
+      "size": 59476,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

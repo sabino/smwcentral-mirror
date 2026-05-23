@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-spongebob-squarepants-electric-zoo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38988,
+  "title": "SpongeBob SquarePants - Electric Zoo",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "cutscene",
+    "industrial",
+    "overworld",
+    "space",
+    "urban"
+  ],
+  "description": " UPDATE: Lowered the waveform's volume even more as it was too loud compared to the drum beat.",
+  "latest_version": "smwc-38988-1736528113",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38988,
+      "title": "SpongeBob SquarePants - Electric Zoo",
+      "version": "smwc-38988-1736528113",
+      "upstream_time": 1736528113,
+      "download_url": "https://dl.smwcentral.net/38988/Electric%20Zoo.zip",
+      "filename": "Electric Zoo.zip",
+      "size": 85035,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

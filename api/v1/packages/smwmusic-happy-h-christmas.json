@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-happy-h-christmas",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16498,
+  "title": "Happy H. Christmas",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus",
+    "ice",
+    "night",
+    "title",
+    "town"
+  ],
+  "description": "A happy Christmas-themed tune.",
+  "latest_version": "smwc-16498-1508833960",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16498,
+      "title": "Happy H. Christmas",
+      "version": "smwc-16498-1508833960",
+      "upstream_time": 1508833960,
+      "download_url": "https://dl.smwcentral.net/16498/Happy%20H.%20Christmas.zip",
+      "filename": "Happy H. Christmas.zip",
+      "size": 32094,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

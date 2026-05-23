@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-panic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7387,
+  "title": "Panic!",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "cave",
+    "chase"
+  ],
+  "description": "Works great for any area with a short time limit, or where you are being chased.",
+  "latest_version": "smwc-7387-1319899827",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7387,
+      "title": "Panic!",
+      "version": "smwc-7387-1319899827",
+      "upstream_time": 1319899827,
+      "download_url": "https://dl.smwcentral.net/7387/panic.zip",
+      "filename": "panic.zip",
+      "size": 72432,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

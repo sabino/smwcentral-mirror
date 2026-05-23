@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lagrange-point-alarm-bell-of-silence",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25372,
+  "title": "Lagrange Point - Alarm Bell of Silence",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cave",
+    "ghost house",
+    "tense"
+  ],
+  "description": "Also known as Silent Alarm.<br>\r\nA song played on an abandoned laboratory.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25372-1607761320",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25372,
+      "title": "Lagrange Point - Alarm Bell of Silence",
+      "version": "smwc-25372-1607761320",
+      "upstream_time": 1607761320,
+      "download_url": "https://dl.smwcentral.net/25372/Lagrange%20Point%20-%20Alarm%20Bell%20of%20Silence.zip",
+      "filename": "Lagrange Point - Alarm Bell of Silence.zip",
+      "size": 166295,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

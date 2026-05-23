@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-alcahest-the-demon-underworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25096,
+  "title": "Alcahest - The Demon Underworld",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "chase",
+    "dark",
+    "final",
+    "jungle",
+    "sky",
+    "temple",
+    "tense"
+  ],
+  "description": "A tense song fit for final areas.",
+  "latest_version": "smwc-25096-1607036940",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25096,
+      "title": "Alcahest - The Demon Underworld",
+      "version": "smwc-25096-1607036940",
+      "upstream_time": 1607036940,
+      "download_url": "https://dl.smwcentral.net/25096/Alcahest%20-%20The%20Demon%20Underworld.zip",
+      "filename": "Alcahest - The Demon Underworld.zip",
+      "size": 57423,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23400,
+      "title": "Alcahest - The Demon Underworld",
+      "version": "smwc-23400-1593319281",
+      "upstream_time": 1593319281,
+      "download_url": "https://dl.smwcentral.net/23400/Alcahest%20-%20The%20Demon%20Underground.zip",
+      "filename": "Alcahest - The Demon Underground.zip",
+      "size": 33507,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "tools-binthumbnail",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 30238,
+  "title": "BinThumbnail",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "graphics"
+  ],
+  "description": "Windows Explorer uses BinThumbnail to generate thumbnails for SNES 4 bpp .bin graphics files.<br>\r\n<br>\r\nTo use:<br>\r\nRun install.cmd (with BinThumbnail.dll in the same directory)<br>\r\nOpen Windows Explorer (explorer.exe) and navigate to a directory containing SNES 4 bpp .bin files (e.g. ExGraphics/)<br>\r\nView-&gt;Large Icons<br>\r\nWindows Explorer shows icons for the .bin files rendered with SMW palette $A<br>\r\n<br>\r\n<br>\r\nLimitations:<br>\r\n.bin files contain no metadata, so the thumbnails are always generated assuming 4 bpp<br>\r\n.bin files contain no palette information, so the thumbnails are always generated with SMW palette $A<br>\r\nDoes not work in processes run \"As Administrator\"<br>\r\n<br>\r\n<br>\r\nPlease submit bugs and improvements to: https://github.com/spooonsss/BinThumbnail<br>\r\n",
+  "latest_version": "smwc-30238-1651590486",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 30238,
+      "title": "BinThumbnail",
+      "version": "smwc-30238-1651590486",
+      "upstream_time": 1651590486,
+      "download_url": "https://dl.smwcentral.net/30238/BinThumbnail.zip",
+      "filename": "BinThumbnail.zip",
+      "size": 90340,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

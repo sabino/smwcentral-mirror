@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-yoshi-color-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15392,
+  "title": "Yoshi color switch",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "color",
+    "lorom",
+    "switch",
+    "yoshi"
+  ],
+  "description": "This switch will change yoshi's color when stepped on.<br>\r\n<br>\r\nRequested by The Koopa Resistance",
+  "latest_version": "smwc-15392-1495994517",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15392,
+      "title": "Yoshi color switch",
+      "version": "smwc-15392-1495994517",
+      "upstream_time": 1495994517,
+      "download_url": "https://dl.smwcentral.net/15392/YoshiSwitch.zip",
+      "filename": "YoshiSwitch.zip",
+      "size": 23577,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-trials-of-mana-frenzy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25954,
+  "title": "Trials of Mana - Frenzy",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "cave",
+    "dark",
+    "desert",
+    "mountain",
+    "night",
+    "ruins",
+    "swamp"
+  ],
+  "description": "A suspense track played in caves with high echo. Very convenient bouncyness for gimmicky levels.<br>\r\n<br>\r\nIt is released for the <a href=\"https://www.smwcentral.net/?p=viewthread&t=104742\">Winter C3</a>. (re-work)",
+  "latest_version": "smwc-25954-1611014008",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25954,
+      "title": "Trials of Mana - Frenzy",
+      "version": "smwc-25954-1611014008",
+      "upstream_time": 1611014008,
+      "download_url": "https://dl.smwcentral.net/25954/tom_frenzy_1_2.zip",
+      "filename": "tom_frenzy_1_2.zip",
+      "size": 39172,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25675,
+      "title": "Trials of Mana - Frenzy",
+      "version": "smwc-25675-1610680563",
+      "upstream_time": 1610680563,
+      "download_url": "https://dl.smwcentral.net/25675/Trials_of_Mana_-_Frenzy.zip",
+      "filename": "Trials_of_Mana_-_Frenzy.zip",
+      "size": 32268,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

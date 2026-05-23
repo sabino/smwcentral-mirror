@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lagoon-reach-for-the-sky",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26616,
+  "title": "Lagoon - Reach for the Sky",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "mountain",
+    "sky"
+  ],
+  "description": "Reach for the Sky from Lagoon.",
+  "latest_version": "smwc-26616-1618944940",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26616,
+      "title": "Lagoon - Reach for the Sky",
+      "version": "smwc-26616-1618944940",
+      "upstream_time": 1618944940,
+      "download_url": "https://dl.smwcentral.net/26616/Reach%20for%20the%20Sky.zip",
+      "filename": "Reach for the Sky.zip",
+      "size": 95729,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

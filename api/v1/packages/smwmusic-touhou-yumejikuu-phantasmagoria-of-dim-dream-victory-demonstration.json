@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-touhou-yumejikuu-phantasmagoria-of-dim-dream-victory-demonstration",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23937,
+  "title": "Touhou Yumejikuu ~ Phantasmagoria of Dim. Dream - Victory Demonstration",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "The jingle in Touhou 3: Phantasmagoria of Dim. Dream that plays when you defeat an opponent. <s>How is this the only game to even have this victory theme when the other games could've benefited from it.</s> Included a bass channel (since the original game didn't have one).<br>\r\n<br>\r\nGreat for... stage clear and world clear themes obviously.<br>\r\n<br>\r\n<b>Note:</b><br>\r\nThere's an option to enable or disable the goal sfx. By default, it is turned on.",
+  "latest_version": "smwc-23937-1595439849",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23937,
+      "title": "Touhou Yumejikuu ~ Phantasmagoria of Dim. Dream - Victory Demonstration",
+      "version": "smwc-23937-1595439849",
+      "upstream_time": 1595439849,
+      "download_url": "https://dl.smwcentral.net/23937/You%20Win.zip",
+      "filename": "You Win.zip",
+      "size": 62379,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

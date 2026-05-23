@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-professor-layton-and-the-miracle-mask-norwell",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24401,
+  "title": "Professor Layton and the Miracle Mask - Norwell",
+  "authors": [
+    "Lumy"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "mysterious",
+    "ruins",
+    "sad"
+  ],
+  "description": "A sad, mystical and mysterious song that first plays when you reach the ancient Norwell Wall. Makes extensive usage of ARAM, so some SMW samples have been disabled for it. I've included a more compatible version for convenience.<br>\r\n<br>\r\nSamples omitted: 09 SMW @7.brr, 0D SMW @14.brr, 0F SMW @21.brr, 11 SMW @17.brr, (13 SMW Thunder.brr)*.<br>\r\nINCOMPATIBLE WITH: Bonus End music, (Blargg roar SFX, Thunder SFX, Valley of Bowser appears SFX, Castle destruction bomb SFX)*.<br>\r\n*Items in parenthesis are not a concern in the more compatible version.",
+  "latest_version": "smwc-24401-1600728077",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24401,
+      "title": "Professor Layton and the Miracle Mask - Norwell",
+      "version": "smwc-24401-1600728077",
+      "upstream_time": 1600728077,
+      "download_url": "https://dl.smwcentral.net/24401/Layton%20Miracle%20Mask%20-%20Norwell.zip",
+      "filename": "Layton Miracle Mask - Norwell.zip",
+      "size": 115058,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "smwmusic-undertale-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13072,
+  "title": "Undertale - Ruins",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "cave",
+    "credits",
+    "cutscene",
+    "dark",
+    "forest",
+    "mountain",
+    "night",
+    "ruins",
+    "sewer",
+    "temple",
+    "water"
+  ],
+  "description": "A calm song from what seems to be the most popular game in the world. Suits its title especially but also a variety of other things.<br>\r\n<br>\r\nUses up a decent chunk of ARAM, so be wary of that if using large global songs or different sound effects.",
+  "latest_version": "smwc-13072-1452918360",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13072,
+      "title": "Undertale - Ruins",
+      "version": "smwc-13072-1452918360",
+      "upstream_time": 1452918360,
+      "download_url": "https://dl.smwcentral.net/13072/ut-ruins%20v1.2.1.zip",
+      "filename": "ut-ruins v1.2.1.zip",
+      "size": 87226,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

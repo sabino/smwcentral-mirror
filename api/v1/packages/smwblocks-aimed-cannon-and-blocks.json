@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-aimed-cannon-and-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 13054,
+  "title": "Aimed Cannon and Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "projectile",
+    "puzzle",
+    "shooter"
+  ],
+  "description": "This package contains an aimed shooter, a projectile sprite and a few blocks that interact with. Very useful for puzzle levels, especially when guiding the projectile around. Do note that the sprite itself has Exgraphics, the blocks doesn't because I'm not too good at making textures.",
+  "latest_version": "smwc-13054-1454141384",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 13054,
+      "title": "Aimed Cannon and Blocks",
+      "version": "smwc-13054-1454141384",
+      "upstream_time": 1454141384,
+      "download_url": "https://dl.smwcentral.net/13054/AimedCannonsAndBlocks.zip",
+      "filename": "AimedCannonsAndBlocks.zip",
+      "size": 50861,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

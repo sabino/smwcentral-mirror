@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-kill-player-twice",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3995,
+  "title": "Kill Player Twice",
+  "authors": [
+    "Carla_"
+  ],
+  "tags": [
+    "kill",
+    "lorom"
+  ],
+  "description": "This block kills the player and, instead of making him lose 1 life, it makes him lose 2 lives.",
+  "latest_version": "smwc-3995-1410402171",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3995,
+      "title": "Kill Player Twice",
+      "version": "smwc-3995-1410402171",
+      "upstream_time": 1410402171,
+      "download_url": "https://dl.smwcentral.net/3995/killtwice.zip",
+      "filename": "killtwice.zip",
+      "size": 313,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

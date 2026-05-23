@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-x3-lost-love-in-the-sewers-toxic-seahorse-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32288,
+  "title": "Mega Man X3 - Lost Love in the Sewers ~ Toxic Seahorse (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "sewer",
+    "water"
+  ],
+  "description": "Did an arrangement of <a href=\"https://youtu.be/F7wrUFlN5gI\" rel=\"nofollow\">Toxic Sea</a><a href=\"https://youtu.be/Su-9er8VP2w\" rel=\"nofollow\">horse's Stage</a> theme from Mega Man X3. Used to actually be one of my least favorite songs from this game for the longest time until recently when I realized it's one of the best songs in the game (especially, the PSX version, which is surprisingly one of the only arrangements in X3 that actually sounds fitting for the game).<br>\r\n<br>\r\n<b><span style=\"color: #920DFF;\">Important:</span></b><br>\r\n♠ \"Bonus End,\" & Thunder SFX are disabled.<br>\r\n<br>\r\nThere are also customizable pitches for this song that you can adjust in the song's txt file:<br>\r\n1. D# Minor (Original Pitch) [turned on by default]<br>\r\n2. E Minor (Custom Pitch)<br>\r\n<br>\r\nThere are also customizable versions for this song that you can adjust in the song's txt file:<br>\r\n1. Enables Voice Clip, but at the cost of SMW-Compatibility<br>\r\n2. Disables Voice Clip (turned on default)<br>\r\n",
+  "latest_version": "smwc-32288-1674924707",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32288,
+      "title": "Mega Man X3 - Lost Love in the Sewers ~ Toxic Seahorse (Remix)",
+      "version": "smwc-32288-1674924707",
+      "upstream_time": 1674924707,
+      "download_url": "https://dl.smwcentral.net/32288/Lost%20Love%20in%20the%20Sewers.zip",
+      "filename": "Lost Love in the Sewers.zip",
+      "size": 200514,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-ms-gg-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8541,
+  "title": "Sonic the Hedgehog (MS/GG) - Boss Battle",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "A 16-bit arrangement of the jazzy song that plays during boss battles in the 8-bit version of Sonic 1",
+  "latest_version": "smwc-8541-1396516081",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8541,
+      "title": "Sonic the Hedgehog (MS/GG) - Boss Battle",
+      "version": "smwc-8541-1396516081",
+      "upstream_time": 1396516081,
+      "download_url": "https://dl.smwcentral.net/8541/Boss%20Battle.zip",
+      "filename": "Boss Battle.zip",
+      "size": 63982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-exploding-death",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40791,
+  "title": "Exploding Death",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "animation",
+    "death",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This will make the player explode rather than the normal death animation.<br>\r\n<br>\r\nUse in either the level(s) you want it to apply or in gamemode 14 to make it apply to every level.<br>\r\n<br>\r\n<br>\r\nRequested (sort of) by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span>.",
+  "latest_version": "smwc-40791-1760469992",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40791,
+      "title": "Exploding Death",
+      "version": "smwc-40791-1760469992",
+      "upstream_time": 1760469992,
+      "download_url": "https://dl.smwcentral.net/40791/Exploding%20Death.zip",
+      "filename": "Exploding Death.zip",
+      "size": 851,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

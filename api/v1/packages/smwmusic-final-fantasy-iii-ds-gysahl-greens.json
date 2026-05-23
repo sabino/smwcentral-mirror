@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-iii-ds-gysahl-greens",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35064,
+  "title": "Final Fantasy III (DS) - Gysahl Greens",
+  "authors": [
+    "Alex"
+  ],
+  "tags": [
+    "forest",
+    "overworld",
+    "town"
+  ],
+  "description": "Could fit in forest levels, puzzles areas, villages, or any kind of happy ambiences. ",
+  "latest_version": "smwc-35064-1697144036",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35064,
+      "title": "Final Fantasy III (DS) - Gysahl Greens",
+      "version": "smwc-35064-1697144036",
+      "upstream_time": 1697144036,
+      "download_url": "https://dl.smwcentral.net/35064/Final%20Fantasy%20III%20%28DS%29%20-%20Village_of_Gysahl.zip",
+      "filename": "Final Fantasy III (DS) - Village_of_Gysahl.zip",
+      "size": 29349,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

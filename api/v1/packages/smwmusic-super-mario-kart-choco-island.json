@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-mario-kart-choco-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32629,
+  "title": "Super Mario Kart - Choco Island",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "grassland"
+  ],
+  "description": "Requested by MKDSmaster91.",
+  "latest_version": "smwc-32629-1675294237",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32629,
+      "title": "Super Mario Kart - Choco Island",
+      "version": "smwc-32629-1675294237",
+      "upstream_time": 1675294237,
+      "download_url": "https://dl.smwcentral.net/32629/15%20Choco%20Island.zip",
+      "filename": "15 Choco Island.zip",
+      "size": 49742,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14029,
+      "title": "Super Mario Kart - Choco Island",
+      "version": "smwc-14029-1469989894",
+      "upstream_time": 1469989894,
+      "download_url": "https://dl.smwcentral.net/14029/Choco%20Island.zip",
+      "filename": "Choco Island.zip",
+      "size": 31889,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-front-mission-gun-hazard-the-president-s-deadly-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37198,
+  "title": "Front Mission: Gun Hazard - The President's Deadly Fight",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "boss",
+    "cutscene"
+  ],
+  "description": "The tense song that plays when President Orwen attacks Ark at the end of Orobos in Gun Hazard.",
+  "latest_version": "smwc-37198-1709503458",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37198,
+      "title": "Front Mission: Gun Hazard - The President's Deadly Fight",
+      "version": "smwc-37198-1709503458",
+      "upstream_time": 1709503458,
+      "download_url": "https://dl.smwcentral.net/37198/Deadly%20Fight.zip",
+      "filename": "Deadly Fight.zip",
+      "size": 69761,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

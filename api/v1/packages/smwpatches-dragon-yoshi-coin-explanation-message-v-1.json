@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-dragon-yoshi-coin-explanation-message-v-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19159,
+  "title": "Dragon/Yoshi Coin Explanation Message v.1.2",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "sa-1",
+    "yoshi coin"
+  ],
+  "description": "Applying this patch will make it so that when collecting a Dragon Coin for first time, it displays a specified message, much like the Flowers in Yoshi's Island.<br>\r\nMore information in the included \"Readme.txt\".<br>\r\nThis version no longer uses SRAM Expand, but uses one byte of FreeRAM. The option to change it is removed, as it must be the specific address it uses in order to work.",
+  "latest_version": "smwc-19159-1550734905",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19159,
+      "title": "Dragon/Yoshi Coin Explanation Message v.1.2",
+      "version": "smwc-19159-1550734905",
+      "upstream_time": 1550734905,
+      "download_url": "https://dl.smwcentral.net/19159/Dragon-Yoshi%20Coin%20Explanation%20Message%20v.1.2.zip",
+      "filename": "Dragon-Yoshi Coin Explanation Message v.1.2.zip",
+      "size": 1779,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

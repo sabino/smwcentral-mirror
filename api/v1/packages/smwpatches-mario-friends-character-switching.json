@@ -1,0 +1,42 @@
+{
+  "name": "smwpatches-mario-friends-character-switching",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 31311,
+  "title": "Mario & Friends Character Switching",
+  "authors": [
+    "CircleFriendo"
+  ],
+  "tags": [
+    "abilities",
+    "asar 2 remoderation",
+    "boost",
+    "dynamic",
+    "jump",
+    "lorom",
+    "physics",
+    "player",
+    "pose",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch allows the player to switch between multiple characters using the L/R buttons. Each character has their own sprite, physics, and abilities.<br>\r\n<br>\r\nIncludes Mario, Luigi, Peach, Daisy, Wario, and Waluigi.<br>\r\n<br>\r\nMario has standard controls. Luigi has floaty jumps and a ground pound. Daisy has shorter jumps with a flutter jump. Peach is slow but accelerates fast and floats. Wario is heavy and can dash. Waluigi has short floaty jumps and a boost jump.<br>\r\n<br>\r\nFeatured in Mario & Friends: The Ghost's Gallery, a HackJam entry by sio_kedelic, HamOfJustice and CircleFriendo.",
+  "latest_version": "smwc-31311-1689600690",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 31311,
+      "title": "Mario & Friends Character Switching",
+      "version": "smwc-31311-1689600690",
+      "upstream_time": 1689600690,
+      "download_url": "https://dl.smwcentral.net/31311/Mario%20and%20Friends.zip",
+      "filename": "Mario and Friends.zip",
+      "size": 121417,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

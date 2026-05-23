@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-8-digits-score",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 22850,
+  "title": "8 Digits Score",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "counter",
+    "lorom",
+    "sa-1",
+    "score",
+    "speedup"
+  ],
+  "description": "This patch sets the maximum number of digits in the score to 8 digits.<br>\r\nSince the decimal flag is used, the status display process becomes faster and the slowdown can be reduced a little.<br>\r\nYou can also add by one point.<br>\r\nHowever, since the score addition code changes,<br>\r\nWhen adding a custom block with GPS, copy the enclosed \"give_points.asm\" and paste it in the \"Routines\" folder.<br>\r\nJSL $009012 increases the score by the value of the 16-bit wide accumulator, resulting in an accumulator width of 8 bits.<br>\r\nAfter applying the patch, you can still use \"SMW Status Bar Editor\" normally.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-22850-1591825308",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 22850,
+      "title": "8 Digits Score",
+      "version": "smwc-22850-1591825308",
+      "upstream_time": 1591825308,
+      "download_url": "https://dl.smwcentral.net/22850/8digits_score.zip",
+      "filename": "8digits_score.zip",
+      "size": 1268,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-world-athletic-fever",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28011,
+  "title": "Super Mario World - Athletic Fever",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "carnival",
+    "grassland",
+    "overworld"
+  ],
+  "description": "The famous piano song we all love, now with extra samples.<br>\r\nIt also works like in vanilla smw with yoshi.",
+  "latest_version": "smwc-28011-1632522363",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28011,
+      "title": "Super Mario World - Athletic Fever",
+      "version": "smwc-28011-1632522363",
+      "upstream_time": 1632522363,
+      "download_url": "https://dl.smwcentral.net/28011/Athletic%20Fever.zip",
+      "filename": "Athletic Fever.zip",
+      "size": 129222,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

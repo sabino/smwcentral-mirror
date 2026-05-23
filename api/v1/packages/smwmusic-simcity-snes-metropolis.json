@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-simcity-snes-metropolis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26786,
+  "title": "SimCity (SNES) - Metropolis",
+  "authors": [
+    "K.T.B."
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "cave",
+    "industrial",
+    "mountain",
+    "overworld",
+    "urban"
+  ],
+  "description": "An abrasive and scratchy theme from SimCity. Composed by Soyo Oka.<br>\r\n<br>\r\nIt fit into an industrial setting, such as a factory or construction zone. It may also suit a mountain-climbing level.<br>\r\n<br>\r\nRequested by Segment1Zone2.",
+  "latest_version": "smwc-26786-1621059419",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26786,
+      "title": "SimCity (SNES) - Metropolis",
+      "version": "smwc-26786-1621059419",
+      "upstream_time": 1621059419,
+      "download_url": "https://dl.smwcentral.net/26786/KTB__simcitymetro.zip",
+      "filename": "KTB__simcitymetro.zip",
+      "size": 47589,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-sprite-ceiling-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14697,
+  "title": "Sprite Ceiling Fix",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "ceiling",
+    "lorom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "This patch fixes a glitch in which the Spiny Egg, Hopping Flame, Monty Mole, Bowser Statue, Dino Rhino, Dino Torch and Ninji come in contact with the ceiling and pass through it without falling down.<br>\r\n<br>\r\nAdds a ceiling check to those sprites so they fall down after coming in contact with the ceiling.<br>\r\n<br>\r\nMore details in the readme.",
+  "latest_version": "smwc-14697-1481250792",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14697,
+      "title": "Sprite Ceiling Fix",
+      "version": "smwc-14697-1481250792",
+      "upstream_time": 1481250792,
+      "download_url": "https://dl.smwcentral.net/14697/Sprite%20Ceiling%20Fix.zip",
+      "filename": "Sprite Ceiling Fix.zip",
+      "size": 1829,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

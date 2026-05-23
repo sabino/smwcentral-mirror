@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-tilt-n-tumble-underground-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16817,
+  "title": "Kirby Tilt 'n Tumble - Underground Stage",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "bonus",
+    "cave"
+  ],
+  "description": "Requested by Tob.<br>\r\n<br>\r\nThe very laid-back theme from the Underground Stage of Kirby Tilt 'n Tumble. This could be used both as a cave stage theme and as a bonus theme, once again, it's up to you to what scenario you think is best<br>\r\n<br>\r\nAlso, be careful with some of SFX, because they don't seem to work too well due to the noise channel being used here",
+  "latest_version": "smwc-16817-1514600595",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16817,
+      "title": "Kirby Tilt 'n Tumble - Underground Stage",
+      "version": "smwc-16817-1514600595",
+      "upstream_time": 1514600595,
+      "download_url": "https://dl.smwcentral.net/16817/Kirby%20Tilt%20%27n%20Tumble%20-%20Underground%20Stage.zip",
+      "filename": "Kirby Tilt %27n Tumble - Underground Stage.zip",
+      "size": 21562,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

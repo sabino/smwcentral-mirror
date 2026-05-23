@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-maker-smb3-desert-fanmade",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15990,
+  "title": "Super Mario Maker - SMB3 Desert (Fanmade)",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "desert",
+    "overworld",
+    "ruins",
+    "submap"
+  ],
+  "description": "This is a 16-bit arrangement of <a href=\"https://www.youtube.com/watch?v=xZNhmQJjtHQ\" rel=\"nofollow\">this</a> fanmade desert level theme composed by u/lucaspucassix on Reddit.  This would be good for a desert level, or even as an alternative to the original SMB3 World 2 map theme since it's based on that.",
+  "latest_version": "smwc-15990-1502389450",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15990,
+      "title": "Super Mario Maker - SMB3 Desert (Fanmade)",
+      "version": "smwc-15990-1502389450",
+      "upstream_time": 1502389450,
+      "download_url": "https://dl.smwcentral.net/15990/SMM%20SMB3%20Desert.zip",
+      "filename": "SMM SMB3 Desert.zip",
+      "size": 31670,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

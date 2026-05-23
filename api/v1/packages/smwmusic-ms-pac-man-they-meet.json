@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-ms-pac-man-they-meet",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39421,
+  "title": "Ms. Pac-Man - They Meet",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "Music that plays for Act 1 of Ms. Pac-Man.<br>\r\n<br>\r\n#define TUNING 1 will play the arcade tuning.<br>\r\n#define TUNING 0 (or any other number) will play the standard tuning.",
+  "latest_version": "smwc-39421-1748369307",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39421,
+      "title": "Ms. Pac-Man - They Meet",
+      "version": "smwc-39421-1748369307",
+      "upstream_time": 1748369307,
+      "download_url": "https://dl.smwcentral.net/39421/Ms.%20Pac-Man%20-%20They%20Meet%20%28sampled%29..zip",
+      "filename": "Ms. Pac-Man - They Meet (sampled)..zip",
+      "size": 62467,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39420,
+      "title": "Ms. Pac-Man - They Meet",
+      "version": "smwc-39420-1748369212",
+      "upstream_time": 1748369212,
+      "download_url": "https://dl.smwcentral.net/39420/Ms.%20Pac-Man%20-%20They%20Meet%2C.zip",
+      "filename": "Ms. Pac-Man - They Meet%2C.zip",
+      "size": 61367,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

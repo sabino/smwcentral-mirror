@@ -1,0 +1,33 @@
+{
+  "name": "smwsprites-splitting-eating-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 21602,
+  "title": "Splitting Eating Block",
+  "authors": [
+    "dtothefourth"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is an adaptation of the vanilla eating block with a few fixes and an added split behavior.<br>\r\n<br>\r\nThe main addition is the splitting, which allows it to split off copies of itself when faced with multiple directions to go in, allowing it to potentially consume all possible blocks.<br>\r\n<br>\r\nAs part of that, the issue with the original sprite where it would get confused when faced with certainl choices of directions and fly off or go the wrong way has been corrected.<br>\r\n<br>\r\nThis means that even if you turn off the splitting option it will still always go properly towards a block to eat if there is one.<br>\r\n<br>\r\nFinally, once activated this sprite will not stop like the vanilla one would sometimes which lets it be used consistantly in more situations.<br>\r\n<br>\r\nJust note that letting too many of these go active can cause black lines at the top from too many block updates, but I staggered them so that each split should be updating blocks on a different group of frames and I haven't had any cases with lines in normal use.<br>\r\n<br>\r\nUses a byte of freeRAM to maintain a count of how many exist, this can be ignored/removed if not using the split option.",
+  "latest_version": "smwc-21602-1576832227",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 21602,
+      "title": "Splitting Eating Block",
+      "version": "smwc-21602-1576832227",
+      "upstream_time": 1576832227,
+      "download_url": "https://dl.smwcentral.net/21602/SplittingSnake.zip",
+      "filename": "SplittingSnake.zip",
+      "size": 4724,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

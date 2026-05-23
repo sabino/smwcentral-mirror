@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-chrono-trigger-remains-of-the-factory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21655,
+  "title": "Chrono Trigger - Remains of the Factory",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "industrial",
+    "ruins"
+  ],
+  "description": "Could fit a factory or ruins.<br>\r\n<br>\r\nNote: not compatible with thunder sfx/Blarggs.",
+  "latest_version": "smwc-21655-1576734520",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21655,
+      "title": "Chrono Trigger - Remains of the Factory",
+      "version": "smwc-21655-1576734520",
+      "upstream_time": 1576734520,
+      "download_url": "https://dl.smwcentral.net/21655/210%20Remains%20of%20the%20Factory.zip",
+      "filename": "210 Remains of the Factory.zip",
+      "size": 71792,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13968,
+      "title": "Chrono Trigger - Remains of the Factory",
+      "version": "smwc-13968-1469763051",
+      "upstream_time": 1469763051,
+      "download_url": "https://dl.smwcentral.net/13968/Remains%20of%20the%20Factory.zip",
+      "filename": "Remains of the Factory.zip",
+      "size": 31585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

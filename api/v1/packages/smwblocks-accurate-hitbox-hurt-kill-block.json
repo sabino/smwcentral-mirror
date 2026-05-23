@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-accurate-hitbox-hurt-kill-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41170,
+  "title": "Accurate Hitbox Hurt/Kill Block",
+  "authors": [
+    "dacin"
+  ],
+  "tags": [
+    "hurt",
+    "lorom",
+    "player",
+    "sa-1",
+    "sprite",
+    "yoshi"
+  ],
+  "description": "A hurt / death block with proper hitbox, meant to be used for kaizo / pit hacks.<br>\r\n<br>\r\nTypical Blockreator hurt / death blocks use the coin hitbox, which differs from the vanilla muncher / cement block / spikes hitbox in two ways:<br>\r\n1) the coin hitbox is 1 pixel wider on each side<br>\r\n2) the top edge of a muncher doesn't hurt you when moving upward<br>\r\nThese differences are very apparent in kaizo / pit hacks and can be frustrating for the player. This block fixes both of them.<br>\r\n<br>\r\nIncludes the following configuration options:<br>\r\n- hurt / instant death<br>\r\n- solid / passable for sprites<br>\r\n- walk on top with Yoshi<br>\r\n- disable wall running<br>\r\n",
+  "latest_version": "smwc-41170-1764462637",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41170,
+      "title": "Accurate Hitbox Hurt/Kill Block",
+      "version": "smwc-41170-1764462637",
+      "upstream_time": 1764462637,
+      "download_url": "https://dl.smwcentral.net/41170/kaizo_pit_hurt_death%20asar2.zip",
+      "filename": "kaizo_pit_hurt_death asar2.zip",
+      "size": 1306,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

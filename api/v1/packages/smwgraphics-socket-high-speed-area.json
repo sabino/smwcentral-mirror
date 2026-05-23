@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-socket-high-speed-area",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 40748,
+  "title": "Socket - High Speed Area 4",
+  "authors": [
+    "NopeContest"
+  ],
+  "tags": [
+    "city",
+    "night"
+  ],
+  "description": "An animated city at night background from Socket (aka Time Dominator).",
+  "latest_version": "smwc-40748-1760113688",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 40748,
+      "title": "Socket - High Speed Area 4",
+      "version": "smwc-40748-1760113688",
+      "upstream_time": 1760113688,
+      "download_url": "https://dl.smwcentral.net/40748/hsa4.zip",
+      "filename": "hsa4.zip",
+      "size": 5938,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 31647,
+      "title": "Socket - High Speed Area 2",
+      "version": "smwc-31647-1658946774",
+      "upstream_time": 1658946774,
+      "download_url": "https://dl.smwcentral.net/31647/highspeedarea2.zip",
+      "filename": "highspeedarea2.zip",
+      "size": 5927,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

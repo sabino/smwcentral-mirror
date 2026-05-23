@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-werewolf-the-last-warrior-werewolf-s-power",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31569,
+  "title": "Werewolf: The Last Warrior - Werewolf's Power",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "dark",
+    "retro",
+    "spooky"
+  ],
+  "description": "The Stage Theme from Werewolf: The Last Warrior used when transformed into the Werewolf Form.<br>\r\n<br>\r\nThere is a define in the txt file to change between the default and JP versions, which only switches the Tom DPCM sample.",
+  "latest_version": "smwc-31569-1663858158",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31569,
+      "title": "Werewolf: The Last Warrior - Werewolf's Power",
+      "version": "smwc-31569-1663858158",
+      "upstream_time": 1663858158,
+      "download_url": "https://dl.smwcentral.net/31569/Werewolf%20-%20The%20Last%20Warrior%20-%20Werewolf%27s%20Power.zip",
+      "filename": "Werewolf - The Last Warrior - Werewolf%27s Power.zip",
+      "size": 127753,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

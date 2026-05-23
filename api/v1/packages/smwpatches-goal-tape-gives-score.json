@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-goal-tape-gives-score",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19058,
+  "title": "Goal Tape Gives Score",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "goal",
+    "goal point",
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This simple patch makes goal tape give score on hit, instead of bonus stars.<br>\r\n<br>\r\nCredit is unecessary. Requested by zacmario.",
+  "latest_version": "smwc-19058-1549966443",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19058,
+      "title": "Goal Tape Gives Score",
+      "version": "smwc-19058-1549966443",
+      "upstream_time": 1549966443,
+      "download_url": "https://dl.smwcentral.net/19058/GoalTapeGiveScore.zip",
+      "filename": "GoalTapeGiveScore.zip",
+      "size": 614,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

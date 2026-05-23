@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-extended-sprite-sfx",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12431,
+  "title": "Extended Sprite SFX",
+  "authors": [
+    "Buu"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "extended sprites",
+    "lorom",
+    "sa-1",
+    "sfx"
+  ],
+  "description": "This patch adds sound effects to most extended sprites. Check out the readme and sfxlist if you wanna edit the sounds but don't know much ASM.",
+  "latest_version": "smwc-12431-1459352315",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12431,
+      "title": "Extended Sprite SFX",
+      "version": "smwc-12431-1459352315",
+      "upstream_time": 1459352315,
+      "download_url": "https://dl.smwcentral.net/12431/ExSpriteSFX.zip",
+      "filename": "ExSpriteSFX.zip",
+      "size": 4324,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

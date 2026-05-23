@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-earthquake",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 16105,
+  "title": "Earthquake",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "earthquake",
+    "layer 1",
+    "lorom",
+    "sa-1",
+    "screen",
+    "shake"
+  ],
+  "description": "This code will cause the ground to continuously shake. It can be set to play a sound effect, too.<br>\r\n<br>\r\nCheck the ASM file for customization options.",
+  "latest_version": "smwc-16105-1503762121",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 16105,
+      "title": "Earthquake",
+      "version": "smwc-16105-1503762121",
+      "upstream_time": 1503762121,
+      "download_url": "https://dl.smwcentral.net/16105/quake.zip",
+      "filename": "quake.zip",
+      "size": 371,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-battle-gym-leader",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41753,
+  "title": "Pokémon Red/Blue/Yellow - Battle! Gym Leader",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "retro",
+    "tense"
+  ],
+  "description": "Vs. Gym Leader from Pokémon Red/Blue/Yellow.",
+  "latest_version": "smwc-41753-1773980914",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41753,
+      "title": "Pokémon Red/Blue/Yellow - Battle! Gym Leader",
+      "version": "smwc-41753-1773980914",
+      "upstream_time": 1773980914,
+      "download_url": "https://dl.smwcentral.net/41753/Pokemon%20RBY%20-%20Vs.%20Gym%20Leader.zip",
+      "filename": "Pokemon RBY - Vs. Gym Leader.zip",
+      "size": 36491,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

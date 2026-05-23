@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-maplestory-wolf-wood",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39570,
+  "title": "MapleStory - Wolf Wood",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "ambient",
+    "dark",
+    "forest",
+    "mountain",
+    "night",
+    "snow",
+    "spooky",
+    "tense"
+  ],
+  "description": "Ambient music that plays in Wolf Territory and Forest of Dead Trees in the El Nath map.<br>\r\n<br>\r\nMake sure to copypaste the provided sample group to Addmusic_sample groups.txt. Instrument @7 (which plays in Bonus End global song) has been omitted.",
+  "latest_version": "smwc-39570-1748300216",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39570,
+      "title": "MapleStory - Wolf Wood",
+      "version": "smwc-39570-1748300216",
+      "upstream_time": 1748300216,
+      "download_url": "https://dl.smwcentral.net/39570/MapleStory%20-%20Wolf%20Wood.zip",
+      "filename": "MapleStory - Wolf Wood.zip",
+      "size": 98461,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

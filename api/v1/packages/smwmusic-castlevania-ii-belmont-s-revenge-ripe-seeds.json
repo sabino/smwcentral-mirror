@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castlevania-ii-belmont-s-revenge-ripe-seeds",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26659,
+  "title": "Castlevania II: Belmont's Revenge - Ripe Seeds",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "forest"
+  ],
+  "description": "Song that Ripe Seeds from Castlevania II: Belmont's Revenge. Could fit a castle.",
+  "latest_version": "smwc-26659-1619587307",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26659,
+      "title": "Castlevania II: Belmont's Revenge - Ripe Seeds",
+      "version": "smwc-26659-1619587307",
+      "upstream_time": 1619587307,
+      "download_url": "https://dl.smwcentral.net/26659/Ripe%20Seeds.zip",
+      "filename": "Ripe Seeds.zip",
+      "size": 31867,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

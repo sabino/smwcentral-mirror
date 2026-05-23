@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-winter-gold-fx-downhill",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41522,
+  "title": "Winter Gold FX - Downhill",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "bonus",
+    "mountain",
+    "upbeat"
+  ],
+  "description": "An old port I found dated 14 Mar 2020. It is an unsampled version of my other port.",
+  "latest_version": "smwc-41522-1772325495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41522,
+      "title": "Winter Gold FX - Downhill",
+      "version": "smwc-41522-1772325495",
+      "upstream_time": 1772325495,
+      "download_url": "https://dl.smwcentral.net/41522/04%20Downhill%20U.zip",
+      "filename": "04 Downhill U.zip",
+      "size": 35680,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32651,
+      "title": "Winter Gold FX - Downhill",
+      "version": "smwc-32651-1672670580",
+      "upstream_time": 1672670580,
+      "download_url": "https://dl.smwcentral.net/32651/wintergold-downhill.zip",
+      "filename": "wintergold-downhill.zip",
+      "size": 72467,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

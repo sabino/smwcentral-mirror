@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-sanae-kochiya",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 33978,
+  "title": "Sanae Kochiya",
+  "authors": [
+    "fds"
+  ],
+  "tags": [
+    "female"
+  ],
+  "description": "Player graphics of Sanae Kochiya from Touhou Project.<br>\r\n<br>\r\nThe Player 2 palette is Reimu Hakurei.<br>\r\nThe fire palettes for each player are white haired \"Mokou\" Sanae and PC-98 Reimu respectively.<br>\r\n<br>\r\nIncludes the following files:<br>\r\n- GFX00.bin  (Big player extra sprites)<br>\r\n- GFX10.bin  (Map player)<br>\r\n- GFX22.bin  (Small kiss blush)<br>\r\n- GFX24.bin  (Big kiss blush)<br>\r\n- GFX28.bin  (Hud text: \"SANAE\" & \"REIMU\")<br>\r\n- GFX32.bin  (Player graphics)<br>\r\n- sanae_shared.pal  (Shared player palette)<br>\r\n<br>\r\n- yoshi_ow_fix.pal  (Fix for Yoshi's overworld palette. To apply, import to every overworld submap using the Green Star + Red Arrow button in Lunar Magic)<br>\r\n<br>\r\nPlease note that the art style is not \"smw styled\", so it may not be entirely accurate to vanilla.<br>\r\n<br>\r\n<br>\r\nIf you just want to play vanilla smw as Sanae, consider using <a href=\"https://bin.smwcentral.net/u/51994/sanae_v1.bps\" rel=\"nofollow\"> this \"Super Sanae World\" bps patch </a> instead. It has been patched to fix all text and adds other Sanae-related gfx changes (custom title screen & \"The End\" picture)",
+  "latest_version": "smwc-33978-1684632960",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 33978,
+      "title": "Sanae Kochiya",
+      "version": "smwc-33978-1684632960",
+      "upstream_time": 1684632960,
+      "download_url": "https://dl.smwcentral.net/33978/sanae.zip",
+      "filename": "sanae.zip",
+      "size": 23333,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

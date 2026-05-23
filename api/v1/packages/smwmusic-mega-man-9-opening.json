@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-9-opening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7418,
+  "title": "Mega Man 9 - Opening 1",
+  "authors": [
+    "Jimmy"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "title"
+  ],
+  "description": "The song played at the very beginning of Mega Man 9. Great for the Title Screen, intro level, or a submap.",
+  "latest_version": "smwc-7418-1311971968",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7418,
+      "title": "Mega Man 9 - Opening 1",
+      "version": "smwc-7418-1311971968",
+      "upstream_time": 1311971968,
+      "download_url": "https://dl.smwcentral.net/7418/Mega%20Man%209%20-%20Intro.zip",
+      "filename": "Mega Man 9 - Intro.zip",
+      "size": 67222,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-ledge-dwelling-mega-mole",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16660,
+  "title": "Ledge-Dwelling Mega Mole",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "mega mole",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A mega mole that spawns a-la ledge-dwelling monty mole.",
+  "latest_version": "smwc-16660-1511293138",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16660,
+      "title": "Ledge-Dwelling Mega Mole",
+      "version": "smwc-16660-1511293138",
+      "upstream_time": 1511293138,
+      "download_url": "https://dl.smwcentral.net/16660/Ledge-Dwelling_Mega_Mole.zip",
+      "filename": "Ledge-Dwelling_Mega_Mole.zip",
+      "size": 4120,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

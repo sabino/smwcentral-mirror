@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-explosive-wiggler",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39438,
+  "title": "Explosive Wiggler",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "explode",
+    "exploding",
+    "lorom",
+    "sa-1",
+    "wiggler"
+  ],
+  "description": "This is a wiggler that will explode in angry state. It can explode one segment at a time or whole.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span> during Winter C3 2023.",
+  "latest_version": "smwc-39438-1750452212",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39438,
+      "title": "Explosive Wiggler",
+      "version": "smwc-39438-1750452212",
+      "upstream_time": 1750452212,
+      "download_url": "https://dl.smwcentral.net/39438/ExplosiveWiggler.zip",
+      "filename": "ExplosiveWiggler.zip",
+      "size": 8539,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

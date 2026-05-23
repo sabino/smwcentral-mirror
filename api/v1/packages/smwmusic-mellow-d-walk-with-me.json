@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mellow-d-walk-with-me",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37552,
+  "title": "mellow-d - Walk With Me",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract",
+    "athletic"
+  ],
+  "description": "Walk With Me by Jaakko 'mellow-d' Manninen.<br>\r\n<br>\r\nFor this port, I cut Sample20, which gets rid of the loud mechanical noise at the end present in the original.<br>\r\n<br>\r\nOmits SMW Thunder.",
+  "latest_version": "smwc-37552-1716051806",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37552,
+      "title": "mellow-d - Walk With Me",
+      "version": "smwc-37552-1716051806",
+      "upstream_time": 1716051806,
+      "download_url": "https://dl.smwcentral.net/37552/mellow-d%20-%20Walk%20With%20Me.zip",
+      "filename": "mellow-d - Walk With Me.zip",
+      "size": 112278,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

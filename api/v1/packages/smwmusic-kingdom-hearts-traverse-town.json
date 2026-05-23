@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kingdom-hearts-traverse-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7276,
+  "title": "Kingdom Hearts - Traverse Town",
+  "authors": [
+    "Supertails"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "town"
+  ],
+  "description": "A peaceful, somewhat upbeat and whimsical tune from Kingdom Hearts.",
+  "latest_version": "smwc-7276-1318572204",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7276,
+      "title": "Kingdom Hearts - Traverse Town",
+      "version": "smwc-7276-1318572204",
+      "upstream_time": 1318572204,
+      "download_url": "https://dl.smwcentral.net/7276/traversetown.zip",
+      "filename": "traversetown.zip",
+      "size": 66483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

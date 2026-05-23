@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-asterix-obelix-desert-camp",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34753,
+  "title": "Asterix & Obelix - Desert Camp",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "desert",
+    "temple",
+    "tense"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nGood for intense pyramid sections like escaping or fighting a boss.",
+  "latest_version": "smwc-34753-1691404750",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34753,
+      "title": "Asterix & Obelix - Desert Camp",
+      "version": "smwc-34753-1691404750",
+      "upstream_time": 1691404750,
+      "download_url": "https://dl.smwcentral.net/34753/Asterix%20and%20Obelix%20-%2021%20Desert%20Camp.zip",
+      "filename": "Asterix and Obelix - 21 Desert Camp.zip",
+      "size": 73890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-run-on-water",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3809,
+  "title": "Run On Water",
+  "authors": [
+    "S.L"
+  ],
+  "tags": [
+    "jesus",
+    "lorom",
+    "sa-1",
+    "water",
+    "wtf"
+  ],
+  "description": "A block that if the player runs above at max speed, it is solid. Otherwise, it is water that the player can swim through.",
+  "latest_version": "smwc-3809-1409415586",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3809,
+      "title": "Run On Water",
+      "version": "smwc-3809-1409415586",
+      "upstream_time": 1409415586,
+      "download_url": "https://dl.smwcentral.net/3809/Run%20On%20Water.zip",
+      "filename": "Run On Water.zip",
+      "size": 362,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

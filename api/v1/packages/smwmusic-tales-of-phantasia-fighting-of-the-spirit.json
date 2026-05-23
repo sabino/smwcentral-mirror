@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-tales-of-phantasia-fighting-of-the-spirit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8001,
+  "title": "Tales of Phantasia - Fighting of the Spirit",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "A fast paced song from Tales of Phantasia. Could fit a boss.",
+  "latest_version": "smwc-8001-1318278329",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8001,
+      "title": "Tales of Phantasia - Fighting of the Spirit",
+      "version": "smwc-8001-1318278329",
+      "upstream_time": 1318278329,
+      "download_url": "https://dl.smwcentral.net/8001/Tales%20of%20Phantasia%20-%20%27Fighting%20of%20the%20Spirit%27%20%5BSampled%5D.zip",
+      "filename": "Tales of Phantasia - %27Fighting of the Spirit%27 %5BSampled%5D.zip",
+      "size": 59198,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7671,
+      "title": "Tales of Phantasia - Fighting of the Spirit",
+      "version": "smwc-7671-1325402611",
+      "upstream_time": 1325402611,
+      "download_url": "https://dl.smwcentral.net/7671/Tales%20of%20Phantasia%20-%20Fighting%20of%20the%20Spirit.zip",
+      "filename": "Tales of Phantasia - Fighting of the Spirit.zip",
+      "size": 44314,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

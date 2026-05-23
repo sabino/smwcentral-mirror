@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-basic-teleport-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41144,
+  "title": "Basic Teleport Block",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "A simple teleport block. Cam be made to use the screen exit or to use a hardcoded location.",
+  "latest_version": "smwc-41144-1764371402",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41144,
+      "title": "Basic Teleport Block",
+      "version": "smwc-41144-1764371402",
+      "upstream_time": 1764371402,
+      "download_url": "https://dl.smwcentral.net/41144/teleport.zip",
+      "filename": "teleport.zip",
+      "size": 524,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

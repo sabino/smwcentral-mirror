@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-sleepy-bomb",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19375,
+  "title": "Sleepy Bomb",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "bob-omb",
+    "enemy",
+    "explode",
+    "lorom",
+    "sa-1",
+    "sicko mode"
+  ],
+  "description": "This bomb will be peacefully sleeping until you come close to it at a configurable distance, which will cause it to wake up and go Sicko Mode.<br>\r\n",
+  "latest_version": "smwc-19375-1553030152",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19375,
+      "title": "Sleepy Bomb",
+      "version": "smwc-19375-1553030152",
+      "upstream_time": 1553030152,
+      "download_url": "https://dl.smwcentral.net/19375/Bomb%20whom%20sleeps.zip",
+      "filename": "Bomb whom sleeps.zip",
+      "size": 4759,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

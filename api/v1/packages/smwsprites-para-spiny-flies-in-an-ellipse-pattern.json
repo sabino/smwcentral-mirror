@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-para-spiny-flies-in-an-ellipse-pattern",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42179,
+  "title": "Para-spiny, Flies in an Ellipse Pattern",
+  "authors": [
+    "Arinsu",
+    "Koopster"
+  ],
+  "tags": [
+    "enemy",
+    "flying",
+    "lorom",
+    "sa-1",
+    "spiny"
+  ],
+  "description": "A winged Spiny which flies in an elliptic range (can also be circular), controlled by the extra bytes.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Koopster\"><span title=\"Koopster donated $5.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=17663\" style=\"color: #2abc49;\" class=\"un\">Koopster</a></span> who made the graphics routine (and the original Para-spiny).",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42179,
+      "title": "Para-spiny, Flies in an Ellipse Pattern",
+      "version": "V1.0.1",
+      "upstream_time": 1777647176,
+      "download_url": "https://dl.smwcentral.net/42179/Elliptic%20Para-Spiny.zip",
+      "filename": "Elliptic Para-Spiny.zip",
+      "size": 3141,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

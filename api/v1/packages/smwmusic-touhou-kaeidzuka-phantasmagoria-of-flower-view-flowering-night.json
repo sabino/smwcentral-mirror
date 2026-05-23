@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-kaeidzuka-phantasmagoria-of-flower-view-flowering-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7431,
+  "title": "Touhou Kaeidzuka ~ Phantasmagoria of Flower View - Flowering Night",
+  "authors": [
+    "Kipernal"
+  ],
+  "tags": [
+    "athletic",
+    "boss"
+  ],
+  "description": "An upbeat hectic theme from Touhou 9. Fits well in an athletic stage or a boss.<br>\r\n<br>\r\nUpdate (09/27/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 327 bytes.",
+  "latest_version": "smwc-7431-1325400087",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7431,
+      "title": "Touhou Kaeidzuka ~ Phantasmagoria of Flower View - Flowering Night",
+      "version": "smwc-7431-1325400087",
+      "upstream_time": 1325400087,
+      "download_url": "https://dl.smwcentral.net/7431/Flowering.Night.zip",
+      "filename": "Flowering.Night.zip",
+      "size": 63921,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

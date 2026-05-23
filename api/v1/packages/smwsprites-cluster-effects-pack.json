@@ -1,0 +1,47 @@
+{
+  "name": "smwsprites-cluster-effects-pack",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30466,
+  "title": "Cluster Effects Pack",
+  "authors": [
+    "Ladida"
+  ],
+  "tags": [
+    "desert",
+    "effect",
+    "fish",
+    "flower",
+    "flowers",
+    "leaf",
+    "leaves",
+    "lorom",
+    "rain",
+    "rain drop",
+    "sa-1",
+    "sand",
+    "snow",
+    "underwater",
+    "water",
+    "wind"
+  ],
+  "description": "Special effects to be inserted as cluster sprites, to spice up any level. Included are falling leaves, rain, fish, and sandstorm. See the readme for more info.<br>\r\n<br>\r\nUpdate 3/29/2020: This now comes with .json files and I added to cluster folder to insert easily.<br>\r\n<br>\r\nUpdate 4/12/2022: Restored old readme and archive structure, made the spawner use extra byte (effectively merging all jsons) and provided an alternative uberASM version.",
+  "latest_version": "smwc-30466-1659259472",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30466,
+      "title": "Cluster Effects Pack",
+      "version": "smwc-30466-1659259472",
+      "upstream_time": 1659259472,
+      "download_url": "https://dl.smwcentral.net/30466/ClusterEffectsV1.1.1.zip",
+      "filename": "ClusterEffectsV1.1.1.zip",
+      "size": 8457,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

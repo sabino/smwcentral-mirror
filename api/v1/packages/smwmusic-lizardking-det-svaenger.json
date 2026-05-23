@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lizardking-det-svaenger",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39273,
+  "title": "Lizardking - Det Svaenger",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Unused port made for BEET JAM",
+  "latest_version": "smwc-39273-1742743480",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39273,
+      "title": "Lizardking - Det Svaenger",
+      "version": "smwc-39273-1742743480",
+      "upstream_time": 1742743480,
+      "download_url": "https://dl.smwcentral.net/39273/Det%20Svaenger.zip",
+      "filename": "Det Svaenger.zip",
+      "size": 107688,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-peach-world-bottomless",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25630,
+  "title": "Super Peach World - Bottomless",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "upbeat"
+  ],
+  "description": "The bonus/night theme from my hack Super Peach World. <br>\r\nCould fit any night and/or athletic levels.<br>\r\nSupports Yoshi Drums!<br>\r\nPlease credit if you use this :)",
+  "latest_version": "smwc-25630-1610327200",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25630,
+      "title": "Super Peach World - Bottomless",
+      "version": "smwc-25630-1610327200",
+      "upstream_time": 1610327200,
+      "download_url": "https://dl.smwcentral.net/25630/SPW_-_Bottomless.zip",
+      "filename": "SPW_-_Bottomless.zip",
+      "size": 90103,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

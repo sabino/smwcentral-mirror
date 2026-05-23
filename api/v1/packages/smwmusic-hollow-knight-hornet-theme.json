@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-hollow-knight-hornet-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29154,
+  "title": "Hollow Knight - Hornet Theme",
+  "authors": [
+    "Beruga1990"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "ghost house",
+    "ruins",
+    "spooky",
+    "temple"
+  ],
+  "description": "Since I love the game \"Hollow Knight\" and its soundtrack by Christopher Larkin, I wanted to create a port of it. It's \"Hornet's Theme\", which is played in the first boss fight against Hornet. I also submitted this port to the Super Famicompo 3, which reached 46th place out of 67.",
+  "latest_version": "smwc-29154-1643602400",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29154,
+      "title": "Hollow Knight - Hornet Theme",
+      "version": "smwc-29154-1643602400",
+      "upstream_time": 1643602400,
+      "download_url": "https://dl.smwcentral.net/29154/Hollow%20Knight%20-%20Hornet%20Theme.zip",
+      "filename": "Hollow Knight - Hornet Theme.zip",
+      "size": 35174,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

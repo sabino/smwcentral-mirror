@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-double-dragon-1-nes-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11060,
+  "title": "Double Dragon 1 (NES) - Level 3 - Cave",
+  "authors": [
+    "nin10don't"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "overworld"
+  ],
+  "description": "Is A Music of Double Dragon 1 (NES) Level 3 for Cave levels",
+  "latest_version": "smwc-11060-1428079883",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11060,
+      "title": "Double Dragon 1 (NES) - Level 3 - Cave",
+      "version": "smwc-11060-1428079883",
+      "upstream_time": 1428079883,
+      "download_url": "https://dl.smwcentral.net/11060/Ddl3cave.zip",
+      "filename": "Ddl3cave.zip",
+      "size": 31369,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

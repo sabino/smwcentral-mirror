@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ashinaga-onii-san",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29172,
+  "title": "Ashinaga☆Onii-san - 錦鶯花吹雪",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "snow",
+    "tense"
+  ],
+  "description": "Originally ported for Super Famicompo 2021",
+  "latest_version": "smwc-29172-1643663545",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29172,
+      "title": "Ashinaga☆Onii-san - 錦鶯花吹雪",
+      "version": "smwc-29172-1643663545",
+      "upstream_time": 1643663545,
+      "download_url": "https://dl.smwcentral.net/29172/Ashinaga%20Oniisan%20-%20Nishiki%20Uguisu%20Hanafubuki.zip",
+      "filename": "Ashinaga Oniisan - Nishiki Uguisu Hanafubuki.zip",
+      "size": 145763,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

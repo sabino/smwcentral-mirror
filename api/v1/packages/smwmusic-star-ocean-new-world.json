@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-star-ocean-new-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28943,
+  "title": "Star Ocean - New World",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "title"
+  ],
+  "description": "An orchestral song from Star Ocean. Could be suitable for overworlds or title screens.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span><br>\r\n<br>\r\nUPDATE: At <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span>'s request, I made a second version without surround sound mode so that you can hear more than just 2 channels with a mono speaker.",
+  "latest_version": "smwc-28943-1643690686",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28943,
+      "title": "Star Ocean - New World",
+      "version": "smwc-28943-1643690686",
+      "upstream_time": 1643690686,
+      "download_url": "https://dl.smwcentral.net/28943/NewWorld.zip",
+      "filename": "NewWorld.zip",
+      "size": 98589,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

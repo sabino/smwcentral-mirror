@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tokimeki-memorial-central-park",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7823,
+  "title": "Tokimeki Memorial - Central Park",
+  "authors": [
+    "Opposable"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "From the SNES game. An overall peaceful song for your...peaceful levels?",
+  "latest_version": "smwc-7823-1312816700",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7823,
+      "title": "Tokimeki Memorial - Central Park",
+      "version": "smwc-7823-1312816700",
+      "upstream_time": 1312816700,
+      "download_url": "https://dl.smwcentral.net/7823/Central%20Park.zip",
+      "filename": "Central Park.zip",
+      "size": 66772,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

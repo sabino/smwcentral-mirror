@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-spanky-s-quest-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22090,
+  "title": "Spanky's Quest - City",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "urban"
+  ],
+  "description": "City from Spanky's Quest. Could fit urban levels as the name suggests, or an athletic level.<br>\r\n<br>\r\nKevinM's port of the Underwater song made me wanna check out the rest of the OST of Spanky's Quest, and as it turns out, the entire OST is just as good as that track is (which is to say VERY good) and nintspc supports this game so...",
+  "latest_version": "smwc-22090-1581961173",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22090,
+      "title": "Spanky's Quest - City",
+      "version": "smwc-22090-1581961173",
+      "upstream_time": 1581961173,
+      "download_url": "https://dl.smwcentral.net/22090/Spanky%27s%20Quest%20-%20City.zip",
+      "filename": "Spanky%27s Quest - City.zip",
+      "size": 54006,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

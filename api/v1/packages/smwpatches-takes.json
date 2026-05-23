@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-takes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18784,
+  "title": "\"Takes 5 fireballs to kill\" Work-around Patch",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "sa-1",
+    "sprites",
+    "tweak"
+  ],
+  "description": "This rather simple patch is a work-around inside the \"takes 5 fireballs to kill\" routine; by moving the \"fireball hit count\" to a freeRAM, it frees $1528,x from this use so sprites which use this particular sprite table do not have potential glitches when their tweak bit \"takes 5 fireballs to kill\" is enabled. Also, it can modify how many fireballs it takes to kill, for example, the Chargin' Chucks; see the defines at the top of the patch for more info.",
+  "latest_version": "smwc-18784-1547573452",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18784,
+      "title": "\"Takes 5 fireballs to kill\" Work-around Patch",
+      "version": "smwc-18784-1547573452",
+      "upstream_time": 1547573452,
+      "download_url": "https://dl.smwcentral.net/18784/fireballHPworkaround.zip",
+      "filename": "fireballHPworkaround.zip",
+      "size": 463,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-smash-bros-brawl-warioware-inc",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22862,
+  "title": "Super Smash Bros. Brawl - WarioWare Inc.",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "misc",
+    "switch palace",
+    "title"
+  ],
+  "description": "WarioWare Inc. from Super Smash Bros. Brawl. Honestly don't know where this one would fit, but you'll probably find a way to fit it in somewhere.<br>\r\n<br>\r\n<span style=\"font-size: 12pt;\">Not compatible with Thunder, Blarggs, Yoshis and the Bonus End song.</span>",
+  "latest_version": "smwc-22862-1589345605",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22862,
+      "title": "Super Smash Bros. Brawl - WarioWare Inc.",
+      "version": "smwc-22862-1589345605",
+      "upstream_time": 1589345605,
+      "download_url": "https://dl.smwcentral.net/22862/Super%20Smash%20Bros.%20Brawl%20-%20WarioWare%20Inc.zip",
+      "filename": "Super Smash Bros. Brawl - WarioWare Inc.zip",
+      "size": 83508,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

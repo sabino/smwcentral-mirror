@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-ultimate-chuck",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 21788,
+  "title": "Ultimate Chuck",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "chuck",
+    "enemy",
+    "explosion",
+    "fire",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Customisable Chucks. The first extra byte determines the sprite number of the Chuck you want to spawn, and the second customises a certain behaviour depending on the type of Chuck:<br>\r\n- Clappin': Y speed of the jump.<br>\r\n- Bouncin': Y speed of the jump.<br>\r\n- Whistlin': Nothing at all.<br>\r\n- Pitchin': Number of baseballs to throw - 1 (the number must be between 0 and 5, setting it higher will make the chuck only throw a baseball when he jumps).<br>\r\n- Puntin': Time between football spawns (should be a power of 2 - 1 in hex: $0F,$1F,$3F,$7F...).<br>\r\n- Diggin': Y speed of the rock.<br>\r\n<br>\r\nThe third extra byte the X speed of the Diggin' Chuck rock<br>\r\n(nothing in the case of the other chucks).<br>\r\nThe forth extra byte customises the palette of the Chuck in the traditional YXPPCCCT format, and also if it will be a fire Chuck: FE-- CCC-, where CCC is the palette, E is the bit that determines if it's an exploding chuck (bit set) or not (bit clear) and F is the bit which determines if it's a fire chuck (bit set) or not (bit clear). A fire chuck will leave a trail of flames, whereas an exploding chuck will just explode when Mario is near.",
+  "latest_version": "smwc-21788-1583493203",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 21788,
+      "title": "Ultimate Chuck",
+      "version": "smwc-21788-1583493203",
+      "upstream_time": 1583493203,
+      "download_url": "https://dl.smwcentral.net/21788/uchuck.zip",
+      "filename": "uchuck.zip",
+      "size": 12206,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

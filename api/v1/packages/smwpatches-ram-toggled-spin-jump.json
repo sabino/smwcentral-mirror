@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-ram-toggled-spin-jump",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41669,
+  "title": "RAM-Toggled Spin Jump",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A more flexible alternative to the <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=45\">tweak to fully disable spin jump</a> (or UberASM that disables the A button) that allows you to disable spin jump on a per-level basis by setting a one-byte FreeRAM flag.",
+  "latest_version": "1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41669,
+      "title": "RAM-Toggled Spin Jump",
+      "version": "1.1",
+      "upstream_time": 1772054133,
+      "download_url": "https://dl.smwcentral.net/41669/ram_toggled_spin_jump-v2.zip",
+      "filename": "ram_toggled_spin_jump-v2.zip",
+      "size": 761,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-light-world-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10401,
+  "title": "The Legend of Zelda: A Link to the Past - Light World Dungeon",
+  "authors": [
+    "Unknown User"
+  ],
+  "tags": [
+    "castle",
+    "ghost house",
+    "temple"
+  ],
+  "description": "The creepy song played in every Light World dungeon level in Zelda: A link to the past. Good for castles or any other haunted areas.<br>\r\n<br>\r\nUpdate (10/13/19):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 33 bytes.",
+  "latest_version": "smwc-10401-1419885078",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10401,
+      "title": "The Legend of Zelda: A Link to the Past - Light World Dungeon",
+      "version": "smwc-10401-1419885078",
+      "upstream_time": 1419885078,
+      "download_url": "https://dl.smwcentral.net/10401/LoZ%20ALTTP%20-%20Light%20World%20Dungeon.zip",
+      "filename": "LoZ ALTTP - Light World Dungeon.zip",
+      "size": 41673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10400,
+      "title": "The Legend of Zelda: A Link to the Past - Light World Dungeon",
+      "version": "smwc-10400-1419885048",
+      "upstream_time": 1419885048,
+      "download_url": "https://dl.smwcentral.net/10400/Zelda%20-%20ALTTP%20-%20Light%20World%20Dungeons.zip",
+      "filename": "Zelda - ALTTP - Light World Dungeons.zip",
+      "size": 68494,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

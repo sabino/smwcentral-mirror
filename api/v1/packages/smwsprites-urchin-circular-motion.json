@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-urchin-circular-motion",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39535,
+  "title": "Urchin, Circular Motion",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Urchin moves in a circle in a direction controlled by the extra bit. The extra byte controls its radius.",
+  "latest_version": "smwc-39535-1751271962",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39535,
+      "title": "Urchin, Circular Motion",
+      "version": "smwc-39535-1751271962",
+      "upstream_time": 1751271962,
+      "download_url": "https://dl.smwcentral.net/39535/circle%20urchin.zip",
+      "filename": "circle urchin.zip",
+      "size": 3554,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

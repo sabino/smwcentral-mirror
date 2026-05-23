@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-spike-top-ceiling-cling",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18949,
+  "title": "Spike Top Ceiling Cling",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "spike top",
+    "sprite"
+  ],
+  "description": "This patch makes Spike Tops start on the ceiling if you place them touching one.  I would have done the same thing for the walls, but SMW's object contact routine is apparently too screwy to handle that easily.",
+  "latest_version": "smwc-18949-1548009726",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18949,
+      "title": "Spike Top Ceiling Cling",
+      "version": "smwc-18949-1548009726",
+      "upstream_time": 1548009726,
+      "download_url": "https://dl.smwcentral.net/18949/spiketopinit.zip",
+      "filename": "spiketopinit.zip",
+      "size": 730,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

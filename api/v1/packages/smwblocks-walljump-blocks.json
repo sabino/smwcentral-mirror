@@ -1,0 +1,59 @@
+{
+  "name": "smwblocks-walljump-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41216,
+  "title": "Walljump Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "luigi",
+    "on off",
+    "p-switch",
+    "pay",
+    "sa-1",
+    "star",
+    "timer",
+    "uberasm needed",
+    "wall",
+    "walljump",
+    "yoshi",
+    "yoshi coin"
+  ],
+  "description": "A set of walljump blocks with the following features:<br>\r\n- The player cannot rear back early, with the left/right D-pad controls disabled temporarily so they cannot gain more height on the same wall.<br>\r\n- It changes the player's left/right facing direction while the timer is running.",
+  "latest_version": "smwc-41216-1764814192",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41216,
+      "title": "Walljump Blocks",
+      "version": "smwc-41216-1764814192",
+      "upstream_time": 1764814192,
+      "download_url": "https://dl.smwcentral.net/41216/Walljump%20Blocks.zip",
+      "filename": "Walljump Blocks.zip",
+      "size": 4356,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    },
+    {
+      "upstream_id": 4041,
+      "title": "Walljump Blocks V3",
+      "version": "smwc-4041-1426300641",
+      "upstream_time": 1426300641,
+      "download_url": "https://dl.smwcentral.net/4041/WJBV3.zip",
+      "filename": "WJBV3.zip",
+      "size": 15086,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

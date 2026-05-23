@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-f-zero-red-canyon-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34642,
+  "title": "F-Zero - Red Canyon (Arrangement)",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "chase",
+    "fire",
+    "mountain",
+    "ruins",
+    "temple",
+    "urban"
+  ],
+  "description": "An arrangement of \"Red Canyon\" from F-Zero.<br>\r\n<br>\r\nOriginal soundtrack description:<br>\r\n<br>\r\n<i>This is F-Zero on the SNES' entire OST, but redone using higher quality samples.<br>\r\n<br>\r\nAs to why I did this, after I made Mute City and Port Town, I thought, \"What if the whole soundtrack were originally done in this style? What would it sound like\"? whilst not making some of the songs completely and entirely different, so I decided to carry on with the idea.<br>\r\n<br>\r\nI hope you guys like these ports, because I sure liked making them.<br>\r\n<br>\r\nUpdate 1 (7/29/2019): Replaced all songs that had #tempoimmunity with $F4$07 because #tempoimmunity apparently doesn't work.</i>",
+  "latest_version": "smwc-34642-1690844105",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34642,
+      "title": "F-Zero - Red Canyon (Arrangement)",
+      "version": "smwc-34642-1690844105",
+      "upstream_time": 1690844105,
+      "download_url": "https://dl.smwcentral.net/34642/Red%20Canyon.zip",
+      "filename": "Red Canyon.zip",
+      "size": 31328,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

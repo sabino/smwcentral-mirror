@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-slowfall",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4700,
+  "title": "SlowFall",
+  "authors": [
+    "ShadowDragon121"
+  ],
+  "tags": [
+    "lorom",
+    "reduce",
+    "speed"
+  ],
+  "description": "This block will reduce your falling speed by a set amount (defaults are provided).  You can use this with the cape, but it won't make that much of a difference in speed.  Different falling speeds are set depending on whether or not the B/A buttons are held.",
+  "latest_version": "smwc-4700-1428264534",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4700,
+      "title": "SlowFall",
+      "version": "smwc-4700-1428264534",
+      "upstream_time": 1428264534,
+      "download_url": "https://dl.smwcentral.net/4700/SlowFall.zip",
+      "filename": "SlowFall.zip",
+      "size": 535,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

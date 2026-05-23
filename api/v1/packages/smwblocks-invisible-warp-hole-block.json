@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-invisible-warp-hole-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 26491,
+  "title": "Invisible \"Warp Hole\" Block",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "hole",
+    "lorom",
+    "sa-1",
+    "warp"
+  ],
+  "description": "This is a block version of the Invisible Warp Hole (sprite 8E), with some extra features. When touched, Mario will instantly be warped a distance relative to the block. You can customize the warp distance, direction, whether it zeroes Mario's X speed, and an option to make it warp only once. You can also choose to make it warp sprites too!<br>\r\n<br>\r\nNote: Like the sprite, this block is prone to causing tile glitches if the camera scrolls too far.<br>\r\n<br>\r\nRequested by SusGodGaming.",
+  "latest_version": "smwc-26491-1618993018",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 26491,
+      "title": "Invisible \"Warp Hole\" Block",
+      "version": "smwc-26491-1618993018",
+      "upstream_time": 1618993018,
+      "download_url": "https://dl.smwcentral.net/26491/WarpBlock.zip",
+      "filename": "WarpBlock.zip",
+      "size": 1275,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-epic-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7556,
+  "title": "Epic Battle",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "A composition based on SNES RPG boss fights.",
+  "latest_version": "smwc-7556-1312095643",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7556,
+      "title": "Epic Battle",
+      "version": "smwc-7556-1312095643",
+      "upstream_time": 1312095643,
+      "download_url": "https://dl.smwcentral.net/7556/CUSTOM%20-%20Epic%20Battle.zip",
+      "filename": "CUSTOM - Epic Battle.zip",
+      "size": 69126,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-mario-bros-course-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23983,
+  "title": "Super Mario Bros. - Course Clear",
+  "authors": [
+    "Dark Mario Bros"
+  ],
+  "tags": [
+    "goal",
+    "misc",
+    "retro"
+  ],
+  "description": "Course Clear theme from Super Mario Bros.<br>\r\n<br>\r\nThis song is supposed to be used as Stage Clear theme (ofcourse)<br>\r\n<br>\r\nContain two versions, one with the SMW whistle sfx and one without it. Enjoy!",
+  "latest_version": "smwc-23983-1595967826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23983,
+      "title": "Super Mario Bros. - Course Clear",
+      "version": "smwc-23983-1595967826",
+      "upstream_time": 1595967826,
+      "download_url": "https://dl.smwcentral.net/23983/Super%20Mario%20Bros%20-%20Stage%20Clear.zip",
+      "filename": "Super Mario Bros - Stage Clear.zip",
+      "size": 61660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23153,
+      "title": "Super Mario Bros. - Course Clear",
+      "version": "smwc-23153-1590786454",
+      "upstream_time": 1590786454,
+      "download_url": "https://dl.smwcentral.net/23153/SuperMarioBros-Flag.zip",
+      "filename": "SuperMarioBros-Flag.zip",
+      "size": 47833,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-change-castle-re-entry-input",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32771,
+  "title": "Change Castle Re-Entry Input",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "Allows changing the input combination required to re-enter castles after they have already been beaten (normally L+R).",
+  "latest_version": "smwc-32771-1671626644",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32771,
+      "title": "Change Castle Re-Entry Input",
+      "version": "smwc-32771-1671626644",
+      "upstream_time": 1671626644,
+      "download_url": "https://dl.smwcentral.net/32771/castleInput.zip",
+      "filename": "castleInput.zip",
+      "size": 521,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-final-fantasy-mystic-quest-city-of-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31635,
+  "title": "Final Fantasy: Mystic Quest - City of Forest",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "overworld",
+    "town"
+  ],
+  "description": "Relaxing town music from FF Mystic Quest that could probably work well on overworlds and similar hub areas. I've never played this game but the soundtrack is good and easy to port so I couldn't help myself.",
+  "latest_version": "smwc-31635-1659129618",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31635,
+      "title": "Final Fantasy: Mystic Quest - City of Forest",
+      "version": "smwc-31635-1659129618",
+      "upstream_time": 1659129618,
+      "download_url": "https://dl.smwcentral.net/31635/FF%20Mystic%20Quest%20-%20City%20of%20Forest.zip",
+      "filename": "FF Mystic Quest - City of Forest.zip",
+      "size": 32531,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31634,
+      "title": "Final Fantasy: Mystic Quest - City of Forest",
+      "version": "smwc-31634-1659129611",
+      "upstream_time": 1659129611,
+      "download_url": "https://dl.smwcentral.net/31634/Final%20Fantasy%20Mystic%20Quest%20-%20City%20of%20Forest.zip",
+      "filename": "Final Fantasy Mystic Quest - City of Forest.zip",
+      "size": 47913,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-disney-s-lilo-stitch-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34570,
+  "title": "Disney's Lilo & Stitch - Beach",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "grassland"
+  ],
+  "description": "Part of the Lilo & Stitch GBA soundtrack.",
+  "latest_version": "smwc-34570-1690806146",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34570,
+      "title": "Disney's Lilo & Stitch - Beach",
+      "version": "smwc-34570-1690806146",
+      "upstream_time": 1690806146,
+      "download_url": "https://dl.smwcentral.net/34570/Lilo%20%26%20Stitch%20-%2002%20Beach.zip",
+      "filename": "Lilo %26 Stitch - 02 Beach.zip",
+      "size": 127904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

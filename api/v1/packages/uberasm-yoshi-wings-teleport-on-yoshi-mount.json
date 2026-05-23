@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-yoshi-wings-teleport-on-yoshi-mount",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42307,
+  "title": "Yoshi Wings Teleport on Yoshi Mount",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "teleport",
+    "yoshi"
+  ],
+  "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span>.",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42307,
+      "title": "Yoshi Wings Teleport on Yoshi Mount",
+      "version": "V1.0.1",
+      "upstream_time": 1778026760,
+      "download_url": "https://dl.smwcentral.net/42307/Yoshi%20Wings%20Teleport%20on%20Yoshi%20Mount%20V1.0.1.zip",
+      "filename": "Yoshi Wings Teleport on Yoshi Mount V1.0.1.zip",
+      "size": 539,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "smwmusic-sonic-cd-quartz-quadrant-zone-past",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38326,
+  "title": "Sonic CD - Quartz Quadrant Zone (Past)",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "forest",
+    "grassland",
+    "ice",
+    "jungle",
+    "mountain",
+    "mysterious",
+    "night",
+    "upbeat"
+  ],
+  "description": "The reservedly happy and mysteriously misty-sounding Past music from Quartz Quadrant, and definitely one of my favourite Past songs. Starting with a gradual buildup, it culminates in a big piano solo near the end, then goes right back to being mysterious.<br>\r\n<br>\r\n[2024-08-26] UPDATE: Ported from scratch to make it cleaner and more accurate. Thank you to my lovely friend <span class=\"un-outer\" title=\"Hazel\"><a href=\"/?p=profile&amp;id=2512\" style=\"color: #e2e78c;\" class=\"un\">Hazel</a></span> for helping me out with the pitch modulation.<br>\r\nMy worldview was also shattered as I realized that most of the instruments panned to the \"center\" in the original actually aren't.",
+  "latest_version": "smwc-38326-1726240996",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38326,
+      "title": "Sonic CD - Quartz Quadrant Zone (Past)",
+      "version": "smwc-38326-1726240996",
+      "upstream_time": 1726240996,
+      "download_url": "https://dl.smwcentral.net/38326/quintz%20quindrant%20z5ne.zip",
+      "filename": "quintz quindrant z5ne.zip",
+      "size": 50647,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30957,
+      "title": "Sonic CD - Quartz Quadrant Zone (Past)",
+      "version": "smwc-30957-1662834953",
+      "upstream_time": 1662834953,
+      "download_url": "https://dl.smwcentral.net/30957/Quartz%20Quadrant%20%28Past%29.zip",
+      "filename": "Quartz Quadrant (Past).zip",
+      "size": 104134,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7118,
+      "title": "Sonic CD - Quartz Quadrant Zone (Past)",
+      "version": "smwc-7118-1312277685",
+      "upstream_time": 1312277685,
+      "download_url": "https://dl.smwcentral.net/7118/Sonic%20CD%20-%20Quartz%20Quadrant%20Zone%20%28Past%29.zip",
+      "filename": "Sonic CD - Quartz Quadrant Zone (Past).zip",
+      "size": 58013,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

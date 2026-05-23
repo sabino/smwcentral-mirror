@@ -1,0 +1,40 @@
+{
+  "name": "smwpatches-item-box-sprite-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18552,
+  "title": "Item Box Sprite Fix",
+  "authors": [
+    "Davros",
+    "Romi"
+  ],
+  "tags": [
+    "item",
+    "item box",
+    "key",
+    "lorom",
+    "message block",
+    "p-switch",
+    "sa-1",
+    "throw block"
+  ],
+  "description": "This patch makes the P-Switch, Throw Block Sprite, Key, Info Box and Light Switch drop normally and flicker when selected from the item box which in the original game wasn't possible.<br>\r\n<br>\r\nAdds support for spawning a blue and gray P-Switch separately and also for the Throw Block Sprite. The Key sprite no longer spawns as a flying Key. The Info Box and Light Switch now fall and flicker but stop at a certain position in horizontal and vertical levels.<br>\r\n<br>\r\nNOTE: This patch doesn't fix the glitched graphics in the item box; for that you will need the Item Box GFX Fix or the Item Box Special patch.<br>\r\n<br>\r\nMore details in the readme.",
+  "latest_version": "smwc-18552-1544145209",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18552,
+      "title": "Item Box Sprite Fix",
+      "version": "smwc-18552-1544145209",
+      "upstream_time": 1544145209,
+      "download_url": "https://dl.smwcentral.net/18552/Item%20Box%20Sprite%20Fix.zip",
+      "filename": "Item Box Sprite Fix.zip",
+      "size": 5501,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

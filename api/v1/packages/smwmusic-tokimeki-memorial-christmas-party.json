@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-tokimeki-memorial-christmas-party",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28760,
+  "title": "Tokimeki Memorial - Christmas Party",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "carnival",
+    "cutscene",
+    "ice",
+    "overworld",
+    "snow",
+    "title",
+    "town"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>.",
+  "latest_version": "smwc-28760-1640446849",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28760,
+      "title": "Tokimeki Memorial - Christmas Party",
+      "version": "smwc-28760-1640446849",
+      "upstream_time": 1640446849,
+      "download_url": "https://dl.smwcentral.net/28760/Tokimeki%20Memorial%20-%20Christmas%20Party.zip",
+      "filename": "Tokimeki Memorial - Christmas Party.zip",
+      "size": 70804,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22403,
+      "title": "Tokimeki Memorial - Christmas Party",
+      "version": "smwc-22403-1584514655",
+      "upstream_time": 1584514655,
+      "download_url": "https://dl.smwcentral.net/22403/Tokimeki%20Memorial%20-%20Christmas%20Party.zip",
+      "filename": "Tokimeki Memorial - Christmas Party.zip",
+      "size": 33698,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

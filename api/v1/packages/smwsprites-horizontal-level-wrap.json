@@ -1,0 +1,33 @@
+{
+  "name": "smwsprites-horizontal-level-wrap",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3539,
+  "title": "Horizontal Level Wrap",
+  "authors": [
+    "HuFlungDu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Similar to the Vertical Level Wrap, except instead of connecting the left and right sides of the screen, it connects the top and bottom. Same as the one in the patches section, except it is a sprite for easy insert into different levels. It also fixes a bug that caused Mario to act kinda choppy when he was big.<br>\r\nNo credit necessary.",
+  "latest_version": "smwc-3539-1264197462",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3539,
+      "title": "Horizontal Level Wrap",
+      "version": "smwc-3539-1264197462",
+      "upstream_time": 1264197462,
+      "download_url": "https://dl.smwcentral.net/3539/HorizontalLevelWrap.zip",
+      "filename": "HorizontalLevelWrap.zip",
+      "size": 1315,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

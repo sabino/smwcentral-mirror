@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-shovel-knight-shovel-of-hope-in-the-halls-of-the-usurper",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22639,
+  "title": "Shovel Knight: Shovel of Hope - In the Halls of the Usurper",
+  "authors": [
+    "DanTheVP"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "final",
+    "misc",
+    "retro",
+    "tense"
+  ],
+  "description": "This is the music from King Knight's stage in the Shovel Knight campaign. It has a castle vibe with some classical music inspirations.<br>\r\n<br>\r\nThis is ported straight from the original song and uses samples of the same pulse duty cycles to get as close to the source as possible. Shout-out to muscialman for the pulse duty, sawtooth, and NES triangle samples.<br>\r\n<br>\r\nI did the best I could with the SNES noise options to replicate the drum parts. Enjoy :)<br>\r\n<br>\r\n",
+  "latest_version": "smwc-22639-1587437665",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22639,
+      "title": "Shovel Knight: Shovel of Hope - In the Halls of the Usurper",
+      "version": "smwc-22639-1587437665",
+      "upstream_time": 1587437665,
+      "download_url": "https://dl.smwcentral.net/22639/Shovel%20Knight_Shovel%20of%20Hope%20-%20In%20the%20Halls%20of%20the%20Usurper.zip",
+      "filename": "Shovel Knight_Shovel of Hope - In the Halls of the Usurper.zip",
+      "size": 41682,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

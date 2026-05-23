@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-piyopiyoplayer-broken-toy-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27672,
+  "title": "PiyoPiyoPlayer - Broken Toy (Intro)",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "misc",
+    "overworld",
+    "retro"
+  ],
+  "description": "A cute small song, made by Pixel on his spare time, in a collection of songs from PiyoPiyoPlayer. This one only plays the intro part of this song, and a bad attempt to make this sounds like a Game Boy song.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○BrokenToy：壊れたオモチャ。空飛ぶ犬のお話で使おうと思ってる曲。<br>\r\nRough translation:<br>\r\n• Broken Toy: A broken toy. The song I'm thinking of using in the story of a flying dog.</div></div>",
+  "latest_version": "smwc-27672-1629049434",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27672,
+      "title": "PiyoPiyoPlayer - Broken Toy (Intro)",
+      "version": "smwc-27672-1629049434",
+      "upstream_time": 1629049434,
+      "download_url": "https://dl.smwcentral.net/27672/Broken%20Toy%20Intro%20GB.zip",
+      "filename": "Broken Toy Intro GB.zip",
+      "size": 36348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

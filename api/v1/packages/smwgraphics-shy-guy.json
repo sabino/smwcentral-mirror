@@ -1,0 +1,57 @@
+{
+  "name": "smwgraphics-shy-guy",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 8941,
+  "title": "Shy Guy",
+  "authors": [
+    "Shy-Hi"
+  ],
+  "tags": [
+    "goomba",
+    "male",
+    "needs remoderation",
+    "shy guy"
+  ],
+  "description": "Graphics that replace Goombas with SMB2 Shy-Guys. Best with Pallet A.<br>\r\nCredit isn't necessary.",
+  "latest_version": "smwc-8941-1409065903",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 8941,
+      "title": "Shy Guy",
+      "version": "smwc-8941-1409065903",
+      "upstream_time": 1409065903,
+      "download_url": "https://dl.smwcentral.net/8941/Goomba%20to%20Shy-Guy.zip",
+      "filename": "Goomba to Shy-Guy.zip",
+      "size": 2644,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2966,
+      "title": "Shy Guy",
+      "version": "smwc-2966-1376235911",
+      "upstream_time": 1376235911,
+      "download_url": "https://dl.smwcentral.net/2966/shyguy.zip",
+      "filename": "shyguy.zip",
+      "size": 7252,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 1345,
+      "title": "Shy Guy",
+      "version": "smwc-1345-1395504357",
+      "upstream_time": 1395504357,
+      "download_url": "https://dl.smwcentral.net/1345/ShyGuy.zip",
+      "filename": "ShyGuy.zip",
+      "size": 12843,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-unfolding-quest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32909,
+  "title": "Unfolding Quest",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "cutscene",
+    "grassland"
+  ],
+  "description": "Description: \tA heroic song perfect for openings or first levels.",
+  "latest_version": "smwc-32909-1680287752",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32909,
+      "title": "Unfolding Quest",
+      "version": "smwc-32909-1680287752",
+      "upstream_time": 1680287752,
+      "download_url": "https://dl.smwcentral.net/32909/%5BU%5D%20%28CUSTOM%29%20Unfolding_Quest.zip",
+      "filename": "%5BU%5D (CUSTOM) Unfolding_Quest.zip",
+      "size": 34910,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32841,
+      "title": "Unfolding Quest",
+      "version": "smwc-32841-1680287464",
+      "upstream_time": 1680287464,
+      "download_url": "https://dl.smwcentral.net/32841/%5BS%5D%20%28CUSTOM%29%20Unfolding%20Quest.zip",
+      "filename": "%5BS%5D (CUSTOM) Unfolding Quest.zip",
+      "size": 80258,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

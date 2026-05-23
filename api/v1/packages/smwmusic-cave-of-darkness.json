@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cave-of-darkness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41722,
+  "title": "Cave of Darkness",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "cave",
+    "dark"
+  ],
+  "description": "There aren't enough good cave themes, in my opinion, so I decided to make one.  It should be good for typical underground levels.",
+  "latest_version": "smwc-41722-1773980375",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41722,
+      "title": "Cave of Darkness",
+      "version": "smwc-41722-1773980375",
+      "upstream_time": 1773980375,
+      "download_url": "https://dl.smwcentral.net/41722/Cave%20of%20Darkness.zip",
+      "filename": "Cave of Darkness.zip",
+      "size": 31498,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-normal-conveyor-slopes",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 20676,
+  "title": "Normal Conveyor Slopes",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "conveyor",
+    "lorom",
+    "sa-1",
+    "slope"
+  ],
+  "description": "These \"normal\" slopes will move Mario like if they were a conveyor. Includes an example list to show how to use; you have to set the acts like to both the two slope tiles and the so called \"slope assist\" tile. (eg. the corner)",
+  "latest_version": "smwc-20676-1566518026",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 20676,
+      "title": "Normal Conveyor Slopes",
+      "version": "smwc-20676-1566518026",
+      "upstream_time": 1566518026,
+      "download_url": "https://dl.smwcentral.net/20676/Conveyor%20Slopes.zip",
+      "filename": "Conveyor Slopes.zip",
+      "size": 2736,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

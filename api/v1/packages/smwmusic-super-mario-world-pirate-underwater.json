@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-world-pirate-underwater",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31537,
+  "title": "Super Mario World (Pirate) - Underwater",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "retro",
+    "water"
+  ],
+  "description": "50% Square galore, with a weird vibrato triangle, for EXTRA effect. Perfect for goofy water levels.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31537-1663849995",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31537,
+      "title": "Super Mario World (Pirate) - Underwater",
+      "version": "smwc-31537-1663849995",
+      "upstream_time": 1663849995,
+      "download_url": "https://dl.smwcentral.net/31537/Super%20Mario%20World%20%28NES%20Pirate%29%20-%20Underwater.zip",
+      "filename": "Super Mario World (NES Pirate) - Underwater.zip",
+      "size": 32754,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

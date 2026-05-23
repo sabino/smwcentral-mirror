@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-muncher-bridge",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28620,
+  "title": "Muncher Bridge",
+  "authors": [
+    "Abdu"
+  ],
+  "tags": [
+    "bridge",
+    "hurt block",
+    "lorom",
+    "muncher",
+    "sa-1",
+    "turnblock"
+  ],
+  "description": "This is a turn block bridge, except with munchers instead of blocks. So it hurts.<br>\r\nMake sure to check out the asm file for customization options.<br>\r\nRequested by Romano338.",
+  "latest_version": "smwc-28620-1645034211",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28620,
+      "title": "Muncher Bridge",
+      "version": "smwc-28620-1645034211",
+      "upstream_time": 1645034211,
+      "download_url": "https://dl.smwcentral.net/28620/Muncher%20Bridge.zip",
+      "filename": "Muncher Bridge.zip",
+      "size": 6050,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

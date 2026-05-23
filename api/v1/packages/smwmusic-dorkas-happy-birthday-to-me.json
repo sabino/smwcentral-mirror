@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dorkas-happy-birthday-to-me",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7472,
+  "title": "Dorkas - Happy Birthday To Me",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "forest",
+    "industrial",
+    "mountain"
+  ],
+  "description": "Good for an intense forest, or basically to fast, dangerous situations.",
+  "latest_version": "smwc-7472-1318053410",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7472,
+      "title": "Dorkas - Happy Birthday To Me",
+      "version": "smwc-7472-1318053410",
+      "upstream_time": 1318053410,
+      "download_url": "https://dl.smwcentral.net/7472/Birthday.zip",
+      "filename": "Birthday.zip",
+      "size": 73393,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

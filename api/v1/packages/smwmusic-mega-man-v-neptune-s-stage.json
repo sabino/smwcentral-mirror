@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-v-neptune-s-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20410,
+  "title": "Mega Man V - Neptune's Stage",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "space"
+  ],
+  "description": "Requested by Midorizou Daze. Good for space or abstract levels.",
+  "latest_version": "smwc-20410-1562479530",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20410,
+      "title": "Mega Man V - Neptune's Stage",
+      "version": "smwc-20410-1562479530",
+      "upstream_time": 1562479530,
+      "download_url": "https://dl.smwcentral.net/20410/Mega%20Man%205%20%28GB%29%20-%20Neptune.zip",
+      "filename": "Mega Man 5 (GB) - Neptune.zip",
+      "size": 31575,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

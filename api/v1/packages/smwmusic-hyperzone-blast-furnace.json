@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-hyperzone-blast-furnace",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23694,
+  "title": "HyperZone - Blast Furnace",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "industrial",
+    "misc"
+  ],
+  "description": "Blast Furnace from Hyper Zone, but unsampled. Good for factory/industrial levels.",
+  "latest_version": "smwc-23694-1595047048",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23694,
+      "title": "HyperZone - Blast Furnace",
+      "version": "smwc-23694-1595047048",
+      "upstream_time": 1595047048,
+      "download_url": "https://dl.smwcentral.net/23694/Hyper%20Zone%20-%20Blast%20Furnace%20%28Unsampled%29.zip",
+      "filename": "Hyper Zone - Blast Furnace (Unsampled).zip",
+      "size": 35016,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23693,
+      "title": "HyperZone - Blast Furnace",
+      "version": "smwc-23693-1595047044",
+      "upstream_time": 1595047044,
+      "download_url": "https://dl.smwcentral.net/23693/Hyper%20Zone%20-%20Blast%20Furnace.zip",
+      "filename": "Hyper Zone - Blast Furnace.zip",
+      "size": 95303,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

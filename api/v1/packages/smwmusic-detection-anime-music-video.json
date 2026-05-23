@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-detection-anime-music-video",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32168,
+  "title": "Detection (Anime Music Video)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "athletic",
+    "credits",
+    "grassland",
+    "sky",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "<a href=\"https://www.youtube.com/watch?v=LoS6deYHfA4\" rel=\"nofollow\">Preview</a>, Lovely groove song. Could fit on the town levels. Also credits",
+  "latest_version": "smwc-32168-1674366915",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32168,
+      "title": "Detection (Anime Music Video)",
+      "version": "smwc-32168-1674366915",
+      "upstream_time": 1674366915,
+      "download_url": "https://dl.smwcentral.net/32168/%5BAMV%5D%20Detection.zip",
+      "filename": "%5BAMV%5D Detection.zip",
+      "size": 41832,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

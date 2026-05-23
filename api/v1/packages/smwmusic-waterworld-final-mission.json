@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-waterworld-final-mission",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24330,
+  "title": "Waterworld - Final Mission",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "cave",
+    "chase",
+    "cutscene",
+    "final",
+    "tense",
+    "water"
+  ],
+  "description": "The intense final boss battle theme from Waterworld, probably suitable to tense and/or fast-paced settings the most.",
+  "latest_version": "smwc-24330-1598735663",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24330,
+      "title": "Waterworld - Final Mission",
+      "version": "smwc-24330-1598735663",
+      "upstream_time": 1598735663,
+      "download_url": "https://dl.smwcentral.net/24330/finalmission.zip",
+      "filename": "finalmission.zip",
+      "size": 80409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8823,
+      "title": "Waterworld - Final Mission",
+      "version": "smwc-8823-1410542748",
+      "upstream_time": 1410542748,
+      "download_url": "https://dl.smwcentral.net/8823/fmu.zip",
+      "filename": "fmu.zip",
+      "size": 33531,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

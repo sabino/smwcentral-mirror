@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-homing-torpedo-ted",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42142,
+  "title": "Homing Torpedo Ted",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "torpedo ted",
+    "underwater"
+  ],
+  "description": "A Torpedo Ted that will stop, point at the player's direction, charge forward and repeat. If the extra bit is set, it will explode after some time.<br>\r\n<br>\r\nA launcher is included. Setting the extra bit to the launcher will transfer the explosive behavior to the launched sprite.<br>\r\n<br>\r\nMake sure to check the .asm files for various configurations.<br>\r\n<br>\r\n<br>\r\nYour first dynamic sprite? A few notes for you:<br>\r\n<ul><li>If not using SA-1, the <a href=\"https://smwc.me/s/13184\"> Dynamic Sprites Patch</a> is required.</li>\n<li>The Torpedo Ted's graphics are uploaded dynamically, so ExGFX is not required. The enclosed file is only to match the launcher hand with the explosion star, both not dynamic.</li>\n<li>Nevertheless, dynamic sprites take up the lower half of SP4, so you should not use sprites that take graphics from that region unless you remap them.</li></ul>",
+  "latest_version": "smwc-42142-1777418972",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42142,
+      "title": "Homing Torpedo Ted",
+      "version": "smwc-42142-1777418972",
+      "upstream_time": 1777418972,
+      "download_url": "https://dl.smwcentral.net/42142/Homing_Torpedo_Ted.zip",
+      "filename": "Homing_Torpedo_Ted.zip",
+      "size": 15551,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

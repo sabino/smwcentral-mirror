@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pok-mon-ruby-sapphire-emerald-ever-grande-city",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25285,
+  "title": "Pokémon Ruby/Sapphire/Emerald - Ever Grande City",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "grassland",
+    "overworld",
+    "town",
+    "urban"
+  ],
+  "description": "My Entry for Super Famicompo 2. Song that Ever Grande City from Pokémon Ruby/Sapphire/Emerald. Could fit a grassland/town levels.",
+  "latest_version": "smwc-25285-1607657145",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25285,
+      "title": "Pokémon Ruby/Sapphire/Emerald - Ever Grande City",
+      "version": "smwc-25285-1607657145",
+      "upstream_time": 1607657145,
+      "download_url": "https://dl.smwcentral.net/25285/Pokemon%20RSE%20-%20Ever%20Grande%20City.zip",
+      "filename": "Pokemon RSE - Ever Grande City.zip",
+      "size": 34137,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-explosive-dolphin",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31278,
+  "title": "Explosive Dolphin",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "dolphin",
+    "enemy",
+    "exploding",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This dolphin will explode after being stood on.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>.",
+  "latest_version": "smwc-31278-1663113184",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31278,
+      "title": "Explosive Dolphin",
+      "version": "smwc-31278-1663113184",
+      "upstream_time": 1663113184,
+      "download_url": "https://dl.smwcentral.net/31278/ExplosiveDolphin.zip",
+      "filename": "ExplosiveDolphin.zip",
+      "size": 7447,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

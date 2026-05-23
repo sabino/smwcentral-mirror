@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-custom-level-message-sprite",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16203,
+  "title": "Custom Level Message Sprite",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a custom version of the Display Level Message sprite (sprite 19 in vanilla SMW).  This one uses the extra bytes to determine which message to show.  A version for RPG Hacker's VWF message patch is also included.",
+  "latest_version": "smwc-16203-1509811774",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16203,
+      "title": "Custom Level Message Sprite",
+      "version": "smwc-16203-1509811774",
+      "upstream_time": 1509811774,
+      "download_url": "https://dl.smwcentral.net/16203/display%20level%20message.zip",
+      "filename": "display level message.zip",
+      "size": 1371,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

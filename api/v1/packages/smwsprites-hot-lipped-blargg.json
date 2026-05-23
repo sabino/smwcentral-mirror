@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-hot-lipped-blargg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23558,
+  "title": "Hot-Lipped Blargg",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "blargg",
+    "fire",
+    "hot",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A dangerous Blargg that spits fire. Based upon original dissasembly by yoshicookiezeus. Graphics made by Wuffalo.",
+  "latest_version": "smwc-23558-1594333107",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23558,
+      "title": "Hot-Lipped Blargg",
+      "version": "smwc-23558-1594333107",
+      "upstream_time": 1594333107,
+      "download_url": "https://dl.smwcentral.net/23558/Hot-Lipped.zip",
+      "filename": "Hot-Lipped.zip",
+      "size": 6024,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

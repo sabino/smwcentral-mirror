@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-excitebike-nes-victory-stand",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34052,
+  "title": "Excitebike (NES) - Victory Stand",
+  "authors": [
+    "KlonoA13Phill"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "The theme that plays when you finish a race in first, second or third place in Excitebike for NES. It can be used as goal theme or boss clear theme.",
+  "latest_version": "smwc-34052-1691754600",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34052,
+      "title": "Excitebike (NES) - Victory Stand",
+      "version": "smwc-34052-1691754600",
+      "upstream_time": 1691754600,
+      "download_url": "https://dl.smwcentral.net/34052/Excitebike%20%28NES%29%20-%20Victory%20Stand.zip",
+      "filename": "Excitebike (NES) - Victory Stand.zip",
+      "size": 30411,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

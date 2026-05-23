@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-all-inclusive-mario-physics-modifier",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 14894,
+  "title": "All-Inclusive Mario Physics Modifier",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "jump",
+    "lorom",
+    "needs remoderation",
+    "physics",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch can be used to modify any aspect of Mario's physics, including running, jumping, falling, flying, swimming, climbing, sliding, and more.<br>\r\n<br>\r\nBy default, all values in the patch are (mostly) identical to as in SMW, so you don't have to set up all values if you only want one thing changed.<br>\r\n<br>\r\nOptional hijacks, which do use freespace, are also included to increase options if necessary.<br>\r\n<br>\r\nUpdate: fixed an issue with LM v3.00+ regarding diagonal pipe entrances.",
+  "latest_version": "smwc-14894-1484529000",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 14894,
+      "title": "All-Inclusive Mario Physics Modifier",
+      "version": "smwc-14894-1484529000",
+      "upstream_time": 1484529000,
+      "download_url": "https://dl.smwcentral.net/14894/PhysicsModifier.zip",
+      "filename": "PhysicsModifier.zip",
+      "size": 9685,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

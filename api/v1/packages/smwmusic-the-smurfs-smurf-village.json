@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-smurfs-smurf-village",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38821,
+  "title": "The Smurfs - Smurf Village",
+  "authors": [
+    "TobiTopstar"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "town"
+  ],
+  "description": "Welcome to the Smurf's Village!",
+  "latest_version": "smwc-38821-1735310335",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38821,
+      "title": "The Smurfs - Smurf Village",
+      "version": "smwc-38821-1735310335",
+      "upstream_time": 1735310335,
+      "download_url": "https://dl.smwcentral.net/38821/Smurf-Village.zip",
+      "filename": "Smurf-Village.zip",
+      "size": 92772,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

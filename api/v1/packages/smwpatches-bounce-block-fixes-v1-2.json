@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bounce-block-fixes-v1-2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41825,
+  "title": "Bounce block fixes v1.2.2",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "bounce block",
+    "double carry",
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "This patch fixes various bounce block-related glitches:<br>\r\n<ul>\r\n<li>Blocks can be hit multiple times before turning into tile $152 briefly, either by multiple kicked sprites hitting the block at the same frame, or during $9D being set. SMW only lets the block change via processing the bounce sprite, rather than immidiately.</li>\r\n<li>The flip kicked sprite effect reuses the quake effect, causing sprites to always be knocked away from the player, even when the block is hit by a kicked sprite from the opposite side of the player</li>\r\n</ul><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">8/7/2025 - 1.2.1 - The depreciation warning update + modernized tools to use.\r\n\t-Fixed a depreciation warning (order of operations to invert a number: X^$FF+1 is\r\n\t now (X^$FF)+1)\r\n\t-Renamed \"GM14.asm\" to \"GM14_BounceFlipSpr.asm\" to make it easy for the user to\r\n\t recognize what it is.\r\n\t-Made custom block routine to use macro labels to avoid leaking sublabels.\r\n\t-Make use of bank $80 when not using SA-1 for fastROM.\r\n2-28-2026 - 1.2.2\r\n\t-Fixed an issue where SA-1's hijack at $02887D conflicts with this patch's hijack\r\n\t at $02887A, causing the game to crash when the bounceable blocks are triggered.\r\n\t-Fixed an erroneous code where the init for uberasm tool only clearing the bounce\r\n\t sprite's X low position when it was meant to clear out all its slot data on level\r\n\t load.\r\n\t -Renamed several defines and folders to reduce the risk of naming conflicts.\r\n\t-Changed \"BounceBlocksFixDef.txt\" to \"BounceBlocksFixDef.asm\"\r\n\t-Due to an update on UAT2.0, which allows multiple ASM resources on levels,\r\n\t this made reliance on GM14 redundant.</pre></div></div></div>",
+  "latest_version": "smwc-41825-1773695911",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41825,
+      "title": "Bounce block fixes v1.2.2",
+      "version": "smwc-41825-1773695911",
+      "upstream_time": 1773695911,
+      "download_url": "https://dl.smwcentral.net/41825/BounceBlockFixes_v1_2_2_.zip",
+      "filename": "BounceBlockFixes_v1_2_2_.zip",
+      "size": 60242,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

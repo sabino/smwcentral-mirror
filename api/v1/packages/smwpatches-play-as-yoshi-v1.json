@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-play-as-yoshi-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21045,
+  "title": "Play as Yoshi (v1.1)",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch allows you to... well, play as Yoshi in certain levels (that you can specify). Levels where this function is disabled will play completely normally.<br>\r\nAny other information should be covered in the ASM file itself.<br>\r\n<br>\r\nUpdate: Now handles extended sprite contact properly. (Also reduced the level table size.)",
+  "latest_version": "smwc-21045-1570205669",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21045,
+      "title": "Play as Yoshi (v1.1)",
+      "version": "smwc-21045-1570205669",
+      "upstream_time": 1570205669,
+      "download_url": "https://dl.smwcentral.net/21045/Play%20as%20Yoshi.zip",
+      "filename": "Play as Yoshi.zip",
+      "size": 5134,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bandicoot-tawna-bonus-round",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36894,
+  "title": "Crash Bandicoot - Tawna Bonus Round",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "jungle"
+  ],
+  "description": "A happy surf theme that plays in the bonus rounds from Crash Bandicoot 1.<br>\r\n<br>\r\nUpdate (02/16): replaced the percussion samples",
+  "latest_version": "smwc-36894-1708707150",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36894,
+      "title": "Crash Bandicoot - Tawna Bonus Round",
+      "version": "smwc-36894-1708707150",
+      "upstream_time": 1708707150,
+      "download_url": "https://dl.smwcentral.net/36894/CB%20-%20Tawna%20Bonus%20Round.zip",
+      "filename": "CB - Tawna Bonus Round.zip",
+      "size": 90997,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

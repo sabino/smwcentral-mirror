@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-the-amazing-mirror-moonlight-mansion-kirby-s-dream-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26171,
+  "title": "Kirby & The Amazing Mirror - Moonlight Mansion (Kirby's Dream Land 3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "dark",
+    "night"
+  ],
+  "description": "I ported the 'Moonlight Mansion' of 'Kirby & The Amazing Mirror' to Kirby's Dream Land 3 Style. If I had time, I would be able to challenge Kirby Super Star style, but those brr files do not exist yet.",
+  "latest_version": "smwc-26171-1615593370",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26171,
+      "title": "Kirby & The Amazing Mirror - Moonlight Mansion (Kirby's Dream Land 3 Style)",
+      "version": "smwc-26171-1615593370",
+      "upstream_time": 1615593370,
+      "download_url": "https://dl.smwcentral.net/26171/KtAMArea2KDL3.zip",
+      "filename": "KtAMArea2KDL3.zip",
+      "size": 44306,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

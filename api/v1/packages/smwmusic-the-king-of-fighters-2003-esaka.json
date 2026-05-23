@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-king-of-fighters-2003-esaka",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27793,
+  "title": "The King of Fighters 2003 - Esaka? 03 (Kusanagi Theme)",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "dark",
+    "retro",
+    "tense"
+  ],
+  "description": "The theme of Kusanagi (the clone boss, not Kyo himself) from <i>KOF 2003</i>, itself based on \"Esaka?\" from <i>KOF '96</i>.<br>\r\n<br>\r\nThis port uses the optimized SMW sample set. Due to having a lot of instruments near the end, the drum instruments can be cut off by sound effects during the transition to the start of the loop.",
+  "latest_version": "smwc-27793-1630280660",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27793,
+      "title": "The King of Fighters 2003 - Esaka? 03 (Kusanagi Theme)",
+      "version": "smwc-27793-1630280660",
+      "upstream_time": 1630280660,
+      "download_url": "https://dl.smwcentral.net/27793/KOF2003%20Esaka%20Version%201.2.zip",
+      "filename": "KOF2003 Esaka Version 1.2.zip",
+      "size": 63756,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

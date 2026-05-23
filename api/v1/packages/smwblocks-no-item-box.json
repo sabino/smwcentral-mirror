@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-no-item-box",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3866,
+  "title": "No Item Box",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "erase",
+    "item box",
+    "lorom"
+  ],
+  "description": "This erases the item in your item box, optionally playing a sound or disappearing.",
+  "latest_version": "smwc-3866-1409007284",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3866,
+      "title": "No Item Box",
+      "version": "smwc-3866-1409007284",
+      "upstream_time": 1409007284,
+      "download_url": "https://dl.smwcentral.net/3866/noitembox.zip",
+      "filename": "noitembox.zip",
+      "size": 440,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

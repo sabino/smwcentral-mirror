@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-battle-garegga-megalomaniac",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19178,
+  "title": "Battle Garegga - Megalomaniac",
+  "authors": [
+    "crm0622"
+  ],
+  "tags": [
+    "athletic",
+    "space"
+  ],
+  "description": "(Second attempt of submit this port...)<br>\r\n<br>\r\n(Don't confused with Megalovania which is from Undertale! :P)<br>\r\n<br>\r\n<br>\r\n<br>\r\nFrom the game called \"Battle Garegga\".<br>\r\n<br>\r\nMay fit for space-themed stages etc...<br>\r\n<br>\r\n<br>\r\n<br>\r\n(Warning : May not compatible with thunder sound!)",
+  "latest_version": "smwc-19178-1550932533",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19178,
+      "title": "Battle Garegga - Megalomaniac",
+      "version": "smwc-19178-1550932533",
+      "upstream_time": 1550932533,
+      "download_url": "https://dl.smwcentral.net/19178/bgaregga_megalomaniac.zip",
+      "filename": "bgaregga_megalomaniac.zip",
+      "size": 89422,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

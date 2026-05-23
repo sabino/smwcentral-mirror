@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-level-warp-display-v1-1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40975,
+  "title": "Level Warp Display v1.1.1",
+  "authors": [
+    "JackTheSpades",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "debug",
+    "layer 3",
+    "level",
+    "lorom",
+    "sa-1",
+    "warp"
+  ],
+  "description": "An easy to configure level code for creating warp hubs.<br>\r\nIt displays a custom text in the top left corner, switching between values when pressing left or right. Pushing A or B sends you to the designated level.<br>\r\nThe text displayed, destination level and amount of levels can be easily changed, just add or remove values from the tables.<br>\r\n<br>\r\nUseful for debugging or actual in game hubs.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this asar 2.0 compatible.<br>\r\n- Made this compatible with vertical levels and Lunar Magic 3.00's horizontal level modes.<br>\r\n- Fixed an oversight where this will run during No-Yoshi intros.<br>\r\n- Made it so the code doesn't run when the game is paused.<br>\r\n- Made it so layer 3 is given priority so the text is always visible.<br>\r\n- Fixed an oversight where the secondary entrance macro didn't calculate the format for $19D8 correctly for secondary entrances greater than FF.</div></div>",
+  "latest_version": "smwc-40975-1763928647",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40975,
+      "title": "Level Warp Display v1.1.1",
+      "version": "smwc-40975-1763928647",
+      "upstream_time": 1763928647,
+      "download_url": "https://dl.smwcentral.net/40975/levelwarpV1.1.1.zip",
+      "filename": "levelwarpV1.1.1.zip",
+      "size": 2102,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

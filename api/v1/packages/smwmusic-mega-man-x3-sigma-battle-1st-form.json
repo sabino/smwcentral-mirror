@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-x3-sigma-battle-1st-form",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28361,
+  "title": "Mega Man X3 - Sigma Battle (1st Form)",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final"
+  ],
+  "description": "Could fit a final boss.<br>\r\nRequested by <span class=\"un-outer\" title=\"Black Goku\"><a href=\"/?p=profile&amp;id=48112\" style=\"color: var(--user-color-2);\" class=\"un\">Black Goku</a></span>",
+  "latest_version": "smwc-28361-1642141903",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28361,
+      "title": "Mega Man X3 - Sigma Battle (1st Form)",
+      "version": "smwc-28361-1642141903",
+      "upstream_time": 1642141903,
+      "download_url": "https://dl.smwcentral.net/28361/Mega%20Man%20X3%20-%20Sigma%20Battle.zip",
+      "filename": "Mega Man X3 - Sigma Battle.zip",
+      "size": 33607,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-squeak-squad-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13861,
+  "title": "Kirby Squeak Squad - Menu",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "overworld",
+    "title"
+  ],
+  "description": "A calm, relaxing song from Kirby Squeak Squad.<br>\r\nCould fit title screens, bonuses or some kind of overworld.<br>\r\n<br>\r\nThe original sounded too cutoffy for my ears, so I added little release gain and echo.",
+  "latest_version": "smwc-13861-1466894292",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13861,
+      "title": "Kirby Squeak Squad - Menu",
+      "version": "smwc-13861-1466894292",
+      "upstream_time": 1466894292,
+      "download_url": "https://dl.smwcentral.net/13861/menu.zip",
+      "filename": "menu.zip",
+      "size": 85081,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

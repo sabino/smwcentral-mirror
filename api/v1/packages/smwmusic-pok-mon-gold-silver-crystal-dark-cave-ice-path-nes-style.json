@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-dark-cave-ice-path-nes-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27736,
+  "title": "Pokémon Gold/Silver/Crystal - Dark Cave / Ice Path (NES Style)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "dark"
+  ],
+  "description": "Also used in Slowpoke Well and Ice Path, this grim song fits perfectly in dark areas, preferably caves.<br>\r\n<br>\r\nUses Noise, be aware around noise sound effects.<br>\r\n<br>\r\nMade for an unnamed NES Styled collab hack.",
+  "latest_version": "smwc-27736-1630252504",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27736,
+      "title": "Pokémon Gold/Silver/Crystal - Dark Cave / Ice Path (NES Style)",
+      "version": "smwc-27736-1630252504",
+      "upstream_time": 1630252504,
+      "download_url": "https://dl.smwcentral.net/27736/Pok%C3%A9mon%20Gold%2CSilver%2CCrystal%20-%20Dark%20Cave%20%28NES%20Style%29.zip",
+      "filename": "Pok%C3%A9mon Gold%2CSilver%2CCrystal - Dark Cave (NES Style).zip",
+      "size": 32890,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

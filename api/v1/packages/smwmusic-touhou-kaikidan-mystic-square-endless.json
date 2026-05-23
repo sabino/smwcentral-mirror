@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-endless",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32413,
+  "title": "Touhou Kaikidan ~ Mystic Square - Endless",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene"
+  ],
+  "description": "Endless<br>\r\nGood ending theme from Touhou Kaikidan.<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-32413-1679531367",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32413,
+      "title": "Touhou Kaikidan ~ Mystic Square - Endless",
+      "version": "smwc-32413-1679531367",
+      "upstream_time": 1679531367,
+      "download_url": "https://dl.smwcentral.net/32413/th5-19.zip",
+      "filename": "th5-19.zip",
+      "size": 30852,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

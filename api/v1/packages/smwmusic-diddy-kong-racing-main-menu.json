@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-diddy-kong-racing-main-menu",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7268,
+  "title": "Diddy Kong Racing - Main Menu",
+  "authors": [
+    "spigmike"
+  ],
+  "tags": [
+    "bonus",
+    "title"
+  ],
+  "description": "An upbeat techno song that would work for a title screen, or maybe a bonus theme.",
+  "latest_version": "smwc-7268-1320042634",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7268,
+      "title": "Diddy Kong Racing - Main Menu",
+      "version": "smwc-7268-1320042634",
+      "upstream_time": 1320042634,
+      "download_url": "https://dl.smwcentral.net/7268/DKRMainMenu.zip",
+      "filename": "DKRMainMenu.zip",
+      "size": 69246,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

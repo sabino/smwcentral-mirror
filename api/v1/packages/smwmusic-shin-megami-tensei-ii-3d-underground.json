@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-3d-underground",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37270,
+  "title": "Shin Megami Tensei II - 3D: Underground",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "mysterious",
+    "spooky"
+  ],
+  "description": "Plays in different virtual training areas throughout the game. Also known as 'Houshou Kai' (World of Gluttony) in SMT if…",
+  "latest_version": "smwc-37270-1713373132",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37270,
+      "title": "Shin Megami Tensei II - 3D: Underground",
+      "version": "smwc-37270-1713373132",
+      "upstream_time": 1713373132,
+      "download_url": "https://dl.smwcentral.net/37270/SMT2%203D%20Underground.zip",
+      "filename": "SMT2 3D Underground.zip",
+      "size": 58973,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

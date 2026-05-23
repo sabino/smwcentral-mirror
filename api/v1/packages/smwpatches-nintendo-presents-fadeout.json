@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-nintendo-presents-fadeout",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 16510,
+  "title": "Nintendo Presents Fadeout",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "fancy af",
+    "lorom",
+    "nintendo presents",
+    "sa-1"
+  ],
+  "description": "Makes the Nintendo Presents logo appear in a more smooth manner.<br>\r\n<br>\r\nNote that due to the way AddmusicK uploads its samples, you'll need to insert a stub (<a href=\"http://media.smwcentral.net/Telinc1/stub.txt\">blank</a>) song if you want to use an actual sound effect and not a song.",
+  "latest_version": "smwc-16510-1510404465",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 16510,
+      "title": "Nintendo Presents Fadeout",
+      "version": "smwc-16510-1510404465",
+      "upstream_time": 1510404465,
+      "download_url": "https://dl.smwcentral.net/16510/Presents%20Fade.zip",
+      "filename": "Presents Fade.zip",
+      "size": 1115,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

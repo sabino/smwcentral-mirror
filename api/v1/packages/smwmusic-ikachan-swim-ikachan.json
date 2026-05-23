@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ikachan-swim-ikachan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10951,
+  "title": "Ikachan - Swim, Ikachan!",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "title",
+    "water"
+  ],
+  "description": "A song from the game Ikachan, made by the creator of Cave Story.<br>\r\nCould fit water levels and title screens.",
+  "latest_version": "smwc-10951-1426876336",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10951,
+      "title": "Ikachan - Swim, Ikachan!",
+      "version": "smwc-10951-1426876336",
+      "upstream_time": 1426876336,
+      "download_url": "https://dl.smwcentral.net/10951/ikachan.zip",
+      "filename": "ikachan.zip",
+      "size": 42583,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

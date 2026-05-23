@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-purple-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41169,
+  "title": "Purple Coins",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "coin",
+    "counter",
+    "goal",
+    "lorom",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: var(--user-color-2);\" class=\"un\">MrMartley64</a></span>.",
+  "latest_version": "smwc-41169-1764462273",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41169,
+      "title": "Purple Coins",
+      "version": "smwc-41169-1764462273",
+      "upstream_time": 1764462273,
+      "download_url": "https://dl.smwcentral.net/41169/Purple%20Coins%20Asar2.zip",
+      "filename": "Purple Coins Asar2.zip",
+      "size": 22770,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "smwgraphics-pac-man",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 15105,
+  "title": "Pac-Man 2 - Dangerous Cave",
+  "authors": [
+    "Ayami"
+  ],
+  "tags": [
+    "bonus",
+    "cave",
+    "clouds",
+    "grassland",
+    "mountain",
+    "needs remoderation",
+    "sky"
+  ],
+  "description": "The background used in the level Dangerous Cave in Pac-Man 2 The New Adventures (SNES)",
+  "latest_version": "smwc-15105-1486265681",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 15105,
+      "title": "Pac-Man 2 - Dangerous Cave",
+      "version": "smwc-15105-1486265681",
+      "upstream_time": 1486265681,
+      "download_url": "https://dl.smwcentral.net/15105/Dangerous%20Cave.zip",
+      "filename": "Dangerous Cave.zip",
+      "size": 4631,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 15018,
+      "title": "Pac-Man 2 - Misty Flight",
+      "version": "smwc-15018-1485183886",
+      "upstream_time": 1485183886,
+      "download_url": "https://dl.smwcentral.net/15018/Misty%20Flight.zip",
+      "filename": "Misty Flight.zip",
+      "size": 2980,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13483,
+      "title": "Pac-Man 2  - Title Screen",
+      "version": "smwc-13483-1458520214",
+      "upstream_time": 1458520214,
+      "download_url": "https://dl.smwcentral.net/13483/pacman2title.zip",
+      "filename": "pacman2title.zip",
+      "size": 4667,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

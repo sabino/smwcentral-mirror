@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-death-mountain-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22363,
+  "title": "The Legend of Zelda - Death Mountain (Level 9)",
+  "authors": [
+    "MegaNerd14"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "tense"
+  ],
+  "description": "The song used in Ganon's lair in the original Legend of Zelda. Might be good for castles.",
+  "latest_version": "smwc-22363-1585288119",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22363,
+      "title": "The Legend of Zelda - Death Mountain (Level 9)",
+      "version": "smwc-22363-1585288119",
+      "upstream_time": 1585288119,
+      "download_url": "https://dl.smwcentral.net/22363/Level%209.zip",
+      "filename": "Level 9.zip",
+      "size": 33065,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

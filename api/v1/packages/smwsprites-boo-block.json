@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-boo-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3500,
+  "title": "Boo Block",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "block",
+    "boo",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of SMW's Boo Block. Half of it is commented. Graphics routine was coded by me, not disassembled. Palette is hardcoded - go into the .asm file to change it. (I commented it.) Credit not needed.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3500-1252005334",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3500,
+      "title": "Boo Block",
+      "version": "smwc-3500-1252005334",
+      "upstream_time": 1252005334,
+      "download_url": "https://dl.smwcentral.net/3500/Boo%20Block.zip",
+      "filename": "Boo Block.zip",
+      "size": 2382,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

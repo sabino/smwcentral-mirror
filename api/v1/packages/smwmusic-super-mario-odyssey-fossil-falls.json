@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-odyssey-fossil-falls",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27284,
+  "title": "Super Mario Odyssey - Fossil Falls",
+  "authors": [
+    "Goomba-24"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "mountain"
+  ],
+  "description": "My favorite song from Super Mario Odyssey. Could fit most above ground levels.",
+  "latest_version": "smwc-27284-1625087753",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27284,
+      "title": "Super Mario Odyssey - Fossil Falls",
+      "version": "smwc-27284-1625087753",
+      "upstream_time": 1625087753,
+      "download_url": "https://dl.smwcentral.net/27284/Fossil%20Falls.zip",
+      "filename": "Fossil Falls.zip",
+      "size": 34865,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

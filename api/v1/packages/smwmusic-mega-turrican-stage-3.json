@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-turrican-stage-3",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33700,
+  "title": "Mega Turrican - Stage 3-1",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "fire",
+    "industrial",
+    "space",
+    "tense"
+  ],
+  "description": "This song was requested by <span class=\"un-outer\" title=\"Kinuja\"><a href=\"/?p=profile&amp;id=58977\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Kinuja</a></span> for the hack <a href=\"https://www.smwcentral.net/?p=section&a=details&id=33699\">Oxworm</a>.<br>\r\n<br>\r\nNote that the Twitch filter gets mad if you use this port.",
+  "latest_version": "smwc-33700-1685583641",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33700,
+      "title": "Mega Turrican - Stage 3-1",
+      "version": "smwc-33700-1685583641",
+      "upstream_time": 1685583641,
+      "download_url": "https://dl.smwcentral.net/33700/Mega%20Turrican%20Stage%203-1.zip",
+      "filename": "Mega Turrican Stage 3-1.zip",
+      "size": 65754,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

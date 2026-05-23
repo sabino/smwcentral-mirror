@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-twilight-princess-faron-woods",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33666,
+  "title": "The Legend of Zelda: Twilight Princess - Faron Woods",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "forest",
+    "night",
+    "ruins",
+    "swamp"
+  ],
+  "description": "The soothing music which plays in the Faron Woods of Twilight Princess (assuming it isn't submerged by twilight, that is).<br>\r\n<br>\r\nGood for forests, though it can also be similarly used for ruins.<br>\r\n<br>\r\nThis has been made using ALttP samples with (what I assume to be) similar limitations (i.e. same ADSR, similar echo values).",
+  "latest_version": "smwc-33666-1690209448",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33666,
+      "title": "The Legend of Zelda: Twilight Princess - Faron Woods",
+      "version": "smwc-33666-1690209448",
+      "upstream_time": 1690209448,
+      "download_url": "https://dl.smwcentral.net/33666/FaronWoods%20%28ALttP%29.zip",
+      "filename": "FaronWoods (ALttP).zip",
+      "size": 44032,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33665,
+      "title": "The Legend of Zelda: Twilight Princess - Faron Woods",
+      "version": "smwc-33665-1690209437",
+      "upstream_time": 1690209437,
+      "download_url": "https://dl.smwcentral.net/33665/Faron%20Woods.zip",
+      "filename": "Faron Woods.zip",
+      "size": 31471,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

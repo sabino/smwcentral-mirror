@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-valis-iv-vecanti",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40626,
+  "title": "Super Valis IV - Vecanti",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "mysterious",
+    "ruins",
+    "urban"
+  ],
+  "description": "Music from the first level of Super Valis IV<br>\r\n<br>\r\nLike all songs from Super Valis IV, this one has an extremely high echo delay value, so the following Global Songs / SFX are not compatible:<br>\r\nStarman, Bonus-End, P-Switch, Yoshi, Thunder/Firework/Blargg",
+  "latest_version": "smwc-40626-1759076453",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40626,
+      "title": "Super Valis IV - Vecanti",
+      "version": "smwc-40626-1759076453",
+      "upstream_time": 1759076453,
+      "download_url": "https://dl.smwcentral.net/40626/Vecanti.zip",
+      "filename": "Vecanti.zip",
+      "size": 56205,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

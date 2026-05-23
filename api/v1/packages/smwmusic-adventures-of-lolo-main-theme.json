@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-adventures-of-lolo-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7984,
+  "title": "Adventures of Lolo - Main Theme",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "bonus",
+    "grassland"
+  ],
+  "description": "Suitable for your bouncy, happy levels.",
+  "latest_version": "smwc-7984-1312349567",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7984,
+      "title": "Adventures of Lolo - Main Theme",
+      "version": "smwc-7984-1312349567",
+      "upstream_time": 1312349567,
+      "download_url": "https://dl.smwcentral.net/7984/aolmt.zip",
+      "filename": "aolmt.zip",
+      "size": 66811,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

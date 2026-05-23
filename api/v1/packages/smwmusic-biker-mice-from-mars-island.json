@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-biker-mice-from-mars-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22911,
+  "title": "Biker Mice from Mars - Island",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "A quite intense song played in the Island track of Biker Mice from Mars! It might fit a escape sequence or a race/chase level.",
+  "latest_version": "smwc-22911-1590040442",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22911,
+      "title": "Biker Mice from Mars - Island",
+      "version": "smwc-22911-1590040442",
+      "upstream_time": 1590040442,
+      "download_url": "https://dl.smwcentral.net/22911/BikerIsland.zip",
+      "filename": "BikerIsland.zip",
+      "size": 78998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

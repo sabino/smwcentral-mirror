@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-ko1-dammy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35122,
+  "title": "ko1 - DAMMY",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "industrial",
+    "jungle"
+  ],
+  "description": "A demo song included in <a href=\"http://barukaso.dip.jp/~rath/twm2_dl.html\" rel=\"nofollow\">TW-MUSIC2</a>, a MML/MIDI player using Windows' DirectMusic interface.<br>\r\n<br>\r\nOriginally ported for Super Famicompo 2021<br>\r\n<br>\r\nSep 24, 2023 Update: Replaced the SC-88 Square Wave sample to a higher quality one, so it sounds better.",
+  "latest_version": "smwc-35122-1697733903",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35122,
+      "title": "ko1 - DAMMY",
+      "version": "smwc-35122-1697733903",
+      "upstream_time": 1697733903,
+      "download_url": "https://dl.smwcentral.net/35122/Dammy_v2.zip",
+      "filename": "Dammy_v2.zip",
+      "size": 81690,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

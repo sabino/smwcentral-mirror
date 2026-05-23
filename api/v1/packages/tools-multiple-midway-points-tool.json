@@ -1,0 +1,33 @@
+{
+  "name": "tools-multiple-midway-points-tool",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 21941,
+  "title": "Multiple Midway Points Tool",
+  "authors": [
+    "Kaijyuu",
+    "MarioFanGamer",
+    "lx5"
+  ],
+  "tags": [
+    "gui",
+    "midway point"
+  ],
+  "description": "Multiple Midway Points Tool (or short MMP) is a handler for, well, multiple midway points. That means, you can easily set the midway points settings without calculating the values on your own.<br>\r\nFurthermore, the patch is pretty inflexible when you want to change the total amount of midway points. This tool solves it by generating as many midway points as there are necessary.<br>\r\n<br>\r\nMore information in the readme.<br>\r\n<br>\r\nOriginal Multiple Midway Points patch made by Kaijyuu with modifications made by me and lx5.",
+  "latest_version": "smwc-21941-1584929091",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 21941,
+      "title": "Multiple Midway Points Tool",
+      "version": "smwc-21941-1584929091",
+      "upstream_time": 1584929091,
+      "download_url": "https://dl.smwcentral.net/21941/MMP.zip",
+      "filename": "MMP.zip",
+      "size": 226591,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

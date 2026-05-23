@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-hammer-sprite",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3288,
+  "title": "Hammer Sprite",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "bonus",
+    "hammer",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "- Name of Sprite: Hammer<br>\r\n- Insert as a sprite\t<br>\r\n- Uses extra bit<br>\r\n- Uses SP4<br>\r\nDescription: Using the graphics from the castle destruction sequence, Mario can pick up this hammer and swing it madly, like the hammer from the original Donkey Kong or Smash Bros. You score 200 pts per hit, but the extra bit will let you gain 1UPs after 8 hits.",
+  "latest_version": "smwc-3288-1208802213",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3288,
+      "title": "Hammer Sprite",
+      "version": "smwc-3288-1208802213",
+      "upstream_time": 1208802213,
+      "download_url": "https://dl.smwcentral.net/3288/Hammer.zip",
+      "filename": "Hammer.zip",
+      "size": 5071,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

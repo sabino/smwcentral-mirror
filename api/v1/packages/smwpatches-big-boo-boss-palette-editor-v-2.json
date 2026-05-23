@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-big-boo-boss-palette-editor-v-2",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20280,
+  "title": "Big Boo Boss Palette Editor v.2.0",
+  "authors": [
+    "Chdata",
+    "Major Flare"
+  ],
+  "tags": [
+    "big boo",
+    "big boo boss",
+    "lorom",
+    "palette",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Original by Chdata, version 2.0 by Major Flare:<br>\r\n<br>\r\nThis patch enables you to change Big Boo Boss's palettes which are normally hardcoded by ASM to something else in a per-level basis. Original patch by Chdata, added the per-level basis feature in this new version, along with asar and SA-1 compatibility.<br>\r\n",
+  "latest_version": "smwc-20280-1561907535",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20280,
+      "title": "Big Boo Boss Palette Editor v.2.0",
+      "version": "smwc-20280-1561907535",
+      "upstream_time": 1561907535,
+      "download_url": "https://dl.smwcentral.net/20280/BigBooBoss%20Palettes.zip",
+      "filename": "BigBooBoss Palettes.zip",
+      "size": 2254,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

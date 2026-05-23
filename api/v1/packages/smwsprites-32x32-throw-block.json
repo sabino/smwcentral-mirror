@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-32x32-throw-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3606,
+  "title": "32x32 Throw Block",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "big",
+    "lorom",
+    "sa-1",
+    "throw block"
+  ],
+  "description": "This is a 32x32 throw block, it acts just like a regular one except, it will shake the ground when hitting the wall, and it will go in a diagonal when being kicked up. If the extra bit is set the player won't be able to move when holding it.<br>\r\n<br>\r\n<i>Tester's note: Could use some fitting special effects (those that the regular throw blocks have too). But other than that a pretty neat sprite.</i><br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3606-1323392833",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3606,
+      "title": "32x32 Throw Block",
+      "version": "smwc-3606-1323392833",
+      "upstream_time": 1323392833,
+      "download_url": "https://dl.smwcentral.net/3606/BIG_Block.zip",
+      "filename": "BIG_Block.zip",
+      "size": 3103,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

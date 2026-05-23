@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-fling-blocks",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42187,
+  "title": "Fling Blocks",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "boost",
+    "double jump",
+    "fling",
+    "fling upwards",
+    "interaction",
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "Fling Blocks will activate, and fling Mario or sprites upwards upon contact.<br>\r\n<br>\r\nWhen flinging Mario, the Fling Blocks will not stop spinning until he touches the ground. When flinging sprites, the Fling Blocks will spin for 15 frames. None can interact with Fling Blocks are they are spinning.<br>\r\n<br>\r\nAlso included is a Red Fling Block variation, as the extra bit option. Red Fling Blocks only get activated by sprites, and Mario can use it as a sprite platform.<br>\r\n<br>\r\nNow PIXI compatible.",
+  "latest_version": "0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42187,
+      "title": "Fling Blocks",
+      "version": "0.1",
+      "upstream_time": 1776168386,
+      "download_url": "https://dl.smwcentral.net/42187/fling_blocks%20%5BPIXI%5D.zip",
+      "filename": "fling_blocks %5BPIXI%5D.zip",
+      "size": 6303,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

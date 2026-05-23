@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-reiiden-the-highly-responsive-to-prayers-now-until-the-moment-you-die",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8447,
+  "title": "Touhou Reiiden ~ The Highly Responsive To Prayers - Now, Until The Moment You Die",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "final"
+  ],
+  "description": "Quite an awesome music, theme of the Angel of Death Sariel. It fits final battles, epic castles and so on.",
+  "latest_version": "smwc-8447-1375447233",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8447,
+      "title": "Touhou Reiiden ~ The Highly Responsive To Prayers - Now, Until The Moment You Die",
+      "version": "smwc-8447-1375447233",
+      "upstream_time": 1375447233,
+      "download_url": "https://dl.smwcentral.net/8447/Sariel.zip",
+      "filename": "Sariel.zip",
+      "size": 75747,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

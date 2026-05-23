@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-last-ninja-the-office",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29585,
+  "title": "The Last Ninja - The Office",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "retro",
+    "urban"
+  ],
+  "description": "The Office theme from The Last Ninja on the NES.<br>\r\n<br>\r\nCan be used in urban environments. <br>\r\n<br>\r\n(The box art for this game is pretty funny ngl)<br>\r\n<br>\r\nEdit: Cranked up the vibrato on the Triangle, as well as the beginning Square, to better imitate the originals wack pitch shifting.",
+  "latest_version": "smwc-29585-1648722678",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29585,
+      "title": "The Last Ninja - The Office",
+      "version": "smwc-29585-1648722678",
+      "upstream_time": 1648722678,
+      "download_url": "https://dl.smwcentral.net/29585/The%20Last%20Ninja%20%28NES%29%20-%20The%20Office.zip",
+      "filename": "The Last Ninja (NES) - The Office.zip",
+      "size": 39265,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-v-the-day-will-come",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20133,
+  "title": "Final Fantasy V - The Day Will Come",
+  "authors": [
+    "Vaelstraza"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "overworld"
+  ],
+  "description": "Peaceful short track from Final Fantasy V. Would be good for calm overworlds, levels, or credits.",
+  "latest_version": "smwc-20133-1559776207",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20133,
+      "title": "Final Fantasy V - The Day Will Come",
+      "version": "smwc-20133-1559776207",
+      "upstream_time": 1559776207,
+      "download_url": "https://dl.smwcentral.net/20133/FFV%20-%20Reminiscence.zip",
+      "filename": "FFV - Reminiscence.zip",
+      "size": 22574,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

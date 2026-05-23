@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-message-box-expansion",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40672,
+  "title": "Message Box Expansion",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "message box",
+    "sa-1",
+    "text"
+  ],
+  "description": "This patch implements a new message box system that allows for messages of 260 characters (almost twice the original length). It also makes it possible to use more than two different messages per (trans)level, giving each screen its own message settings.<br>\r\n<br>\r\nREADME.txt and HOW_TO_USE.txt will probably answer any question you may have, so give it a read.<br>\r\n<br>\r\n<br>\r\n<br>\r\n(September 24, 2025: Asar 2.0 compatibility and various minor bug fixes and improvements)",
+  "latest_version": "smwc-40672-1758750723",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40672,
+      "title": "Message Box Expansion",
+      "version": "smwc-40672-1758750723",
+      "upstream_time": 1758750723,
+      "download_url": "https://dl.smwcentral.net/40672/message_box_expansion.zip",
+      "filename": "message_box_expansion.zip",
+      "size": 12580,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

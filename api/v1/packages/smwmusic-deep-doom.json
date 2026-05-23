@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-deep-doom",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8532,
+  "title": "Deep Doom",
+  "authors": [
+    "Mayonnai"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "final",
+    "overworld"
+  ],
+  "description": "A dark composition best suited for a final submap.",
+  "latest_version": "smwc-8532-1395635706",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8532,
+      "title": "Deep Doom",
+      "version": "smwc-8532-1395635706",
+      "upstream_time": 1395635706,
+      "download_url": "https://dl.smwcentral.net/8532/Deep_Doom.zip",
+      "filename": "Deep_Doom.zip",
+      "size": 64203,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

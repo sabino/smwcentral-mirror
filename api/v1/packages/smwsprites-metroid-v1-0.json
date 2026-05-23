@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-metroid-v1-0",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40970,
+  "title": "Metroid v1.0.2",
+  "authors": [
+    "Chdata",
+    "Schwa"
+  ],
+  "tags": [
+    "air meter",
+    "chase",
+    "coin",
+    "enemy",
+    "follow",
+    "jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This guy hovers lazily in the air until Mario approaches. Then it begins to chase him wildly. Should it catch Mario, it latches on and begins draining coins from him at an alarming rate (if he has any). To kill it once it latches on, repeatedly mash the controller buttons and you'll shake it off. It can optionally hurt or kill the player if they have no coins. It can also drain <a href=\"https://smwc.me/s/35507\">air meter</a>.<br>\r\n<br>\r\nThe tilemap, amount of mashing needed for it to latch out, speeds and detection range are customizable. Check the ASM file for further information.<br>\r\n<br>\r\nGive credit if used or tweaked.<br>\r\n<br>\r\nBIG thank-you to smkdan for helping debug a serious problem while making this sprite.",
+  "latest_version": "smwc-40970-1764627994",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40970,
+      "title": "Metroid v1.0.2",
+      "version": "smwc-40970-1764627994",
+      "upstream_time": 1764627994,
+      "download_url": "https://dl.smwcentral.net/40970/Metroid.zip",
+      "filename": "Metroid.zip",
+      "size": 8795,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

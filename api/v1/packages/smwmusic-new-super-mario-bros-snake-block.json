@@ -1,0 +1,30 @@
+{
+  "name": "smwmusic-new-super-mario-bros-snake-block",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39992,
+  "title": "New Super Mario Bros. - Snake Block",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [],
+  "description": "SFX that plays when a Snake Block is active in the New Super Mario Bros. series.",
+  "latest_version": "smwc-39992-1751965530",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39992,
+      "title": "New Super Mario Bros. - Snake Block",
+      "version": "smwc-39992-1751965530",
+      "upstream_time": 1751965530,
+      "download_url": "https://dl.smwcentral.net/39992/New%20Super%20Mario%20Bros.%20-%20Snake%20Block.zip",
+      "filename": "New Super Mario Bros. - Snake Block.zip",
+      "size": 30987,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

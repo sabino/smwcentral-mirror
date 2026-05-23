@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-b3313-dry-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32226,
+  "title": "b3313 - Dry Town",
+  "authors": [
+    "84GSMeister"
+  ],
+  "tags": [
+    "desert",
+    "mysterious",
+    "town",
+    "water"
+  ],
+  "description": "Dry Town Soundtrack from the SM64 Hack B3313.<br>\r\nRequested by <span class=\"un-outer\" title=\"Doopliss\"><a href=\"/?p=profile&amp;id=22326\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Doopliss</a></span>",
+  "latest_version": "smwc-32226-1674923568",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32226,
+      "title": "b3313 - Dry Town",
+      "version": "smwc-32226-1674923568",
+      "upstream_time": 1674923568,
+      "download_url": "https://dl.smwcentral.net/32226/SM64%20B3313%20Dry%20Town.zip",
+      "filename": "SM64 B3313 Dry Town.zip",
+      "size": 68549,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

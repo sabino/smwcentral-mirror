@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-fishin-boo-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23481,
+  "title": "Fishin' Boo v1.12",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "annoying",
+    "disassembly",
+    "enemy",
+    "ghost",
+    "ghost house",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A disassembly of sprite AE from SMW. Speeds and accelerations can be easily editted through tables.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nFixed x high displacement on the firehitbox<br>\r\nFixed CFG and JSON to actually have the vanilla values<br>\r\n<br>\r\n(Rykon-V73)Small change:<br>\r\nv1.12<br>\r\n-----<br>\r\nThe tilemap is easy to edit.",
+  "latest_version": "smwc-23481-1594714874",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23481,
+      "title": "Fishin' Boo v1.12",
+      "version": "smwc-23481-1594714874",
+      "upstream_time": 1594714874,
+      "download_url": "https://dl.smwcentral.net/23481/fishin_boo-v1.12.zip",
+      "filename": "fishin_boo-v1.12.zip",
+      "size": 4496,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

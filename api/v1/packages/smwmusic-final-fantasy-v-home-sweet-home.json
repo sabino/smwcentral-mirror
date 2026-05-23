@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-v-home-sweet-home",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16141,
+  "title": "Final Fantasy V - Home, Sweet Home",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "sad",
+    "town"
+  ],
+  "description": "Could fit with sad theme",
+  "latest_version": "smwc-16141-1504106440",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16141,
+      "title": "Final Fantasy V - Home, Sweet Home",
+      "version": "smwc-16141-1504106440",
+      "upstream_time": 1504106440,
+      "download_url": "https://dl.smwcentral.net/16141/Final%20Fantasy%20V%20-%20My%20Home%2C%20Sweet%20Home.zip",
+      "filename": "Final Fantasy V - My Home%2C Sweet Home.zip",
+      "size": 57219,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

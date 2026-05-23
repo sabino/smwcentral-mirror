@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-perfect-slippery-blocks-v3-2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 37753,
+  "title": "Perfect Slippery Blocks v3.2.0",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1",
+    "slippery"
+  ],
+  "description": "Unlike \"Single Slippery Block\", this one, you don't need an anti-slippery block placed above the slippery block for a workaround prevention. It also has proper slippery corners without making the whole level slippery. It requires Uberasm tool.<br>\r\n<br>\r\n2023-09-13 update - supports both half and full slippery mode in one hack. Thus <kbd>!Freeram_MarioSlip</kbd> and <kbd>!Freeram_SpriteSlip</kbd> acts as a copy of RAM $86 (including $01-$7F being half-slippery and $80+ being fully slippery).<br>\r\n<br>\r\n2023-05-07 update - supports LM override.",
+  "latest_version": "smwc-37753-1732856699",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 37753,
+      "title": "Perfect Slippery Blocks v3.2.0",
+      "version": "smwc-37753-1732856699",
+      "upstream_time": 1732856699,
+      "download_url": "https://dl.smwcentral.net/37753/Slippery_3_2_0.zip",
+      "filename": "Slippery_3_2_0.zip",
+      "size": 66225,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

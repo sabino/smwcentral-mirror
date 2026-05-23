@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-goomba-tower",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20470,
+  "title": "Goomba Tower",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "enemy",
+    "goomba",
+    "goomba pillar",
+    "lorom",
+    "mario maker",
+    "sa-1",
+    "tower"
+  ],
+  "description": "A tower of 4 goombas that moves towards Mario and, when jumped on, it spawns 4 goombas. Note that interaction with sprites is limited to the Goomba at the bottom of the tower due its clipping.",
+  "latest_version": "smwc-20470-1563627022",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20470,
+      "title": "Goomba Tower",
+      "version": "smwc-20470-1563627022",
+      "upstream_time": 1563627022,
+      "download_url": "https://dl.smwcentral.net/20470/GoombaTower.zip",
+      "filename": "GoombaTower.zip",
+      "size": 3358,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

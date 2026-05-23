@@ -1,0 +1,30 @@
+{
+  "name": "tools-higan",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4669,
+  "title": "Higan v106",
+  "authors": [
+    "Near"
+  ],
+  "tags": [
+    "emulator"
+  ],
+  "description": "higan (the new name to bsnes, while bsnes is still the name of the SNES emulation core) is a multi-system emulator created by byuu, widely regarded as the most accurate SNES emulator. It supports the following platforms:<br>\r\n<br>\r\n- Nintendo Famicom (NES)<br>\r\n- Nintendo Super Famicom (SNES)<br>\r\n-.Super Game Boy<br>\r\n-.BS-X Satellaview<br>\r\n-.Sufami Turbo<br>\r\n- Nintendo Game Boy<br>\r\n- Nintendo Game Boy Color<br>\r\n- Nintendo Game Boy Advance (requires a BIOS ROM)<br>\r\n- Sega Master System<br>\r\n- Sega Game Gear<br>\r\n- Sega Mega Drive<br>\r\n- NEC PC Engine<br>\r\n- NEC SuperGrafx<br>\r\n- Bandai WonderSwan<br>\r\n- Bandai WonderSwan Color<br>\r\n<br>\r\nIt also transparently supports headered SMC files (so nothing of purifying games) through the included utility, icarus.",
+  "latest_version": "smwc-4669-1364135296",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4669,
+      "title": "Higan v106",
+      "version": "smwc-4669-1364135296",
+      "upstream_time": 1364135296,
+      "download_url": "https://dl.smwcentral.net/4669/higan_v106-windows.zip",
+      "filename": "higan_v106-windows.zip",
+      "size": 2389015,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

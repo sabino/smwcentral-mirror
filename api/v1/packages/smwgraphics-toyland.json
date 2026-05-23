@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-toyland",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 18999,
+  "title": "Toyland",
+  "authors": [
+    "Gamma V",
+    "Rykon-V73"
+  ],
+  "tags": [
+    "patch needed",
+    "toy"
+  ],
+  "description": "MFG wanted a layer 3 version of the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18877\">layer 2 toyland BG</a>, so I converted that one to layer 3. You should use either  <a href=\"https://dl.smwcentral.net/17735/dkcr_sprite_status_bar.zip\" rel=\"nofollow\">this</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">this</a> or <a href=\"https://dl.smwcentral.net/17121/smb3_statusbar.zip\" rel=\"nofollow\">this</a> patch to prevent cutoffness.",
+  "latest_version": "smwc-18999-1548695441",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 18999,
+      "title": "Toyland",
+      "version": "smwc-18999-1548695441",
+      "upstream_time": 1548695441,
+      "download_url": "https://dl.smwcentral.net/18999/ToyLand%20%28Layer%203%29.zip",
+      "filename": "ToyLand (Layer 3).zip",
+      "size": 3852,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 18877,
+      "title": "Toyland",
+      "version": "smwc-18877-1547819155",
+      "upstream_time": 1547819155,
+      "download_url": "https://dl.smwcentral.net/18877/Toyland.zip",
+      "filename": "Toyland.zip",
+      "size": 7819,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-hisouten-scarlet-weather-rhapsody-flowering-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8393,
+  "title": "Touhou Hisouten ~ Scarlet Weather Rhapsody - Flowering Night",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "Could work for somewhat fast-paced areas, probably in castle levels too.",
+  "latest_version": "smwc-8393-1363733446",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8393,
+      "title": "Touhou Hisouten ~ Scarlet Weather Rhapsody - Flowering Night",
+      "version": "smwc-8393-1363733446",
+      "upstream_time": 1363733446,
+      "download_url": "https://dl.smwcentral.net/8393/Flowering_Night.zip",
+      "filename": "Flowering_Night.zip",
+      "size": 73215,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

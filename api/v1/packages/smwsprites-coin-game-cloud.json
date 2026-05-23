@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-coin-game-cloud",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3612,
+  "title": "Coin Game Cloud",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "cloud",
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of the coin game cloud, sprite 6A.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3612-1277310070",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3612,
+      "title": "Coin Game Cloud",
+      "version": "smwc-3612-1277310070",
+      "upstream_time": 1277310070,
+      "download_url": "https://dl.smwcentral.net/3612/SMWSDIS%20-%20sprite%206A%20-%20coin%20game%20cloud.zip",
+      "filename": "SMWSDIS - sprite 6A - coin game cloud.zip",
+      "size": 2553,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

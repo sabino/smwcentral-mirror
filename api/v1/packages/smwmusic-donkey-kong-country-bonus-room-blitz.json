@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-donkey-kong-country-bonus-room-blitz",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17282,
+  "title": "Donkey Kong Country - Bonus Room Blitz",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "bonus",
+    "cave",
+    "overworld"
+  ],
+  "description": "Bonus Room Blitz from DKC 1.",
+  "latest_version": "smwc-17282-1521878968",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17282,
+      "title": "Donkey Kong Country - Bonus Room Blitz",
+      "version": "smwc-17282-1521878968",
+      "upstream_time": 1521878968,
+      "download_url": "https://dl.smwcentral.net/17282/Bonus%20Room%20Blitz.zip",
+      "filename": "Bonus Room Blitz.zip",
+      "size": 52787,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

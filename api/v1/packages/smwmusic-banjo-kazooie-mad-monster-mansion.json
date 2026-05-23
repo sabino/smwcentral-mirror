@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-banjo-kazooie-mad-monster-mansion",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28834,
+  "title": "Banjo-Kazooie: Mad Monster Mansion",
+  "authors": [
+    "Marcozzo Daro"
+  ],
+  "tags": [
+    "ghost house",
+    "night",
+    "spooky"
+  ],
+  "description": "The halloweenish theme from Banjo-Kazooie. Would fit ghost houses and in general levels with the \"haunted\" setting.",
+  "latest_version": "smwc-28834-1638253240",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28834,
+      "title": "Banjo-Kazooie: Mad Monster Mansion",
+      "version": "smwc-28834-1638253240",
+      "upstream_time": 1638253240,
+      "download_url": "https://dl.smwcentral.net/28834/Mad%20Monster%20Mansion.zip",
+      "filename": "Mad Monster Mansion.zip",
+      "size": 35216,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

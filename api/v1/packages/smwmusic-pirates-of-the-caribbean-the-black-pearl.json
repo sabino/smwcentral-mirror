@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pirates-of-the-caribbean-the-black-pearl",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14091,
+  "title": "Pirates of The Caribbean - The Black Pearl",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "airship",
+    "calm",
+    "final"
+  ],
+  "description": "The music from the films. You know, ya? Could potentially fit pirate-styled levels and ship levels.",
+  "latest_version": "smwc-14091-1471357088",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14091,
+      "title": "Pirates of The Caribbean - The Black Pearl",
+      "version": "smwc-14091-1471357088",
+      "upstream_time": 1471357088,
+      "download_url": "https://dl.smwcentral.net/14091/The%20Black%20Pearl%20%5BU%5D.zip",
+      "filename": "The Black Pearl %5BU%5D.zip",
+      "size": 23613,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

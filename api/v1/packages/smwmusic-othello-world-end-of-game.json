@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-othello-world-end-of-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29971,
+  "title": "Othello World - End of Game",
+  "authors": [
+    "Masked Man"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "<i>Othello World</i> is one of those Othello games you probably saw in some Japanese pawn shop or something like that. Developed by Dice and published by Tsukuda Original, it's very obscure, though easier to find at your nearest online shop for pretty cheap. Surprisingly, according to GDRI, it uses HAL's N-SPC variant, which is also used in games such as <i>Kirby Super Star</i>. In fact, every HAL game uses this sound driver, with the exception of <i>EarthBound</i>, which instead uses another N-SPC variant.<br>\r\n<br>\r\nThis jingle plays upon finishing a stage. After that, we get the counter and another jingle plays (varies if you either lost or win).<br>\r\n<br>\r\nGood for goals, if it wasn't that obvious. There's even a flag in the TXT file that allows you to add the goal whistle at the start of the song.<br>\r\n<br>\r\nThis is the unsampled version.",
+  "latest_version": "smwc-29971-1658795525",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29971,
+      "title": "Othello World - End of Game",
+      "version": "smwc-29971-1658795525",
+      "upstream_time": 1658795525,
+      "download_url": "https://dl.smwcentral.net/29971/Othello%20World%20-%20End%20of%20Game%20%28Unsampled%29.zip",
+      "filename": "Othello World - End of Game (Unsampled).zip",
+      "size": 61305,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29970,
+      "title": "Othello World - End of Game",
+      "version": "smwc-29970-1658795488",
+      "upstream_time": 1658795488,
+      "download_url": "https://dl.smwcentral.net/29970/Othello%20World%20-%20End%20of%20Game.zip",
+      "filename": "Othello World - End of Game.zip",
+      "size": 55665,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

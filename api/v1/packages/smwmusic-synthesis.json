@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-synthesis",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7558,
+  "title": "Synthesis",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "retro",
+    "water"
+  ],
+  "description": "This song only uses the @0 sample(even the drums)",
+  "latest_version": "smwc-7558-1312130230",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7558,
+      "title": "Synthesis",
+      "version": "smwc-7558-1312130230",
+      "upstream_time": 1312130230,
+      "download_url": "https://dl.smwcentral.net/7558/synthesis.zip",
+      "filename": "synthesis.zip",
+      "size": 66945,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

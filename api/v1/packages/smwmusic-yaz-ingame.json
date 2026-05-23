@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yaz-ingame",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37245,
+  "title": "Yaz - Ingame 1",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract",
+    "industrial",
+    "overworld"
+  ],
+  "description": "Ingame 1 by Richard 'Yaz' Campbell.<br>\r\n<br>\r\nContains two .txts, one with the original loop, and one with a custom loop.",
+  "latest_version": "smwc-37245-1709241830",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37245,
+      "title": "Yaz - Ingame 1",
+      "version": "smwc-37245-1709241830",
+      "upstream_time": 1709241830,
+      "download_url": "https://dl.smwcentral.net/37245/Yaz%20-%20Ingame%201.zip",
+      "filename": "Yaz - Ingame 1.zip",
+      "size": 149953,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

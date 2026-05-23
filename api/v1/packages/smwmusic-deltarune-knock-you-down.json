@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-deltarune-knock-you-down",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28867,
+  "title": "Deltarune - Knock You Down !!",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "\"Now is the time to fight (only)\"<br>\r\n<br>\r\nThe song is played during the Punch Out boss fight against the Queen. (Also known as Boxing Boss)",
+  "latest_version": "smwc-28867-1642105329",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28867,
+      "title": "Deltarune - Knock You Down !!",
+      "version": "smwc-28867-1642105329",
+      "upstream_time": 1642105329,
+      "download_url": "https://dl.smwcentral.net/28867/BoxingBoss.zip",
+      "filename": "BoxingBoss.zip",
+      "size": 72765,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

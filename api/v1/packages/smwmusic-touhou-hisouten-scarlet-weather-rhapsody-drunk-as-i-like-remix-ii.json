@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-hisouten-scarlet-weather-rhapsody-drunk-as-i-like-remix-ii",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21008,
+  "title": "Touhou Hisouten ~ Scarlet Weather Rhapsody - Drunk As I Like (Remix II)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "title"
+  ],
+  "description": "The song that plays in the cutscene before you fight Suika Ibuki, but most of you probably know it from the Demoman YTPMV (Also known as \"Drunk As I Like\") or the Silva-rip of \"Mario Party - Play A Mini-game! (Drunk Mix).\" Not exactly 1:1 with the original, but more of a remix (a sampled one if you may), with some things being the same as before, but other things not so much.<br>\r\n<br>\r\nIt could fit small cutscenes, credits, title screens, or even some calm levels.<br>\r\n<br>\r\n<b>Note</b>: In the txt file, there are five customizable options that allow you to change the pitch of the song to either the b minor (Default), c minor, d minor (Original), c# minor, and a# minor. If you don't know what those mean, mess with the options and you'll get it.<br>\r\n<br>\r\nAlso, it's not compatible with Thunder/Blargg SFX or the Bonus End SFX. There's a txt file with the sample group in which you'll have to move into your sample groups txt file.",
+  "latest_version": "smwc-21008-1566684580",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21008,
+      "title": "Touhou Hisouten ~ Scarlet Weather Rhapsody - Drunk As I Like (Remix II)",
+      "version": "smwc-21008-1566684580",
+      "upstream_time": 1566684580,
+      "download_url": "https://dl.smwcentral.net/21008/Drunk%20As%20I%20Like%20II.zip",
+      "filename": "Drunk As I Like II.zip",
+      "size": 241887,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

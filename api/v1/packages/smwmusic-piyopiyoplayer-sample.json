@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-piyopiyoplayer-sample",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27681,
+  "title": "PiyoPiyoPlayer - Sample 1",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "A tense short song, made by Pixel in order to test PiyoPiyo's capabilities. (the music program used by Ikachan)<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○Sample1：PiyoPiyo完成時にテスト用に作った曲。<br>\r\nRough translation:<br>\r\n• Sample1: Piyo A song made for testing when Piyo was completed.</div></div>",
+  "latest_version": "smwc-27681-1629835952",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27681,
+      "title": "PiyoPiyoPlayer - Sample 1",
+      "version": "smwc-27681-1629835952",
+      "upstream_time": 1629835952,
+      "download_url": "https://dl.smwcentral.net/27681/Sample%201.zip",
+      "filename": "Sample 1.zip",
+      "size": 47604,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-valkyrie-no-densetsu-theme-of-lava-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39981,
+  "title": "Valkyrie no Densetsu - Theme of Lava Cave",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "cave",
+    "final",
+    "fire",
+    "tense"
+  ],
+  "description": "Catchy song that plays in the Lava Cave of Valkyrie no Densetsu for the arcade/PSX.<br>\r\nOriginally ported for the hack TEN B-Side.<br>\r\n<br>\r\nNot compatible with<br>\r\n- Yoshi<br>\r\n- Thunder / Blargg<br>\r\n- Bonus End",
+  "latest_version": "smwc-39981-1751789774",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39981,
+      "title": "Valkyrie no Densetsu - Theme of Lava Cave",
+      "version": "smwc-39981-1751789774",
+      "upstream_time": 1751789774,
+      "download_url": "https://dl.smwcentral.net/39981/Valkyrie%20no%20Densetsu%20-%20Theme%20of%20Lava%20Cave..zip",
+      "filename": "Valkyrie no Densetsu - Theme of Lava Cave..zip",
+      "size": 95219,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

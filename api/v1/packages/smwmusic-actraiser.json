@@ -1,0 +1,70 @@
+{
+  "name": "smwmusic-actraiser",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35566,
+  "title": "Actraiser 2 - Stage Clear",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "dark mountains",
+    "goal",
+    "ice",
+    "mountain",
+    "night",
+    "palace",
+    "ruins",
+    "temple",
+    "tense"
+  ],
+  "description": "The song that plays when clearing a stage in Actraiser 2. Remix of the first game's stage clear theme.<br>\r\n<br>\r\nIncludes an option for the vanilla SMW goal sound effect.<br>\r\n<br>\r\nNote: I wouldn't recommend using this as a global song.<br>\r\n<br>\r\n<br>\r\nInsert size for version without sound: 0x00F1 bytes<br>\r\n<br>\r\nUpdate (11/25/2023):<br>\r\n- Cut the Tempo and note lengths in half, saving space.",
+  "latest_version": "smwc-35566-1701991483",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35566,
+      "title": "Actraiser 2 - Stage Clear",
+      "version": "smwc-35566-1701991483",
+      "upstream_time": 1701991483,
+      "download_url": "https://dl.smwcentral.net/35566/Actraiser%202%20stage%20clear.zip",
+      "filename": "Actraiser 2 stage clear.zip",
+      "size": 111383,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32496,
+      "title": "ActRaiser 2 - Ice Palace",
+      "version": "smwc-32496-1680326221",
+      "upstream_time": 1680326221,
+      "download_url": "https://dl.smwcentral.net/32496/10%20Ice%20Palace.zip",
+      "filename": "10 Ice Palace.zip",
+      "size": 60511,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11408,
+      "title": "ActRaiser 2 - Ice Palace",
+      "version": "smwc-11408-1435266391",
+      "upstream_time": 1435266391,
+      "download_url": "https://dl.smwcentral.net/11408/Actraiser%202%20-%20Ice%20Palace.zip",
+      "filename": "Actraiser 2 - Ice Palace.zip",
+      "size": 30965,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

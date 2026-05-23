@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-lives",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41148,
+  "title": "Teleport on Lives",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "life",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Teleports the player if they have a certain amount of lives.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41148-1764371920",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41148,
+      "title": "Teleport on Lives",
+      "version": "smwc-41148-1764371920",
+      "upstream_time": 1764371920,
+      "download_url": "https://dl.smwcentral.net/41148/teleport_lives.zip",
+      "filename": "teleport_lives.zip",
+      "size": 646,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-final-fantasy-ix-crystal-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37942,
+  "title": "Final Fantasy IX - Crystal World",
+  "authors": [
+    "Alex"
+  ],
+  "tags": [
+    "final",
+    "overworld"
+  ],
+  "description": "Unsampled version of this <a href=\"https://smwc.me/s/28819\">port</a>",
+  "latest_version": "smwc-37942-1721662628",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37942,
+      "title": "Final Fantasy IX - Crystal World",
+      "version": "smwc-37942-1721662628",
+      "upstream_time": 1721662628,
+      "download_url": "https://dl.smwcentral.net/37942/FFIX%20Crystal%20World%28unsampled%29.zip",
+      "filename": "FFIX Crystal World(unsampled).zip",
+      "size": 31264,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28819,
+      "title": "Final Fantasy IX - Crystal World",
+      "version": "smwc-28819-1640984554",
+      "upstream_time": 1640984554,
+      "download_url": "https://dl.smwcentral.net/28819/Final%20Fantasy%20IX%20-%20Crystal%20World.zip",
+      "filename": "Final Fantasy IX - Crystal World.zip",
+      "size": 38551,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

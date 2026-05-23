@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-death-counter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20256,
+  "title": "Death Counter",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "counter",
+    "death",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Replaces the score counter with a death counter that saves to SRAM.",
+  "latest_version": "smwc-20256-1561075984",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20256,
+      "title": "Death Counter",
+      "version": "smwc-20256-1561075984",
+      "upstream_time": 1561075984,
+      "download_url": "https://dl.smwcentral.net/20256/DeathCounter.zip",
+      "filename": "DeathCounter.zip",
+      "size": 860,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

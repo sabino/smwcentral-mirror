@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-megami-tensei-gaiden-last-bible-ii-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33342,
+  "title": "Megami Tensei Gaiden: Last Bible II - Town",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "retro",
+    "town"
+  ],
+  "description": "Town from Last Bible II.",
+  "latest_version": "smwc-33342-1680581309",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33342,
+      "title": "Megami Tensei Gaiden: Last Bible II - Town",
+      "version": "smwc-33342-1680581309",
+      "upstream_time": 1680581309,
+      "download_url": "https://dl.smwcentral.net/33342/Last%20Bible%20II%20-%20Town.zip",
+      "filename": "Last Bible II - Town.zip",
+      "size": 71259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

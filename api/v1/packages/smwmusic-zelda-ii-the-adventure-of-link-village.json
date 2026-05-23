@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-zelda-ii-the-adventure-of-link-village",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29124,
+  "title": "Zelda II: The Adventure of Link - Village",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "retro",
+    "town"
+  ],
+  "description": "The calm and reassuring village theme from Zelda 2 on the NES.<br>\r\n<br>\r\nCan be used in towns.<br>\r\n<br>\r\nOh, also, Happy New Year!",
+  "latest_version": "smwc-29124-1643578110",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29124,
+      "title": "Zelda II: The Adventure of Link - Village",
+      "version": "smwc-29124-1643578110",
+      "upstream_time": 1643578110,
+      "download_url": "https://dl.smwcentral.net/29124/Zelda%202%20The%20Adventure%20of%20Link%20-%20Village.zip",
+      "filename": "Zelda 2 The Adventure of Link - Village.zip",
+      "size": 34459,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

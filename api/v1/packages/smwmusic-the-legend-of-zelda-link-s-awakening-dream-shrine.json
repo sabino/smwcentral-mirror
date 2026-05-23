@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-link-s-awakening-dream-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23068,
+  "title": "The Legend of Zelda: Link's Awakening - Dream Shrine",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "dark",
+    "overworld",
+    "spooky"
+  ],
+  "description": "The worrying and mysterious music that plays when you enter the Dream Shrine in Link's Awakening. This dungeon was rather short and so is the track.<br>\r\nMost likely will fit any haunted overworld.",
+  "latest_version": "smwc-23068-1590889339",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23068,
+      "title": "The Legend of Zelda: Link's Awakening - Dream Shrine",
+      "version": "smwc-23068-1590889339",
+      "upstream_time": 1590889339,
+      "download_url": "https://dl.smwcentral.net/23068/ladreamshrine_0_1.zip",
+      "filename": "ladreamshrine_0_1.zip",
+      "size": 31516,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

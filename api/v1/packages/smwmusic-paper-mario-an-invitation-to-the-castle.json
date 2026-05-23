@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-paper-mario-an-invitation-to-the-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7568,
+  "title": "Paper Mario - An Invitation to the Castle",
+  "authors": [
+    "x-treme"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "cutscene",
+    "p-switch",
+    "retro",
+    "sky",
+    "town",
+    "water"
+  ],
+  "description": "A nice and simple song that would work well for a cutscene.",
+  "latest_version": "smwc-7568-1318093005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7568,
+      "title": "Paper Mario - An Invitation to the Castle",
+      "version": "smwc-7568-1318093005",
+      "upstream_time": 1318093005,
+      "download_url": "https://dl.smwcentral.net/7568/Paper%20Mario%20-%20An%20Invitation%20to%20the%20Castle.zip",
+      "filename": "Paper Mario - An Invitation to the Castle.zip",
+      "size": 66180,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

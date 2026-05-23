@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-chill",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40188,
+  "title": "Chill",
+  "authors": [
+    "nessexceptless"
+  ],
+  "tags": [
+    "calm",
+    "mysterious",
+    "upbeat"
+  ],
+  "description": "Simple loop I completed while learning AddMusicK.<br>\r\nUnfortunately as it is my first attempt I haven't really stretched my metaphorical legs with this. (as I'm sure you can grasp by the length.)<br>\r\n<br>\r\nI'm mainly uploading this for archival purposes but if you want to use it in your hack for whatever reason go on ahead.<br>\r\n<br>\r\n= Changelog =<br>\r\n- Replaced basic copy and paste of the drum loop with a... well, loop. (Superloop to be specific)<br>\r\n<br>\r\n- Added missing volume macros to Channel 0 and 1",
+  "latest_version": "smwc-40188-1754167223",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40188,
+      "title": "Chill",
+      "version": "smwc-40188-1754167223",
+      "upstream_time": 1754167223,
+      "download_url": "https://dl.smwcentral.net/40188/chill.zip",
+      "filename": "chill.zip",
+      "size": 32000,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32162,
+      "title": "chill",
+      "version": "smwc-32162-1674328793",
+      "upstream_time": 1674328793,
+      "download_url": "https://dl.smwcentral.net/32162/chill.zip",
+      "filename": "chill.zip",
+      "size": 30989,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

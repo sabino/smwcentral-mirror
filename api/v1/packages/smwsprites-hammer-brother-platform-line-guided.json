@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-hammer-brother-platform-line-guided",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18933,
+  "title": "Hammer Brother Platform, Line-Guided",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "hammer bro",
+    "line-guided",
+    "lorom",
+    "pacifist",
+    "platform"
+  ],
+  "description": "This hammer brother platform (9C) will follow a line guide pattern similar to other platforms. It can also carry a hammer brother. (NOTE: tested with the vanilla hammer brother only. Any disassembly will require the hammer bro fix)<br>\r\n<br>\r\nNOTE: Integrates the hammer bro fix.",
+  "latest_version": "smwc-18933-1547519433",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18933,
+      "title": "Hammer Brother Platform, Line-Guided",
+      "version": "smwc-18933-1547519433",
+      "upstream_time": 1547519433,
+      "download_url": "https://dl.smwcentral.net/18933/Line-Guided%20Hammer%20Brother%20Platform.zip",
+      "filename": "Line-Guided Hammer Brother Platform.zip",
+      "size": 3093,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

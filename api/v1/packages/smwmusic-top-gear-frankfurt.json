@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-top-gear-frankfurt",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21728,
+  "title": "Top Gear - Frankfurt",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "athletic",
+    "mountain",
+    "tense"
+  ],
+  "description": "Good for athletic stages",
+  "latest_version": "smwc-21728-1577837667",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21728,
+      "title": "Top Gear - Frankfurt",
+      "version": "smwc-21728-1577837667",
+      "upstream_time": 1577837667,
+      "download_url": "https://dl.smwcentral.net/21728/Top%20Gear%20-%20Frankfurt.zip",
+      "filename": "Top Gear - Frankfurt.zip",
+      "size": 38163,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8461,
+      "title": "Top Gear - Frankfurt",
+      "version": "smwc-8461-1381775207",
+      "upstream_time": 1381775207,
+      "download_url": "https://dl.smwcentral.net/8461/race%204.zip",
+      "filename": "race 4.zip",
+      "size": 65498,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

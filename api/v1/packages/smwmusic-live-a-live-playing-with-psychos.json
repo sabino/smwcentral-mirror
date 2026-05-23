@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-live-a-live-playing-with-psychos",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22212,
+  "title": "Live A Live - Playing with Psychos",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "final"
+  ],
+  "description": "The theme that plays for battles in the Flow chapter. Requested by Infinity.<br>\r\nOmitted samples: 09, 0D, 0F & 11. (@7, @14, @17, @21)",
+  "latest_version": "smwc-22212-1582587022",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22212,
+      "title": "Live A Live - Playing with Psychos",
+      "version": "smwc-22212-1582587022",
+      "upstream_time": 1582587022,
+      "download_url": "https://dl.smwcentral.net/22212/Live-A-Live%20-%20A%20Painful%20Death%20at%20the%20Hands%20of%20a%20Psycho.zip",
+      "filename": "Live-A-Live - A Painful Death at the Hands of a Psycho.zip",
+      "size": 75346,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-hole-in-one-golf-rainfall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8539,
+  "title": "Hole in One Golf - Rainfall",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "mountain",
+    "overworld"
+  ],
+  "description": "A calm song that would work well on a peaceful grassland or mountain submap",
+  "latest_version": "smwc-8539-1396480812",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8539,
+      "title": "Hole in One Golf - Rainfall",
+      "version": "smwc-8539-1396480812",
+      "upstream_time": 1396480812,
+      "download_url": "https://dl.smwcentral.net/8539/Rainfall.zip",
+      "filename": "Rainfall.zip",
+      "size": 63263,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

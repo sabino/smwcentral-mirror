@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-solid-slope-assist-tile",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28762,
+  "title": "Solid Slope Assist Tile",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1",
+    "slope"
+  ],
+  "description": "This simple patch adds a custom block without GPS by turning Map16 tile 131 into a solid slope assist tile i.e. a block which is solid from the bottom and sides but acts like a slope assist tile from above, allowing you to connect slopes with a wall at the base and have an almost solid 1F0.",
+  "latest_version": "smwc-28762-1652162304",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28762,
+      "title": "Solid Slope Assist Tile",
+      "version": "smwc-28762-1652162304",
+      "upstream_time": 1652162304,
+      "download_url": "https://dl.smwcentral.net/28762/solid_slope_assist.zip",
+      "filename": "solid_slope_assist.zip",
+      "size": 980,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

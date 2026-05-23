@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-the-shinri-game-2-magical-trip-in-game-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39692,
+  "title": "The Shinri Game 2: Magical Trip - In-game BGM 9",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "tense"
+  ],
+  "description": "A long, repetitive and atmospheric song from The Shinri Game 2. Good for caves or abstract stages.<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b>Only use this song in levels with no time limit, if the time limit goes below 100 it causes the drum loop to desync</b></span>",
+  "latest_version": "smwc-39692-1748703372",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39692,
+      "title": "The Shinri Game 2: Magical Trip - In-game BGM 9",
+      "version": "smwc-39692-1748703372",
+      "upstream_time": 1748703372,
+      "download_url": "https://dl.smwcentral.net/39692/TSG2_INGAME9.zip",
+      "filename": "TSG2_INGAME9.zip",
+      "size": 79516,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21105,
+      "title": "The Shinri Game 2: Magical Trip - In-Game BGM 4",
+      "version": "smwc-21105-1568866517",
+      "upstream_time": 1568866517,
+      "download_url": "https://dl.smwcentral.net/21105/The%20Shinri%20Game%202%20Magical%20Trip%20-%20In-Game%20BGM%204.zip",
+      "filename": "The Shinri Game 2 Magical Trip - In-Game BGM 4.zip",
+      "size": 48158,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

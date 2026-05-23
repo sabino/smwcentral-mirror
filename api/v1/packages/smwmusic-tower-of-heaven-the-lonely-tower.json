@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-tower-of-heaven-the-lonely-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22268,
+  "title": "Tower of Heaven - The Lonely Tower",
+  "authors": [
+    "Lui"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "dark",
+    "night",
+    "overworld",
+    "sad",
+    "sky",
+    "space",
+    "title"
+  ],
+  "description": "The title screen theme from Tower of Heaven, which is a slower arrangement of the main leitmotiv.",
+  "latest_version": "smwc-22268-1583900844",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22268,
+      "title": "Tower of Heaven - The Lonely Tower",
+      "version": "smwc-22268-1583900844",
+      "upstream_time": 1583900844,
+      "download_url": "https://dl.smwcentral.net/22268/lonely%20tower.zip",
+      "filename": "lonely tower.zip",
+      "size": 36707,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18920,
+      "title": "Tower of Heaven - The Lonely Tower",
+      "version": "smwc-18920-1547308789",
+      "upstream_time": 1547308789,
+      "download_url": "https://dl.smwcentral.net/18920/Tower%20of%20Heaven%20-%20The%20Lonely%20Tower.zip",
+      "filename": "Tower of Heaven - The Lonely Tower.zip",
+      "size": 31616,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

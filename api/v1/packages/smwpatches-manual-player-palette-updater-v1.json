@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-manual-player-palette-updater-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 32533,
+  "title": "Manual Player Palette Updater V1.1",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch allows you to change the player's palette (colors 6-F of palette 8) on the fly by setting a flag.<br>\r\n<br>\r\nyoshifanatic update: Converted this patch to asar and made it SA-1 compatible, at Soul's request.",
+  "latest_version": "smwc-32533-1683261467",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 32533,
+      "title": "Manual Player Palette Updater V1.1",
+      "version": "smwc-32533-1683261467",
+      "upstream_time": 1683261467,
+      "download_url": "https://dl.smwcentral.net/32533/Manual%20Player%20Palette%20Updater.zip",
+      "filename": "Manual Player Palette Updater.zip",
+      "size": 836,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

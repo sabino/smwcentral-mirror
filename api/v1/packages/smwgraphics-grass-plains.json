@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-grass-plains",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 28081,
+  "title": "Grass Plains",
+  "authors": [
+    "Flagpole1up",
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "mushroom"
+  ],
+  "description": "This SMW looking background was ripped from a <a href=\"https://mfgg.net/index.php?act=resdb&param=02&c=1&id=37114\" rel=\"nofollow\">tileset sheet</a> (having the same name as the submission) by the user Flagpole1up, so if you give credit to someone, give it to them.<br>\r\n<br>\r\nUses one GFX File, BG1, as well as Map16 Page 93 (make sure to change the map16 bank [cement block icon on the BG editor] to 01, or else you'll get garbage tiles).",
+  "latest_version": "smwc-28081-1629734293",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 28081,
+      "title": "Grass Plains",
+      "version": "smwc-28081-1629734293",
+      "upstream_time": 1629734293,
+      "download_url": "https://dl.smwcentral.net/28081/Grass%20Plains%20BG.zip",
+      "filename": "Grass Plains BG.zip",
+      "size": 2823,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

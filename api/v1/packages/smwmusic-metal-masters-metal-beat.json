@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-metal-masters-metal-beat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20381,
+  "title": "Metal Masters - Metal Beat",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "retro"
+  ],
+  "description": "Includes a version with and without an intro. Good for abstract levels.",
+  "latest_version": "smwc-20381-1562478392",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20381,
+      "title": "Metal Masters - Metal Beat",
+      "version": "smwc-20381-1562478392",
+      "upstream_time": 1562478392,
+      "download_url": "https://dl.smwcentral.net/20381/Metal%20Masters%20-%20Metal%20Beat.zip",
+      "filename": "Metal Masters - Metal Beat.zip",
+      "size": 63669,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

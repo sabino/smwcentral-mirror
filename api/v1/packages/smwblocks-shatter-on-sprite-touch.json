@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-shatter-on-sprite-touch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3935,
+  "title": "Shatter on Sprite Touch",
+  "authors": [
+    "MarioE"
+  ],
+  "tags": [
+    "contact",
+    "lorom",
+    "shatter",
+    "sprite"
+  ],
+  "description": "This block will break when one of the specified sprites touches it. Can be customized; see the .asm file.",
+  "latest_version": "smwc-3935-1410750219",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3935,
+      "title": "Shatter on Sprite Touch",
+      "version": "smwc-3935-1410750219",
+      "upstream_time": 1410750219,
+      "download_url": "https://dl.smwcentral.net/3935/spriteshatter.zip",
+      "filename": "spriteshatter.zip",
+      "size": 551,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

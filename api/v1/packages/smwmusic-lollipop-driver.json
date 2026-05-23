@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lollipop-driver",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22109,
+  "title": "梅干茶漬け - Lollipop☆driveR",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "grassland"
+  ],
+  "description": "A happy, chiptune style song that is composed by 梅干茶漬け and joined in BOFU2015. Unlike the original song, this is a looped version to be used in SMW levels. Could fit a grassland level.<br>\r\n<br>\r\nNot compatible with the following:<br>\r\n- vanilla death jingle (however note that it's possible to resolve the incompatibility by asm, e.g. https://bin.smwcentral.net/u/1250/deathjingle_uberasm.zip)<br>\r\n- vanilla p switch song<br>\r\n- vanilla star song<br>\r\n- sfx that uses sample 13 (blargg, lightning)<br>\r\n- noise sfx (bubble, clapping chuck, fire breath, podoboo, swooper)",
+  "latest_version": "smwc-22109-1581959469",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22109,
+      "title": "梅干茶漬け - Lollipop☆driveR",
+      "version": "smwc-22109-1581959469",
+      "upstream_time": 1581959469,
+      "download_url": "https://dl.smwcentral.net/22109/lpdr.zip",
+      "filename": "lpdr.zip",
+      "size": 109401,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

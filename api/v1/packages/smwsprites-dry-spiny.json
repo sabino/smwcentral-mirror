@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-dry-spiny",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36856,
+  "title": "Dry Spiny",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Dry Spinies are the skeletal remains of Spinies. They crawl along slowly and their sharp spines protect them from being crushed by stomping attacks. Unlike living Spinies, they are immune to fire attacks.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36856-1727684269",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36856,
+      "title": "Dry Spiny",
+      "version": "smwc-36856-1727684269",
+      "upstream_time": 1727684269,
+      "download_url": "https://dl.smwcentral.net/36856/Dry%20Spiny.zip",
+      "filename": "Dry Spiny.zip",
+      "size": 7503,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

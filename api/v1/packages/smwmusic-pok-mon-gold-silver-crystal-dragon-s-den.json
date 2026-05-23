@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-dragon-s-den",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7676,
+  "title": "Pokémon Gold/Silver/Crystal - Dragon's Den",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "final",
+    "ghost house",
+    "night",
+    "retro",
+    "ruins",
+    "temple"
+  ],
+  "description": "An eerie 8-bit song from the 2nd generation of Pokemon. Could fit places like a ghost house.",
+  "latest_version": "smwc-7676-1325394942",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7676,
+      "title": "Pokémon Gold/Silver/Crystal - Dragon's Den",
+      "version": "smwc-7676-1325394942",
+      "upstream_time": 1325394942,
+      "download_url": "https://dl.smwcentral.net/7676/Pokemon%20GSC%20-%20Dragon%27s%20Den.zip",
+      "filename": "Pokemon GSC - Dragon%27s Den.zip",
+      "size": 66933,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

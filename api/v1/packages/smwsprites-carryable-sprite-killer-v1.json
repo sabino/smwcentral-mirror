@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-carryable-sprite-killer-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25948,
+  "title": "Carryable Sprite Killer v1.1",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "carriable",
+    "kill",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This sprite is a sphere that can be picked up and carried around, and will indiscriminately destroy (almost) any sprite it comes into contact with. It can be set to destroy an unlimited number of sprites, or you can set it to self-destruct after destroying a specified number of sprites via extra byte 1. You can also set a \"self-destruct\" timer which will start counting down after killing the first sprite, and you can select which palette row the Sprite Killer uses with extra byte 3.<br>\r\nIncludes a basic \"death sphere\" graphic that overwrites half the Hammer Bro in GFX13 (SP3).<br>\r\n<br>\r\nRequested by Earthling.<br>\r\n<br>\r\nv1.1 (18/01/2021):<br>\r\n- Now uses a vanilla interaction routine which allows the Sprite Killer to account for sprites of different hitbox sizes.<br>\r\n- Added a \"self-destruct timer\" feature, which is set by extra byte 2.<br>\r\n- Added an \"exclusion\" feature: You can define vanilla and custom sprites to be excluded from being killed, by adding their number to exclusion tables in the .asm file.<br>\r\n- Moved the palette option to extra byte 3.<br>\r\n- Redesigned the graphic.",
+  "latest_version": "smwc-25948-1615099422",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25948,
+      "title": "Carryable Sprite Killer v1.1",
+      "version": "smwc-25948-1615099422",
+      "upstream_time": 1615099422,
+      "download_url": "https://dl.smwcentral.net/25948/SpriteKiller1.1.zip",
+      "filename": "SpriteKiller1.1.zip",
+      "size": 6350,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

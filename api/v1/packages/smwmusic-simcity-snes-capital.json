@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-simcity-snes-capital",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23998,
+  "title": "SimCity (SNES) - Capital",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "misc",
+    "overworld"
+  ],
+  "description": "Capital from SimCity, but unsampled this time. Good for overworlds.",
+  "latest_version": "smwc-23998-1596079243",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23998,
+      "title": "SimCity (SNES) - Capital",
+      "version": "smwc-23998-1596079243",
+      "upstream_time": 1596079243,
+      "download_url": "https://dl.smwcentral.net/23998/SimCity%20-%20Capital%20%28Unsampled%29.zip",
+      "filename": "SimCity - Capital (Unsampled).zip",
+      "size": 33351,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23997,
+      "title": "SimCity (SNES) - Capital",
+      "version": "smwc-23997-1596079234",
+      "upstream_time": 1596079234,
+      "download_url": "https://dl.smwcentral.net/23997/SimCity%20-%20Capital.zip",
+      "filename": "SimCity - Capital.zip",
+      "size": 44617,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

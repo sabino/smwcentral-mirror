@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-super-nazo-puyo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19113,
+  "title": "Super Nazo Puyo 2 - Village & Lakeside",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland",
+    "night",
+    "overworld",
+    "sky",
+    "town"
+  ],
+  "description": "Fit with calm overworld theme",
+  "latest_version": "smwc-19113-1550283500",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19113,
+      "title": "Super Nazo Puyo 2 - Village & Lakeside",
+      "version": "smwc-19113-1550283500",
+      "upstream_time": 1550283500,
+      "download_url": "https://dl.smwcentral.net/19113/Super%20Nazo%20Puyo%202%20-%20Village%20%26%20Lakeside.zip",
+      "filename": "Super Nazo Puyo 2 - Village %26 Lakeside.zip",
+      "size": 69801,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18891,
+      "title": "Super Nazo Puyo 2 - Rulue's House & Menu Screen",
+      "version": "smwc-18891-1547175129",
+      "upstream_time": 1547175129,
+      "download_url": "https://dl.smwcentral.net/18891/snp%20menu.zip",
+      "filename": "snp menu.zip",
+      "size": 35603,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

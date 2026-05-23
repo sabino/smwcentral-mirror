@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-donkey-kong-country-bonus-lose",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14114,
+  "title": "Donkey Kong Country - Bonus Lose",
+  "authors": [
+    "6646"
+  ],
+  "tags": [
+    "miss"
+  ],
+  "description": "Bonus lose theme from DKC.",
+  "latest_version": "smwc-14114-1473302610",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14114,
+      "title": "Donkey Kong Country - Bonus Lose",
+      "version": "smwc-14114-1473302610",
+      "upstream_time": 1473302610,
+      "download_url": "https://dl.smwcentral.net/14114/dkc_bonus_lose.zip",
+      "filename": "dkc_bonus_lose.zip",
+      "size": 44944,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

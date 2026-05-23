@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-floating-spike-ball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3580,
+  "title": "Floating Spike Ball",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "spike",
+    "water"
+  ],
+  "description": "This is a disassembly of sprite A4 in SMW, the floating spike ball.",
+  "latest_version": "smwc-3580-1278196645",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3580,
+      "title": "Floating Spike Ball",
+      "version": "smwc-3580-1278196645",
+      "upstream_time": 1278196645,
+      "download_url": "https://dl.smwcentral.net/3580/SMWSDIS%20-%20sprite%20A4%20-%20floating%20spike%20ball.zip",
+      "filename": "SMWSDIS - sprite A4 - floating spike ball.zip",
+      "size": 2786,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

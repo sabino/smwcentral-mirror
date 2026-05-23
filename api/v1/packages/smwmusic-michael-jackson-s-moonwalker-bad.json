@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-michael-jackson-s-moonwalker-bad",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24594,
+  "title": "Michael Jackson's Moonwalker - Bad",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "tense"
+  ],
+  "description": "Accurate-as-possible Port of Bad from Michael Jackson's Moonwalker cause why not. <br>\r\n<br>\r\nThis port omits the Thunder sample which means it's incompatible with blaargs and thunder, so watch out for that.",
+  "latest_version": "smwc-24594-1601506974",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24594,
+      "title": "Michael Jackson's Moonwalker - Bad",
+      "version": "smwc-24594-1601506974",
+      "upstream_time": 1601506974,
+      "download_url": "https://dl.smwcentral.net/24594/Michael%20Jackson%27s%20Moonwalker%20-%20Bad.zip",
+      "filename": "Michael Jackson%27s Moonwalker - Bad.zip",
+      "size": 88755,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

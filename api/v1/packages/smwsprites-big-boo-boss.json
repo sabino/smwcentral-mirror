@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-big-boo-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3220,
+  "title": "Big Boo Boss",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "big",
+    "big boo",
+    "boo",
+    "boss",
+    "enemy",
+    "ghost house",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A custom sprite that's based on the original sprite. It circles around the screen and will trigger the settings once it has been defeated. Comes with:<br>\r\n<br>\r\n-A normal Big Boo Boss config. (Triggers secret exit on extra bit)<br>\r\n-A Big Boo Boss config that changes into a door.<br>\r\n<br>\r\nMore details in the readme.",
+  "latest_version": "smwc-3220-1203131957",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3220,
+      "title": "Big Boo Boss",
+      "version": "smwc-3220-1203131957",
+      "upstream_time": 1203131957,
+      "download_url": "https://dl.smwcentral.net/3220/BiggieBooBoss.zip",
+      "filename": "BiggieBooBoss.zip",
+      "size": 6344,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-yoshi-touch-n-go-challenge-mode",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8233,
+  "title": "Yoshi Touch \"N\" Go - Challenge Mode",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "athletic",
+    "bonus"
+  ],
+  "description": "A happy little song that could suit an athletic stage or bonus room.",
+  "latest_version": "smwc-8233-1340875447",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8233,
+      "title": "Yoshi Touch \"N\" Go - Challenge Mode",
+      "version": "smwc-8233-1340875447",
+      "upstream_time": 1340875447,
+      "download_url": "https://dl.smwcentral.net/8233/Yoshi%20Touch%20N%20Go%20-%20Challenge%20Mode.zip",
+      "filename": "Yoshi Touch N Go - Challenge Mode.zip",
+      "size": 64470,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

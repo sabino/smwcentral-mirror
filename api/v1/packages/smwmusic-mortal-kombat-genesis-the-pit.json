@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-mortal-kombat-genesis-the-pit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19532,
+  "title": "Mortal Kombat (Genesis) - The Pit",
+  "authors": [
+    "com_poser"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "cave",
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "jungle",
+    "ruins",
+    "sewer",
+    "swamp",
+    "tense"
+  ],
+  "description": "My custom port of The Pit music from the Genesis version of Mortal Kombat featured in GPW2. <br>\r\n<br>\r\nThis track is dark, moody, and groovy. Would work well in castle or tense boss levels.",
+  "latest_version": "smwc-19532-1554077872",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19532,
+      "title": "Mortal Kombat (Genesis) - The Pit",
+      "version": "smwc-19532-1554077872",
+      "upstream_time": 1554077872,
+      "download_url": "https://dl.smwcentral.net/19532/Mortal%20Kombat%20%28Genesis%29%20-%20The%20Pit.zip",
+      "filename": "Mortal Kombat (Genesis) - The Pit.zip",
+      "size": 70236,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

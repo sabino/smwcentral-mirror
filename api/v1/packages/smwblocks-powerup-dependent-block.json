@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-powerup-dependent-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3920,
+  "title": "Powerup-Dependent Block",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "powerup"
+  ],
+  "description": "This block will act like a different original block depending on your current powerup!",
+  "latest_version": "smwc-3920-1409015265",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3920,
+      "title": "Powerup-Dependent Block",
+      "version": "smwc-3920-1409015265",
+      "upstream_time": 1409015265,
+      "download_url": "https://dl.smwcentral.net/3920/Powerup.zip",
+      "filename": "Powerup.zip",
+      "size": 681,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

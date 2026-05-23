@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-wiklund-girl-next-door",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35679,
+  "title": "Wiklund - girl next door",
+  "authors": [
+    "Beruga1990"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "grassland",
+    "snow",
+    "town",
+    "urban"
+  ],
+  "description": "The song \"Girl next door\" is a chiptune song by the artist \"Wiklund\" from 2014. I like Wiklund's songs because they always sound very cheerful. That's why I took part in the Super Famicompo competition and my port placed 6th out of 61 in the \"Cover\" category.",
+  "latest_version": "smwc-35679-1703086466",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35679,
+      "title": "Wiklund - girl next door",
+      "version": "smwc-35679-1703086466",
+      "upstream_time": 1703086466,
+      "download_url": "https://dl.smwcentral.net/35679/Wiklund%20-%20girl%20next%20door.zip",
+      "filename": "Wiklund - girl next door.zip",
+      "size": 51700,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

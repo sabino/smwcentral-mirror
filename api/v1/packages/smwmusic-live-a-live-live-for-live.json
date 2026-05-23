@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-live-a-live-live-for-live",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22100,
+  "title": "Live A Live - Live for Live",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "credits",
+    "cutscene"
+  ],
+  "description": "The credits theme from Live-A-Live, it could fit a (very long) credit sequence or cutscene. Note that the song doesn't loop.<br>\r\n<br>\r\nNOTE: not compatible with thunder sfx/Blarggs, Bonus end song, P-Switch or Yoshi. If you need Yoshi and/or P-Switch, change the #define at the top of the file to 1, which will make the song compatible with those sound effects at the cost of less echo delay.",
+  "latest_version": "smwc-22100-1581363565",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22100,
+      "title": "Live A Live - Live for Live",
+      "version": "smwc-22100-1581363565",
+      "upstream_time": 1581363565,
+      "download_url": "https://dl.smwcentral.net/22100/41%20Live%20for%20Live.zip",
+      "filename": "41 Live for Live.zip",
+      "size": 97348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

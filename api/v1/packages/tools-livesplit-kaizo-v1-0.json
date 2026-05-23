@@ -1,0 +1,34 @@
+{
+  "name": "tools-livesplit-kaizo-v1-0",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 28606,
+  "title": "LiveSplit.Kaizo v1.0.6",
+  "authors": [
+    "NecroSky90"
+  ],
+  "tags": [
+    "automatic",
+    "autosplit",
+    "livesplit",
+    "speedrun",
+    "speedrunning"
+  ],
+  "description": "A LiveSplit Kaizo Autosplitter!<br>\r\n<br>\r\nThis .asl-file will take care of your splits automatically while speedrunning. <br>\r\nThe splits will always be at the same time (usually either on the whistle or on Mario's victory sign) and you <br>\r\nwon't have to worry about forgetting to split or splitting twice accidentally.<br>\r\n<br>\r\n<br>\r\nWhat do you need?<br>\r\n•    LiveSplit<br>\r\n•    One of the supported devices<br>\r\n•    One of the supported hacks<br>\r\n•    Splits for this hack<br>\r\n<br>\r\n<br>\r\n<br>\r\nInstallation<br>\r\n<br>\r\n<br>\r\n•    In Livesplit -&gt; Edit Layout… <br>\r\n•    Add -&gt; Control -&gt; Scriptable Auto Splitter<br>\r\n•    Layout Settings (lower left corner) -&gt; choose tab 'Scriptable Auto Splitter'<br>\r\n•    Script Path is the path to the file 'Livesplit.Kaizo.asl'<br>\r\n•    Check on 'Start', 'Split', 'Reset', 'Normal Levels', 'Boss Levels', and 'Switch Palaces'<br>\r\n•    Go<br>\r\n•    Attention: For a hack to be recognized correctly, the correct Game Name has to be set in LiveSplit (Best done with Autocomplete in 'Edit Splits...')<br>\r\n<br>\r\n<br>\r\nSupported Devices<br>\r\n<br>\r\nBy now the splitter only works on emulators (support for other devices will be added if available to me) and should work with these emulators and versions:<br>\r\n<br>\r\nRetroarch (Snes9x Core)<br>\r\nSnes9x-rr 1.60<br>\r\nSnes9x-rr 1.60 (x64)<br>\r\nSnes9x 1.60<br>\r\nSnes9x 1.60 (x64)<br>\r\nhigan v106<br>\r\nhigan v106.112<br>\r\nhigan v107<br>\r\nhigan v108<br>\r\nhigan v109<br>\r\nhigan v110<br>\r\nbsnes v107<br>\r\nbsnes v107.1<br>\r\nbsnes v107.2/107.3<br>\r\nbsnes v110<br>\r\nbsnes v111<br>\r\nbsnes v112<br>\r\nbsnes v115<br>\r\nBizHawk 2.3<br>\r\nBizHawk 2.3.1<br>\r\nBizHawk 2.3.2<br>\r\n<br>\r\nSupported Hacks<br>\r\n<br>\r\nLiveSplit.Kaizo does not work on all hacks and has to be adjusted individually for other hacks. By now these hacks work without issues:<br>\r\n<br>\r\n<br>\r\nBaby Kaizo World<br>\r\nClimb The Tower<br>\r\nCute Kaizo World<br>\r\nEl Dorado<br>\r\nGrand Poo World 2<br>\r\nInvictus<br>\r\nMahogen<br>\r\nLittle Mario World<br>\r\nPeachy Moat World – any% (100% not yet tested)<br>\r\nQuickie World<br>\r\nQuickie World 2<br>\r\nSuper Stacey World<br>\r\nSuper Swunsh World 2<br>\r\nShell's Retriever<br>\r\nTebeo<br>\r\nThe Joy of Kaizo<br>\r\n<br>\r\nMore hacks do work, however it is possible that some exits are not recognized correctly (leading to missing splits)<br>\r\n<br>\r\nIf you wish for a specific hack, let me know and I'll have a look on implementing it.<br>\r\n<br>\r\nI'm always happy to hear about critic and suggestions to improving this tool!<br>\r\n<br>\r\nv1.0.1:<br>\r\nAdded support for Higan v107-v110<br>\r\nAdded support for bsnes v115<br>\r\nAdded 'Invictus' to the list of supported hacks<br>\r\n<br>\r\nv1.0.2:<br>\r\n- Cute Kaizo World<br>\r\n- El Dorado<br>\r\n- Grand Poo World 2<br>\r\n- Quickie World<br>\r\n- Quickie World 2<br>\r\nhave been added to the list of supported hacks<br>\r\n<br>\r\nv1.0.3<br>\r\n- Mahogen<br>\r\n- Tebeo<br>\r\n- Super Stacey World<br>\r\nhave been added to the list of supported hacks<br>\r\n<br>\r\nChanged last split in El Dorado to fit run description<br>\r\n<br>\r\nv1.0.4<br>\r\n- Akogare 2<br>\r\n- Shellax<br>\r\nhave been added to the list of supported hacks<br>\r\n<br>\r\nv1.0.5<br>\r\nRemoved unnecessary lines of code<br>\r\nFixed issues when splitting orb exits in Quickie World 2<br>\r\n<br>\r\n- Casio Mario World<br>\r\n- Orcus<br>\r\nhave been added to the list of supported hacks<br>\r\n<br>\r\nv1.0.6<br>\r\n<br>\r\n- Boogie Wonderland<br>\r\n- Dreams<br>\r\n- Of Jumps and Platforms (thanks to Plane for the submission)<br>\r\n- Polyphony<br>\r\n- Silencio<br>\r\n- Super Joe Bros. 2<br>\r\n<br>\r\nhave been added to the list of supported hacks<br>\r\n<br>\r\n",
+  "latest_version": "smwc-28606-1635475651",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 28606,
+      "title": "LiveSplit.Kaizo v1.0.6",
+      "version": "smwc-28606-1635475651",
+      "upstream_time": 1635475651,
+      "download_url": "https://dl.smwcentral.net/28606/LiveSplit.Kaizo_v1.0.6.zip",
+      "filename": "LiveSplit.Kaizo_v1.0.6.zip",
+      "size": 4994,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

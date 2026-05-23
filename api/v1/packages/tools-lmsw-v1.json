@@ -1,0 +1,32 @@
+{
+  "name": "tools-lmsw-v1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 39602,
+  "title": "LMSW v1.20",
+  "authors": [
+    "Alcaro",
+    "TheBiob"
+  ],
+  "tags": [
+    "emulator",
+    "lunar magic"
+  ],
+  "description": "Allows the internal emulator in Lunar Magic to be used. Put everything in the same folder as Lunar Magic and have fun.<br>\r\n<br>\r\nAnyone with non-keyboard controllers is requested to go <a href=\"http://joytokey.net/en/download\" rel=\"nofollow\">here</a>.",
+  "latest_version": "smwc-39602-1752218174",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 39602,
+      "title": "LMSW v1.20",
+      "version": "smwc-39602-1752218174",
+      "upstream_time": 1752218174,
+      "download_url": "https://dl.smwcentral.net/39602/lmsw-v1.20.zip",
+      "filename": "lmsw-v1.20.zip",
+      "size": 2019405,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

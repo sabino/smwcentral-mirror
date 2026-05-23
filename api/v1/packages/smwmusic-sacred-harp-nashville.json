@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-sacred-harp-nashville",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25763,
+  "title": "Sacred Harp - Nashville",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "grassland",
+    "misc",
+    "mountain",
+    "overworld",
+    "sky",
+    "snow",
+    "title"
+  ],
+  "description": "A playful and happy little song that can embrace various purposes.<br>\r\n<br>\r\n<a href=\"https://sacredharpbremen.org/64-nashville/\" rel=\"nofollow\">/Full score/</a><br>\r\n<br>\r\nDone on K.T.B's request for the <a href=\"https://www.smwcentral.net/?p=viewthread&t=104766\">Winter C3</a>.",
+  "latest_version": "smwc-25763-1612116062",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25763,
+      "title": "Sacred Harp - Nashville",
+      "version": "smwc-25763-1612116062",
+      "upstream_time": 1612116062,
+      "download_url": "https://dl.smwcentral.net/25763/nashville_0_1.zip",
+      "filename": "nashville_0_1.zip",
+      "size": 32020,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

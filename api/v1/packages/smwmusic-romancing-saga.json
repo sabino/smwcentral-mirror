@@ -1,0 +1,781 @@
+{
+  "name": "smwmusic-romancing-saga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41344,
+  "title": "Romancing SaGa 3 - Staff Roll ~ Finale",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "beach",
+    "bonus",
+    "boss",
+    "calm",
+    "castle",
+    "cave",
+    "chase",
+    "credits",
+    "cutscene",
+    "dark",
+    "desert",
+    "final",
+    "forest",
+    "game over",
+    "ghost house",
+    "grassland",
+    "ice",
+    "intro",
+    "menu",
+    "misc",
+    "mountain",
+    "night",
+    "overworld",
+    "ruins",
+    "sad",
+    "sky",
+    "snow",
+    "space",
+    "spooky",
+    "temple",
+    "tense",
+    "title",
+    "town",
+    "water"
+  ],
+  "description": "I've never finished Romancing Saga 3 but I listened to this song tons of times while porting this.",
+  "latest_version": "smwc-41344-1773441154",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41344,
+      "title": "Romancing SaGa 3 - Staff Roll ~ Finale",
+      "version": "smwc-41344-1773441154",
+      "upstream_time": 1773441154,
+      "download_url": "https://dl.smwcentral.net/41344/3final.zip",
+      "filename": "3final.zip",
+      "size": 78809,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 40741,
+      "title": "Romancing SaGa 2 - Opening Theme",
+      "version": "smwc-40741-1760112517",
+      "upstream_time": 1760112517,
+      "download_url": "https://dl.smwcentral.net/40741/Romancing%20Saga%202%20-%20Opening%20Theme.zip",
+      "filename": "Romancing Saga 2 - Opening Theme.zip",
+      "size": 117483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39917,
+      "title": "Romancing SaGa 3 - Harid's Theme",
+      "version": "smwc-39917-1752201545",
+      "upstream_time": 1752201545,
+      "download_url": "https://dl.smwcentral.net/39917/Harid%27s%20Theme.zip",
+      "filename": "Harid%27s Theme.zip",
+      "size": 33079,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39898,
+      "title": "Romancing SaGa 3 - Nightmare",
+      "version": "smwc-39898-1755911373",
+      "upstream_time": 1755911373,
+      "download_url": "https://dl.smwcentral.net/39898/Nightmare.zip",
+      "filename": "Nightmare.zip",
+      "size": 31718,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39897,
+      "title": "Romancing SaGa 3 - Nightmare",
+      "version": "smwc-39897-1755911382",
+      "upstream_time": 1755911382,
+      "download_url": "https://dl.smwcentral.net/39897/Nightmare.zip",
+      "filename": "Nightmare.zip",
+      "size": 63191,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39412,
+      "title": "Romancing SaGa 3 - Podorui",
+      "version": "smwc-39412-1741209546",
+      "upstream_time": 1741209546,
+      "download_url": "https://dl.smwcentral.net/39412/Romancing%20SaGa%203%20-%20Podorui.zip",
+      "filename": "Romancing SaGa 3 - Podorui.zip",
+      "size": 32271,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37950,
+      "title": "Romancing SaGa 3 - Katarina's Theme",
+      "version": "smwc-37950-1718463465",
+      "upstream_time": 1718463465,
+      "download_url": "https://dl.smwcentral.net/37950/3katarina.zip",
+      "filename": "3katarina.zip",
+      "size": 72867,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37548,
+      "title": "Romancing SaGa 3 - Underwater Palace",
+      "version": "smwc-37548-1718135350",
+      "upstream_time": 1718135350,
+      "download_url": "https://dl.smwcentral.net/37548/Underwater%20Palace.zip",
+      "filename": "Underwater Palace.zip",
+      "size": 79443,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 36786,
+      "title": "Romancing SaGa 3 - Evil Does Not Cherish",
+      "version": "smwc-36786-1708310156",
+      "upstream_time": 1708310156,
+      "download_url": "https://dl.smwcentral.net/36786/Evil%20Does%20Not%20Cherish%20.zip",
+      "filename": "Evil Does Not Cherish .zip",
+      "size": 77030,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35817,
+      "title": "Romancing SaGa 2 - Heartful Tears",
+      "version": "smwc-35817-1704062392",
+      "upstream_time": 1704062392,
+      "download_url": "https://dl.smwcentral.net/35817/Romancing%20SaGa%202%20-%20Heartful%20Tears.zip",
+      "filename": "Romancing SaGa 2 - Heartful Tears.zip",
+      "size": 73297,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35816,
+      "title": "Romancing SaGa 2 - Heartful Tears",
+      "version": "smwc-35816-1704062387",
+      "upstream_time": 1704062387,
+      "download_url": "https://dl.smwcentral.net/35816/RS%202%20-%20Heartful%20Tears.zip",
+      "filename": "RS 2 - Heartful Tears.zip",
+      "size": 32948,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35193,
+      "title": "Romancing SaGa 2 - The Sinking Ship",
+      "version": "smwc-35193-1697980267",
+      "upstream_time": 1697980267,
+      "download_url": "https://dl.smwcentral.net/35193/The%20Sinking%20Ship%20by%20brickblock369.zip",
+      "filename": "The Sinking Ship by brickblock369.zip",
+      "size": 69028,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32888,
+      "title": "Romancing SaGa 2 - Empire City Avalon",
+      "version": "smwc-32888-1679096439",
+      "upstream_time": 1679096439,
+      "download_url": "https://dl.smwcentral.net/32888/RS%202%20-%20Empire%20City%20Avalon.zip",
+      "filename": "RS 2 - Empire City Avalon.zip",
+      "size": 32899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32887,
+      "title": "Romancing SaGa 2 - Empire City Avalon",
+      "version": "smwc-32887-1680079320",
+      "upstream_time": 1680079320,
+      "download_url": "https://dl.smwcentral.net/32887/Romancing%20SaGa%202%20-%20Empire%20City%20Avalon.zip",
+      "filename": "Romancing SaGa 2 - Empire City Avalon.zip",
+      "size": 64857,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 32559,
+      "title": "Romancing SaGa 2 - Rest Theme",
+      "version": "smwc-32559-1675226957",
+      "upstream_time": 1675226957,
+      "download_url": "https://dl.smwcentral.net/32559/99%20Rest%20Theme.zip",
+      "filename": "99 Rest Theme.zip",
+      "size": 30317,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31639,
+      "title": "Romancing SaGa 2 - Canal Fortress",
+      "version": "smwc-31639-1659127127",
+      "upstream_time": 1659127127,
+      "download_url": "https://dl.smwcentral.net/31639/RS%202%20-%20Canal%20Fortress.zip",
+      "filename": "RS 2 - Canal Fortress.zip",
+      "size": 32968,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31638,
+      "title": "Romancing SaGa 2 - Canal Fortress",
+      "version": "smwc-31638-1659127114",
+      "upstream_time": 1659127114,
+      "download_url": "https://dl.smwcentral.net/31638/Romancing%20SaGa%202%20-%20Canal%20Fortress.zip",
+      "filename": "Romancing SaGa 2 - Canal Fortress.zip",
+      "size": 69047,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31555,
+      "title": "Romancing SaGa 3 - The SaGa Continues",
+      "version": "smwc-31555-1663857948",
+      "upstream_time": 1663857948,
+      "download_url": "https://dl.smwcentral.net/31555/The%20SaGa%20Continues.zip",
+      "filename": "The SaGa Continues.zip",
+      "size": 77303,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29702,
+      "title": "Romancing SaGa 2 - Strangeness ~ Victor's Death",
+      "version": "smwc-29702-1648199707",
+      "upstream_time": 1648199707,
+      "download_url": "https://dl.smwcentral.net/29702/Romancing%20SaGa%202%20-%20Strangeness%20~%20Victor%27s%20Death.zip",
+      "filename": "Romancing SaGa 2 - Strangeness ~ Victor%27s Death.zip",
+      "size": 54402,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29701,
+      "title": "Romancing SaGa 2 - Strangeness ~ Victor's Death",
+      "version": "smwc-29701-1648199951",
+      "upstream_time": 1648199951,
+      "download_url": "https://dl.smwcentral.net/29701/RS%202%20-%20Strangeness%20~%20Victor%27s%20Death.zip",
+      "filename": "RS 2 - Strangeness ~ Victor%27s Death.zip",
+      "size": 31991,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27428,
+      "title": "Romancing SaGa 2 - Empire's Front Line",
+      "version": "smwc-27428-1626834345",
+      "upstream_time": 1626834345,
+      "download_url": "https://dl.smwcentral.net/27428/RS2%20-%20Empire%27s%20Front%20Line.zip",
+      "filename": "RS2 - Empire%27s Front Line.zip",
+      "size": 33237,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27080,
+      "title": "Romancing SaGa 3 - Four Noble Devils",
+      "version": "smwc-27080-1624211034",
+      "upstream_time": 1624211034,
+      "download_url": "https://dl.smwcentral.net/27080/Romancing_SaGa%203%20-%20Four%20Noble%20Devils%201.zip",
+      "filename": "Romancing_SaGa 3 - Four Noble Devils 1.zip",
+      "size": 79842,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25191,
+      "title": "Romancing SaGa 3 - The Great Arch",
+      "version": "smwc-25191-1607121638",
+      "upstream_time": 1607121638,
+      "download_url": "https://dl.smwcentral.net/25191/The%20Great%20Arch%20%5BU%5D.zip",
+      "filename": "The Great Arch %5BU%5D.zip",
+      "size": 33255,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25190,
+      "title": "Romancing SaGa 3 - The Great Arch",
+      "version": "smwc-25190-1607121640",
+      "upstream_time": 1607121640,
+      "download_url": "https://dl.smwcentral.net/25190/The%20Great%20Arch%20%5BS%5D.zip",
+      "filename": "The Great Arch %5BS%5D.zip",
+      "size": 75282,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25052,
+      "title": "Romancing SaGa 3 - Aurora",
+      "version": "smwc-25052-1606770804",
+      "upstream_time": 1606770804,
+      "download_url": "https://dl.smwcentral.net/25052/Romancing%20SaGa%203%20-%20Aurora.zip",
+      "filename": "Romancing SaGa 3 - Aurora.zip",
+      "size": 30648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24626,
+      "title": "Romancing SaGa 3 - Ellen's Theme",
+      "version": "smwc-24626-1604193689",
+      "upstream_time": 1604193689,
+      "download_url": "https://dl.smwcentral.net/24626/Ellen%27s%20Theme.zip",
+      "filename": "Ellen%27s Theme.zip",
+      "size": 54537,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24580,
+      "title": "Romancing SaGa 3 - Ellen's Theme",
+      "version": "smwc-24580-1604195029",
+      "upstream_time": 1604195029,
+      "download_url": "https://dl.smwcentral.net/24580/Ellen%27s%20Theme.zip",
+      "filename": "Ellen%27s Theme.zip",
+      "size": 33837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24548,
+      "title": "Romancing SaGa 2 - Battle with Kujinshi",
+      "version": "smwc-24548-1603487871",
+      "upstream_time": 1603487871,
+      "download_url": "https://dl.smwcentral.net/24548/Battle%20with%20Kujinshi.zip",
+      "filename": "Battle with Kujinshi.zip",
+      "size": 67823,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24527,
+      "title": "Romancing SaGa 2 - Ancient Ruins",
+      "version": "smwc-24527-1602548255",
+      "upstream_time": 1602548255,
+      "download_url": "https://dl.smwcentral.net/24527/Ancient%20Ruins.zip",
+      "filename": "Ancient Ruins.zip",
+      "size": 65107,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24171,
+      "title": "Romancing SaGa 3 - Ruin of the Crystal",
+      "version": "smwc-24171-1598110417",
+      "upstream_time": 1598110417,
+      "download_url": "https://dl.smwcentral.net/24171/Ruin%20of%20the%20Crystal.zip",
+      "filename": "Ruin of the Crystal.zip",
+      "size": 56970,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24165,
+      "title": "Romancing SaGa 3 - Julian's Theme",
+      "version": "smwc-24165-1598072975",
+      "upstream_time": 1598072975,
+      "download_url": "https://dl.smwcentral.net/24165/Julian%27s%20Theme.zip",
+      "filename": "Julian%27s Theme.zip",
+      "size": 67058,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23453,
+      "title": "Romancing SaGa 2 - The Sinking Ship",
+      "version": "smwc-23453-1593538038",
+      "upstream_time": 1593538038,
+      "download_url": "https://dl.smwcentral.net/23453/Romancing%20SaGa%202%20-%20The%20Sinking%20Ship.zip",
+      "filename": "Romancing SaGa 2 - The Sinking Ship.zip",
+      "size": 31635,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22996,
+      "title": "Romancing SaGa 3 - Leonid's Castle",
+      "version": "smwc-22996-1590473407",
+      "upstream_time": 1590473407,
+      "download_url": "https://dl.smwcentral.net/22996/Romancing%20SaGa%203%20-%20Leonid%27s%20Castle.zip",
+      "filename": "Romancing SaGa 3 - Leonid%27s Castle.zip",
+      "size": 78231,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22739,
+      "title": "Romancing SaGa 3 - Trade Off (Chungus-Mix)",
+      "version": "smwc-22739-1588304061",
+      "upstream_time": 1588304061,
+      "download_url": "https://dl.smwcentral.net/22739/BIG_CHUNGUS.zip",
+      "filename": "BIG_CHUNGUS.zip",
+      "size": 74531,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22368,
+      "title": "Romancing SaGa 3 - Podorui",
+      "version": "smwc-22368-1584431853",
+      "upstream_time": 1584431853,
+      "download_url": "https://dl.smwcentral.net/22368/Romancing%20SaGa%203%20-%20Podorui.zip",
+      "filename": "Romancing SaGa 3 - Podorui.zip",
+      "size": 31338,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21186,
+      "title": "Romancing SaGa 2 - Last Dungeon",
+      "version": "smwc-21186-1569099371",
+      "upstream_time": 1569099371,
+      "download_url": "https://dl.smwcentral.net/21186/RS2.Last.Dungeon.zip",
+      "filename": "RS2.Last.Dungeon.zip",
+      "size": 74931,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20403,
+      "title": "Romancing SaGa 2 - Battle with Kujinshi (Boss)",
+      "version": "smwc-20403-1562470893",
+      "upstream_time": 1562470893,
+      "download_url": "https://dl.smwcentral.net/20403/RS2Boss.zip",
+      "filename": "RS2Boss.zip",
+      "size": 67350,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19869,
+      "title": "Romancing SaGa 3 - The Battle",
+      "version": "smwc-19869-1557335566",
+      "upstream_time": 1557335566,
+      "download_url": "https://dl.smwcentral.net/19869/RS3_Battle.zip",
+      "filename": "RS3_Battle.zip",
+      "size": 72557,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19826,
+      "title": "Romancing SaGa 2 - Seven Heroes Battle",
+      "version": "smwc-19826-1556608423",
+      "upstream_time": 1556608423,
+      "download_url": "https://dl.smwcentral.net/19826/7heroes.zip",
+      "filename": "7heroes.zip",
+      "size": 59821,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19685,
+      "title": "Romancing SaGa 3 - Fairy Town",
+      "version": "smwc-19685-1555623340",
+      "upstream_time": 1555623340,
+      "download_url": "https://dl.smwcentral.net/19685/Romancing%20SaGa%203%20-%20Fairy%20Town.zip",
+      "filename": "Romancing SaGa 3 - Fairy Town.zip",
+      "size": 31167,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18576,
+      "title": "Romancing SaGa 3 - Podorui",
+      "version": "smwc-18576-1543544845",
+      "upstream_time": 1543544845,
+      "download_url": "https://dl.smwcentral.net/18576/Romancing_SaGa_3_-_Podorui_S.zip",
+      "filename": "Romancing_SaGa_3_-_Podorui_S.zip",
+      "size": 60831,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17356,
+      "title": "Romancing SaGa 3 - Byunei's Nest",
+      "version": "smwc-17356-1522806679",
+      "upstream_time": 1522806679,
+      "download_url": "https://dl.smwcentral.net/17356/%5BU%5D%20Romancing%20SaGa%203%20-%20Byunei%27s%20Nest.zip",
+      "filename": "%5BU%5D Romancing SaGa 3 - Byunei%27s Nest.zip",
+      "size": 32972,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15522,
+      "title": "Romancing SaGa 2 - Song of Everlasting Battles",
+      "version": "smwc-15522-1495224151",
+      "upstream_time": 1495224151,
+      "download_url": "https://dl.smwcentral.net/15522/Romancing%20SaGa%202%20-%20Song%20of%20Everlasting%20Battles.zip",
+      "filename": "Romancing SaGa 2 - Song of Everlasting Battles.zip",
+      "size": 14389,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13679,
+      "title": "Romancing SaGa 3 - Trade Off",
+      "version": "smwc-13679-1464747802",
+      "upstream_time": 1464747802,
+      "download_url": "https://dl.smwcentral.net/13679/Romancing%20SaGa%203%20-%20Trade%20Off.zip",
+      "filename": "Romancing SaGa 3 - Trade Off.zip",
+      "size": 54676,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13291,
+      "title": "Romancing SaGa 2 - Last Battle",
+      "version": "smwc-13291-1456670743",
+      "upstream_time": 1456670743,
+      "download_url": "https://dl.smwcentral.net/13291/Romancing%20SaGa%202%20-%20Last%20Battle.zip",
+      "filename": "Romancing SaGa 2 - Last Battle.zip",
+      "size": 76715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 12726,
+      "title": "Romancing SaGa 3 - Leonid's Castle",
+      "version": "smwc-12726-1447813047",
+      "upstream_time": 1447813047,
+      "download_url": "https://dl.smwcentral.net/12726/Romancing%20SaGa%203%20-%20Leonid%27s%20Castle.zip",
+      "filename": "Romancing SaGa 3 - Leonid%27s Castle.zip",
+      "size": 64712,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11580,
+      "title": "Romancing SaGa 3 - The Last Battle",
+      "version": "smwc-11580-1437620041",
+      "upstream_time": 1437620041,
+      "download_url": "https://dl.smwcentral.net/11580/Romancing%20Saga3%20-%20Final%20Battle%20%28S%29.zip",
+      "filename": "Romancing Saga3 - Final Battle (S).zip",
+      "size": 73819,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11061,
+      "title": "Romancing SaGa 3 - The Last Journey",
+      "version": "smwc-11061-1428080989",
+      "upstream_time": 1428080989,
+      "download_url": "https://dl.smwcentral.net/11061/Romancing%20SaGa%203%20-%20The%20Last%20Journey.zip",
+      "filename": "Romancing SaGa 3 - The Last Journey.zip",
+      "size": 59306,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10532,
+      "title": "Romancing SaGa 3 - Aurora",
+      "version": "smwc-10532-1424659971",
+      "upstream_time": 1424659971,
+      "download_url": "https://dl.smwcentral.net/10532/Romancing%20SaGa%203%20-%20Aurora.zip",
+      "filename": "Romancing SaGa 3 - Aurora.zip",
+      "size": 36946,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8360,
+      "title": "Romancing SaGa 3 - Podorui",
+      "version": "smwc-8360-1357012032",
+      "upstream_time": 1357012032,
+      "download_url": "https://dl.smwcentral.net/8360/Romancing%20SaGa%203%20-%20Boundaries.zip",
+      "filename": "Romancing SaGa 3 - Boundaries.zip",
+      "size": 30079,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8359,
+      "title": "Romancing SaGa 2 - Seven Heroes",
+      "version": "smwc-8359-1357749476",
+      "upstream_time": 1357749476,
+      "download_url": "https://dl.smwcentral.net/8359/SaGa2_Seven_Heroes.zip",
+      "filename": "SaGa2_Seven_Heroes.zip",
+      "size": 74807,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7107,
+      "title": "Romancing SaGa 3 - The Last Battle",
+      "version": "smwc-7107-1359489372",
+      "upstream_time": 1359489372,
+      "download_url": "https://dl.smwcentral.net/7107/%5BM%5D%20%5BS%5D%20RS3%20-%20The%20Last%20Battle.zip",
+      "filename": "%5BM%5D %5BS%5D RS3 - The Last Battle.zip",
+      "size": 71041,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-fleeing-attacking-moon",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30925,
+  "title": "Fleeing/Attacking Moon",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This moon will either flee for you, or attack you. The latter can't be killed in any way, and it can't be collected. The fleeing version can be collected, but it's tough to do so. Once it's collected, it won't reappear again for that level, along with all other 3UP moon (sprite)s. You can disable this, as well as affect many other things in the define list. Credit not needed.<br>\r\n<br>\r\nTo be assembled with PIXI.",
+  "latest_version": "smwc-30925-1667235768",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30925,
+      "title": "Fleeing/Attacking Moon",
+      "version": "smwc-30925-1667235768",
+      "upstream_time": 1667235768,
+      "download_url": "https://dl.smwcentral.net/30925/moonymoonymoonsUpdate.zip",
+      "filename": "moonymoonymoonsUpdate.zip",
+      "size": 6245,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "smwmusic-donkey-kong-country-aquatic-ambiance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22019,
+  "title": "Donkey Kong Country - Aquatic Ambiance",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "environmental",
+    "mysterious",
+    "water"
+  ],
+  "description": "The gorgeous and atmospheric water level music from Donkey Kong Country, arguably David Wise's masterpiece.<br>\r\n<br>\r\nEDIT 1/25/2020: Modified some pitch slides in the harmonica section, thanks Maxo for pointing those out!",
+  "latest_version": "smwc-22019-1581481496",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22019,
+      "title": "Donkey Kong Country - Aquatic Ambiance",
+      "version": "smwc-22019-1581481496",
+      "upstream_time": 1581481496,
+      "download_url": "https://dl.smwcentral.net/22019/Donkey%20Kong%20Country%20-%20Aquatic%20Ambience.zip",
+      "filename": "Donkey Kong Country - Aquatic Ambience.zip",
+      "size": 33566,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8848,
+      "title": "Donkey Kong Country - Aquatic Ambiance",
+      "version": "smwc-8848-1411182970",
+      "upstream_time": 1411182970,
+      "download_url": "https://dl.smwcentral.net/8848/Donkey%20Kong%20Country%20-%20Aquatic%20Ambiance.zip",
+      "filename": "Donkey Kong Country - Aquatic Ambiance.zip",
+      "size": 33843,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8820,
+      "title": "Donkey Kong Country - Aquatic Ambiance",
+      "version": "smwc-8820-1412658145",
+      "upstream_time": 1412658145,
+      "download_url": "https://dl.smwcentral.net/8820/Aquatic%20Ambiance.zip",
+      "filename": "Aquatic Ambiance.zip",
+      "size": 60592,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

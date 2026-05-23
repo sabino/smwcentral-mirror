@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-land-bonus-game-walk",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34363,
+  "title": "Super Mario Land - Bonus Game Walk",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "misc",
+    "retro"
+  ],
+  "description": "Bonus Game Walk from Super Mario Land.",
+  "latest_version": "smwc-34363-1692935715",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34363,
+      "title": "Super Mario Land - Bonus Game Walk",
+      "version": "smwc-34363-1692935715",
+      "upstream_time": 1692935715,
+      "download_url": "https://dl.smwcentral.net/34363/Super%20Mario%20Land%20-%20Bonus%20Game%20Walk.zip",
+      "filename": "Super Mario Land - Bonus Game Walk.zip",
+      "size": 32433,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

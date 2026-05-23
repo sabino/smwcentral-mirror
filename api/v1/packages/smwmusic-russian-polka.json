@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-russian-polka",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9260,
+  "title": "Russian Polka",
+  "authors": [
+    "A13XIS"
+  ],
+  "tags": [
+    "folk dance",
+    "polka",
+    "russian",
+    "traditional"
+  ],
+  "description": "A fast repeating song. Ripped from the folk dance treasure of good old mother Russia ;)<br>\r\nStarts to be annoying very fast so don't use it in long levels. It was designed for game rooms. No more, no less.<br>\r\nerror rate: unknown",
+  "latest_version": "smwc-9260-1413463990",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9260,
+      "title": "Russian Polka",
+      "version": "smwc-9260-1413463990",
+      "upstream_time": 1413463990,
+      "download_url": "https://dl.smwcentral.net/9260/Russian%20Polka.zip",
+      "filename": "Russian Polka.zip",
+      "size": 30390,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

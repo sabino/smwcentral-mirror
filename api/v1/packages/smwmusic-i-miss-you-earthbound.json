@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-i-miss-you-earthbound",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41853,
+  "title": "I Miss You: Earthbound 2012 - Megalo Strike Back",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "industrial",
+    "spooky"
+  ],
+  "description": "Megalo Strike Back from the fanmade Earthbound tribute album \"I Miss You: Earthbound 2012\". More commonly known as Chara's theme. (by the Undertale Fanon)<br>\r\n<br>\r\nOmits Thunder, Yoshi and Bonus End.",
+  "latest_version": "smwc-41853-1774811446",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41853,
+      "title": "I Miss You: Earthbound 2012 - Megalo Strike Back",
+      "version": "smwc-41853-1774811446",
+      "upstream_time": 1774811446,
+      "download_url": "https://dl.smwcentral.net/41853/I%20Miss%20You%20~%20Earthbound%202012%20-%20Megalo%20Strike%20Back.zip",
+      "filename": "I Miss You ~ Earthbound 2012 - Megalo Strike Back.zip",
+      "size": 191778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33565,
+      "title": "I Miss You: Earthbound 2012 - A New Line",
+      "version": "smwc-33565-1689534454",
+      "upstream_time": 1689534454,
+      "download_url": "https://dl.smwcentral.net/33565/A%20New%20Line.zip",
+      "filename": "A New Line.zip",
+      "size": 93622,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

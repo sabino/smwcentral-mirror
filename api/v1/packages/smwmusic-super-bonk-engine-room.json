@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-bonk-engine-room",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32606,
+  "title": "Super Bonk - Engine Room",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-32606-1675292284",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32606,
+      "title": "Super Bonk - Engine Room",
+      "version": "smwc-32606-1675292284",
+      "upstream_time": 1675292284,
+      "download_url": "https://dl.smwcentral.net/32606/20%20Engine%20Room.zip",
+      "filename": "20 Engine Room.zip",
+      "size": 64318,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-dark-days",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8104,
+  "title": "Dark Days",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "night"
+  ],
+  "description": "This song is kind of dark and foreboding, but somewhat upbeat at the same time. It might suit a dramatic intro sequence or cutscene, or maybe even a castle or boss.",
+  "latest_version": "smwc-8104-1319882725",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8104,
+      "title": "Dark Days",
+      "version": "smwc-8104-1319882725",
+      "upstream_time": 1319882725,
+      "download_url": "https://dl.smwcentral.net/8104/Dark%20Days.zip",
+      "filename": "Dark Days.zip",
+      "size": 71036,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-an-epic-journey",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23268,
+  "title": "An Epic Journey",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "forest"
+  ],
+  "description": "An epic composition, based on orchestral tracks like Legend of Zelda (I think heheh), good for adventurous levels. ",
+  "latest_version": "smwc-23268-1591912446",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23268,
+      "title": "An Epic Journey",
+      "version": "smwc-23268-1591912446",
+      "upstream_time": 1591912446,
+      "download_url": "https://dl.smwcentral.net/23268/Epic%20Journey%20%28S%29.zip",
+      "filename": "Epic Journey (S).zip",
+      "size": 70028,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23262,
+      "title": "An Epic Journey",
+      "version": "smwc-23262-1591909327",
+      "upstream_time": 1591909327,
+      "download_url": "https://dl.smwcentral.net/23262/Epic%20Journey.zip",
+      "filename": "Epic Journey.zip",
+      "size": 41898,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

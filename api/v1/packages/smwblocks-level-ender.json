@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-level-ender",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3837,
+  "title": "Level Ender +10 Coins",
+  "authors": [
+    "Tahixham"
+  ],
+  "tags": [
+    "level end",
+    "lorom"
+  ],
+  "description": "I noticed the various \"fancy\" level end blocks on the site - so this one is simple.<br>\r\n<br>\r\nWhen touched by the player, the level end walk begins, keeping the current level music &gt; adds 10 coins to the counter (can be changed @ !Coins) &gt; and then shatters - End of!",
+  "latest_version": "smwc-3837-1426037956",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3837,
+      "title": "Level Ender +10 Coins",
+      "version": "smwc-3837-1426037956",
+      "upstream_time": 1426037956,
+      "download_url": "https://dl.smwcentral.net/3837/level_ender.zip",
+      "filename": "level_ender.zip",
+      "size": 630,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

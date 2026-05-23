@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-epic-pinball-android-shareware",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20575,
+  "title": "Epic Pinball - Android (Shareware)",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "water"
+  ],
+  "description": "The music that plays in the Super Android table in the Shareware version of Epic Pinball. Sounds like it would be good for water levels.",
+  "latest_version": "smwc-20575-1563148413",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20575,
+      "title": "Epic Pinball - Android (Shareware)",
+      "version": "smwc-20575-1563148413",
+      "upstream_time": 1563148413,
+      "download_url": "https://dl.smwcentral.net/20575/Epic%20Pinball%20-%20Android%20%28Shareware%29.zip",
+      "filename": "Epic Pinball - Android (Shareware).zip",
+      "size": 85089,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

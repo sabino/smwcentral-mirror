@@ -1,0 +1,80 @@
+{
+  "name": "smwmusic-super-mario-advance-4-super-mario-bros",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18250,
+  "title": "Super Mario Advance 4: Super Mario Bros. 3 - Bonus",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "grassland",
+    "keyhole",
+    "misc",
+    "nintendo presents",
+    "overworld"
+  ],
+  "description": "The bonus theme from SMA4.",
+  "latest_version": "smwc-18250-1538865728",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18250,
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 - Bonus",
+      "version": "smwc-18250-1538865728",
+      "upstream_time": 1538865728,
+      "download_url": "https://dl.smwcentral.net/18250/sma4bonus.zip",
+      "filename": "sma4bonus.zip",
+      "size": 32392,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14732,
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e",
+      "version": "smwc-14732-1481107781",
+      "upstream_time": 1481107781,
+      "download_url": "https://dl.smwcentral.net/14732/world%20e.zip",
+      "filename": "world e.zip",
+      "size": 31492,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10691,
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 - Bonus Start",
+      "version": "smwc-10691-1425398547",
+      "upstream_time": 1425398547,
+      "download_url": "https://dl.smwcentral.net/10691/SMA4_Bonus_Start.zip",
+      "filename": "SMA4_Bonus_Start.zip",
+      "size": 30056,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8298,
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e",
+      "version": "smwc-8298-1349363249",
+      "upstream_time": 1349363249,
+      "download_url": "https://dl.smwcentral.net/8298/world-esdf.zip",
+      "filename": "world-esdf.zip",
+      "size": 64837,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

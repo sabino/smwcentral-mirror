@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-gradius-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7247,
+  "title": "Gradius - Stage 4",
+  "authors": [
+    "worldpeace"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "title"
+  ],
+  "description": "A nice, upbeat song, would fit as a bonus map theme or a title screen.",
+  "latest_version": "smwc-7247-1320137005",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7247,
+      "title": "Gradius - Stage 4",
+      "version": "smwc-7247-1320137005",
+      "upstream_time": 1320137005,
+      "download_url": "https://dl.smwcentral.net/7247/gradius.zip",
+      "filename": "gradius.zip",
+      "size": 66862,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

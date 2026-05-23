@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-bass-auto-s-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25774,
+  "title": "Mega Man & Bass - Auto's Shop",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "overworld",
+    "town",
+    "urban"
+  ],
+  "description": "Auto's Shop from Megaman & Bass.",
+  "latest_version": "smwc-25774-1611877976",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25774,
+      "title": "Mega Man & Bass - Auto's Shop",
+      "version": "smwc-25774-1611877976",
+      "upstream_time": 1611877976,
+      "download_url": "https://dl.smwcentral.net/25774/Auto%27s%20Shop.zip",
+      "filename": "Auto%27s Shop.zip",
+      "size": 33016,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

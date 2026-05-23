@@ -1,0 +1,38 @@
+{
+  "name": "smwblocks-end-level-timer-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4091,
+  "title": "End level Timer block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "exit",
+    "goal",
+    "level end",
+    "lorom",
+    "normal",
+    "secret",
+    "timer"
+  ],
+  "description": "A block that activates the NORMAL exit, unless the player has a greater or equal amount of configurable time remaining, in which case, it will activate the SECRET exit. Acts like the Beat Level Instantly block, no goal sequence, just instantly ends the level.",
+  "latest_version": "smwc-4091-1426271071",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4091,
+      "title": "End level Timer block",
+      "version": "smwc-4091-1426271071",
+      "upstream_time": 1426271071,
+      "download_url": "https://dl.smwcentral.net/4091/endlev.zip",
+      "filename": "endlev.zip",
+      "size": 679,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

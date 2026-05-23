@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-what-a-blast-out-to-sea",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34820,
+  "title": "What-A-Blast! - Out to Sea",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "overworld",
+    "water"
+  ],
+  "description": "Song released from the C3 Winter 2016 Event for the SMW hack, What-a-Blast!",
+  "latest_version": "smwc-34820-1691757397",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34820,
+      "title": "What-A-Blast! - Out to Sea",
+      "version": "smwc-34820-1691757397",
+      "upstream_time": 1691757397,
+      "download_url": "https://dl.smwcentral.net/34820/%5BU%5D%20%28CUSTOM%29%20Out%20to%20Sea.zip",
+      "filename": "%5BU%5D (CUSTOM) Out to Sea.zip",
+      "size": 31940,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34819,
+      "title": "What-A-Blast! - Out to Sea",
+      "version": "smwc-34819-1691757357",
+      "upstream_time": 1691757357,
+      "download_url": "https://dl.smwcentral.net/34819/%5BS%5D%20%28CUSTOM%29%20Out%20to%20Sea.zip",
+      "filename": "%5BS%5D (CUSTOM) Out to Sea.zip",
+      "size": 78272,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

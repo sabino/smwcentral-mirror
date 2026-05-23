@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kirby-planet-robobot-amiibo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27728,
+  "title": "Kirby: Planet Robobot - Amiibo",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "misc"
+  ],
+  "description": "A calm song played at the Memorial Theatre menu screen.<br>\r\n<br>\r\nThere's two defines at the text file, one which adds the melody guitar listened on the original, with the full sample, and other thats optimizes that guitar.<br>\r\nSince this guitar samples is from Secret of Evermore, and its a really MASSIVE sample, it ends up being incompatible with the Thunder SFX sample. Of course, if you wants this sample compatible back, you can use the optimized version instead.<br>\r\nYou can choose those variants, by opening the text file, and changing the \"Include_Melo_Guitar\" define values by: 0 for no guitar, 1 for full guitar sample, and 2 for optimized guitar sample. <span style=\"font-size: 8pt;\">Any other value will end up sending an error message once you inserts it. (which is an obvious to happen, silly)</span><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Insert sizes</span></div><div class=\"collapse-content\">No guitar version insert size: 0x02A5 bytes.<br>\r\nFull melody guitar sample, and optimized variants insert size: 0x0782 bytes.</div></div>",
+  "latest_version": "smwc-27728-1627093477",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27728,
+      "title": "Kirby: Planet Robobot - Amiibo",
+      "version": "smwc-27728-1627093477",
+      "upstream_time": 1627093477,
+      "download_url": "https://dl.smwcentral.net/27728/Kirby%20Planet%20Robobot%20-%20Amiibo.zip",
+      "filename": "Kirby Planet Robobot - Amiibo.zip",
+      "size": 166035,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

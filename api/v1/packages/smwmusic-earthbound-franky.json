@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-earthbound-franky",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20245,
+  "title": "EarthBound - Franky",
+  "authors": [
+    "Maxodex"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "town",
+    "urban"
+  ],
+  "description": "The rock&rolly battle theme for Franky in Earthbound. Also known as the hippie battle and probably many more enemies. Funny song that could fit a variety of fast paced, light hearted sections. yes i used nintspc because i'm lazy lol<br>\r\n<br>\r\nRequested by TheEvilKingBowser.<br>\r\n<br>\r\n* For a sampled version of the song, go <a href=\"https://smwc.me/s/20245\">[here]</a>.",
+  "latest_version": "smwc-20245-1560914152",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20245,
+      "title": "EarthBound - Franky",
+      "version": "smwc-20245-1560914152",
+      "upstream_time": 1560914152,
+      "download_url": "https://dl.smwcentral.net/20245/EB%20Franky%20%28S%29.zip",
+      "filename": "EB Franky (S).zip",
+      "size": 42121,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20244,
+      "title": "EarthBound - Franky",
+      "version": "smwc-20244-1560914233",
+      "upstream_time": 1560914233,
+      "download_url": "https://dl.smwcentral.net/20244/EB%20Franky%20%28U%29.zip",
+      "filename": "EB Franky (U).zip",
+      "size": 33438,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

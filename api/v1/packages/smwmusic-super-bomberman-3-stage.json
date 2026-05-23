@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-bomberman-3-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38561,
+  "title": "Super Bomberman 3 - Stage 2",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cave",
+    "fire",
+    "industrial",
+    "mysterious",
+    "space",
+    "water"
+  ],
+  "description": "Originally used for a fire/cave setting, I think it can also work for water or factory levels.",
+  "latest_version": "smwc-38561-1730429132",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38561,
+      "title": "Super Bomberman 3 - Stage 2",
+      "version": "smwc-38561-1730429132",
+      "upstream_time": 1730429132,
+      "download_url": "https://dl.smwcentral.net/38561/sb3-bgm2.zip",
+      "filename": "sb3-bgm2.zip",
+      "size": 73076,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

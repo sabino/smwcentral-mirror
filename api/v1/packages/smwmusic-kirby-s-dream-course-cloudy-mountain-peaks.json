@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-s-dream-course-cloudy-mountain-peaks",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27834,
+  "title": "Kirby's Dream Course - Cloudy Mountain Peaks",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "grassland",
+    "sky"
+  ],
+  "description": "A very energectic and complex song, from KDC.<br>\r\nWhew, that one was REALLY challenging to port, say like, not only for trying to optimize its insert size, but for replicate its many effects and volume changes put at once.",
+  "latest_version": "smwc-27834-1629748174",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27834,
+      "title": "Kirby's Dream Course - Cloudy Mountain Peaks",
+      "version": "smwc-27834-1629748174",
+      "upstream_time": 1629748174,
+      "download_url": "https://dl.smwcentral.net/27834/Kirby%27s%20Dream%20Course%20-%20Cloudy%20Mountain%20Peaks.zip",
+      "filename": "Kirby%27s Dream Course - Cloudy Mountain Peaks.zip",
+      "size": 63066,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

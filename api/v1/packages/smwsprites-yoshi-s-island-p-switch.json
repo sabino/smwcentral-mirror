@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-yoshi-s-island-p-switch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16767,
+  "title": "Yoshi's Island P-Switch",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "dynamic",
+    "extra bit",
+    "lorom",
+    "p-switch",
+    "pow",
+    "sa-1",
+    "yoshi island"
+  ],
+  "description": "It's a large red P-Switch the player can't carry nor move it somehow. When pressed a dynamic squishing animation will be played before exploding and activating the switch effect.<br>\r\n<br>\r\nThe extra bit determines if it behaves like a blue P-Switch (clear) or a silver P-Switch (set).<br>\r\n<br>\r\nOriginally from smkdan's Yoshi's Island dynamic sprite pack.",
+  "latest_version": "smwc-16767-1513132945",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16767,
+      "title": "Yoshi's Island P-Switch",
+      "version": "smwc-16767-1513132945",
+      "upstream_time": 1513132945,
+      "download_url": "https://dl.smwcentral.net/16767/Yoshi%20Island%20P-Switch.zip",
+      "filename": "Yoshi Island P-Switch.zip",
+      "size": 6242,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-albatoss-bomber-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3526,
+  "title": "Albatoss Bomber Boss",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "lorom",
+    "smb2"
+  ],
+  "description": "An Albatoss Bomber who takes 3 hits (by thrown objects) to defeat. Additionally, it can walk faster after each HP. It will change direction after crossing 16 units of blocks (1 screen).<br>\r\n<br>\r\nYou can increase the HP by setting the value of HP_COUNTER to something else in the INIT routine. Make sure you increase the number of bytes in the \"RightSp\" table if you do that though.<br>\r\n<br>\r\nRequested by SomeGuy",
+  "latest_version": "smwc-3526-1258665261",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3526,
+      "title": "Albatoss Bomber Boss",
+      "version": "smwc-3526-1258665261",
+      "upstream_time": 1258665261,
+      "download_url": "https://dl.smwcentral.net/3526/albatossbomber.zip",
+      "filename": "albatossbomber.zip",
+      "size": 7529,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

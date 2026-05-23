@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-duck-life",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27794,
+  "title": "Duck Life 4 - Flying Training Theme",
+  "authors": [
+    "buckaroodle610"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "boss",
+    "chase",
+    "final",
+    "mountain",
+    "sky",
+    "tense"
+  ],
+  "description": "This is the epic tune from the flying minigames in Duck Life 4. Could work with cape levels, boss levels, and chase levels.",
+  "latest_version": "smwc-27794-1629273266",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27794,
+      "title": "Duck Life 4 - Flying Training Theme",
+      "version": "smwc-27794-1629273266",
+      "upstream_time": 1629273266,
+      "download_url": "https://dl.smwcentral.net/27794/Flying%20Training%20Theme.zip",
+      "filename": "Flying Training Theme.zip",
+      "size": 31369,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

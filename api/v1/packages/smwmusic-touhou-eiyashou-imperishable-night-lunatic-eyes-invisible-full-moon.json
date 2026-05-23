@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-touhou-eiyashou-imperishable-night-lunatic-eyes-invisible-full-moon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22670,
+  "title": "Touhou Eiyashou ~ Imperishable Night - Lunatic Eyes ~ Invisible Full Moon",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "dark",
+    "forest",
+    "mysterious",
+    "night",
+    "sad",
+    "tense"
+  ],
+  "description": "Reisen's theme from Touhou 8. It fits dark athletic levels.",
+  "latest_version": "smwc-22670-1587077158",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22670,
+      "title": "Touhou Eiyashou ~ Imperishable Night - Lunatic Eyes ~ Invisible Full Moon",
+      "version": "smwc-22670-1587077158",
+      "upstream_time": 1587077158,
+      "download_url": "https://dl.smwcentral.net/22670/reisen.zip",
+      "filename": "reisen.zip",
+      "size": 26433,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

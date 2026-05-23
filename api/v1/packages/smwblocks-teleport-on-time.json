@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-teleport-on-time",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41151,
+  "title": "Teleport on Time",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "teleport",
+    "timer"
+  ],
+  "description": "Teleports the player depending on the time limit.<br>\r\n<br>\r\nIncludes a define to invert the condition.<br>\r\n<br>\r\nNote that this uses decimal mode and due an old bug in the SD2SNES/FXPak, issues might occur when using SA-1 in this flash cart. The newest firmware doesn't have this issue, so use that.",
+  "latest_version": "smwc-41151-1764372139",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41151,
+      "title": "Teleport on Time",
+      "version": "smwc-41151-1764372139",
+      "upstream_time": 1764372139,
+      "download_url": "https://dl.smwcentral.net/41151/teleport_time.zip",
+      "filename": "teleport_time.zip",
+      "size": 798,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

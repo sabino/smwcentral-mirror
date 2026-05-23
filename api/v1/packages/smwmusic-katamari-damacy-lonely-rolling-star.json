@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-katamari-damacy-lonely-rolling-star",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34066,
+  "title": "Katamari Damacy - Lonely Rolling Star",
+  "authors": [
+    "SviSvi"
+  ],
+  "tags": [
+    "abstract",
+    "credits",
+    "misc",
+    "title",
+    "urban"
+  ],
+  "description": "A bubbly pop song that could work well in long levels or perhaps for credits sequences or title screens.<br>\r\n<br>\r\nUpdate: I made some small changes to notes in the chorus and samples in the intro.",
+  "latest_version": "smwc-34066-1689915709",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34066,
+      "title": "Katamari Damacy - Lonely Rolling Star",
+      "version": "smwc-34066-1689915709",
+      "upstream_time": 1689915709,
+      "download_url": "https://dl.smwcentral.net/34066/Lonely%20Rolling%20Star.zip",
+      "filename": "Lonely Rolling Star.zip",
+      "size": 53856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

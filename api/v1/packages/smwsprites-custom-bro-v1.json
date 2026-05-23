@@ -1,0 +1,44 @@
+{
+  "name": "smwsprites-custom-bro-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35605,
+  "title": "Custom Bro v1.1",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "bomb bro",
+    "boomerang bro",
+    "brothers",
+    "customizable",
+    "enemy",
+    "fire bro",
+    "hammer bro",
+    "ice bro",
+    "lorom",
+    "sa-1",
+    "shell bro",
+    "sledge bro"
+  ],
+  "description": "You can make various broths with one asm file.<br>\r\nWe also have new behavior patterns.<br>\r\nI used the graphic from <a href=\"https://www.mfgg.net/\" rel=\"nofollow\">here</a>.<br>\r\nI got the names of Curve Bro, Braze Bro and Frost Bro from <a href=\"https://fantendo.fandom.com/wiki/Fantendo:Main_Menu\" rel=\"nofollow\">here</a>.<br>\r\n<br>\r\nIt is already compatible with slopes.<br>\r\nI forgot to include the graphics and palette.I attached it.<br>\r\n<br>\r\nYou can also use mikeyk's SMB3 style and SMW prototype graphics graphics(However, please prepare the graphics yourself.).<br>\r\n<br>\r\n<br>\r\nUpdate<br>\r\n-Faster terrain check process for whether to get off the block or not. (It checks the tiles by shifting them down by 8 dots per frame.)<br>\r\n-Fixed behavior when falling down a slope.<br>\r\n-It is now possible to set whether or not walking/tracking type bros jump when they hit a wall with Extra bit.<br>\r\n-I edited the Json file and made it possible to distinguish from the image whether the extra bit is set.<br>\r\nClear ... Walk<br>\r\nSet ... Stand<br>\r\n-Added explanatory text to the file for configuration.<br>\r\n-It is now possible to set whether or not the boomerang will disappear (catch) if it hits in front of the person who threw it.<br>\r\n-Fixed hit detection by capes on extended sprites.<br>\r\n-The hammer is now being bounced away, instead of disappearing in a puff of smoke.<br>\r\n-Sledge bro hammers now have cape disabled.",
+  "latest_version": "smwc-35605-1733170197",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35605,
+      "title": "Custom Bro v1.1",
+      "version": "smwc-35605-1733170197",
+      "upstream_time": 1733170197,
+      "download_url": "https://dl.smwcentral.net/35605/Custom_Bro.zip",
+      "filename": "Custom_Bro.zip",
+      "size": 45703,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

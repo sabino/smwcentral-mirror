@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bash-crash-ball",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37211,
+  "title": "Crash Bash - Crash Ball",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "industrial",
+    "retro",
+    "urban"
+  ],
+  "description": "A fast paced pinball-esque theme that plays in Crash Ball, the first minigame in Crash Bash.",
+  "latest_version": "smwc-37211-1712591281",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37211,
+      "title": "Crash Bash - Crash Ball",
+      "version": "smwc-37211-1712591281",
+      "upstream_time": 1712591281,
+      "download_url": "https://dl.smwcentral.net/37211/CBash_-_Crash_Ball.zip",
+      "filename": "CBash_-_Crash_Ball.zip",
+      "size": 100514,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

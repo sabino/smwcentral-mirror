@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-jack-o-chuck",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25022,
+  "title": "Jack O' Chuck",
+  "authors": [
+    "Eminus"
+  ],
+  "tags": [
+    "chuck",
+    "needs remoderation"
+  ],
+  "description": "This Chuck reskin was requested by SF. There are files to replace every Chuck form. The exGFX files are named after the files they are meant to replace (ExGFXE13 replaces GFX13 and so on)<br>\r\nIn the files, other sprites are from SMW Redrawn (by Icegoom) as that's the style this sprite reskin is trying to emulate (as requested)<br>\r\nThese graphics don't need a custom palette, though you might find they work slightly better with the SMW redrawn palette",
+  "latest_version": "smwc-25022-1604107084",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25022,
+      "title": "Jack O' Chuck",
+      "version": "smwc-25022-1604107084",
+      "upstream_time": 1604107084,
+      "download_url": "https://dl.smwcentral.net/25022/jackochuck.zip",
+      "filename": "jackochuck.zip",
+      "size": 12854,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

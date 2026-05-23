@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-warp-when-dying",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 22885,
+  "title": "Warp When Dying",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "dying",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch will warp you to another level when you die. Made by request. <br>\r\nThanks to Alcaro who helped me fix a few bugs!",
+  "latest_version": "smwc-22885-1588976580",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 22885,
+      "title": "Warp When Dying",
+      "version": "smwc-22885-1588976580",
+      "upstream_time": 1588976580,
+      "download_url": "https://dl.smwcentral.net/22885/Warp.zip",
+      "filename": "Warp.zip",
+      "size": 956,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

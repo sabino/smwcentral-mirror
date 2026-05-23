@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mystic-warriors-life-lodge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34214,
+  "title": "Mystic Warriors - Life & Lodge",
+  "authors": [
+    "crm0622"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "ice",
+    "mountain",
+    "snow"
+  ],
+  "description": "One of the stage 2 themes from \"Mystic Warriors\".<br>\r\n<br>\r\nMay fit for icy level with lots of athletic moments etc...<br>\r\n<br>\r\n(Also this was my single entry for Super Famicompo 4, which got 8th place as a result. :P)<br>\r\n<br>\r\nINCOMPATIBLE with \"Bonus End\", \"Yoshi\", \"Death\" and \"Thunder/Blargg\"! (Also, partially with \"P-Switch\", \"Starman\".)<br>\r\n(Although \"Death\" compatibility can be bypassed/solved by retry patch/UberASM, See \"info.txt\" for the link. :D)<br>\r\n<br>\r\nNOTE : Some SFXs gonna sound a bit different than normally due to some vanilla samples get replaced for save ARAM space.<br>\r\n(Ex. Clap, Grinders, Break and potentially more unaware SFXs...)<br>\r\n<br>\r\n(v1.1 : Replaced $FD commands due to incompatibility with pre-AddmusicK 1.0.9. 😅)<br>\r\n(Insert size also increased a bit due to that...)",
+  "latest_version": "smwc-34214-1696201505",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34214,
+      "title": "Mystic Warriors - Life & Lodge",
+      "version": "smwc-34214-1696201505",
+      "upstream_time": 1696201505,
+      "download_url": "https://dl.smwcentral.net/34214/mystic_warriors_stage_2-1%20%28v1.1%29.zip",
+      "filename": "mystic_warriors_stage_2-1 (v1.1).zip",
+      "size": 114036,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

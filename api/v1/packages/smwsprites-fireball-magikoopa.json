@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-fireball-magikoopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35024,
+  "title": "Fireball Magikoopa",
+  "authors": [
+    "Telinc1",
+    "yoshicookiezeus",
+    "zuccha"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "magikoopa",
+    "sa-1"
+  ],
+  "description": "A magikoopa that shoots Bowser's fireballs instead of magic.<br>\r\n<br>\r\nBased on the disassembly by <span class=\"un-outer\" title=\"Telinc1\"><a href=\"/?p=profile&amp;id=15661\" style=\"color: #6495ed;\" class=\"un\">Telinc1</a></span> and <span class=\"un-outer\" title=\"yoshicookiezeus\"><a href=\"/?p=profile&amp;id=3805\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">yoshicookiezeus</a></span>.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=125222\">Requested</a> by <span class=\"un-outer\" title=\"autisticsceptile1993\"><a href=\"/?p=profile&amp;id=15914\" style=\"color: var(--user-color-2);\" class=\"un\">autisticsceptile1993</a></span>.",
+  "latest_version": "smwc-35024-1696103115",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35024,
+      "title": "Fireball Magikoopa",
+      "version": "smwc-35024-1696103115",
+      "upstream_time": 1696103115,
+      "download_url": "https://dl.smwcentral.net/35024/magikoopa_fireball-1.0.1.zip",
+      "filename": "magikoopa_fireball-1.0.1.zip",
+      "size": 7006,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

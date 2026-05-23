@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-resident-evil",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19832,
+  "title": "Resident Evil 2 - Library",
+  "authors": [
+    "ChaseNScooter",
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "ghost house",
+    "spooky"
+  ],
+  "description": "Used in JUMP½ in the level \"Brain Plague\". Good for ghost houses with a tense atmosphere.",
+  "latest_version": "smwc-19832-1556673473",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19832,
+      "title": "Resident Evil 2 - Library",
+      "version": "smwc-19832-1556673473",
+      "upstream_time": 1556673473,
+      "download_url": "https://dl.smwcentral.net/19832/%5BU%5D%20Resident%20Evil%202%20-%20Library.zip",
+      "filename": "%5BU%5D Resident Evil 2 - Library.zip",
+      "size": 30991,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

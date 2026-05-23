@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-saga-frontier-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25728,
+  "title": "SaGa Frontier - Battle 1 (Arrange)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "fire",
+    "tense"
+  ],
+  "description": "Arrangement of Battle 1 from SaGa Frontier. Good for bosses and intense levels.",
+  "latest_version": "smwc-25728-1611461255",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25728,
+      "title": "SaGa Frontier - Battle 1 (Arrange)",
+      "version": "smwc-25728-1611461255",
+      "upstream_time": 1611461255,
+      "download_url": "https://dl.smwcentral.net/25728/sagafrobattle1.zip",
+      "filename": "sagafrobattle1.zip",
+      "size": 82385,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17338,
+      "title": "SaGa Frontier - Battle 2",
+      "version": "smwc-17338-1522806430",
+      "upstream_time": 1522806430,
+      "download_url": "https://dl.smwcentral.net/17338/%5BS%5D%20SaGa%20Frontier%20-%20Battle%202.zip",
+      "filename": "%5BS%5D SaGa Frontier - Battle 2.zip",
+      "size": 73695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

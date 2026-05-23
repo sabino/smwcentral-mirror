@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-ix-we-are-thieves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7409,
+  "title": "Final Fantasy IX - We are Thieves!",
+  "authors": [
+    "Mr. Red"
+  ],
+  "tags": [
+    "calm",
+    "dark"
+  ],
+  "description": "A quiet, shady theme heard in Final Fantasy 9.",
+  "latest_version": "smwc-7409-1320052167",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7409,
+      "title": "Final Fantasy IX - We are Thieves!",
+      "version": "smwc-7409-1320052167",
+      "upstream_time": 1320052167,
+      "download_url": "https://dl.smwcentral.net/7409/Cmusic.zip",
+      "filename": "Cmusic.zip",
+      "size": 66251,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

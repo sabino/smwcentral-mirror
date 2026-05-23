@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-soccer-needle-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8158,
+  "title": "Mega Man Soccer - Needle Man",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "athletic",
+    "credits",
+    "industrial"
+  ],
+  "description": "An athletic sounding field song from Mega Man Soccer.<br>\r\n<br>\r\n<br>\r\nUpdate (01/10/20):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 32 bytes.",
+  "latest_version": "smwc-8158-1313383421",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8158,
+      "title": "Mega Man Soccer - Needle Man",
+      "version": "smwc-8158-1313383421",
+      "upstream_time": 1313383421,
+      "download_url": "https://dl.smwcentral.net/8158/MegaMan%20Soccer%20-%20Needle.Man.zip",
+      "filename": "MegaMan Soccer - Needle.Man.zip",
+      "size": 41530,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

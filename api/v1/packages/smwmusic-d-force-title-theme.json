@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-d-force-title-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16525,
+  "title": "D-Force - Title Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "overworld",
+    "space",
+    "title"
+  ],
+  "description": "A title song variation of France anthem from D-Force (USA)/Dimension Force (Japan).",
+  "latest_version": "smwc-16525-1510129439",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16525,
+      "title": "D-Force - Title Theme",
+      "version": "smwc-16525-1510129439",
+      "upstream_time": 1510129439,
+      "download_url": "https://dl.smwcentral.net/16525/D-Force%20%28SNES%29%20-%20Title%20Theme.zip",
+      "filename": "D-Force (SNES) - Title Theme.zip",
+      "size": 31803,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

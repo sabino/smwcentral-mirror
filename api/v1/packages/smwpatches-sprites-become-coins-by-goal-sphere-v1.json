@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-sprites-become-coins-by-goal-sphere-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40161,
+  "title": "Sprites Become Coins by Goal Sphere v1.1",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "goal",
+    "goal sphere",
+    "lorom",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "All enemies turn into coins when the goal sphere is acquired.<br>\r\nYou can also set whether the player moves after acquiring the goal sphere or stops on the spot after landing.<br>\r\nYou can also set whether the sprite in your hand when you acquire a Goal Sphere will be changed into a coin or an item.",
+  "latest_version": "smwc-40161-1753291622",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40161,
+      "title": "Sprites Become Coins by Goal Sphere v1.1",
+      "version": "smwc-40161-1753291622",
+      "upstream_time": 1753291622,
+      "download_url": "https://dl.smwcentral.net/40161/Sprites%20become%20Coins%20by%20Goal%20Sphere.zip",
+      "filename": "Sprites become Coins by Goal Sphere.zip",
+      "size": 2220,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "tools-info64",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 5737,
+  "title": "Info64",
+  "authors": [
+    "DamiHack"
+  ],
+  "tags": [
+    "byte order",
+    "cartridge",
+    "crc",
+    "edit",
+    "hash",
+    "manufacturer",
+    "md5",
+    "name",
+    "publisher",
+    "region",
+    "size"
+  ],
+  "description": "A tool that shows Nintendo 64 ROM's informations and allows to change some of them.<br>\r\nIt has a GUI, so it's simple to use:<br>\r\n1. Load any N64 ROM<br>\r\n2. Read the informations or edit them if you want<br>\r\n3. If you edit something, click on \"Save\"<br>\r\n<br>\r\nWhen you click on \"Save\", it creates a backup copy of the ROM.<br>\r\nThen test the ROM by clicking on \"Test ROM\".",
+  "latest_version": "smwc-5737-1388320053",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 5737,
+      "title": "Info64",
+      "version": "smwc-5737-1388320053",
+      "upstream_time": 1388320053,
+      "download_url": "https://dl.smwcentral.net/5737/Info64.zip",
+      "filename": "Info64.zip",
+      "size": 208324,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

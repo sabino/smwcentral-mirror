@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-piyopiyoplayer-kirin-daughter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27683,
+  "title": "PiyoPiyoPlayer - Kirin Daughter",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sad"
+  ],
+  "description": "A sad, and small song, made by Pixel on his spare time, in a collection of songs from PiyoPiyoPlayer. Apparently it was supposed to be some kind of opening song from some kind of title...<br>\r\nThere're two versions of this song, one made using Chrono Trigger soundfont, and other that uses Cardmaster soundfont. (which was made by HAL)<br>\r\nThose ones're separated text files, so you can choose which one you want to use.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○キリン娘：\"「あいしている」と言ってやる\"のオープニング。<br>\r\nRough translation:<br>\r\n• Kirin Musume: The opening of \"I'll say\" I'm in love \"\".</div></div>",
+  "latest_version": "smwc-27683-1629836726",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27683,
+      "title": "PiyoPiyoPlayer - Kirin Daughter",
+      "version": "smwc-27683-1629836726",
+      "upstream_time": 1629836726,
+      "download_url": "https://dl.smwcentral.net/27683/Kirin%20Daughter.zip",
+      "filename": "Kirin Daughter.zip",
+      "size": 57075,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

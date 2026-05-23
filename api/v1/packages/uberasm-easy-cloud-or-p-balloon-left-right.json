@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-easy-cloud-or-p-balloon-left-right",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 34881,
+  "title": "Easy Cloud or P-Balloon Left-Right",
+  "authors": [
+    "Abdu"
+  ],
+  "tags": [
+    "cloud",
+    "lorom",
+    "p-balloon",
+    "sa-1"
+  ],
+  "description": "This UberASM allows you to utilize the glitch where holding down the left and right buttons simultaneously while being in a lakitu cloud or p-balloon will cause you to move right faster and clip through walls by using a configurable button.",
+  "latest_version": "smwc-34881-1701116620",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 34881,
+      "title": "Easy Cloud or P-Balloon Left-Right",
+      "version": "smwc-34881-1701116620",
+      "upstream_time": 1701116620,
+      "download_url": "https://dl.smwcentral.net/34881/lr_cloud_p-balloon.zip",
+      "filename": "lr_cloud_p-balloon.zip",
+      "size": 534,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

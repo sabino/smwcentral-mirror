@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-donkey-kong-country-treetop-rock",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16262,
+  "title": "Donkey Kong Country - Treetop Rock",
+  "authors": [
+    "Maxodex"
+  ],
+  "tags": [
+    "dark",
+    "forest",
+    "jungle",
+    "mountain",
+    "temple"
+  ],
+  "description": "At first I was surprised no one had ported this one. Then I completely understood why anyone with a decent amount of self-respect would absolutely avoid this hell.<br>\r\n<br>\r\nSong that plays in DKC's treetop levels.<br>\r\n<br>\r\nRequested by LX5. <span style=\"font-size: 4pt;\">go to hell</span>",
+  "latest_version": "smwc-16262-1505777095",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16262,
+      "title": "Donkey Kong Country - Treetop Rock",
+      "version": "smwc-16262-1505777095",
+      "upstream_time": 1505777095,
+      "download_url": "https://dl.smwcentral.net/16262/treetop%20rock.zip",
+      "filename": "treetop rock.zip",
+      "size": 46232,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

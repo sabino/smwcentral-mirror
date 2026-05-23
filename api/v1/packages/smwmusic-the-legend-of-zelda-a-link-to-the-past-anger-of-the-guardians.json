@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-a-link-to-the-past-anger-of-the-guardians",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14937,
+  "title": "The Legend of Zelda: A Link to the Past - Anger of the Guardians",
+  "authors": [
+    "Dan"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "The song used for every boss battle in The Legend of Zelda: A Link to the Past.",
+  "latest_version": "smwc-14937-1487313229",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14937,
+      "title": "The Legend of Zelda: A Link to the Past - Anger of the Guardians",
+      "version": "smwc-14937-1487313229",
+      "upstream_time": 1487313229,
+      "download_url": "https://dl.smwcentral.net/14937/tloz_lttp_aotg.zip",
+      "filename": "tloz_lttp_aotg.zip",
+      "size": 44305,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pop-n-twinbee-village-sky",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23598,
+  "title": "Pop'n TwinBee - Village Sky",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "sky"
+  ],
+  "description": "\"Village Sky\" from \"Pop'n Twinbee\"<br>\r\nStage 1 BGM<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=jf5hTrNpFso\" rel=\"nofollow\">Original ver</a><br>\r\n<br>\r\n-Update-<br>\r\nChanged the use samples except @2 from optimization to default.<br>\r\nChanged ADSR of @4.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-23598-1594357083",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23598,
+      "title": "Pop'n TwinBee - Village Sky",
+      "version": "smwc-23598-1594357083",
+      "upstream_time": 1594357083,
+      "download_url": "https://dl.smwcentral.net/23598/Pop%27n%20Twinbee%20-%20Village%20Sky.zip",
+      "filename": "Pop%27n Twinbee - Village Sky.zip",
+      "size": 33539,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-banjo-kazooie-freezeezy-peak",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37959,
+  "title": "Banjo-Kazooie - Freezeezy Peak",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "mountain",
+    "snow"
+  ],
+  "description": "Probably best suited for a snowy level.<br>\r\n<br>\r\nNote: This song is not compatible with the following SFX:<br>\r\nThunder/Firework/Blargg",
+  "latest_version": "smwc-37959-1722466538",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37959,
+      "title": "Banjo-Kazooie - Freezeezy Peak",
+      "version": "smwc-37959-1722466538",
+      "upstream_time": 1722466538,
+      "download_url": "https://dl.smwcentral.net/37959/Freezeezy%20Peak.zip",
+      "filename": "Freezeezy Peak.zip",
+      "size": 92578,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

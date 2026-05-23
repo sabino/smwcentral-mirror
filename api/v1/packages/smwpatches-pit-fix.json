@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-pit-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40222,
+  "title": "Pit fix",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "no cheating",
+    "sa-1",
+    "under the level"
+  ],
+  "description": "This patch fixes a bug that allows the player to go below the level and under blocks to cheat the level. It does this by simply moving the “kill boundary” upwards (position varies depending on Mario's powerup and/or crouching flag to make Mario always invisible). Unlike the Floor Generator made by Chdata, Ladida, and Ramp202, those only sets the player's x speed to #$00, it does work, but it's awkward when NOT touching the walls.<br>\r\n<br>\r\nUPDATE: fix an exploit that if you grab p-balloon while crouching, and try to go under blocks, the player is able to survive going under. This because the ducking and powerup check have “opposite” flags, for example: to have 16x32 hitbox, $73 has to be clear AND $19 has to be set. Mario is always “small” regardless of crouching or not  when powerup is standard Mario.",
+  "latest_version": "smwc-40222-1754172614",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40222,
+      "title": "Pit fix",
+      "version": "smwc-40222-1754172614",
+      "upstream_time": 1754172614,
+      "download_url": "https://dl.smwcentral.net/40222/PitFix.zip",
+      "filename": "PitFix.zip",
+      "size": 2289,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

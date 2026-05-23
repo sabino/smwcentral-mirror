@@ -1,0 +1,31 @@
+{
+  "name": "tools-xkas-plus",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 41107,
+  "title": "xkas-plus",
+  "authors": [
+    "devinacker"
+  ],
+  "tags": [
+    "assembler",
+    "patcher"
+  ],
+  "description": "xkas-plus is an assembler. It is an extension of xkas v14. It can apply assembly patches directly onto modified roms.<br>\r\n<br>\r\nSupported architectures:<br>\r\nGBA THUMB CPU (ARM7TDMI THUMB)<br>\r\nSNES CPU (WDC 65816)<br>\r\nSNES SMP (Sony SPC700)<br>\r\nNES CPU (MOS 6502)<br>\r\nTG-16 / PC Engine CPU (Hudson HuC6280)<br>\r\nWDC 65C02 / 65SC02<br>\r\nCSG 65CE02",
+  "latest_version": "smwc-41107-1765973860",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 41107,
+      "title": "xkas-plus",
+      "version": "smwc-41107-1765973860",
+      "upstream_time": 1765973860,
+      "download_url": "https://dl.smwcentral.net/41107/xkas-plus-14.1.zip",
+      "filename": "xkas-plus-14.1.zip",
+      "size": 269903,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

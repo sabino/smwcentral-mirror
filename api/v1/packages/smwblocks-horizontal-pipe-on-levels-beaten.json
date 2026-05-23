@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-horizontal-pipe-on-levels-beaten",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3889,
+  "title": "Horizontal Pipe on Levels Beaten",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [
+    "beaten",
+    "cleared",
+    "level",
+    "lorom",
+    "pipe"
+  ],
+  "description": "As the name implies, this block is supposed to act like a regular pipe tile if X exits have not yet been obtained. However, if such amount of exits or MORE have been obtained, the block behaves like a horizontal pipe with exit enabled.<br>\r\nThe amount of exits needed for the pipe to work can be easily defined in decimal in the ASM file.<br>\r\nCredit is not required, but would be appreciated.",
+  "latest_version": "smwc-3889-1426213550",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3889,
+      "title": "Horizontal Pipe on Levels Beaten",
+      "version": "smwc-3889-1426213550",
+      "upstream_time": 1426213550,
+      "download_url": "https://dl.smwcentral.net/3889/pipe.zip",
+      "filename": "pipe.zip",
+      "size": 1166,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

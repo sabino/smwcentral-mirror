@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-activate-debug-features-with-flags",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4378,
+  "title": "Activate Debug Features With Flags",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "This patch will alow you to activate the debug features using flags, which allow you to do some cool things, like slow-motion while the p-switch is activated. Credit not required.",
+  "latest_version": "smwc-4378-1320512466",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4378,
+      "title": "Activate Debug Features With Flags",
+      "version": "smwc-4378-1320512466",
+      "upstream_time": 1320512466,
+      "download_url": "https://dl.smwcentral.net/4378/Dabug.zip",
+      "filename": "Dabug.zip",
+      "size": 1177,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

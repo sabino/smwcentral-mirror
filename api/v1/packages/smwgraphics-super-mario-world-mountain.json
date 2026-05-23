@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-super-mario-world-mountain",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16634,
+  "title": "Super Mario World - Mountain",
+  "authors": [
+    "Hayashi Neru"
+  ],
+  "tags": [
+    "mountain",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "Super Mario World 1-1 Background.<br>\r\nIt is recommended to use the Sprite Status Bar patch. Otherwise, the upper part is cut off.<br>\r\nYou don't need credit because just copy other graphics.",
+  "latest_version": "smwc-16634-1510862812",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16634,
+      "title": "Super Mario World - Mountain",
+      "version": "smwc-16634-1510862812",
+      "upstream_time": 1510862812,
+      "download_url": "https://dl.smwcentral.net/16634/SMW%201-1.zip",
+      "filename": "SMW 1-1.zip",
+      "size": 3629,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13031,
+      "title": "Super Mario World - Mountain",
+      "version": "smwc-13031-1452534471",
+      "upstream_time": 1452534471,
+      "download_url": "https://dl.smwcentral.net/13031/mountain.zip",
+      "filename": "mountain.zip",
+      "size": 3517,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

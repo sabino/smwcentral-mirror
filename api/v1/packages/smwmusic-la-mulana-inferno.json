@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-la-mulana-inferno",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31663,
+  "title": "La-Mulana - Inferno",
+  "authors": [
+    "KayXSquared"
+  ],
+  "tags": [
+    "cave",
+    "fire",
+    "industrial",
+    "ruins"
+  ],
+  "description": "A port of the theme that plays in the Inferno Caverns of La-Mulana. Good for cave and lava levels.<br>\r\n<br>\r\nThis port is based on the SC-88 arrangement of the theme, but has customizable pitches to match all three versions found in game:<br>\r\n0 - G Minor, SC-88 pitch<br>\r\n1 - G Sharp Minor - SSCC pitch<br>\r\n2 - A Minor, La-Mulana Remake pitch",
+  "latest_version": "smwc-31663-1672081942",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31663,
+      "title": "La-Mulana - Inferno",
+      "version": "smwc-31663-1672081942",
+      "upstream_time": 1672081942,
+      "download_url": "https://dl.smwcentral.net/31663/La-Mulana%20-%20Inferno.zip",
+      "filename": "La-Mulana - Inferno.zip",
+      "size": 177531,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

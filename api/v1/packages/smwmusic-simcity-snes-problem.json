@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-simcity-snes-problem",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31688,
+  "title": "SimCity (SNES) - Problem",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "chase",
+    "cutscene",
+    "tense",
+    "urban"
+  ],
+  "description": "Could fit in cutscenes.",
+  "latest_version": "smwc-31688-1661969363",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31688,
+      "title": "SimCity (SNES) - Problem",
+      "version": "smwc-31688-1661969363",
+      "upstream_time": 1661969363,
+      "download_url": "https://dl.smwcentral.net/31688/04a%20Problem.zip",
+      "filename": "04a Problem.zip",
+      "size": 36011,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

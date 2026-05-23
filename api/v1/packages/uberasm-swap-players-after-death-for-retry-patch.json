@@ -1,0 +1,39 @@
+{
+  "name": "uberasm-swap-players-after-death-for-retry-patch",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 22595,
+  "title": "Swap Players After Death (for Retry Patch)",
+  "authors": [
+    "Brolencho"
+  ],
+  "tags": [
+    "2 players",
+    "asar 2 remoderation",
+    "coop",
+    "lorom",
+    "retry",
+    "sa-1",
+    "swap",
+    "switch"
+  ],
+  "description": "if 2 players are playing, this switches(swaps) player after death.<br>\r\n<br>\r\n- Intended to use with retry.asm (retry patch) tested with 2.06a.<br>\r\n- Use it with gamemode 10 in UberASM tool.<br>\r\n- there are extra instructions in \"retry ram.gif\"<br>\r\n<br>\r\nIf some of the above is not clear, I included a step by step in the readme. Hopefully this helps.",
+  "latest_version": "smwc-22595-1588088964",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 22595,
+      "title": "Swap Players After Death (for Retry Patch)",
+      "version": "smwc-22595-1588088964",
+      "upstream_time": 1588088964,
+      "download_url": "https://dl.smwcentral.net/22595/Swap%20Players.zip",
+      "filename": "Swap Players.zip",
+      "size": 61733,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

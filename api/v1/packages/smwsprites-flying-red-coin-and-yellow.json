@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-flying-red-coin-and-yellow",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3655,
+  "title": "Flying Red Coin and Yellow 1-Up",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "bonus",
+    "coin",
+    "lorom",
+    "mushroom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprites 7E and 7F in SMW, the flying red coin and flying yellow 1-Up.<br>\r\n<br>\r\nExtra Bit determines which sprite it should act like.",
+  "latest_version": "smwc-3655-1279490082",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3655,
+      "title": "Flying Red Coin and Yellow 1-Up",
+      "version": "smwc-3655-1279490082",
+      "upstream_time": 1279490082,
+      "download_url": "https://dl.smwcentral.net/3655/SMWSDIS%20-%20sprites%207E%20%26%207F%20-%20flying%20red%20coin%20and%201-Up.zip",
+      "filename": "SMWSDIS - sprites 7E %26 7F - flying red coin and 1-Up.zip",
+      "size": 2583,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

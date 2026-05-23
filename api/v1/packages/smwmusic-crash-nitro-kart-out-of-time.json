@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-nitro-kart-out-of-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38444,
+  "title": "Crash Nitro Kart - Out of Time",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "desert",
+    "ruins"
+  ],
+  "description": "A fast paced theme that plays in Out of Time, one of the most iconic tracks from Crash Nitro Kart, being set in a desert with clockwork buildings and a giant clock you drive on (which was unfortunately removed in the remake due to the lack of anti-gravity).<br>\r\n<br>\r\nYou can define in the .txt file which variation you want to use:<br>\r\n0 - Default in-game version<br>\r\n1 - Extended OST version (3:16, 0x0F48)<br>\r\n<br>\r\nNote: The OST version of this song is incompatible with thunder, blargg and Yoshi sound effects and the vanilla bonus end jingle.",
+  "latest_version": "smwc-38444-1730048331",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38444,
+      "title": "Crash Nitro Kart - Out of Time",
+      "version": "smwc-38444-1730048331",
+      "upstream_time": 1730048331,
+      "download_url": "https://dl.smwcentral.net/38444/CNK%20-%20Out%20of%20Time.zip",
+      "filename": "CNK - Out of Time.zip",
+      "size": 166175,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

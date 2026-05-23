@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-eating-creating-block-sprite-activator-deactivator",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23232,
+  "title": "Eating/Creating Block Sprite Activator/Deactivator",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "block snake",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A couple of very simple blocks that activate and deactivate eating/creating block sprites when touched.<br>\r\n<br>\r\nCredit is unecessary.",
+  "latest_version": "smwc-23232-1591898940",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23232,
+      "title": "Eating/Creating Block Sprite Activator/Deactivator",
+      "version": "smwc-23232-1591898940",
+      "upstream_time": 1591898940,
+      "download_url": "https://dl.smwcentral.net/23232/EaterCreatorActivator.zip",
+      "filename": "EaterCreatorActivator.zip",
+      "size": 2201,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

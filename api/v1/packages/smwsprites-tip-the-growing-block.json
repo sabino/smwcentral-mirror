@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-tip-the-growing-block",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 9571,
+  "title": "Tip the Growing Block",
+  "authors": [
+    "leod"
+  ],
+  "tags": [
+    "block",
+    "growing",
+    "grows",
+    "lorom",
+    "platform",
+    "solid"
+  ],
+  "description": "Tip the Growing Block is just a solid block that grows when Mario hits it from below, going from 16x16 to 24x24 and finally to 32x32.<br>\r\n<br>\r\nSetting the extra bit will make it skip right from 16x16 to 32x32 and back.<br>\r\n<br>\r\nUseful as just a little thing to use when designing levels, allows additional leverage to hit higher blocks in block pyramids or to reach alternate paths.<br>\r\n<br>\r\n<br>\r\nPretty much everything is customizable through defines at the top.<br>\r\n<br>\r\nIncludes simple cute graphics, uses palette A by default.<br>\r\nIf you're planning to make your own, the face is the single 8x8 right above the solid colored block.",
+  "latest_version": "smwc-9571-1432754077",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 9571,
+      "title": "Tip the Growing Block",
+      "version": "smwc-9571-1432754077",
+      "upstream_time": 1432754077,
+      "download_url": "https://dl.smwcentral.net/9571/growblock.zip",
+      "filename": "growblock.zip",
+      "size": 7124,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

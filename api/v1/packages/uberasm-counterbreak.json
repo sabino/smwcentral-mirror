@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-counterbreak",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41017,
+  "title": "Counterbreak",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "filter",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This code allows you to reset various statuses and counters when the player returns to the overworld, including:<br>\r\n- Powerup<br>\r\n- Item box item<br>\r\n- Yoshi<br>\r\n- Coins<br>\r\n- Bonus stars<br>\r\n- Score<br>\r\n- Midway point<br>\r\n- Life count<br>\r\n<br>\r\nTo use, insert into game mode 0C.<br>\r\n<br>\r\nNote: If you want to disable midpoints, this requires the \"<a href=\"https://www.smwcentral.net/?p=section&a=details&id=17738\">Bonus Game Midpoint Fix</a>\" patch to fix a vanilla quirk that will prevent events from running.",
+  "latest_version": "smwc-41017-1762889963",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41017,
+      "title": "Counterbreak",
+      "version": "smwc-41017-1762889963",
+      "upstream_time": 1762889963,
+      "download_url": "https://dl.smwcentral.net/41017/Counterbreak_Asar2.zip",
+      "filename": "Counterbreak_Asar2.zip",
+      "size": 546,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

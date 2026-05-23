@@ -1,0 +1,32 @@
+{
+  "name": "tools-trashkas",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4632,
+  "title": "Trashkas",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "assembler",
+    "converter",
+    "sprites"
+  ],
+  "description": "A tool I made which converts TRASM style sprites into a format usable by Asar/xkas. To use, either double click the application to convert all sprite files in the folder or drag the relevant sprite .cfg files onto the application to convert them.<br>\r\n<br>\r\n<a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=1639\" rel=\"nofollow\">Requires NET Framework 2.0.</a>",
+  "latest_version": "smwc-4632-1363207067",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4632,
+      "title": "Trashkas",
+      "version": "smwc-4632-1363207067",
+      "upstream_time": 1363207067,
+      "download_url": "https://dl.smwcentral.net/4632/Trashkas.zip",
+      "filename": "Trashkas.zip",
+      "size": 6172,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

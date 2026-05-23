@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-carryable-yoshi-s-island-p-switch",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26764,
+  "title": "Carryable Yoshi's Island P-Switch",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "carriable",
+    "lorom",
+    "p-switch",
+    "pacifist",
+    "pow",
+    "sa-1",
+    "yoshi's island"
+  ],
+  "description": "This is a large P-Switch from Yoshi's Island. Unlike original, the player can carry or move it somehow.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"gui\"><a href=\"/?p=profile&amp;id=25412\" style=\"color: var(--user-color-1);\" class=\"un\">gui</a></span>.",
+  "latest_version": "smwc-26764-1628315747",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26764,
+      "title": "Carryable Yoshi's Island P-Switch",
+      "version": "smwc-26764-1628315747",
+      "upstream_time": 1628315747,
+      "download_url": "https://dl.smwcentral.net/26764/YISwitchesPortable.zip",
+      "filename": "YISwitchesPortable.zip",
+      "size": 8903,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-water-bubble",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32340,
+  "title": "Water Bubble",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "effect",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of the Water Bubble extended sprite ($12).<br>\r\n<br>\r\nIt adds options to survive outside of water, or survive until offscreen.",
+  "latest_version": "smwc-32340-1674988369",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32340,
+      "title": "Water Bubble",
+      "version": "smwc-32340-1674988369",
+      "upstream_time": 1674988369,
+      "download_url": "https://dl.smwcentral.net/32340/WaterBubble.zip",
+      "filename": "WaterBubble.zip",
+      "size": 1638,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

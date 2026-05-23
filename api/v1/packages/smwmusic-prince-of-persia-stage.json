@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-prince-of-persia-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29357,
+  "title": "Prince of Persia - Stage 6",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "dark",
+    "desert",
+    "mysterious",
+    "temple",
+    "tense"
+  ],
+  "description": "The freaking good stage 6 theme from Prince of Persia. Due to its arabic-like feel, it'd fit pyramid levels, and any sort of sand castle level.",
+  "latest_version": "smwc-29357-1643595101",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29357,
+      "title": "Prince of Persia - Stage 6",
+      "version": "smwc-29357-1643595101",
+      "upstream_time": 1643595101,
+      "download_url": "https://dl.smwcentral.net/29357/Prince%20of%20Persia%20-%20Stage%206.zip",
+      "filename": "Prince of Persia - Stage 6.zip",
+      "size": 33723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22159,
+      "title": "Prince of Persia - Stage 9",
+      "version": "smwc-22159-1581963570",
+      "upstream_time": 1581963570,
+      "download_url": "https://dl.smwcentral.net/22159/Stage9.zip",
+      "filename": "Stage9.zip",
+      "size": 55363,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8449,
+      "title": "Prince of Persia - Stage 6",
+      "version": "smwc-8449-1375402123",
+      "upstream_time": 1375402123,
+      "download_url": "https://dl.smwcentral.net/8449/PRINCE.zip",
+      "filename": "PRINCE.zip",
+      "size": 59052,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

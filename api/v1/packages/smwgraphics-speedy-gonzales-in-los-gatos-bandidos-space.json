@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-speedy-gonzales-in-los-gatos-bandidos-space",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 6979,
+  "title": "Speedy Gonzales in Los Gatos Bandidos - Space",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "asteroid",
+    "needs remoderation",
+    "planet",
+    "space"
+  ],
+  "description": "A background used in the space levels in Speedy Gonzales: Los Gatos Banditos for the SNES. Credit isn't required if you use this, but it would be appreciated.<br>\r\n<br>\r\nNote: This BG is quite large and uses up quite a few palette rows. If you want to save on palette space, you could take out the crater part of the BG to free up palette row 5. You could also take out the mountains and the fake HDMA gradient behind them to free up palette row 4 as well. I guess it depends on whether you want your level to take place in the middle of space or on the surface of some planet.",
+  "latest_version": "smwc-6979-1405349219",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 6979,
+      "title": "Speedy Gonzales in Los Gatos Bandidos - Space",
+      "version": "smwc-6979-1405349219",
+      "upstream_time": 1405349219,
+      "download_url": "https://dl.smwcentral.net/6979/Speedy%20Gonzales%20Space%20BG.zip",
+      "filename": "Speedy Gonzales Space BG.zip",
+      "size": 5878,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

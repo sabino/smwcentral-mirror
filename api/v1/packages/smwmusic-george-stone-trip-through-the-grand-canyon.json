@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-george-stone-trip-through-the-grand-canyon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30781,
+  "title": "George Stone - Trip Through The Grand Canyon",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "desert",
+    "misc",
+    "mountain",
+    "ruins",
+    "title"
+  ],
+  "description": "One of the first midi songs, bundled in Windows 98.<br>\r\nHappy-go-lucky song that starts quiet and goes wilder in the end,<br>\r\n<br>\r\ngood for credits or intro.<br>\r\n<br>\r\nAs the samples take up a lot of space, I've done a light version, to get it just change the following to 0:<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">; _______________switch to 0 for lower res___________\r\n#define \"hi_res\" 1\r\n; ________________________________________________</pre></div><br>\r\n<br>\r\nYou can also add more delay by adding a rest to all channels.<br>\r\n<br>\r\nMade on <a href=\"https://www.smwcentral.net/?p=viewthread&t=120057\">request</a> for <span class=\"un-outer\" title=\"NopeContest\"><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=45664\" style=\"color: #73c873;\" class=\"un\">NopeContest</a></span><br>\r\n<br>\r\nMajor edit: As warned by <span class=\"un-outer\" title=\"brickblock369\"><a href=\"/?p=profile&amp;id=28467\" style=\"color: var(--user-color-2);\" class=\"un\">brickblock369</a></span>, I had got a channel completely wrong due to a midi misread, it is now fixed.",
+  "latest_version": "smwc-30781-1673990885",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30781,
+      "title": "George Stone - Trip Through The Grand Canyon",
+      "version": "smwc-30781-1673990885",
+      "upstream_time": 1673990885,
+      "download_url": "https://dl.smwcentral.net/30781/canyon_mid_0_1.zip",
+      "filename": "canyon_mid_0_1.zip",
+      "size": 105696,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

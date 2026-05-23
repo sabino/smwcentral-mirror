@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-winged-yoshi-area",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3808,
+  "title": "Winged Yoshi Area",
+  "authors": [
+    "NovaSquirrel"
+  ],
+  "tags": [
+    "flying",
+    "lorom",
+    "wing",
+    "yoshi"
+  ],
+  "description": "My first custom block.<br>\r\nYoshi gets wings, but only while touching this block.",
+  "latest_version": "smwc-3808-1409421071",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3808,
+      "title": "Winged Yoshi Area",
+      "version": "smwc-3808-1409421071",
+      "upstream_time": 1409421071,
+      "download_url": "https://dl.smwcentral.net/3808/yoshiwings.zip",
+      "filename": "yoshiwings.zip",
+      "size": 529,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-teleport-on-event-passed",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41147,
+  "title": "Teleport on Event Passed",
+  "authors": [
+    "Alcaro",
+    "MarioE"
+  ],
+  "tags": [
+    "event",
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Teleports the player depending on in an overworld event has been triggered.<br>\r\n<br>\r\nIncludes a define to invert the condition.",
+  "latest_version": "smwc-41147-1764371826",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41147,
+      "title": "Teleport on Event Passed",
+      "version": "smwc-41147-1764371826",
+      "upstream_time": 1764371826,
+      "download_url": "https://dl.smwcentral.net/41147/teleport_event.zip",
+      "filename": "teleport_event.zip",
+      "size": 655,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-superstar-slide",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39419,
+  "title": "Superstar Slide",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "bonus",
+    "chase",
+    "final",
+    "space"
+  ],
+  "description": "Using vanilla SMW samples but few chordified instruments, Not so Mario Kart custom music but not Sonic Custom Music. Fast-paced music that likely Kirby riding a star in space quickly to another world. Could fit on the space and abstract levels.",
+  "latest_version": "smwc-39419-1744422252",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39419,
+      "title": "Superstar Slide",
+      "version": "smwc-39419-1744422252",
+      "upstream_time": 1744422252,
+      "download_url": "https://dl.smwcentral.net/39419/Superstar%20Slide%20%28SMW%29.zip",
+      "filename": "Superstar Slide (SMW).zip",
+      "size": 36329,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37126,
+      "title": "Superstar Slide",
+      "version": "smwc-37126-1710993033",
+      "upstream_time": 1710993033,
+      "download_url": "https://dl.smwcentral.net/37126/Superstar%20Slide.zip",
+      "filename": "Superstar Slide.zip",
+      "size": 62897,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

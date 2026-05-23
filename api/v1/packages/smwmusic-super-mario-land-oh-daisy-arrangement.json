@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-land-oh-daisy-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32622,
+  "title": "Super Mario Land - Oh, Daisy! (Arrangement)",
+  "authors": [
+    "MoxieCat"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "goal",
+    "misc"
+  ],
+  "description": "A short re-arrangement of the ending scene from Super Mario Land (not the credits).<br>\r\n<br>\r\nNote that it doesn't loop - this is mostly good for cutscenes or jingles.",
+  "latest_version": "smwc-32622-1680300813",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32622,
+      "title": "Super Mario Land - Oh, Daisy! (Arrangement)",
+      "version": "smwc-32622-1680300813",
+      "upstream_time": 1680300813,
+      "download_url": "https://dl.smwcentral.net/32622/daisy.zip",
+      "filename": "daisy.zip",
+      "size": 23830,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

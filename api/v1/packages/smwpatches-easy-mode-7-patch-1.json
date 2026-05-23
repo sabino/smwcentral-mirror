@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-easy-mode-7-patch-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40574,
+  "title": "Easy Mode 7 Patch 1.1",
+  "authors": [
+    "ExE Boss",
+    "HuFlungDu",
+    "mathie"
+  ],
+  "tags": [
+    "lorom",
+    "mode 7",
+    "sa-1",
+    "tilemap",
+    "uberasm needed"
+  ],
+  "description": "When you try to use Mode 7 in the original SMW, you can’t properly use its registers unless you store $C1 to $7E:0D9B to activate Bowser’s battle mode. The problem, in this case, is that part of the Mode 7 tilemap is reserved to Bowser and thus is always filled with undesired tiles which are impossible to get rid of.<br>\r\n<br>\r\nThe earlier version of this patch, entirely made by HuFlungDu, corrected this aspect but caused the Mode 7 image to act like Iggy/Larry’s platform and some sprite tiles to appear.<br>\r\n<br>\r\nThe version you can download here has been corrected with SA-1 compatibility and 2 tweaks to disable 1) Iggy/Larry’s platform rotation 2) Iggy/Larry’s animated lava sprite tiles.<br>\r\n<br>\r\nExE Boss’s Changes<br>\r\n------------------<br>\r\n- Full compatibility with all of the original game’s Mode 7 bosses<br>\r\n- Added a subroutine for uploading the Mode 7 GFX and tilemap to VRAM<br>\r\n- The Layer 3 status bar can now enabled by setting the Layer 3 absolute priority bit of $3E, this then works the same way as in the Koopaling/Reznor battles by using IRQ to change the background mode at scanline $24 ($26 with Super Status Bar).<br>\r\n<br>\r\nUpdate by <span class=\"un-outer\" title=\"MarioFanGamer\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=22951\" style=\"color: #ff2050;\" class=\"un\">MarioFanGamer</a></span><br>\r\n------------------<br>\r\n- Removed shared subroutines<br>\r\n- Added compatibility with SA-1 Pack v1.32+<br>\r\n- Fixed a bug where Mode 7 is still enabled on the time up and game over screen.<br>\r\n<br>\r\n------------------<br>\r\n<br>\r\nP.S.: I recommend watching <span class=\"un-outer\" title=\"IsoFrieze\"><a href=\"/?p=profile&amp;id=48\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">IsoFrieze</a></span>’s video explaining the <a href=\"https://youtu.be/3FVN_Ze7bzw\" rel=\"nofollow\">Mode 7</a>.<br>\r\n<br>\r\nNotice: You must first completely uninstall 1.0 before installing 1.1 (but you don’t need to uninstall the UberASM code).<br>\r\n<br>\r\n------------------<br>\r\n<br>\r\nSource code is <a href=\"https://github.com/ExE-Boss/SMW-Workspace/tree/master/src/easy_mode7\" rel=\"nofollow\">available on my GitHub</a>.",
+  "latest_version": "smwc-40574-1757004143",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40574,
+      "title": "Easy Mode 7 Patch 1.1",
+      "version": "smwc-40574-1757004143",
+      "upstream_time": 1757004143,
+      "download_url": "https://dl.smwcentral.net/40574/EasyMode7_1.1.zip",
+      "filename": "EasyMode7_1.1.zip",
+      "size": 92639,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

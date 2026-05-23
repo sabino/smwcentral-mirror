@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-iv-major-fighter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8398,
+  "title": "Mega Man IV - Major Fighter",
+  "authors": [
+    "Frugo Man"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "space"
+  ],
+  "description": "Intense song that could fit to potential boss battles or chase levels.",
+  "latest_version": "smwc-8398-1362173284",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8398,
+      "title": "Mega Man IV - Major Fighter",
+      "version": "smwc-8398-1362173284",
+      "upstream_time": 1362173284,
+      "download_url": "https://dl.smwcentral.net/8398/MMIV%20-%20Major%20Fighter.zip",
+      "filename": "MMIV - Major Fighter.zip",
+      "size": 64278,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

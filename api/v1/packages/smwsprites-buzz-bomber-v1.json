@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-buzz-bomber-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25975,
+  "title": "Buzz Bomber v1.0",
+  "authors": [
+    "Eminus",
+    "Von Fahrenheit"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Sonic-inspired sprite will fly in and unleash its ammo in the form of fireballs. How much ammo it has without and with the extra bit can be very easily changed in the defines. The sprite is very simple and has pretty standard interaction.<br>\r\n<br>\r\nRequested for the Strongest Sprite Workshop 2020 by Green Jerry",
+  "latest_version": "smwc-25975-1611912164",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25975,
+      "title": "Buzz Bomber v1.0",
+      "version": "smwc-25975-1611912164",
+      "upstream_time": 1611912164,
+      "download_url": "https://dl.smwcentral.net/25975/buzz%20bomber.zip",
+      "filename": "buzz bomber.zip",
+      "size": 5658,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

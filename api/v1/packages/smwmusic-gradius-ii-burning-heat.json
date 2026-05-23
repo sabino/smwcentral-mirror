@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-gradius-ii-burning-heat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17892,
+  "title": "Gradius II - Burning Heat",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "space"
+  ],
+  "description": "The first Stage of Gradius 2 arranged using Gradius 3 samples.",
+  "latest_version": "smwc-17892-1532149191",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17892,
+      "title": "Gradius II - Burning Heat",
+      "version": "smwc-17892-1532149191",
+      "upstream_time": 1532149191,
+      "download_url": "https://dl.smwcentral.net/17892/Burning_Heat_SNES.zip",
+      "filename": "Burning_Heat_SNES.zip",
+      "size": 55787,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

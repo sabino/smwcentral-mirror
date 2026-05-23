@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pok-mon-mystery-dungeon-explorers-of-sky-have-to-get-home",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39098,
+  "title": "Pokémon Mystery Dungeon: Explorers of Sky - Have to Get Home",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Requested by Nanashi",
+  "latest_version": "smwc-39098-1740607444",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39098,
+      "title": "Pokémon Mystery Dungeon: Explorers of Sky - Have to Get Home",
+      "version": "smwc-39098-1740607444",
+      "upstream_time": 1740607444,
+      "download_url": "https://dl.smwcentral.net/39098/Have%20to%20Get%20Home.zip",
+      "filename": "Have to Get Home.zip",
+      "size": 31151,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

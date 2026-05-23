@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-opeth-in-my-time-of-need",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24461,
+  "title": "Opeth - In my time of need",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "dark",
+    "forest",
+    "sad",
+    "spooky"
+  ],
+  "description": "A melancholic song that's mostly fit for haunted forests.",
+  "latest_version": "smwc-24461-1602212723",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24461,
+      "title": "Opeth - In my time of need",
+      "version": "smwc-24461-1602212723",
+      "upstream_time": 1602212723,
+      "download_url": "https://dl.smwcentral.net/24461/time_of_need_0_1.zip",
+      "filename": "time_of_need_0_1.zip",
+      "size": 32749,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

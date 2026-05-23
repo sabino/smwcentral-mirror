@@ -1,0 +1,45 @@
+{
+  "name": "smwgraphics-the-king-of-fighters",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 33423,
+  "title": "The King of Fighters '95 - 8x16 Fonts",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "cutscene",
+    "font",
+    "sans serif",
+    "serif"
+  ],
+  "description": "This is the English font used in SNK fighting game <i>The King of Fighters '95</i>. This font is used for general texts. The size is 8x16 and it's in serif form.<br>\r\n<br>\r\nThis includes Spanish and Portuguese orthography as <i>KOF '95</i> supports the languages.<br>\r\n<br>\r\nThis font uses two colors and they're mapped to Row 1, the same colors used in the status interface. As long as you don't change them, they'll look fine.",
+  "latest_version": "smwc-33423-1677947952",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 33423,
+      "title": "The King of Fighters '95 - 8x16 Fonts",
+      "version": "smwc-33423-1677947952",
+      "upstream_time": 1677947952,
+      "download_url": "https://dl.smwcentral.net/33423/The%20King%20of%20Fighters%20%2795%20-%2016x8%20Fonts.zip",
+      "filename": "The King of Fighters %2795 - 16x8 Fonts.zip",
+      "size": 3655,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 31973,
+      "title": "The King of Fighters '96 - 8x16 Fonts",
+      "version": "smwc-31973-1661713954",
+      "upstream_time": 1661713954,
+      "download_url": "https://dl.smwcentral.net/31973/The%20King%20of%20Fighters%20%2796%20-%2016x8%20Fonts.zip",
+      "filename": "The King of Fighters %2796 - 16x8 Fonts.zip",
+      "size": 5703,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-chasing-porcupuffer",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20396,
+  "title": "Chasing Porcupuffer",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "enemy",
+    "fish",
+    "lorom",
+    "porcupuffer",
+    "sa-1"
+  ],
+  "description": "This porcupuffer will follow Mario even underwater. It doesn't move along layer 1 as the original porcupuffer does, and it's also customisable regarding its speed and acceleration - you can also decide if you want it to despawn offscreen or not. Check the .asm file regarding those options.",
+  "latest_version": "smwc-20396-1562623467",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20396,
+      "title": "Chasing Porcupuffer",
+      "version": "smwc-20396-1562623467",
+      "upstream_time": 1562623467,
+      "download_url": "https://dl.smwcentral.net/20396/Chasing_Porcupuffer.zip",
+      "filename": "Chasing_Porcupuffer.zip",
+      "size": 2032,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

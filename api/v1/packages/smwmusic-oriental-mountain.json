@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-oriental-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19418,
+  "title": "Oriental Mountain",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "overworld"
+  ],
+  "description": "Fit with oriental overworld theme<br>\r\n<br>\r\nUPDATE: Revamped for quality++ and less insert size",
+  "latest_version": "smwc-19418-1553700259",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19418,
+      "title": "Oriental Mountain",
+      "version": "smwc-19418-1553700259",
+      "upstream_time": 1553700259,
+      "download_url": "https://dl.smwcentral.net/19418/Oriental%20Mountain%20%28Sampled%29.zip",
+      "filename": "Oriental Mountain (Sampled).zip",
+      "size": 40092,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19417,
+      "title": "Oriental Mountain",
+      "version": "smwc-19417-1553700154",
+      "upstream_time": 1553700154,
+      "download_url": "https://dl.smwcentral.net/19417/Oriental%20Mountain.zip",
+      "filename": "Oriental Mountain.zip",
+      "size": 31892,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "smwsprites-rocky-wrench",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35229,
+  "title": "Rocky Wrench",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "airship",
+    "enemy",
+    "lorom",
+    "mole",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "A partial ASM port from Super Mario Bros. 3, so the behavior is more closely related to SMB3's than anything else.<br>\r\n<br>\r\nThis is the Rocky Wrench enemy from the Airship stages in SMB3, most recently seen in Super Mario Maker 2.<br>\r\n<br>\r\nThe enemy will occasionally pop up out of the ground and throw a wrench. If Mario is standing on top of where it pops up, he can technically use him as a platform.<br>\r\nWhen killed, it will respawn. The exception to this is if your hack is configured to turn enemies to coins with a fireball.<br>\r\n<br>\r\nIf the Extra Bit is set, it'll appear upside down. If the Extra Byte is set, it'll use a different palette and throw three wrenches in formation.<br>\r\n<br>\r\nGFX included are of the Super Mario Maker 2 version.<br>\r\n<br>\r\nUpdate History:<br>\r\nv0.10 (10/27/2020) - Initial release.<br>\r\nv0.15 (10/28/2020) - Fixed a crash in SA-1 when using the ThrowMethod of $00 (whoops!).<br>\r\nBlizzard Buffalo's Update:<br>\r\nFixed the cape interaction hitbox.",
+  "latest_version": "smwc-35229-1712821631",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35229,
+      "title": "Rocky Wrench",
+      "version": "smwc-35229-1712821631",
+      "upstream_time": 1712821631,
+      "download_url": "https://dl.smwcentral.net/35229/RockyWrench.zip",
+      "filename": "RockyWrench.zip",
+      "size": 11416,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    },
+    {
+      "upstream_id": 3313,
+      "title": "Rocky Wrench",
+      "version": "smwc-3313-1215370483",
+      "upstream_time": 1215370483,
+      "download_url": "https://dl.smwcentral.net/3313/SMB3RockyWrench.zip",
+      "filename": "SMB3RockyWrench.zip",
+      "size": 6798,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-sonic-advance-3-route-99-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20303,
+  "title": "Sonic Advance 3 - Route 99 Zone Act 1",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "urban"
+  ],
+  "description": "Act 1 of Route 99 from Sonic Advance 3. It's a high-energy upbeat song. Fits urban levels and athletic levels well. Like my some of my other GBA ports, I added some of my own panning to improve how the song sounds.",
+  "latest_version": "smwc-20303-1561946495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20303,
+      "title": "Sonic Advance 3 - Route 99 Zone Act 1",
+      "version": "smwc-20303-1561946495",
+      "upstream_time": 1561946495,
+      "download_url": "https://dl.smwcentral.net/20303/sonic_adv3_-_route_99_act_1.zip",
+      "filename": "sonic_adv3_-_route_99_act_1.zip",
+      "size": 64766,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16332,
+      "title": "Sonic Advance 3 - Route 99 Zone Act 1",
+      "version": "smwc-16332-1506365033",
+      "upstream_time": 1506365033,
+      "download_url": "https://dl.smwcentral.net/16332/Route%2099%20Act%201.zip",
+      "filename": "Route 99 Act 1.zip",
+      "size": 33516,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

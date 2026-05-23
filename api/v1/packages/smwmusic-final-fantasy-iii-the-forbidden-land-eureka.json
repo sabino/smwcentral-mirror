@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-final-fantasy-iii-the-forbidden-land-eureka",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13676,
+  "title": "Final Fantasy III - The Forbidden Land, Eureka",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "desert",
+    "overworld",
+    "ruins",
+    "town"
+  ],
+  "description": "Could fit with castle-y overworld theme.",
+  "latest_version": "smwc-13676-1464746716",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13676,
+      "title": "Final Fantasy III - The Forbidden Land, Eureka",
+      "version": "smwc-13676-1464746716",
+      "upstream_time": 1464746716,
+      "download_url": "https://dl.smwcentral.net/13676/Final%20Fantasy%20III%20-%20The%20Forbidden%20Land.zip",
+      "filename": "Final Fantasy III - The Forbidden Land.zip",
+      "size": 32067,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7855,
+      "title": "Final Fantasy III - The Forbidden Land, Eureka",
+      "version": "smwc-7855-1320050445",
+      "upstream_time": 1320050445,
+      "download_url": "https://dl.smwcentral.net/7855/ff3e.zip",
+      "filename": "ff3e.zip",
+      "size": 67384,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

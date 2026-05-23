@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-printer-s-ambition",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39336,
+  "title": "Printer's Ambition",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "grassland",
+    "ice",
+    "menu",
+    "overworld",
+    "sky",
+    "snow",
+    "title",
+    "town",
+    "upbeat"
+  ],
+  "description": "A groovy overworld track composed for an unfinished Hackjam #2 entry.<br>\r\n<br>\r\nIt's optimistic, with the feeling of an adventure that's about to unfold!",
+  "latest_version": "smwc-39336-1741646064",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39336,
+      "title": "Printer's Ambition",
+      "version": "smwc-39336-1741646064",
+      "upstream_time": 1741646064,
+      "download_url": "https://dl.smwcentral.net/39336/printer.zip",
+      "filename": "printer.zip",
+      "size": 33188,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

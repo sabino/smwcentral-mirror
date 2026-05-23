@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-final-fantasy-v-exdeath-s-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11210,
+  "title": "Final Fantasy V - Exdeath's Castle",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "fire",
+    "temple",
+    "tense"
+  ],
+  "description": "A tense song could fit with castle theme.",
+  "latest_version": "smwc-11210-1430710088",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11210,
+      "title": "Final Fantasy V - Exdeath's Castle",
+      "version": "smwc-11210-1430710088",
+      "upstream_time": 1430710088,
+      "download_url": "https://dl.smwcentral.net/11210/Final%20Fantasy%20V%20-%20Exdeath%27s%20Castle%20%28Unsampled%29.zip",
+      "filename": "Final Fantasy V - Exdeath%27s Castle (Unsampled).zip",
+      "size": 31909,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11185,
+      "title": "Final Fantasy V - Exdeath's Castle",
+      "version": "smwc-11185-1428812637",
+      "upstream_time": 1428812637,
+      "download_url": "https://dl.smwcentral.net/11185/Final%20Fantasy%20V%20-%20Exdeath%27s%20Castle.zip",
+      "filename": "Final Fantasy V - Exdeath%27s Castle.zip",
+      "size": 61284,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

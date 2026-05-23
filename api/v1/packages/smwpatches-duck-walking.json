@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-duck-walking",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12423,
+  "title": "Duck Walking",
+  "authors": [
+    "Pseudonym"
+  ],
+  "tags": [
+    "controller",
+    "duck",
+    "lorom",
+    "movement",
+    "sa-1"
+  ],
+  "description": "This one allows you to walk while ducking. Done at Ixtab's request. Fixed the label error (which wasn't in my copy) and other errors.<br>\r\n<br>\r\nSeveral other errors fixed by Fakescaper.",
+  "latest_version": "smwc-12423-1456465090",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12423,
+      "title": "Duck Walking",
+      "version": "smwc-12423-1456465090",
+      "upstream_time": 1456465090,
+      "download_url": "https://dl.smwcentral.net/12423/DucksAreWalking.zip",
+      "filename": "DucksAreWalking.zip",
+      "size": 1015,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

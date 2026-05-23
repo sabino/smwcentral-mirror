@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-moving-along",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39552,
+  "title": "Moving Along",
+  "authors": [
+    "0ne_bins211"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "upbeat",
+    "yoshi drums"
+  ],
+  "description": "Intented to be used as a grassland or an athletic theme",
+  "latest_version": "smwc-39552-1745337164",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39552,
+      "title": "Moving Along",
+      "version": "smwc-39552-1745337164",
+      "upstream_time": 1745337164,
+      "download_url": "https://dl.smwcentral.net/39552/Moving%20Along.zip",
+      "filename": "Moving Along.zip",
+      "size": 84281,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-friday-the-13th-nes-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36621,
+  "title": "Friday the 13th (NES) - Overworld",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "retro"
+  ],
+  "description": "The overworld theme from Friday the 13th on the NES.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Devazure\"><span title=\"Devazure donated $25.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=93\" style=\"color: #3e75d9;\" class=\"un\">Devazure</a></span>.",
+  "latest_version": "smwc-36621-1705352314",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36621,
+      "title": "Friday the 13th (NES) - Overworld",
+      "version": "smwc-36621-1705352314",
+      "upstream_time": 1705352314,
+      "download_url": "https://dl.smwcentral.net/36621/Friday%20the%2013th%20%28NES%29%20-%20Overworld.zip",
+      "filename": "Friday the 13th (NES) - Overworld.zip",
+      "size": 42820,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-splatoon-tornado-shuffle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30584,
+  "title": "Splatoon - Tornado Shuffle",
+  "authors": [
+    "Captain 3"
+  ],
+  "tags": [
+    "industrial",
+    "tense"
+  ],
+  "description": "One of the best Splatoon 1 single player songs. Used in levels where you sneak around in your ink to avoid being inkstriked.<br>\r\n<br>\r\nBased on the OST version (battle beat vocals but no loud drums).<br>\r\n<br>\r\n4/22/2022 Update:<br>\r\n=Updated all vocal samples, and decreased the size of some by a few kb.<br>\r\n-Removed Vocals2_4.brr<br>\r\n=Changed percussion a little bit<br>\r\n=Greatly reduced Channel 7's usage, resulting in less cutoff<br>\r\n+Added third note to synth chords",
+  "latest_version": "smwc-30584-1659226769",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30584,
+      "title": "Splatoon - Tornado Shuffle",
+      "version": "smwc-30584-1659226769",
+      "upstream_time": 1659226769,
+      "download_url": "https://dl.smwcentral.net/30584/Tornado%20Shuffle.zip",
+      "filename": "Tornado Shuffle.zip",
+      "size": 78984,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

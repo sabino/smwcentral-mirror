@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-geyser",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19570,
+  "title": "Geyser",
+  "authors": [
+    "DigitalSine"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "A sand geyser sprite or the SMB2 whale sprite. Effectively its a platform that rises up, hovers, then falls back down again. Or if the extra bit is set it will rise up and stay hovering.<br>\r\n<br>\r\nIncludes some basic graphics, sample levels, map16 files and everything you should need to get it up and running.",
+  "latest_version": "smwc-19570-1558404336",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19570,
+      "title": "Geyser",
+      "version": "smwc-19570-1558404336",
+      "upstream_time": 1558404336,
+      "download_url": "https://dl.smwcentral.net/19570/Geyser.zip",
+      "filename": "Geyser.zip",
+      "size": 9234,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

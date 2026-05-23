@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-tokimeki-memorial-ski-resort",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23461,
+  "title": "Tokimeki Memorial - Ski Resort",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "overworld",
+    "snow",
+    "town"
+  ],
+  "description": "looks good on snow maps",
+  "latest_version": "smwc-23461-1593467367",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23461,
+      "title": "Tokimeki Memorial - Ski Resort",
+      "version": "smwc-23461-1593467367",
+      "upstream_time": 1593467367,
+      "download_url": "https://dl.smwcentral.net/23461/Ski_Resort.zip",
+      "filename": "Ski_Resort.zip",
+      "size": 43462,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20936,
+      "title": "Tokimeki Memorial - Ski Resort",
+      "version": "smwc-20936-1566337472",
+      "upstream_time": 1566337472,
+      "download_url": "https://dl.smwcentral.net/20936/Tokimeki%20Memorial%20-%20Ski%20Resort.zip",
+      "filename": "Tokimeki Memorial - Ski Resort.zip",
+      "size": 30914,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

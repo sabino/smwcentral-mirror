@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-f-zero-zoom-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34650,
+  "title": "F-Zero - Zoom (Arrangement)",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "keyhole"
+  ],
+  "description": "An arrangement of \"Zoom\" from F-Zero.<br>\r\n<br>\r\nOriginal soundtrack description:<br>\r\n<br>\r\n<i>This is F-Zero on the SNES' entire OST, but redone using higher quality samples.<br>\r\n<br>\r\nAs to why I did this, after I made Mute City and Port Town, I thought, \"What if the whole soundtrack were originally done in this style? What would it sound like\"? whilst not making some of the songs completely and entirely different, so I decided to carry on with the idea.<br>\r\n<br>\r\nI hope you guys like these ports, because I sure liked making them.<br>\r\n<br>\r\nUpdate 1 (7/29/2019): Replaced all songs that had #tempoimmunity with $F4$07 because #tempoimmunity apparently doesn't work.</i>",
+  "latest_version": "smwc-34650-1690845185",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34650,
+      "title": "F-Zero - Zoom (Arrangement)",
+      "version": "smwc-34650-1690845185",
+      "upstream_time": 1690845185,
+      "download_url": "https://dl.smwcentral.net/34650/Zoom.zip",
+      "filename": "Zoom.zip",
+      "size": 10978,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

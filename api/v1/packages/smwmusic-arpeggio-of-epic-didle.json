@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-arpeggio-of-epic-didle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10386,
+  "title": "Arpeggio of Epic Didle",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus",
+    "grassland",
+    "overworld",
+    "sky"
+  ],
+  "description": "My own custom music of 'Arpeggio of Epic Didle'",
+  "latest_version": "smwc-10386-1419884845",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10386,
+      "title": "Arpeggio of Epic Didle",
+      "version": "smwc-10386-1419884845",
+      "upstream_time": 1419884845,
+      "download_url": "https://dl.smwcentral.net/10386/CUSTOM%20-%20Arpeggio%20of%20Epic%20Didle.zip",
+      "filename": "CUSTOM - Arpeggio of Epic Didle.zip",
+      "size": 61096,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

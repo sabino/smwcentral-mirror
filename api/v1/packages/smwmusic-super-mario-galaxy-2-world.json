@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-galaxy-2-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32289,
+  "title": "Super Mario Galaxy 2 - World 3",
+  "authors": [
+    "BeanJammin"
+  ],
+  "tags": [
+    "overworld",
+    "space"
+  ],
+  "description": "A sweet little piano piece from SMG2, great for space-y overworlds (am I just gonna port overworld tracks? Only time will tell).",
+  "latest_version": "smwc-32289-1680328114",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32289,
+      "title": "Super Mario Galaxy 2 - World 3",
+      "version": "smwc-32289-1680328114",
+      "upstream_time": 1680328114,
+      "download_url": "https://dl.smwcentral.net/32289/World3.zip",
+      "filename": "World3.zip",
+      "size": 31171,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

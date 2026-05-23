@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-koumakyou-the-embodiment-of-scarlet-devil-shanghai-alice-of-meiji",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24006,
+  "title": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil - Shanghai Alice of Meiji 17",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "dark"
+  ],
+  "description": "The music playing during the battle with the boss of stage 3, Hong Meiling. It could work for bosses and athletic areas.<br>\r\n<br>\r\nEdit: made it better I guess.",
+  "latest_version": "smwc-24006-1595746961",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24006,
+      "title": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil - Shanghai Alice of Meiji 17",
+      "version": "smwc-24006-1595746961",
+      "upstream_time": 1595746961,
+      "download_url": "https://dl.smwcentral.net/24006/ChinaMK2.zip",
+      "filename": "ChinaMK2.zip",
+      "size": 34767,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

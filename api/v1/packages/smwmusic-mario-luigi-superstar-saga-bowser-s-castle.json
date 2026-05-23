@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-bowser-s-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17365,
+  "title": "Mario & Luigi: Superstar Saga - Bowser's Castle",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "calm",
+    "castle",
+    "dark",
+    "final"
+  ],
+  "description": "Song from M&L:SS. Good for lava/fire castles. <span style=\"color: red;\">Not compatible with the P-Switch, Yoshi and Thunder SFX.</span>",
+  "latest_version": "smwc-17365-1522664811",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17365,
+      "title": "Mario & Luigi: Superstar Saga - Bowser's Castle",
+      "version": "smwc-17365-1522664811",
+      "upstream_time": 1522664811,
+      "download_url": "https://dl.smwcentral.net/17365/%5BS%5D%20Mario%20%26%20Luigi%20Superstar%20Saga%20-%20Bowser%27s%20Castle.zip",
+      "filename": "%5BS%5D Mario %26 Luigi Superstar Saga - Bowser%27s Castle.zip",
+      "size": 85346,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11551,
+      "title": "Mario & Luigi: Superstar Saga - Bowser's Castle",
+      "version": "smwc-11551-1437618123",
+      "upstream_time": 1437618123,
+      "download_url": "https://dl.smwcentral.net/11551/BowserCastle.zip",
+      "filename": "BowserCastle.zip",
+      "size": 32377,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-aero-fighters-tokyo-japan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40326,
+  "title": "Aero Fighters - Tokyo, Japan",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "airship",
+    "boss",
+    "chase"
+  ],
+  "description": "A tense and epic theme from Aero Fighters.",
+  "latest_version": "smwc-40326-1757088941",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40326,
+      "title": "Aero Fighters - Tokyo, Japan",
+      "version": "smwc-40326-1757088941",
+      "upstream_time": 1757088941,
+      "download_url": "https://dl.smwcentral.net/40326/07%20Tokyo%2C%20Japan.zip",
+      "filename": "07 Tokyo%2C Japan.zip",
+      "size": 63213,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

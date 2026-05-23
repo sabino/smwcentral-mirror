@@ -1,0 +1,67 @@
+{
+  "name": "smwmusic-jazz-jackrabbit-medivo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41061,
+  "title": "Jazz Jackrabbit - Medivo",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "final",
+    "industrial",
+    "sewer",
+    "temple",
+    "tense"
+  ],
+  "description": "Episode 1<br>\r\nPlanet 3<br>\r\nRainy and LavaFall<br>\r\n<br>\r\nThanks to <span class=\"un-outer\" title=\"bebn legg\"><span title=\"Administrator\" class=\"icon icon-admin\"></span><a href=\"/?p=profile&amp;id=19971\" style=\"color: #3965a1;\" class=\"un\">bebn legg</a></span>, we were able to stereoize it.<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=Pb8WbGIT57E&pp=ygUVamF6eiBqYWNrcmFiYml0IG1kaXZv\" rel=\"nofollow\">Original ver (monaural)</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=10881\">Worldpeace's ver</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=22517\">Xulon's ver</a>",
+  "latest_version": "smwc-41061-1766606601",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41061,
+      "title": "Jazz Jackrabbit - Medivo",
+      "version": "smwc-41061-1766606601",
+      "upstream_time": 1766606601,
+      "download_url": "https://dl.smwcentral.net/41061/Jazz%20Jackrabbit%20-%20Medivo.zip",
+      "filename": "Jazz Jackrabbit - Medivo.zip",
+      "size": 34287,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22517,
+      "title": "Jazz Jackrabbit - Medivo",
+      "version": "smwc-22517-1586309205",
+      "upstream_time": 1586309205,
+      "download_url": "https://dl.smwcentral.net/22517/Jazz%20Jackrabbit%20-%20Medivo.zip",
+      "filename": "Jazz Jackrabbit - Medivo.zip",
+      "size": 87542,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10881,
+      "title": "Jazz Jackrabbit - Medivo",
+      "version": "smwc-10881-1425690654",
+      "upstream_time": 1425690654,
+      "download_url": "https://dl.smwcentral.net/10881/Medivo.zip",
+      "filename": "Medivo.zip",
+      "size": 82778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

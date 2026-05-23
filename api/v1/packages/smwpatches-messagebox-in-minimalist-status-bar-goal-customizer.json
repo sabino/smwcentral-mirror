@@ -1,0 +1,47 @@
+{
+  "name": "smwpatches-messagebox-in-minimalist-status-bar-goal-customizer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42390,
+  "title": "MessageBox in Minimalist Status Bar + Goal Customizer",
+  "authors": [
+    "Isikoro",
+    "Ladida"
+  ],
+  "tags": [
+    "bonus stars",
+    "coins",
+    "counter",
+    "custom powerups",
+    "hdma",
+    "lorom",
+    "menu",
+    "message box",
+    "mode 7",
+    "pause",
+    "retry",
+    "sa-1",
+    "star coin",
+    "status bar",
+    "timer"
+  ],
+  "description": "This patch combines the message box with the Minimalist Status Bar to allow Layer 3 effects and messages to coexist.<br>\r\n* It can coexist with layer 3 HDMA effects (Parallax, etc ...), and layer 3 water.<br>\r\n* It also disables goal messages and post-goal fades.<br>\r\n* No sprite tiles are used in the message field.<br>\r\n* It has custom message functions for selections, numerical inputs and name labels.<br>\r\n* The status bar is displayed correctly in Mode 7 boss battles.<br>\r\n* The HDMA effect will not be canceled even during the key goal and zooming circle.<br>\r\n* Compatible with LX5's Star Coins and Custom Powerups.<br>\r\n* Compatible with the Retry systems made by worldpeace and Kevin.<br>\r\n<br>\r\nIncludes sample patches and other sample files.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span><span style=\"font-size: 14pt;\">NOTES BEFORE PATCHING</span></span></div><div class=\"collapse-content\"><b><u>NOTE:</u> Before applying the patch, edit any of the levels and enable the standard Layer 3 tile map bypass for any level.</b><br>\r\n<br>\r\n<b><u>NOTE FOR SA-1 USERS:</u> To use with the latest SA-1, open remap/dma.asm and replace !window_hdma_channel = 1 with 7 before applying.<br>\r\nOtherwise, problems will occur in the overworld and some other sections of the game.</b></div></div><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Sample patch message box details</span></div><div class=\"collapse-content\">The message box in the sample hack uses <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22279\">this</a>.<br>\r\nHowever, the code around line 76 is rewritten from<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\tBEQ .default\r\n\tSTA $13BF|!Base2\r\n\tLDA #$03\r\n\tSTA !15AC,x\r\n.default\r\n\tLDA !E4,x\t; Load X position..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tAND #$01\t; And make the sprite..\r\n\tINC\t\t; Display its message..</pre></div><br>\r\nto<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\tSTA $0F40|!Base2\r\n\tLDA #$00 ; !extra_byte_2,x\r\n\tSTA $0F41|!Base2\r\n\tLDA #$04</pre></div></div></div><br>\r\n",
+  "latest_version": "smwc-42390-1779420219",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42390,
+      "title": "MessageBox in Minimalist Status Bar + Goal Customizer",
+      "version": "smwc-42390-1779420219",
+      "upstream_time": 1779420219,
+      "download_url": "https://dl.smwcentral.net/42390/Message%20in%20Minimalist%20Status%20Bar%20%2B%20Goal%20Customizer.zip",
+      "filename": "Message in Minimalist Status Bar + Goal Customizer.zip",
+      "size": 903554,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

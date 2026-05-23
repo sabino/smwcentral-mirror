@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-one-shot-fire-flower-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 27996,
+  "title": "One-Shot Fire Flower Block",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "fire flower",
+    "fireball",
+    "lorom",
+    "one shot",
+    "sa-1"
+  ],
+  "description": "This is a block that when collected, will award Fire Power that can be used for a single shot. Collecting multiple blocks will give the player the respective amount of shots. When the player's shots have been used up, they will revert to big Mario.<br>\r\n<br>\r\nSee the asm file for some customization options. Requires a few small helper patches (inserted with the block) to handle the fireball counter.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"KatMakes\"><a href=\"/?p=profile&amp;id=41891\" style=\"color: var(--user-color-2);\" class=\"un\">KatMakes</a></span>.",
+  "latest_version": "smwc-27996-1643823856",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 27996,
+      "title": "One-Shot Fire Flower Block",
+      "version": "smwc-27996-1643823856",
+      "upstream_time": 1643823856,
+      "download_url": "https://dl.smwcentral.net/27996/OneShotFlower.zip",
+      "filename": "OneShotFlower.zip",
+      "size": 1942,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

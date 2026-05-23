@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-darius-twin-a-flashing-dual-hawk",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24016,
+  "title": "Darius Twin - A Flashing Dual Hawk",
+  "authors": [
+    "Slash Man"
+  ],
+  "tags": [
+    "athletic",
+    "sky"
+  ],
+  "description": "The first mountain/sky stage of Darius Twin, these samples sound like Megaman X but they're not. This port was started in 2011 and is finally finished.",
+  "latest_version": "smwc-24016-1596773301",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24016,
+      "title": "Darius Twin - A Flashing Dual Hawk",
+      "version": "smwc-24016-1596773301",
+      "upstream_time": 1596773301,
+      "download_url": "https://dl.smwcentral.net/24016/Darius%20Twin%20-%20Rilair.zip",
+      "filename": "Darius Twin - Rilair.zip",
+      "size": 47695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

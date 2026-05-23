@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-alcahest-mountain-trail",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25247,
+  "title": "Alcahest - Mountain Trail",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "mountain",
+    "night"
+  ],
+  "description": "Port from Alcahest that I made together with the unsampled version but never released.",
+  "latest_version": "smwc-25247-1607544612",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25247,
+      "title": "Alcahest - Mountain Trail",
+      "version": "smwc-25247-1607544612",
+      "upstream_time": 1607544612,
+      "download_url": "https://dl.smwcentral.net/25247/Alcahest%20-%20Mountain%20Trail.zip",
+      "filename": "Alcahest - Mountain Trail.zip",
+      "size": 55694,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22211,
+      "title": "Alcahest - Mountain Trail",
+      "version": "smwc-22211-1582586176",
+      "upstream_time": 1582586176,
+      "download_url": "https://dl.smwcentral.net/22211/15%20Mountain%20Trail%20%28unsampled%29.zip",
+      "filename": "15 Mountain Trail (unsampled).zip",
+      "size": 34807,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

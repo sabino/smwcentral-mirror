@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-demonhead",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41125,
+  "title": "Demonhead",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "smoke"
+  ],
+  "description": "This sprite, inspired in the ones at Solomon's Key, will despawn in a puff of smoke some time after it spawns. It's recommended to use it alongside a shooter.<br>\r\n<br>\r\nCheck the ASM file for customisation options.",
+  "latest_version": "smwc-41125-1764290892",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41125,
+      "title": "Demonhead",
+      "version": "smwc-41125-1764290892",
+      "upstream_time": 1764290892,
+      "download_url": "https://dl.smwcentral.net/41125/DemonHead.zip",
+      "filename": "DemonHead.zip",
+      "size": 4144,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

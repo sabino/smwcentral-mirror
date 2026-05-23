@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-parental-big-bertha-underwater",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28885,
+  "title": "Parental Big Bertha (Underwater)",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "big bertha",
+    "enemy",
+    "fish",
+    "lorom",
+    "sa-1",
+    "underwater"
+  ],
+  "description": "This is the Big Bertha from SMB3 which is rarely seen underwater. She will swim back and forth occasionally \"spitting\" out a baby Cheep Cheep before sucking it back into her mouth.<br>\r\n<br>\r\nThis sprite is heavily based on SMB3's code, with some minor changes to the timing of the sprite to allow it to spit the baby out more consistently.<br>\r\n<br>\r\nThis sprite is not required to be in water to function, and will function normally outside of water.",
+  "latest_version": "smwc-28885-1654717800",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28885,
+      "title": "Parental Big Bertha (Underwater)",
+      "version": "smwc-28885-1654717800",
+      "upstream_time": 1654717800,
+      "download_url": "https://dl.smwcentral.net/28885/Bertha_Underwater.zip",
+      "filename": "Bertha_Underwater.zip",
+      "size": 6508,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

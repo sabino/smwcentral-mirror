@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-terranigma-fyda",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32756,
+  "title": "Terranigma - Fyda",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+  "latest_version": "smwc-32756-1674397497",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32756,
+      "title": "Terranigma - Fyda",
+      "version": "smwc-32756-1674397497",
+      "upstream_time": 1674397497,
+      "download_url": "https://dl.smwcentral.net/32756/Fyda.zip",
+      "filename": "Fyda.zip",
+      "size": 42834,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

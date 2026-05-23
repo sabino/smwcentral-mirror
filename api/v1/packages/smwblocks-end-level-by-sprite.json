@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-end-level-by-sprite",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4061,
+  "title": "End Level By Sprite",
+  "authors": [
+    "Majora252"
+  ],
+  "tags": [
+    "end level",
+    "lorom",
+    "wtf"
+  ],
+  "description": "Requested by Yanama. This block ends the level when any sprite touches it (other than Mario).",
+  "latest_version": "smwc-4061-1426271597",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4061,
+      "title": "End Level By Sprite",
+      "version": "smwc-4061-1426271597",
+      "upstream_time": 1426271597,
+      "download_url": "https://dl.smwcentral.net/4061/End_level_By_Sprite.zip",
+      "filename": "End_level_By_Sprite.zip",
+      "size": 401,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

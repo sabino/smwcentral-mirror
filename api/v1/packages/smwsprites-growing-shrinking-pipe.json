@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-growing-shrinking-pipe",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3632,
+  "title": "Growing/Shrinking Pipe",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "growing",
+    "lorom",
+    "pipe",
+    "sa-1",
+    "shrinking"
+  ],
+  "description": "This is a disassembly of sprite 49 in SMW, the growing/shrinking pipe.  I also made it so that if the extra bit is set, the pipe will be upside-down.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-3632-1277643143",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3632,
+      "title": "Growing/Shrinking Pipe",
+      "version": "smwc-3632-1277643143",
+      "upstream_time": 1277643143,
+      "download_url": "https://dl.smwcentral.net/3632/SMWSDIS%20-%20sprite%2049%20-%20growing%20pipe.zip",
+      "filename": "SMWSDIS - sprite 49 - growing pipe.zip",
+      "size": 1625,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

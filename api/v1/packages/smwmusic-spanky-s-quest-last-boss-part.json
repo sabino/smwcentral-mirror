@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-spanky-s-quest-last-boss-part",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38664,
+  "title": "Spanky's Quest - Last Boss (part 2)",
+  "authors": [
+    "TobiTopstar"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final",
+    "tense",
+    "urban"
+  ],
+  "description": "Second boss song from Spanky's Quest",
+  "latest_version": "smwc-38664-1732724462",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38664,
+      "title": "Spanky's Quest - Last Boss (part 2)",
+      "version": "smwc-38664-1732724462",
+      "upstream_time": 1732724462,
+      "download_url": "https://dl.smwcentral.net/38664/Spanky%27s%20Quest%20Last%20Boss%28part2%29.zip",
+      "filename": "Spanky%27s Quest Last Boss(part2).zip",
+      "size": 48998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27124,
+      "title": "Spanky's Quest - Last Boss (Part 1)",
+      "version": "smwc-27124-1622741725",
+      "upstream_time": 1622741725,
+      "download_url": "https://dl.smwcentral.net/27124/Spanky%27s%20Quest%20-%20Last%20Boss%20%28part%201%29.zip",
+      "filename": "Spanky%27s Quest - Last Boss (part 1).zip",
+      "size": 65347,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

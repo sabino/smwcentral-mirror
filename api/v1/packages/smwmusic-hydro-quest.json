@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-hydro-quest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8156,
+  "title": "Hydro Quest",
+  "authors": [
+    "gpetry"
+  ],
+  "tags": [
+    "beach",
+    "overworld"
+  ],
+  "description": "A great tropical submap theme, but could fit tropical levels too.",
+  "latest_version": "smwc-8156-1319889285",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8156,
+      "title": "Hydro Quest",
+      "version": "smwc-8156-1319889285",
+      "upstream_time": 1319889285,
+      "download_url": "https://dl.smwcentral.net/8156/Hydro%20Quest%20-%20Composed%20by%20GPetry.zip",
+      "filename": "Hydro Quest - Composed by GPetry.zip",
+      "size": 103708,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

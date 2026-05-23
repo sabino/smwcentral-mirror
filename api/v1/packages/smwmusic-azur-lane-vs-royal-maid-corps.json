@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-azur-lane-vs-royal-maid-corps",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28017,
+  "title": "Azur Lane - VS. Royal Maid Corps.",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final",
+    "tense"
+  ],
+  "description": "A remix of the song which plays in Azur Lane when you face against any of the ships from the Royal Maid Corporation, remixed in a way to recall Touhou songs. It has both tense and quiet parts.",
+  "latest_version": "smwc-28017-1632802444",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28017,
+      "title": "Azur Lane - VS. Royal Maid Corps.",
+      "version": "smwc-28017-1632802444",
+      "upstream_time": 1632802444,
+      "download_url": "https://dl.smwcentral.net/28017/Royal%20Maids.zip",
+      "filename": "Royal Maids.zip",
+      "size": 72204,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-asterix-obelix-the-crossing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34737,
+  "title": "Asterix & Obelix - The Crossing",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "boss",
+    "mountain",
+    "temple",
+    "tense"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nTense level or boss theme.",
+  "latest_version": "smwc-34737-1691404321",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34737,
+      "title": "Asterix & Obelix - The Crossing",
+      "version": "smwc-34737-1691404321",
+      "upstream_time": 1691404321,
+      "download_url": "https://dl.smwcentral.net/34737/Asterix%20and%20Obelix%20-%2005%20The%20Crossing.zip",
+      "filename": "Asterix and Obelix - 05 The Crossing.zip",
+      "size": 68485,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-castle-interior",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27336,
+  "title": "Castle Interior 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "castle",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "Here's another alternative to the vanilla Layer 3 castle background for castles with Layer 2 gimmicks.  You will need to make the vanilla skewers use a different palette row if you use this, as it uses most of Palette 0.  You'll also need to use an alternative status bar, like <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21562\"> Ladida's Minimalist Status Bars </a>.",
+  "latest_version": "smwc-27336-1624311110",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27336,
+      "title": "Castle Interior 2021",
+      "version": "smwc-27336-1624311110",
+      "upstream_time": 1624311110,
+      "download_url": "https://dl.smwcentral.net/27336/CastleL3.zip",
+      "filename": "CastleL3.zip",
+      "size": 2663,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13105,
+      "title": "Castle Interior",
+      "version": "smwc-13105-1453314106",
+      "upstream_time": 1453314106,
+      "download_url": "https://dl.smwcentral.net/13105/CastleLayer3.zip",
+      "filename": "CastleLayer3.zip",
+      "size": 2384,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-expanded-info-box",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22279,
+  "title": "Expanded Info Box",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "exploding",
+    "lorom",
+    "message box",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "The disassembly of the Info Box sprite. Like the original, it displays message 1 or 2 depending on its X position. Unlike the original, you can use it to display a message of any level instead of the current one with the first extra byte. It also allows you to display a message of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=17485\">VWF Dialogues</a> directly instead of using SMW's message system.<br>\r\nIf the extra bit is set it acts nearly identical to the original, but is animated with 2 frames. This version comes with an ExGFX file, which should be put in SP2, this ExGFX file overwrites the original Info Box and Smiley Coin graphics.<br>\r\n<br>\r\n(Rykon-V73): Because of the NSMBWii status bar, I moved the 2nd animation into the bullet bill slot. Now it's the normal GFX file. Anyway, converted the info box sprite and its exploding version into .json files.",
+  "latest_version": "smwc-22279-1586917365",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22279,
+      "title": "Expanded Info Box",
+      "version": "smwc-22279-1586917365",
+      "upstream_time": 1586917365,
+      "download_url": "https://dl.smwcentral.net/22279/infobox%2Bexploding_edited.zip",
+      "filename": "infobox+exploding_edited.zip",
+      "size": 7044,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

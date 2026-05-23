@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-bakumatsu-kourinden-oni-normal-battle-america",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33190,
+  "title": "Bakumatsu Kourinden Oni - Normal Battle (America)",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "fire"
+  ],
+  "description": "Apparently you are in both Japan and America in the game and both regions have their own battle music which is pretty cool.",
+  "latest_version": "smwc-33190-1678335508",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33190,
+      "title": "Bakumatsu Kourinden Oni - Normal Battle (America)",
+      "version": "smwc-33190-1678335508",
+      "upstream_time": 1678335508,
+      "download_url": "https://dl.smwcentral.net/33190/BakumatsuBattleAmerica.zip",
+      "filename": "BakumatsuBattleAmerica.zip",
+      "size": 67219,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

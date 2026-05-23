@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-adventures-in-the-magic-kingdom-nes-overworld-theme-park",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27777,
+  "title": "Adventures in the Magic Kingdom (NES) - Overworld (Theme Park)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "bonus",
+    "grassland",
+    "overworld",
+    "sky",
+    "town"
+  ],
+  "description": "A really joyous song that plays on the Map/Overworld of Adventures in the Magic Kingdom, which is a theme park.<br>\r\n<br>\r\nCan be used in overworlds, shops and bonus areas.",
+  "latest_version": "smwc-27777-1630358182",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27777,
+      "title": "Adventures in the Magic Kingdom (NES) - Overworld (Theme Park)",
+      "version": "smwc-27777-1630358182",
+      "upstream_time": 1630358182,
+      "download_url": "https://dl.smwcentral.net/27777/Adventures%20in%20the%20Magic%20Kingdom%20%28NES%29%20-%20Overworld%20%28Theme%20Park%29.zip",
+      "filename": "Adventures in the Magic Kingdom (NES) - Overworld (Theme Park).zip",
+      "size": 31185,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

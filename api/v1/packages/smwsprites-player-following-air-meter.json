@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-player-following-air-meter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35507,
+  "title": "Player-following Air Meter",
+  "authors": [
+    "HammerBrother",
+    "JackTheSpades",
+    "MarioE",
+    "mikeyk"
+  ],
+  "tags": [
+    "air meter",
+    "lorom",
+    "mario-following",
+    "position",
+    "sa-1"
+  ],
+  "description": "Same As mikeyk <a href=\"http://www.smwcentral.net/?p=section&a=details&id=3315\">original Air Meter</a> But instead of following the screen's position, it follows the player's position. I submitted this because since sprites overlap in front of the meter (Its suppose to be in front of everything, like the HUD would), it obstruct the viewer from seeing it (especially in a level with no vertical or horizontal scroll), so when this meter follows the player, its easier to see the meter due to the position located next to the player and it moves with the player too. I ask Alcaro if I can submit this and he says yes.<br>\r\n<br>\r\nCredits:<br>\r\nmikeyk, the original author of the graphical air meter<br>\r\nMarioE, for helping me with the request of this meter<br>\r\nJackTheSpades, same as above<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-35507-1712940087",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35507,
+      "title": "Player-following Air Meter",
+      "version": "smwc-35507-1712940087",
+      "upstream_time": 1712940087,
+      "download_url": "https://dl.smwcentral.net/35507/AirMeterFollowPlayer_1_1.zip",
+      "filename": "AirMeterFollowPlayer_1_1.zip",
+      "size": 9744,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

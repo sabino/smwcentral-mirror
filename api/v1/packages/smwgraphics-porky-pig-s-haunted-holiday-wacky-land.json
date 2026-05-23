@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-porky-pig-s-haunted-holiday-wacky-land",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 6975,
+  "title": "Porky Pig's Haunted Holiday - Wacky Land",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "desert",
+    "needs remoderation",
+    "tropical"
+  ],
+  "description": "A foreground tileset used in the Alps stage from Porky Pig's Haunted Holiday for the SNES, which is based off of a classic Porky Pig short (the one where he was chasing after the dodo). Credit isn't required if you use this, but it would be appreciated.<br>\r\n<br>\r\nNote: This tileset comes with a background which is meant to go with this foreground tileset to create a neat parallax scrolling effect when layer 2 horizontal scrolling is set to anything besides constant. Layer 2 vertical scrolling should be set to constant so that the background will always appear at the correct height.<br>\r\n<br>\r\nNote: Graphics file 9B only contains the graphics for the giant \"Welcome!\" sign, making it optional if you want to use it or not. Which is good, because you can't use the original SMW's goal point in any area that uses that sign since most of the tiles found in FG2 get overwritten by the sign graphics, including the goal graphics. If you're using a custom goal in your hack that doesn't use those tiles, then this doesn't apply.<br>\r\n<br>\r\nNote: The floating doors are meant to be used with a teleport block. If you're not using custom blocks, then they will serve more as decorations.",
+  "latest_version": "smwc-6975-1405349533",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 6975,
+      "title": "Porky Pig's Haunted Holiday - Wacky Land",
+      "version": "smwc-6975-1405349533",
+      "upstream_time": 1405349533,
+      "download_url": "https://dl.smwcentral.net/6975/Porky%20Pig%27s%20Haunted%20Holiday%20-%20Wacky%20Land.zip",
+      "filename": "Porky Pig%27s Haunted Holiday - Wacky Land.zip",
+      "size": 12832,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

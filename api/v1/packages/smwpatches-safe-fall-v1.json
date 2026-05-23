@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-safe-fall-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12472,
+  "title": "Safe Fall v1.01",
+  "authors": [
+    "Maxx"
+  ],
+  "tags": [
+    "fall",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "When Mario falls, this patch will hurt him and bounce him back up instead of killing him.<br>\r\n<br>\r\nMod edit, 2024/4/1 -- Fixed a small oversight in the sa-1 conversion that caused a crash.",
+  "latest_version": "smwc-12472-1447621589",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12472,
+      "title": "Safe Fall v1.01",
+      "version": "smwc-12472-1447621589",
+      "upstream_time": 1447621589,
+      "download_url": "https://dl.smwcentral.net/12472/Safe%20Fall.zip",
+      "filename": "Safe Fall.zip",
+      "size": 476,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

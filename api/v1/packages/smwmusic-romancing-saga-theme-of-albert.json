@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-romancing-saga-theme-of-albert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21939,
+  "title": "Romancing SaGa - Theme of Albert",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "cutscene",
+    "grassland",
+    "overworld",
+    "town"
+  ],
+  "description": "Song that Theme of Albert from Romancing Saga. Good a for town levels or submap.",
+  "latest_version": "smwc-21939-1578936543",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21939,
+      "title": "Romancing SaGa - Theme of Albert",
+      "version": "smwc-21939-1578936543",
+      "upstream_time": 1578936543,
+      "download_url": "https://dl.smwcentral.net/21939/Theme%20of%20Albert.zip",
+      "filename": "Theme of Albert.zip",
+      "size": 33136,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-mega-man-x-stage-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32036,
+  "title": "Mega Man X - Stage Select 1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "cutscene",
+    "dark",
+    "final",
+    "industrial",
+    "overworld",
+    "title"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-32036-1667324267",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32036,
+      "title": "Mega Man X - Stage Select 1",
+      "version": "smwc-32036-1667324267",
+      "upstream_time": 1667324267,
+      "download_url": "https://dl.smwcentral.net/32036/07%20Stage%20Select%201.zip",
+      "filename": "07 Stage Select 1.zip",
+      "size": 57036,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8385,
+      "title": "Mega Man X - Stage Select 2",
+      "version": "smwc-8385-1359297334",
+      "upstream_time": 1359297334,
+      "download_url": "https://dl.smwcentral.net/8385/Sigma%20Screen.zip",
+      "filename": "Sigma Screen.zip",
+      "size": 70735,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8358,
+      "title": "Mega Man X - Stage Select 2",
+      "version": "smwc-8358-1359297383",
+      "upstream_time": 1359297383,
+      "download_url": "https://dl.smwcentral.net/8358/SigmaZ.zip",
+      "filename": "SigmaZ.zip",
+      "size": 52101,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

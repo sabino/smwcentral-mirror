@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-xorshift-pseudo-random-number-generator",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42146,
+  "title": "Xorshift Pseudo-Random Number Generator",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "random",
+    "sa-1"
+  ],
+  "description": "An implementation of the 16-bit variation of a Xorshift linear-feedback shift register algorithm - in particular the (7, 9, 8) variation. Compared to Super Mario World's PRNG, this is:<br>\r\n<ul><li>Faster: 72 cycles vs. 96 cycles.</li>\n<li>Less RAM-consuming: frees 2 bytes of RAM at $148B and $148C.</li>\n<li>Initialized to a random value on reset <span style=\"font-size: 8pt;\">(note: most reliable on emulators which have reliable RAM entropy, or hardware)</span>.</li>\n<li>State preserving: RNG does not reset on the overworld.</li></ul>",
+  "latest_version": "smwc-42146-1778281143",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42146,
+      "title": "Xorshift Pseudo-Random Number Generator",
+      "version": "smwc-42146-1778281143",
+      "upstream_time": 1778281143,
+      "download_url": "https://dl.smwcentral.net/42146/xorshift.zip",
+      "filename": "xorshift.zip",
+      "size": 1073,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

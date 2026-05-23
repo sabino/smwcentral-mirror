@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-repressable-button-switch-2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 16053,
+  "title": "Repressable button switch 2.1",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "button",
+    "lorom",
+    "puzzle",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This button switch, when triggered, will change map16 and flips the on/off switch (by default, you can change it in the block's asm file), and if the player gets off the switch, it will revert back into its unpressed state so the player can use it again. Read the readme for more info.<br>\r\n<br>\r\nFixed the yoshi bug and added a palette + palettemask, and when placed on the left or top edge of level.",
+  "latest_version": "smwc-16053-1514574206",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 16053,
+      "title": "Repressable button switch 2.1",
+      "version": "smwc-16053-1514574206",
+      "upstream_time": 1514574206,
+      "download_url": "https://dl.smwcentral.net/16053/RepressableSwitch_2.1.zip",
+      "filename": "RepressableSwitch_2.1.zip",
+      "size": 10974,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

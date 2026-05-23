@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-cosmoclock-contraption",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35652,
+  "title": "Cosmoclock Contraption",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "carnival",
+    "final",
+    "night",
+    "space"
+  ],
+  "description": "A groovy tune originally composed for Superfamicompo 5's challenge category.<br>\r\n<br>\r\nIt makes me think of some kind of countdown, and an ensuing launch into the vastness of space. Maybe it's because the triplet-y section reminds me of Gradius music lol.<br>\r\n<br>\r\n(Uses optimized SMW Thunder instead of default like the original submission because of ARAM limitations.<br>\r\nNot compatible with Yoshi or Bonus End for that reason.)",
+  "latest_version": "smwc-35652-1703291399",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35652,
+      "title": "Cosmoclock Contraption",
+      "version": "smwc-35652-1703291399",
+      "upstream_time": 1703291399,
+      "download_url": "https://dl.smwcentral.net/35652/myfunnyclock.com.zip",
+      "filename": "myfunnyclock.com.zip",
+      "size": 62037,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

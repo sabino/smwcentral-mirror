@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-alan-braxe-fred-falke-rubicon-short-loop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11410,
+  "title": "Alan Braxe & Fred Falke - Rubicon (Short Loop)",
+  "authors": [
+    "lu9"
+  ],
+  "tags": [
+    "p-switch",
+    "star"
+  ],
+  "description": "A short loop perfect for Starman or P-Switch.",
+  "latest_version": "smwc-11410-1435353691",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11410,
+      "title": "Alan Braxe & Fred Falke - Rubicon (Short Loop)",
+      "version": "smwc-11410-1435353691",
+      "upstream_time": 1435353691,
+      "download_url": "https://dl.smwcentral.net/11410/RubiconSMW.zip",
+      "filename": "RubiconSMW.zip",
+      "size": 30037,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

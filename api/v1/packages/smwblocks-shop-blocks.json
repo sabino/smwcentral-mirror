@@ -1,0 +1,39 @@
+{
+  "name": "smwblocks-shop-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3802,
+  "title": "Shop Blocks",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "coins",
+    "item box",
+    "lives",
+    "lorom",
+    "power-up",
+    "random",
+    "shop",
+    "yoshi coin"
+  ],
+  "description": "A bundle of shop blocks, all of which are very customizable. You can configure which RAM it uses (coins, Yoshi coins, etc.), the price of the item, which item it gives, whether a message is played if the player doesn't have enough coins and more.",
+  "latest_version": "smwc-3802-1438457586",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3802,
+      "title": "Shop Blocks",
+      "version": "smwc-3802-1438457586",
+      "upstream_time": 1438457586,
+      "download_url": "https://dl.smwcentral.net/3802/shop.zip",
+      "filename": "shop.zip",
+      "size": 7074,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

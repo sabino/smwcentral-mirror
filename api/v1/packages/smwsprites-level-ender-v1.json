@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-level-ender-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20933,
+  "title": "Level Ender v1.1",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "end level",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This sprite will cause the level to end when all the enemies on screen are killed.  This version ignores sprites that don't turn into a coin when the goal tape is passed.<br>\r\n<br>\r\nUses extra bit: YES<br>\r\nWhen the extra bit is clear, the sprite will trigger the regular exit.  When it is set, the sprite will trigger the secret exit.<br>\r\n<br>\r\nRead the readme if you want to use secret exit + no walk config.<br>\r\n<br>\r\nExtra property byte 1: if 0, Mario will freeze when the level ends.<br>\r\n<br>\r\nExtra property byte 2: it's the song number that plays at the level end. Change from C to 3 if using AddmusicK.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nAdded a readme about secret exits. They only work if you allow the player to walk. This is an in-game piece of code, if you wanna change this behaviour, read the readme.<br>\r\nFixed a bug with setting up secret exits.<br>\r\n<br>\r\nv1.0<br>\r\n-----<br>\r\nTattletale - moved out of pixi.",
+  "latest_version": "smwc-20933-1565793172",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20933,
+      "title": "Level Ender v1.1",
+      "version": "smwc-20933-1565793172",
+      "upstream_time": 1565793172,
+      "download_url": "https://dl.smwcentral.net/20933/levelEnder_v1.1.zip",
+      "filename": "levelEnder_v1.1.zip",
+      "size": 2061,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

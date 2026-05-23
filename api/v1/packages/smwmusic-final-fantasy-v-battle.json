@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-final-fantasy-v-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25108,
+  "title": "Final Fantasy V - Battle 1",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "this song looks good in boss battles",
+  "latest_version": "smwc-25108-1606764994",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25108,
+      "title": "Final Fantasy V - Battle 1",
+      "version": "smwc-25108-1606764994",
+      "upstream_time": 1606764994,
+      "download_url": "https://dl.smwcentral.net/25108/The%20Battle.zip",
+      "filename": "The Battle.zip",
+      "size": 75888,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 24900,
+      "title": "Final Fantasy V - Battle 1",
+      "version": "smwc-24900-1605815418",
+      "upstream_time": 1605815418,
+      "download_url": "https://dl.smwcentral.net/24900/FF5%20-%20The%20Battle.zip",
+      "filename": "FF5 - The Battle.zip",
+      "size": 32604,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

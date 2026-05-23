@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-tracking-flame-spawner",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 24083,
+  "title": "Tracking Flame + Spawner",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "A flame that flies towards Mario. Note that it cannot be spinjumped on. A shooter is included.<br>\r\n<br>\r\nThe speed, spawn timers and sound effects are easily configurable, as well as the tilemap. By default, it will look right in the Ghost House tileset.",
+  "latest_version": "smwc-24083-1597283529",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 24083,
+      "title": "Tracking Flame + Spawner",
+      "version": "smwc-24083-1597283529",
+      "upstream_time": 1597283529,
+      "download_url": "https://dl.smwcentral.net/24083/Tracking%20Flame.zip",
+      "filename": "Tracking Flame.zip",
+      "size": 4774,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

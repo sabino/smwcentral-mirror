@@ -1,0 +1,32 @@
+{
+  "name": "smwblocks-smash-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 12271,
+  "title": "Smash Blocks v4",
+  "authors": [
+    "Ruberjig"
+  ],
+  "tags": [
+    "lorom"
+  ],
+  "description": "This is a solid block that will shatter only upon caped Mario smashing on top of it, or Yoshi with a yellow shell in its mouth stomping it.",
+  "latest_version": "smwc-12271-1443584241",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 12271,
+      "title": "Smash Blocks v4",
+      "version": "smwc-12271-1443584241",
+      "upstream_time": 1443584241,
+      "download_url": "https://dl.smwcentral.net/12271/Smash.zip",
+      "filename": "Smash.zip",
+      "size": 1287,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

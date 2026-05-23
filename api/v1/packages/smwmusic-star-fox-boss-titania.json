@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-star-fox-boss-titania",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32515,
+  "title": "Star Fox - Boss (Titania)",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chase",
+    "space"
+  ],
+  "description": "Requested by Zavok.",
+  "latest_version": "smwc-32515-1675229402",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32515,
+      "title": "Star Fox - Boss (Titania)",
+      "version": "smwc-32515-1675229402",
+      "upstream_time": 1675229402,
+      "download_url": "https://dl.smwcentral.net/32515/123%20Boss%20%28Titania%29.zip",
+      "filename": "123 Boss (Titania).zip",
+      "size": 45504,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

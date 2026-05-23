@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-super-metroid-firefly",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 27768,
+  "title": "Super Metroid - Firefly",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "color",
+    "color math",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "super metroid"
+  ],
+  "description": "This sprite is useful. After all, it brightens barely lit rooms much like in Super Metroid where they're originally coming from. You don't want to kill to many of them.<br>\r\nBe careful, they can still hurt you! And they still die from contact!",
+  "latest_version": "smwc-27768-1636797742",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 27768,
+      "title": "Super Metroid - Firefly",
+      "version": "smwc-27768-1636797742",
+      "upstream_time": 1636797742,
+      "download_url": "https://dl.smwcentral.net/27768/MetroidFirefly.zip",
+      "filename": "MetroidFirefly.zip",
+      "size": 12016,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

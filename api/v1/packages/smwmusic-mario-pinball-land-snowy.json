@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-pinball-land-snowy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27894,
+  "title": "Mario Pinball Land - Snowy",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "ice",
+    "snow"
+  ],
+  "description": "The first song that plays once you enter the ice world in the greatest pinball game of our generation, Mario Pinball Land. Basically, it's the song that you have to hear to get to Under the Ice. Good for your ice levels, not good when you have to make seven hundred precise shots just to move a freezie to the top center of a room just so it can collapse the ice and you can get to the real banger of the game. ",
+  "latest_version": "smwc-27894-1629830370",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27894,
+      "title": "Mario Pinball Land - Snowy",
+      "version": "smwc-27894-1629830370",
+      "upstream_time": 1629830370,
+      "download_url": "https://dl.smwcentral.net/27894/snowy.zip",
+      "filename": "snowy.zip",
+      "size": 31709,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

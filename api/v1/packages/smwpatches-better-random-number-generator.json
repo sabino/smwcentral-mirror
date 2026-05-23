@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-better-random-number-generator",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41249,
+  "title": "Better Random Number Generator",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "lorom",
+    "random",
+    "rng",
+    "sa-1"
+  ],
+  "description": "This patch will replace SMW's RNG with a faster, shorter, and more random number generator. It will also let you use $148B and $148C as freeram. Requires no freespace.<br>\r\n<br>\r\nNote: <a href=\"https://smwc.me/1648667\">Here are some optional routines that let you do a few advanced things with the RNG function</a>.",
+  "latest_version": "V1.3.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41249,
+      "title": "Better Random Number Generator",
+      "version": "V1.3.1",
+      "upstream_time": 1778633797,
+      "download_url": "https://dl.smwcentral.net/41249/RNG_3_1_1.zip",
+      "filename": "RNG_3_1_1.zip",
+      "size": 3011,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

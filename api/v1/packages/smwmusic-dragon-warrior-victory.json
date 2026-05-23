@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-dragon-warrior-victory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25088,
+  "title": "Dragon Warrior - Victory",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "goal",
+    "keyhole"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for course clear or a power-up.",
+  "latest_version": "smwc-25088-1604723066",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25088,
+      "title": "Dragon Warrior - Victory",
+      "version": "smwc-25088-1604723066",
+      "upstream_time": 1604723066,
+      "download_url": "https://dl.smwcentral.net/25088/DragonQuest16Victory.zip",
+      "filename": "DragonQuest16Victory.zip",
+      "size": 30732,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

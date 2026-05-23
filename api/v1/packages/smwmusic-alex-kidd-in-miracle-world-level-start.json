@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-alex-kidd-in-miracle-world-level-start",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34559,
+  "title": "Alex Kidd in Miracle World - Level Start",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "misc",
+    "miss",
+    "nintendo presents"
+  ],
+  "description": "Part of the Alex Kidd in Miracle World soundtrack.",
+  "latest_version": "smwc-34559-1690723165",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34559,
+      "title": "Alex Kidd in Miracle World - Level Start",
+      "version": "smwc-34559-1690723165",
+      "upstream_time": 1690723165,
+      "download_url": "https://dl.smwcentral.net/34559/Level%20Start.zip",
+      "filename": "Level Start.zip",
+      "size": 30409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

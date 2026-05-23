@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-wiggler-s-flower-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 29981,
+  "title": "Wiggler's flower fix",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "flower",
+    "lorom",
+    "sa-1",
+    "wiggler"
+  ],
+  "description": "Fixes a typo in SMW's code that the devs wrote the wiggler's Y position low byte into the flower's high byte Y position, which can cause the flower to spawn at an incorrect Y position (far offscreen in most cases, looking like it disappeared) when stomped depending on its Y position.",
+  "latest_version": "smwc-29981-1669252164",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 29981,
+      "title": "Wiggler's flower fix",
+      "version": "smwc-29981-1669252164",
+      "upstream_time": 1669252164,
+      "download_url": "https://dl.smwcentral.net/29981/WigglerFlowerSpawnFix.zip",
+      "filename": "WigglerFlowerSpawnFix.zip",
+      "size": 465,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

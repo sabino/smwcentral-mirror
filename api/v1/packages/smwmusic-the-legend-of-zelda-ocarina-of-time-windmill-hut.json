@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-windmill-hut",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38164,
+  "title": "The Legend of Zelda: Ocarina of Time - Windmill Hut",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "sad",
+    "sea",
+    "spooky",
+    "town",
+    "water"
+  ],
+  "description": "Windmill Hut from The Legend of Zelda: Ocarina of Time.",
+  "latest_version": "smwc-38164-1723915493",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38164,
+      "title": "The Legend of Zelda: Ocarina of Time - Windmill Hut",
+      "version": "smwc-38164-1723915493",
+      "upstream_time": 1723915493,
+      "download_url": "https://dl.smwcentral.net/38164/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%20-%20Windmill%20Hut.zip",
+      "filename": "The Legend of Zelda Ocarina of Time - Windmill Hut.zip",
+      "size": 32798,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23663,
+      "title": "The Legend of Zelda: Ocarina of Time - Windmill Hut",
+      "version": "smwc-23663-1594354167",
+      "upstream_time": 1594354167,
+      "download_url": "https://dl.smwcentral.net/23663/windmillhut.zip",
+      "filename": "windmillhut.zip",
+      "size": 62488,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7103,
+      "title": "The Legend of Zelda: Ocarina of Time - Windmill Hut",
+      "version": "smwc-7103-1312173481",
+      "upstream_time": 1312173481,
+      "download_url": "https://dl.smwcentral.net/7103/windmillhut.zip",
+      "filename": "windmillhut.zip",
+      "size": 66810,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-yi-chomp-rock-dynamic-version-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38723,
+  "title": "YI - Chomp Rock (Dynamic Version) V1.2",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "dynamic",
+    "lorom",
+    "platform",
+    "sa-1",
+    "solid"
+  ],
+  "description": "Super Mario World 2: Yoshi's Island - Chomp Rock (Dynamic Version):<br>\r\n<br>\r\nDescription: A pushable rock from YI that kills enemies when it touches them.<br>\r\n<br>\r\nPlease, for further information, check the included \"Readme\" file!<br>\r\n<br>\r\n30/10/24: V1.2 Update maded by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: var(--user-color-2);\" class=\"un\">TheXander</a></span>, Requested by <span class=\"un-outer\" title=\"Link13\"><a href=\"/?p=profile&amp;id=1944\" style=\"color: var(--user-color-2);\" class=\"un\">Link13</a></span>:<br>\r\nSA-1 Compatibility.<br>\r\nJSON Support.<br>\r\nDocumentantion (Readme) File.<br>\r\n(.mw3) Converted to (.pal & palmask).",
+  "latest_version": "smwc-38723-1752382291",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38723,
+      "title": "YI - Chomp Rock (Dynamic Version) V1.2",
+      "version": "smwc-38723-1752382291",
+      "upstream_time": 1752382291,
+      "download_url": "https://dl.smwcentral.net/38723/YI%20-%20Chomp%20Rock%20%28Dynamic%20Version%29%20V1.2.zip",
+      "filename": "YI - Chomp Rock (Dynamic Version) V1.2.zip",
+      "size": 18415,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

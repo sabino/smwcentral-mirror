@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-nsmbu-moving-turn-block-bridge",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20695,
+  "title": "NSMBU - Moving Turn Block Bridge",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This is a turn block bridge that moves vertically like in NSMBU.<br>\r\n<br>\r\nCredit is unecessary. Requested by Roberto Zampari.",
+  "latest_version": "smwc-20695-1564542691",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20695,
+      "title": "NSMBU - Moving Turn Block Bridge",
+      "version": "smwc-20695-1564542691",
+      "upstream_time": 1564542691,
+      "download_url": "https://dl.smwcentral.net/20695/NSMBUTurnBlockBridge.zip",
+      "filename": "NSMBUTurnBlockBridge.zip",
+      "size": 4479,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-better-anti-cape-block-fixed",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 8676,
+  "title": "Better \"Anti-Cape\" block fixed version",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "cape",
+    "cape-barrier",
+    "level-break",
+    "lorom"
+  ],
+  "description": "This block is similar to the <a href=\"http://www.smwcentral.net/?p=section&a=details&id=3796\">Cape Remover</a> but also remove the feather in the Item Box and replace with a mushroom. If you are using this block, I highly recommend that you use patches that changes the itembox to not drop down from the middle of the screen because the player can use L/R scroll to make it drop on the other side of the block and cheat the level. The patches are: <a href=\"http://www.smwcentral.net/?p=section&a=details&id=4392\">Bottom Status Bar</a> and the <a href=\"http://www.smwcentral.net/?p=section&a=details&id=5755\">Instant Item Box</a><br>\r\nOr place it directly on the level entrance.<br>\r\n<br>\r\nFixes <br>\r\n-the return code is missing<br>\r\n<br>\r\nversion 3 updates:<br>\r\nFix the problem that if *flying* cape mario touches this block, mario is still flying as super mario and is showing glitch graphic, this time, will cancel his flying as well.",
+  "latest_version": "smwc-8676-1437943103",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 8676,
+      "title": "Better \"Anti-Cape\" block fixed version",
+      "version": "smwc-8676-1437943103",
+      "upstream_time": 1437943103,
+      "download_url": "https://dl.smwcentral.net/8676/no-cape_ver3.zip",
+      "filename": "no-cape_ver3.zip",
+      "size": 967,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

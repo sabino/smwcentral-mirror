@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mother-roving-tank",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32474,
+  "title": "Mother - Roving Tank",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "fire",
+    "retro",
+    "tense"
+  ],
+  "description": "The Roving Tank (or just Tank) theme from Mother / Earthbound Beginnings.",
+  "latest_version": "smwc-32474-1675233606",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32474,
+      "title": "Mother - Roving Tank",
+      "version": "smwc-32474-1675233606",
+      "upstream_time": 1675233606,
+      "download_url": "https://dl.smwcentral.net/32474/Mother%20-%20Roving%20Tank.zip",
+      "filename": "Mother - Roving Tank.zip",
+      "size": 45660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

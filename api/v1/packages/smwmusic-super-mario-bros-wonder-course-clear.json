@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-bros-wonder-course-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38763,
+  "title": "Super Mario Bros. Wonder - Course Clear",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "Super Mario Bros. Wonder course clear theme.<br>\r\nEdit: Some bugs have been fixed.<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b>NOTES:<br>\r\n1) Please mark <span style=\"color: #00ccff;\">\"0F SMW @21.brr\"</span> as important by putting an exclamation point next to it in the Addmusic_sample groups.txt file prior to using this song as a global song. Percussion issues will occur otherwise.<br>\r\n<br>\r\n2) To be used as a stage clear song, the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4862\">Custom Game Over and Time Up 16-bit Timer</a> is recommended as this track ends a little abruptly due to length.</b></span>",
+  "latest_version": "smwc-38763-1736952470",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38763,
+      "title": "Super Mario Bros. Wonder - Course Clear",
+      "version": "smwc-38763-1736952470",
+      "upstream_time": 1736952470,
+      "download_url": "https://dl.smwcentral.net/38763/Course_Clear.zip",
+      "filename": "Course_Clear.zip",
+      "size": 25723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

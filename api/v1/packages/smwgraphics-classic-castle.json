@@ -1,0 +1,56 @@
+{
+  "name": "smwgraphics-classic-castle",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 26942,
+  "title": "Classic Castle 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "castle",
+    "moving castle block",
+    "needs remoderation"
+  ],
+  "description": "Here's a fully-loaded castle set with climbing nets, Bowser banners, spikes, skewers, and ExAnimated Amps that can either act like Munchers, turning into coins with a Silver P-Switch, or be used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=15344\">ON/OFF hurt blocks from this pack.</a>It might also be a good idea to use <a href=\"https://dl.smwcentral.net/9473/directional_hrt_1.1.zip\" rel=\"nofollow\">these for the spikes</a> if you're using them in the same room as the Muncher Amps.<br>\r\n<br>\r\nI've also included an alternate GFX03 that replaces the moving castle block sprite graphics with some that better match this tileset.  Neither of these need custom palettes.",
+  "latest_version": "smwc-26942-1620224810",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 26942,
+      "title": "Classic Castle 2021",
+      "version": "smwc-26942-1620224810",
+      "upstream_time": 1620224810,
+      "download_url": "https://dl.smwcentral.net/26942/ClassicCastle2021.zip",
+      "filename": "ClassicCastle2021.zip",
+      "size": 8061,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19639,
+      "title": "Classic Castle 2",
+      "version": "smwc-19639-1555886256",
+      "upstream_time": 1555886256,
+      "download_url": "https://dl.smwcentral.net/19639/ClassicCastle2.zip",
+      "filename": "ClassicCastle2.zip",
+      "size": 4744,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13060,
+      "title": "Classic Castle",
+      "version": "smwc-13060-1453242026",
+      "upstream_time": 1453242026,
+      "download_url": "https://dl.smwcentral.net/13060/ClassicCastle.zip",
+      "filename": "ClassicCastle.zip",
+      "size": 3714,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

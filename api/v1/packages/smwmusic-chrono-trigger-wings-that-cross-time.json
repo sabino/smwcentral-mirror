@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-chrono-trigger-wings-that-cross-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21315,
+  "title": "Chrono Trigger - Wings That Cross Time",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "night",
+    "sky",
+    "urban"
+  ],
+  "description": "The airship theme from Chrono Trigger, it could fit sky levels.<br>\r\n<br>\r\nNote: not compatible with thunder sfx and \"Bonus end\" song. I included a version which is compatible with everything, but it has less echo delay.",
+  "latest_version": "smwc-21315-1571022996",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21315,
+      "title": "Chrono Trigger - Wings That Cross Time",
+      "version": "smwc-21315-1571022996",
+      "upstream_time": 1571022996,
+      "download_url": "https://dl.smwcentral.net/21315/310%20Wings%20That%20Cross%20Time.zip",
+      "filename": "310 Wings That Cross Time.zip",
+      "size": 67619,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20026,
+      "title": "Chrono Trigger - Wings That Cross Time",
+      "version": "smwc-20026-1558749327",
+      "upstream_time": 1558749327,
+      "download_url": "https://dl.smwcentral.net/20026/Chrono%20Trigger%20-%20Wings%20That%20Cross%20Time.zip",
+      "filename": "Chrono Trigger - Wings That Cross Time.zip",
+      "size": 33041,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

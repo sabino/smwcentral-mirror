@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-s-adventure-yogurt-yard",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8421,
+  "title": "Kirby's Adventure - Yogurt Yard",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "grassland",
+    "mountain"
+  ],
+  "description": "The song that plays in most Yogurt Yard levels.  Would suit a mountainous levels or grasslands.",
+  "latest_version": "smwc-8421-1372108241",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8421,
+      "title": "Kirby's Adventure - Yogurt Yard",
+      "version": "smwc-8421-1372108241",
+      "upstream_time": 1372108241,
+      "download_url": "https://dl.smwcentral.net/8421/Yogurt%20Yard.zip",
+      "filename": "Yogurt Yard.zip",
+      "size": 68030,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

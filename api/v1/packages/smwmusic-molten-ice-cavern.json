@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-molten-ice-cavern",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11016,
+  "title": "Molten Ice Cavern",
+  "authors": [
+    "Jimmy"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice",
+    "night",
+    "water"
+  ],
+  "description": "This is one of the unsampled songs from the Bowser Strikes Back OST.<br>\r\n<br>\r\n4/8/2021 Mod edit: Fixed an oversight caused by AMK causing the percussion to play slightly differently.",
+  "latest_version": "smwc-11016-1425961876",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11016,
+      "title": "Molten Ice Cavern",
+      "version": "smwc-11016-1425961876",
+      "upstream_time": 1425961876,
+      "download_url": "https://dl.smwcentral.net/11016/Molten%20Ice%20Cavern.zip",
+      "filename": "Molten Ice Cavern.zip",
+      "size": 31905,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

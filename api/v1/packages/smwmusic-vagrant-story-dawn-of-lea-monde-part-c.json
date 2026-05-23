@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-vagrant-story-dawn-of-lea-monde-part-c",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17264,
+  "title": "Vagrant Story - Dawn of Lea Monde part C",
+  "authors": [
+    "musicalman"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "calm",
+    "sky",
+    "temple"
+  ],
+  "description": "A hypnotic and enchanting song from Vagrant Story. I love this sort of stuff so I knew eventually I'd try to port this. You could probably use it for calm mysterious areas. While this version is okay, I made a sampled version that I think sounds better.",
+  "latest_version": "smwc-17264-1521798743",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17264,
+      "title": "Vagrant Story - Dawn of Lea Monde part C",
+      "version": "smwc-17264-1521798743",
+      "upstream_time": 1521798743,
+      "download_url": "https://dl.smwcentral.net/17264/vsleamondec_unsampled.zip",
+      "filename": "vsleamondec_unsampled.zip",
+      "size": 30976,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17263,
+      "title": "Vagrant Story - Dawn of Lea Monde part C",
+      "version": "smwc-17263-1521798633",
+      "upstream_time": 1521798633,
+      "download_url": "https://dl.smwcentral.net/17263/vsleamondec.zip",
+      "filename": "vsleamondec.zip",
+      "size": 47247,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

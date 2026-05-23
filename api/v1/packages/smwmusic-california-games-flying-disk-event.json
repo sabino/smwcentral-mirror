@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-california-games-flying-disk-event",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7716,
+  "title": "California Games - Flying Disk Event",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "A very loop, good for bonus rooms.",
+  "latest_version": "smwc-7716-1319467428",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7716,
+      "title": "California Games - Flying Disk Event",
+      "version": "smwc-7716-1319467428",
+      "upstream_time": 1319467428,
+      "download_url": "https://dl.smwcentral.net/7716/California%20Games%20-%20Flying%20Disk%20Event.zip",
+      "filename": "California Games - Flying Disk Event.zip",
+      "size": 142739,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

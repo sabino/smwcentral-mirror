@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mario-bros-gba-continue",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39664,
+  "title": "Mario Bros. (GBA) - Continue",
+  "authors": [
+    "LadiesMan217"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "Part of the \"Super Mario All-Stars Soundtrack: Ultimate Edition\" soundtrack.",
+  "latest_version": "smwc-39664-1743427158",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39664,
+      "title": "Mario Bros. (GBA) - Continue",
+      "version": "smwc-39664-1743427158",
+      "upstream_time": 1743427158,
+      "download_url": "https://dl.smwcentral.net/39664/Mario%20Bros.%20%28GBA%29%20-%20Continue.zip",
+      "filename": "Mario Bros. (GBA) - Continue.zip",
+      "size": 31086,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

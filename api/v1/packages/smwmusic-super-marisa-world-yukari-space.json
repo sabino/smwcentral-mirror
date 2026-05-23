@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-marisa-world-yukari-space",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20079,
+  "title": "Super Marisa World - Yukari Space",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "dark",
+    "night",
+    "ruins"
+  ],
+  "description": "World 7 theme from (oh boy!) the Touhou fan game <a href=\"https://en.touhouwiki.net/wiki/Super_Marisa_World\" rel=\"nofollow\">Super Marisa World</a>, which is, in fact, a parody to Super Mario World (hence the name). Like many fan games, it's unknown if ZUN knows about this game. Can fit on various themes.<br>\r\n<br>\r\nThis song was part of Wyatt's music pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-20079-1559962150",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20079,
+      "title": "Super Marisa World - Yukari Space",
+      "version": "smwc-20079-1559962150",
+      "upstream_time": 1559962150,
+      "download_url": "https://dl.smwcentral.net/20079/marisaworld-yukarispace.zip",
+      "filename": "marisaworld-yukarispace.zip",
+      "size": 33982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

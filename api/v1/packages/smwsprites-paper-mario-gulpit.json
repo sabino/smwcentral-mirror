@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-paper-mario-gulpit",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3741,
+  "title": "Paper Mario Gulpit",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "eat",
+    "eater",
+    "lorom",
+    "paper mario",
+    "rock",
+    "rocks",
+    "sa-1",
+    "walk"
+  ],
+  "description": "This is the Gulpit sprite from Paper Mario. It walks until it comes in contact with a rock sprite (included), after which it will gulp it and then spit it at the player.<br>\r\n<br>\r\nCredit would be appreciated but isn't required. Note that it uses all of SP4.<br>\r\n<br>\r\nMake sure to specify the sprite number of the rock in gulpit.asm! Check the ASM files for configuration options.<br>\r\n<br>\r\nDemonstration video: <a href=\"http://www.youtube.com/watch?v=lb0Lr6J9rJc\" rel=\"nofollow\">http://www.youtube.com/watch?v=lb0Lr6J9rJc</a>",
+  "latest_version": "smwc-3741-1315732641",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3741,
+      "title": "Paper Mario Gulpit",
+      "version": "smwc-3741-1315732641",
+      "upstream_time": 1315732641,
+      "download_url": "https://dl.smwcentral.net/3741/Gulpit.zip",
+      "filename": "Gulpit.zip",
+      "size": 6605,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

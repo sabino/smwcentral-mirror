@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-f",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40602,
+  "title": "F-777 - Invincibility Star (SMW Starman Mix)",
+  "authors": [
+    "MarkVD100"
+  ],
+  "tags": [
+    "starman",
+    "upbeat"
+  ],
+  "description": "The intro to an F-777 song from the Press Start Vol.3 album mixed in SMW style that's mainly only for starman.",
+  "latest_version": "smwc-40602-1772265817",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40602,
+      "title": "F-777 - Invincibility Star (SMW Starman Mix)",
+      "version": "smwc-40602-1772265817",
+      "upstream_time": 1772265817,
+      "download_url": "https://dl.smwcentral.net/40602/F-777%20-%20Invincibility%20Star%20%28SMW%20Style%29.zip",
+      "filename": "F-777 - Invincibility Star (SMW Style).zip",
+      "size": 31316,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

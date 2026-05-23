@@ -1,0 +1,39 @@
+{
+  "name": "smwpatches-chargin-chuck-damage-indicator",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12829,
+  "title": "Chargin' Chuck Damage Indicator",
+  "authors": [
+    "HammerBrother",
+    "Ladida"
+  ],
+  "tags": [
+    "chargin' chuck",
+    "damage indicator",
+    "fireball",
+    "lorom",
+    "needs remoderation",
+    "sa-1",
+    "sma2"
+  ],
+  "description": "Because enemies that takes 5 fireballs (chargin chuck) to defeat and enemies that are completely immune to fireballs (like a bullet bill) both have the same effect when struct from it (except the silently damaging), the game doesn't made it distinguishable enough to tell if the enemy is taking damage or not.<br>\r\n<br>\r\nThis patch fixes that problem by adding a sfx to indicate the player that an enemy is taking fireball damage. Also works with other and custom sprites that uses the \"takes 5 fireballs to kill\" since they reuse the same subroutine.<br>\r\n<br>\r\nCredit goes to Ladida for finding the 5 fireball HP routine in the SmwDisc.<br>\r\n<br>\r\n12/5/2015 update: added sa-1 support.",
+  "latest_version": "smwc-12829-1449960991",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12829,
+      "title": "Chargin' Chuck Damage Indicator",
+      "version": "smwc-12829-1449960991",
+      "upstream_time": 1449960991,
+      "download_url": "https://dl.smwcentral.net/12829/5HP_dmg_ind_sa1.zip",
+      "filename": "5HP_dmg_ind_sa1.zip",
+      "size": 1507,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

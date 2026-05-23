@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-land-bonus-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34358,
+  "title": "Super Mario Land - Bonus Game",
+  "authors": [
+    "Segment1Zone2",
+    "icrawfish"
+  ],
+  "tags": [
+    "bonus",
+    "retro"
+  ],
+  "description": "Bonus Game from Super Mario Land.",
+  "latest_version": "smwc-34358-1692935864",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34358,
+      "title": "Super Mario Land - Bonus Game",
+      "version": "smwc-34358-1692935864",
+      "upstream_time": 1692935864,
+      "download_url": "https://dl.smwcentral.net/34358/Super%20Mario%20Land%20-%20Bonus%20Game.zip",
+      "filename": "Super Mario Land - Bonus Game.zip",
+      "size": 32973,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

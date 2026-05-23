@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-danny-elfman-breakfast-machine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35425,
+  "title": "Danny Elfman - Breakfast Machine",
+  "authors": [
+    "Lazy"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "switch palace"
+  ],
+  "description": "A port from late 2019 that I wasn't intending to submit but have since come around to. This is an abridged loop of the original track, clocking in at a bit over one minute.<br>\r\n<br>\r\nGood for automatic levels",
+  "latest_version": "smwc-35425-1703358624",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35425,
+      "title": "Danny Elfman - Breakfast Machine",
+      "version": "smwc-35425-1703358624",
+      "upstream_time": 1703358624,
+      "download_url": "https://dl.smwcentral.net/35425/breakfast%20.zip",
+      "filename": "breakfast .zip",
+      "size": 48098,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

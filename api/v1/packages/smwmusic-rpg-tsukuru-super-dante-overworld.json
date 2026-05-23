@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-rpg-tsukuru-super-dante-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19237,
+  "title": "RPG Tsukuru: Super Dante - Overworld",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "overworld"
+  ],
+  "description": "Overworld theme, arrange of snes",
+  "latest_version": "smwc-19237-1551837194",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19237,
+      "title": "RPG Tsukuru: Super Dante - Overworld",
+      "version": "smwc-19237-1551837194",
+      "upstream_time": 1551837194,
+      "download_url": "https://dl.smwcentral.net/19237/Overworld.zip",
+      "filename": "Overworld.zip",
+      "size": 48998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

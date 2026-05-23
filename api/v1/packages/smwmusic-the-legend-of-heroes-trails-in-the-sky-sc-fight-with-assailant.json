@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-legend-of-heroes-trails-in-the-sky-sc-fight-with-assailant",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31231,
+  "title": "The Legend of Heroes: Trails in the Sky SC - Fight with Assailant",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "industrial",
+    "tense"
+  ],
+  "description": "This is the second boss theme from Trails in the Sky SC, used for certain climactic and story-related battles.<br>\r\n<br>\r\nNote that this port uses noise, so be careful when using certain sound effects.",
+  "latest_version": "smwc-31231-1672443882",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31231,
+      "title": "The Legend of Heroes: Trails in the Sky SC - Fight with Assailant",
+      "version": "smwc-31231-1672443882",
+      "upstream_time": 1672443882,
+      "download_url": "https://dl.smwcentral.net/31231/The%20Legend%20of%20Heroes%20-%20Trails%20in%20the%20Sky%20SC%20-%20Fight%20With%20Assailant.zip",
+      "filename": "The Legend of Heroes - Trails in the Sky SC - Fight With Assailant.zip",
+      "size": 35335,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-deltarune-rude-buster",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18491,
+  "title": "Deltarune - Rude Buster",
+  "authors": [
+    "Giftshaven",
+    "Ultima"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "This is Rude Buster, which is the main battle theme from the newly revealed Toby Fox game, Deltarune. Very fitting for boss battles. Probably some other stuff, but who knows lol<br>\r\n<br>\r\nGiftshaven also gave me the MIDI after he talked with me on Discord DMs (he was the one who offered to give me the MIDI btw), so thanks to him for the MIDI transcription! :D",
+  "latest_version": "smwc-18491-1542682936",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18491,
+      "title": "Deltarune - Rude Buster",
+      "version": "smwc-18491-1542682936",
+      "upstream_time": 1542682936,
+      "download_url": "https://dl.smwcentral.net/18491/rudebuster.zip",
+      "filename": "rudebuster.zip",
+      "size": 81909,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

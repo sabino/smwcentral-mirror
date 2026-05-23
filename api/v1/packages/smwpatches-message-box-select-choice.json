@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-message-box-select-choice",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13078,
+  "title": "Message Box Select Choice",
+  "authors": [
+    "JackTheSpades"
+  ],
+  "tags": [
+    "lorom",
+    "message box",
+    "sa-1"
+  ],
+  "description": "This patch allows you to have cursor in the message box to select between multiple options.<br>\r\nThe message box opens and closes like usual and can be edited in Lunar Magic.<br>\r\nNote: The selection only stores a value to a RAM address, if you actually want the selection to do something, you'll have to code that yourself (meaning, ASM knowledge is required)<br>\r\nThe part where you want to edit the code is a bit below, shouldn't be hard to find.<br>\r\nFor further information, see the readme.",
+  "latest_version": "smwc-13078-1453074226",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13078,
+      "title": "Message Box Select Choice",
+      "version": "smwc-13078-1453074226",
+      "upstream_time": 1453074226,
+      "download_url": "https://dl.smwcentral.net/13078/Message%20Box%20Choice.zip",
+      "filename": "Message Box Choice.zip",
+      "size": 8614,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-legendary-illusion-infinite-being",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26403,
+  "title": "Touhou Kaikidan ~ Mystic Square - Legendary Illusion ~ Infinite Being",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "神話幻想　～ Infinite Being<br>\r\nShinki's theme from Touhou Kaikidan.<br>\r\nUsed 7 channels, #7 is not used.<br>\r\nNOTE: Used noise, incompatible with sprite using noise.<br>\r\n21/03/09 Fixed issue from moderation log. Change some sample choice.<br>\r\n",
+  "latest_version": "smwc-26403-1615331452",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26403,
+      "title": "Touhou Kaikidan ~ Mystic Square - Legendary Illusion ~ Infinite Being",
+      "version": "smwc-26403-1615331452",
+      "upstream_time": 1615331452,
+      "download_url": "https://dl.smwcentral.net/26403/TH5_15%20.zip",
+      "filename": "TH5_15 .zip",
+      "size": 35295,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

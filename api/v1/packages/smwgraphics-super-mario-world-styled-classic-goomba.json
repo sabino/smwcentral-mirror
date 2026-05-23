@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-classic-goomba",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 15585,
+  "title": "Super Mario World Styled Classic Goomba",
+  "authors": [
+    "KBY30"
+  ],
+  "tags": [
+    "goomba",
+    "needs remoderation"
+  ],
+  "description": "This sprite replaces the Classic Goomba sprite in SpriteTool with a more Super Mario World-esque Goomba.<br>\r\n<br>\r\nIt replaces the flopping Cheep-Cheep sprite, like the regular classic Goomba sprite.<br>\r\n<br>\r\nIt doesn't require a custom palette, because it only uses colors 1, 6 and 7 on any palette from A - D.",
+  "latest_version": "smwc-15585-1496192073",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 15585,
+      "title": "Super Mario World Styled Classic Goomba",
+      "version": "smwc-15585-1496192073",
+      "upstream_time": 1496192073,
+      "download_url": "https://dl.smwcentral.net/15585/contemporary-goomba.zip",
+      "filename": "contemporary-goomba.zip",
+      "size": 4557,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

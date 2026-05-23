@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-pok-mon-red-blue-yellow-rocket-hideout",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27127,
+  "title": "Pokémon Red/Blue/Yellow - Rocket Hideout",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "fire",
+    "industrial",
+    "retro",
+    "sewer",
+    "spooky",
+    "tense",
+    "urban"
+  ],
+  "description": "An almost metal theme. Very aggressive for iffy industrial areas.<br>\r\n<br>\r\nNow refreshed with a different instrumentation and mastering.",
+  "latest_version": "smwc-27127-1625114324",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27127,
+      "title": "Pokémon Red/Blue/Yellow - Rocket Hideout",
+      "version": "smwc-27127-1625114324",
+      "upstream_time": 1625114324,
+      "download_url": "https://dl.smwcentral.net/27127/rby_rocket_hideout_1_0.zip",
+      "filename": "rby_rocket_hideout_1_0.zip",
+      "size": 41580,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

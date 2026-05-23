@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-powerup-dependent-reward-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3825,
+  "title": "Powerup-Dependent Reward Block",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "lorom",
+    "powerup"
+  ],
+  "description": "When the player hits this block from below, he will get a reward depending on his powerup. The block will also destroy itself.",
+  "latest_version": "smwc-3825-1409003945",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3825,
+      "title": "Powerup-Dependent Reward Block",
+      "version": "smwc-3825-1409003945",
+      "upstream_time": 1409003945,
+      "download_url": "https://dl.smwcentral.net/3825/DependingBlock.zip",
+      "filename": "DependingBlock.zip",
+      "size": 1911,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

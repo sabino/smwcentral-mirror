@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-chrono-trigger-gato-s-song",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26039,
+  "title": "Chrono Trigger - Gato's Song",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "dark",
+    "overworld",
+    "temple"
+  ],
+  "description": "Could fit with short epic cutscenes",
+  "latest_version": "smwc-26039-1614325600",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26039,
+      "title": "Chrono Trigger - Gato's Song",
+      "version": "smwc-26039-1614325600",
+      "upstream_time": 1614325600,
+      "download_url": "https://dl.smwcentral.net/26039/Chrono%20Trigger%20-%20Gato%27s%20Song.zip",
+      "filename": "Chrono Trigger - Gato%27s Song.zip",
+      "size": 31291,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

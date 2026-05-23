@@ -1,0 +1,33 @@
+{
+  "name": "tools-blockreator-v1",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 20129,
+  "title": "Blockreator v1.3",
+  "authors": [
+    "Kipernal",
+    "Major Flare"
+  ],
+  "tags": [
+    "custom asm",
+    "custom block",
+    "generator"
+  ],
+  "description": "Kipernal's Blockreator that allows you to simply create custom blocks to be inserted with GPS.<br>\r\nThe blocks can be created by selected certain conditions and events to occur when the player or a sprite touches the block.<br>\r\nSee the readme for details.<br>\r\n<br>\r\nv1.2: <br>\r\n- Added the wallrun offsets, as well as fixed various bugs with labels and certain codes not working properly.<br>\r\n<br>\r\nv1.3 (Major Flare):<br>\r\n- Added several events, such as a proper give coins routine, Switch Palace tests, ON/OFF Flip status, and more;<br>\r\n- Added some code optimizations: wherever possible, switched \"LDA #$00 : STA $RAM\" to \"STZ $RAM\";<br>\r\n- Better SA-1 conversion - now, it converts sprite tables properly. Also, the resultant code is SA-1 hybrid instead of SA-1 restricted.",
+  "latest_version": "smwc-20129-1559593614",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 20129,
+      "title": "Blockreator v1.3",
+      "version": "smwc-20129-1559593614",
+      "upstream_time": 1559593614,
+      "download_url": "https://dl.smwcentral.net/20129/Blockreator.zip",
+      "filename": "Blockreator.zip",
+      "size": 2312957,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

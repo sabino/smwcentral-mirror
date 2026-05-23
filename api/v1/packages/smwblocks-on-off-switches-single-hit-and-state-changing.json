@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-on-off-switches-single-hit-and-state-changing",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 23034,
+  "title": "ON/OFF Switches (Single Hit and State Changing)",
+  "authors": [
+    "dogemaster"
+  ],
+  "tags": [
+    "lorom",
+    "on-off",
+    "sa-1"
+  ],
+  "description": "These ON/OFF switches become solid once hit and switches again when the other state switch is hit! Features include interactions with:<br>\r\n&gt;Mario fireballs!<br>\r\n&gt;Thwomps!<br>\r\n&gt;Cape!<br>\r\n&gt;also gets rid of double hits entirely!!<br>\r\nCheck the asm files for disabling interactions with thwomp and fireballs!!!",
+  "latest_version": "smwc-23034-1593553534",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 23034,
+      "title": "ON/OFF Switches (Single Hit and State Changing)",
+      "version": "smwc-23034-1593553534",
+      "upstream_time": 1593553534,
+      "download_url": "https://dl.smwcentral.net/23034/OneHitSwitch.zip",
+      "filename": "OneHitSwitch.zip",
+      "size": 3585,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

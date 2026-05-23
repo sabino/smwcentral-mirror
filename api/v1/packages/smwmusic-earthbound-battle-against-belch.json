@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-earthbound-battle-against-belch",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24210,
+  "title": "EarthBound - Battle Against Belch",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "dark",
+    "night",
+    "spooky",
+    "swamp",
+    "water"
+  ],
+  "description": "The battle song against Belch. Can be used in swamps and water levels maybe.",
+  "latest_version": "smwc-24210-1600377850",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24210,
+      "title": "EarthBound - Battle Against Belch",
+      "version": "smwc-24210-1600377850",
+      "upstream_time": 1600377850,
+      "download_url": "https://dl.smwcentral.net/24210/Earthbound%20-%20Battle%20Against%20Belch.zip",
+      "filename": "Earthbound - Battle Against Belch.zip",
+      "size": 36766,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

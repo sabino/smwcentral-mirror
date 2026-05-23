@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-tokimeki-memorial-summer-holiday",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29596,
+  "title": "Tokimeki Memorial - Summer Holiday",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "beach",
+    "carnival",
+    "cutscene",
+    "grassland",
+    "town"
+  ],
+  "description": "Short, happy song from Tokimeki Memorial<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Jacko\"><a href=\"/?p=profile&amp;id=41685\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Jacko</a></span>",
+  "latest_version": "smwc-29596-1646748023",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29596,
+      "title": "Tokimeki Memorial - Summer Holiday",
+      "version": "smwc-29596-1646748023",
+      "upstream_time": 1646748023,
+      "download_url": "https://dl.smwcentral.net/29596/SummerHoliday.zip",
+      "filename": "SummerHoliday.zip",
+      "size": 70989,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

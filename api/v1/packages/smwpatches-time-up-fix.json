@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-time-up-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40139,
+  "title": "Time Up Fix",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "time",
+    "timer"
+  ],
+  "description": "Prevents the \"Time Up!\" message from appearing when you die in a level with no time limit.<br>\r\n<br>\r\nMathos's note: made SA-1 hybrid.",
+  "latest_version": "smwc-40139-1753037738",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40139,
+      "title": "Time Up Fix",
+      "version": "smwc-40139-1753037738",
+      "upstream_time": 1753037738,
+      "download_url": "https://dl.smwcentral.net/40139/timeupfix.zip",
+      "filename": "timeupfix.zip",
+      "size": 440,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

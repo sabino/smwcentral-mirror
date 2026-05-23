@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-kirby",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 21709,
+  "title": "Super Mario World Styled Kirby",
+  "authors": [
+    "Kusamochi"
+  ],
+  "tags": [
+    "male",
+    "needs remoderation",
+    "patch needed"
+  ],
+  "description": "He's from Kirby series.<br>\r\nThis have 2 GFX32.bin,but please use the one you like.<br>\r\n<br>\r\nThe zip includes:<br>\r\nGFX00.bin<br>\r\nGFX10.bin<br>\r\nGFX28.bin<br>\r\nGFX32.bin - Small Mario is replaced Blue Kirby(from Kirby Mass Attack) in this .bin file.<br>\r\nGFX32(alt).bin - Small Mario is replaced Normal Kirby in this .bin file.<br>\r\nshared.pal(shared palette)<br>\r\n<br>\r\n<i>Gloomy edit: included an asm file with hex edits that make the Player's hitbox 16x16 sized in all forms.</i>",
+  "latest_version": "smwc-21709-1583679008",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 21709,
+      "title": "Super Mario World Styled Kirby",
+      "version": "smwc-21709-1583679008",
+      "upstream_time": 1583679008,
+      "download_url": "https://dl.smwcentral.net/21709/Kirby%20Player.zip",
+      "filename": "Kirby Player.zip",
+      "size": 21544,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

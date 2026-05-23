@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shovel-knight-strike-the-earth-plains-of-passage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26426,
+  "title": "Shovel Knight - Strike the Earth! (Plains of Passage)",
+  "authors": [
+    "Goomba-24"
+  ],
+  "tags": [
+    "athletic",
+    "grassland"
+  ],
+  "description": "This is a port of the Plains of Passage level theme from Shovel Knight. It could work well for grass/plains levels.<br>\r\n<br>\r\nUpdate: Made a few small tweaks and decreased the insert size by quite a bit. Also used AddmusicK 1.08.",
+  "latest_version": "smwc-26426-1618115586",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26426,
+      "title": "Shovel Knight - Strike the Earth! (Plains of Passage)",
+      "version": "smwc-26426-1618115586",
+      "upstream_time": 1618115586,
+      "download_url": "https://dl.smwcentral.net/26426/Strike%20the%20Earth%21%20%28Plains%20of%20Passage%29.zip",
+      "filename": "Strike the Earth%21 (Plains of Passage).zip",
+      "size": 36776,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

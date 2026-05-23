@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-monopoly-nes-incoming-taxes-to-pay",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7910,
+  "title": "Monopoly (NES) - Incoming Taxes to Pay",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "description": "The sound in Monopoly (NES) whenever there are taxes to pay.",
+  "latest_version": "smwc-7910-1324188587",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7910,
+      "title": "Monopoly (NES) - Incoming Taxes to Pay",
+      "version": "smwc-7910-1324188587",
+      "upstream_time": 1324188587,
+      "download_url": "https://dl.smwcentral.net/7910/%5BSound%5D%20Monopoly%20%28NES%29%20-%20Incoming%20Taxes%20to%20Pay.zip",
+      "filename": "%5BSound%5D Monopoly (NES) - Incoming Taxes to Pay.zip",
+      "size": 67039,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

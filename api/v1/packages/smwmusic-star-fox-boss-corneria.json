@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-star-fox-boss-corneria",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22286,
+  "title": "Star Fox - Boss (Corneria)",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "boss",
+    "industrial",
+    "space"
+  ],
+  "description": "Unsampled version of my port of Corneria's boss battle theme from Star Fox. It'd mostly suit its main purpose: boss battles. I can see this fitting alright in factories and space-themed levels too.<br>\r\nI've also included an alternate version that doesn't have the very first section in the intro (which's quite awkward) and starts from the later part.<br>\r\n<br>\r\nRequested by Infinity.",
+  "latest_version": "smwc-22286-1583831157",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22286,
+      "title": "Star Fox - Boss (Corneria)",
+      "version": "smwc-22286-1583831157",
+      "upstream_time": 1583831157,
+      "download_url": "https://dl.smwcentral.net/22286/corneriabossuns.zip",
+      "filename": "corneriabossuns.zip",
+      "size": 69070,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22285,
+      "title": "Star Fox - Boss (Corneria)",
+      "version": "smwc-22285-1583830634",
+      "upstream_time": 1583830634,
+      "download_url": "https://dl.smwcentral.net/22285/corneriaboss.zip",
+      "filename": "corneriaboss.zip",
+      "size": 81855,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

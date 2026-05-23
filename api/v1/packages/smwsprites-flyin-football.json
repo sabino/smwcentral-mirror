@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-flyin-football",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 15815,
+  "title": "Flyin' Football",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "flying",
+    "football",
+    "lorom",
+    "sa-1",
+    "wings"
+  ],
+  "description": "A footbal that flies in a similar way to a green parakoopa. It will spawn the vanilla football sprite when jumped on. Requested by 1UpDudes.<br>\r\nSA-1 compatible.",
+  "latest_version": "smwc-15815-1500148331",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 15815,
+      "title": "Flyin' Football",
+      "version": "smwc-15815-1500148331",
+      "upstream_time": 1500148331,
+      "download_url": "https://dl.smwcentral.net/15815/Flyin%27%20Football.zip",
+      "filename": "Flyin%27 Football.zip",
+      "size": 2207,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

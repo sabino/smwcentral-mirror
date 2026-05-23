@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-moomin-the-magic-top-hat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22433,
+  "title": "Moomin - The Magic Top Hat",
+  "authors": [
+    "ss_isbjorn"
+  ],
+  "tags": [
+    "airship",
+    "grassland",
+    "mountain",
+    "sky"
+  ],
+  "description": "A wonderful & happy song from the soundtrack of the 1990 Moomin TV-series. Could work well for sky or grass levels.",
+  "latest_version": "smwc-22433-1585676410",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22433,
+      "title": "Moomin - The Magic Top Hat",
+      "version": "smwc-22433-1585676410",
+      "upstream_time": 1585676410,
+      "download_url": "https://dl.smwcentral.net/22433/The%20Magic%20Top%20Hat.zip",
+      "filename": "The Magic Top Hat.zip",
+      "size": 88983,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

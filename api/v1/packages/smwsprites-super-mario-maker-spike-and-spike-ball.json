@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-super-mario-maker-spike-and-spike-ball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23313,
+  "title": "Super Mario Maker - Spike and Spike Ball",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "extended",
+    "lorom",
+    "sa-1",
+    "smm2",
+    "spike",
+    "spike balls",
+    "throw"
+  ],
+  "description": "This is a recreation of Spike (and spike ball) from Super Mario Maker 2.<br>\r\n<br>\r\nThis Spike stays in place, but then, it will throw a spiky iron ball which rolls on the ground. The spike ball rolls and destroys itself when it hits the wall or every vertical surface. Like kicked shells and throw blocks, spike balls can hit blocks (? Blocks and Turn Blocks) and destroys enemies, except this does not show score sprites. If the spike ball rolls up on a slope, it will roll back down. If Cape Mario cape spins in front of the rolling spike ball, it will bounce back to the other direction. When Yoshi tongues the spike ball, he can’t eat it, but he can spit it out. The Spike and spike ball are both customizable sprites. You can determine the number of seconds of how many spike balls or fast Spike throws, or how fast the spike ball rolls.<br>\r\n<br>\r\nRequested by CalHal.",
+  "latest_version": "smwc-23313-1596505698",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23313,
+      "title": "Super Mario Maker - Spike and Spike Ball",
+      "version": "smwc-23313-1596505698",
+      "upstream_time": 1596505698,
+      "download_url": "https://dl.smwcentral.net/23313/SMM2Spike.zip",
+      "filename": "SMM2Spike.zip",
+      "size": 10410,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

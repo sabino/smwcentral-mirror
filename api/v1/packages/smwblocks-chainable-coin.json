@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-chainable-coin",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 22974,
+  "title": "Chainable Coin",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "chain",
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a coin which can be chain collected, with each chained coin awarding an increasing number of coins. If a chainable coin isn't collected fast enough, the chain will break and the number of coins awarded will reset. You can customize the amount of time the player has to chain each coin, and you can set a cap on the maximum number of coins awarded per chained coin.<br>\r\n<br>\r\nUses 2 bytes of freeram and a small UberASM. Includes an exanimated coin graphic that uses Custom Trigger 0.<br>\r\n<br>\r\nCredit is unnecessary but appreciated.<br>\r\n<br>\r\nUPDATE: Fixed an issue where coins wouldn't be collected if they're on the ground and Mario is riding Yoshi. If you downloaded this and planned to use them with Yoshi, please re-download.",
+  "latest_version": "smwc-22974-1591898393",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 22974,
+      "title": "Chainable Coin",
+      "version": "smwc-22974-1591898393",
+      "upstream_time": 1591898393,
+      "download_url": "https://dl.smwcentral.net/22974/CoinChainable.zip",
+      "filename": "CoinChainable.zip",
+      "size": 1518,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

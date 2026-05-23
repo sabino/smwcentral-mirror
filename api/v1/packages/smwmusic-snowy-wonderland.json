@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-snowy-wonderland",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7905,
+  "title": "Snowy Wonderland",
+  "authors": [
+    "Jimmy"
+  ],
+  "tags": [
+    "grassland",
+    "ice",
+    "mountain",
+    "overworld"
+  ],
+  "description": "Best suited to cold icy mountains or snowy areas.<br>\r\n<br>\r\n4/8/2021 Mod edit: Fixed an oversight caused by AMK causing the percussion to play slightly differently.",
+  "latest_version": "smwc-7905-1319953375",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7905,
+      "title": "Snowy Wonderland",
+      "version": "smwc-7905-1319953375",
+      "upstream_time": 1319953375,
+      "download_url": "https://dl.smwcentral.net/7905/SnowyWonderland.zip",
+      "filename": "SnowyWonderland.zip",
+      "size": 32167,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

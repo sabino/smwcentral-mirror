@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-orb",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22577,
+  "title": "Orb",
+  "authors": [
+    "Janno27"
+  ],
+  "tags": [
+    "goal",
+    "misc",
+    "mysterious",
+    "water"
+  ],
+  "description": "Another level end theme I wrote. I think it has a rather underwater vibe.",
+  "latest_version": "smwc-22577-1586377452",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22577,
+      "title": "Orb",
+      "version": "smwc-22577-1586377452",
+      "upstream_time": 1586377452,
+      "download_url": "https://dl.smwcentral.net/22577/orb_.zip",
+      "filename": "orb_.zip",
+      "size": 63574,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

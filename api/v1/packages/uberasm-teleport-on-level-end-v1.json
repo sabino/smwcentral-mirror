@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-teleport-on-level-end-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 24025,
+  "title": "Teleport on Level End v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "This code will teleport the player (based on the current screen exit) once the level has been beaten. Works for goal tapes, orbs, bosses or really anything that sets the end level timer (except keyholes). Check out the asm file for info and possible options.<br>\r\n<br>\r\nRequested by Smibbix.<br>\r\n<br>\r\nv1.1: Fixed various issues, made compatible with vanilla mode 7 bosses.",
+  "latest_version": "smwc-24025-1595792546",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 24025,
+      "title": "Teleport on Level End v1.1",
+      "version": "smwc-24025-1595792546",
+      "upstream_time": 1595792546,
+      "download_url": "https://dl.smwcentral.net/24025/TeleportOnWin.zip",
+      "filename": "TeleportOnWin.zip",
+      "size": 1725,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

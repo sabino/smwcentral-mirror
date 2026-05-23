@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-inside-the-machine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35595,
+  "title": "Inside the Machine",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final",
+    "fire",
+    "industrial"
+  ],
+  "description": "Inside the Machine, a composition composed for Super Famicompo 4. It ranked 7th place in the 'Originals' category.<br>\r\n<br>\r\nThe zip file contains two .txts, an original submission including a define for turning off the intro, as well as a modified version that cuts down echo delay and vanilla samples to additionally minimize SFX channel usage, using two extra string samples.<br>\r\n<br>\r\nIf you're using the original submission, make sure to copy over the #InsideTheMachine sample group (only omits Thunder/Blaarg).<br>\r\n<br>\r\nIf you're using the modified version, copy over #InsideTheMachineModified sample group (omits @15/Yoshi, @7/Bonus End and Thunder/Blaarg).",
+  "latest_version": "smwc-35595-1702612307",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35595,
+      "title": "Inside the Machine",
+      "version": "smwc-35595-1702612307",
+      "upstream_time": 1702612307,
+      "download_url": "https://dl.smwcentral.net/35595/Inside%20the%20Machine.zip",
+      "filename": "Inside the Machine.zip",
+      "size": 241437,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

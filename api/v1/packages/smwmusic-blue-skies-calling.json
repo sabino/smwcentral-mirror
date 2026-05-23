@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-blue-skies-calling",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40938,
+  "title": "Blue Skies Calling",
+  "authors": [
+    "PyroKastrix"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "overworld",
+    "upbeat",
+    "urban"
+  ],
+  "description": "An upbeat tune, especially good for grasslands or athletic stages.<br>\r\n<br>\r\nYou can transpose the song as needed in the .txt file. By default it's set to $01.",
+  "latest_version": "smwc-40938-1766605754",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40938,
+      "title": "Blue Skies Calling",
+      "version": "smwc-40938-1766605754",
+      "upstream_time": 1766605754,
+      "download_url": "https://dl.smwcentral.net/40938/Blue_Skies_Calling.zip",
+      "filename": "Blue_Skies_Calling.zip",
+      "size": 53657,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

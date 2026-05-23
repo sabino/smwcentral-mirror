@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-x3-kaiser-sigma",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28408,
+  "title": "Mega Man X3 - Kaiser Sigma",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "The song from the second phase of the Sigma battle in MMX3.<br>\r\nRequested by <span class=\"un-outer\" title=\"Black Goku\"><a href=\"/?p=profile&amp;id=48112\" style=\"color: var(--user-color-2);\" class=\"un\">Black Goku</a></span>.",
+  "latest_version": "smwc-28408-1632807011",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28408,
+      "title": "Mega Man X3 - Kaiser Sigma",
+      "version": "smwc-28408-1632807011",
+      "upstream_time": 1632807011,
+      "download_url": "https://dl.smwcentral.net/28408/MMX3%20-%20Kaiser%20Sigma.zip",
+      "filename": "MMX3 - Kaiser Sigma.zip",
+      "size": 70492,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

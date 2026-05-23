@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-werewolf-the-last-warrior-thug-approaches",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31666,
+  "title": "Werewolf: The Last Warrior - Thug Approaches",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "retro",
+    "spooky"
+  ],
+  "description": "The (unfitting) Mini-Boss theme from Werewolf: The Last Warrior.<br>\r\n<br>\r\nThere is a define in the txt file to change between the default and JP versions, which only switches the Tom DPCM sample.",
+  "latest_version": "smwc-31666-1663859295",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31666,
+      "title": "Werewolf: The Last Warrior - Thug Approaches",
+      "version": "smwc-31666-1663859295",
+      "upstream_time": 1663859295,
+      "download_url": "https://dl.smwcentral.net/31666/Werewolf%20The%20Last%20Warrior%20-%20Thug%20Approaches.zip",
+      "filename": "Werewolf The Last Warrior - Thug Approaches.zip",
+      "size": 126247,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

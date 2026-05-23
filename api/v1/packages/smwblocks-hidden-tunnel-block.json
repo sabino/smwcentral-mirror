@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-hidden-tunnel-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 9616,
+  "title": "Hidden Tunnel Block",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "hidden",
+    "lorom",
+    "on off",
+    "tunnel"
+  ],
+  "description": "These blocks are designed to mimic the hidden tunnel effect in Yoshi's Island. When you enter the tunnel, it appears, and when you leave, it disappears again. The tunnels use on/off animation. In addition to changing the on/off value, the \"appear\" sound effect is played, just like in YI. (Note: There is no transition pause).<br>\r\n<br>\r\nExtremely simple GFX made by S.R.H..",
+  "latest_version": "smwc-9616-1419823790",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 9616,
+      "title": "Hidden Tunnel Block",
+      "version": "smwc-9616-1419823790",
+      "upstream_time": 1419823790,
+      "download_url": "https://dl.smwcentral.net/9616/tunnel.zip",
+      "filename": "tunnel.zip",
+      "size": 2978,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

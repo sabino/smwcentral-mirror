@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-beyond-the-stars",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7486,
+  "title": "Beyond the Stars",
+  "authors": [
+    "Masashi27"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "cave",
+    "chase",
+    "final",
+    "industrial",
+    "jungle",
+    "sky",
+    "space",
+    "temple"
+  ],
+  "description": "A song that could work well for any kind of Abstract/Space levels.<br>\r\n<br>\r\n<br>\r\nUpdate (01/17/20):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.",
+  "latest_version": "smwc-7486-1329674153",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7486,
+      "title": "Beyond the Stars",
+      "version": "smwc-7486-1329674153",
+      "upstream_time": 1329674153,
+      "download_url": "https://dl.smwcentral.net/7486/Custom%20-%20Beyond.the%20Stars.zip",
+      "filename": "Custom - Beyond.the Stars.zip",
+      "size": 84712,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

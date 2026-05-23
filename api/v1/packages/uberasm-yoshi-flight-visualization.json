@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-yoshi-flight-visualization",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 36964,
+  "title": "Yoshi Flight Visualization",
+  "authors": [
+    "Abdu"
+  ],
+  "tags": [
+    "animation",
+    "cape",
+    "cape level",
+    "flight",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This UberASM shows the cape flying phases when riding Yoshi and flying.",
+  "latest_version": "smwc-36964-1708796234",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 36964,
+      "title": "Yoshi Flight Visualization",
+      "version": "smwc-36964-1708796234",
+      "upstream_time": 1708796234,
+      "download_url": "https://dl.smwcentral.net/36964/yoshi_flight_visualization.zip",
+      "filename": "yoshi_flight_visualization.zip",
+      "size": 394,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

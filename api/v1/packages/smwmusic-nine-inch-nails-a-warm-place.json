@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-nine-inch-nails-a-warm-place",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32751,
+  "title": "Nine Inch Nails - A Warm Place",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "dark",
+    "ruins",
+    "tense"
+  ],
+  "description": "A quite solemn and heavy theme.<br>\r\nCan be used for cutscenes or credits rolls.<br>\r\nYou can have a looped version of it by removing the ?, it should work technically but I didn't feel this song could have good loop points, so it will play intro and outro as well.<br>\r\n<br>\r\nMade on <a href=\"https://www.smwcentral.net/?p=viewthread&t=122810\">request</a> for <span class=\"un-outer\" title=\"LightAligns\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=50165\" style=\"color: var(--user-color-3);\" class=\"un\">LightAligns</a></span>.",
+  "latest_version": "smwc-32751-1682805251",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32751,
+      "title": "Nine Inch Nails - A Warm Place",
+      "version": "smwc-32751-1682805251",
+      "upstream_time": 1682805251,
+      "download_url": "https://dl.smwcentral.net/32751/nin_warm_place_0_1.zip",
+      "filename": "nin_warm_place_0_1.zip",
+      "size": 40322,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

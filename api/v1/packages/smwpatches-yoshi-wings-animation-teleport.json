@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-yoshi-wings-animation-teleport",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19576,
+  "title": "Yoshi Wings Animation Teleport",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "abilities",
+    "animation",
+    "lorom",
+    "physics",
+    "sa-1",
+    "wings",
+    "yoshi"
+  ],
+  "description": "Let's face it - the Yoshi Wings are useless. At the same time though, the animation of Mario getting shot up into the sky is very cool and it can be even used to simulate the Red Note Blocks from SMB3.<br>\r\nThis patch changes the animation so that the player gets teleported to the screen exit that Mario is on instead of going to level C8 or 1C8.<br>\r\nThe player will also not receive a Blue Yoshi and the level will not end if the player falls, so it acts just like a regular teleport.",
+  "latest_version": "smwc-19576-1554487354",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19576,
+      "title": "Yoshi Wings Animation Teleport",
+      "version": "smwc-19576-1554487354",
+      "upstream_time": 1554487354,
+      "download_url": "https://dl.smwcentral.net/19576/Yoshi%20Wings%20Teleport%20Patch.zip",
+      "filename": "Yoshi Wings Teleport Patch.zip",
+      "size": 1373,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

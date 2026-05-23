@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-pok-mon-gold-silver-crystal-tin-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24938,
+  "title": "Pokémon Gold/Silver/Crystal - Tin Tower",
+  "authors": [
+    "mason"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "mountain",
+    "mysterious",
+    "night",
+    "temple",
+    "tense"
+  ],
+  "description": "A spooky and mysterious song from the GBC Pokémon games. I imagine this fitting a ghost house, dark forest, mountain, or temple. <br>\r\n<br>\r\nSpecial thanks to NewPointless for fielding my questions. This is my first uploaded port! Please give credit if used. Requested by Brutapode89.",
+  "latest_version": "smwc-24938-1606932045",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24938,
+      "title": "Pokémon Gold/Silver/Crystal - Tin Tower",
+      "version": "smwc-24938-1606932045",
+      "upstream_time": 1606932045,
+      "download_url": "https://dl.smwcentral.net/24938/tintowerv1.1.zip",
+      "filename": "tintowerv1.1.zip",
+      "size": 30844,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

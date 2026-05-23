@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-time-travel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7407,
+  "title": "Time Travel",
+  "authors": [
+    "Red Chameleon"
+  ],
+  "tags": [
+    "overworld",
+    "space"
+  ],
+  "description": "The song that was going to be used in the Time Void in 'Mario's Time Quest'. Would suit a space submap well.",
+  "latest_version": "smwc-7407-1319959767",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7407,
+      "title": "Time Travel",
+      "version": "smwc-7407-1319959767",
+      "upstream_time": 1319959767,
+      "download_url": "https://dl.smwcentral.net/7407/Time%20Travel.zip",
+      "filename": "Time Travel.zip",
+      "size": 65455,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rusty-mysterious-chapel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29539,
+  "title": "Rusty - Mysterious Chapel",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "temple"
+  ],
+  "description": "Mysterious Chapel from the PC-98 game Rusty. Useful for castles/fortresses.",
+  "latest_version": "smwc-29539-1644704029",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29539,
+      "title": "Rusty - Mysterious Chapel",
+      "version": "smwc-29539-1644704029",
+      "upstream_time": 1644704029,
+      "download_url": "https://dl.smwcentral.net/29539/Rusty%20-%20Mysterious%20Chapel.zip",
+      "filename": "Rusty - Mysterious Chapel.zip",
+      "size": 45115,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

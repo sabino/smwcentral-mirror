@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-hold-x-to-item-swim",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 17202,
+  "title": "Hold X to Item Swim",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "swim",
+    "swim controls",
+    "underwater"
+  ],
+  "description": "While underwater, makes Mario act like he's holding an Item by holding X.<br>\r\n<br>\r\nIntended purpose is for water levels, to make him Item-Swim without an item.<br>\r\nAlso has the effect of letting him regular swim while holding an item (when not holding X).",
+  "latest_version": "smwc-17202-1520284056",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 17202,
+      "title": "Hold X to Item Swim",
+      "version": "smwc-17202-1520284056",
+      "upstream_time": 1520284056,
+      "download_url": "https://dl.smwcentral.net/17202/x_to_item_swim.zip",
+      "filename": "x_to_item_swim.zip",
+      "size": 258,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

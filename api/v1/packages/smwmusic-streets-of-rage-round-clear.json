@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-streets-of-rage-round-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21750,
+  "title": "Streets of Rage - Round Clear",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "The theme that plays when you beat a level in the Streets of Rage series on the Genesis. Included is a readme on how to insert the standard version of the port, and an alternate, universal version just in case it does not work in your hacks.",
+  "latest_version": "smwc-21750-1578075854",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21750,
+      "title": "Streets of Rage - Round Clear",
+      "version": "smwc-21750-1578075854",
+      "upstream_time": 1578075854,
+      "download_url": "https://dl.smwcentral.net/21750/round%20clear.zip",
+      "filename": "round clear.zip",
+      "size": 64510,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

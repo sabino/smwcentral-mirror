@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-double-dragon-stage-2-factory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8271,
+  "title": "Double Dragon - Stage 2/Factory (16-bit Arrangement)",
+  "authors": [
+    "Mayonnai"
+  ],
+  "tags": [
+    "chase",
+    "fire",
+    "industrial"
+  ],
+  "description": "A 16-bit arrangement of Stage 2 from Double Dragon. It could work well for a factory stage or a fire area. It could also work well for a chase scenario.",
+  "latest_version": "smwc-8271-1343860280",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8271,
+      "title": "Double Dragon - Stage 2/Factory (16-bit Arrangement)",
+      "version": "smwc-8271-1343860280",
+      "upstream_time": 1343860280,
+      "download_url": "https://dl.smwcentral.net/8271/DoubleDragon_Stage2.zip",
+      "filename": "DoubleDragon_Stage2.zip",
+      "size": 65187,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

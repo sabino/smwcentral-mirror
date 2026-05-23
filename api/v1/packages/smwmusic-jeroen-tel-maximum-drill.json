@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-jeroen-tel-maximum-drill",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25872,
+  "title": "Jeroen Tel - Maximum Drill",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "misc"
+  ],
+  "description": "Originally an Amiga .mod file, This is Jeroen Tel's Maximum Drill. Could work in athletic levels.<br>\r\n<br>\r\nThere are two versions of this port. One with echo, and one without. Whichever one you prefer!",
+  "latest_version": "smwc-25872-1613086916",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25872,
+      "title": "Jeroen Tel - Maximum Drill",
+      "version": "smwc-25872-1613086916",
+      "upstream_time": 1613086916,
+      "download_url": "https://dl.smwcentral.net/25872/Jeroen%20Tel%20-%20Maximum%20Drill%20.zip",
+      "filename": "Jeroen Tel - Maximum Drill .zip",
+      "size": 152072,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

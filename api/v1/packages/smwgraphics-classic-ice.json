@@ -1,0 +1,56 @@
+{
+  "name": "smwgraphics-classic-ice",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27039,
+  "title": "Classic Ice 2021 Plus",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "ice",
+    "needs remoderation",
+    "snow"
+  ],
+  "description": "This package not only contains an ice/snow tileset in the style of the rest of my \"Classic 2021\" sets, but also a bonus file with graphics for snow-covered pipes and various frozen items, the latter of which can be used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4069\">Ersanio's Ice Block pack.</a>  The base tileset requires no custom palette, but the snowy pipes and frozen items do.  The pipes and blocks are in a separate .map16 file in case you just want to use them.<br>\r\n<br>\r\nThe frozen itmes included are:<br>\r\n* Frozen Coin<br>\r\n* Frozen Muncher<br>\r\n* Frozen Yoshi Coin<br>\r\n* Frozen Springboard<br>\r\n* Frozen Key<br>\r\n* Frozen Keyhole<br>\r\n* Frozen P-Switch",
+  "latest_version": "smwc-27039-1621300744",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27039,
+      "title": "Classic Ice 2021 Plus",
+      "version": "smwc-27039-1621300744",
+      "upstream_time": 1621300744,
+      "download_url": "https://dl.smwcentral.net/27039/ClassicIce2021.zip",
+      "filename": "ClassicIce2021.zip",
+      "size": 5958,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 19746,
+      "title": "Classic Ice 2",
+      "version": "smwc-19746-1556566593",
+      "upstream_time": 1556566593,
+      "download_url": "https://dl.smwcentral.net/19746/ClassicIce2.zip",
+      "filename": "ClassicIce2.zip",
+      "size": 4240,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 13065,
+      "title": "Classic Ice",
+      "version": "smwc-13065-1453242059",
+      "upstream_time": 1453242059,
+      "download_url": "https://dl.smwcentral.net/13065/ClassicIce.zip",
+      "filename": "ClassicIce.zip",
+      "size": 3955,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

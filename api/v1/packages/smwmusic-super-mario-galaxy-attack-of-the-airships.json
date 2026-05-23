@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-galaxy-attack-of-the-airships",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12361,
+  "title": "Super Mario Galaxy - Attack of the Airships",
+  "authors": [
+    "Coolmario"
+  ],
+  "tags": [
+    "airship"
+  ],
+  "description": "The song that plays in the Airship levels of Super Mario Galaxy 1/2 and 3D Land.",
+  "latest_version": "smwc-12361-1446319902",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12361,
+      "title": "Super Mario Galaxy - Attack of the Airships",
+      "version": "smwc-12361-1446319902",
+      "upstream_time": 1446319902,
+      "download_url": "https://dl.smwcentral.net/12361/Attack%20of%20the%20Airships.zip",
+      "filename": "Attack of the Airships.zip",
+      "size": 51571,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

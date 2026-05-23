@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-curb-your-enthusiasm-frolic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26833,
+  "title": "Curb Your Enthusiasm - Frolic",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "calm",
+    "cutscene",
+    "misc",
+    "overworld",
+    "switch palace",
+    "title"
+  ],
+  "description": "A famous tv show theme that sounds a bit goofy. Could work on various purposes, switch palace, title, bonus song.<br>\r\nThe port was built by merging the best features of two different midis together.<br>\r\n<br>\r\nMade on <a href=\"https://www.smwcentral.net/?p=viewthread&t=105328\">request</a> for ninj.",
+  "latest_version": "smwc-26833-1621871200",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26833,
+      "title": "Curb Your Enthusiasm - Frolic",
+      "version": "smwc-26833-1621871200",
+      "upstream_time": 1621871200,
+      "download_url": "https://dl.smwcentral.net/26833/frolic_0_2.zip",
+      "filename": "frolic_0_2.zip",
+      "size": 37261,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

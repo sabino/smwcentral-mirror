@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-floating-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18050,
+  "title": "Floating Overworld",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "overworld",
+    "sky",
+    "town"
+  ],
+  "description": "This composition is a cheery tune that is intended to fit for a sky-styled overworld, but it could definitely work for a large generic overworld too.",
+  "latest_version": "smwc-18050-1534622673",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18050,
+      "title": "Floating Overworld",
+      "version": "smwc-18050-1534622673",
+      "upstream_time": 1534622673,
+      "download_url": "https://dl.smwcentral.net/18050/Floating%20Overworld%20%28CUSTOM%29.zip",
+      "filename": "Floating Overworld (CUSTOM).zip",
+      "size": 31718,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-count-bomb-neo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 30826,
+  "title": "Count Bomb Neo",
+  "authors": [
+    "codfish1002"
+  ],
+  "tags": [
+    "bomb",
+    "exploding platforms",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Count Bomb Neo from Mega Man 7<br>\r\n<br>\r\nStarts counting down after Mario triggers it <br>\r\n<br>\r\nonce it hits 0 it will explode<br>\r\n<br>\r\ncredit would be appreciated. <br>\r\n<br>\r\nrequested by <span class=\"un-outer\" title=\"ASSATAKKU\"><a href=\"/?p=profile&amp;id=41787\" style=\"color: var(--user-color-1);\" class=\"un\">ASSATAKKU</a></span><br>\r\n<br>\r\nModeration note: This sprite requires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24816\">No more sprite tile limits</a> patch (on lorom), or use with sprite header 8 (on sa-1) due to the high number of tiles it draws.",
+  "latest_version": "smwc-30826-1671400814",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 30826,
+      "title": "Count Bomb Neo",
+      "version": "smwc-30826-1671400814",
+      "upstream_time": 1671400814,
+      "download_url": "https://dl.smwcentral.net/30826/Countbomb.zip",
+      "filename": "Countbomb.zip",
+      "size": 4862,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

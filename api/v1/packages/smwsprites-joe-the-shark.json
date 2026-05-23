@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-joe-the-shark",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 36854,
+  "title": "Joe the Shark",
+  "authors": [
+    "andy_k_250"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Joe the Shark and his pals are so hungry and mean that they will jump out of the ocean to attack Mario. Because Joe is so muscular, Mario can't stomp on him, and fireballs do not affect him. Joe wears boxing gloves, but he doesn't seem to use them against Mario.<br>\r\n<br>\r\nThis sprite was originally part of <a href=\"https://smwc.me/185495\">andy_k_250's Custom Tweaked Sprites pack</a>, and was resubmitted separately after the remoderation for ease of search and to fit current standards. They were made as a demo of the ability for mikeyk's Spritetool (also inherited by PIXI) to create tweaked copies of vanilla sprites without altering the vanilla sprites themselves, via a .cfg file that does not reference an .asm file at all. Therefore, the lack of .asm files in this download is not only intentional, it is the main idea.",
+  "latest_version": "smwc-36854-1727269991",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 36854,
+      "title": "Joe the Shark",
+      "version": "smwc-36854-1727269991",
+      "upstream_time": 1727269991,
+      "download_url": "https://dl.smwcentral.net/36854/Joe%20the%20Shark.zip",
+      "filename": "Joe the Shark.zip",
+      "size": 6201,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-final-fantasy-iv-battle-with-the-four-fiends",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20397,
+  "title": "Final Fantasy IV - Battle With the Four Fiends",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final"
+  ],
+  "description": "(Also known as \"The Dreadful Battle\")<br>\r\n<br>\r\nThis plays when you fight Scarmiglione, Cagnazzo, Barbariccia and Rubicante, aka the Four Archfiends.",
+  "latest_version": "smwc-20397-1562463844",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20397,
+      "title": "Final Fantasy IV - Battle With the Four Fiends",
+      "version": "smwc-20397-1562463844",
+      "upstream_time": 1562463844,
+      "download_url": "https://dl.smwcentral.net/20397/FF4Dread.zip",
+      "filename": "FF4Dread.zip",
+      "size": 67050,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8039,
+      "title": "Final Fantasy IV - Battle With the Four Fiends",
+      "version": "smwc-8039-1312837469",
+      "upstream_time": 1312837469,
+      "download_url": "https://dl.smwcentral.net/8039/DreadfulBattle.zip",
+      "filename": "DreadfulBattle.zip",
+      "size": 74118,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

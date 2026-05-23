@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-cat-tales-overworld-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22195,
+  "title": "Super Cat Tales - Overworld Map",
+  "authors": [
+    "Be11"
+  ],
+  "tags": [
+    "calm",
+    "overworld"
+  ],
+  "description": "The overworld theme from Super Cat Tales/Super Cat Bros.; fits calm overworld areas.<br>\r\n<br>\r\nEdit: Adjusted volume; slight echo (#1-5) and surround (#1-2) enabled.",
+  "latest_version": "smwc-22195-1582319364",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22195,
+      "title": "Super Cat Tales - Overworld Map",
+      "version": "smwc-22195-1582319364",
+      "upstream_time": 1582319364,
+      "download_url": "https://dl.smwcentral.net/22195/Overworld%20Map.zip",
+      "filename": "Overworld Map.zip",
+      "size": 29948,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

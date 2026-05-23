@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-potted-spiked-funguy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16171,
+  "title": "Potted Spiked Funguy",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "cactus",
+    "lorom",
+    "pot",
+    "sa-1",
+    "smw2",
+    "yoshi's island"
+  ],
+  "description": "The cactus-like creature from SMW2:YI. It can walk without a pot or jump while riding one depending on the extra bit.<br>\r\n<br>\r\nThis sprite was part of smkdan's YI Pack 3, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16171-1504282572",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16171,
+      "title": "Potted Spiked Funguy",
+      "version": "smwc-16171-1504282572",
+      "upstream_time": 1504282572,
+      "download_url": "https://dl.smwcentral.net/16171/YIPottedFunguy.zip",
+      "filename": "YIPottedFunguy.zip",
+      "size": 4515,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-piledriver-micro-goomba",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28899,
+  "title": "Piledriver Micro-Goomba",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "block",
+    "desert",
+    "enemy",
+    "lorom",
+    "micro-goomba",
+    "piledriver micro-goomba",
+    "sa-1"
+  ],
+  "description": "This is the Piledriver Micro-Goomba from SMB3 which is seen in some Desert world levels. The sprite has been ported from SMB3's code directly, but with some changes to the code to add more functionality.<br>\r\n<br>\r\nThe intent is that the \"disguised\" block will be ExAnimated with Brick Block graphics, however these are not provided. Instead, they will use the Turn Block graphics in SP1.<br>\r\n<br>\r\nThe 8x8 Goomba is by default tile 7F in SP3, but you can easily change this as needed.<br>\r\n<br>\r\nNOTE: The Micro-Goomba's downward velocity can reach x70 when falling, which is known to create issues with SMW's default object collision.<br>\r\nFrom certain heights, the sprite sprite can clip through the floors that are not entirely solid, such as tile 100.<br>\r\nTo better mitigate the chance of this occurring, it is recommended to use this sprite in areas where flat, entirely solid ground is the expected terrain for it to travel on.<br>\r\n<br>\r\nI opted not to fix this, as it'd require a lower downward Y speed or multiple instances of the object collision routine would need to be run.<br>\r\nIf you want to lower the Y speed, you can do so by changing line 295 (a \"CMP #$70\").",
+  "latest_version": "smwc-28899-1658137086",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28899,
+      "title": "Piledriver Micro-Goomba",
+      "version": "smwc-28899-1658137086",
+      "upstream_time": 1658137086,
+      "download_url": "https://dl.smwcentral.net/28899/PileDriver_MicroGoomba.zip",
+      "filename": "PileDriver_MicroGoomba.zip",
+      "size": 8102,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

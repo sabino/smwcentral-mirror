@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-s-return-to-dream-land-desert-area-kirby-s-dream-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25625,
+  "title": "Kirby's Return to Dream Land - Desert Area (Kirby's Dream Land 3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "athletic",
+    "desert"
+  ],
+  "description": "I ported 'Kirby's Return to Dream Land's Desert Area' in the KDL3 style.<br>\r\nI personally like this song.<br>\r\n<br>\r\nEdit : used synthvoice, Optimization",
+  "latest_version": "smwc-25625-1610148286",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25625,
+      "title": "Kirby's Return to Dream Land - Desert Area (Kirby's Dream Land 3 Style)",
+      "version": "smwc-25625-1610148286",
+      "upstream_time": 1610148286,
+      "download_url": "https://dl.smwcentral.net/25625/DesertArea%28KDL3%29.zip",
+      "filename": "DesertArea(KDL3).zip",
+      "size": 55264,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

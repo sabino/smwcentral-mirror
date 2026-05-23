@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-shop-blocks-on-bonus-star-count",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3851,
+  "title": "Shop Blocks on Bonus Star Count",
+  "authors": [
+    "Tahixham"
+  ],
+  "tags": [
+    "bonus stars",
+    "lorom",
+    "shop"
+  ],
+  "description": "This is just like the other shop blocks, but this is for Bonus Stars - I did NOT base these of them, I coded them myself, and Alcaro helped a bit as well.<br>\r\n<br>\r\nIt has blocks for Mushrooms, Starman, Cape and Fire Flower - And prices can be changed in the ASM file",
+  "latest_version": "smwc-3851-1426200288",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3851,
+      "title": "Shop Blocks on Bonus Star Count",
+      "version": "smwc-3851-1426200288",
+      "upstream_time": 1426200288,
+      "download_url": "https://dl.smwcentral.net/3851/bonus.zip",
+      "filename": "bonus.zip",
+      "size": 3057,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

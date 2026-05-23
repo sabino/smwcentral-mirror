@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-rocko-s-modern-life-spunky-s-dangerous-day-unbalanced-load",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 6982,
+  "title": "Rocko's Modern Life: Spunky's Dangerous Day - Unbalanced Load",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "castle",
+    "mechanical",
+    "needs remoderation"
+  ],
+  "description": "A background used in the laundromat levels in Rocko's Modern Life - Spunky's Dangerous Day for the SNES. Credit isn't required if you use this, but it would be appreciated.<br>\r\n<br>\r\nNote: If you want to use this BG with the foreground that this BG was used with in the original game, you're going to need to move the palette in row 7 to row 0 to make room for the FG's palette. Palette row 7 is set up so that it will only overwrite the unused layer 3 colors, so there's no need to worry about messing up the status bar palette. You'll also need to combine the ExGFXC4.bin that comes with this submission and the one that comes in the other one.",
+  "latest_version": "smwc-6982-1405349043",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 6982,
+      "title": "Rocko's Modern Life: Spunky's Dangerous Day - Unbalanced Load",
+      "version": "smwc-6982-1405349043",
+      "upstream_time": 1405349043,
+      "download_url": "https://dl.smwcentral.net/6982/Rocko%27s%20Modern%20Life%20-%20Spunky%27s%20Dangerous%20Day%20%28SNES%29%20-%20Unbalanced%20Load%20FG.zip",
+      "filename": "Rocko%27s Modern Life - Spunky%27s Dangerous Day (SNES) - Unbalanced Load FG.zip",
+      "size": 11750,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 6981,
+      "title": "Rocko's Modern Life: Spunky's Dangerous Day - Unbalanced Load",
+      "version": "smwc-6981-1405349098",
+      "upstream_time": 1405349098,
+      "download_url": "https://dl.smwcentral.net/6981/Rocko%27s%20Modern%20Life%20-%20Spunky%27s%20Dangerous%20Day%20%28SNES%29%20-%20Unbalanced%20Load%20BG.zip",
+      "filename": "Rocko%27s Modern Life - Spunky%27s Dangerous Day (SNES) - Unbalanced Load BG.zip",
+      "size": 5944,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

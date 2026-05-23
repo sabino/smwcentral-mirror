@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-battleclash-space-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37091,
+  "title": "BattleClash - Space Map",
+  "authors": [
+    "icrawfish"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "overworld",
+    "space",
+    "tense"
+  ],
+  "description": "The tense theme for the final map of BattleClash. Good for final areas.",
+  "latest_version": "smwc-37091-1710087303",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37091,
+      "title": "BattleClash - Space Map",
+      "version": "smwc-37091-1710087303",
+      "upstream_time": 1710087303,
+      "download_url": "https://dl.smwcentral.net/37091/BC%20-%20Space%20Map.zip",
+      "filename": "BC - Space Map.zip",
+      "size": 32068,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37090,
+      "title": "BattleClash - Space Map",
+      "version": "smwc-37090-1710087287",
+      "upstream_time": 1710087287,
+      "download_url": "https://dl.smwcentral.net/37090/BattleClash%20-%20Space%20Map.zip",
+      "filename": "BattleClash - Space Map.zip",
+      "size": 28438,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

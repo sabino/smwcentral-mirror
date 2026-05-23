@@ -1,0 +1,44 @@
+{
+  "name": "smwmusic-off-clockwork",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29912,
+  "title": "OFF - Clockwork",
+  "authors": [
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "bonus",
+    "cutscene",
+    "dark",
+    "environmental",
+    "ghost house",
+    "mysterious",
+    "space",
+    "spooky",
+    "switch palace",
+    "tense",
+    "water"
+  ],
+  "description": "A very eerie song used during the final area of Zone 1 from OFF, ported for VLDC11's Green Switch Palace. Useful for ghost houses or stressful office environments.<br>\r\n<br>\r\nThe exact source samples weren't found, so I took some liberties with percussion and string.<br>\r\n<br>\r\nCredit appreciated.",
+  "latest_version": "smwc-29912-1659276576",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29912,
+      "title": "OFF - Clockwork",
+      "version": "smwc-29912-1659276576",
+      "upstream_time": 1659276576,
+      "download_url": "https://dl.smwcentral.net/29912/%5BS%5D%20OFF%20-%20Clockwork.zip",
+      "filename": "%5BS%5D OFF - Clockwork.zip",
+      "size": 79091,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

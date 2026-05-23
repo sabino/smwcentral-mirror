@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-nintendo-m82-nes-demo-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16531,
+  "title": "Nintendo M82 (NES) - Demo Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "athletic",
+    "overworld",
+    "sky",
+    "space",
+    "title"
+  ],
+  "description": "A demonstration song from Nintendo M82 (NES).",
+  "latest_version": "smwc-16531-1509730278",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16531,
+      "title": "Nintendo M82 (NES) - Demo Theme",
+      "version": "smwc-16531-1509730278",
+      "upstream_time": 1509730278,
+      "download_url": "https://dl.smwcentral.net/16531/Nintendo%20M82%20%28NES%29%20-%20Demo%20Theme.zip",
+      "filename": "Nintendo M82 (NES) - Demo Theme.zip",
+      "size": 32988,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

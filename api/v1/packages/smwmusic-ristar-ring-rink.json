@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-ristar-ring-rink",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14061,
+  "title": "Ristar - Ring Rink",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "ice"
+  ],
+  "description": "A Christmas-y sounding song for icy levels",
+  "latest_version": "smwc-14061-1469989906",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14061,
+      "title": "Ristar - Ring Rink",
+      "version": "smwc-14061-1469989906",
+      "upstream_time": 1469989906,
+      "download_url": "https://dl.smwcentral.net/14061/Ring%20Rink.zip",
+      "filename": "Ring Rink.zip",
+      "size": 32936,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-cold",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20508,
+  "title": "Cold",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "sad",
+    "water"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\n\"You're lost in a frozen dungeon, trying to find a way out. Will you make it or freeze to death?\" - This was one of the first rounds [of Idol 5]; I had to use uneven instruments only.",
+  "latest_version": "smwc-20508-1562573161",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20508,
+      "title": "Cold",
+      "version": "smwc-20508-1562573161",
+      "upstream_time": 1562573161,
+      "download_url": "https://dl.smwcentral.net/20508/CUSTOM%20-%20Cold.zip",
+      "filename": "CUSTOM - Cold.zip",
+      "size": 34141,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

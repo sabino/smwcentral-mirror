@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-p-balloon-interactable-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 8683,
+  "title": "P-balloon Interactable Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "balloon",
+    "lorom",
+    "p-balloon",
+    "puzzle"
+  ],
+  "description": "These 4 blocks are useful for puzzle/balloon levels that interact with the player differently, these include:<br>\r\n<br>\r\n-a reuseable solid block that makes mario balloon if he's hitting the bottom or spinjumping the top.*<br>\r\n-an \"anti-balloon\" block that takes away mario's balloon.<br>\r\n-a block that is solid when mario isn't balloon mode.<br>\r\n-a block that is solid when mario is balloon mode. (balloon timer won't expire when mario is inside, to prevent dying inside/falling inside the now-solid block).<br>\r\n<br>\r\n*Note that it actually spawns the sprite on the player, rather than setting the timer and flags, (due to the fact that mario has no controls when doing that). You can use any SP4 and glitch graphics still aren't visible (you see some pixels around mario but not a major problem).<br>\r\n<br>\r\nyou might need <a href=\"http://www.smwcentral.net/?p=section&a=details&id=4695\"> Balloon direction fix</a><br>\r\nso mario can face left/right (unlike the <a href=\"http://www.smwcentral.net/?p=section&a=details&id=4454\"> P-balloon/Cloud Fix</a> which mario can still go faster holding left+right (but not through walls))<br>\r\n<br>\r\nNOTE2: balloon mario is immune to damage if he is inside balloon_passable.asm so he can't die instantly afterwards (even though he isn't small), I also use a check so it doesn't lower his flashing invulnerabilty timer (when if he takes damage, gets the balloon, then touches the balloon pass block while prior flashing, wouldn't set it to 1 (being the minimum value the block allows), thats why there is a branch)<br>\r\n<br>\r\n<span style=\"color: #E00000\">Tester's Note: There's like a 1/100 chance you don't collect the P-balloon after it spawns when hitting the corner in some weird way. Can't really reproduce it with certainty. Maybe you want to set SP4 after all.</span>",
+  "latest_version": "smwc-8683-1431628530",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 8683,
+      "title": "P-balloon Interactable Blocks",
+      "version": "smwc-8683-1431628530",
+      "upstream_time": 1431628530,
+      "download_url": "https://dl.smwcentral.net/8683/p-balloonV5.zip",
+      "filename": "p-balloonV5.zip",
+      "size": 13380,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

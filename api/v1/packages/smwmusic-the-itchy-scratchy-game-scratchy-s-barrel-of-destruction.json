@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-itchy-scratchy-game-scratchy-s-barrel-of-destruction",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33909,
+  "title": "The Itchy & Scratchy Game - Scratchy's Barrel of Destruction",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "bonus",
+    "boss",
+    "chase"
+  ],
+  "description": "Annoying pirate boss music from The Itchy & Scratchy Game on SNES. Probably works for weird bonus rooms, too. Not for longer levels unless you want the player to go insane.",
+  "latest_version": "smwc-33909-1696382390",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33909,
+      "title": "The Itchy & Scratchy Game - Scratchy's Barrel of Destruction",
+      "version": "smwc-33909-1696382390",
+      "upstream_time": 1696382390,
+      "download_url": "https://dl.smwcentral.net/33909/Itchy%20%26%20Scratchy%20-%20Scratchy%27s%20Barrel%20of%20Destruction.zip",
+      "filename": "Itchy %26 Scratchy - Scratchy%27s Barrel of Destruction.zip",
+      "size": 31707,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

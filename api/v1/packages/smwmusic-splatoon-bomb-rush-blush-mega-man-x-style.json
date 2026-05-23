@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-splatoon-bomb-rush-blush-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25648,
+  "title": "Splatoon - Bomb Rush Blush(Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "boss",
+    "night"
+  ],
+  "description": "Today, I remixed the song of Splatoon.<br>\r\nIt seems that the capacity that can be optimized is up to 0x0971.<br>\r\n<br>\r\nedit : I reduced the tick of a particular section by one to ease the gap.",
+  "latest_version": "smwc-25648-1610579051",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25648,
+      "title": "Splatoon - Bomb Rush Blush(Mega Man X Style)",
+      "version": "smwc-25648-1610579051",
+      "upstream_time": 1610579051,
+      "download_url": "https://dl.smwcentral.net/25648/BombRushBlush%20%28MMX%29.zip",
+      "filename": "BombRushBlush (MMX).zip",
+      "size": 64205,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

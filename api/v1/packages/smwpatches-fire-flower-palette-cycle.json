@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-fire-flower-palette-cycle",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 30882,
+  "title": "Fire Flower Palette Cycle",
+  "authors": [
+    "aroohwahoou"
+  ],
+  "tags": [
+    "fire flower",
+    "lorom",
+    "palette",
+    "sa-1",
+    "smb1"
+  ],
+  "description": "A simple patch that adds palette cycling to Fire Flowers, similar to SMB1. You can easily change what palettes it cycles through in the ASM file. Does not affect the item reserve box.<br>\r\n<br>\r\nA simple example GFX is included.",
+  "latest_version": "smwc-30882-1665215485",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 30882,
+      "title": "Fire Flower Palette Cycle",
+      "version": "smwc-30882-1665215485",
+      "upstream_time": 1665215485,
+      "download_url": "https://dl.smwcentral.net/30882/FlowerPaletteCycle.zip",
+      "filename": "FlowerPaletteCycle.zip",
+      "size": 3188,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

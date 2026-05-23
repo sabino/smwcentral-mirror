@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-jeopardy-think-smas",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38025,
+  "title": "Jeopardy! - Think! (SMAS)",
+  "authors": [
+    "ShivjotRangi"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "With Final Jeopardy! For thinking and/or puzzle strategy levels.<br>\r\n<br>\r\n\"You have 30 seconds, good luck!\" -Alex Trebek<br>\r\n<br>\r\nSource: <a href=\"https://www.youtube.com/watch?v=XoNIPpUmH6c\" rel=\"nofollow\">https://www.youtube.com/watch?v=XoNIPpUmH6c</a>",
+  "latest_version": "smwc-38025-1723742308",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38025,
+      "title": "Jeopardy! - Think! (SMAS)",
+      "version": "smwc-38025-1723742308",
+      "upstream_time": 1723742308,
+      "download_url": "https://dl.smwcentral.net/38025/Jeopardy%21%20-%20Think%21.zip",
+      "filename": "Jeopardy%21 - Think%21.zip",
+      "size": 32076,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

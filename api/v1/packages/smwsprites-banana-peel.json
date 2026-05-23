@@ -1,0 +1,33 @@
+{
+  "name": "smwsprites-banana-peel",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34967,
+  "title": "Banana Peel",
+  "authors": [
+    "Nowieso"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A simple sprite that stuns the player when touched. If the extra bit is set, it will destroy itself after some frames.",
+  "latest_version": "smwc-34967-1697929443",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34967,
+      "title": "Banana Peel",
+      "version": "smwc-34967-1697929443",
+      "upstream_time": 1697929443,
+      "download_url": "https://dl.smwcentral.net/34967/banana.zip",
+      "filename": "banana.zip",
+      "size": 4433,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-onward",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31762,
+  "title": "Onward!",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "overworld",
+    "sky"
+  ],
+  "description": "A short, adventurous piece of music intended for the main overworld.",
+  "latest_version": "smwc-31762-1663999487",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31762,
+      "title": "Onward!",
+      "version": "smwc-31762-1663999487",
+      "upstream_time": 1663999487,
+      "download_url": "https://dl.smwcentral.net/31762/onward.zip",
+      "filename": "onward.zip",
+      "size": 25117,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

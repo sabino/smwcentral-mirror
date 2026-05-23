@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-extended-sprite-despawn-range-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 33432,
+  "title": "Extended Sprite Despawn Range Fix",
+  "authors": [
+    "HammerBrother",
+    "Isikoro"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "despawn",
+    "extended sprites",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch modifies the despawn handling and OAM of most of the extended sprites so that they can safely go offscreen without issues:<br>\r\n<br>\r\n-They disappear if the top-left part of the 16x16 bounding box of the sprite touches the left and top edges of the screen. This is very noticeable (and annoying) with the Hammer Brother's hammer if the Hammer Brother is near the top of the screen. Plus this patch lets you modify the boundaries (or range) on where they despawn.<br>\r\n<br>\r\n-Some extended sprites like the Torpedo Ted arm wraps the screen due to simply writing <kbd>#$00</kbd> or <kbd>#$02</kbd> to <a href=\"https://smwc.me/m/smw/ram/7E0420/\"><kbd>$0420</kbd></a> as a whole byte rather than using bitwise operations to only write on bit 1 (<kbd>%000000<u>S</u>0</kbd>).<br>\r\n<br>\r\nThis all the extended sprite except the unused one (extended sprite <kbd>$09</kbd>). I do not know what this was intended for.<br>\r\n<br>\r\nThis patch requires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24642\">Extended No Sprite Tile Limits v3.1</a> patch.(Not required if <a href=\"https://www.smwcentral.net/?p=section&a=details&id=33300\">More Extended Sprites</a> patch is applied.)<br>\r\n<br>\r\nif the More Extended Sprites patch is applied, the effects of this patch will not apply to the Lava splash.(because it is treated as a Minor Sprites).",
+  "latest_version": "smwc-33432-1710107216",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 33432,
+      "title": "Extended Sprite Despawn Range Fix",
+      "version": "smwc-33432-1710107216",
+      "upstream_time": 1710107216,
+      "download_url": "https://dl.smwcentral.net/33432/ExtendedSpriteDespawnRangeFix_2023-03-04.zip",
+      "filename": "ExtendedSpriteDespawnRangeFix_2023-03-04.zip",
+      "size": 7709,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

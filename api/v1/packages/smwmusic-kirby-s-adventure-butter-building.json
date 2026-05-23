@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-kirby-s-adventure-butter-building",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23148,
+  "title": "Kirby's Adventure - Butter Building",
+  "authors": [
+    "Tornado"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "grassland",
+    "retro"
+  ],
+  "description": "Part of Tornado's 8-bit music pack. A peppy, fast paced song that can be used in a variety of situations.",
+  "latest_version": "smwc-23148-1590785751",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23148,
+      "title": "Kirby's Adventure - Butter Building",
+      "version": "smwc-23148-1590785751",
+      "upstream_time": 1590785751,
+      "download_url": "https://dl.smwcentral.net/23148/Kirby%27sAdventure-ButterBuilding.zip",
+      "filename": "Kirby%27sAdventure-ButterBuilding.zip",
+      "size": 51066,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11773,
+      "title": "Kirby's Adventure - Butter Building",
+      "version": "smwc-11773-1439223876",
+      "upstream_time": 1439223876,
+      "download_url": "https://dl.smwcentral.net/11773/Butter%20Building.zip",
+      "filename": "Butter Building.zip",
+      "size": 32508,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-volcano-lotus",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39910,
+  "title": "Volcano Lotus",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "lotus",
+    "sa-1",
+    "volcano lotus"
+  ],
+  "description": "This is a disassembly of sprite 99 in SMW - Volcano Lotus.",
+  "latest_version": "smwc-39910-1753846529",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39910,
+      "title": "Volcano Lotus",
+      "version": "smwc-39910-1753846529",
+      "upstream_time": 1753846529,
+      "download_url": "https://dl.smwcentral.net/39910/VolcanoLotusDisassembly.zip",
+      "filename": "VolcanoLotusDisassembly.zip",
+      "size": 4049,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

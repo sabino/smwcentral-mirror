@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-elite-ninji",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20385,
+  "title": "Elite Ninji",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "dangerous",
+    "enemy",
+    "lorom",
+    "mini boss",
+    "ninji",
+    "sa-1"
+  ],
+  "description": "A corageous ninji which will fight Mario bravely, dissapearing under a puff of smoke every time it touches the floor, only to be teleported and ready to attack again. It has multipe attacking options: dropping just above Mario, attacking him with a hammer and jumping towards him.<br>\r\n<br>\r\nIt's pretty customisable; for that, check the .asm file.",
+  "latest_version": "smwc-20385-1562654329",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20385,
+      "title": "Elite Ninji",
+      "version": "smwc-20385-1562654329",
+      "upstream_time": 1562654329,
+      "download_url": "https://dl.smwcentral.net/20385/Elite%20ninji.zip",
+      "filename": "Elite ninji.zip",
+      "size": 5125,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

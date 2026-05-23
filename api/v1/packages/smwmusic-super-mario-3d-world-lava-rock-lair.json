@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-3d-world-lava-rock-lair",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32241,
+  "title": "Super Mario 3D World - Lava Rock Lair",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "castle",
+    "fire"
+  ],
+  "description": "This is the music from the lava levels and some of the castles in Super Mario 3D World.",
+  "latest_version": "smwc-32241-1674924072",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32241,
+      "title": "Super Mario 3D World - Lava Rock Lair",
+      "version": "smwc-32241-1674924072",
+      "upstream_time": 1674924072,
+      "download_url": "https://dl.smwcentral.net/32241/Super%20Mario%203D%20World%20-%20Lava%20Rock%20Lair.zip",
+      "filename": "Super Mario 3D World - Lava Rock Lair.zip",
+      "size": 34551,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

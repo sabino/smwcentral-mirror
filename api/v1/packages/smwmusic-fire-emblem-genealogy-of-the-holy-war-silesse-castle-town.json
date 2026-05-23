@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-silesse-castle-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30262,
+  "title": "Fire Emblem: Genealogy of the Holy War - Silesse Castle Town",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "ice",
+    "overworld",
+    "snow"
+  ],
+  "description": "The City of Silesia from Fire Emblem 4.<br>\r\n<br>\r\nCan fit snowy overworlds and levels.",
+  "latest_version": "smwc-30262-1656625967",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30262,
+      "title": "Fire Emblem: Genealogy of the Holy War - Silesse Castle Town",
+      "version": "smwc-30262-1656625967",
+      "upstream_time": 1656625967,
+      "download_url": "https://dl.smwcentral.net/30262/Fire%20Emblem%204%20-%20The%20City%20of%20Silesia.zip",
+      "filename": "Fire Emblem 4 - The City of Silesia.zip",
+      "size": 53963,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

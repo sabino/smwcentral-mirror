@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-top-gear-hiroshima",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18709,
+  "title": "Top Gear - Hiroshima",
+  "authors": [
+    "crm0622"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grassland",
+    "mountain",
+    "sky"
+  ],
+  "description": "From the game called \"Top Gear\".<br>\r\nMay fit for athletic stages etc...<br>\r\n(Unrelated note, I heard this music first from \"Facedesk\" which is kaizo hack made by Katerpie. :P)",
+  "latest_version": "smwc-18709-1546198990",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18709,
+      "title": "Top Gear - Hiroshima",
+      "version": "smwc-18709-1546198990",
+      "upstream_time": 1546198990,
+      "download_url": "https://dl.smwcentral.net/18709/top_gear.zip",
+      "filename": "top_gear.zip",
+      "size": 38176,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8195,
+      "title": "Top Gear - Hiroshima",
+      "version": "smwc-8195-1387763688",
+      "upstream_time": 1387763688,
+      "download_url": "https://dl.smwcentral.net/8195/Top%20Gear%20-%20Race%202.zip",
+      "filename": "Top Gear - Race 2.zip",
+      "size": 65251,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-metroid-crateria-underground",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36747,
+  "title": "Super Metroid - Crateria Underground",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "ambient",
+    "cutscene",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36747-1706162670",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36747,
+      "title": "Super Metroid - Crateria Underground",
+      "version": "smwc-36747-1706162670",
+      "upstream_time": 1706162670,
+      "download_url": "https://dl.smwcentral.net/36747/91%20Crateria%20Underground.zip",
+      "filename": "91 Crateria Underground.zip",
+      "size": 205944,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

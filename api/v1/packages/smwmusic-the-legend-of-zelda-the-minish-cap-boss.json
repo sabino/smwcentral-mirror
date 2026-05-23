@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-minish-cap-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31235,
+  "title": "The Legend of Zelda: The Minish Cap - Boss",
+  "authors": [
+    "StayAtHomeStegosaurus"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "final"
+  ],
+  "description": "The boss fight music from The Legend of Zelda: The Minish Cap. I felt this was good enough for my second port to upload, and, you guessed it, it would be great to use during a boss fight!",
+  "latest_version": "smwc-31235-1674577466",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31235,
+      "title": "The Legend of Zelda: The Minish Cap - Boss",
+      "version": "smwc-31235-1674577466",
+      "upstream_time": 1674577466,
+      "download_url": "https://dl.smwcentral.net/31235/TLoZMC-Boss%20Battle%20Remix.zip",
+      "filename": "TLoZMC-Boss Battle Remix.zip",
+      "size": 58273,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

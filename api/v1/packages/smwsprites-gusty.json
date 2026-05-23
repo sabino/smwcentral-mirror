@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-gusty",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16129,
+  "title": "Gusty",
+  "authors": [
+    "Romi"
+  ],
+  "tags": [
+    "enemy",
+    "ghost",
+    "lorom",
+    "sa-1",
+    "smw2",
+    "yoshi's island"
+  ],
+  "description": "The ghost-like creature from SMW2:YI. It's similar to the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16147\">Cloud Drop</a>, but flies straightforward.<br>\r\n<br>\r\nThis sprite was part of Romi's Sprite Package, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16129-1504027362",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16129,
+      "title": "Gusty",
+      "version": "smwc-16129-1504027362",
+      "upstream_time": 1504027362,
+      "download_url": "https://dl.smwcentral.net/16129/YIGusty.zip",
+      "filename": "YIGusty.zip",
+      "size": 4292,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

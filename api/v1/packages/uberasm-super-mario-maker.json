@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-super-mario-maker",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 24403,
+  "title": "Super Mario Maker 2 - Red Yoshi",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "super mario maker 2",
+    "yoshi"
+  ],
+  "description": "This UberASM changes Red Yoshi's behavior to be similar to what happens in SMM2: Yoshi can't stick out his tongue, but he can breathe fire without needing a shell in his mouth. Normally, he spits out a single straight fireball, but if Mario has the fire power, he'll spit out 3.<br>\r\nCheck out the asm file for some customization options.",
+  "latest_version": "smwc-24403-1599059430",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 24403,
+      "title": "Super Mario Maker 2 - Red Yoshi",
+      "version": "smwc-24403-1599059430",
+      "upstream_time": 1599059430,
+      "download_url": "https://dl.smwcentral.net/24403/SMM2RedYoshi.zip",
+      "filename": "SMM2RedYoshi.zip",
+      "size": 2117,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

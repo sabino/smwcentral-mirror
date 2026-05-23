@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-teleport-based-on-time-remaining-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 27398,
+  "title": "Teleport Based on Time Remaining v1.1",
+  "authors": [
+    "BlueToad"
+  ],
+  "tags": [
+    "door",
+    "doors",
+    "lorom",
+    "sa-1",
+    "teleport",
+    "timer"
+  ],
+  "description": "A simple door block which teleports you to the screen exit if the timer is under a specified number, or else it teleports you to a specified secondary exit.<br>\r\n<br>\r\nIn the GIF, the player is teleported to different places depending on whether the timer is less than 100 or not.<br>\r\nAlso please excuse the GIF's quality, I had to massively compress it to make it fit within the file size limit of 1MB, and as a result, lost most of its quality. <br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Rykon-V73\"><a href=\"/?p=profile&amp;id=207\" style=\"color: var(--user-color-1);\" class=\"un\">Rykon-V73</a></span>.<br>\r\n<br>\r\nv1.1 update 5/8/2021: added support for SA-1.",
+  "latest_version": "smwc-27398-1640258177",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 27398,
+      "title": "Teleport Based on Time Remaining v1.1",
+      "version": "smwc-27398-1640258177",
+      "upstream_time": 1640258177,
+      "download_url": "https://dl.smwcentral.net/27398/TimedDoor.zip",
+      "filename": "TimedDoor.zip",
+      "size": 842,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

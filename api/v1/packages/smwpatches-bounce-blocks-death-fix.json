@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-bounce-blocks-death-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 25647,
+  "title": "Bounce Blocks Death Fix",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "death",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This small patch fixes the issue where you can trigger bouncing blocks when dying. This can more commonly happen with invisible blocks, when dying while inside of them.",
+  "latest_version": "smwc-25647-1610456680",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 25647,
+      "title": "Bounce Blocks Death Fix",
+      "version": "smwc-25647-1610456680",
+      "upstream_time": 1610456680,
+      "download_url": "https://dl.smwcentral.net/25647/InvisiBlkDeathFix.zip",
+      "filename": "InvisiBlkDeathFix.zip",
+      "size": 344,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

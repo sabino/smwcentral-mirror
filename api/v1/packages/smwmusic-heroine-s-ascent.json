@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-heroine-s-ascent",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26231,
+  "title": "Heroine's Ascent",
+  "authors": [
+    "TheGremlin"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "mountain",
+    "retro",
+    "ruins",
+    "temple"
+  ],
+  "description": "Many tales have been told about the brave heroine's ascent of the perilous mountain.<br>\r\n<br>\r\nCould fit mountainous or adventurous areas, maybe cutscenes?<br>\r\n<br>\r\nPlease credit if you use this in your hack, thank you :)",
+  "latest_version": "smwc-26231-1616025879",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26231,
+      "title": "Heroine's Ascent",
+      "version": "smwc-26231-1616025879",
+      "upstream_time": 1616025879,
+      "download_url": "https://dl.smwcentral.net/26231/Heroine%27s%20Ascent.zip",
+      "filename": "Heroine%27s Ascent.zip",
+      "size": 63715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

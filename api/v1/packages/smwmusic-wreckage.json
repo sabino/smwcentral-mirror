@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-wreckage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8483,
+  "title": "Wreckage",
+  "authors": [
+    "Kritter"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "final",
+    "overworld",
+    "temple"
+  ],
+  "description": "A composition with a very dark, evil feeling on it. It would fit to a final submap, or a cutscene before a battle with the final boss.",
+  "latest_version": "smwc-8483-1388690179",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8483,
+      "title": "Wreckage",
+      "version": "smwc-8483-1388690179",
+      "upstream_time": 1388690179,
+      "download_url": "https://dl.smwcentral.net/8483/Wreckage.zip",
+      "filename": "Wreckage.zip",
+      "size": 63078,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

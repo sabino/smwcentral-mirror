@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-breath-of-fire-ii-crooked-ladder",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26525,
+  "title": "Breath of Fire II - Crooked Ladder",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "ambient",
+    "castle",
+    "dark",
+    "ghost house",
+    "ice",
+    "ruins",
+    "sad",
+    "spooky"
+  ],
+  "description": "A haunting little song that's also fit for ice and ruins.<br>\r\nPlaced 4th at spc contest of March 2021.<br>\r\nProps to musicalman and his sample pack of insanity.",
+  "latest_version": "smwc-26525-1618614946",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26525,
+      "title": "Breath of Fire II - Crooked Ladder",
+      "version": "smwc-26525-1618614946",
+      "upstream_time": 1618614946,
+      "download_url": "https://dl.smwcentral.net/26525/bof2_crooked_ladder_0_1.zip",
+      "filename": "bof2_crooked_ladder_0_1.zip",
+      "size": 41259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

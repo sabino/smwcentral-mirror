@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-knuckles-chaotix-tube-panic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34303,
+  "title": "Knuckles' Chaotix - Tube Panic",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "ice",
+    "overworld",
+    "switch palace"
+  ],
+  "description": "The theme of the lesser-known blue sphere-getting special stage from the Sonic series. Knuckles and friends run through Polyhedron Land collecting orbs in a stage that truly shows off the 32X's capabilities.<br>\r\n<br>\r\nI had to sacrifice panning accuracy on those background @4s in favour of actually including both notes as a chord sample. The joys of 8 channels.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-34303-1693477293",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34303,
+      "title": "Knuckles' Chaotix - Tube Panic",
+      "version": "smwc-34303-1693477293",
+      "upstream_time": 1693477293,
+      "download_url": "https://dl.smwcentral.net/34303/tubepanic.zip",
+      "filename": "tubepanic.zip",
+      "size": 49695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

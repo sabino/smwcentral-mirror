@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-diagonal-turn-block-bridge",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39529,
+  "title": "Diagonal Turn Block Bridge",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This turn block bridge opens up diagonally.<br>\r\nNote that due to the amount of processing time this sprite takes, SA-1 may be needed for a better experience.",
+  "latest_version": "smwc-39529-1747630240",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39529,
+      "title": "Diagonal Turn Block Bridge",
+      "version": "smwc-39529-1747630240",
+      "upstream_time": 1747630240,
+      "download_url": "https://dl.smwcentral.net/39529/diag_turn_block_bridge.zip",
+      "filename": "diag_turn_block_bridge.zip",
+      "size": 3203,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

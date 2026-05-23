@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-multi-step-autoscroll-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41204,
+  "title": "Multi-step Autoscroll V1.1",
+  "authors": [
+    "mathie",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "autoscroll",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This code allows you to create your own special autoscroll that goes where you want at the speed you want, much like the generator used in Butter Bridge 1 (level 00C) in the original game.<br>\r\n<br>\r\nIt works by using tables where you store X/Y speeds for each step of the autoscroll. It allows the use of fractional speeds and can be paused/resumed anytime you want using a flag. Plus, all the free RAM used can be easily changed to avoid conflicts, and the whole scrolling code can either stop or loop when it reaches the end of the tables.<br>\r\n<br>\r\nUPDATE: You can now setup a custom code that will interrupt the autoscroll and be executed at certain points in time. This way, you force the player to progress only if a certain thing has been done.<br>\r\nDefault code is the classic \"advance if all sprites have been killed\".<br>\r\n<br>\r\nDetails in .asm file.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed a warning about LDA $XX,y not being a valid opcode when inserting this to non-SA-1 ROMs.<br>\r\n- Added mention of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40600\">this patch</a> in case users run into issues with sprites spawning.<br>\r\n- Made !ListLength automatic, so the user doesn't need to keep track of the size of the ignored sprite list.<br>\r\n- Fixed a bug where this runs during no Yoshi intros.<br>\r\n- Added throw blocks, Peach, the bonus game, winged cage, layer 3 smasher, side exit, ball n' chain, Bowser, wooden spikes, and Bowser statue to the list of ignored sprites.<br>\r\n- Fixed an oversight where the sprite check breaks when not using PIXI.<br>\r\n- Made various minor code optimizations.",
+  "latest_version": "smwc-41204-1772912351",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41204,
+      "title": "Multi-step Autoscroll V1.1",
+      "version": "smwc-41204-1772912351",
+      "upstream_time": 1772912351,
+      "download_url": "https://dl.smwcentral.net/41204/MultiStepAutoscrollV1.1.zip",
+      "filename": "MultiStepAutoscrollV1.1.zip",
+      "size": 3401,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

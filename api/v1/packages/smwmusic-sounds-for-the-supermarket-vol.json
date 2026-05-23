@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sounds-for-the-supermarket-vol",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23733,
+  "title": "Sounds for the Supermarket Vol. 1 (Karl Jenkins - Mr. Lucky)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "calm",
+    "grocery",
+    "overworld",
+    "town"
+  ],
+  "description": "The only SMW song to feature subliminal messaging encouraging you to buy groceries.<br>\r\n<br>\r\nOriginally featured in YUMP 2.",
+  "latest_version": "smwc-23733-1594693397",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23733,
+      "title": "Sounds for the Supermarket Vol. 1 (Karl Jenkins - Mr. Lucky)",
+      "version": "smwc-23733-1594693397",
+      "upstream_time": 1594693397,
+      "download_url": "https://dl.smwcentral.net/23733/supermarket.zip",
+      "filename": "supermarket.zip",
+      "size": 75464,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

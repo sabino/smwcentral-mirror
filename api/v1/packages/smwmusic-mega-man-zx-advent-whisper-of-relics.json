@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-zx-advent-whisper-of-relics",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30272,
+  "title": "Mega Man ZX Advent - Whisper of Relics",
+  "authors": [
+    "CrimsonZN"
+  ],
+  "tags": [
+    "final",
+    "ruins"
+  ],
+  "description": "Faithful recreation of Whispers of Relics from Mega Man ZX Advent. It has some hair of finality, so it could fit for final levels.<br>\r\n<br>\r\nThis one was tricky. To get past the polyphony issue I had to make several samples for the choir and for the flute, so I could have a little more flexibility there.",
+  "latest_version": "smwc-30272-1658797360",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30272,
+      "title": "Mega Man ZX Advent - Whisper of Relics",
+      "version": "smwc-30272-1658797360",
+      "upstream_time": 1658797360,
+      "download_url": "https://dl.smwcentral.net/30272/Whisper%20of%20Relics.zip",
+      "filename": "Whisper of Relics.zip",
+      "size": 77894,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

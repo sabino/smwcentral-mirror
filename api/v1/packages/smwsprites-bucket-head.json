@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-bucket-head",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3260,
+  "title": "Bucket Head",
+  "authors": [
+    "RussianMan",
+    "ghettoyouth"
+  ],
+  "tags": [
+    "enemy",
+    "ice",
+    "lorom",
+    "projectile",
+    "sa-1",
+    "wario land"
+  ],
+  "description": "Enclosed is a Bucket Head and snowflakes.<br>\r\n<br>\r\nThe Bucket Head shoots snowflakes at Mario, that can freeze him or damage him (Or both). The Snowflake Sprite must be inserted as the very next Sprite.<br>\r\n<br>\r\nExGFX included.",
+  "latest_version": "smwc-3260-1205202982",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3260,
+      "title": "Bucket Head",
+      "version": "smwc-3260-1205202982",
+      "upstream_time": 1205202982,
+      "download_url": "https://dl.smwcentral.net/3260/Bucket%20Head%20Wario%20Land%201.zip",
+      "filename": "Bucket Head Wario Land 1.zip",
+      "size": 5622,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

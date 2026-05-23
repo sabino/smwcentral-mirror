@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tiny-toon-adventures-nes-haunted-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7324,
+  "title": "Tiny Toon Adventures (NES) - Haunted Forest",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "dark",
+    "forest"
+  ],
+  "description": "The catchy song that plays in the haunted forest level in Tiny Toon Adventures.  Would suit a dark forest level (natch)",
+  "latest_version": "smwc-7324-1400669605",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7324,
+      "title": "Tiny Toon Adventures (NES) - Haunted Forest",
+      "version": "smwc-7324-1400669605",
+      "upstream_time": 1400669605,
+      "download_url": "https://dl.smwcentral.net/7324/Haunted%20Forest.zip",
+      "filename": "Haunted Forest.zip",
+      "size": 65493,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

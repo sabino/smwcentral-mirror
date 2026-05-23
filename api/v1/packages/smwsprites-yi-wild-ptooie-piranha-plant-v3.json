@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-yi-wild-ptooie-piranha-plant-v3",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 35190,
+  "title": "YI Wild Ptooie & Piranha Plant v3.1",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "piranha",
+    "ptooie",
+    "sa-1",
+    "yoshi island"
+  ],
+  "description": "YI Wild Piranha Plant v3.0:<br>\r\nThis is my second time re-coding this sprite. It now uses \"gradual\" rotation when hit instead of directly setting the value. It shares GFX with the Ptooie.<br>\r\n<br>\r\nYI Wild Ptooie v3.0:<br>\r\nThis is my first time coding the Wild Ptooie, but there were already two versions made by smkdan. The main features in this one are: \"gradual\" rotation, scaling head when tracking, and facing-down frames.<br>\r\n<br>\r\nIncludes a document on how to customize the Wild Ptooie<br>\r\n<br>\r\nv3.1 (spooonsss): convert to asar and pixi. Support for SA-1.",
+  "latest_version": "smwc-35190-1738029155",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 35190,
+      "title": "YI Wild Ptooie & Piranha Plant v3.1",
+      "version": "smwc-35190-1738029155",
+      "upstream_time": 1738029155,
+      "download_url": "https://dl.smwcentral.net/35190/YI%20Wild%20Ptooie%20and%20Piranha%20Plant%20v3.1.zip",
+      "filename": "YI Wild Ptooie and Piranha Plant v3.1.zip",
+      "size": 49648,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

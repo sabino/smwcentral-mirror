@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-ninja-gaiden-nes-seeking-truth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27118,
+  "title": "Ninja Gaiden (NES) - Seeking Truth",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "mountain",
+    "mysterious",
+    "night",
+    "ruins",
+    "temple"
+  ],
+  "description": "Seeking Trurh from Ninja Gaiden.<br>\r\n",
+  "latest_version": "smwc-27118-1624212404",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27118,
+      "title": "Ninja Gaiden (NES) - Seeking Truth",
+      "version": "smwc-27118-1624212404",
+      "upstream_time": 1624212404,
+      "download_url": "https://dl.smwcentral.net/27118/Seeking_Truth.zip",
+      "filename": "Seeking_Truth.zip",
+      "size": 31395,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

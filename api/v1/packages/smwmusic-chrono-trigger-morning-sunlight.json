@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-chrono-trigger-morning-sunlight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37101,
+  "title": "Chrono Trigger - Morning Sunlight",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "misc"
+  ],
+  "description": "The song that plays when you first wake up in Chrono Trigger.<br>\r\n<br>\r\nRequested by <a href=\"https://www.smwcentral.net/?p=profile&id=229\"><span style=\"color: #97acef;\"><b>Hamtaro126</b></span></a><br>\r\n<br>\r\nNote: Incompatible with Thunder and Bonus End",
+  "latest_version": "smwc-37101-1710354421",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37101,
+      "title": "Chrono Trigger - Morning Sunlight",
+      "version": "smwc-37101-1710354421",
+      "upstream_time": 1710354421,
+      "download_url": "https://dl.smwcentral.net/37101/CT_Morning%20Sunlight.zip",
+      "filename": "CT_Morning Sunlight.zip",
+      "size": 38562,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-underground-beats",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12501,
+  "title": "Underground Beats",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "athletic",
+    "cave"
+  ],
+  "description": "A remix of the underground themes from SMB1, 2 and World.",
+  "latest_version": "smwc-12501-1446321960",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12501,
+      "title": "Underground Beats",
+      "version": "smwc-12501-1446321960",
+      "upstream_time": 1446321960,
+      "download_url": "https://dl.smwcentral.net/12501/woo.zip",
+      "filename": "woo.zip",
+      "size": 39831,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

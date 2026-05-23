@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-bowser-strikes-back-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34526,
+  "title": "Bowser Strikes Back - Battle",
+  "authors": [
+    "Jimmy"
+  ],
+  "tags": [
+    "boss"
+  ],
+  "description": "Part of the Bowser Strikes Back soundtrack, originally updated by <span class=\"un-outer\" title=\"Gamma V\"><a href=\"/?p=profile&amp;id=13617\" style=\"color: var(--user-color-3);\" class=\"un\">Gamma V</a></span> in 2017.",
+  "latest_version": "smwc-34526-1690702792",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34526,
+      "title": "Bowser Strikes Back - Battle",
+      "version": "smwc-34526-1690702792",
+      "upstream_time": 1690702792,
+      "download_url": "https://dl.smwcentral.net/34526/data.zip",
+      "filename": "data.zip",
+      "size": 51933,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-explosion-sensitive-blocks",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12428,
+  "title": "Explosion Sensitive Blocks",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "bob-omb",
+    "bobomb",
+    "explosion",
+    "lorom",
+    "needs remoderation",
+    "sa-1"
+  ],
+  "description": "This patch allows you to make explosion destroy specified blocks upon having touched them, as shown <a href=\"http://www.youtube.com/watch?v=-AmWHv-hI4U&feature=channel_video_title\" rel=\"nofollow\">in this video</a>. More information in the readme and .asm file.<br>\r\nCredit not needed.<br>\r\n<i>Moderator's note: It doesn't obey the Acts Like settings, but it's easy enough to expand the table if you need more explodable blocks.</i>",
+  "latest_version": "smwc-12428-1456987274",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12428,
+      "title": "Explosion Sensitive Blocks",
+      "version": "smwc-12428-1456987274",
+      "upstream_time": 1456987274,
+      "download_url": "https://dl.smwcentral.net/12428/Explosion%20Sensitivity.zip",
+      "filename": "Explosion Sensitivity.zip",
+      "size": 5375,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

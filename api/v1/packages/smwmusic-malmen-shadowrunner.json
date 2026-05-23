@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-malmen-shadowrunner",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32583,
+  "title": "Malmen - Shadowrunner",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "grassland",
+    "retro",
+    "sky"
+  ],
+  "description": "A happy chiptune track.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Phyll\"><a href=\"/?p=profile&amp;id=44317\" style=\"color: var(--user-color-1);\" class=\"un\">Phyll</a></span>",
+  "latest_version": "smwc-32583-1675291009",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32583,
+      "title": "Malmen - Shadowrunner",
+      "version": "smwc-32583-1675291009",
+      "upstream_time": 1675291009,
+      "download_url": "https://dl.smwcentral.net/32583/Shadowrunner.zip",
+      "filename": "Shadowrunner.zip",
+      "size": 66517,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

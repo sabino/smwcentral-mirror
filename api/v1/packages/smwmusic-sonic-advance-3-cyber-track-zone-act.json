@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-sonic-advance-3-cyber-track-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20318,
+  "title": "Sonic Advance 3 - Cyber Track Zone Act 1",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "industrial",
+    "urban"
+  ],
+  "description": "Act 1 of Cyber Track Zone from Sonic Advance 3. I tried my best to fit everything I could in here. Don't scream at me if anything is missing. Could fit in abnormal levels or levels with a lot of technology. Omits @7, @14, @17, and @21.",
+  "latest_version": "smwc-20318-1562118164",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20318,
+      "title": "Sonic Advance 3 - Cyber Track Zone Act 1",
+      "version": "smwc-20318-1562118164",
+      "upstream_time": 1562118164,
+      "download_url": "https://dl.smwcentral.net/20318/sonic_adv3_-_cyber_track_act_1.zip",
+      "filename": "sonic_adv3_-_cyber_track_act_1.zip",
+      "size": 88878,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11582,
+      "title": "Sonic Advance 3 - Cyber Track Zone Act 1",
+      "version": "smwc-11582-1437620288",
+      "upstream_time": 1437620288,
+      "download_url": "https://dl.smwcentral.net/11582/Sonic%20Advance%203%20-%20Cyber%20Track%20Act%201%20%28S%29.zip",
+      "filename": "Sonic Advance 3 - Cyber Track Act 1 (S).zip",
+      "size": 57969,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7134,
+      "title": "Sonic Advance 3 - Cyber Track Zone Act 2",
+      "version": "smwc-7134-1312816953",
+      "upstream_time": 1312816953,
+      "download_url": "https://dl.smwcentral.net/7134/Cyber%20Track%20Act%202.zip",
+      "filename": "Cyber Track Act 2.zip",
+      "size": 68505,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

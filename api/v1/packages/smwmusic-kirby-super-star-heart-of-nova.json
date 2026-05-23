@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-kirby-super-star-heart-of-nova",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31740,
+  "title": "Kirby Super Star - Heart of Nova",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "space",
+    "tense"
+  ],
+  "description": "Creepy space battle music.",
+  "latest_version": "smwc-31740-1672090100",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31740,
+      "title": "Kirby Super Star - Heart of Nova",
+      "version": "smwc-31740-1672090100",
+      "upstream_time": 1672090100,
+      "download_url": "https://dl.smwcentral.net/31740/53%20Heart%20of%20Nova.zip",
+      "filename": "53 Heart of Nova.zip",
+      "size": 59550,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

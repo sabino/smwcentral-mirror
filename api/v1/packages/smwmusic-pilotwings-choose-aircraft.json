@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-pilotwings-choose-aircraft",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29847,
+  "title": "Pilotwings - Choose Aircraft",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "mountain",
+    "overworld"
+  ],
+  "description": "Ready to choose a level? Because this short track will make you feel that way.<br>\r\n<br>\r\nGood for overworlds and short bonus rooms.",
+  "latest_version": "smwc-29847-1651350567",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29847,
+      "title": "Pilotwings - Choose Aircraft",
+      "version": "smwc-29847-1651350567",
+      "upstream_time": 1651350567,
+      "download_url": "https://dl.smwcentral.net/29847/Pilotwings%20Aircraft%20%5Bu%5D.zip",
+      "filename": "Pilotwings Aircraft %5Bu%5D.zip",
+      "size": 32137,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29846,
+      "title": "Pilotwings - Choose Aircraft",
+      "version": "smwc-29846-1651349845",
+      "upstream_time": 1651349845,
+      "download_url": "https://dl.smwcentral.net/29846/Pilotwings%20Aircraft%20%5Bs%5D.zip",
+      "filename": "Pilotwings Aircraft %5Bs%5D.zip",
+      "size": 37729,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

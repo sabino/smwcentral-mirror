@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-papercut-chain-bridge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40392,
+  "title": "Papercut - Chain Bridge",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "final",
+    "industrial",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Chain Bridge from a cancelled hack, Papercut.<br>\r\n<br>\r\nOmits Thunder, Yoshi and Bonus End (@7).",
+  "latest_version": "smwc-40392-1756151391",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40392,
+      "title": "Papercut - Chain Bridge",
+      "version": "smwc-40392-1756151391",
+      "upstream_time": 1756151391,
+      "download_url": "https://dl.smwcentral.net/40392/Papercut%20-%20Chain%20Bridge.zip",
+      "filename": "Papercut - Chain Bridge.zip",
+      "size": 83472,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

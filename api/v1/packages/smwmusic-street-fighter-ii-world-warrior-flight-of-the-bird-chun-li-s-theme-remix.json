@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-street-fighter-ii-world-warrior-flight-of-the-bird-chun-li-s-theme-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23811,
+  "title": "Street Fighter II: World Warrior - Flight of the Bird ~ Chun Li's Theme (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "athletic",
+    "sky"
+  ],
+  "description": "<span style=\"font-size: 16pt;\"><span style=\"color: #0077ff;\">𝙄'𝙢 𝙩𝙝𝙚 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙨𝙩 𝙬𝙤𝙢𝙖𝙣 𝙞𝙣 𝙩𝙝𝙚 𝙬𝙤𝙧𝙡𝙙.</span></span><br>\r\n<br>\r\nA remix of Chun Li's Stage (China) from <i>Street Fighter II: World Warrior</i>.<br>\r\n<br>\r\nThis baby can fit athletic, sky, and eastern stages. Also great for stages that take place in China.<br>\r\n<br>\r\n<b>Note:</b><br>\r\n- There is a \"!READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n- The Thunder SFX and @7 are disabled.<br>\r\nThere are two customizable pitches for this song that you can adjust in the song file:<br>\r\n- d minor (Classic)<br>\r\n- b minor (Super Street Fighter II)<br>\r\n<br>\r\nFun fact: I got the idea to add pitch changes to my ports from the changes between the songs in the original Street Fighter II and the Super Street Fighter II Soundtrack.",
+  "latest_version": "smwc-23811-1595952300",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23811,
+      "title": "Street Fighter II: World Warrior - Flight of the Bird ~ Chun Li's Theme (Remix)",
+      "version": "smwc-23811-1595952300",
+      "upstream_time": 1595952300,
+      "download_url": "https://dl.smwcentral.net/23811/Flight_of_the_Bird.zip",
+      "filename": "Flight_of_the_Bird.zip",
+      "size": 126115,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

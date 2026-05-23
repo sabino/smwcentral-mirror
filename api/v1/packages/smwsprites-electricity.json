@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-electricity",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42369,
+  "title": "Electricity",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "electricity",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "\"Electricity\" sprite by mikeyk converted to PIXI, i've also included the spark GFX from SMB2.",
+  "latest_version": "smwc-42369-1778887684",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42369,
+      "title": "Electricity",
+      "version": "smwc-42369-1778887684",
+      "upstream_time": 1778887684,
+      "download_url": "https://dl.smwcentral.net/42369/electricity.zip",
+      "filename": "electricity.zip",
+      "size": 5105,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

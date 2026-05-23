@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-display-message",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3509,
+  "title": "Display Message 1",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "sa-1"
+  ],
+  "description": "Sprite 19 in SMW, disassembled. It's the display message from message box one sprite.<br>\r\n<br>\r\nIf the extra bit is set it will display the level's second message.<br>\r\nIf the extension field in lunar magic is set to a non-0 value it'll read from that level.<br>\r\nNote that you need to subtract #$DC for levels above 24 to get the correct value.<br>\r\n<br>\r\nTo be assembled with PIXI.",
+  "latest_version": "smwc-3509-1253040188",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3509,
+      "title": "Display Message 1",
+      "version": "smwc-3509-1253040188",
+      "upstream_time": 1253040188,
+      "download_url": "https://dl.smwcentral.net/3509/msg1.zip",
+      "filename": "msg1.zip",
+      "size": 717,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

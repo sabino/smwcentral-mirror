@@ -1,0 +1,57 @@
+{
+  "name": "smwgraphics-lemmings",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 440,
+  "title": "Lemmings 2: The Tribes - Egypt Tribe",
+  "authors": [
+    "Doggycharly"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "needs remoderation",
+    "pyramid"
+  ],
+  "description": "Ripped from the SNES version<br>\r\n<br>\r\nUses palette 7",
+  "latest_version": "smwc-440-1413213599",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 440,
+      "title": "Lemmings 2: The Tribes - Egypt Tribe",
+      "version": "smwc-440-1413213599",
+      "upstream_time": 1413213599,
+      "download_url": "https://dl.smwcentral.net/440/hi%20there%2C%20i%20am%20mr%20awesome.zip",
+      "filename": "hi there%2C i am mr awesome.zip",
+      "size": 3520,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 414,
+      "title": "Lemmings 2: The Tribes - Highland Tribe",
+      "version": "smwc-414-1417551290",
+      "upstream_time": 1417551290,
+      "download_url": "https://dl.smwcentral.net/414/gfx.zip",
+      "filename": "gfx.zip",
+      "size": 3298,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 240,
+      "title": "Lemmings 2: The Tribes - Egyptian",
+      "version": "smwc-240-1372002676",
+      "upstream_time": 1372002676,
+      "download_url": "https://dl.smwcentral.net/240/lemmings2egypt.zip",
+      "filename": "lemmings2egypt.zip",
+      "size": 2332,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

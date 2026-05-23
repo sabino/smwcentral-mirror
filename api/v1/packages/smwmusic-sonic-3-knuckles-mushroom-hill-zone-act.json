@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-sonic-3-knuckles-mushroom-hill-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40617,
+  "title": "Sonic 3 & Knuckles - Mushroom Hill Zone Act 1",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "jungle",
+    "upbeat"
+  ],
+  "description": "A lively and upbeat port of Mushroom Hill Zone Act 1 from Sonic & Knuckles. Can fit a forest/jungle levels.",
+  "latest_version": "smwc-40617-1773214429",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40617,
+      "title": "Sonic 3 & Knuckles - Mushroom Hill Zone Act 1",
+      "version": "smwc-40617-1773214429",
+      "upstream_time": 1773214429,
+      "download_url": "https://dl.smwcentral.net/40617/Sonic%203%20%26%20Knuckles%20-%20Mushroom%20Hill%20Zone%20Act%201.zip",
+      "filename": "Sonic 3 %26 Knuckles - Mushroom Hill Zone Act 1.zip",
+      "size": 33122,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18846,
+      "title": "Sonic 3 & Knuckles - Mushroom Hill Zone Act 1",
+      "version": "smwc-18846-1547005140",
+      "upstream_time": 1547005140,
+      "download_url": "https://dl.smwcentral.net/18846/Mushroom%20Hill.zip",
+      "filename": "Mushroom Hill.zip",
+      "size": 93770,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15389,
+      "title": "Sonic 3 & Knuckles - Mushroom Hill Zone Act 2",
+      "version": "smwc-15389-1491775137",
+      "upstream_time": 1491775137,
+      "download_url": "https://dl.smwcentral.net/15389/Mushroom%20Hill%20Act%202.zip",
+      "filename": "Mushroom Hill Act 2.zip",
+      "size": 32072,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

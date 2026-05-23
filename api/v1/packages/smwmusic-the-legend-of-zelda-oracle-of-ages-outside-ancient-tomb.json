@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-oracle-of-ages-outside-ancient-tomb",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23765,
+  "title": "The Legend of Zelda: Oracle of Ages - Outside Ancient Tomb",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "mountain",
+    "night",
+    "overworld"
+  ],
+  "description": "A port of the music outside Level 8 in Zelda: Oracle of Ages. Could suit a submap, mountain treks, some forests and calm night levels.",
+  "latest_version": "smwc-23765-1595208527",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23765,
+      "title": "The Legend of Zelda: Oracle of Ages - Outside Ancient Tomb",
+      "version": "smwc-23765-1595208527",
+      "upstream_time": 1595208527,
+      "download_url": "https://dl.smwcentral.net/23765/Ancient%20Tomb%20Entrance.zip",
+      "filename": "Ancient Tomb Entrance.zip",
+      "size": 31102,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

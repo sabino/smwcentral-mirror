@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-crash-bandicoot-slippery-climb-stormy-ascent",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36893,
+  "title": "Crash Bandicoot - Slippery Climb/Stormy Ascent",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "ghost house",
+    "night",
+    "sky",
+    "spooky"
+  ],
+  "description": "A creepy and tense theme that plays in the outdoor castle levels from Crash Bandicoot, which includes Slippery Climb and Stormy Ascent, the later being an unused level in the original game that was scrapped for being extremely hard but was later brought back in the N. Sane Trilogy remake.<br>\r\n<br>\r\nUpdate (02/16): fixed the pitch of some percussion samples",
+  "latest_version": "smwc-36893-1708798937",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36893,
+      "title": "Crash Bandicoot - Slippery Climb/Stormy Ascent",
+      "version": "smwc-36893-1708798937",
+      "upstream_time": 1708798937,
+      "download_url": "https://dl.smwcentral.net/36893/CB%20-%20Slippery%20Climb.zip",
+      "filename": "CB - Slippery Climb.zip",
+      "size": 77266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

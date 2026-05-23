@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-skope-arpeggiator",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23228,
+  "title": "Skope - Arpeggiator",
+  "authors": [
+    "Nikku4211"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "cave",
+    "dark",
+    "overworld",
+    "retro",
+    "space"
+  ],
+  "description": "This song is called 'Arpeggiator', and it was composed by Skope in 1998 for the Commodore Amiga in the .MOD ProTracker format. This song is repepetitive and simple, so I felt like it was a good fit for the AddMusicK engine.",
+  "latest_version": "smwc-23228-1591278427",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23228,
+      "title": "Skope - Arpeggiator",
+      "version": "smwc-23228-1591278427",
+      "upstream_time": 1591278427,
+      "download_url": "https://dl.smwcentral.net/23228/arpeggiator_.zip",
+      "filename": "arpeggiator_.zip",
+      "size": 31099,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

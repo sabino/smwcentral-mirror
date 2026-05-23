@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-castle-intro-ledge-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 34038,
+  "title": "Castle Intro Ledge Fix",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "object",
+    "sa-1"
+  ],
+  "description": "This simple patch fixes the bug with object 3B in tileset T:1 (the ledge used in no Yoshi castle intros) where it breaks if it extends to a screen boundary (the bottom row appears on the next screen). This is usually noticeable in the intros where the bottom pixel is cutoff. Note that the object will still look broken in Lunar Magic, but it will look fine in game.",
+  "latest_version": "smwc-34038-1695972970",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 34038,
+      "title": "Castle Intro Ledge Fix",
+      "version": "smwc-34038-1695972970",
+      "upstream_time": 1695972970,
+      "download_url": "https://dl.smwcentral.net/34038/castle_ledge_fix.zip",
+      "filename": "castle_ledge_fix.zip",
+      "size": 387,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

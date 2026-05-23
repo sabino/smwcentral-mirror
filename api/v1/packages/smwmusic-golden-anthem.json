@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-golden-anthem",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8256,
+  "title": "Golden Anthem",
+  "authors": [
+    "PianoArt"
+  ],
+  "tags": [
+    "castle",
+    "final"
+  ],
+  "description": "An epic-sounding composition in e minor. Would fit great into the last level of a hack.",
+  "latest_version": "smwc-8256-1342939180",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8256,
+      "title": "Golden Anthem",
+      "version": "smwc-8256-1342939180",
+      "upstream_time": 1342939180,
+      "download_url": "https://dl.smwcentral.net/8256/golden_anthem_by_pian0art.zip",
+      "filename": "golden_anthem_by_pian0art.zip",
+      "size": 69501,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

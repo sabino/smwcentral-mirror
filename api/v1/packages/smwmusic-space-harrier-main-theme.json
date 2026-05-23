@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-space-harrier-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22161,
+  "title": "Space Harrier - Main Theme",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "credits",
+    "space",
+    "tense"
+  ],
+  "description": "The very famous and nostalgic main theme from Space Harrier. Useful for credits/staff roll sequences, along with abstract/space/special world type of levels.<br>\r\n<br>\r\n<br>\r\n<br>\r\nReleased for the Super Nintenesis album.",
+  "latest_version": "smwc-22161-1581971048",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22161,
+      "title": "Space Harrier - Main Theme",
+      "version": "smwc-22161-1581971048",
+      "upstream_time": 1581971048,
+      "download_url": "https://dl.smwcentral.net/22161/spaceharrier.zip",
+      "filename": "spaceharrier.zip",
+      "size": 34092,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

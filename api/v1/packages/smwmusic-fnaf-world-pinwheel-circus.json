@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-fnaf-world-pinwheel-circus",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40331,
+  "title": "FNaF World - Pinwheel Circus",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "forest",
+    "overworld"
+  ],
+  "description": "A soft, moody song from FNaF World.",
+  "latest_version": "smwc-40331-1761964081",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40331,
+      "title": "FNaF World - Pinwheel Circus",
+      "version": "smwc-40331-1761964081",
+      "upstream_time": 1761964081,
+      "download_url": "https://dl.smwcentral.net/40331/FNaF%20World%20-%20Pinwheel%20Circus.zip",
+      "filename": "FNaF World - Pinwheel Circus.zip",
+      "size": 32167,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

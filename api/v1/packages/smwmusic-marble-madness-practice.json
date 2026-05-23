@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-marble-madness-practice",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19093,
+  "title": "Marble Madness - Practice",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "misc",
+    "p-switch",
+    "retro"
+  ],
+  "description": "The very short song that plays in the first level of Marble Madness.<br>\r\n<br>\r\nGreat for P-switches and the like.",
+  "latest_version": "smwc-19093-1549723713",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19093,
+      "title": "Marble Madness - Practice",
+      "version": "smwc-19093-1549723713",
+      "upstream_time": 1549723713,
+      "download_url": "https://dl.smwcentral.net/19093/Practice.zip",
+      "filename": "Practice.zip",
+      "size": 30031,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

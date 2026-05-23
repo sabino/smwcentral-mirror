@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-time-tangent-gale-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12584,
+  "title": "Mega Man: Time Tangent - Gale Man",
+  "authors": [
+    "Kaizo Zhang"
+  ],
+  "tags": [
+    "calm",
+    "industrial",
+    "retro",
+    "sky"
+  ],
+  "description": "From a Mega Man fan soundtrack. A Tornado Man-like but calmer sky theme.",
+  "latest_version": "smwc-12584-1446385824",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12584,
+      "title": "Mega Man: Time Tangent - Gale Man",
+      "version": "smwc-12584-1446385824",
+      "upstream_time": 1446385824,
+      "download_url": "https://dl.smwcentral.net/12584/Gale%20Man.zip",
+      "filename": "Gale Man.zip",
+      "size": 34368,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-twilight-princess-found-a-bug",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7121,
+  "title": "The Legend Of Zelda: Twilight Princess - Found a bug!",
+  "authors": [
+    "Kevinskie555"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "description": "The sound effect when you find a golden bug.",
+  "latest_version": "smwc-7121-1324187782",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7121,
+      "title": "The Legend Of Zelda: Twilight Princess - Found a bug!",
+      "version": "smwc-7121-1324187782",
+      "upstream_time": 1324187782,
+      "download_url": "https://dl.smwcentral.net/7121/Zelda_Bug.zip",
+      "filename": "Zelda_Bug.zip",
+      "size": 70552,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

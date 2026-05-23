@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-localization-prototype-title-screen-font",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 32832,
+  "title": "Super Mario World (Localization Prototype) - Title Screen / Font",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "2bpp",
+    "title screen"
+  ],
+  "description": "These are the GFX files used for GFX28, GFX29, GFX2A, and GFX2B in the Localization Beta for Super Mario World.<br>\r\n<br>\r\nA bps patch is included with the Beta Title Screen<br>\r\n<br>\r\nFor your reference, the default title screen is more or less identical to that of the Japanese release.<br>\r\n<br>\r\nSee the screenshots for a GIF showing the differences between the 2BPP graphics used in SMW US/JP's retail releases vs. the localization beta.<br>\r\n<br>\r\n<span style=\"color: #FF0000;\">NOTE: The rip found <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32820\">here</a> isolates solely the text box font, but excludes other tiles that existed in the prototype.<br>\r\nThis rip contains the four GFX files of GFX28, GFX29, GFX2A, and GFX2B, entirely unchanged from how they are seen in the prototype; intended for archival or beta restoration uses.</span>",
+  "latest_version": "smwc-32832-1672712996",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 32832,
+      "title": "Super Mario World (Localization Prototype) - Title Screen / Font",
+      "version": "smwc-32832-1672712996",
+      "upstream_time": 1672712996,
+      "download_url": "https://dl.smwcentral.net/32832/Localization%20Beta.zip",
+      "filename": "Localization Beta.zip",
+      "size": 79743,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

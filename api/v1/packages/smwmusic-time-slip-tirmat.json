@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-time-slip-tirmat",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39825,
+  "title": "Time Slip - Tirmat",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "castle",
+    "industrial"
+  ],
+  "description": "A very long and repetitive song from the game Timeslip. I mostly ported this for the novelty of it lol. This would fit best in castle or factory levels.",
+  "latest_version": "smwc-39825-1749076622",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39825,
+      "title": "Time Slip - Tirmat",
+      "version": "smwc-39825-1749076622",
+      "upstream_time": 1749076622,
+      "download_url": "https://dl.smwcentral.net/39825/08%20Tirmat.zip",
+      "filename": "08 Tirmat.zip",
+      "size": 50335,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

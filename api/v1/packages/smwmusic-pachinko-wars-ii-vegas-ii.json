@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pachinko-wars-ii-vegas-ii",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41771,
+  "title": "Pachinko Wars II - Vegas II",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "urban"
+  ],
+  "description": "Second tune heard throughout the Vegas mission of Pachinko Wars II.",
+  "latest_version": "smwc-41771-1776430605",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41771,
+      "title": "Pachinko Wars II - Vegas II",
+      "version": "smwc-41771-1776430605",
+      "upstream_time": 1776430605,
+      "download_url": "https://dl.smwcentral.net/41771/Pachinko%20Wars%20II%20-%20Vegas%20II.zip",
+      "filename": "Pachinko Wars II - Vegas II.zip",
+      "size": 70242,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

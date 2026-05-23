@@ -1,0 +1,30 @@
+{
+  "name": "smwmusic-sonic-advance-cosmic-angel-zone-mega-man-x3-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38790,
+  "title": "Sonic Advance - Cosmic Angel Zone (Mega Man X3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [],
+  "description": "Base : Intro Stage",
+  "latest_version": "smwc-38790-1735234907",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38790,
+      "title": "Sonic Advance - Cosmic Angel Zone (Mega Man X3 Style)",
+      "version": "smwc-38790-1735234907",
+      "upstream_time": 1735234907,
+      "download_url": "https://dl.smwcentral.net/38790/ComsicAngelZone_X3.zip",
+      "filename": "ComsicAngelZone_X3.zip",
+      "size": 75138,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

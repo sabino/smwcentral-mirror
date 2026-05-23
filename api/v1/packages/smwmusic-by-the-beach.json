@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-by-the-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7056,
+  "title": "By The Beach",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "beach",
+    "grassland"
+  ],
+  "description": "An upbeat, lively original song, good for beach or grassland levels.",
+  "latest_version": "smwc-7056-1319960418",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7056,
+      "title": "By The Beach",
+      "version": "smwc-7056-1319960418",
+      "upstream_time": 1319960418,
+      "download_url": "https://dl.smwcentral.net/7056/CUSTOM%2C%20By%20The%20Beach.zip",
+      "filename": "CUSTOM%2C By The Beach.zip",
+      "size": 72655,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

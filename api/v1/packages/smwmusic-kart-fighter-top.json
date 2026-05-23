@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kart-fighter-top",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31540,
+  "title": "Kart Fighter - Top 8",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "The triangle work here is insane.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31540-1663852509",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31540,
+      "title": "Kart Fighter - Top 8",
+      "version": "smwc-31540-1663852509",
+      "upstream_time": 1663852509,
+      "download_url": "https://dl.smwcentral.net/31540/Kart%20Fighter%20-%20Top%208.zip",
+      "filename": "Kart Fighter - Top 8.zip",
+      "size": 66849,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

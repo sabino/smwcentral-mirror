@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-rpg-tsukuru",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25683,
+  "title": "RPG Tsukuru 2 - Frozen Wasteland",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "snow",
+    "town"
+  ],
+  "description": "Frozen Wasteland from RPG Tsukuru 2. Fits well on icy areas.<br>\r\n<br>\r\nPorted from C3 Winter 2021.",
+  "latest_version": "smwc-25683-1610893757",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25683,
+      "title": "RPG Tsukuru 2 - Frozen Wasteland",
+      "version": "smwc-25683-1610893757",
+      "upstream_time": 1610893757,
+      "download_url": "https://dl.smwcentral.net/25683/RPG%20Tsukuru%202%20-%20Frozen%20Wasteland.zip",
+      "filename": "RPG Tsukuru 2 - Frozen Wasteland.zip",
+      "size": 33605,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-madou-monogatari-a-r-s-oddity-of-shenanigans",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32037,
+  "title": "Madou Monogatari A·R·S - Oddity of Shenanigans",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "forest",
+    "grassland",
+    "retro",
+    "switch palace",
+    "town"
+  ],
+  "description": "A happy dungeon music from Compile's dungeon crawl <i>Madou Monogatari A·R·S</i> for PC-98, a prequel to the series (localized in English as <i>Sorcery Saga</i>). It's used early in Arle Nadja's chapter. Could fit forest levels.",
+  "latest_version": "smwc-32037-1673488926",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32037,
+      "title": "Madou Monogatari A·R·S - Oddity of Shenanigans",
+      "version": "smwc-32037-1673488926",
+      "upstream_time": 1673488926,
+      "download_url": "https://dl.smwcentral.net/32037/Madou%20Monogatari%20ARS%20Oddity%20of%20Shenanigans%20v1.1.zip",
+      "filename": "Madou Monogatari ARS Oddity of Shenanigans v1.1.zip",
+      "size": 35769,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

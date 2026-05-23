@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dragon-warrior-rainbow-staff-rainbow-harp",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25083,
+  "title": "Dragon Warrior - Rainbow Staff (Rainbow Harp)",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "goal",
+    "keyhole",
+    "nintendo presents",
+    "retro"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for course clear, Nintendo presents, or a custom event.",
+  "latest_version": "smwc-25083-1604722489",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25083,
+      "title": "Dragon Warrior - Rainbow Staff (Rainbow Harp)",
+      "version": "smwc-25083-1604722489",
+      "upstream_time": 1604722489,
+      "download_url": "https://dl.smwcentral.net/25083/DragonQuest11RainbowBridge.zip",
+      "filename": "DragonQuest11RainbowBridge.zip",
+      "size": 30916,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

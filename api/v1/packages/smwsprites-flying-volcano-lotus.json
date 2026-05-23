@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-flying-volcano-lotus",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41156,
+  "title": "Flying Volcano Lotus",
+  "authors": [
+    "Darolac"
+  ],
+  "tags": [
+    "enemy",
+    "extended sprites",
+    "fire",
+    "flying",
+    "lorom",
+    "sa-1",
+    "volcano lotus",
+    "wings"
+  ],
+  "description": "This volcano lotus will fly around with customisable Y and X speed based on extra bytes 1 and 2 respectively.<br>\r\nAlternatively, if the extra byte 3 is set to 01, it will oscilate horizontally (extra bit clear) or vertically (extra bit set). Or, if the extra byte 3 is set to 02, it will fly down and left (extra bit clear) or up and right (extra bit set) in a wave type of motion.<br>\r\n<br>\r\nUsage with NMSTL is recommended. Based on Volcano Lotus dissasembly by Nekoh.",
+  "latest_version": "smwc-41156-1764384154",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41156,
+      "title": "Flying Volcano Lotus",
+      "version": "smwc-41156-1764384154",
+      "upstream_time": 1764384154,
+      "download_url": "https://dl.smwcentral.net/41156/flyinglotus.zip",
+      "filename": "flyinglotus.zip",
+      "size": 3730,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

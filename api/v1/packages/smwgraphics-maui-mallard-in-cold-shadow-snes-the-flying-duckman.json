@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-maui-mallard-in-cold-shadow-snes-the-flying-duckman",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 39048,
+  "title": "Maui Mallard in Cold Shadow (SNES) - The Flying Duckman",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "underwater"
+  ],
+  "description": "The background seen in the haunted and sunken ship, The Flying Duckman. Uses only four colors, since it was originally a layer 3 background. A good fit for underwater levels, in general.<br>\r\n<br>\r\nUPDATE: Massive GFX optimization, now it uses only two GFX slots. It now uses the final four colors of palette row 5, for better compatibility with most graphics from the site and to give freedom for the user to combine this with layer 3 stuff. Better looping of the background too.",
+  "latest_version": "smwc-39048-1736965876",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 39048,
+      "title": "Maui Mallard in Cold Shadow (SNES) - The Flying Duckman",
+      "version": "smwc-39048-1736965876",
+      "upstream_time": 1736965876,
+      "download_url": "https://dl.smwcentral.net/39048/Maui%20Mallard%20in%20Cold%20Shadow%20%28SNES%29%20-%20The%20Flying%20Duckman.zip",
+      "filename": "Maui Mallard in Cold Shadow (SNES) - The Flying Duckman.zip",
+      "size": 4594,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

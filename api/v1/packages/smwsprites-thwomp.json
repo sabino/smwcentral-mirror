@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-thwomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23825,
+  "title": "Thwomp",
+  "authors": [
+    "RussianMan",
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "thwimp",
+    "thwomp"
+  ],
+  "description": "This is a disassembly of sprite 26 in SMW - thwomp.<br>\r\n<br>\r\nComes with On/Off and mini versions by yoshicookiezeus.<br>\r\n<br>\r\nOn Extra Bit it'll move only on On/Off switch state, depending on variable.<br>\r\n<br>\r\n(I know that there was mikeyk's disassembly, but I felt like making my own version)<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-23825-1596778052",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23825,
+      "title": "Thwomp",
+      "version": "smwc-23825-1596778052",
+      "upstream_time": 1596778052,
+      "download_url": "https://dl.smwcentral.net/23825/ThwompDis.zip",
+      "filename": "ThwompDis.zip",
+      "size": 9014,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

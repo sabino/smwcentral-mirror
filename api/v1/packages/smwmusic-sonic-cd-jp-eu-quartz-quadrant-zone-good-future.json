@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-sonic-cd-jp-eu-quartz-quadrant-zone-good-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17410,
+  "title": "Sonic CD (JP/EU) - Quartz Quadrant Zone (Good Future)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld"
+  ],
+  "description": "completing the Quartz Quadrant port circle because why not<br>\r\n<br>\r\nThis is the Japanese Good Future theme of Quartz Quadrant from Sonic CD. A very peaceful theme that can be used quite well for a peaceful grassland overworld or level.<br>\r\n<br>\r\nNote: @15 is removed to make ARAM space, so you cannot use Yoshi in a level with this song.",
+  "latest_version": "smwc-17410-1524757043",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17410,
+      "title": "Sonic CD (JP/EU) - Quartz Quadrant Zone (Good Future)",
+      "version": "smwc-17410-1524757043",
+      "upstream_time": 1524757043,
+      "download_url": "https://dl.smwcentral.net/17410/Sonic%20CD%20%28JP%29%20-%20Quartz%20Quadrant%20%28Good%20Future%29.zip",
+      "filename": "Sonic CD (JP) - Quartz Quadrant (Good Future).zip",
+      "size": 99804,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

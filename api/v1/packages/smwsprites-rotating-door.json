@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-rotating-door",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 39906,
+  "title": "Rotating Door",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "door",
+    "lorom",
+    "pacifist",
+    "rotating",
+    "sa-1"
+  ],
+  "description": "This is a door that rotates, similar to those found in Yoshi's Island.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"imamelia\"><span title=\"imamelia donated $50.00.\" class=\"icon icon-donor\"></span><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=3471\" style=\"color: var(--user-color-1);\" class=\"un\">imamelia</a></span> duing Winter C3 2023.",
+  "latest_version": "smwc-39906-1761801762",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 39906,
+      "title": "Rotating Door",
+      "version": "smwc-39906-1761801762",
+      "upstream_time": 1761801762,
+      "download_url": "https://dl.smwcentral.net/39906/Rotating%20Door.zip",
+      "filename": "Rotating Door.zip",
+      "size": 12362,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mario-kart-ds-yoshi-falls",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8521,
+  "title": "Mario Kart DS - Yoshi Falls",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "jungle"
+  ],
+  "description": "A marimba-and-percussion-heavy song that would best suit a jungle level.",
+  "latest_version": "smwc-8521-1395288841",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8521,
+      "title": "Mario Kart DS - Yoshi Falls",
+      "version": "smwc-8521-1395288841",
+      "upstream_time": 1395288841,
+      "download_url": "https://dl.smwcentral.net/8521/Yoshi%20Falls.zip",
+      "filename": "Yoshi Falls.zip",
+      "size": 65382,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

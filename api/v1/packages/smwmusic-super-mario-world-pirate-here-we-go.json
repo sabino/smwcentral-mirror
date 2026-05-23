@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-mario-world-pirate-here-we-go",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28096,
+  "title": "Super Mario World (Pirate) - Here We Go!",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "retro"
+  ],
+  "description": "The Sampled version of the Here We Go! Theme from Bootleg SMW.<br>\r\n<br>\r\nCan be used in grassland levels. (and troll ones)<br>\r\n<br>\r\nOf course, midi by PalaceSwitcher.",
+  "latest_version": "smwc-28096-1635453060",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28096,
+      "title": "Super Mario World (Pirate) - Here We Go!",
+      "version": "smwc-28096-1635453060",
+      "upstream_time": 1635453060,
+      "download_url": "https://dl.smwcentral.net/28096/Super%20Mario%20World%20%28Pirated%29%20-%20Here%20We%20Go%21%20Sampled.zip",
+      "filename": "Super Mario World (Pirated) - Here We Go%21 Sampled.zip",
+      "size": 34691,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27710,
+      "title": "Super Mario World (Pirate) - Here We Go!",
+      "version": "smwc-27710-1630895826",
+      "upstream_time": 1630895826,
+      "download_url": "https://dl.smwcentral.net/27710/Super%20Mario%20World%20%28Pirated%29%20-%20Here%20We%20Go%21.zip",
+      "filename": "Super Mario World (Pirated) - Here We Go%21.zip",
+      "size": 31155,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

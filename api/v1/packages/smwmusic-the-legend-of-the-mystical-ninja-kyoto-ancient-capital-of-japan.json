@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-the-legend-of-the-mystical-ninja-kyoto-ancient-capital-of-japan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22056,
+  "title": "The Legend of the Mystical Ninja - Kyoto ~ Ancient Capital of Japan",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "calm",
+    "grassland"
+  ],
+  "description": "One more port of this song from Ganbare Goemon, this time my own unsampled arrangement of it. Pretty nice for eastern-themed grassland levels.",
+  "latest_version": "smwc-22056-1580454921",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22056,
+      "title": "The Legend of the Mystical Ninja - Kyoto ~ Ancient Capital of Japan",
+      "version": "smwc-22056-1580454921",
+      "upstream_time": 1580454921,
+      "download_url": "https://dl.smwcentral.net/22056/lmnkyoto.zip",
+      "filename": "lmnkyoto.zip",
+      "size": 33344,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21717,
+      "title": "The Legend of the Mystical Ninja - Kyoto ~ Ancient Capital of Japan",
+      "version": "smwc-21717-1577833175",
+      "upstream_time": 1577833175,
+      "download_url": "https://dl.smwcentral.net/21717/LotMN_-_Kyoto.zip",
+      "filename": "LotMN_-_Kyoto.zip",
+      "size": 41364,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

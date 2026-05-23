@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-3-nov-1993-prototype-ice-cap-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22544,
+  "title": "Sonic the Hedgehog 3 (Nov. 1993 Prototype) - Ice Cap Zone Act 2",
+  "authors": [
+    "MANGOMILK"
+  ],
+  "tags": [
+    "cave",
+    "ice",
+    "snow"
+  ],
+  "description": "the Not Hard Times ice cap song! this one is based moreso on the proto ver even though i used the PC midi to help so i've titled it accordingly while still trying to make it sound ok",
+  "latest_version": "smwc-22544-1586040355",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22544,
+      "title": "Sonic the Hedgehog 3 (Nov. 1993 Prototype) - Ice Cap Zone Act 2",
+      "version": "smwc-22544-1586040355",
+      "upstream_time": 1586040355,
+      "download_url": "https://dl.smwcentral.net/22544/IceCap2PC.zip",
+      "filename": "IceCap2PC.zip",
+      "size": 34527,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22533,
+      "title": "Sonic the Hedgehog 3 (Nov. 1993 Prototype) - Ice Cap Zone Act 1",
+      "version": "smwc-22533-1586044323",
+      "upstream_time": 1586044323,
+      "download_url": "https://dl.smwcentral.net/22533/Ice%20Cap%201%20PC.zip",
+      "filename": "Ice Cap 1 PC.zip",
+      "size": 34259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-sledge-bro-ex",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3205,
+  "title": "Sledge Bro EX",
+  "authors": [
+    "Schwa"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "It's mikeyk's Sledge Bro, and I made him nasty. He takes two stomps to kill, not just one, and the first stomp has a nice effect of throwing him backwards as he takes damage while flashing through the sprite palettes. Note that he can't be stomped a second time until the flashing finishes (preventing a cheap and easy win).<br>\r\n<br>\r\nSecondly, setting the Extra Bit causes him to throw THREE HAMMERS AT ONCE, which spread out in a nifty triangle formation. Don't think you can hide inside the blind spot inside his arc anymore either-- you have to dodge BETWEEN the hammers, and since they fall at a diagonal angle you have to compensate for that too.<br>\r\n<br>\r\nYou can use this souped up sprite to wreak serious havoc for a hapless Mario fan when he reaches your level!<br>\r\n<br>\r\nNo Readme included and everything in the .ASM is organized and very neatly documented.<br>\r\n<br>\r\nGive credit if used or tweaked.",
+  "latest_version": "smwc-3205-1231038527",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3205,
+      "title": "Sledge Bro EX",
+      "version": "smwc-3205-1231038527",
+      "upstream_time": 1231038527,
+      "download_url": "https://dl.smwcentral.net/3205/sledge_ex.zip",
+      "filename": "sledge_ex.zip",
+      "size": 7995,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-jumpy-grinder",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41534,
+  "title": "Jumpy Grinder",
+  "authors": [
+    "Medic"
+  ],
+  "tags": [
+    "grinder",
+    "jumping",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is very simple: It's a constantly jumping grinder. Height is customizable. Don't credit me, credit Iceguy for the awesome dissasembly. (you can credit me if you want :3)<br>\r\n<br>\r\nMod edit: Don't make it able to reach a ceiling, since it will pass through it!",
+  "latest_version": "smwc-41534-1770253097",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41534,
+      "title": "Jumpy Grinder",
+      "version": "smwc-41534-1770253097",
+      "upstream_time": 1770253097,
+      "download_url": "https://dl.smwcentral.net/41534/Jumpy%20Grinder.zip",
+      "filename": "Jumpy Grinder.zip",
+      "size": 2883,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "smwmusic-grand-theft-auto-iv-soviet-connection",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35557,
+  "title": "Grand Theft Auto IV - Soviet Connection",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "cave",
+    "dark",
+    "desert",
+    "ghost house",
+    "industrial",
+    "mysterious",
+    "night",
+    "spooky",
+    "tense",
+    "title",
+    "urban"
+  ],
+  "description": "Fits best in epic title screens and dark/mysterious levels.",
+  "latest_version": "smwc-35557-1704559762",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35557,
+      "title": "Grand Theft Auto IV - Soviet Connection",
+      "version": "smwc-35557-1704559762",
+      "upstream_time": 1704559762,
+      "download_url": "https://dl.smwcentral.net/35557/GTA4Theme.zip",
+      "filename": "GTA4Theme.zip",
+      "size": 34505,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

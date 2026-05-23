@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-yoshi-shell-combiner",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 22844,
+  "title": "Yoshi Shell Combiner",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "shell",
+    "uberasm needed",
+    "yoshi"
+  ],
+  "description": "This block can consume a Yoshi and a shell of any colour, and combine them to produce a Yoshi with the colour of the shell it was fed. It can retain the Yoshi and/or shell it was fed across sublevels, and will only accept the first Yoshi/shell it's given until a Yoshi has been spawned. It will also refuse to spawn a Yoshi if there is already a Yoshi or Baby Yoshi in the level.<br>\r\n<br>\r\nNote that it will not work with the special \"double hit\" green shell (sprite #$DF).<br>\r\n<br>\r\nUses 1 byte of freeram.<br>\r\n<br>\r\nIncludes an optional exanimated AN2 file and an UberASM to control the exanimation trigger (uses custom trigger 0 by default).<br>\r\n<br>\r\nCredit is unnecessary but appreciated.",
+  "latest_version": "smwc-22844-1591273418",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 22844,
+      "title": "Yoshi Shell Combiner",
+      "version": "smwc-22844-1591273418",
+      "upstream_time": 1591273418,
+      "download_url": "https://dl.smwcentral.net/22844/Combiner%20Asar2.zip",
+      "filename": "Combiner Asar2.zip",
+      "size": 2795,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

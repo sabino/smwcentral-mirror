@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mega-man-x-dr-light-s-capsule",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26814,
+  "title": "Mega Man X - Dr. Light's Capsule",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "final",
+    "industrial",
+    "overworld",
+    "tense"
+  ],
+  "description": "A tense and dramatic moment when you get an Upgrade in Mega Man X.<br>\r\n<br>\r\nCan be used in cutscenes, tense scenarios and grand overworlds.",
+  "latest_version": "smwc-26814-1621561932",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26814,
+      "title": "Mega Man X - Dr. Light's Capsule",
+      "version": "smwc-26814-1621561932",
+      "upstream_time": 1621561932,
+      "download_url": "https://dl.smwcentral.net/26814/Mega%20Man%20X%20-%20Dr.%20Light%27s%20Capsule.zip",
+      "filename": "Mega Man X - Dr. Light%27s Capsule.zip",
+      "size": 36459,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

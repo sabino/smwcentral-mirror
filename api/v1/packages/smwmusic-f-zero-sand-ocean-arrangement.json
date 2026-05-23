@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-f-zero-sand-ocean-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34643,
+  "title": "F-Zero - Sand Ocean (Arrangement)",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave",
+    "chase",
+    "fire",
+    "industrial",
+    "ruins",
+    "tense",
+    "water"
+  ],
+  "description": "An arrangement of \"Sand Ocean\" from F-Zero.<br>\r\n<br>\r\nOriginal soundtrack description:<br>\r\n<br>\r\n<i>This is F-Zero on the SNES' entire OST, but redone using higher quality samples.<br>\r\n<br>\r\nAs to why I did this, after I made Mute City and Port Town, I thought, \"What if the whole soundtrack were originally done in this style? What would it sound like\"? whilst not making some of the songs completely and entirely different, so I decided to carry on with the idea.<br>\r\n<br>\r\nI hope you guys like these ports, because I sure liked making them.<br>\r\n<br>\r\nUpdate 1 (7/29/2019): Replaced all songs that had #tempoimmunity with $F4$07 because #tempoimmunity apparently doesn't work.</i>",
+  "latest_version": "smwc-34643-1690844261",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34643,
+      "title": "F-Zero - Sand Ocean (Arrangement)",
+      "version": "smwc-34643-1690844261",
+      "upstream_time": 1690844261,
+      "download_url": "https://dl.smwcentral.net/34643/Sand%20Ocean.zip",
+      "filename": "Sand Ocean.zip",
+      "size": 52723,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

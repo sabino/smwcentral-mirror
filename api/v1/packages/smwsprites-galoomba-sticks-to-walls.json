@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-galoomba-sticks-to-walls",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42085,
+  "title": "Galoomba, Sticks to Walls",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "galoomba",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: var(--user-color-2);\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
+  "latest_version": "smwc-42085-1776989412",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42085,
+      "title": "Galoomba, Sticks to Walls",
+      "version": "smwc-42085-1776989412",
+      "upstream_time": 1776989412,
+      "download_url": "https://dl.smwcentral.net/42085/Galoomba%20That%20Sticks%20To%20Them%20Walls.zip",
+      "filename": "Galoomba That Sticks To Them Walls.zip",
+      "size": 12329,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

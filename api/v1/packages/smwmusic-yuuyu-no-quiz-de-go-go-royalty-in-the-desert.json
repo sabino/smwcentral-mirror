@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-yuuyu-no-quiz-de-go-go-royalty-in-the-desert",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41648,
+  "title": "Yuuyu no Quiz de Go! Go! - Royalty in the Desert",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "desert",
+    "night",
+    "overworld",
+    "ruins",
+    "temple",
+    "title",
+    "town"
+  ],
+  "description": "Second quiz theme from SFC port of Taito's Yuuyu no Quiz de Go! Go!.",
+  "latest_version": "smwc-41648-1775004144",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41648,
+      "title": "Yuuyu no Quiz de Go! Go! - Royalty in the Desert",
+      "version": "smwc-41648-1775004144",
+      "upstream_time": 1775004144,
+      "download_url": "https://dl.smwcentral.net/41648/Yuuyu%20no%20Quiz%20de%20Go%21%20Go%21%20-%20Royalty%20in%20the%20Desert.zip",
+      "filename": "Yuuyu no Quiz de Go%21 Go%21 - Royalty in the Desert.zip",
+      "size": 39304,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

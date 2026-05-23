@@ -1,0 +1,42 @@
+{
+  "name": "smwpatches-32x32-player-tilemap-patch-1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40241,
+  "title": "32x32 Player Tilemap Patch 1.5",
+  "authors": [
+    "ExE Boss",
+    "Ladida",
+    "lx5"
+  ],
+  "tags": [
+    "32x32",
+    "dynamic",
+    "graphics",
+    "lorom",
+    "mario",
+    "player",
+    "player change",
+    "player graphics",
+    "sa-1"
+  ],
+  "description": "This patch will make the player’s tilemap 32×32 instead of 16×32, by replacing the 8×8 tiles. More info in the readme.<br>\r\n<br>\r\n<a href=\"https://smwc.me/1468495\">Permission from Ladida</a><br>\r\n<br>\r\n<a href=\"https://i.imgur.com/GYTT0p1.png\" rel=\"nofollow\">Permission from Ladida, lx5 update</a><br>\r\n<br>\r\nExE Boss’s Changes<br>\r\n------------------<br>\r\n<br>\r\n<ul><li>Expanded the maximum size of <code>PlayerGFX.bin</code> to 128KiB (256 frames) from 64KiB (128 frames), do note that tile <code>$80</code> is unusable by default because it is overwritten by the second <code>RATS</code> tag.</li><li><code>ow_mario.asm</code> is now applied automatically when patching <code>32x32_tilemap.asm</code>, but can still be applied separately.</li><li>Split <code>AllGFX.bin</code> into component files and added pre-converted Icegoom’s SMW Redrawn graphics.</li></ul><br>\r\n------------------<br>\r\n<br>\r\nSource code is <a href=\"https://github.com/TheLX5/SMW-Patches/tree/master/32x32%20Player%20Tilemap\" rel=\"nofollow\">available on lx5's GitHub</a>.<br>\r\n",
+  "latest_version": "smwc-40241-1754586397",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40241,
+      "title": "32x32 Player Tilemap Patch 1.5",
+      "version": "smwc-40241-1754586397",
+      "upstream_time": 1754586397,
+      "download_url": "https://dl.smwcentral.net/40241/32x32%201.5.zip",
+      "filename": "32x32 1.5.zip",
+      "size": 106702,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-air-jump-blocks-v2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41215,
+  "title": "Air Jump Blocks v2.1",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "sa-1",
+    "spinjump"
+  ],
+  "description": "When Mario touches this non-solid block, it allows him to jump off while in mid-air when you press the (spin) jump button. Perfect for platforming levels. <br>\r\n<br>\r\nNotes: you can only jump if Mario is falling, not rising (so press jump when Mario is falling to make this work).<br>\r\nAnother thing is if you make a staircase of this block, change 0x07A78 from [D0] to [80] to allow free vertical scrolling so the screen won't obscure Mario on top of the screen.<br>\r\n<br>\r\nCredit not necessary.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">updates:<br>\r\n-fix the flying cape mario can \"jump\" on these blocks.<br>\r\n-mario can now spinjump off these blocks<br>\r\n-compatable with water on/off levels<br>\r\n-easy labels to change how high mario jumps off the block<br>\r\n-now doesn't cancel Mario's long jump.<br>\r\n-remove having stompable enemies around these block makes consecutive 1-up stomp possible if more than 1 screen line of this blocks, now resets the consecutive stomp counter if mario jumps off.<br>\r\n<br>\r\nupdates 2.1:<br>\r\n-fix the problem with spinjumping in midair while carrying an item<br>\r\n-added new conditional airjump blocks (like having to alternate two different jumps in order to use them) for the challenge!<br>\r\n-added an optional uberasm code that fixes the origional smw's glitches with performing certain actions while spinjumping.<br>\r\n-added an option that the blocks will disappear when used.</div></div>",
+  "latest_version": "smwc-41215-1764811888",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41215,
+      "title": "Air Jump Blocks v2.1",
+      "version": "smwc-41215-1764811888",
+      "upstream_time": 1764811888,
+      "download_url": "https://dl.smwcentral.net/41215/Air%20Jump%20Blocks.zip",
+      "filename": "Air Jump Blocks.zip",
+      "size": 8081,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

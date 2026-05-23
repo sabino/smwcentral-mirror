@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-joyful-chess",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41689,
+  "title": "joyful - chess",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "beach",
+    "bonus",
+    "carnival",
+    "castle",
+    "forest",
+    "grassland",
+    "mountain",
+    "night",
+    "overworld",
+    "snow",
+    "title",
+    "upbeat",
+    "urban",
+    "water"
+  ],
+  "description": "A silly happy song that people associate with dancing rats. Squeak squeak!<br>\r\n<br>\r\nIncludes defines for both how it should loop, and what the speed (and according amount of reverb) should be.<br>\r\n<br>\r\nDedicated to the children I encountered singing this on the train months ago.",
+  "latest_version": "smwc-41689-1774540916",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41689,
+      "title": "joyful - chess",
+      "version": "smwc-41689-1774540916",
+      "upstream_time": 1774540916,
+      "download_url": "https://dl.smwcentral.net/41689/chess.zip",
+      "filename": "chess.zip",
+      "size": 351471,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

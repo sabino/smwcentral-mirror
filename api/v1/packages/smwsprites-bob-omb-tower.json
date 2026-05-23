@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bob-omb-tower",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 38346,
+  "title": "Bob-omb Tower",
+  "authors": [
+    "AmperSam",
+    "Darolac"
+  ],
+  "tags": [
+    "bob-omb",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A tower of 4 Bob-ombs that walks towards Mario. If jumped on the bombs all drop to the ground ready to explode. Based on <a href=\"https://smwc.me/s/20470\">Goomba Tower</a> by <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: var(--user-color-1);\" class=\"un\">Darolac</a></span>. <br>\r\n<br>\r\nBob-omb state and explosion timer can be configured in the sprite's code. Can also be configured to use a custom bomb.",
+  "latest_version": "smwc-38346-1740663805",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 38346,
+      "title": "Bob-omb Tower",
+      "version": "smwc-38346-1740663805",
+      "upstream_time": 1740663805,
+      "download_url": "https://dl.smwcentral.net/38346/BobombTower.zip",
+      "filename": "BobombTower.zip",
+      "size": 3375,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

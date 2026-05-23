@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-ready-to-rumble-all-variations",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37199,
+  "title": "Crash Team Racing - Ready to Rumble (All Variations)",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "jungle",
+    "sad"
+  ],
+  "description": "The main theme of Crash Team Racing, which comes in three variations. <br>\r\n<br>\r\nYou can define in the .txt file which variation you want:<br>\r\n0 = Intro Cutscene (features a distinct muted guitar and cymbal sample, doesn't have brass instruments, is slightly shorter in some parts and loops back to the intro)<br>\r\n1 = Win Race (has an additional brass channel in the intro)<br>\r\n2 = Lose Race (features a distinct, sad intro)",
+  "latest_version": "smwc-37199-1712266181",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37199,
+      "title": "Crash Team Racing - Ready to Rumble (All Variations)",
+      "version": "smwc-37199-1712266181",
+      "upstream_time": 1712266181,
+      "download_url": "https://dl.smwcentral.net/37199/CTR%20-%20Ready%20to%20Rumble%20%28All%20Variations%29.zip",
+      "filename": "CTR - Ready to Rumble (All Variations).zip",
+      "size": 171141,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

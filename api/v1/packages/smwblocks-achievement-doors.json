@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-achievement-doors",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41157,
+  "title": "Achievement Doors",
+  "authors": [
+    "cthulhu"
+  ],
+  "tags": [
+    "door",
+    "lorom",
+    "patch needed",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Requested by <a href=\"https://www.smwcentral.net/?p=profile&id=21068\"><span style=\"color: #97acef;\"><b>bandicoot</b></span></a><br>\r\n<br>\r\nThese doors will only work if the following conditions are met:<br>\r\n<br>\r\n- Found at least \"X\" number of exits during the game<br>\r\n- Collected the dragon coins in at least \"X\" number of levels<br>\r\n- Collected the moon in at least a \"X\" number of levels<br>\r\n- Have at least \"X\" number of bonus stars<br>\r\n- Have at least \"X\" number of lives<br>\r\n- Have \"X\" amount of coins<br>\r\n- Have \"X\" amount of silver coins",
+  "latest_version": "smwc-41157-1764385035",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41157,
+      "title": "Achievement Doors",
+      "version": "smwc-41157-1764385035",
+      "upstream_time": 1764385035,
+      "download_url": "https://dl.smwcentral.net/41157/Achievement%20Doors.zip",
+      "filename": "Achievement Doors.zip",
+      "size": 6931,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

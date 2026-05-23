@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-super-mario-bros-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41505,
+  "title": "Super Mario Bros. - Overworld",
+  "authors": [
+    "LuciCat"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "retro",
+    "title"
+  ],
+  "description": "Ah yes, that famous 8-bit song you hear EVERYWHERE, even if you never knew what video games are. It sure never gets old. In fact, not only is it the first video game song to be preserved at the National Recording Registry, but Nobuo Uematsu, one of the main composers of the Final Fantasy series, even stated that it should be Japan's national anthem.<br>\r\n<br>\r\nGood for 8-bit levels, especially in an SMB1-themed hack.<br>\r\n<br>\r\n2026-01-30 UPDATE: Added a new define, named IntroOnly, that if set to a non-zero value, gives you the intro-only version, with an insert size of 0x00EA, which is best used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14360\">this UberASM code</a>.",
+  "latest_version": "smwc-41505-1773773857",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41505,
+      "title": "Super Mario Bros. - Overworld",
+      "version": "smwc-41505-1773773857",
+      "upstream_time": 1773773857,
+      "download_url": "https://dl.smwcentral.net/41505/Super%20Mario%20Bros.%20-%20Overworld..zip",
+      "filename": "Super Mario Bros. - Overworld..zip",
+      "size": 73957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7089,
+      "title": "Super Mario Bros. - Overworld",
+      "version": "smwc-7089-1311943164",
+      "upstream_time": 1311943164,
+      "download_url": "https://dl.smwcentral.net/7089/smb%20-%20overworld.zip",
+      "filename": "smb - overworld.zip",
+      "size": 67546,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

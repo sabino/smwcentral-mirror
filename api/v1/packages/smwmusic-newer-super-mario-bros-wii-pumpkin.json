@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-newer-super-mario-bros-wii-pumpkin",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25700,
+  "title": "Newer Super Mario Bros. Wii - Pumpkin",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "dark",
+    "environmental",
+    "forest",
+    "night",
+    "spooky"
+  ],
+  "description": "An eerie song that plays in the haunted overworld levels from Newer Super Mario Bros Wii.<br>\r\n<br>\r\nReleased in C3 2021.",
+  "latest_version": "smwc-25700-1610999458",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25700,
+      "title": "Newer Super Mario Bros. Wii - Pumpkin",
+      "version": "smwc-25700-1610999458",
+      "upstream_time": 1610999458,
+      "download_url": "https://dl.smwcentral.net/25700/NSMBW%20-%20Pumpkin.zip",
+      "filename": "NSMBW - Pumpkin.zip",
+      "size": 32639,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21907,
+      "title": "Newer Super Mario Bros. Wii - Pumpkin",
+      "version": "smwc-21907-1580677798",
+      "upstream_time": 1580677798,
+      "download_url": "https://dl.smwcentral.net/21907/Pumpkin.zip",
+      "filename": "Pumpkin.zip",
+      "size": 98959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

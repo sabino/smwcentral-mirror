@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-x3-gravity-beetle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13359,
+  "title": "Mega Man X3 - Gravity Beetle",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "final",
+    "industrial",
+    "urban"
+  ],
+  "description": "Could fit final, airship or castle levels (maybe more level themes but too I'm too lazy to think about tags).<br>\r\n<br>\r\nI moved the crash cymbals from #4 to #1 because noise was being a bitch, sorry about that.",
+  "latest_version": "smwc-13359-1456676556",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13359,
+      "title": "Mega Man X3 - Gravity Beetle",
+      "version": "smwc-13359-1456676556",
+      "upstream_time": 1456676556,
+      "download_url": "https://dl.smwcentral.net/13359/gravitybeetle.zip",
+      "filename": "gravitybeetle.zip",
+      "size": 35047,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

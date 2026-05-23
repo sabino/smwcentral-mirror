@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cool-spot-snes-shell-shock",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18629,
+  "title": "Cool Spot (SNES) - Shell Shock",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "grassland"
+  ],
+  "description": "Song from the first level of Cool Spot.<br>\r\nIt fits well in beach themed levels.",
+  "latest_version": "smwc-18629-1544665895",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18629,
+      "title": "Cool Spot (SNES) - Shell Shock",
+      "version": "smwc-18629-1544665895",
+      "upstream_time": 1544665895,
+      "download_url": "https://dl.smwcentral.net/18629/ShellShock.zip",
+      "filename": "ShellShock.zip",
+      "size": 51481,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

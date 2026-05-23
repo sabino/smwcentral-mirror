@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-p-balloon-and-cloud-flight-physics-modifier",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 29903,
+  "title": "P-Balloon and Cloud Flight Physics Modifier",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "cloud",
+    "lorom",
+    "p-balloon",
+    "sa-1"
+  ],
+  "description": "This patch allows you to modify the physics of P-Balloon and Cloud flight with more freedom than what's possible just by hex editing.<br>\r\nWith it you can change different variables such as: X/Y speed/acceleration when holding the directions, X/Y deceleration when not holding the directions, Y speed when not holding the direction. This can allow for radical physics change or just slight adjustments for better controls (for example, make the Balloon faster and remove its auto-float mechanic when not holding up/down). Additionally, each variable can be set for Balloon and Cloud separately, so you can make them move differently. The default defines replicate the original physics.<br>\r\n<br>\r\nAs a plus, two vanilla bugs are fixed:<br>\r\n- Holding left+right makes you go at ludicrous X speeds<br>\r\n- Going at ludicrous X speeds can make you clip through blocks",
+  "latest_version": "smwc-29903-1669252024",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 29903,
+      "title": "P-Balloon and Cloud Flight Physics Modifier",
+      "version": "smwc-29903-1669252024",
+      "upstream_time": 1669252024,
+      "download_url": "https://dl.smwcentral.net/29903/balloon_cloud_modify.zip",
+      "filename": "balloon_cloud_modify.zip",
+      "size": 1812,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

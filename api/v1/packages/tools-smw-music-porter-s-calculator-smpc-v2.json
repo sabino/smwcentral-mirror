@@ -1,0 +1,32 @@
+{
+  "name": "tools-smw-music-porter-s-calculator-smpc-v2",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 34259,
+  "title": "SMW Music Porter's Calculator (SMPC) v2.0",
+  "authors": [
+    "Lumy"
+  ],
+  "tags": [
+    "addmusic",
+    "music",
+    "utility"
+  ],
+  "description": "A multi-parameter converter for Super Mario World/SNES music porting, meant to be an utility tool to be used in conjunction with AddmusicK.<br>\r\n<br>\r\nWas designed to replace an ordinary calculator program in most if not all functions related to SMW/SNES music porting.<br>\r\n<br>\r\nSMPC is easy and fast to use. Just provide an input for a certain converter and it will instantly output the respective AddmusicK command or parameter, ready to be copied into the TXT/MML (if applicable). Every usable output features its own copy button to speed up this process. Click <a href=\"https://dl.dropbox.com/s/mneof0uy8vni3sw/SMPC_2.0_Usage.gif?dl=0\" rel=\"nofollow\">here</a> to open an animated demonstration.<br>\r\n<br>\r\nSystem Requirements:<br>\r\n<br>\r\n- Supported operating systems: Windows 7 and onwards, 32 or 64 bits<br>\r\n- Minimum available storage space: ~45 MB (for both the .zip and its contents)<br>\r\n<br>\r\nFor other information, such as known issues and changelog, please check the readme.",
+  "latest_version": "smwc-34259-1691332509",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 34259,
+      "title": "SMW Music Porter's Calculator (SMPC) v2.0",
+      "version": "smwc-34259-1691332509",
+      "upstream_time": 1691332509,
+      "download_url": "https://dl.smwcentral.net/34259/SMPC_2.0.zip",
+      "filename": "SMPC_2.0.zip",
+      "size": 13159073,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-treasure-cove-dos-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38726,
+  "title": "Treasure Cove (DOS) - Level 2",
+  "authors": [
+    "trestles"
+  ],
+  "tags": [
+    "beach",
+    "sea"
+  ],
+  "description": "My first attempt at a port using only SMW instruments. The song I used to learn was a song from one of my childhood DOS games \"Treasure Cove,\" specifically level two:<br>\r\nhttps://youtu.be/TzdoxGrFS20?si=-i8_WQbmJsr-J57N<br>\r\n<br>\r\nShort song, probably best used for shorter levels and tropical/beach/island themed levels. <br>\r\n<br>\r\nOpen to critique and feedback so that I can get better.",
+  "latest_version": "smwc-38726-1740119298",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38726,
+      "title": "Treasure Cove (DOS) - Level 2",
+      "version": "smwc-38726-1740119298",
+      "upstream_time": 1740119298,
+      "download_url": "https://dl.smwcentral.net/38726/Treasure_Cove_OST_Level2.zip",
+      "filename": "Treasure_Cove_OST_Level2.zip",
+      "size": 31917,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

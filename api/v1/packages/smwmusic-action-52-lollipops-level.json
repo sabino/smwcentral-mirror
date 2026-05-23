@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-action-52-lollipops-level",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38805,
+  "title": "Action 52 - Lollipops - Level 2",
+  "authors": [
+    "ShivjotRangi"
+  ],
+  "tags": [
+    "athletic",
+    "chaotic",
+    "dark",
+    "mysterious",
+    "night",
+    "space",
+    "spooky",
+    "tense"
+  ],
+  "description": "Action 52's Lollipops (Level 2) has been transposed from NES to SNES both by ear and MIDI. Super Mario All-Stars's Trumpet, harmonies, drums, and delays have been added also.",
+  "latest_version": "smwc-38805-1733034717",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38805,
+      "title": "Action 52 - Lollipops - Level 2",
+      "version": "smwc-38805-1733034717",
+      "upstream_time": 1733034717,
+      "download_url": "https://dl.smwcentral.net/38805/Action%2052%20-%20Lollipops%20-%20Level%202.zip",
+      "filename": "Action 52 - Lollipops - Level 2.zip",
+      "size": 33919,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

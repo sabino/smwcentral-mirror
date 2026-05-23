@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-fire-flower",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 40802,
+  "title": "Fire Flower",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bonus",
+    "fire",
+    "fire flower",
+    "flower",
+    "lorom",
+    "pacifist",
+    "power-up",
+    "powerup",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 75 in SMW - Fire Flower.",
+  "latest_version": "smwc-40802-1760525696",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 40802,
+      "title": "Fire Flower",
+      "version": "smwc-40802-1760525696",
+      "upstream_time": 1760525696,
+      "download_url": "https://dl.smwcentral.net/40802/Fire%20Flower%20Remod%20Update.zip",
+      "filename": "Fire Flower Remod Update.zip",
+      "size": 5239,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

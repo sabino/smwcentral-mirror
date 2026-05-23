@@ -1,0 +1,33 @@
+{
+  "name": "smwblocks-player-specific-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 11335,
+  "title": "Player Specific Block",
+  "authors": [
+    "S.R.H."
+  ],
+  "tags": [
+    "character",
+    "lorom"
+  ],
+  "description": "This block acts like a certain map16 tile depending on the current player. When it's not the player you specified, it will act like what you set it to act like in the map16 editor. When it's the one you specified, it will act like what you set it to act like in the .asm file.<br>\r\n<br>\r\nCredit not needed since this is pretty simple.",
+  "latest_version": "smwc-11335-1438548892",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 11335,
+      "title": "Player Specific Block",
+      "version": "smwc-11335-1438548892",
+      "upstream_time": 1438548892,
+      "download_url": "https://dl.smwcentral.net/11335/PlayerSpecificBlock.zip",
+      "filename": "PlayerSpecificBlock.zip",
+      "size": 471,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

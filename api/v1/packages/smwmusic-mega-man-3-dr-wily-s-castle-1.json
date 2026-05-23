@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-mega-man-3-dr-wily-s-castle-1",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35331,
+  "title": "Mega Man 3 - Dr. Wily's Castle 1 & 2 (Remix)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "A remix of the theme played in the first two Dr. Wily levels in Mega Man 3.",
+  "latest_version": "smwc-35331-1698173486",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35331,
+      "title": "Mega Man 3 - Dr. Wily's Castle 1 & 2 (Remix)",
+      "version": "smwc-35331-1698173486",
+      "upstream_time": 1698173486,
+      "download_url": "https://dl.smwcentral.net/35331/Mega%20Man%203%20-%20Dr.%20Wily%27s%20Castle%201%20%26%202%20%28Remix%29.zip",
+      "filename": "Mega Man 3 - Dr. Wily%27s Castle 1 %26 2 (Remix).zip",
+      "size": 74965,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21599,
+      "title": "Mega Man 3 - Dr. Wily's Castle 1 & 2",
+      "version": "smwc-21599-1576898772",
+      "upstream_time": 1576898772,
+      "download_url": "https://dl.smwcentral.net/21599/Mega%20Man%203%20-%20Wily%20Stage%201%20%2816-bit%29.zip",
+      "filename": "Mega Man 3 - Wily Stage 1 (16-bit).zip",
+      "size": 32715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7199,
+      "title": "Mega Man 3 - Dr. Wily's Castle 1 & 2",
+      "version": "smwc-7199-1338208011",
+      "upstream_time": 1338208011,
+      "download_url": "https://dl.smwcentral.net/7199/Wilystage.1.zip",
+      "filename": "Wilystage.1.zip",
+      "size": 44247,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

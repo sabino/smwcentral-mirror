@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-starman-bossa-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26759,
+  "title": "Starman (Bossa Remix)",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "jungle",
+    "night",
+    "overworld",
+    "star",
+    "town"
+  ],
+  "description": "Including 2 variations: Overworld (Slow) and Starman (Fast)<br>\r\nStarman Theme has been remixed as Bossanova and Moderato Tempo. Could fit on the beach and jungle overworlds, Maybe bonus submaps...",
+  "latest_version": "smwc-26759-1621143549",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26759,
+      "title": "Starman (Bossa Remix)",
+      "version": "smwc-26759-1621143549",
+      "upstream_time": 1621143549,
+      "download_url": "https://dl.smwcentral.net/26759/Starman%20%28Bossa%29.zip",
+      "filename": "Starman (Bossa).zip",
+      "size": 63257,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-the-grimoire-of-alice",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8366,
+  "title": "Touhou Kaikidan ~ Mystic Square - The Grimoire of Alice",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final"
+  ],
+  "description": "An epic, upbeat song from the touhou franchise. Could really work for fast-paced levels or boss themes.",
+  "latest_version": "smwc-8366-1360421575",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8366,
+      "title": "Touhou Kaikidan ~ Mystic Square - The Grimoire of Alice",
+      "version": "smwc-8366-1360421575",
+      "upstream_time": 1360421575,
+      "download_url": "https://dl.smwcentral.net/8366/Grimoire.zip",
+      "filename": "Grimoire.zip",
+      "size": 74322,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

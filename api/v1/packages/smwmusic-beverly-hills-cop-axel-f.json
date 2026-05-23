@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-beverly-hills-cop-axel-f",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25611,
+  "title": "Beverly Hills Cop - Axel F",
+  "authors": [
+    "tak_suko"
+  ],
+  "tags": [
+    "abstract",
+    "credits",
+    "cutscene",
+    "night",
+    "town",
+    "urban"
+  ],
+  "description": "Theme from the 1984 film Beverly Hills Cop performed by Harold Faltermeyer.<br>\r\nPrefer use for intro/outro.<br>\r\n",
+  "latest_version": "smwc-25611-1610399607",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25611,
+      "title": "Beverly Hills Cop - Axel F",
+      "version": "smwc-25611-1610399607",
+      "upstream_time": 1610399607,
+      "download_url": "https://dl.smwcentral.net/25611/Beverly%20Hills%20Cop%20-%20Axel%20F.zip",
+      "filename": "Beverly Hills Cop - Axel F.zip",
+      "size": 32317,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25339,
+      "title": "Beverly Hills Cop - Axel F",
+      "version": "smwc-25339-1607762417",
+      "upstream_time": 1607762417,
+      "download_url": "https://dl.smwcentral.net/25339/Axel%20F.zip",
+      "filename": "Axel F.zip",
+      "size": 54143,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

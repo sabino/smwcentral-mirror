@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-endless-throw-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 42051,
+  "title": "Endless Throw Block",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite",
+    "throw block"
+  ],
+  "description": "The ol' infinite or endless supply throw block. This is a simple block that spawns a throw block in Mario's hands when touching it and pressing grab. It has an option to make it a limited-spawner (melts other blocks).<br>\r\n<br>\r\nCredit unnecessary.",
+  "latest_version": "smwc-42051-1775326052",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 42051,
+      "title": "Endless Throw Block",
+      "version": "smwc-42051-1775326052",
+      "upstream_time": 1775326052,
+      "download_url": "https://dl.smwcentral.net/42051/endlessthrowblock.zip",
+      "filename": "endlessthrowblock.zip",
+      "size": 704,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

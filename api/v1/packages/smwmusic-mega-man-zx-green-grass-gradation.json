@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-mega-man-zx-green-grass-gradation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30245,
+  "title": "Mega Man ZX - Green Grass Gradation",
+  "authors": [
+    "CrimsonZN"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "final",
+    "grassland",
+    "jungle",
+    "sky",
+    "switch palace",
+    "title"
+  ],
+  "description": "Faithful recreation of Area A (Green Grass Gradation) from Mega Man ZX. Could be used for grasslands.<br>\r\n<br>\r\nFirst port. Made while learning how to do stuff in amk.",
+  "latest_version": "smwc-30245-1652158540",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30245,
+      "title": "Mega Man ZX - Green Grass Gradation",
+      "version": "smwc-30245-1652158540",
+      "upstream_time": 1652158540,
+      "download_url": "https://dl.smwcentral.net/30245/Mega%20Man%20ZX%20-%20Green%20Grass%20Gradation.zip",
+      "filename": "Mega Man ZX - Green Grass Gradation.zip",
+      "size": 72406,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19239,
+      "title": "Mega Man ZX - Green Grass Gradation",
+      "version": "smwc-19239-1551486822",
+      "upstream_time": 1551486822,
+      "download_url": "https://dl.smwcentral.net/19239/Green_Grass_Gradation.zip",
+      "filename": "Green_Grass_Gradation.zip",
+      "size": 76217,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

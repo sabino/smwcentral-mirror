@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-kirby-super-star-milky-way-wishes",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22092,
+  "title": "Kirby Super Star - Milky Way Wishes",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "ambient",
+    "cutscene",
+    "ghost house",
+    "ice",
+    "night",
+    "space",
+    "water"
+  ],
+  "description": "The dreamy, calm theme playing in the second intro in Kirby Super Star's 'Milky Way Wishes'. See the tags for fitting themes.",
+  "latest_version": "smwc-22092-1582006553",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22092,
+      "title": "Kirby Super Star - Milky Way Wishes",
+      "version": "smwc-22092-1582006553",
+      "upstream_time": 1582006553,
+      "download_url": "https://dl.smwcentral.net/22092/mmw.zip",
+      "filename": "mmw.zip",
+      "size": 34666,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22091,
+      "title": "Kirby Super Star - Milky Way Wishes",
+      "version": "smwc-22091-1581961995",
+      "upstream_time": 1581961995,
+      "download_url": "https://dl.smwcentral.net/22091/mmwunsampled.zip",
+      "filename": "mmwunsampled.zip",
+      "size": 35491,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

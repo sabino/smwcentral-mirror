@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-s-adventure-orange-ocean",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13966,
+  "title": "Kirby's Adventure - Orange Ocean",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach",
+    "grassland"
+  ],
+  "description": "The happy song that plays in most Orange Ocean levels.  Would best suit a tropical beach area.",
+  "latest_version": "smwc-13966-1470154200",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13966,
+      "title": "Kirby's Adventure - Orange Ocean",
+      "version": "smwc-13966-1470154200",
+      "upstream_time": 1470154200,
+      "download_url": "https://dl.smwcentral.net/13966/Orange%20Ocean.zip",
+      "filename": "Orange Ocean.zip",
+      "size": 32893,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

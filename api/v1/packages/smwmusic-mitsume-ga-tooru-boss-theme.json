@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mitsume-ga-tooru-boss-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21968,
+  "title": "Mitsume ga Tooru - Boss Theme",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "industrial",
+    "retro",
+    "space"
+  ],
+  "description": "Sampled arrangement of this fast-paced chiptune which comes from the obscure NES game Mitsume ga Tooru. Mostly useful for boss battles, though it might fit into some space or factory-themed levels aswell.<br>\r\n<br>\r\nRequested by TheMorganah; Also thanks to Ultima for providing me the lead sample.",
+  "latest_version": "smwc-21968-1579311220",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21968,
+      "title": "Mitsume ga Tooru - Boss Theme",
+      "version": "smwc-21968-1579311220",
+      "upstream_time": 1579311220,
+      "download_url": "https://dl.smwcentral.net/21968/Mitsume_ga_Tooru_-_Boss_Theme.zip",
+      "filename": "Mitsume_ga_Tooru_-_Boss_Theme.zip",
+      "size": 49900,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

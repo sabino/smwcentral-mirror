@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-xenogears-faraway-promise",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17348,
+  "title": "Xenogears - Faraway Promise",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "credits",
+    "cutscene"
+  ],
+  "description": "song from Xenogears, good for cutscene, and also ending.",
+  "latest_version": "smwc-17348-1522806568",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17348,
+      "title": "Xenogears - Faraway Promise",
+      "version": "smwc-17348-1522806568",
+      "upstream_time": 1522806568,
+      "download_url": "https://dl.smwcentral.net/17348/%5BS%5D%20Xenogears%20-%20Faraway%20Promise.zip",
+      "filename": "%5BS%5D Xenogears - Faraway Promise.zip",
+      "size": 42487,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

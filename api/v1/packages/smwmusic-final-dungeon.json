@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-final-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26498,
+  "title": "Final Dungeon",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "castle",
+    "chase",
+    "final",
+    "industrial",
+    "tense"
+  ],
+  "description": "A climactic song good for short, tense areas.<br>\r\n<br>\r\nFair warning that, if you're using older versions of AddmusicK, pausing and unpausing will silence channel #0 for an extended period of time. Using AMK 1.0.8 or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23477\">this patch</a> will work around this.",
+  "latest_version": "smwc-26498-1617912916",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26498,
+      "title": "Final Dungeon",
+      "version": "smwc-26498-1617912916",
+      "upstream_time": 1617912916,
+      "download_url": "https://dl.smwcentral.net/26498/Final_Dungeon.zip",
+      "filename": "Final_Dungeon.zip",
+      "size": 37399,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

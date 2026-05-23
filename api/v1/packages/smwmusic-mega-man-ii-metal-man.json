@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mega-man-ii-metal-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33428,
+  "title": "Mega Man II - Metal Man",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "athletic",
+    "industrial"
+  ],
+  "description": "Metal Man's stage theme from the Game Boy Mega Man II (which has a totally new soundtrack). Sounds somewhat frantic. Based on my own MIDI made from recording and recreating the individual sound channels.",
+  "latest_version": "smwc-33428-1689056116",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33428,
+      "title": "Mega Man II - Metal Man",
+      "version": "smwc-33428-1689056116",
+      "upstream_time": 1689056116,
+      "download_url": "https://dl.smwcentral.net/33428/Mega%20Man%20II%20GB%20-%20Metal%20Man.zip",
+      "filename": "Mega Man II GB - Metal Man.zip",
+      "size": 32283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

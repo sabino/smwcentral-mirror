@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-bash-jungle-bash",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37218,
+  "title": "Crash Bash - Jungle Bash",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "boss",
+    "jungle",
+    "ruins"
+  ],
+  "description": "A tribal remix of the prehistoric theme from Crash Bandicoot 3 that plays in Jungle Bash, a jungle themed crate crush minigame.",
+  "latest_version": "smwc-37218-1712591289",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37218,
+      "title": "Crash Bash - Jungle Bash",
+      "version": "smwc-37218-1712591289",
+      "upstream_time": 1712591289,
+      "download_url": "https://dl.smwcentral.net/37218/CBash_-_Jungle_Bash.zip",
+      "filename": "CBash_-_Jungle_Bash.zip",
+      "size": 101176,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

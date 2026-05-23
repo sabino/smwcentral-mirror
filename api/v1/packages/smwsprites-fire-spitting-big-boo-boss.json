@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-fire-spitting-big-boo-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28770,
+  "title": "Fire Spitting Big Boo Boss",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "big boo",
+    "big boo boss",
+    "boo",
+    "boss",
+    "enemy",
+    "fire",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a big boo boss that spits fireballs at the player.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"XLIXER\"><a href=\"/?p=profile&amp;id=50980\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">XLIXER</a></span>.",
+  "latest_version": "smwc-28770-1645007116",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28770,
+      "title": "Fire Spitting Big Boo Boss",
+      "version": "smwc-28770-1645007116",
+      "upstream_time": 1645007116,
+      "download_url": "https://dl.smwcentral.net/28770/FireSpittingBigBooBoss.zip",
+      "filename": "FireSpittingBigBooBoss.zip",
+      "size": 5698,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-lcddem-save-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21767,
+  "title": "LCDDEM - Save screen",
+  "authors": [
+    "Hazel",
+    "Tob"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "night"
+  ],
+  "description": "The short save screen theme from the Yume Nikki fangame LCDDEM. It is sadly unused because the game lets you save at any point with no menu or anything required. This version is aimed to mimic the feel of the original Yume Nikki save theme! Originally made by nameless, whom used my sampled port as a basis for this version.",
+  "latest_version": "smwc-21767-1578203842",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21767,
+      "title": "LCDDEM - Save screen",
+      "version": "smwc-21767-1578203842",
+      "upstream_time": 1578203842,
+      "download_url": "https://dl.smwcentral.net/21767/lcddem_savescreenunsampled.zip",
+      "filename": "lcddem_savescreenunsampled.zip",
+      "size": 30878,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21766,
+      "title": "LCDDEM - Save screen",
+      "version": "smwc-21766-1578202465",
+      "upstream_time": 1578202465,
+      "download_url": "https://dl.smwcentral.net/21766/lcddem_savescreen.zip",
+      "filename": "lcddem_savescreen.zip",
+      "size": 38482,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

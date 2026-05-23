@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-tide-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 13098,
+  "title": "Tide Fix",
+  "authors": [
+    "allowiscous"
+  ],
+  "tags": [
+    "lock",
+    "lorom",
+    "sa-1",
+    "tide",
+    "water"
+  ],
+  "description": "Fixes that tiny bug where layer 3 tide will still move when animation is locked; i.e. when Mario is getting a mushroom, dying, entering a pipe, etc.",
+  "latest_version": "smwc-13098-1453076469",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 13098,
+      "title": "Tide Fix",
+      "version": "smwc-13098-1453076469",
+      "upstream_time": 1453076469,
+      "download_url": "https://dl.smwcentral.net/13098/tidefix.zip",
+      "filename": "tidefix.zip",
+      "size": 516,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

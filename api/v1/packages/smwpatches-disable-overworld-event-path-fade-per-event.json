@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-disable-overworld-event-path-fade-per-event",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 35760,
+  "title": "Disable Overworld Event Path Fade Per Event",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This patch allows you to disable the Overworld event path fade effect on an event basis, if you want to keep the effect but you can't use it for some event for GFX/palette constraints. To do so edit the \"path_fade_enabled\" table in the asm file (one digit for each event, use 0 to disable it).<br>\r\nMake sure to not disable the effect in Lunar Magic's extra options or it won't work.",
+  "latest_version": "smwc-35760-1725911100",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 35760,
+      "title": "Disable Overworld Event Path Fade Per Event",
+      "version": "smwc-35760-1725911100",
+      "upstream_time": 1725911100,
+      "download_url": "https://dl.smwcentral.net/35760/event_path_fade_per_event.zip",
+      "filename": "event_path_fade_per_event.zip",
+      "size": 767,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

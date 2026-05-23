@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-sprite-in-a-box",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3929,
+  "title": "Sprite in a Box",
+  "authors": [
+    "PercentN"
+  ],
+  "tags": [
+    "lorom",
+    "spawn",
+    "sprite"
+  ],
+  "description": "Press down on the block to spawn a sprite. Can be configured in the .asm file. Giving credit is optional.",
+  "latest_version": "smwc-3929-1438221589",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3929,
+      "title": "Sprite in a Box",
+      "version": "smwc-3929-1438221589",
+      "upstream_time": 1438221589,
+      "download_url": "https://dl.smwcentral.net/3929/sprite_in_box.zip",
+      "filename": "sprite_in_box.zip",
+      "size": 709,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

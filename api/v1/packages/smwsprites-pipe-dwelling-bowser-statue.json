@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-pipe-dwelling-bowser-statue",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 26442,
+  "title": "Pipe Dwelling Bowser Statue",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bowser statue",
+    "enemy",
+    "lorom",
+    "pipe",
+    "pipe enemy",
+    "sa-1",
+    "statue"
+  ],
+  "description": "This is a bowser statue that acts like a piranha plant. When it's out of the pipe, it'll spit a fireball.<br>\r\nCredit is optional.",
+  "latest_version": "smwc-26442-1616346360",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 26442,
+      "title": "Pipe Dwelling Bowser Statue",
+      "version": "smwc-26442-1616346360",
+      "upstream_time": 1616346360,
+      "download_url": "https://dl.smwcentral.net/26442/Pipe%20Dwelling%20Bowser%20Statue.zip",
+      "filename": "Pipe Dwelling Bowser Statue.zip",
+      "size": 3603,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

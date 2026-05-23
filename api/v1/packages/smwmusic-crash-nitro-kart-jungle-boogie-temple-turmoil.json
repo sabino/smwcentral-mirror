@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-nitro-kart-jungle-boogie-temple-turmoil",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38437,
+  "title": "Crash Nitro Kart - Jungle Boogie / Temple Turmoil",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "jungle"
+  ],
+  "description": "An upbeat and happy tribal theme that plays in Jungle Boogie, the second track of Crash Nitro Kart and a jungle themed track. It also plays in Temple Turmoil, a battle arena based on that track.",
+  "latest_version": "smwc-38437-1734543155",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38437,
+      "title": "Crash Nitro Kart - Jungle Boogie / Temple Turmoil",
+      "version": "smwc-38437-1734543155",
+      "upstream_time": 1734543155,
+      "download_url": "https://dl.smwcentral.net/38437/CNK%20-%20Jungle%20Boogie.zip",
+      "filename": "CNK - Jungle Boogie.zip",
+      "size": 90813,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

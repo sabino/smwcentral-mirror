@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-unsigned-16x16-multiplication-optimization",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40150,
+  "title": "Unsigned 16x16 Multiplication Optimization",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "optimize"
+  ],
+  "description": "SMW features fairly unoptimised codes particularly in the matter of trigonometry i.e. circular movements; one of which is the unsigned 16x16 multiplication used by Iggy and Larry's platform and the brown chained platform and is a just horrible routine.<br>\r\n<br>\r\nThis patch optimises said routine with better cycle counting (waiting for multiplicaion) and 16-bit mode, therefore halving its calculation footprint by roughly half of it (resulting in an optimisation from roughly 1.5 to 0.75 scanlines when not using FastROM) and also freeing up 30 bytes in bank $01.<br>\r\nOptimisation could be further improved with using both index register but I wanted the patch to be index register agnostic.<br>\r\n<br>\r\nThis patch is only valid when not using SA-1 Pack due being replaced by a different code to take advantage of SA-1.",
+  "latest_version": "smwc-40150-1753135428",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40150,
+      "title": "Unsigned 16x16 Multiplication Optimization",
+      "version": "smwc-40150-1753135428",
+      "upstream_time": 1753135428,
+      "download_url": "https://dl.smwcentral.net/40150/16x16%20multiplication_optimisation.zip",
+      "filename": "16x16 multiplication_optimisation.zip",
+      "size": 531,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

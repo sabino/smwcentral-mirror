@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-expansive-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9195,
+  "title": "The Expansive Cave",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "water"
+  ],
+  "description": "A song I wrote for a now forgotten project. Would fit a cave puzzle or something.",
+  "latest_version": "smwc-9195-1413387908",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9195,
+      "title": "The Expansive Cave",
+      "version": "smwc-9195-1413387908",
+      "upstream_time": 1413387908,
+      "download_url": "https://dl.smwcentral.net/9195/hack%20cave.zip",
+      "filename": "hack cave.zip",
+      "size": 21204,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

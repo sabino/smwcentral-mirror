@@ -1,0 +1,40 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-super-mario-bros-2-enemies-pack",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 16315,
+  "title": "Super Mario World Styled Super Mario Bros. 2 Enemies - Pack 1",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "beezo",
+    "birdo",
+    "bob-omb",
+    "mushroom block",
+    "needs remoderation",
+    "phanto",
+    "shy guy",
+    "snifit",
+    "spiny",
+    "tweeter",
+    "veggie"
+  ],
+  "description": "Custom graphics for the Super Mario Bros 2 enemies from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14583\">Romi's Sprite Tool 1.41</a> and/or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=3481\">Mikeyk's updated sprite pack</a>. This pack contains graphics for:<br>\r\n<br>\r\n-Shy Guy<br>\r\n-Snifit<br>\r\n-Tweeter<br>\r\n-Beezo<br>\r\n-Phanto<br>\r\n-Birdo (both normal & boss/updated version)<br>\r\n-Bob-Omb<br>\r\n-Spiny<br>\r\n-Mushroom Block & Veggies<br>\r\n<br>\r\nDo note that Twetter, Phanto and Birdo are meant to use palettes B, A and E/F respectively (depends on whenever you're using the game's original Sprite Palette 1 or 7), so you might wanna tweak their properties with a .cfg editor first.<br>\r\n<br>\r\nCredit's optional, just don't claim it as your own.<br>\r\n<br>\r\nModerator's Notes : Do remember that if you've changed the tilemap of your shy-guys or other sprites, do remember to edit this file accordingly, otherwise good job, they fit SMW's style nicely.",
+  "latest_version": "smwc-16315-1506132155",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 16315,
+      "title": "Super Mario World Styled Super Mario Bros. 2 Enemies - Pack 1",
+      "version": "smwc-16315-1506132155",
+      "upstream_time": 1506132155,
+      "download_url": "https://dl.smwcentral.net/16315/SMW_SMB2_Enemies_P.1.zip",
+      "filename": "SMW_SMB2_Enemies_P.1.zip",
+      "size": 5124,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

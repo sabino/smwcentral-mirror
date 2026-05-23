@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-castlevania-dawn-of-sorrow-underground-melodies",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21164,
+  "title": "Castlevania: Dawn of Sorrow - Underground Melodies",
+  "authors": [
+    "Aikku"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "mysterious"
+  ],
+  "description": "Ported by request (not familiar with the series). 12 custom samples (19.3KiB), works with #default.<br>\r\n<br>\r\nNot being familiar with the series, I tried hard to think of something to tag it with (based on how I interpreted it), but all I could come up with was 'puzzle' and 'difficult'.<br>\r\n<br>\r\nUpdate 190915: New organ, added oboe and harpsichord, minor tweaks/improvements (eg. 'Warm Pad' is now in the correct octave, drums are louder).",
+  "latest_version": "smwc-21164-1568602824",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21164,
+      "title": "Castlevania: Dawn of Sorrow - Underground Melodies",
+      "version": "smwc-21164-1568602824",
+      "upstream_time": 1568602824,
+      "download_url": "https://dl.smwcentral.net/21164/CastlevaniaDoS_Underground_Melodies.zip",
+      "filename": "CastlevaniaDoS_Underground_Melodies.zip",
+      "size": 72673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

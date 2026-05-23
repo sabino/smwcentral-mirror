@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-midway-castle-conveyor-stairs-fix",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30521,
+  "title": "Super Mario World - Midway & Castle Conveyor Stairs Fix",
+  "authors": [
+    "AmperSam"
+  ],
+  "tags": [
+    "conveyor belt",
+    "midway"
+  ],
+  "description": "Here to ruin your day by pointing out some animation errors in the vanilla game but also to fix them!<br>\r\n<br>\r\nThe first to fix the frame mismatch in the midway point animation, and the second to fix the background tiles on the castle conveyor stairs which still use the checkerboard pattern from the <a href=\"https://smwc.me/s/25241\">beta design</a>. <br>\r\n<br>\r\nThis resource has both a drop-in replacement for GFX33 with the two fixes included, as well as the individual graphics files for each if you want to fix it manually. <br>\r\n<br>\r\nDo not credit me for this, these are very minor fixes.",
+  "latest_version": "smwc-30521-1650135274",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30521,
+      "title": "Super Mario World - Midway & Castle Conveyor Stairs Fix",
+      "version": "smwc-30521-1650135274",
+      "upstream_time": 1650135274,
+      "download_url": "https://dl.smwcentral.net/30521/Super%20Mario%20World%20-%20Midway%20%26%20Castle%20Conveyor%20Stairs%20Fix.zip",
+      "filename": "Super Mario World - Midway %26 Castle Conveyor Stairs Fix.zip",
+      "size": 6606,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-demon-s-crest-the-infinite-demon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7609,
+  "title": "Demon's Crest - The Infinite Demon",
+  "authors": [
+    "Ice Man"
+  ],
+  "tags": [
+    "final",
+    "ghost house"
+  ],
+  "description": "Could be used for a church or a haunted level.",
+  "latest_version": "smwc-7609-1312350988",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7609,
+      "title": "Demon's Crest - The Infinite Demon",
+      "version": "smwc-7609-1312350988",
+      "upstream_time": 1312350988,
+      "download_url": "https://dl.smwcentral.net/7609/Demon%27s%20Crest%20-%20Last%20Boss.zip",
+      "filename": "Demon%27s Crest - Last Boss.zip",
+      "size": 66491,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

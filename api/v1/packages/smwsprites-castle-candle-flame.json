@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-castle-candle-flame",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 28572,
+  "title": "Castle Candle Flame",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "candles",
+    "effect",
+    "flame",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of cluster sprite 05 in SMW, Castle candle flame.<br>\r\n<br>\r\nCredit is unecessary.",
+  "latest_version": "smwc-28572-1640638250",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 28572,
+      "title": "Castle Candle Flame",
+      "version": "smwc-28572-1640638250",
+      "upstream_time": 1640638250,
+      "download_url": "https://dl.smwcentral.net/28572/ClusterCandleFlame.zip",
+      "filename": "ClusterCandleFlame.zip",
+      "size": 1252,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

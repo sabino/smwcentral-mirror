@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-n-gin-labs",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38496,
+  "title": "Crash Team Racing - N. Gin Labs",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "space",
+    "urban"
+  ],
+  "description": "An upbeat techno theme that plays in N. Gin Labs, a toxic lab themed track.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38496-1726851906",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38496,
+      "title": "Crash Team Racing - N. Gin Labs",
+      "version": "smwc-38496-1726851906",
+      "upstream_time": 1726851906,
+      "download_url": "https://dl.smwcentral.net/38496/CTR%20-%20N.%20Gin%20Labs.zip",
+      "filename": "CTR - N. Gin Labs.zip",
+      "size": 112417,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

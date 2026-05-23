@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dhs-move-this",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40772,
+  "title": "DHS - Move This",
+  "authors": [
+    "Ahrion",
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "factory"
+  ],
+  "description": "Me and Ahrion's entry to SuperFamicompo 2025. Incompatible with Blargg/Thunder and Yoshi.<br>\r\n<br>\r\nDo note this is a modified version of <a href=\"https://modarchive.org/index.php?request=view_by_moduleid&query=85967\" rel=\"nofollow\">the original</a> as the vocal samples have been removed and similar sounding samples were nuked to save space.",
+  "latest_version": "smwc-40772-1762986114",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40772,
+      "title": "DHS - Move This",
+      "version": "smwc-40772-1762986114",
+      "upstream_time": 1762986114,
+      "download_url": "https://dl.smwcentral.net/40772/Move%20This.zip",
+      "filename": "Move This.zip",
+      "size": 155746,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

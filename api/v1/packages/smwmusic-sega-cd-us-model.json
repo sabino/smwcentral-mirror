@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sega-cd-us-model",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8566,
+  "title": "Sega CD (US - Model 2) - BIOS",
+  "authors": [
+    "90FC3C"
+  ],
+  "tags": [
+    "temple",
+    "title"
+  ],
+  "description": "This tense and somewhat-brief song is ideal for something like a title screen.",
+  "latest_version": "smwc-8566-1398077790",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8566,
+      "title": "Sega CD (US - Model 2) - BIOS",
+      "version": "smwc-8566-1398077790",
+      "upstream_time": 1398077790,
+      "download_url": "https://dl.smwcentral.net/8566/segacd.zip",
+      "filename": "segacd.zip",
+      "size": 65563,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

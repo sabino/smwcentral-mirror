@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-asterix-obelix-london",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34739,
+  "title": "Asterix & Obelix - London",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "desert",
+    "mountain",
+    "temple",
+    "town"
+  ],
+  "description": "Part of the Asterix & Obelix SNES soundtrack.<br>\r\nA town theme.",
+  "latest_version": "smwc-34739-1691404363",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34739,
+      "title": "Asterix & Obelix - London",
+      "version": "smwc-34739-1691404363",
+      "upstream_time": 1691404363,
+      "download_url": "https://dl.smwcentral.net/34739/Asterix%20and%20Obelix%20-%2007%20London.zip",
+      "filename": "Asterix and Obelix - 07 London.zip",
+      "size": 70305,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-random-shroom",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3322,
+  "title": "Random Shroom",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "mushroom",
+    "random"
+  ],
+  "description": "This sprite is a ? Mushroom. It can either hurt Mario, explode on contact, give him a 1-up, give him a Mushroom or 10 coins. It can be set to move as well (Extra Property Byte 1).<br>\r\n<br>\r\nIt occupies the cloud game tile from GFX01.bin<br>\r\nInsert in SP2<br>\r\n<br>\r\nPlease give credit if used.<br>\r\n<br>\r\nTo be assembled with PIXI",
+  "latest_version": "smwc-3322-1253990910",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3322,
+      "title": "Random Shroom",
+      "version": "smwc-3322-1253990910",
+      "upstream_time": 1253990910,
+      "download_url": "https://dl.smwcentral.net/3322/randshroom.zip",
+      "filename": "randshroom.zip",
+      "size": 4087,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

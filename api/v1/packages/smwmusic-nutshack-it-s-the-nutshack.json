@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-nutshack-it-s-the-nutshack",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14785,
+  "title": "Nutshack - It's the Nutshack!",
+  "authors": [
+    "Dark Mario Bros"
+  ],
+  "tags": [
+    "cutscene",
+    "night",
+    "town"
+  ],
+  "description": "It's the NutsHack...<br>\r\n<br>\r\n8bit-ish sampled song<br>\r\n<br>\r\nIntro of Nutshack, an animated serie",
+  "latest_version": "smwc-14785-1484366321",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14785,
+      "title": "Nutshack - It's the Nutshack!",
+      "version": "smwc-14785-1484366321",
+      "upstream_time": 1484366321,
+      "download_url": "https://dl.smwcentral.net/14785/Its%20the%20nutshack.zip",
+      "filename": "Its the nutshack.zip",
+      "size": 71481,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

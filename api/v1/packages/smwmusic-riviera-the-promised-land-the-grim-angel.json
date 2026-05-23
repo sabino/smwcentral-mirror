@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-riviera-the-promised-land-the-grim-angel",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7075,
+  "title": "Riviera: The Promised Land - The Grim Angel",
+  "authors": [
+    "Counterfeit"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "Ledah's theme. Works well as an upbeat boss theme.",
+  "latest_version": "smwc-7075-1318102173",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7075,
+      "title": "Riviera: The Promised Land - The Grim Angel",
+      "version": "smwc-7075-1318102173",
+      "upstream_time": 1318102173,
+      "download_url": "https://dl.smwcentral.net/7075/Dear%20Kitoari%2C%20I%20finally%20ported%20it.zip",
+      "filename": "Dear Kitoari%2C I finally ported it.zip",
+      "size": 69591,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

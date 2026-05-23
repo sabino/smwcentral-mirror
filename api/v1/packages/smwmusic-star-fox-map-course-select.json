@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-star-fox-map-course-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13389,
+  "title": "Star Fox - Map Course Select",
+  "authors": [
+    "TheInsanity115"
+  ],
+  "tags": [
+    "space map"
+  ],
+  "description": "This is the epic music of Star Fox, good for OW space.",
+  "latest_version": "smwc-13389-1457578092",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13389,
+      "title": "Star Fox - Map Course Select",
+      "version": "smwc-13389-1457578092",
+      "upstream_time": 1457578092,
+      "download_url": "https://dl.smwcentral.net/13389/Star%20Fox%20-%20Map%20Course%20Select.zip",
+      "filename": "Star Fox - Map Course Select.zip",
+      "size": 40778,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-explosive-cheep-cheep",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 31175,
+  "title": "Explosive Cheep-Cheep",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "cheep-cheep",
+    "enemy",
+    "explosion",
+    "fish",
+    "lorom",
+    "sa-1",
+    "water"
+  ],
+  "description": "This cheep-cheep is set to explode when the player gets close to it. Includes vertical/horizontal underwater variant and the surface jumping one.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"idol\"><a href=\"/?p=profile&amp;id=18321\" style=\"color: #ff9b55;\" class=\"un unavailable inactive\">idol</a></span>.",
+  "latest_version": "smwc-31175-1662334449",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 31175,
+      "title": "Explosive Cheep-Cheep",
+      "version": "smwc-31175-1662334449",
+      "upstream_time": 1662334449,
+      "download_url": "https://dl.smwcentral.net/31175/ExplosiveCheepCheep.zip",
+      "filename": "ExplosiveCheepCheep.zip",
+      "size": 5027,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

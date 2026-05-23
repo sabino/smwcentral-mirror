@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-reflecting-fireball",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3516,
+  "title": "Reflecting Fireball",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "reflecting"
+  ],
+  "description": "Sprite B6 from SMW, the reflecting fireball, disassembled and commented on to be inserted with PIXI.<br>\r\n<br>\r\nSome stuff such as the speeds and tile to use are customizeable.<br>\r\n<br>\r\nTo be assembled with PIXI",
+  "latest_version": "smwc-3516-1253739978",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3516,
+      "title": "Reflecting Fireball",
+      "version": "smwc-3516-1253739978",
+      "upstream_time": 1253739978,
+      "download_url": "https://dl.smwcentral.net/3516/rf.zip",
+      "filename": "rf.zip",
+      "size": 1318,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

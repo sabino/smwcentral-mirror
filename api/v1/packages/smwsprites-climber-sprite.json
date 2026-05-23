@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-climber-sprite",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3338,
+  "title": "Climber Sprite",
+  "authors": [
+    "NovaSquirrel"
+  ],
+  "tags": [
+    "climb",
+    "climbing",
+    "lorom",
+    "sa-1",
+    "wall"
+  ],
+  "description": "My first custom sprite. It follows Mario (depends on extra bit), and climbs up any walls it encounters.",
+  "latest_version": "smwc-3338-1228839860",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3338,
+      "title": "Climber Sprite",
+      "version": "smwc-3338-1228839860",
+      "upstream_time": 1228839860,
+      "download_url": "https://dl.smwcentral.net/3338/WallClimber.zip",
+      "filename": "WallClimber.zip",
+      "size": 1724,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

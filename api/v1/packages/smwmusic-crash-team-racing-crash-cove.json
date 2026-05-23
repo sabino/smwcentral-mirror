@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-crash-team-racing-crash-cove",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38491,
+  "title": "Crash Team Racing - Crash Cove",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "grassland"
+  ],
+  "description": "An upbeat tropical theme that plays in Crash Cove, a beach themed race track that is the first track in CTR.<br>\r\n<br>\r\nUpdate (Winter 2024): more accurate<br>\r\nUpdate (Summer 2024): added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38491-1726850843",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38491,
+      "title": "Crash Team Racing - Crash Cove",
+      "version": "smwc-38491-1726850843",
+      "upstream_time": 1726850843,
+      "download_url": "https://dl.smwcentral.net/38491/CTR%20-%20Crash%20Cove.zip",
+      "filename": "CTR - Crash Cove.zip",
+      "size": 135771,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 37539,
+      "title": "Crash Team Racing - Crash Cove",
+      "version": "smwc-37539-1711672090",
+      "upstream_time": 1711672090,
+      "download_url": "https://dl.smwcentral.net/37539/CTR%20-%20Crash%20Cove%20%28Light%29.zip",
+      "filename": "CTR - Crash Cove (Light).zip",
+      "size": 44998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

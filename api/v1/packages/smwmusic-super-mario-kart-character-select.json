@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-kart-character-select",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8529,
+  "title": "Super Mario Kart - Character Select",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "grassland",
+    "overworld"
+  ],
+  "description": "A short, bouncy song that would work well for a grassland map",
+  "latest_version": "smwc-8529-1396202386",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8529,
+      "title": "Super Mario Kart - Character Select",
+      "version": "smwc-8529-1396202386",
+      "upstream_time": 1396202386,
+      "download_url": "https://dl.smwcentral.net/8529/Character%20Select.zip",
+      "filename": "Character Select.zip",
+      "size": 63394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

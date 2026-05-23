@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-on-off-states-for-any-line-guide",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27858,
+  "title": "On/Off States for Any Line-Guide",
+  "authors": [
+    "elusive",
+    "imamelia",
+    "worldpeace"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch makes it possible to have on/off states for any line-guide. The default settings will allow you to have on/off states for <i>every</i> line-guide, i.e. each line active in the on state, or active in the off state. It also includes the fixes from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23847\">Line Guide Acts-Like Fix</a>. See the readme for more details.",
+  "latest_version": "smwc-27858-1640069353",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27858,
+      "title": "On/Off States for Any Line-Guide",
+      "version": "smwc-27858-1640069353",
+      "upstream_time": 1640069353,
+      "download_url": "https://dl.smwcentral.net/27858/onoffanylineguide.zip",
+      "filename": "onoffanylineguide.zip",
+      "size": 906335,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

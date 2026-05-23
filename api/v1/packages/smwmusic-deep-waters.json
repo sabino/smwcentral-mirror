@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-deep-waters",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30260,
+  "title": "Deep Waters",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "mysterious",
+    "ruins",
+    "sad",
+    "sewer",
+    "temple",
+    "water"
+  ],
+  "description": "I composed this song thinking about underwater levels",
+  "latest_version": "smwc-30260-1658884268",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30260,
+      "title": "Deep Waters",
+      "version": "smwc-30260-1658884268",
+      "upstream_time": 1658884268,
+      "download_url": "https://dl.smwcentral.net/30260/Deep%20Waters.zip",
+      "filename": "Deep Waters.zip",
+      "size": 46532,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

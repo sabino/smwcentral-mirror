@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-better-bomb-koopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16358,
+  "title": "Better Bomb Koopa",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "koopa",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A koopa which explodes a certain time after being stomped. Insprited by mikeyk's, though this one is recoded from scratch and it represents a Koopa more accurately.",
+  "latest_version": "smwc-16358-1510861655",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16358,
+      "title": "Better Bomb Koopa",
+      "version": "smwc-16358-1510861655",
+      "upstream_time": 1510861655,
+      "download_url": "https://dl.smwcentral.net/16358/Bomb%20Koopa%20but%20Cooler.zip",
+      "filename": "Bomb Koopa but Cooler.zip",
+      "size": 9518,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

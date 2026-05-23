@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-fireball-bounce-limit",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 21343,
+  "title": "Fireball Bounce Limit",
+  "authors": [
+    "MarioE"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "fireball",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch adds a configurable limit to the number of bounces that a fireball can take; the fireball will disappear in a puff of smoke after reaching this limit.",
+  "latest_version": "smwc-21343-1571662100",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 21343,
+      "title": "Fireball Bounce Limit",
+      "version": "smwc-21343-1571662100",
+      "upstream_time": 1571662100,
+      "download_url": "https://dl.smwcentral.net/21343/Fireball%20Bounce%20Limit.zip",
+      "filename": "Fireball Bounce Limit.zip",
+      "size": 664,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

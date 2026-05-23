@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-easy-to-see-shaking-shell",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40163,
+  "title": "Easy-to-see Shaking Shell",
+  "authors": [
+    "Isikoro"
+  ],
+  "tags": [
+    "beetle",
+    "koopa",
+    "lorom",
+    "sa-1",
+    "shell",
+    "special world",
+    "stunned"
+  ],
+  "description": "If the resurrection of Koopa Troopa or Buzzy Beetle is approaching, we highlight and display the shaking of the shell.<br>\r\nCombination with the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=15283\">SMB3 Koopa Patch</a> is also possible.<br>\r\nAt Special World, even if the shell is the face of Mario, it shakes properly.<br>\r\nYou can set the presence or absence of the eye display of the Koopa Troopa that Stun timer is operating.",
+  "latest_version": "smwc-40163-1753313202",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40163,
+      "title": "Easy-to-see Shaking Shell",
+      "version": "smwc-40163-1753313202",
+      "upstream_time": 1753313202,
+      "download_url": "https://dl.smwcentral.net/40163/Easy-to-see%20Shaking%20Shell.zip",
+      "filename": "Easy-to-see Shaking Shell.zip",
+      "size": 2108,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

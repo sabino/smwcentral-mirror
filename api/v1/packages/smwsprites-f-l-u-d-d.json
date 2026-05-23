@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-f-l-u-d-d",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 41184,
+  "title": "F.L.U.D.D.",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "float",
+    "floating",
+    "fludd",
+    "fly",
+    "flying",
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "water"
+  ],
+  "description": "The FLUDD, seen in A Strange Mission. It attaches to Mario's back and lets the player fly up as high as they wish. The supply of water, however, is limited and the FLUDD will not operate if it's empty. The current water level is displayed as a counter on the status bar (by default, it's next to the lives).<br>\r\n<br>\r\nThe water level can be refilled by going in water or by picking up the included Refill Shroom. By default, the FLUDD has a maximum of 25 units of water, which decrease by about 2 for every second of flight.<br>\r\n<br>\r\nCheck the ASM files for instructions and customization options.",
+  "latest_version": "smwc-41184-1764518077",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 41184,
+      "title": "F.L.U.D.D.",
+      "version": "smwc-41184-1764518077",
+      "upstream_time": 1764518077,
+      "download_url": "https://dl.smwcentral.net/41184/FLUDD.zip",
+      "filename": "FLUDD.zip",
+      "size": 10761,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

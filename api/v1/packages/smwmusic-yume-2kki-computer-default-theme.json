@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yume-2kki-computer-default-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23164,
+  "title": "Yume 2kki - Computer Default Theme",
+  "authors": [
+    "Tob"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "night"
+  ],
+  "description": "Gorgeous and calm song from Yume 2kki when you're interacting with the computer in Urotsuki's room. Could fit any relaxing setting or scene.",
+  "latest_version": "smwc-23164-1591064224",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23164,
+      "title": "Yume 2kki - Computer Default Theme",
+      "version": "smwc-23164-1591064224",
+      "upstream_time": 1591064224,
+      "download_url": "https://dl.smwcentral.net/23164/2kki_computer.zip",
+      "filename": "2kki_computer.zip",
+      "size": 38670,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

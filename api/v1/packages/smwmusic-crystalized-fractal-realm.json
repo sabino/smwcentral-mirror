@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-crystalized-fractal-realm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39809,
+  "title": "Crystalized Fractal Realm",
+  "authors": [
+    "KungFuFurby"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "environmental",
+    "ghost house",
+    "mysterious",
+    "spooky",
+    "tense"
+  ],
+  "description": "Some of you wondered whether or not the Crystal Castle was the ghost house theme... well, no. This is actually the one I intended as the ghost house theme. And this is when you get lost in this hall of mirrors... lots of reflections, but which is the real one?<br>\r\n<br>\r\nNOTE: Given how long the song is in the first place (<i>longer than 999 seconds to SMW's standard</i>), a ghost house with no timer would probably work best for this particular song... or use a 16-bit timer patch.<br>\r\n<br>\r\nNOTE: The Hurry Up! effect may not appear to speed up all sections of the song, mostly due to lag-related effects from me using a high tempo to minimize staccato (in addition to using light staccato in the first place) as well as usually using volume fades across all of the channels in at least one case. The nature of the song tends to mitigate the usual lag-related gotchas, though, as usually the lag is occurring in the sections where the volume fades are occurring on all of the channels in one go, subsequently meaning that the lag ends when the fades stop occurring on all of the channels at once, which is neatly timed to the end of a section as well.",
+  "latest_version": "smwc-39809-1751237258",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39809,
+      "title": "Crystalized Fractal Realm",
+      "version": "smwc-39809-1751237258",
+      "upstream_time": 1751237258,
+      "download_url": "https://dl.smwcentral.net/39809/Crystalized%20Fractal%20Realm.zip",
+      "filename": "Crystalized Fractal Realm.zip",
+      "size": 211526,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

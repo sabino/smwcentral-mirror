@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-simcity-snes-dr-wright",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30824,
+  "title": "SimCity (SNES) - Dr. Wright",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "grassland",
+    "overworld",
+    "title"
+  ],
+  "description": "Dr. Wright from SimCity.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span>.",
+  "latest_version": "smwc-30824-1660176801",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30824,
+      "title": "SimCity (SNES) - Dr. Wright",
+      "version": "smwc-30824-1660176801",
+      "upstream_time": 1660176801,
+      "download_url": "https://dl.smwcentral.net/30824/Sim%20City%20-%20Dr.%20Wright.zip",
+      "filename": "Sim City - Dr. Wright.zip",
+      "size": 46647,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-smb3-lakitu",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16703,
+  "title": "SMB3 Lakitu",
+  "authors": [
+    "Davros"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "lakitu",
+    "lorom",
+    "sa-1",
+    "smb1",
+    "smb3"
+  ],
+  "description": "A Lakitu that looks like the one from SMB3. It can throw a normal or custom sprite depending on the extra bit, and also has an option to use the Extra Byte 1 (Extension) as the spawned sprite number. A boss variation of Lakitu is also included.<br>\r\n<br>\r\nNote that if you want Lakitu to respawn after being killed, you should use Sonikku's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=15483\">Sprite Respawner</a>.",
+  "latest_version": "smwc-16703-1511811892",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16703,
+      "title": "SMB3 Lakitu",
+      "version": "smwc-16703-1511811892",
+      "upstream_time": 1511811892,
+      "download_url": "https://dl.smwcentral.net/16703/SMB3Lakitu.zip",
+      "filename": "SMB3Lakitu.zip",
+      "size": 9308,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

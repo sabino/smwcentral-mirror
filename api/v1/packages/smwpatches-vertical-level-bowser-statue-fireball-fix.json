@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-vertical-level-bowser-statue-fireball-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 16781,
+  "title": "Vertical Level Bowser Statue Fireball Fix",
+  "authors": [
+    "Medic",
+    "Telinc1"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "needs remoderation",
+    "sa-1",
+    "vertical level"
+  ],
+  "description": "Fixes the bug where Bowser Statue Fireballs never despawn when going offscreen horizontally in vertical levels.",
+  "latest_version": "smwc-16781-1515345855",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 16781,
+      "title": "Vertical Level Bowser Statue Fireball Fix",
+      "version": "smwc-16781-1515345855",
+      "upstream_time": 1515345855,
+      "download_url": "https://dl.smwcentral.net/16781/FireFix.zip",
+      "filename": "FireFix.zip",
+      "size": 407,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

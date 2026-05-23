@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-16x8-on-off-button-switch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4845,
+  "title": "16x8 on/off button switch",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "on-off",
+    "switch"
+  ],
+  "description": "These 2 switches are very similar to <a href=\"http://www.smwcentral.net/?p=section&a=details&id=4687\">On/off button switch ver.4</a><br>\r\nbut there are differences between that block and this block:<br>\r\n<br>\r\n-the side can be activated from side and they are passable.<br>\r\n-a block wide and 1/2 block tall.<br>\r\n-touching anywere on the top half of this blocks won't press it.<br>\r\n<br>\r\nThis is useful for skull kart/SML Marine Pop levels so mario can't \"crash\" into the sides of the switch, making it easier to activate it. <br>\r\n<br>\r\nRead the instructions on how to setup this block.<br>\r\n*fixed a bug when big mario lands on the switch from above and the bottom offset doesn't run.",
+  "latest_version": "smwc-4845-1437927424",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4845,
+      "title": "16x8 on/off button switch",
+      "version": "smwc-4845-1437927424",
+      "upstream_time": 1437927424,
+      "download_url": "https://dl.smwcentral.net/4845/16x8_on-off%20ver2.zip",
+      "filename": "16x8_on-off ver2.zip",
+      "size": 136066,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

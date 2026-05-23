@@ -1,0 +1,32 @@
+{
+  "name": "tools-address-tracker-v5-0",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 39887,
+  "title": "Address tracker v5.0.6",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "address",
+    "ram usage",
+    "tracking"
+  ],
+  "description": "This is a javascript tool (which can be run on a browser) I made to help with tracking used addresses (specifically RAM addresses) when installing ASM resources (patches, blocks, sprites, uberasm tool, etc.).<br>\r\n<br>\r\nTechinically, this is open source since JS as an <a href=\"https://en.wikipedia.org/wiki/Interpreter_(computing)\" rel=\"nofollow\">interpreted language</a>.<br>\r\n<br>\r\nFeatures include sorting them, displaying the gap between two addresses, and if there are two or more entries conflicting (&ldquo;overlap&rdquo;). The last one is very useful if you happen to have an ASM resource bugging out when 2+ resources happen to use the same RAM for different purposes.<br>\r\n<br>\r\nAnother tool is that it automatically gives RAM to each freeram define (assigning) the asm resource requires.<br>\r\n<br>\r\nThis is certainly useful for collaboration hacks to visualize the RAMs being used in a compact user-friendly way.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><pre style=\"border: 1px solid white;\">2025-05-25 v5.0.4<br>\r\n\t-Fixed a problem with Assigner that due to a greedy first hit<br>\r\n\t algorithm, results in a failed assigned address that should be a<br>\r\n\t success. This occurs if you have a define with a shorter RAM,<br>\r\n\t then a longer one on the defines list, and the empty RAM list<br>\r\n\t to have a lower-address gap being longer than the high-address<br>\r\n\t gap, as pointed out by Atari2.0.<br>\r\n\t-All inputs entries now allow spaces instead of just tabs<br>\r\n\t separating addresses, number of bytes, and min and max address<br>\r\n\t (for assigner). This also means that the ASM resource name no<br>\r\n\t longer accepts spaces in its name.<br>\r\n\t-Made the HTML files more pleasnt to read:<br>\r\n\t--No sharp contrasting white-text-on-black-background<br>\r\n\t--Some blocks of text on the 2 tools are now contained within<br>\r\n\t  HTML details tag.<br>\r\n\t-Addresser now accepts freeram list having both the min and max<br>\r\n\t addresses omitted for user friendliness.<br>\r\n\t-Added a percentage and a progress bar for Assigner.html showing<br>\r\n\t how much of all available bytes are taken.<br>\r\n\t-You can now double-click on code displays (in \"pre\" HTML tags)<br>\r\n\t to easily select the entire thing to copy it.<br>\r\n\t-All HTMLs are now linked to each other for ease of use.</pre></div></div><br>\r\n\t-Fixed a slight visual error caused by when the message \"There are<br>\r\n\t define(s) failed to assigned and they are not counted as<br>\r\n\t consuming RAM.\" causes a slight vertical height changes in that<br>\r\n\t area.<br>\r\n\t-Fixed the progress bar having an odd pixel on the left edge and a<br>\r\n\t slight subpixel color on where the fill edge meets the empty<br>\r\n\t part. This is due to some browser rendering error (tested on<br>\r\n\t chrome v137.0.7151.41). This is now moved to a separate HTML<br>\r\n\t element.<br>\r\n\t--As an addition, I added color indicator that turns yellow<br>\r\n\t  when 50-75 percent and red when 75 or more percent.<br>\r\nGithub: https://github.com/GhbSmwc/SMW_Addressmapper",
+  "latest_version": "smwc-39887-1752218422",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 39887,
+      "title": "Address tracker v5.0.6",
+      "version": "smwc-39887-1752218422",
+      "upstream_time": 1752218422,
+      "download_url": "https://dl.smwcentral.net/39887/smw_addressmapper_v5_0_6_.zip",
+      "filename": "smw_addressmapper_v5_0_6_.zip",
+      "size": 34724,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

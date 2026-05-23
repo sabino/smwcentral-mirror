@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-disable-duck-jumping",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40954,
+  "title": "Disable Duck Jumping",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "abilities",
+    "jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Disables jumping while ducking.<br>\r\nOptionally, allows disabling slide jumping, duck jumping off a Lakitu cloud and, if you're into that, swimming up while ducking.",
+  "latest_version": "smwc-40954-1764634073",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40954,
+      "title": "Disable Duck Jumping",
+      "version": "smwc-40954-1764634073",
+      "upstream_time": 1764634073,
+      "download_url": "https://dl.smwcentral.net/40954/No%20Duck%20Jump.zip",
+      "filename": "No Duck Jump.zip",
+      "size": 756,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

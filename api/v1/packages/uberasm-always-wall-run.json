@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-always-wall-run",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41053,
+  "title": "Always Wall-run",
+  "authors": [
+    "Donut"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "wall-running"
+  ],
+  "description": "Allows the player to wall-run on any wall at pretty much any time. No pink triangle needed!<br>\r\n<br>\r\nInformation on how to use can be found in \"always_wallrun.asm\" (the Uberasm file).<br>\r\n<br>\r\nThis is more or less the same code I used in <span class=\"un-outer\" title=\"zynnoir\"><a href=\"/?p=profile&amp;id=42029\" style=\"color: var(--user-color-1);\" class=\"un\">zynnoir</a></span> and I's <a href=\"https://bin.smwcentral.net/u/42029/donutninj_kldc.bps\" rel=\"nofollow\">KLDCX entry</a>.<br>\r\n<br>\r\nNote: Does not work properly with layer 2.",
+  "latest_version": "smwc-41053-1763340498",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41053,
+      "title": "Always Wall-run",
+      "version": "smwc-41053-1763340498",
+      "upstream_time": 1763340498,
+      "download_url": "https://dl.smwcentral.net/41053/always_wallrun.zip",
+      "filename": "always_wallrun.zip",
+      "size": 2201,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

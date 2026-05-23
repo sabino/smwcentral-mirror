@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-puyo-puyo-final-of-puyo-puyo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20132,
+  "title": "Super Puyo Puyo - Final of Puyo Puyo",
+  "authors": [
+    "Kevin",
+    "Vaelstraza"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Very high tempo track. This port would be good for bosses or fast paced levels. <br>\r\n<br>\r\nOriginally ported for the hack 'Wrath of Bowser'",
+  "latest_version": "smwc-20132-1559775621",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20132,
+      "title": "Super Puyo Puyo - Final of Puyo Puyo",
+      "version": "smwc-20132-1559775621",
+      "upstream_time": 1559775621,
+      "download_url": "https://dl.smwcentral.net/20132/Puyofinal.zip",
+      "filename": "Puyofinal.zip",
+      "size": 65702,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

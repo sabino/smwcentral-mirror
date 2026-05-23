@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-bonk-s-adventure-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33536,
+  "title": "Bonk's Adventure - Boss 1",
+  "authors": [
+    "Vellidragon"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "tense"
+  ],
+  "description": "The regular boss theme from Bonk's Adventure a.k.a. B.C. Kid a.k.a. PC Genjin on the PC Engine (TurboGrafx-16), also reused in Bonk's Revenge. Some odd use of squares as quiet makeshift drums below the actual percussion, which was also in the source song.<br>\r\n<br>\r\nPorted by ear by listening to each channel of the vgm.",
+  "latest_version": "smwc-33536-1695095399",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33536,
+      "title": "Bonk's Adventure - Boss 1",
+      "version": "smwc-33536-1695095399",
+      "upstream_time": 1695095399,
+      "download_url": "https://dl.smwcentral.net/33536/Bonk%27s%20Adventure%20-%20Boss%201.zip",
+      "filename": "Bonk%27s Adventure - Boss 1.zip",
+      "size": 31158,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

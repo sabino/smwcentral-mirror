@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-act-clear",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21789,
+  "title": "Sonic the Hedgehog - Act Clear",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "The act clear theme of Sonic 1 and 2. ",
+  "latest_version": "smwc-21789-1578110313",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21789,
+      "title": "Sonic the Hedgehog - Act Clear",
+      "version": "smwc-21789-1578110313",
+      "upstream_time": 1578110313,
+      "download_url": "https://dl.smwcentral.net/21789/act%20clear.zip",
+      "filename": "act clear.zip",
+      "size": 31162,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

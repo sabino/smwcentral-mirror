@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-dynamic-radius-circle-window-v1-1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41035,
+  "title": "Dynamic Radius Circle Window v1.1.1",
+  "authors": [
+    "undefinied3",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "goal",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is basically a piece of code to draw a circle window with a given radius. Unlike the one that comes with Effect Tool, this one generates the circle on the run, not using a pre-computed table, allowing you to change the radius anytime you want.<br>\r\n<br>\r\nThe ASM file comes with some customizable options, such as whether the circle is centered at a fixed position or at Mario, the initial radius and some other stuff.<br>\r\n<br>\r\nNotes: don't use it with message boxes, and make sure your level end isn't in the same level of this effect, otherwise stuff will look glitched up when you cross the goal tape or use the keyhole.<br>\r\n<br>\r\nIf not using the SA-1 patch, turn on the interlacing setting! Otherwise, this will likely cause lag.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Changed the encoding of CircleWindow.asm to UTF-8 so it'll work in asar 2.0.<br>\r\n- Made this LoROM compatible.<br>\r\n- Added a setting that enables interlacing to save on performance at the cost of making the circle look blurrier in motion. Enabling this is recommended if not using the SA-1 patch.<br>\r\n- Made the HDMA channel customizable.<br>\r\n- Fixed a bug where the circle would not initialize if you exit a sublevel and the circle draws at the exact same on screen position before in the next sublevel.</div></div>",
+  "latest_version": "smwc-41035-1763932365",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41035,
+      "title": "Dynamic Radius Circle Window v1.1.1",
+      "version": "smwc-41035-1763932365",
+      "upstream_time": 1763932365,
+      "download_url": "https://dl.smwcentral.net/41035/Circle%20Window%20v1.1.1.zip",
+      "filename": "Circle Window v1.1.1.zip",
+      "size": 4320,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

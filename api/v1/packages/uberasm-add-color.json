@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-add-color",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41162,
+  "title": "Add Color 8 to Event Path Fade",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This UberASM will fade color 8 in palette rows 4-7 during events in the same way as colors 1-7. This allows you to add an additional color to layer 2 tiles that fade in and out during event path fade.",
+  "latest_version": "smwc-41162-1764430474",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41162,
+      "title": "Add Color 8 to Event Path Fade",
+      "version": "smwc-41162-1764430474",
+      "upstream_time": 1764430474,
+      "download_url": "https://dl.smwcentral.net/41162/pathfade_color8_asar2.zip",
+      "filename": "pathfade_color8_asar2.zip",
+      "size": 921,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "smwsprites-venus-flyin-trap",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16257,
+  "title": "Venus Flyin' Trap",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "enemy",
+    "fireball",
+    "jumping",
+    "lorom",
+    "pipe",
+    "piranha plant",
+    "projectile",
+    "sa-1",
+    "venus",
+    "venus fire trap"
+  ],
+  "description": "Venus Firetrap combines with the Jumpin' Piranha Plant to create this monstrosity.<br>\r\n<br>\r\nVenus Flyin' Trap hides in a pipe and jumps out, fluttering a bit, before shooting a fireball or two and hiding back inside the pipe.<br>\r\n<br>\r\nThe Extra Bit determines how many fireballs are to be launched. Clear = 1 fireball, Set = 2 fireballs. It also changes the color of the sprite to match their respective functions in SMB3.<br>\r\n<br>\r\nAt the top of the asm file, there are some configurations for the projectile to be spawned (It can be determined manually, or by the extra property byte instead of spritenumber+1)<br>\r\n<br>\r\nAlso included is a proper 8x8 hitbox fireball sprite. This one bounces like a Fire Bros' fireball by default, but the extra bit can be used to make it go in a straight line like the Venus Firetrap's fireballs usually do.<br>\r\n<br>\r\nHope y'all have fun making level design happen with that!<br>\r\n<br>\r\nOh, and just in case, it includes the Venus Firetrap GFX file that is included with PIXI.",
+  "latest_version": "smwc-16257-1511198703",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16257,
+      "title": "Venus Flyin' Trap",
+      "version": "smwc-16257-1511198703",
+      "upstream_time": 1511198703,
+      "download_url": "https://dl.smwcentral.net/16257/venus_flyin_trap.zip",
+      "filename": "venus_flyin_trap.zip",
+      "size": 6484,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

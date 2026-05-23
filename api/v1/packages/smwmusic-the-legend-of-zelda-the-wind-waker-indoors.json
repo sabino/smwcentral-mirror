@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-the-wind-waker-indoors",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7073,
+  "title": "The Legend of Zelda: The Wind Waker - Indoors",
+  "authors": [
+    "CK Crash"
+  ],
+  "tags": [
+    "calm",
+    "town"
+  ],
+  "description": "The playful, but calm song that plays in houses from Wind Waker. Would suit houses (of course)<br>\r\n or maybe certain cutscenes.",
+  "latest_version": "smwc-7073-1320214122",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7073,
+      "title": "The Legend of Zelda: The Wind Waker - Indoors",
+      "version": "smwc-7073-1320214122",
+      "upstream_time": 1320214122,
+      "download_url": "https://dl.smwcentral.net/7073/indoors.zip",
+      "filename": "indoors.zip",
+      "size": 72492,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

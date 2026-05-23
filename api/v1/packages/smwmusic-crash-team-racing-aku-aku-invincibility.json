@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-team-racing-aku-aku-invincibility",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37176,
+  "title": "Crash Team Racing - Aku-Aku Invincibility",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "jungle",
+    "p-switch",
+    "star"
+  ],
+  "description": "A marimba remix of the invincibility theme from the original Crash Bandicoot trilogy that plays when getting a mask item with a good character.",
+  "latest_version": "smwc-37176-1711471344",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37176,
+      "title": "Crash Team Racing - Aku-Aku Invincibility",
+      "version": "smwc-37176-1711471344",
+      "upstream_time": 1711471344,
+      "download_url": "https://dl.smwcentral.net/37176/CTR%20-%20Aku-Aku%20Invincibility.zip",
+      "filename": "CTR - Aku-Aku Invincibility.zip",
+      "size": 31861,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

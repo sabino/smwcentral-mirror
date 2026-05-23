@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-machina-grass",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7400,
+  "title": "Super Mario Machina - Grass",
+  "authors": [
+    "Slash Man"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "grassland"
+  ],
+  "description": "A calm grass theme composed for a now cancelled hack by Atma, Slash, p4 and Masashi.<br>\r\n<br>\r\n<br>\r\nUpdate (01/17/20):<br>\r\n<br>\r\n- Updated to use .brr instead of .bnk as per remoderation.<br>\r\n- Optimized to reduce insert size by 134 bytes.",
+  "latest_version": "smwc-7400-1330234321",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7400,
+      "title": "Super Mario Machina - Grass",
+      "version": "smwc-7400-1330234321",
+      "upstream_time": 1330234321,
+      "download_url": "https://dl.smwcentral.net/7400/SM.Machina%20-%20Grass.zip",
+      "filename": "SM.Machina - Grass.zip",
+      "size": 49186,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

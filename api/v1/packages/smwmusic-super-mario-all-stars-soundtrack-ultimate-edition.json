@@ -1,0 +1,43 @@
+{
+  "name": "smwmusic-super-mario-all-stars-soundtrack-ultimate-edition",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18816,
+  "title": "Super Mario All-Stars Soundtrack: Ultimate Edition",
+  "authors": [
+    "LadiesMan217",
+    "Vitor Vilela",
+    "musicalman"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "castle",
+    "cave",
+    "game over",
+    "grassland",
+    "misc",
+    "overworld",
+    "star"
+  ],
+  "description": "This is a pack of music ported and SFXs ripped from Super Mario All-Stars which includes a total of 166 songs and 137 SFXs ready to be used with AMK! Musically it includes all original songs from the game, extra songs from the Game Boy Advance versions, extra songs from Mario Maker, as well a few more custom arrangements. In terms of SFX it should include all SFXs from the game with the exception of some which are hardcoded in the SPC engine ($1DFA).<br>\r\n<br>\r\nAll songs are ported with information regarding insert size and more on each txt. SFXs are in hex format, with exception of non-noise instrument commands. (Unfortunately it is rather hard to transform them into notes since most of them are made of pitch slides and other are joined with note length, like the volume command. Note that some SPCs are buggy, for some reason AMK dislike some noise instruments. -Vitor)<br>\r\n<br>\r\nSPCs from the ost have been edited to cut out unnecessary silence and fade outs for those who download simply to listen them.<br>\r\n<br>\r\nPlease give credit if used.<br>\r\n<br>\r\n<br>\r\n<br>\r\nChange Log:<br>\r\n<br>\r\n7-6-19<br>\r\nAdded some ports from Super Mario Bros. Deluxe (Album, Challenge Menu & Toy Box, and Race [sampled and unsampled]). Fixed slight tempo issues in all Ending 2 and Credit 2 variations. Redid a lot of SPC tags, mainly the advance series songs.<br>\r\n<br>\r\n3-11-19<br>\r\nUpdated all Ending 2 and Credit 2 variations. There was a channel the I forgot to enable echo on near the end.<br>\r\n<br>\r\n2-17-19<br>\r\nLowered the octave of the @4 in the SMB1 Airship port so the chords layer as well as SMB3's Airship theme, the unsampled version was left untouched.<br>\r\n<br>\r\n1-30-19<br>\r\nFixed some detuned instruments present in SMB2 and SMB3 Choose A Game port.<br>\r\n<br>\r\n1-12-19<br>\r\nAdded SMB3 Title (Unsampled).<br>\r\n<br>\r\n1-10-2019 Update 2<br>\r\nAdded 2 extra \"songs\", the Intro Chattering (both American and Japanese). The chattering was ported as songs rather than SFX bc there was too much technical difficulties in setting it up to make it work. Added 2 extra sfx instruments. Doomship Moving and Background Phanto's eyes glowing now work. Must add an \"!\" after \"default/11 SMW @17.brr\" and or \"optimized/11 SMW @17.brr\" for Doomship Moving to work and this to InstrumentData.asm under the SFXInstrumentTable (as in after the table):<br>\r\ndb $70, $70, $00, $10, $02, $F4, $F4, $70, $02<br>\r\ndb $70, $70, $00, $10, $11, $FA, $6A, $70, $03<br>\r\n<br>\r\n1-10-2019 Update 1<br>\r\nFixed mislabeled sfx. All should have the correct names and added 4F Explosion in 1DFC.<br>\r\n<br>\r\n01-09-2019<br>\r\nAdded Super Mario Bros. 2 Underground (Beta)<br>\r\n<br>\r\n01-05-2019<br>\r\nAdded $f4 $02 to the SMB2 Title theme as well as other slight text edits.<br>\r\n<br>\r\n01-04-2019<br>\r\nChanged a few SPC timings that I forgot to take out unnecessary silence and changed a bit of incorrect info on some texts.",
+  "latest_version": "smwc-18816-1553136641",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18816,
+      "title": "Super Mario All-Stars Soundtrack: Ultimate Edition",
+      "version": "smwc-18816-1553136641",
+      "upstream_time": 1553136641,
+      "download_url": "https://dl.smwcentral.net/18816/Super%20Mario%20All-Stars%20Soundtrack%20-%20Ultimate%20Edition.zip",
+      "filename": "Super Mario All-Stars Soundtrack - Ultimate Edition.zip",
+      "size": 9923519,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

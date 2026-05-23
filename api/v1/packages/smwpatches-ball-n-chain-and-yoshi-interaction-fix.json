@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-ball-n-chain-and-yoshi-interaction-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 22761,
+  "title": "Ball n' Chain and Yoshi Interaction Fix",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This patch fixes a rather obscure glitch that happens when riding Yoshi: if touching the center of rotation of the Ball n' Chain sprite, the player will take damage and lose Yoshi.",
+  "latest_version": "smwc-22761-1588078103",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 22761,
+      "title": "Ball n' Chain and Yoshi Interaction Fix",
+      "version": "smwc-22761-1588078103",
+      "upstream_time": 1588078103,
+      "download_url": "https://dl.smwcentral.net/22761/BallChainYoshiFix.zip",
+      "filename": "BallChainYoshiFix.zip",
+      "size": 2059,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

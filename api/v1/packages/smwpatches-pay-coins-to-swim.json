@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-pay-coins-to-swim",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 12461,
+  "title": "Pay Coins To Swim",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "sa-1",
+    "swim",
+    "water"
+  ],
+  "description": "This patch makes it cost one coin (or a configurable amount) to swim in water. This was also my first patch.",
+  "latest_version": "smwc-12461-1453078713",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 12461,
+      "title": "Pay Coins To Swim",
+      "version": "smwc-12461-1453078713",
+      "upstream_time": 1453078713,
+      "download_url": "https://dl.smwcentral.net/12461/swim_coins.zip",
+      "filename": "swim_coins.zip",
+      "size": 685,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

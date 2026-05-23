@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-cosmic-psycho-x68000-stg1",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31436,
+  "title": "Cosmic Psycho (X68000) - STG1",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "boss",
+    "chase",
+    "industrial",
+    "night",
+    "sky",
+    "space",
+    "tense",
+    "upbeat"
+  ],
+  "description": "A very shooter game-sounding song from Cosmic Psycho. It's fairly short, and is very upbeat.<br>\r\n<br>\r\nIncludes a define that I completely forgot about until now, which lets you switch the lead in the climax of the song between a hybrid @1/@2, and @17.",
+  "latest_version": "smwc-31436-1663857269",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31436,
+      "title": "Cosmic Psycho (X68000) - STG1",
+      "version": "smwc-31436-1663857269",
+      "upstream_time": 1663857269,
+      "download_url": "https://dl.smwcentral.net/31436/stg1.zip",
+      "filename": "stg1.zip",
+      "size": 66832,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

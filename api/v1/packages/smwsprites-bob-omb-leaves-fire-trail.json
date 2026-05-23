@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-bob-omb-leaves-fire-trail",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42177,
+  "title": "Bob-omb, Leaves Fire Trail",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "carriable",
+    "enemy",
+    "extended",
+    "fire",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
+  "latest_version": "smwc-42177-1777077860",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42177,
+      "title": "Bob-omb, Leaves Fire Trail",
+      "version": "smwc-42177-1777077860",
+      "upstream_time": 1777077860,
+      "download_url": "https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip",
+      "filename": "fire_trail_bob_omb.zip",
+      "size": 6916,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-donkey-kong-land-kremlantis-underwater-ruins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8260,
+  "title": "Donkey Kong Land - Kremlantis/Underwater Ruins",
+  "authors": [
+    "Maxodex"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "A calm slow song best suiting for underwater depths.",
+  "latest_version": "smwc-8260-1346289839",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8260,
+      "title": "Donkey Kong Land - Kremlantis/Underwater Ruins",
+      "version": "smwc-8260-1346289839",
+      "upstream_time": 1346289839,
+      "download_url": "https://dl.smwcentral.net/8260/Kremlantis.zip",
+      "filename": "Kremlantis.zip",
+      "size": 72483,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

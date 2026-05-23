@@ -1,0 +1,42 @@
+{
+  "name": "smwmusic-tasogare-sakaba-uwabami-breakers-step-u-b",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29321,
+  "title": "Tasogare Sakaba ~Uwabami Breakers~ - step u/b",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "carnival",
+    "ghost house",
+    "industrial",
+    "mountain",
+    "night",
+    "sewer",
+    "switch palace",
+    "temple",
+    "town",
+    "urban"
+  ],
+  "description": "The stage 1 theme from Uwabami Breakers, a Touhou-but-not-really game set in a bar.<br>\r\n<br>\r\nThis song is fairly short and repetitive, but it has enough going on in the lead to keep things fresh.<br>\r\n<br>\r\nOriginally ported for Superfamicompo 3.",
+  "latest_version": "smwc-29321-1645197559",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29321,
+      "title": "Tasogare Sakaba ~Uwabami Breakers~ - step u/b",
+      "version": "smwc-29321-1645197559",
+      "upstream_time": 1645197559,
+      "download_url": "https://dl.smwcentral.net/29321/step%20ub.zip",
+      "filename": "step ub.zip",
+      "size": 33447,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

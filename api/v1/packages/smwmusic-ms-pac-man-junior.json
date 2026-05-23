@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-ms-pac-man-junior",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39425,
+  "title": "Ms. Pac-Man - Junior",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "Music that plays for Act 3 of Ms. Pac-Man.<br>\r\n<br>\r\n#define TUNING 1 will play the arcade tuning.<br>\r\n#define TUNING 0 (or any other number) will play the standard tuning.",
+  "latest_version": "smwc-39425-1748372418",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39425,
+      "title": "Ms. Pac-Man - Junior",
+      "version": "smwc-39425-1748372418",
+      "upstream_time": 1748372418,
+      "download_url": "https://dl.smwcentral.net/39425/Ms.%20Pac-Man%20-%20Junior%20%28sampled%29..zip",
+      "filename": "Ms. Pac-Man - Junior (sampled)..zip",
+      "size": 63127,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39424,
+      "title": "Ms. Pac-Man - Junior",
+      "version": "smwc-39424-1748372395",
+      "upstream_time": 1748372395,
+      "download_url": "https://dl.smwcentral.net/39424/Ms.%20Pac-Man%20-%20Junior..zip",
+      "filename": "Ms. Pac-Man - Junior..zip",
+      "size": 61138,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-sonic-advance-egg-rocket-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8569,
+  "title": "Sonic Advance - Egg Rocket Zone",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "space"
+  ],
+  "description": "The epic song that plays in That One Level of Sonic Advance.  Would fit well in a castle set in space.",
+  "latest_version": "smwc-8569-1398076773",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8569,
+      "title": "Sonic Advance - Egg Rocket Zone",
+      "version": "smwc-8569-1398076773",
+      "upstream_time": 1398076773,
+      "download_url": "https://dl.smwcentral.net/8569/Egg%20Rocket%20Zone.zip",
+      "filename": "Egg Rocket Zone.zip",
+      "size": 66044,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

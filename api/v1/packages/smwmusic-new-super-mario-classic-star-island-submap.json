@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-star-island-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23299,
+  "title": "New Super Mario Classic - Star Island Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "bonus",
+    "overworld"
+  ],
+  "description": "Could fit on the bonus or special worlds. This music was played on World S (Big Star World) from New Super Mario Classic (Emerald Edition) (My SMW Hack)<br>\r\n<br>\r\nAlt Name: NSMC - Bonus Submap",
+  "latest_version": "smwc-23299-1592204404",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23299,
+      "title": "New Super Mario Classic - Star Island Submap",
+      "version": "smwc-23299-1592204404",
+      "upstream_time": 1592204404,
+      "download_url": "https://dl.smwcentral.net/23299/NSMC%20Star%20Island%20Submap.zip",
+      "filename": "NSMC Star Island Submap.zip",
+      "size": 30957,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

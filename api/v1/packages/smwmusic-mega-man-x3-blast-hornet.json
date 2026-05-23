@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-mega-man-x3-blast-hornet",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39834,
+  "title": "Mega Man X3 - Blast Hornet",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "dark",
+    "final",
+    "fire",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "Blast Hornet from Mega Man X3.",
+  "latest_version": "smwc-39834-1748805164",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39834,
+      "title": "Mega Man X3 - Blast Hornet",
+      "version": "smwc-39834-1748805164",
+      "upstream_time": 1748805164,
+      "download_url": "https://dl.smwcentral.net/39834/Mega%20Man%20X3%20-%20Blast%20Hornet.zip",
+      "filename": "Mega Man X3 - Blast Hornet.zip",
+      "size": 68490,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19637,
+      "title": "Mega Man X3 - Blast Hornet",
+      "version": "smwc-19637-1555622985",
+      "upstream_time": 1555622985,
+      "download_url": "https://dl.smwcentral.net/19637/Mega%20Man%20X3%20-%20Blast%20Hornet.zip",
+      "filename": "Mega Man X3 - Blast Hornet.zip",
+      "size": 82359,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-iggy-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42003,
+  "title": "Iggy Boss 2024 Edition",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "boss",
+    "iggy",
+    "koopaling",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is an Iggy Boss which can be defeated with 5 hits which will deffert<br>\r\nwhen Iggy is hit, he will be an a Shell<br>\r\non the third and fourth hit Iggy will Spit out a Fireball from the Bowser Statue Sprite<br>\r\non Extra Bit 3 Iggy will throw hammers on the third and fourth hit<br>\r\nRequested by SMW Magic<br>\r\n<br>\r\n2026/03/23<br>\r\nFixed a bug where performing a finishing blow in the air would cause a soft lock.",
+  "latest_version": "smwc-42003-1774355496",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42003,
+      "title": "Iggy Boss 2024 Edition",
+      "version": "smwc-42003-1774355496",
+      "upstream_time": 1774355496,
+      "download_url": "https://dl.smwcentral.net/42003/iggy2024.zip",
+      "filename": "iggy2024.zip",
+      "size": 5146,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

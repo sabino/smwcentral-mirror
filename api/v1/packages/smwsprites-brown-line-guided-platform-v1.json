@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-brown-line-guided-platform-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18757,
+  "title": "Brown Line-Guided Platform v1.1",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 62 in SMW, the brown line-guided platform.<br>\r\n<br>\r\nNow SA-1 hybrid.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nSupport for LM3 exlevel settings. Only works with pixi 1.2.4+",
+  "latest_version": "smwc-18757-1547514611",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18757,
+      "title": "Brown Line-Guided Platform v1.1",
+      "version": "smwc-18757-1547514611",
+      "upstream_time": 1547514611,
+      "download_url": "https://dl.smwcentral.net/18757/SMWSDIS%20-%20sprite%2062%20-%20brown%20line-guided%20platform%20v1.1.zip",
+      "filename": "SMWSDIS - sprite 62 - brown line-guided platform v1.1.zip",
+      "size": 5417,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

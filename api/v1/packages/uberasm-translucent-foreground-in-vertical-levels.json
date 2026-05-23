@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-translucent-foreground-in-vertical-levels",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 14363,
+  "title": "Translucent Foreground in Vertical Levels",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "super fx",
+    "translucency"
+  ],
+  "description": "This allows you to simulate the effects of level modes 1E and 1F in vertical levels.  There are three variants here: one for Layer 1, one for Layer 2, and one for both.",
+  "latest_version": "smwc-14363-1473468421",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 14363,
+      "title": "Translucent Foreground in Vertical Levels",
+      "version": "smwc-14363-1473468421",
+      "upstream_time": 1473468421,
+      "download_url": "https://dl.smwcentral.net/14363/translucent%20vertical%20level%20code.zip",
+      "filename": "translucent vertical level code.zip",
+      "size": 623,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

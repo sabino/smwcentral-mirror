@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-collectable-shell-coins",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3941,
+  "title": "Collectable Shell Coins",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "coin",
+    "collectible",
+    "lorom",
+    "shell",
+    "yoshi coin"
+  ],
+  "description": "Coins that can be collected by throwing a shell at them, in addition to being collectable by Mario. Also comes with a Yoshi Coin one - note that this one is only one 16x16 block. <br>\r\n<br>\r\nNote: Don't put them by walls!",
+  "latest_version": "smwc-3941-1438487499",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3941,
+      "title": "Collectable Shell Coins",
+      "version": "smwc-3941-1438487499",
+      "upstream_time": 1438487499,
+      "download_url": "https://dl.smwcentral.net/3941/Shellable.zip",
+      "filename": "Shellable.zip",
+      "size": 1274,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

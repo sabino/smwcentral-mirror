@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-vvvvvv-gravity-physics-v1-0",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 38019,
+  "title": "VVVVVV Gravity Physics v1.0.1",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "gravity",
+    "lorom",
+    "physics",
+    "sa-1",
+    "vvvvvv"
+  ],
+  "description": "A gimmick from VVVVVV that replaces the jump button with a switch gravity and white lines also switch gravity.<br>\r\n<br>\r\nNote that the instructions for insertion and usage differ slightly if you're using Callisto.",
+  "latest_version": "smwc-38019-1754424429",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 38019,
+      "title": "VVVVVV Gravity Physics v1.0.1",
+      "version": "smwc-38019-1754424429",
+      "upstream_time": 1754424429,
+      "download_url": "https://dl.smwcentral.net/38019/VVVVVVGrav.zip",
+      "filename": "VVVVVVGrav.zip",
+      "size": 5174,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-star-fox-macbeth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25889,
+  "title": "Star Fox - Macbeth",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "fire",
+    "ice",
+    "industrial",
+    "space"
+  ],
+  "description": "One of the stage themes from Star Fox.",
+  "latest_version": "smwc-25889-1614135686",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25889,
+      "title": "Star Fox - Macbeth",
+      "version": "smwc-25889-1614135686",
+      "upstream_time": 1614135686,
+      "download_url": "https://dl.smwcentral.net/25889/Star%20Fox%20-%20113%20Macbeth.zip",
+      "filename": "Star Fox - 113 Macbeth.zip",
+      "size": 50124,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7862,
+      "title": "Star Fox - Macbeth",
+      "version": "smwc-7862-1319009805",
+      "upstream_time": 1319009805,
+      "download_url": "https://dl.smwcentral.net/7862/Macbeth.zip",
+      "filename": "Macbeth.zip",
+      "size": 66357,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

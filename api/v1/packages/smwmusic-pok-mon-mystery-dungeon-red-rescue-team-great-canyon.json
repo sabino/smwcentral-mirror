@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-pok-mon-mystery-dungeon-red-rescue-team-great-canyon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22220,
+  "title": "Pokémon Mystery Dungeon: Red Rescue Team - Great Canyon",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "mountain"
+  ],
+  "description": "Great Canyon from Pokémon Mystery Dungeon: Red Rescue Team. This port includes a version with echo, which sounds nicer but makes the song incompatible with Yoshi and P-Switches. Useful for eastern levels and mountain levels.",
+  "latest_version": "smwc-22220-1582936616",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22220,
+      "title": "Pokémon Mystery Dungeon: Red Rescue Team - Great Canyon",
+      "version": "smwc-22220-1582936616",
+      "upstream_time": 1582936616,
+      "download_url": "https://dl.smwcentral.net/22220/PMD%20Red%20Rescue%20Team%20-%20Great%20Canyon.zip",
+      "filename": "PMD Red Rescue Team - Great Canyon.zip",
+      "size": 146833,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

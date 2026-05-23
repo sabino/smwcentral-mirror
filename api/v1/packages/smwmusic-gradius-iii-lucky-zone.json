@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-gradius-iii-lucky-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28930,
+  "title": "Gradius III - Lucky Zone",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "sky",
+    "space"
+  ],
+  "description": "This song is played in the hidden bonus stages.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+  "latest_version": "smwc-28930-1643690893",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28930,
+      "title": "Gradius III - Lucky Zone",
+      "version": "smwc-28930-1643690893",
+      "upstream_time": 1643690893,
+      "download_url": "https://dl.smwcentral.net/28930/LuckyZone.zip",
+      "filename": "LuckyZone.zip",
+      "size": 62135,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

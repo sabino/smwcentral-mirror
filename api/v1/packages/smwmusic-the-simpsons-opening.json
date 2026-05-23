@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-the-simpsons-opening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7983,
+  "title": "The Simpsons - Opening",
+  "authors": [
+    "ThinkOneMoreTime"
+  ],
+  "tags": [
+    "cave",
+    "town"
+  ],
+  "description": "A classic song, that could actually find use in a variety of places.",
+  "latest_version": "smwc-7983-1318101031",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7983,
+      "title": "The Simpsons - Opening",
+      "version": "smwc-7983-1318101031",
+      "upstream_time": 1318101031,
+      "download_url": "https://dl.smwcentral.net/7983/The%20Simpsons%20Theme.zip",
+      "filename": "The Simpsons Theme.zip",
+      "size": 66566,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

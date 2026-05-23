@@ -1,0 +1,39 @@
+{
+  "name": "smwsprites-drifting-falling-platforms",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20787,
+  "title": "Drifting Falling Platforms",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "falling",
+    "falling platform",
+    "fallingplatform",
+    "grey",
+    "lorom",
+    "platform",
+    "sa-1",
+    "sprite platform"
+  ],
+  "description": "A simple platform which careens to the left or to the right when it spawns, and starts falling straight down when Mario steps on it.<br>\r\n<br>\r\n6 cfg files are included:<br>\r\n\tdrift_plat_2tiles_l.cfg<br>\r\n\tdrift_plat_3tiles_l.cfg<br>\r\n\tdrift_plat_4tiles_l.cfg<br>\r\n<br>\r\n\tdrift_plat_2tiles_r.cfg<br>\r\n\tdrift_plat_3tiles_r.cfg<br>\r\n\tdrift_plat_4tiles_r.cfg<br>\r\n<br>\r\n\"\"\"Ported\"\"\" from the Platform Megapack.<br>\r\n<br>\r\nNow PIXI compatible.",
+  "latest_version": "smwc-20787-1565499228",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20787,
+      "title": "Drifting Falling Platforms",
+      "version": "smwc-20787-1565499228",
+      "upstream_time": 1565499228,
+      "download_url": "https://dl.smwcentral.net/20787/drifting_platform%20%5BPIXI%5D.zip",
+      "filename": "drifting_platform %5BPIXI%5D.zip",
+      "size": 3288,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

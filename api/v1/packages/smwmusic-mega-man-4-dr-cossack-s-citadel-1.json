@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-4-dr-cossack-s-citadel-1",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9207,
+  "title": "Mega Man 4 - Dr. Cossack's Citadel 1 & 2",
+  "authors": [
+    "supershadow64ds"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "forest",
+    "ice",
+    "night"
+  ],
+  "description": "This song from Mega Man 4 is sure to make any stage feel powerful yet dark. This song could pretty much go anywhere there is a lot of action, ice, or possible could even be used for a boss battle if the tempo is increased.",
+  "latest_version": "smwc-9207-1413461938",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9207,
+      "title": "Mega Man 4 - Dr. Cossack's Citadel 1 & 2",
+      "version": "smwc-9207-1413461938",
+      "upstream_time": 1413461938,
+      "download_url": "https://dl.smwcentral.net/9207/Dr%20Cossack%201%20and%202.zip",
+      "filename": "Dr Cossack 1 and 2.zip",
+      "size": 31923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

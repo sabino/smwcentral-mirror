@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-teresa-s-parlor",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8177,
+  "title": "Teresa's Parlor",
+  "authors": [
+    "Fyord"
+  ],
+  "tags": [
+    "ghost house"
+  ],
+  "description": "This is a small piece I wrote for my hack, and I'd like to share it with the SMWC community. It would suit Ghost Houses or sinister bonus games.",
+  "latest_version": "smwc-8177-1319962426",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8177,
+      "title": "Teresa's Parlor",
+      "version": "smwc-8177-1319962426",
+      "upstream_time": 1319962426,
+      "download_url": "https://dl.smwcentral.net/8177/Parlor.zip",
+      "filename": "Parlor.zip",
+      "size": 67058,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

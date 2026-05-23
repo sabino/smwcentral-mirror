@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-surface-jumping-fish",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16758,
+  "title": "Surface Jumping Fish",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "cheep cheep",
+    "cheep-cheep",
+    "disassembly",
+    "fish",
+    "jumping",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 18 (surface jumping cheep-cheep), commented and ready to be inserted with PIXI. SA-1 Compatible.",
+  "latest_version": "smwc-16758-1513010901",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16758,
+      "title": "Surface Jumping Fish",
+      "version": "smwc-16758-1513010901",
+      "upstream_time": 1513010901,
+      "download_url": "https://dl.smwcentral.net/16758/Jumping_Cheep.zip",
+      "filename": "Jumping_Cheep.zip",
+      "size": 1482,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

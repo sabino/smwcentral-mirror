@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-circus-caper-bonus-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16500,
+  "title": "Circus Caper - Bonus Theme",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "This would, believe it or not, make a great bonus game theme.",
+  "latest_version": "smwc-16500-1508826100",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16500,
+      "title": "Circus Caper - Bonus Theme",
+      "version": "smwc-16500-1508826100",
+      "upstream_time": 1508826100,
+      "download_url": "https://dl.smwcentral.net/16500/Circus%20Caper%20%28NES%29%20-%20Bonus%20Theme.zip",
+      "filename": "Circus Caper (NES) - Bonus Theme.zip",
+      "size": 31904,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-snow-bros-2-with-new-elves-world-2",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 41982,
+  "title": "Snow Bros. 2: With New Elves - World 2-2",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "jungle",
+    "mountain",
+    "patch needed"
+  ],
+  "description": "The beanstalk waterfall BG from Snow Bros. 2, I had to separate this BG into 2 separate layers, make sure to set layer 3's X scrolling to \"Variable\" and its Y scrolling to \"Auto-Scroll Down Normal\", plus, you need to use a patch to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">remove the layer 3 status bar</a> or a patch to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">replace it with a sprite status bar</a>",
+  "latest_version": "smwc-41982-1774116709",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 41982,
+      "title": "Snow Bros. 2: With New Elves - World 2-2",
+      "version": "smwc-41982-1774116709",
+      "upstream_time": 1774116709,
+      "download_url": "https://dl.smwcentral.net/41982/snowbros2world22.zip",
+      "filename": "snowbros2world22.zip",
+      "size": 10592,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

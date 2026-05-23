@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-powerup-increment",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3942,
+  "title": "Powerup Increment",
+  "authors": [
+    "Noobish Noobsicle",
+    "coolhack"
+  ],
+  "tags": [
+    "lorom",
+    "powerup",
+    "star"
+  ],
+  "description": "When touched, this block will increase the player's powerup status and then shatter. Increments go in this order: Small &gt; Big &gt; Fiery &gt; Caped &gt; Star. Also comes with a version that sticks with Fiery, it doesn't go to Caped or Star.",
+  "latest_version": "smwc-3942-1425953378",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3942,
+      "title": "Powerup Increment",
+      "version": "smwc-3942-1425953378",
+      "upstream_time": 1425953378,
+      "download_url": "https://dl.smwcentral.net/3942/PowerIncrement.zip",
+      "filename": "PowerIncrement.zip",
+      "size": 1238,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

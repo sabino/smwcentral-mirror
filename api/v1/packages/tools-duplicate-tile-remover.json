@@ -1,0 +1,31 @@
+{
+  "name": "tools-duplicate-tile-remover",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 4593,
+  "title": "Duplicate Tile Remover",
+  "authors": [
+    "Juggling Joker"
+  ],
+  "tags": [
+    "graphics",
+    "utility"
+  ],
+  "description": "This tool finds and removes duplicate tiles in your .bin graphic files, allowing you to save some ROM space. Should be useful to graphics rippers and makers.",
+  "latest_version": "smwc-4593-1363206579",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 4593,
+      "title": "Duplicate Tile Remover",
+      "version": "smwc-4593-1363206579",
+      "upstream_time": 1363206579,
+      "download_url": "https://dl.smwcentral.net/4593/TileCounter.zip",
+      "filename": "TileCounter.zip",
+      "size": 126413,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

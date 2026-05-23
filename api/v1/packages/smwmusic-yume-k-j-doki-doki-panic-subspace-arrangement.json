@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-yume-k-j-doki-doki-panic-subspace-arrangement",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8559,
+  "title": "Yume Kōjō: Doki Doki Panic - Subspace (Arrangement)",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "desert",
+    "overworld"
+  ],
+  "description": "A slightly slowed-down 16-bit arrangement of the Subspace theme from Doki Doki Panic aka the precursor to SMB2 US.  Would best suit a desert overworld.  Not recommended for use in levels because it's quite short.",
+  "latest_version": "smwc-8559-1397625642",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8559,
+      "title": "Yume Kōjō: Doki Doki Panic - Subspace (Arrangement)",
+      "version": "smwc-8559-1397625642",
+      "upstream_time": 1397625642,
+      "download_url": "https://dl.smwcentral.net/8559/DDP%20Subspace.zip",
+      "filename": "DDP Subspace.zip",
+      "size": 63199,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

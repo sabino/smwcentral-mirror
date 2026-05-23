@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-paper-mario-save-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 20642,
+  "title": "Paper Mario Save Block",
+  "authors": [
+    "TheN64man"
+  ],
+  "tags": [
+    "lorom",
+    "paper mario",
+    "sa-1",
+    "save",
+    "vwf dialogues"
+  ],
+  "description": "This block, similar to Paper Mario, will save the game, make sound and display customized text when hit from the bottom. It can only be used once when in a level, then you have to re-enter the level to use it again. Text-free version and VWF Dialogues compatible versions included.<br>\r\nMy first custom block :D",
+  "latest_version": "smwc-20642-1568130538",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 20642,
+      "title": "Paper Mario Save Block",
+      "version": "smwc-20642-1568130538",
+      "upstream_time": 1568130538,
+      "download_url": "https://dl.smwcentral.net/20642/saveblocks.zip",
+      "filename": "saveblocks.zip",
+      "size": 3583,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-contra",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22704,
+  "title": "Contra 4 - Jungle",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "chase",
+    "final",
+    "fire",
+    "industrial",
+    "tense"
+  ],
+  "description": "The first stage theme from Contra 4, A.K.A \"that one Contra game in which virt did the soundtrack for some reason\". Good for tense and fast-paced athletic levels, or just tense levels in general I guess. lol<br>\r\n<br>\r\nWarning: Not compatible with P-Switches.",
+  "latest_version": "smwc-22704-1588807460",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22704,
+      "title": "Contra 4 - Jungle",
+      "version": "smwc-22704-1588807460",
+      "upstream_time": 1588807460,
+      "download_url": "https://dl.smwcentral.net/22704/contra4jungle.zip",
+      "filename": "contra4jungle.zip",
+      "size": 86922,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

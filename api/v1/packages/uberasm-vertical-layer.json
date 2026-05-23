@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-vertical-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41858,
+  "title": "Vertical Layer 2 Scroll",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "autoscroll",
+    "layer 2",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is essentially a recreation of the \"Layer 2 Scroll\" sprite (sprite EA) in UberASM form, with some improvements. Most notably, it now fully supports vertical scrolling in levels, and has full customization of the scrolling parameters.<br>\r\n<br>\r\nAlso compatible with the vanilla auto-scroll sprite out of the box, as well as LM's horizontal Layer 2 autoscroll if you tweak its RAM addresses slightly.",
+  "latest_version": "smwc-41858-1775515844",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41858,
+      "title": "Vertical Layer 2 Scroll",
+      "version": "smwc-41858-1775515844",
+      "upstream_time": 1775515844,
+      "download_url": "https://dl.smwcentral.net/41858/Layer2Scroll.zip",
+      "filename": "Layer2Scroll.zip",
+      "size": 1657,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

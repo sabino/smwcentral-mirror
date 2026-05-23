@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-falling-spike",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3477,
+  "title": "Falling Spike",
+  "authors": [
+    "NekohDot"
+  ],
+  "tags": [
+    "disassembly",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of the falling spike, it's ready to be inserted with PIXI.<br>\r\n<br>\r\nSetting the extra bit will cause the spike rise instead.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-3477-1251579677",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3477,
+      "title": "Falling Spike",
+      "version": "smwc-3477-1251579677",
+      "upstream_time": 1251579677,
+      "download_url": "https://dl.smwcentral.net/3477/FallingSpike.zip",
+      "filename": "FallingSpike.zip",
+      "size": 1082,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

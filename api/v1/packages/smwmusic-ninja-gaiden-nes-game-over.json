@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-ninja-gaiden-nes-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31566,
+  "title": "Ninja Gaiden (NES) - Game Over",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "miss"
+  ],
+  "description": "Did a quick port of the <a href=\"https://youtu.be/2t3QBzWGZXc\" rel=\"nofollow\">Game</a> <a href=\"https://youtu.be/Z4zVzn2NB7c\" rel=\"nofollow\">Over</a> jingle from Ninja Gaiden. Honestly, I think it's the best death jingle in any video game, and I will not allow my statement to be contested.<br>\r\n<br>\r\nThere's an option to enable or disable the SMW death SFX at the beginning:<br>\r\n1. Enables the Miss sound effect (turned on default) <br>\r\n0. Disables the Miss sound effect",
+  "latest_version": "smwc-31566-1672082224",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31566,
+      "title": "Ninja Gaiden (NES) - Game Over",
+      "version": "smwc-31566-1672082224",
+      "upstream_time": 1672082224,
+      "download_url": "https://dl.smwcentral.net/31566/Game%20Over%20%5BNinja%20Gaiden%5D.zip",
+      "filename": "Game Over %5BNinja Gaiden%5D.zip",
+      "size": 61882,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

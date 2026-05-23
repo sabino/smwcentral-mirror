@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-rounding-boo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 17880,
+  "title": "Rounding Boo",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "boo",
+    "enemy",
+    "ghost",
+    "ghost house",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This little ghost moves back and forth, going behind the foreground and coming back with each turn. Extra Byte 1 determines its initial facing direction (left or right), and Extra Byte 2 determines if it'll start in front of or behind the foreground.<br>\r\n<br>\r\nIncludes max speed defines, tilemap defines, and a define for amount of frames before slowing down and turning around.",
+  "latest_version": "smwc-17880-1532193326",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 17880,
+      "title": "Rounding Boo",
+      "version": "smwc-17880-1532193326",
+      "upstream_time": 1532193326,
+      "download_url": "https://dl.smwcentral.net/17880/RoundingBoo.zip",
+      "filename": "RoundingBoo.zip",
+      "size": 3432,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

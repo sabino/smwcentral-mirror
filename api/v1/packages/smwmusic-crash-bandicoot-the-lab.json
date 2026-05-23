@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-crash-bandicoot-the-lab",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36899,
+  "title": "Crash Bandicoot - The Lab",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "industrial",
+    "night",
+    "space"
+  ],
+  "description": "A space-ish theme that plays in the last main level of Crash Bandicoot.<br>\r\n<br>\r\nUpdate (02/16): updated the percussion samples and added echo",
+  "latest_version": "smwc-36899-1708722679",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36899,
+      "title": "Crash Bandicoot - The Lab",
+      "version": "smwc-36899-1708722679",
+      "upstream_time": 1708722679,
+      "download_url": "https://dl.smwcentral.net/36899/CB%20-%20The%20Lab.zip",
+      "filename": "CB - The Lab.zip",
+      "size": 71576,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

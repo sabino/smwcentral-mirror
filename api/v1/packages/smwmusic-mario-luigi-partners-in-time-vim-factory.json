@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-mario-luigi-partners-in-time-vim-factory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19736,
+  "title": "Mario & Luigi: Partners in Time - Vim Factory",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "industrial",
+    "ruins",
+    "sewer",
+    "swamp",
+    "temple"
+  ],
+  "description": "The intense but creepy factory theme from Partners in Time.<br>\r\n<br>\r\nThe regular version is not compatible with Yoshi or thunder, but a version without the echo is included that works with both.",
+  "latest_version": "smwc-19736-1555897082",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19736,
+      "title": "Mario & Luigi: Partners in Time - Vim Factory",
+      "version": "smwc-19736-1555897082",
+      "upstream_time": 1555897082,
+      "download_url": "https://dl.smwcentral.net/19736/vimfactory.zip",
+      "filename": "vimfactory.zip",
+      "size": 128768,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8088,
+      "title": "Mario & Luigi: Partners in Time - Vim Factory",
+      "version": "smwc-8088-1317997053",
+      "upstream_time": 1317997053,
+      "download_url": "https://dl.smwcentral.net/8088/vim_factory.zip",
+      "filename": "vim_factory.zip",
+      "size": 68898,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

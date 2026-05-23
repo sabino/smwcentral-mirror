@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-directional-timed-lift",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 20696,
+  "title": "Directional Timed Lift",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "timed lift"
+  ],
+  "description": "This is a timed lift that can move in different directions, and have variable timer.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-20696-1565253473",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 20696,
+      "title": "Directional Timed Lift",
+      "version": "smwc-20696-1565253473",
+      "upstream_time": 1565253473,
+      "download_url": "https://dl.smwcentral.net/20696/Directional_Timed_Lift.zip",
+      "filename": "Directional_Timed_Lift.zip",
+      "size": 5604,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

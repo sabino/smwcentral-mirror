@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-zelda-ii-the-adventure-of-link-final-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22185,
+  "title": "Zelda II: The Adventure of Link - Final Boss",
+  "authors": [
+    "MegaNerd14"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "An 8-bit port of the music used for Dark Link in Zelda 2.<br>\r\nSuper short yet still manages to be intense. Good for your boss battles.<br>\r\n<br>\r\nBack up (again) with removal reasons fixed, mainly some accuracy issues and not including the SMW samples.<br>\r\n<br>\r\nShoutouts to Maxodex and Nameless.",
+  "latest_version": "smwc-22185-1582068086",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22185,
+      "title": "Zelda II: The Adventure of Link - Final Boss",
+      "version": "smwc-22185-1582068086",
+      "upstream_time": 1582068086,
+      "download_url": "https://dl.smwcentral.net/22185/Zelda%202%20-%20Final%20Boss.zip",
+      "filename": "Zelda 2 - Final Boss.zip",
+      "size": 32498,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-baby-yoshi",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 25330,
+  "title": "Baby Yoshi",
+  "authors": [
+    "Djief"
+  ],
+  "tags": [
+    "baby yoshi",
+    "carriable",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "Disassembly of Baby Yoshi + added options for customization and glitch fixing.<br>\r\n<br>\r\nEverything is explained in asm and text file included.<br>\r\n<br>\r\nMake sure the extra property byte 2 is set to 80 (already like that in the json included).<br>\r\n<br>\r\nLeave all the extra bytes to 00 for a vanilla green Baby Yoshi. First extra byte is the palette, check the files or in LM for options.",
+  "latest_version": "smwc-25330-1611158021",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 25330,
+      "title": "Baby Yoshi",
+      "version": "smwc-25330-1611158021",
+      "upstream_time": 1611158021,
+      "download_url": "https://dl.smwcentral.net/25330/BabyYoshi.zip",
+      "filename": "BabyYoshi.zip",
+      "size": 13765,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

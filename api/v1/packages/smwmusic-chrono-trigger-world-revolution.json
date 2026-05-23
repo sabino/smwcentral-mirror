@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-chrono-trigger-world-revolution",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21104,
+  "title": "Chrono Trigger - World Revolution",
+  "authors": [
+    "SiameseTwins",
+    "Yuzu"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final"
+  ],
+  "description": "Epic final boss music that plays during Lavos' second phase in Chrono Trigger.<br>\r\nNot compatible with: Bonus end & p-switch songs, thunder and Yoshi.<br>\r\n<br>\r\nUpdate 19/09/2019 - Thank you Yuzu for the PWM sample!",
+  "latest_version": "smwc-21104-1568944850",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21104,
+      "title": "Chrono Trigger - World Revolution",
+      "version": "smwc-21104-1568944850",
+      "upstream_time": 1568944850,
+      "download_url": "https://dl.smwcentral.net/21104/CT%20-%20World%20Revolution.zip",
+      "filename": "CT - World Revolution.zip",
+      "size": 83715,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

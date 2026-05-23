@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-monty-mole-pile",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 29012,
+  "title": "Monty Mole Pile",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "lorom",
+    "mole",
+    "monty mole",
+    "sa-1"
+  ],
+  "description": "This pile will continiously produce monty moles. Originally made for Hackjam.",
+  "latest_version": "smwc-29012-1644252919",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 29012,
+      "title": "Monty Mole Pile",
+      "version": "smwc-29012-1644252919",
+      "upstream_time": 1644252919,
+      "download_url": "https://dl.smwcentral.net/29012/MontyMolePile.zip",
+      "filename": "MontyMolePile.zip",
+      "size": 2631,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-seirensen-undefined-fantastic-object-heian-alien",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8419,
+  "title": "Touhou Seirensen ~ Undefined Fantastic Object - Heian Alien",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "The crazy theme of Nue Houjuu, the extra boss in Touhou 12. Due to its crazyness, it fits final boss battles, crazy castles, and chases.",
+  "latest_version": "smwc-8419-1367196717",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8419,
+      "title": "Touhou Seirensen ~ Undefined Fantastic Object - Heian Alien",
+      "version": "smwc-8419-1367196717",
+      "upstream_time": 1367196717,
+      "download_url": "https://dl.smwcentral.net/8419/Heian_Alien.zip",
+      "filename": "Heian_Alien.zip",
+      "size": 75595,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

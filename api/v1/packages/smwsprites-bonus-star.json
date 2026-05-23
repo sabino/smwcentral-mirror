@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-bonus-star",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3448,
+  "title": "Bonus Star",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "bonus",
+    "lorom",
+    "sa-1",
+    "star"
+  ],
+  "description": "This is a small, simple star sprite (graphics from Yoshi's Island) that bounces around and gives you bonus stars depending on the extra property bytes.  Credit is not necessary unless you want to; this took me only about 5-10 minutes to make.",
+  "latest_version": "smwc-3448-1263053911",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3448,
+      "title": "Bonus Star",
+      "version": "smwc-3448-1263053911",
+      "upstream_time": 1263053911,
+      "download_url": "https://dl.smwcentral.net/3448/bonus_star.zip",
+      "filename": "bonus_star.zip",
+      "size": 4873,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

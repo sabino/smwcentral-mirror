@@ -1,0 +1,36 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-wiggler-post-special-zone-koopas-bob-omb-and-goomba",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 30509,
+  "title": "Super Mario World (Pre-release) - Wiggler, Post-Special Zone Koopas, Bob-omb and Goomba",
+  "authors": [
+    "luigi doll",
+    "olgdeldnem"
+  ],
+  "tags": [
+    "bob-omb",
+    "galoomba",
+    "koopa",
+    "patch needed",
+    "piranha plant",
+    "wiggler"
+  ],
+  "description": "Two ExGFX containing the prototype graphics of smw enemigos: wiggler, galoomba/goomba, mask koopa, bob omb and piranha plant; recommendable to change the galoomba palette to green and apply the patch <a href=\"https://smwc.me/s/14538\">Free up Tiles 69 and 83</a> so that a bug in the piranha plant does not happen;one more thing olgdeldnem recreated the wiggler's head and the palette",
+  "latest_version": "smwc-30509-1650054875",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 30509,
+      "title": "Super Mario World (Pre-release) - Wiggler, Post-Special Zone Koopas, Bob-omb and Goomba",
+      "version": "smwc-30509-1650054875",
+      "upstream_time": 1650054875,
+      "download_url": "https://dl.smwcentral.net/30509/post-special-zone-enemies-beta.zip",
+      "filename": "post-special-zone-enemies-beta.zip",
+      "size": 7027,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

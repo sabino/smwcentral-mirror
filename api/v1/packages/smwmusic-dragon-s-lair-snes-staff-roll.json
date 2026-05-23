@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-dragon-s-lair-snes-staff-roll",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39748,
+  "title": "Dragon's Lair (SNES) - Staff Roll",
+  "authors": [
+    "0ne_bins211"
+  ],
+  "tags": [
+    "bonus"
+  ],
+  "description": "An unsampled port of the song used in the password minigame, in the staff roll and in the bonus room",
+  "latest_version": "smwc-39748-1748696850",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39748,
+      "title": "Dragon's Lair (SNES) - Staff Roll",
+      "version": "smwc-39748-1748696850",
+      "upstream_time": 1748696850,
+      "download_url": "https://dl.smwcentral.net/39748/Password%20Unsampled.zip",
+      "filename": "Password Unsampled.zip",
+      "size": 32338,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39747,
+      "title": "Dragon's Lair (SNES) - Staff Roll",
+      "version": "smwc-39747-1748696821",
+      "upstream_time": 1748696821,
+      "download_url": "https://dl.smwcentral.net/39747/Password.zip",
+      "filename": "Password.zip",
+      "size": 73394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-new-super-mario-bros-castle",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 6218,
+  "title": "New Super Mario Bros. - Castle",
+  "authors": [
+    "Infrared"
+  ],
+  "tags": [
+    "castle",
+    "needs remoderation"
+  ],
+  "description": "This BG uses palette row 5 and slot BG1.<br>\r\n<br>\r\nCredit would be nice, but as long as you don't claim it as yours, it's fine.",
+  "latest_version": "smwc-6218-1391878467",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 6218,
+      "title": "New Super Mario Bros. - Castle",
+      "version": "smwc-6218-1391878467",
+      "upstream_time": 1391878467,
+      "download_url": "https://dl.smwcentral.net/6218/nsmbcastle.zip",
+      "filename": "nsmbcastle.zip",
+      "size": 8835,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2719,
+      "title": "New Super Mario Bros. - Castle",
+      "version": "smwc-2719-1409916654",
+      "upstream_time": 1409916654,
+      "download_url": "https://dl.smwcentral.net/2719/Castle.zip",
+      "filename": "Castle.zip",
+      "size": 5659,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

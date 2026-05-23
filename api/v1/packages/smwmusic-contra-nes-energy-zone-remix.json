@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-contra-nes-energy-zone-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38748,
+  "title": "Contra (NES) - Energy Zone (Remix)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "final",
+    "fire",
+    "industrial",
+    "tense",
+    "urban"
+  ],
+  "description": "A remix of Energy Zone from Contra on the NES.<br>\r\n<br>\r\nOmits Thunder and Yoshi (@15).",
+  "latest_version": "smwc-38748-1732824915",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38748,
+      "title": "Contra (NES) - Energy Zone (Remix)",
+      "version": "smwc-38748-1732824915",
+      "upstream_time": 1732824915,
+      "download_url": "https://dl.smwcentral.net/38748/Contra%20%28NES%29%20-%20Energy%20Zone%20%28Remix%29.zip",
+      "filename": "Contra (NES) - Energy Zone (Remix).zip",
+      "size": 83456,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

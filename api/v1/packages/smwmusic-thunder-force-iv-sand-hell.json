@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-thunder-force-iv-sand-hell",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19055,
+  "title": "Thunder Force IV - Sand Hell",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "athletic",
+    "desert",
+    "sky",
+    "tense"
+  ],
+  "description": "This is the very funky, but also very epic, song that plays in the fourth stage of Thunder Force IV. As the title suggests, this stage is supposed to be a desert level, so you could use it in one if the level is fast-paced enough. It could also be used in other settings tho, like a sky level and athletic levels in general.<br>\r\n<br>\r\nEDIT: Due to ARAM limitations, I had to remove some of the echo and samples, but luckily I managed to do it in a way that wouldn't detract too much from the original port.<br>\r\n<br>\r\nWarning: Not compatible with levels utilizing thunder or blarggs.",
+  "latest_version": "smwc-19055-1549241839",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19055,
+      "title": "Thunder Force IV - Sand Hell",
+      "version": "smwc-19055-1549241839",
+      "upstream_time": 1549241839,
+      "download_url": "https://dl.smwcentral.net/19055/Sand_Hell.zip",
+      "filename": "Sand_Hell.zip",
+      "size": 85897,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

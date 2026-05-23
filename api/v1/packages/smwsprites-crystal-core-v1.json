@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-crystal-core-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 14545,
+  "title": "Crystal Core v1.5",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "boss",
+    "enemy",
+    "lorom",
+    "marine pop",
+    "projectile",
+    "sa-1"
+  ],
+  "description": "This is a simple \"boss\" that shoots projectiles at Mario and takes a customizable amount of hits. It's only damaged by collission with Marine Pop's projectile, so make sure you have a Marine Pop in your level.<br>\r\n<br>\r\nYou might want to use No More Sprite Tile Limits.<br>\r\nRequested by Daizo Dee Von.<br>\r\n<br>\r\nv1.5: Now can teleport around and lock the screen, as well as allow it to scroll again after being defeated.<br>\r\n<br>\r\nNow SA-1 hybrid.",
+  "latest_version": "smwc-14545-1477790063",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 14545,
+      "title": "Crystal Core v1.5",
+      "version": "smwc-14545-1477790063",
+      "upstream_time": 1477790063,
+      "download_url": "https://dl.smwcentral.net/14545/Crystal%20Core%20v1.5.zip",
+      "filename": "Crystal Core v1.5.zip",
+      "size": 9105,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

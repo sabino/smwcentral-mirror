@@ -1,0 +1,33 @@
+{
+  "name": "tools-palette-editor",
+  "aliases": [],
+  "section": "tools",
+  "upstream_id": 15531,
+  "title": "Palette Editor",
+  "authors": [
+    "mzuenni"
+  ],
+  "tags": [
+    "gradient",
+    "graphics",
+    "java",
+    "palette"
+  ],
+  "description": "An Lunar Magic like Palette Editor with new Gradients<br>\r\n(LM .palmask update and some other changes)<br>\r\nUpdate:<br>\r\nFinally removed the org.eclipse.swt for clippboard support which makes the program much smaller :D",
+  "latest_version": "smwc-15531-1499525013",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 15531,
+      "title": "Palette Editor",
+      "version": "smwc-15531-1499525013",
+      "upstream_time": 1499525013,
+      "download_url": "https://dl.smwcentral.net/15531/Palette%20Editor.zip",
+      "filename": "Palette Editor.zip",
+      "size": 161364,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

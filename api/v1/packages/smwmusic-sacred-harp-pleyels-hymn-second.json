@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-sacred-harp-pleyels-hymn-second",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 24182,
+  "title": "Sacred Harp - Pleyels Hymn (Second)",
+  "authors": [
+    "qantuum"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "overworld",
+    "ruins",
+    "sad",
+    "sky",
+    "snow"
+  ],
+  "description": "A cute, mellow, nostalgic little song, that has been instrumentalised in a way that fits most snow scenes. Can also be used in ruins and on overworlds.<br>\r\n<br>\r\nNow comes with two octave sets.<br>\r\n<br>\r\n<a href=\"https://sacredharpbremen.org/523-pleyels-hymn-second/\" rel=\"nofollow\">/Full score/</a>",
+  "latest_version": "smwc-24182-1598733846",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 24182,
+      "title": "Sacred Harp - Pleyels Hymn (Second)",
+      "version": "smwc-24182-1598733846",
+      "upstream_time": 1598733846,
+      "download_url": "https://dl.smwcentral.net/24182/pleyel_second_1_0.zip",
+      "filename": "pleyel_second_1_0.zip",
+      "size": 62634,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

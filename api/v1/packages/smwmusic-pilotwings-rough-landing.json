@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-pilotwings-rough-landing",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29845,
+  "title": "Pilotwings - Rough Landing",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "goal",
+    "miss"
+  ],
+  "description": "The music which plays when you managed to land on a Pilotwings course (though whether it was successful or not is a different question).<br>\r\n<br>\r\nIncluded in this ZIP are is the original music as well as one with SMW's miss and a stage clear prelude version.<br>\r\n<br>\r\nNote that if you want to use them as global songs, you have to adjust the TXT a bit to remove the echo as well as include both samples globally.",
+  "latest_version": "smwc-29845-1663963928",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29845,
+      "title": "Pilotwings - Rough Landing",
+      "version": "smwc-29845-1663963928",
+      "upstream_time": 1663963928,
+      "download_url": "https://dl.smwcentral.net/29845/Pilotwings%20Landed%20%5Bs%5D.zip",
+      "filename": "Pilotwings Landed %5Bs%5D.zip",
+      "size": 103619,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29623,
+      "title": "Pilotwings - Rough Landing",
+      "version": "smwc-29623-1649374855",
+      "upstream_time": 1649374855,
+      "download_url": "https://dl.smwcentral.net/29623/Pilotwings%20Landed%20%5Bu%5D.zip",
+      "filename": "Pilotwings Landed %5Bu%5D.zip",
+      "size": 124914,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

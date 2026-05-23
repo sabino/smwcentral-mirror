@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-100-coin-prize",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 23863,
+  "title": "100 Coin Prize",
+  "authors": [
+    "JamesD28",
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "100 coins",
+    "asar 2 remoderation",
+    "lorom",
+    "power-up",
+    "sa-1",
+    "star"
+  ],
+  "description": "This is the 100 Coin Prize patch, converted to UberASM. Instead of a 1‐up, Mario gets a star or a powerup when he gets 100 coins. You can configure what Mario is given upon collecting 100 coins, and you can optionally re‐enable the 1‐up reward in addition to the star/powerup prize.<br>\r\n<br>\r\nCredit is unnecessary.",
+  "latest_version": "smwc-23863-1595250336",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 23863,
+      "title": "100 Coin Prize",
+      "version": "smwc-23863-1595250336",
+      "upstream_time": 1595250336,
+      "download_url": "https://dl.smwcentral.net/23863/100Prize.zip",
+      "filename": "100Prize.zip",
+      "size": 703,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

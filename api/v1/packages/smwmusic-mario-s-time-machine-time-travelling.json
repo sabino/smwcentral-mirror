@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mario-s-time-machine-time-travelling",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11047,
+  "title": "Mario's Time Machine - Time Travelling",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "beach",
+    "grassland",
+    "water"
+  ],
+  "description": "Short, happy song that could work well for early grassland or beach levels.",
+  "latest_version": "smwc-11047-1427855896",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11047,
+      "title": "Mario's Time Machine - Time Travelling",
+      "version": "smwc-11047-1427855896",
+      "upstream_time": 1427855896,
+      "download_url": "https://dl.smwcentral.net/11047/timetravelling.zip",
+      "filename": "timetravelling.zip",
+      "size": 29485,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

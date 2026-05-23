@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-super-mario-kart-koopa-beach",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33625,
+  "title": "Super Mario Kart - Koopa Beach",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "calm",
+    "forest",
+    "grassland",
+    "sky"
+  ],
+  "description": "The upbeat piece which plays in Super Mario Kart's Koopa Beach courses.",
+  "latest_version": "smwc-33625-1685554946",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33625,
+      "title": "Super Mario Kart - Koopa Beach",
+      "version": "smwc-33625-1685554946",
+      "upstream_time": 1685554946,
+      "download_url": "https://dl.smwcentral.net/33625/sneskoopabeach.zip",
+      "filename": "sneskoopabeach.zip",
+      "size": 31392,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 28352,
+      "title": "Super Mario Kart - Koopa Beach",
+      "version": "smwc-28352-1632803994",
+      "upstream_time": 1632803994,
+      "download_url": "https://dl.smwcentral.net/28352/Super%20Mario%20Kart%20-%20Koopa%20Beach.zip",
+      "filename": "Super Mario Kart - Koopa Beach.zip",
+      "size": 45686,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13960,
+      "title": "Super Mario Kart - Koopa Beach",
+      "version": "smwc-13960-1469763048",
+      "upstream_time": 1469763048,
+      "download_url": "https://dl.smwcentral.net/13960/Koopa%20Troopa%20Beach.zip",
+      "filename": "Koopa Troopa Beach.zip",
+      "size": 31680,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-double-powerup-block-pack",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3971,
+  "title": "Double Powerup Block Pack",
+  "authors": [
+    "Keypas"
+  ],
+  "tags": [
+    "item box",
+    "lorom",
+    "powerup",
+    "shop"
+  ],
+  "description": "When the player hits any of these blocks from the Bottom, it will store two of the same powerups to the player, to his status ($7E:0019) and to the \"Item Box\" content. Furthermore, it will blow up, make a small quake and play a sound effect.<br>\r\n<br>\r\nContains:<br>\r\n-A Mushroom Version<br>\r\n-A Fire Flower Version<br>\r\n-A Feather/Cape Version<br>\r\n-A Mushroom Shop version<br>\r\n-A Fire Flower Shop version<br>\r\n-A Feather/Cape Shop version.<br>\r\n<br>\r\nThe shop version can be configured in the ASM file. More information can be found in the readme.",
+  "latest_version": "smwc-3971-1436719684",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3971,
+      "title": "Double Powerup Block Pack",
+      "version": "smwc-3971-1436719684",
+      "upstream_time": 1436719684,
+      "download_url": "https://dl.smwcentral.net/3971/DoublePowerups.zip",
+      "filename": "DoublePowerups.zip",
+      "size": 4308,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

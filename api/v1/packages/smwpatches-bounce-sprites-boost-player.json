@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-bounce-sprites-boost-player",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 34909,
+  "title": "Bounce Sprites Boost Player",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "bounce sprite",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch makes it so bounce sprites that bounce upwards (e.g. from coin blocks) will give the player a small upwards boost. You can choose whether the patch uses a fixed customizable bounce speed, or the vanilla system where one of two speeds is given depending on jump being held.",
+  "latest_version": "smwc-34909-1693063478",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 34909,
+      "title": "Bounce Sprites Boost Player",
+      "version": "smwc-34909-1693063478",
+      "upstream_time": 1693063478,
+      "download_url": "https://dl.smwcentral.net/34909/BounceSprMarioBoost.zip",
+      "filename": "BounceSprMarioBoost.zip",
+      "size": 937,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

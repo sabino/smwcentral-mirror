@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-live-a-live-unseen-syndrome",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22152,
+  "title": "Live A Live - Unseen Syndrome",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "spooky",
+    "tense"
+  ],
+  "description": "The song played of the Sci-fi Chapter from Live-A-Live.<br>\r\nIt contains all of the possible variations seen in-game. (if I didn't ended forgetting one)<br>\r\n<br>\r\nChannel 7 seems to have some additional notes triggered after the song loops once in the original version. I've disabled that on the txt to make less space for the insert size.<br>\r\nThough, if you want to have these additional notes version, open the Unseen Syndrome text file, and change the Extended_Channel_7 value to 1.",
+  "latest_version": "smwc-22152-1581965976",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22152,
+      "title": "Live A Live - Unseen Syndrome",
+      "version": "smwc-22152-1581965976",
+      "upstream_time": 1581965976,
+      "download_url": "https://dl.smwcentral.net/22152/LAL%20-%20Unseen%20Syndrome.zip",
+      "filename": "LAL - Unseen Syndrome.zip",
+      "size": 166528,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

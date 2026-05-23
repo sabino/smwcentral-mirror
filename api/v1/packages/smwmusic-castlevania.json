@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-castlevania",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7681,
+  "title": "Castlevania 64 - Stairway to the Clouds",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "dark",
+    "overworld"
+  ],
+  "description": "This is a rather short and very deeply pitched song. It would suit those very evil Overworlds well.",
+  "latest_version": "smwc-7681-1319467789",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7681,
+      "title": "Castlevania 64 - Stairway to the Clouds",
+      "version": "smwc-7681-1319467789",
+      "upstream_time": 1319467789,
+      "download_url": "https://dl.smwcentral.net/7681/Castlevania%2064%20-%20Stairway%20to%20the%20Clouds.zip",
+      "filename": "Castlevania 64 - Stairway to the Clouds.zip",
+      "size": 66102,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

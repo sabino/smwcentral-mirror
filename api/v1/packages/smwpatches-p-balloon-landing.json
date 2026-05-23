@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-p-balloon-landing",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19975,
+  "title": "P-Balloon Landing",
+  "authors": [
+    "JackTheSpades"
+  ],
+  "tags": [
+    "abilities",
+    "lorom",
+    "p-balloon",
+    "physics",
+    "player",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "With this patch Mario will lose the P-balloon effect whenever he touches the ground. This allowes the player to get rid of the balloon effect whenever they want.<br>\r\nOr for the level designer to build some not-deadly ballooning labyrinths-parcours thingies.<br>\r\n<br>\r\nWhen touching the ground, a sound effect will play and a puff of smoke will appear over Mario. For more information, check out the .asm file",
+  "latest_version": "smwc-19975-1558485051",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19975,
+      "title": "P-Balloon Landing",
+      "version": "smwc-19975-1558485051",
+      "upstream_time": 1558485051,
+      "download_url": "https://dl.smwcentral.net/19975/P_Balloon_landing.zip",
+      "filename": "P_Balloon_landing.zip",
+      "size": 1147,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

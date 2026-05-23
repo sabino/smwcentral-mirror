@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-item-box-time-cost",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18152,
+  "title": "Item Box Time Cost",
+  "authors": [
+    "Maarfy"
+  ],
+  "tags": [
+    "item",
+    "item box",
+    "items",
+    "lorom",
+    "sa-1",
+    "time",
+    "timer"
+  ],
+  "description": "This patch deducts a configurable amount of time from the timer when dropping the item box item with Select. There are three possible outcomes depending on the time cost and how much time remains on the timer (all three outcomes will drop the item box item):<br>\r\n<br>\r\n- If the timer is greater than twice the time cost, the cost will be deducted from the timer<br>\r\n- If the timer is between the cost and twice the cost, the timer will be set to the cost value itself<br>\r\n- If the timer is less than the cost, the item will be dropped with no time deduction<br>\r\n<br>\r\nThis patch also allows enabling a nearby debug function that is otherwise overwritten. All code is fully commented.<br>\r\n<br>\r\nRequested by Ondore's Lies.",
+  "latest_version": "smwc-18152-1537726302",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18152,
+      "title": "Item Box Time Cost",
+      "version": "smwc-18152-1537726302",
+      "upstream_time": 1537726302,
+      "download_url": "https://dl.smwcentral.net/18152/item_box_time_cost.zip",
+      "filename": "item_box_time_cost.zip",
+      "size": 2123,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-homestuck-showtime",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7715,
+  "title": "Homestuck - Showtime",
+  "authors": [
+    "Crispy"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "A requested port. Can fit hectic areas or final levels/bosses/etc.",
+  "latest_version": "smwc-7715-1313689290",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7715,
+      "title": "Homestuck - Showtime",
+      "version": "smwc-7715-1313689290",
+      "upstream_time": 1313689290,
+      "download_url": "https://dl.smwcentral.net/7715/Homestuck%20-%20%27Showtime%27.zip",
+      "filename": "Homestuck - %27Showtime%27.zip",
+      "size": 69928,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

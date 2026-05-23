@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-super-star-run-kirby-run",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22520,
+  "title": "Kirby Super Star - Run, Kirby, Run!",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grassland",
+    "sky"
+  ],
+  "description": "The famous Gourmet Race theme that plays on Kirby Super Star. I've ported this song for 72hoSPC #6, yet it was an unsampled version according to the contest rules. Since that version would become pretty unstable on SMW due to a huge amount of wasted channels with PMod, I decided to accurately port it. Speaking of the song itself, it's a very upbeat track that'd be good for cheery grasslands, or even bonus areas I guess.",
+  "latest_version": "smwc-22520-1585706746",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22520,
+      "title": "Kirby Super Star - Run, Kirby, Run!",
+      "version": "smwc-22520-1585706746",
+      "upstream_time": 1585706746,
+      "download_url": "https://dl.smwcentral.net/22520/gourmetrace.zip",
+      "filename": "gourmetrace.zip",
+      "size": 58438,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

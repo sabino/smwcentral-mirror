@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-classic-fireball",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40151,
+  "title": "Classic Fireball",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "coin",
+    "fireball",
+    "lorom",
+    "powerup",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "When a sprite is hit with a fireball, it doesn't spawn a coin. Score easily configurable (100 by default).<br>\r\n<br>\r\nNow more customizable.",
+  "latest_version": "smwc-40151-1753136982",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40151,
+      "title": "Classic Fireball",
+      "version": "smwc-40151-1753136982",
+      "upstream_time": 1753136982,
+      "download_url": "https://dl.smwcentral.net/40151/classicfire.zip",
+      "filename": "classicfire.zip",
+      "size": 762,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

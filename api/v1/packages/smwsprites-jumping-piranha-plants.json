@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-jumping-piranha-plants",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3646,
+  "title": "Jumping Piranha Plants",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "piranha plant",
+    "plant",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprites 4F and 50 in SMW, the jumping Piranha Plants.  The extra bit determines which of the original sprites it acts like.",
+  "latest_version": "smwc-3646-1278686164",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3646,
+      "title": "Jumping Piranha Plants",
+      "version": "smwc-3646-1278686164",
+      "upstream_time": 1278686164,
+      "download_url": "https://dl.smwcentral.net/3646/SMWSDIS%20-%20sprites%204F%20%26%2050%20-%20jumping%20Piranha%20Plants.zip",
+      "filename": "SMWSDIS - sprites 4F %26 50 - jumping Piranha Plants.zip",
+      "size": 3082,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-prince-of-persia-snes-fight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32567,
+  "title": "Prince of Persia (SNES) - Fight",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "boss",
+    "desert",
+    "final",
+    "tense"
+  ],
+  "description": "Fight from Prince of Persia for the SNES.",
+  "latest_version": "smwc-32567-1678875465",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32567,
+      "title": "Prince of Persia (SNES) - Fight",
+      "version": "smwc-32567-1678875465",
+      "upstream_time": 1678875465,
+      "download_url": "https://dl.smwcentral.net/32567/Prince%20of%20Persia%20%28SNES%29%20-%20Fight.zip",
+      "filename": "Prince of Persia (SNES) - Fight.zip",
+      "size": 58880,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

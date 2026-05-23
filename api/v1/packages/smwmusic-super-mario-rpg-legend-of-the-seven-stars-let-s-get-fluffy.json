@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-let-s-get-fluffy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21062,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Let's Get Fluffy!",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sky"
+  ],
+  "description": "Song that plays in Nimbus Land, good for sky levels/overworlds.<br>\r\nNote: not compatible with thunder sfx and Blarggs.",
+  "latest_version": "smwc-21062-1567838503",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21062,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Let's Get Fluffy!",
+      "version": "smwc-21062-1567838503",
+      "upstream_time": 1567838503,
+      "download_url": "https://dl.smwcentral.net/21062/fooka-fooka.zip",
+      "filename": "fooka-fooka.zip",
+      "size": 43357,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

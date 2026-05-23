@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sexy-parodius-lovely-otohime",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7411,
+  "title": "Sexy Parodius - Lovely Otohime",
+  "authors": [
+    "Kiniko"
+  ],
+  "tags": [
+    "athletic"
+  ],
+  "description": "Sexy Parodius version. Good for eastern levels.",
+  "latest_version": "smwc-7411-1320221251",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7411,
+      "title": "Sexy Parodius - Lovely Otohime",
+      "version": "smwc-7411-1320221251",
+      "upstream_time": 1320221251,
+      "download_url": "https://dl.smwcentral.net/7411/Mayim%20Mayim.zip",
+      "filename": "Mayim Mayim.zip",
+      "size": 71349,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

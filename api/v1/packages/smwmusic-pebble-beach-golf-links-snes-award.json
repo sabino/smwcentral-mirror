@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-pebble-beach-golf-links-snes-award",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41935,
+  "title": "Pebble Beach Golf Links (SNES) - Award",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "sea"
+  ],
+  "description": "'Congratulations'<br>\r\nAward/victory music heard in the SNES/SFC port of Pebble Beach Golf Links/Pebble Beach no Hatou, originating from the PC-98 edition.",
+  "latest_version": "smwc-41935-1777471979",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41935,
+      "title": "Pebble Beach Golf Links (SNES) - Award",
+      "version": "smwc-41935-1777471979",
+      "upstream_time": 1777471979,
+      "download_url": "https://dl.smwcentral.net/41935/Pebble%20Beach%20Golf%20Links%20%28SNES%29%20-%20Award.zip",
+      "filename": "Pebble Beach Golf Links (SNES) - Award.zip",
+      "size": 43295,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

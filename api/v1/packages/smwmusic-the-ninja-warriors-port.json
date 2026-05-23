@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-the-ninja-warriors-port",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34493,
+  "title": "The Ninja Warriors - Port",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "tense",
+    "water"
+  ],
+  "description": "Port from The Ninja Warriors.",
+  "latest_version": "smwc-34493-1690654622",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34493,
+      "title": "The Ninja Warriors - Port",
+      "version": "smwc-34493-1690654622",
+      "upstream_time": 1690654622,
+      "download_url": "https://dl.smwcentral.net/34493/The%20Ninja%20Warriors%20-%20Port%20V2.zip",
+      "filename": "The Ninja Warriors - Port V2.zip",
+      "size": 58356,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 29426,
+      "title": "The Ninja Warriors - Port",
+      "version": "smwc-29426-1646105782",
+      "upstream_time": 1646105782,
+      "download_url": "https://dl.smwcentral.net/29426/The%20Ninja%20Warriors%20-%20Port%20Unsampled.zip",
+      "filename": "The Ninja Warriors - Port Unsampled.zip",
+      "size": 32648,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

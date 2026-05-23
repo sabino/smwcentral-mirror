@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-spelunky-mines-b",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21004,
+  "title": "Spelunky - Mines B",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "One of the songs that play during the Mines world in Spelunky. Good for cave/underground levels. ",
+  "latest_version": "smwc-21004-1567479583",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21004,
+      "title": "Spelunky - Mines B",
+      "version": "smwc-21004-1567479583",
+      "upstream_time": 1567479583,
+      "download_url": "https://dl.smwcentral.net/21004/Spelunky%20-%20Mines%20B.zip",
+      "filename": "Spelunky - Mines B.zip",
+      "size": 64338,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kero-blaster-true-identity",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27690,
+  "title": "Kero Blaster - True Identity",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "tense"
+  ],
+  "description": "A creepy and tense song, predating unfortunate events, from Kero Blaster.<br>\r\nA small warning that this song's noise sample breaks completely, if you pause the game once, due to it using endless legato, so, unless you're using AMK 1.0.8. and beyond, or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23477\">KevinM's patch that fixes this problem</a>, be REALLY careful.",
+  "latest_version": "smwc-27690-1627758228",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27690,
+      "title": "Kero Blaster - True Identity",
+      "version": "smwc-27690-1627758228",
+      "upstream_time": 1627758228,
+      "download_url": "https://dl.smwcentral.net/27690/Kero%20Blaster%20-%20True%20Identity.zip",
+      "filename": "Kero Blaster - True Identity.zip",
+      "size": 36734,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

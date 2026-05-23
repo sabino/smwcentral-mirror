@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-7th-saga-lux-tizer",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25054,
+  "title": "The 7th Saga - Lux Tizer",
+  "authors": [
+    "Noobtella"
+  ],
+  "tags": [
+    "mysterious",
+    "overworld",
+    "ruins"
+  ],
+  "description": "My debut port of the overworld song Lux Tizer from The 7th Saga (SNES). ",
+  "latest_version": "smwc-25054-1607674436",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25054,
+      "title": "The 7th Saga - Lux Tizer",
+      "version": "smwc-25054-1607674436",
+      "upstream_time": 1607674436,
+      "download_url": "https://dl.smwcentral.net/25054/The%207th%20Saga%20-%20Lux%20Tizer.zip",
+      "filename": "The 7th Saga - Lux Tizer.zip",
+      "size": 39062,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

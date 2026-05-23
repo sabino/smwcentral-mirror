@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-plants-vs-zombies-cerebrawl",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37977,
+  "title": "Plants vs. Zombies - Cerebrawl",
+  "authors": [
+    "Enderdavid_HD"
+  ],
+  "tags": [
+    "bonus",
+    "ghost house",
+    "mysterious",
+    "night",
+    "sad",
+    "spooky",
+    "yoshi drums"
+  ],
+  "description": "The Minigame or vasebreaker music from Plants vs. Zombies.<br>\r\n<br>\r\nIncluded are:<br>\r\n- A version with echo.<br>\r\n- A version with echo and yoshi.<br>\r\n- A version without echo.<br>\r\n- A version without echo and yoshi.<br>\r\n<br>\r\nGood for night time or minigame levels.",
+  "latest_version": "smwc-37977-1731032387",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37977,
+      "title": "Plants vs. Zombies - Cerebrawl",
+      "version": "smwc-37977-1731032387",
+      "upstream_time": 1731032387,
+      "download_url": "https://dl.smwcentral.net/37977/Plants%20VS%20Zombies%20-%20Cerebrawl.zip",
+      "filename": "Plants VS Zombies - Cerebrawl.zip",
+      "size": 131343,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

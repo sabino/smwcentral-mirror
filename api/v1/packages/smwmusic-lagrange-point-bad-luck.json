@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-lagrange-point-bad-luck",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25385,
+  "title": "Lagrange Point - Bad Luck",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "game over",
+    "miss",
+    "retro"
+  ],
+  "description": "This is more like a SFX than a fanfare or something,<br>\r\nbut it's included on the soundtrack, so...<br>\r\nPlayed when something unfortunate is about to happen.<br>\r\nStandalone version using SMW samples only. (not gonna lie, no SMW sample seems to fit very well with the sampled one)",
+  "latest_version": "smwc-25385-1607726006",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25385,
+      "title": "Lagrange Point - Bad Luck",
+      "version": "smwc-25385-1607726006",
+      "upstream_time": 1607726006,
+      "download_url": "https://dl.smwcentral.net/25385/Lagrange%20Point%20-%20Bad%20Luck%20%28Unsampled%29.zip",
+      "filename": "Lagrange Point - Bad Luck (Unsampled).zip",
+      "size": 31017,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25384,
+      "title": "Lagrange Point - Bad Luck",
+      "version": "smwc-25384-1607725960",
+      "upstream_time": 1607725960,
+      "download_url": "https://dl.smwcentral.net/25384/Lagrange%20Point%20-%20Bad%20Luck.zip",
+      "filename": "Lagrange Point - Bad Luck.zip",
+      "size": 132824,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

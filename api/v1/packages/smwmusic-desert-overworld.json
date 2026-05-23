@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-desert-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7796,
+  "title": "Desert Overworld",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "desert",
+    "overworld",
+    "temple"
+  ],
+  "description": "A short, Arabic-themed track that could be used for an overworld. Not recommended for level usage.",
+  "latest_version": "smwc-7796-1336553930",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7796,
+      "title": "Desert Overworld",
+      "version": "smwc-7796-1336553930",
+      "upstream_time": 1336553930,
+      "download_url": "https://dl.smwcentral.net/7796/Desert%20Overworld.zip",
+      "filename": "Desert Overworld.zip",
+      "size": 69722,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

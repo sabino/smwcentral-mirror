@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mother-magicant",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38852,
+  "title": "Mother - Magicant",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "overworld"
+  ],
+  "description": "A SNES interpretation of the Magicant theme from Mother on the NES, using samples from Earthbound.",
+  "latest_version": "smwc-38852-1735411226",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38852,
+      "title": "Mother - Magicant",
+      "version": "smwc-38852-1735411226",
+      "upstream_time": 1735411226,
+      "download_url": "https://dl.smwcentral.net/38852/Mother%20-%20Magicant%20%28SNES%29.zip",
+      "filename": "Mother - Magicant (SNES).zip",
+      "size": 47873,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

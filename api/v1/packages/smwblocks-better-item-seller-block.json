@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-better-item-seller-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4023,
+  "title": "Better Item Seller Block",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "item",
+    "lorom",
+    "shop"
+  ],
+  "description": "I saw the original item seller here, but I thought: \"This waste a LOT of cycles and could be smaller in terms of coding\", so here it is: This block sells your item box for some amount of coins. First advantage: it uses RAM $13CC rather than CLCing and ADCing to $0DBF. BUT this isn't the only thing! I included a Item Seller that is compatible with Item Box Special Patch (the huge table is needed).<br>\r\nNo credit needed, as it was easy to code. Just remember to set it to act like tile 129.<br>\r\n",
+  "latest_version": "smwc-4023-1426306532",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4023,
+      "title": "Better Item Seller Block",
+      "version": "smwc-4023-1426306532",
+      "upstream_time": 1426306532,
+      "download_url": "https://dl.smwcentral.net/4023/Better%20Item%20Seller.zip",
+      "filename": "Better Item Seller.zip",
+      "size": 1233,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

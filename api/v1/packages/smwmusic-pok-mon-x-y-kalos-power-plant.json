@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-pok-mon-x-y-kalos-power-plant",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17777,
+  "title": "Pokémon X/Y - Kalos Power Plant",
+  "authors": [
+    "Giftshaven"
+  ],
+  "tags": [
+    "cave",
+    "industrial",
+    "space",
+    "town",
+    "water"
+  ],
+  "description": "One of the better songs from this particular Pokémon game. It sounds mildly dramatic and chill. This can probably work in a mechanical level, like a factory. Might even work as a water level theme because of the slow pace of the song. Really anything \"indoorsy\" will do. <br>\r\n<br>\r\nEXTRA NOTE: This is exactly how it was in Idol 9 round 2, except I swapped channels so that the SFX doesn't interrupt the song too much.",
+  "latest_version": "smwc-17777-1531272969",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17777,
+      "title": "Pokémon X/Y - Kalos Power Plant",
+      "version": "smwc-17777-1531272969",
+      "upstream_time": 1531272969,
+      "download_url": "https://dl.smwcentral.net/17777/Kalos%20Power%20Plant.zip",
+      "filename": "Kalos Power Plant.zip",
+      "size": 73032,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

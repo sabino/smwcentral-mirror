@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-siren-alexander-brandon-snowfall",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29475,
+  "title": "Siren (Alexander Brandon) - Snowfall",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "athletic",
+    "ice",
+    "snow"
+  ],
+  "description": "The song best known from worldpeace's unsampled port, which he used in the Cool Or Cruel stage Gonzo.<br>\r\n<br>\r\nThere's a define option for whether you want the chords during the climax to use a complex volume pattern like the original mod file, or play simpler fast repeating notes like worldpeace's port and the original midi file. The default is the simpler midi pattern (I think it sounds better that way).<br>\r\n",
+  "latest_version": "smwc-29475-1645747484",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29475,
+      "title": "Siren (Alexander Brandon) - Snowfall",
+      "version": "smwc-29475-1645747484",
+      "upstream_time": 1645747484,
+      "download_url": "https://dl.smwcentral.net/29475/Siren_-%20Snowfall.zip",
+      "filename": "Siren_- Snowfall.zip",
+      "size": 159283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7825,
+      "title": "Siren (Alexander Brandon) - Snowfall",
+      "version": "smwc-7825-1312352868",
+      "upstream_time": 1312352868,
+      "download_url": "https://dl.smwcentral.net/7825/Snowfall.zip",
+      "filename": "Snowfall.zip",
+      "size": 68398,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

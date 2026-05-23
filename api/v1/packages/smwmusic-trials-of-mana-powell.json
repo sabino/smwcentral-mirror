@@ -1,0 +1,49 @@
+{
+  "name": "smwmusic-trials-of-mana-powell",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 18850,
+  "title": "Trials of Mana - Powell",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "overworld",
+    "temple"
+  ],
+  "description": "(Also known as \"Seiken Densetsu 3\" in Japan)<br>\r\n<br>\r\nGood for forests.",
+  "latest_version": "smwc-18850-1546974799",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 18850,
+      "title": "Trials of Mana - Powell",
+      "version": "smwc-18850-1546974799",
+      "upstream_time": 1546974799,
+      "download_url": "https://dl.smwcentral.net/18850/Seiken%20Densetsu%203%20-%20Powell.zip",
+      "filename": "Seiken Densetsu 3 - Powell.zip",
+      "size": 32140,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11204,
+      "title": "Trials of Mana - Powell",
+      "version": "smwc-11204-1430457240",
+      "upstream_time": 1430457240,
+      "download_url": "https://dl.smwcentral.net/11204/Seiken%20Densetsu%203%20-%20Powell.zip",
+      "filename": "Seiken Densetsu 3 - Powell.zip",
+      "size": 60693,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

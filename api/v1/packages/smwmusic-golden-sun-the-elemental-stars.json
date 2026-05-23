@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-golden-sun-the-elemental-stars",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20521,
+  "title": "Golden Sun - The Elemental Stars",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "ice",
+    "night",
+    "overworld",
+    "temple"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nEnchanting track from Golden Sun. I used CT's choir, Star Ocean's harp and 757's panflute samples for this one.",
+  "latest_version": "smwc-20521-1562579474",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20521,
+      "title": "Golden Sun - The Elemental Stars",
+      "version": "smwc-20521-1562579474",
+      "upstream_time": 1562579474,
+      "download_url": "https://dl.smwcentral.net/20521/Golden%20Sun%20-%20The%20Elemental%20Stars.zip",
+      "filename": "Golden Sun - The Elemental Stars.zip",
+      "size": 68260,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 14489,
+      "title": "Golden Sun - The Elemental Stars",
+      "version": "smwc-14489-1477253010",
+      "upstream_time": 1477253010,
+      "download_url": "https://dl.smwcentral.net/14489/Golden%20Sun%20-%20The%20Elemental%20Stars.zip",
+      "filename": "Golden Sun - The Elemental Stars.zip",
+      "size": 68218,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

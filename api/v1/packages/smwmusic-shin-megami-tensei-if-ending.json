@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-shin-megami-tensei-if-ending",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37280,
+  "title": "Shin Megami Tensei if... - Ending",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "mysterious"
+  ],
+  "description": "Plays after you beat the game.",
+  "latest_version": "smwc-37280-1714363868",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37280,
+      "title": "Shin Megami Tensei if... - Ending",
+      "version": "smwc-37280-1714363868",
+      "upstream_time": 1714363868,
+      "download_url": "https://dl.smwcentral.net/37280/SMT%20if%20Ending.zip",
+      "filename": "SMT if Ending.zip",
+      "size": 36003,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

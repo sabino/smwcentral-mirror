@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-tiny-toon-adventures-nes-water",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8552,
+  "title": "Tiny Toon Adventures (NES) - Water",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "A calm, waltzy song that would work well in a water level.",
+  "latest_version": "smwc-8552-1397124656",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8552,
+      "title": "Tiny Toon Adventures (NES) - Water",
+      "version": "smwc-8552-1397124656",
+      "upstream_time": 1397124656,
+      "download_url": "https://dl.smwcentral.net/8552/TTA%20Water.zip",
+      "filename": "TTA Water.zip",
+      "size": 64191,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

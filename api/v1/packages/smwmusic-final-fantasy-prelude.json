@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-final-fantasy-prelude",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7731,
+  "title": "Final Fantasy - Prelude",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "space",
+    "title"
+  ],
+  "description": "It's a short yet beautiful song from the first installment of the Final Fantasy series.",
+  "latest_version": "smwc-7731-1312193151",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7731,
+      "title": "Final Fantasy - Prelude",
+      "version": "smwc-7731-1312193151",
+      "upstream_time": 1312193151,
+      "download_url": "https://dl.smwcentral.net/7731/FF1%20-%20Prelude.zip",
+      "filename": "FF1 - Prelude.zip",
+      "size": 66660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

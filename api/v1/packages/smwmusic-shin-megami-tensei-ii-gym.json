@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-shin-megami-tensei-ii-gym",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37259,
+  "title": "Shin Megami Tensei II - Gym",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival",
+    "cutscene"
+  ],
+  "description": "There‘s a different version of this track with a different instrument in SMT if... known as 'Important Meeting‘.<br>\r\nYou can switch between the SMT 1 and SMT if… versions with:<br>\r\nset define to #define Version 0, to get the SMT 2 version<br>\r\nset define to #define Version 1, to get the SMT if... version<br>\r\n",
+  "latest_version": "smwc-37259-1713418229",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37259,
+      "title": "Shin Megami Tensei II - Gym",
+      "version": "smwc-37259-1713418229",
+      "upstream_time": 1713418229,
+      "download_url": "https://dl.smwcentral.net/37259/SMT2%20Gym%20Important%20Meeting.zip",
+      "filename": "SMT2 Gym Important Meeting.zip",
+      "size": 100635,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

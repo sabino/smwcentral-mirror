@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-custom-overworld-border-player-background",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 27254,
+  "title": "Custom Overworld Border Player Background",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This simple patch allows you to individually change all of the 16 8x8 tiles that are drawn behind the player on the Overworld border, as well as their properties.",
+  "latest_version": "smwc-27254-1629284140",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 27254,
+      "title": "Custom Overworld Border Player Background",
+      "version": "smwc-27254-1629284140",
+      "upstream_time": 1629284140,
+      "download_url": "https://dl.smwcentral.net/27254/border_mario_bg.zip",
+      "filename": "border_mario_bg.zip",
+      "size": 538,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

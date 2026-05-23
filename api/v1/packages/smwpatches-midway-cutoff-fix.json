@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-midway-cutoff-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 23443,
+  "title": "Midway Cutoff Fix",
+  "authors": [
+    "StackDino"
+  ],
+  "tags": [
+    "lorom",
+    "map16",
+    "midway",
+    "sa-1"
+  ],
+  "description": "This patch will remove the tape from the midpoint completely without let a little piece.<br>\r\nYou can change the tiles to be set in the asm file.<br>\r\n<br>\r\nA GPS routine, \"Change Map16\", is included.",
+  "latest_version": "smwc-23443-1597636699",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 23443,
+      "title": "Midway Cutoff Fix",
+      "version": "smwc-23443-1597636699",
+      "upstream_time": 1597636699,
+      "download_url": "https://dl.smwcentral.net/23443/Midway%20Cutoff%20Fix.zip",
+      "filename": "Midway Cutoff Fix.zip",
+      "size": 1600,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

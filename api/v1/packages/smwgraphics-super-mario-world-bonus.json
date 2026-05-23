@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-bonus",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 14168,
+  "title": "Super Mario World - Bonus",
+  "authors": [
+    "S.R.H."
+  ],
+  "tags": [
+    "bonus",
+    "patch needed",
+    "texture"
+  ],
+  "description": "All of the original bonus background, now in Layer 3.<br>\r\nRequested by TheAbusefreakhacker0.<br>\r\n<br>\r\nmod note: as the original status bar will cut fullscreen layer 3 backgrounds off, you may want to use a status bar patch (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">Sprite Status Bar</a>)",
+  "latest_version": "smwc-14168-1472333756",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 14168,
+      "title": "Super Mario World - Bonus",
+      "version": "smwc-14168-1472333756",
+      "upstream_time": 1472333756,
+      "download_url": "https://dl.smwcentral.net/14168/SMW%20Bonus%20Layer%203.zip",
+      "filename": "SMW Bonus Layer 3.zip",
+      "size": 1890,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

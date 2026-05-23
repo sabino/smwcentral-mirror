@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-sonic-cd-jp-eu-palmtree-panic-zone-bad-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17449,
+  "title": "Sonic CD (JP/EU) - Palmtree Panic Zone (Bad Future)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "forest",
+    "industrial",
+    "tense"
+  ],
+  "description": "This is Palmtree Panic Bad Future, and also the first port that I made where it's actually from (Naofumi) Hataya and not (Masafumi) Ogata this time around (tho I mean, I have technically already did one or two Ogata tracks from each stage that he composed for Sonic CD, so I think this is the perfect time to give Hataya a chance lol)<br>\r\n<br>\r\nThis port is actually better suited for a factory or something similar surprisingly, or you can go the same way as the original did and use this for a mechanical forest level; either way, it's on you ¯\\_(&#12484;)_/¯",
+  "latest_version": "smwc-17449-1524704203",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17449,
+      "title": "Sonic CD (JP/EU) - Palmtree Panic Zone (Bad Future)",
+      "version": "smwc-17449-1524704203",
+      "upstream_time": 1524704203,
+      "download_url": "https://dl.smwcentral.net/17449/Sonic%20CD%20%28JP%29%20-%20Palmtree%20Panic%20%28Bad%20Future%29.zip",
+      "filename": "Sonic CD (JP) - Palmtree Panic (Bad Future).zip",
+      "size": 86591,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

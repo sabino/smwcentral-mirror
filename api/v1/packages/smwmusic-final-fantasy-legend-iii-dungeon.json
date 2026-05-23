@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-legend-iii-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7637,
+  "title": "Final Fantasy Legend III - Dungeon 1 (Extended Dark Mix)",
+  "authors": [
+    "MidiGuy"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ruins"
+  ],
+  "description": "Here's a darker version of the first dungeon theme from FF3 Legends. Good for dark places and probably cut-scenes too.",
+  "latest_version": "smwc-7637-1320130786",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7637,
+      "title": "Final Fantasy Legend III - Dungeon 1 (Extended Dark Mix)",
+      "version": "smwc-7637-1320130786",
+      "upstream_time": 1320130786,
+      "download_url": "https://dl.smwcentral.net/7637/FFL3%20-%20Dungeon%201%20%28Extended%20Dark%20Mix%29.zip",
+      "filename": "FFL3 - Dungeon 1 (Extended Dark Mix).zip",
+      "size": 67039,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-undertale-it-s-showtime",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13916,
+  "title": "Undertale - It's Showtime!",
+  "authors": [
+    "Sayuri"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene"
+  ],
+  "description": "Good for introducing game shows hosted by supposedly killer robots looking for human souls.",
+  "latest_version": "smwc-13916-1470007919",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13916,
+      "title": "Undertale - It's Showtime!",
+      "version": "smwc-13916-1470007919",
+      "upstream_time": 1470007919,
+      "download_url": "https://dl.smwcentral.net/13916/Undertale%20-%20It%27s%20Showtime%21%20%5BS%5D.zip",
+      "filename": "Undertale - It%27s Showtime%21 %5BS%5D.zip",
+      "size": 42903,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

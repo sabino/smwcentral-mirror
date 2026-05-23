@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-classic-ship",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27111,
+  "title": "Classic Ship 2021",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "airship",
+    "ship"
+  ],
+  "description": "Here's a ship tileset based on FG Palette 4 that includes pieces for both Koopa Airships and pirate ships.",
+  "latest_version": "smwc-27111-1622312590",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27111,
+      "title": "Classic Ship 2021",
+      "version": "smwc-27111-1622312590",
+      "upstream_time": 1622312590,
+      "download_url": "https://dl.smwcentral.net/27111/ClassicShip2021.zip",
+      "filename": "ClassicShip2021.zip",
+      "size": 4672,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 21015,
+      "title": "Classic Ship",
+      "version": "smwc-21015-1567305893",
+      "upstream_time": 1567305893,
+      "download_url": "https://dl.smwcentral.net/21015/ClassicShip.zip",
+      "filename": "ClassicShip.zip",
+      "size": 4770,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

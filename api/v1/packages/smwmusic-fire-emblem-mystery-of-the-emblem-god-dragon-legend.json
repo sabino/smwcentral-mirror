@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-fire-emblem-mystery-of-the-emblem-god-dragon-legend",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33160,
+  "title": "Fire Emblem: Mystery of the Emblem - God Dragon Legend",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious",
+    "overworld"
+  ],
+  "description": "A mysterious but godly theme which plays on certain cutscenes book 2 of Fire Emblem: Mystery of the Emblem, typically associated with Naga.",
+  "latest_version": "smwc-33160-1686977491",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33160,
+      "title": "Fire Emblem: Mystery of the Emblem - God Dragon Legend",
+      "version": "smwc-33160-1686977491",
+      "upstream_time": 1686977491,
+      "download_url": "https://dl.smwcentral.net/33160/God%20Dragon%20Legend%20%28U%29.zip",
+      "filename": "God Dragon Legend (U).zip",
+      "size": 31691,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 33159,
+      "title": "Fire Emblem: Mystery of the Emblem - God Dragon Legend",
+      "version": "smwc-33159-1686977460",
+      "upstream_time": 1686977460,
+      "download_url": "https://dl.smwcentral.net/33159/God%20Dragon%20Legend.zip",
+      "filename": "God Dragon Legend.zip",
+      "size": 40337,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-puyo-puyo-sticker-of-puyo-puyo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7588,
+  "title": "Super Puyo Puyo - Sticker of Puyo Puyo",
+  "authors": [
+    "S.N.N."
+  ],
+  "tags": [
+    "athletic",
+    "bonus"
+  ],
+  "description": "A nice, upbeat theme. This was also in the Genesis game 'Dr. Robotnik's Mean Bean Machine' as the Exercise Mode track.",
+  "latest_version": "smwc-7588-1316283735",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7588,
+      "title": "Super Puyo Puyo - Sticker of Puyo Puyo",
+      "version": "smwc-7588-1316283735",
+      "upstream_time": 1316283735,
+      "download_url": "https://dl.smwcentral.net/7588/Sticker.zip",
+      "filename": "Sticker.zip",
+      "size": 68590,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-fun-day-in-dark-times",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32177,
+  "title": "Fun Day in Dark Times",
+  "authors": [
+    "Retr0Cat"
+  ],
+  "tags": [
+    "athletic",
+    "chase",
+    "tense"
+  ],
+  "description": "Song could be to loud. Feel free to lower the volume in the .txt file.",
+  "latest_version": "smwc-32177-1674328812",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32177,
+      "title": "Fun Day in Dark Times",
+      "version": "smwc-32177-1674328812",
+      "upstream_time": 1674328812,
+      "download_url": "https://dl.smwcentral.net/32177/Fun%20Day%20in%20Dark%20Times.zip",
+      "filename": "Fun Day in Dark Times.zip",
+      "size": 31881,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

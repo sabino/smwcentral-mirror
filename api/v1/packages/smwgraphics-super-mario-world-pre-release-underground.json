@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-pre-release-underground",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 25240,
+  "title": "Super Mario World (Pre-release) - Underground",
+  "authors": [
+    "nnj"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "needs remoderation"
+  ],
+  "description": "An underground tileset from the Super Mario World prototype leaks. This tileset uses FG Palette 2, and is compatible with page 1's map16, so there's no need to add an addition custom palette/map16 page.<br>\r\n<br>\r\nAccording to tcrf.net, this tileset is dated 14 May 1990 20:49. By filename it was referred to as \"kanaami\" meaning \"wire mesh\". It was repurposed into the final's castle tileset later on.",
+  "latest_version": "smwc-25240-1606133111",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 25240,
+      "title": "Super Mario World (Pre-release) - Underground",
+      "version": "smwc-25240-1606133111",
+      "upstream_time": 1606133111,
+      "download_url": "https://dl.smwcentral.net/25240/proto_underground.zip",
+      "filename": "proto_underground.zip",
+      "size": 3184,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

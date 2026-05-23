@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-banshiryuu-death-twins",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27539,
+  "title": "Banshiryuu - Death Twins",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "chase",
+    "ghost house",
+    "industrial",
+    "mountain",
+    "switch palace",
+    "tense"
+  ],
+  "description": "The theme of the third extra stage bosses, Mei and Mai, in the third Seihou game, Banshiryuu. I don't think any of the three people who know about this game expected a port from it to ever exist, eh?<br>\r\n<br>\r\nThis song is overall a mess, both compositionally and mixing-wise, and while I did try to clean up the mixing at least, it's still a bit all over the place.<br>\r\n<br>\r\nIt's a short and repetitive, high-energy song with a short \"break\" where it gets quiet.<br>\r\n<br>\r\nProbably best suited for a short, hyper boss.",
+  "latest_version": "smwc-27539-1627793957",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27539,
+      "title": "Banshiryuu - Death Twins",
+      "version": "smwc-27539-1627793957",
+      "upstream_time": 1627793957,
+      "download_url": "https://dl.smwcentral.net/27539/death%20twins.zip",
+      "filename": "death twins.zip",
+      "size": 44944,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

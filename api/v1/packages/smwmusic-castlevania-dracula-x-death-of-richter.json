@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-castlevania-dracula-x-death-of-richter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23743,
+  "title": "Castlevania: Dracula X - Death of Richter",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "misc",
+    "miss"
+  ],
+  "description": "The death jingle from <i>Castlevania: Dracula X</i> that plays when Richter Belmont... turns into stone in midair after taking too much damage? (I think that's what happens to him).<br>\r\n<br>\r\nUse it for death jingles or game overs.<br>\r\n<br>\r\nMade this port a long time ago with Vitor's SPC2MML tool. Surprised this one jingle came out just right when ripping the SPC.",
+  "latest_version": "smwc-23743-1595962189",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23743,
+      "title": "Castlevania: Dracula X - Death of Richter",
+      "version": "smwc-23743-1595962189",
+      "upstream_time": 1595962189,
+      "download_url": "https://dl.smwcentral.net/23743/Richter%20Died.%20The%20End.zip",
+      "filename": "Richter Died. The End.zip",
+      "size": 31148,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

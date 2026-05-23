@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-simpsons-arcade-game-downtown-springfield",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 16980,
+  "title": "The Simpsons Arcade Game - Downtown Springfield",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "town",
+    "urban"
+  ],
+  "description": "Athletic song which can fit factories and athletic urban places in general.",
+  "latest_version": "smwc-16980-1516190875",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 16980,
+      "title": "The Simpsons Arcade Game - Downtown Springfield",
+      "version": "smwc-16980-1516190875",
+      "upstream_time": 1516190875,
+      "download_url": "https://dl.smwcentral.net/16980/downtownspringfield.zip",
+      "filename": "downtownspringfield.zip",
+      "size": 90323,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

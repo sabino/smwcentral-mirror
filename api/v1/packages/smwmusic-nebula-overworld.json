@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-nebula-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31406,
+  "title": "Nebula Overworld",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "overworld",
+    "space"
+  ],
+  "description": "<a href=\"https://www.youtube.com/watch?v=PvYqw415ML8\" rel=\"nofollow\">Preview</a> This music rendition from my Pokemon Music",
+  "latest_version": "smwc-31406-1661595553",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31406,
+      "title": "Nebula Overworld",
+      "version": "smwc-31406-1661595553",
+      "upstream_time": 1661595553,
+      "download_url": "https://dl.smwcentral.net/31406/nebula%20overworld.zip",
+      "filename": "nebula overworld.zip",
+      "size": 126836,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

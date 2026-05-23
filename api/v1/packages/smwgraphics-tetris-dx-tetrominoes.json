@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-tetris-dx-tetrominoes",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 9109,
+  "title": "Tetris DX - Tetrominoes",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "8-bit",
+    "needs remoderation"
+  ],
+  "description": "Name: [FG] Tetris DX - Tetrominoes<br>\r\nAuthor: Telinc1<br>\r\nSlot: BG2 or BG3<br>\r\nFG, BG, Sprite, Misc.?: FG<br>\r\nDescription: These are all the terominoes (except for O) from Tetris DX for the Gameboy Color. Please note that you will have to toy with 2 palletes. It's not hard to make. They're palletes 3 and 0. The only incompatiablity I noticed is with the blue hill BG.<br>\r\n<br>\r\nThe pack includes:<br>\r\n-A sample level; you can copy the palletes from there.<br>\r\n-Two .BIN files (Map16Page.bin and Map16PageG.bin)<br>\r\n-A .MAP16 file (Lunar Magic 1.90+ only)<br>\r\n-The graphics file",
+  "latest_version": "smwc-9109-1409828127",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 9109,
+      "title": "Tetris DX - Tetrominoes",
+      "version": "smwc-9109-1409828127",
+      "upstream_time": 1409828127,
+      "download_url": "https://dl.smwcentral.net/9109/TetrisDX-Tetrominoes.zip",
+      "filename": "TetrisDX-Tetrominoes.zip",
+      "size": 5551,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-raging-inferno",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8549,
+  "title": "Raging Inferno",
+  "authors": [
+    "Mayonnai"
+  ],
+  "tags": [
+    "castle",
+    "dark"
+  ],
+  "description": "A semi-heavy orchestred theme for darker hellish castles.",
+  "latest_version": "smwc-8549-1396801543",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8549,
+      "title": "Raging Inferno",
+      "version": "smwc-8549-1396801543",
+      "upstream_time": 1396801543,
+      "download_url": "https://dl.smwcentral.net/8549/raging_inferno.zip",
+      "filename": "raging_inferno.zip",
+      "size": 68070,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

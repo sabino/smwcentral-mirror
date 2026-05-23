@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-buzzer-april-fools",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37322,
+  "title": "Buzzer - April Fools",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "retro",
+    "sewer",
+    "urban"
+  ],
+  "description": "This is one of the ports I made for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34714\">Entropy</a>",
+  "latest_version": "smwc-37322-1713372714",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37322,
+      "title": "Buzzer - April Fools",
+      "version": "smwc-37322-1713372714",
+      "upstream_time": 1713372714,
+      "download_url": "https://dl.smwcentral.net/37322/April%20Fools.zip",
+      "filename": "April Fools.zip",
+      "size": 55165,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

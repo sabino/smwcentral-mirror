@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-normal-dkc-rotating-barrels",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 18769,
+  "title": "Normal DKC Rotating Barrels",
+  "authors": [
+    "Major Flare",
+    "Sonikku"
+  ],
+  "tags": [
+    "barrel",
+    "dkc",
+    "lorom",
+    "pacifist",
+    "physics",
+    "sa-1"
+  ],
+  "description": "This sprite is the Rotating Barrel from DKC, DKC2 and DKC3. It rotates as soon as the player enters it, then shoots the player in the direction it points. <br>\r\n<br>\r\nIt is highly customizable: The Extra Bit determines the rotation direction, and there are two Extra Bytes, which control the time the player keeps flying and the barrel rotation's pace. Read the readme for mode details.",
+  "latest_version": "smwc-18769-1547604062",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 18769,
+      "title": "Normal DKC Rotating Barrels",
+      "version": "smwc-18769-1547604062",
+      "upstream_time": 1547604062,
+      "download_url": "https://dl.smwcentral.net/18769/barrel.zip",
+      "filename": "barrel.zip",
+      "size": 4391,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

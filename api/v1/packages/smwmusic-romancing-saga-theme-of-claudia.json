@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-romancing-saga-theme-of-claudia",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35609,
+  "title": "Romancing SaGa - Theme of Claudia",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene"
+  ],
+  "description": "This one fits better in cutscenes and endings.",
+  "latest_version": "smwc-35609-1703082065",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35609,
+      "title": "Romancing SaGa - Theme of Claudia",
+      "version": "smwc-35609-1703082065",
+      "upstream_time": 1703082065,
+      "download_url": "https://dl.smwcentral.net/35609/Theme_of_Claudia.zip",
+      "filename": "Theme_of_Claudia.zip",
+      "size": 31311,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

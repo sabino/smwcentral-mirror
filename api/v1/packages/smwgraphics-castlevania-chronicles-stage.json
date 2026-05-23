@@ -1,0 +1,46 @@
+{
+  "name": "smwgraphics-castlevania-chronicles-stage",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 39801,
+  "title": "Castlevania Chronicles - Stage 6 (Hall of Mirrors)",
+  "authors": [
+    "Anorakun",
+    "Tailikku"
+  ],
+  "tags": [
+    "8-bit",
+    "castle",
+    "interior",
+    "needs remoderation"
+  ],
+  "description": "The background that's showcased in the mirrors of the third section of stage 6, from Castlevania Chronicles. The full tilemap is gigantic, so I had to adapt it to fit better with SMW's resolution.<br>\r\n<br>\r\nStatus bar colors are unaffected.<br>\r\n<br>\r\nTaken from this <a href=\"https://www.spriters-resource.com/playstation/cvchron/sheet/143792/\" rel=\"nofollow\">spritesheet</a>, since I would be unable to rip this graphic using my own methods. <br>\r\n<br>\r\nA good fit for castles, in general.",
+  "latest_version": "smwc-39801-1748704588",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 39801,
+      "title": "Castlevania Chronicles - Stage 6 (Hall of Mirrors)",
+      "version": "smwc-39801-1748704588",
+      "upstream_time": 1748704588,
+      "download_url": "https://dl.smwcentral.net/39801/Castlevania_Chronicles%20-%20Stage%206%20%28Hall%20of%20Mirrors%29.zip",
+      "filename": "Castlevania_Chronicles - Stage 6 (Hall of Mirrors).zip",
+      "size": 5691,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 2444,
+      "title": "Castlevania Chronicles - Stage 4",
+      "version": "smwc-2444-1416162431",
+      "upstream_time": 1416162431,
+      "download_url": "https://dl.smwcentral.net/2444/castlevaniachronicleswall.zip",
+      "filename": "castlevaniachronicleswall.zip",
+      "size": 3780,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-shaq-fu-dragon-s-pass",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29839,
+  "title": "Shaq Fu - Dragon's Pass",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cave",
+    "mountain",
+    "urban"
+  ],
+  "description": "A somewhat catchy song from the fighting game Shaq Fu.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>",
+  "latest_version": "smwc-29839-1652029352",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29839,
+      "title": "Shaq Fu - Dragon's Pass",
+      "version": "smwc-29839-1652029352",
+      "upstream_time": 1652029352,
+      "download_url": "https://dl.smwcentral.net/29839/DragonsPassV2.zip",
+      "filename": "DragonsPassV2.zip",
+      "size": 53008,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

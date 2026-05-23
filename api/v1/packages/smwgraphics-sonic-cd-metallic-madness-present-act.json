@@ -1,0 +1,43 @@
+{
+  "name": "smwgraphics-sonic-cd-metallic-madness-present-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 34778,
+  "title": "Sonic CD - Metallic Madness (Present ~ Act 1)",
+  "authors": [
+    "NopeContest"
+  ],
+  "tags": [
+    "industrial",
+    "mechanical"
+  ],
+  "description": "The present day version of Metallic Madness Act 1 from Sonic CD. The background from the original game was too tall for SMW so two versions are included with one focusing on the upper part and one focusing on the lower part. Contains flashing lights.",
+  "latest_version": "smwc-34778-1691523503",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 34778,
+      "title": "Sonic CD - Metallic Madness (Present ~ Act 1)",
+      "version": "smwc-34778-1691523503",
+      "upstream_time": 1691523503,
+      "download_url": "https://dl.smwcentral.net/34778/mm1.zip",
+      "filename": "mm1.zip",
+      "size": 8887,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 31783,
+      "title": "Sonic CD - Metallic Madness (Present ~ Act 2)",
+      "version": "smwc-31783-1660245475",
+      "upstream_time": 1660245475,
+      "download_url": "https://dl.smwcentral.net/31783/metallicmadness.zip",
+      "filename": "metallicmadness.zip",
+      "size": 5417,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

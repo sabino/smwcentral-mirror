@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lizardking-church-pop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40329,
+  "title": "Lizardking - Church Pop",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "castle",
+    "ghost house",
+    "industrial"
+  ],
+  "description": "A repetitve but catchy song from Lizardking.",
+  "latest_version": "smwc-40329-1756589464",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40329,
+      "title": "Lizardking - Church Pop",
+      "version": "smwc-40329-1756589464",
+      "upstream_time": 1756589464,
+      "download_url": "https://dl.smwcentral.net/40329/Church%20Pop.zip",
+      "filename": "Church Pop.zip",
+      "size": 63470,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

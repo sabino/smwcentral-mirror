@@ -1,0 +1,46 @@
+{
+  "name": "smwmusic-mario-bros-gba-unused",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39675,
+  "title": "Mario Bros. (GBA) - Unused 2",
+  "authors": [
+    "LadiesMan217"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "Part of the \"Super Mario All-Stars Soundtrack: Ultimate Edition\" soundtrack.",
+  "latest_version": "smwc-39675-1743427848",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39675,
+      "title": "Mario Bros. (GBA) - Unused 2",
+      "version": "smwc-39675-1743427848",
+      "upstream_time": 1743427848,
+      "download_url": "https://dl.smwcentral.net/39675/Mario%20Bros.%20%28GBA%29%20-%20Unused%202.zip",
+      "filename": "Mario Bros. (GBA) - Unused 2.zip",
+      "size": 30889,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 39674,
+      "title": "Mario Bros. (GBA) - Unused",
+      "version": "smwc-39674-1743427863",
+      "upstream_time": 1743427863,
+      "download_url": "https://dl.smwcentral.net/39674/Mario%20Bros.%20%28GBA%29%20-%20Unused.zip",
+      "filename": "Mario Bros. (GBA) - Unused.zip",
+      "size": 30899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

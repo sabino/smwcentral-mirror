@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-cape-remover",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3796,
+  "title": "Cape Remover",
+  "authors": [
+    "Telinc1"
+  ],
+  "tags": [
+    "cape",
+    "lorom",
+    "powerdown",
+    "sa-1"
+  ],
+  "description": "If the player has a cape when he touches this block, he will immediatelly revert back to the \"big\" powerup status. It's best to place this on the top row of Lunar Magic, to prevent breaking levels.<br>\r\nThis one can also play an optional sound effect. Look in the ASM file for instructions. No credit required!",
+  "latest_version": "smwc-3796-1410399247",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3796,
+      "title": "Cape Remover",
+      "version": "smwc-3796-1410399247",
+      "upstream_time": 1410399247,
+      "download_url": "https://dl.smwcentral.net/3796/Cape%20Remover.zip",
+      "filename": "Cape Remover.zip",
+      "size": 468,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

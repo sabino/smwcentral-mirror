@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-level-constrain-v3",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24700,
+  "title": "Level Constrain v3.4",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "anti-cheat",
+    "lorom",
+    "physics",
+    "player",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "Unlike screen constrain, this patch constrains the player and sprite's interaction with blocks within the level (properly, check out the first gif to see why).<br>\r\n<br>\r\nV3 update: Now works properly with LMv3.00 dynamic levels patch.<br>\r\n<br>\r\nTester's Note: Does not work with Morton, Roy, Bowser, and Reznor.<br>\r\n<br>\r\n3.1 update: now you can disable the patch's effect via a RAM if you want to have only specific levels not to have this effect.<br>\r\n<br>\r\n3.2 update (removed because crashing): freeram is now bit-side-based, to make disabling each individual of the 4 sides possible.<br>\r\n<br>\r\n3.3 update: fixed potential crashing issue.<br>\r\n<br>\r\n3.4 update: fixed a bug that Super/Cape/Fire mario, when not crouching, interacts with the 2nd-bottomost row when he should only interact the bottom row. It now uses fastrom (happens when JMLing back to SMW code).<br>\r\n<br>\r\nGithub: https://github.com/GhbSmwc/SMW_LevelConstrain",
+  "latest_version": "smwc-24700-1601133263",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24700,
+      "title": "Level Constrain v3.4",
+      "version": "smwc-24700-1601133263",
+      "upstream_time": 1601133263,
+      "download_url": "https://dl.smwcentral.net/24700/Level%20Constrain%20v3.4.zip",
+      "filename": "Level Constrain v3.4.zip",
+      "size": 50953,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

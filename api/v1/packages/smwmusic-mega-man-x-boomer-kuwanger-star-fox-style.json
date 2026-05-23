@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-x-boomer-kuwanger-star-fox-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41553,
+  "title": "Mega Man X - Boomer Kuwanger (Star Fox Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "snow",
+    "space"
+  ],
+  "description": "Based : Meteor",
+  "latest_version": "smwc-41553-1774123439",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41553,
+      "title": "Mega Man X - Boomer Kuwanger (Star Fox Style)",
+      "version": "smwc-41553-1774123439",
+      "upstream_time": 1774123439,
+      "download_url": "https://dl.smwcentral.net/41553/Kuwanger_Starfox.zip",
+      "filename": "Kuwanger_Starfox.zip",
+      "size": 37262,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

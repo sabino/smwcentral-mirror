@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-dj-nate-electrodynamix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27265,
+  "title": "DJ-Nate - Electrodynamix",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "airship",
+    "castle"
+  ],
+  "description": "A port of one of the official levels from Geometry Dash 1.7. If you use this in your rom hack, please credit DJ-Nate for the music.<br>\r\n<br>\r\nThis track can go great in an airship or really any level that's based around action.",
+  "latest_version": "smwc-27265-1625113826",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27265,
+      "title": "DJ-Nate - Electrodynamix",
+      "version": "smwc-27265-1625113826",
+      "upstream_time": 1625113826,
+      "download_url": "https://dl.smwcentral.net/27265/Electrodynamix.zip",
+      "filename": "Electrodynamix.zip",
+      "size": 109095,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

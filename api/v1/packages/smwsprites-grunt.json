@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-grunt",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16151,
+  "title": "Grunt",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "smw2",
+    "yoshi's island"
+  ],
+  "description": "The spiky-helmet guy from SMW2:YI. It can run or walk depending on the extra bit.<br>\r\n<br>\r\nThis sprite was part of smkdan's YI Sprite Pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16151-1504123720",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16151,
+      "title": "Grunt",
+      "version": "smwc-16151-1504123720",
+      "upstream_time": 1504123720,
+      "download_url": "https://dl.smwcentral.net/16151/YIGrunt.zip",
+      "filename": "YIGrunt.zip",
+      "size": 4813,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-ys-iii-wanderers-from-ys-snes-the-beginning",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36916,
+  "title": "Ys III - Wanderers from Ys (SNES) - The Beginning",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "beach",
+    "forest",
+    "grassland",
+    "jungle",
+    "urban"
+  ],
+  "description": "Good for forests and jungles.",
+  "latest_version": "smwc-36916-1709242425",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36916,
+      "title": "Ys III - Wanderers from Ys (SNES) - The Beginning",
+      "version": "smwc-36916-1709242425",
+      "upstream_time": 1709242425,
+      "download_url": "https://dl.smwcentral.net/36916/Ys%20III%20%28SNES%29%20-%20The%20Beginning.zip",
+      "filename": "Ys III (SNES) - The Beginning.zip",
+      "size": 63063,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

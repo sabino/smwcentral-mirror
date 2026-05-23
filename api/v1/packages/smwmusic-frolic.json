@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-frolic",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8021,
+  "title": "Frolic",
+  "authors": [
+    "MuimiMoji"
+  ],
+  "tags": [
+    "credits",
+    "grassland"
+  ],
+  "description": "A super happy song for grassland levels.",
+  "latest_version": "smwc-8021-1318099743",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8021,
+      "title": "Frolic",
+      "version": "smwc-8021-1318099743",
+      "upstream_time": 1318099743,
+      "download_url": "https://dl.smwcentral.net/8021/Frolic.zip",
+      "filename": "Frolic.zip",
+      "size": 66987,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

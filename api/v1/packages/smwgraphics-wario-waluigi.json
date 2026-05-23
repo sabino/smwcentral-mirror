@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-wario-waluigi",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 693,
+  "title": "Wario & Waluigi",
+  "authors": [
+    "SuperLuigiBros"
+  ],
+  "tags": [
+    "male"
+  ],
+  "description": "Includes Wario and Waluigi's GFX32.bins and palettes.<br>\r\n<br>\r\nMod edit: changed .pal files to shared palettes to fit current player graphics requirements",
+  "latest_version": "smwc-693-1390055466",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 693,
+      "title": "Wario & Waluigi",
+      "version": "smwc-693-1390055466",
+      "upstream_time": 1390055466,
+      "download_url": "https://dl.smwcentral.net/693/WarioBrosplayer.zip",
+      "filename": "WarioBrosplayer.zip",
+      "size": 26195,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

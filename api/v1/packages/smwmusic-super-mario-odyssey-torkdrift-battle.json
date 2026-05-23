@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-mario-odyssey-torkdrift-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30165,
+  "title": "Super Mario Odyssey - Torkdrift Battle",
+  "authors": [
+    "Captain 3"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "dark",
+    "industrial",
+    "tense"
+  ],
+  "description": "You remember Torkdrift, right?<br>\r\n<br>\r\nThis time, every sample used in the original has been successfully ported, which means it literally can't be any more accurate. Enjoy!<br>\r\n<br>\r\nBased on the OST version, with the \"vulnerable\" phase taken out.<br>\r\n<br>\r\n3/18/22 Update:<br>\r\n+Added missing drum loop",
+  "latest_version": "smwc-30165-1658847535",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30165,
+      "title": "Super Mario Odyssey - Torkdrift Battle",
+      "version": "smwc-30165-1658847535",
+      "upstream_time": 1658847535,
+      "download_url": "https://dl.smwcentral.net/30165/Torkdrift%20Battle.zip",
+      "filename": "Torkdrift Battle.zip",
+      "size": 98313,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

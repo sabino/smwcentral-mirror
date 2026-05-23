@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-castlevania-dracula-x-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23069,
+  "title": "Castlevania: Dracula X - Map",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "dark",
+    "overworld",
+    "tense"
+  ],
+  "description": "This somewhat tense song plays in the map screen from Dracula X, being fitting for dark areas in general, mostly overworld maps.<br>\r\n<br>\r\nRequested by Anorakun.",
+  "latest_version": "smwc-23069-1590737536",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23069,
+      "title": "Castlevania: Dracula X - Map",
+      "version": "smwc-23069-1590737536",
+      "upstream_time": 1590737536,
+      "download_url": "https://dl.smwcentral.net/23069/dxmap.zip",
+      "filename": "dxmap.zip",
+      "size": 42209,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

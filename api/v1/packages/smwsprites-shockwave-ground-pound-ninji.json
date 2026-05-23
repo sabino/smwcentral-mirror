@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-shockwave-ground-pound-ninji",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32341,
+  "title": "Shockwave/Ground Pound Ninji",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "electricity",
+    "enemy",
+    "ground pound",
+    "lorom",
+    "ninji",
+    "sa-1",
+    "smoke"
+  ],
+  "description": "This ninji will create projectiles once it jumps and lands on the ground.<br>\r\n<br>\r\nProvided two different extended sprites it can spawn: QuakeSmoke.asm for ground pound smoke and Shockwave.asm for shockwave.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>.",
+  "latest_version": "smwc-32341-1683282562",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32341,
+      "title": "Shockwave/Ground Pound Ninji",
+      "version": "smwc-32341-1683282562",
+      "upstream_time": 1683282562,
+      "download_url": "https://dl.smwcentral.net/32341/ShockwaveNinji.zip",
+      "filename": "ShockwaveNinji.zip",
+      "size": 7074,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

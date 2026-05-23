@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-chrono-trigger-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19647,
+  "title": "Chrono Trigger - Main Theme",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "credits",
+    "cutscene",
+    "sky",
+    "title"
+  ],
+  "description": "Iconic theme that plays in the title screen of Chrono Trigger, it could fit a title screen or credits.<br>\r\nThe zip includes the complete version and a shorter one that loops at the first sax section. By default the full version doesn't loop, but it can set to loop (from the beginning) by changing \"NO_LOOP\" from 1 to 0 at the beginning of the file.<br>\r\nNote that the full version isn't compatible with thunder sfx or Blarggs.",
+  "latest_version": "smwc-19647-1555714616",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19647,
+      "title": "Chrono Trigger - Main Theme",
+      "version": "smwc-19647-1555714616",
+      "upstream_time": 1555714616,
+      "download_url": "https://dl.smwcentral.net/19647/ChronoTrigger_MainTheme.zip",
+      "filename": "ChronoTrigger_MainTheme.zip",
+      "size": 106362,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

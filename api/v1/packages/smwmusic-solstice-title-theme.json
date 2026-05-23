@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-solstice-title-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22352,
+  "title": "Solstice - Title Theme",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "chase",
+    "final",
+    "space",
+    "tense",
+    "title"
+  ],
+  "description": "The title screen of one of Tim Follin's best work of NES, transcribed for the SNES. Good for a Prog Rock-like opening.<br>\r\n<br>\r\n03/07 Update: The port is now finally optimized. It become much more readable and managed to decrease the insert size by half of what it was before.",
+  "latest_version": "smwc-22352-1584476724",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22352,
+      "title": "Solstice - Title Theme",
+      "version": "smwc-22352-1584476724",
+      "upstream_time": 1584476724,
+      "download_url": "https://dl.smwcentral.net/22352/Solstice%20-%20Title%20Theme.zip",
+      "filename": "Solstice - Title Theme.zip",
+      "size": 73817,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

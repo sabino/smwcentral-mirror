@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-axelay-burning",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28919,
+  "title": "Axelay - Burning",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "airship",
+    "final",
+    "fire",
+    "space",
+    "tense"
+  ],
+  "description": "Could fit in an action section from a space/fire/airship level. Including a version that loops the song back to the beginning in case your level is longer.<br>\r\nUpdate 03/12/2021: Better accuracy.",
+  "latest_version": "smwc-28919-1642172168",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28919,
+      "title": "Axelay - Burning",
+      "version": "smwc-28919-1642172168",
+      "upstream_time": 1642172168,
+      "download_url": "https://dl.smwcentral.net/28919/Axelay%20-%20Burning.zip",
+      "filename": "Axelay - Burning.zip",
+      "size": 110844,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

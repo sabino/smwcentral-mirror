@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-ys-iv-the-dawn-of-ys-theme-of-adol",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32725,
+  "title": "Ys IV: The Dawn of Ys - Theme of Adol 1993",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "athletic",
+    "credits",
+    "cutscene",
+    "mountain",
+    "overworld",
+    "retro",
+    "temple",
+    "title"
+  ],
+  "description": "Adol Christin's theme song from <i>Ys IV</i>. This song is used as one of dungeon themes in both <i>Ys IV: The Dawn of Ys</i> on the TurboGrafx-CD and <i>Ys IV: Mask of the Sun</i> on the SNES. This song didn't return in the remake <i>Ys: Memories of Celceta</i>.<br>\r\n<br>\r\nThis port is based on the original FM music by Falcom's composer Naoki Kaneda listed in the 1993 album <i>Ys IV J.D.K. Special The Dawn of Ys</i>. This version was arranged by Ryo Yonemitsu for the TurboGrafx-CD version.",
+  "latest_version": "smwc-32725-1680141174",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32725,
+      "title": "Ys IV: The Dawn of Ys - Theme of Adol 1993",
+      "version": "smwc-32725-1680141174",
+      "upstream_time": 1680141174,
+      "download_url": "https://dl.smwcentral.net/32725/Ys%20IV%20Original%20Theme%20of%20Adol%201993%20v1.2.zip",
+      "filename": "Ys IV Original Theme of Adol 1993 v1.2.zip",
+      "size": 37638,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

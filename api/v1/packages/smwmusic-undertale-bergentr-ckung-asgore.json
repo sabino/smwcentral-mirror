@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-undertale-bergentr-ckung-asgore",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14082,
+  "title": "Undertale - Bergentrückung + ASGORE",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "One of the coolest tracks of the game. Could fit bosses.",
+  "latest_version": "smwc-14082-1471151066",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14082,
+      "title": "Undertale - Bergentrückung + ASGORE",
+      "version": "smwc-14082-1471151066",
+      "upstream_time": 1471151066,
+      "download_url": "https://dl.smwcentral.net/14082/ASGORE%20%5BU%5D.zip",
+      "filename": "ASGORE %5BU%5D.zip",
+      "size": 36274,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

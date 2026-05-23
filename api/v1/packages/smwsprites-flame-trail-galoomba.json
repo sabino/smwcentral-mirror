@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-flame-trail-galoomba",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42063,
+  "title": "Flame Trail Galoomba",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "flame",
+    "galoomba",
+    "goomba",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Galoomba that leaves a flame trail as it's walking on the ground.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2024. Credit is unecessary.",
+  "latest_version": "smwc-42063-1774838788",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42063,
+      "title": "Flame Trail Galoomba",
+      "version": "smwc-42063-1774838788",
+      "upstream_time": 1774838788,
+      "download_url": "https://dl.smwcentral.net/42063/FlameTrailGaloomba.zip",
+      "filename": "FlameTrailGaloomba.zip",
+      "size": 11975,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

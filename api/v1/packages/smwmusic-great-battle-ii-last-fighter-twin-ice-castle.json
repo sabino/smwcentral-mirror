@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-great-battle-ii-last-fighter-twin-ice-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34803,
+  "title": "Great Battle II: Last Fighter Twin - Ice Castle",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "castle",
+    "ice",
+    "tense"
+  ],
+  "description": "I found this song on SMWCP hack, it's good on ice levels.",
+  "latest_version": "smwc-34803-1696281077",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34803,
+      "title": "Great Battle II: Last Fighter Twin - Ice Castle",
+      "version": "smwc-34803-1696281077",
+      "upstream_time": 1696281077,
+      "download_url": "https://dl.smwcentral.net/34803/Ice%20Castle.zip",
+      "filename": "Ice Castle.zip",
+      "size": 40459,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34802,
+      "title": "Great Battle II: Last Fighter Twin - Ice Castle",
+      "version": "smwc-34802-1696281064",
+      "upstream_time": 1696281064,
+      "download_url": "https://dl.smwcentral.net/34802/Ice%20Castle%20%5BU%5D.zip",
+      "filename": "Ice Castle %5BU%5D.zip",
+      "size": 32238,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

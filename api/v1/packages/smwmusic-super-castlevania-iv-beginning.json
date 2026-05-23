@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-super-castlevania-iv-beginning",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22042,
+  "title": "Super Castlevania IV - Beginning",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "castle",
+    "ghost house",
+    "night"
+  ],
+  "description": "This is Super Castlevania IV's rendition of the song 'Beginning' from the first level of the original NES Castlevania III. Could obviously fit castles.<br>\r\n<br>\r\nUpdate: Fixed a noticeable problem with the percussion at the end of the first channel where the wrong instruments would play; insert size decreased from 0xDOC to 0xCFB bytes.",
+  "latest_version": "smwc-22042-1581885383",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22042,
+      "title": "Super Castlevania IV - Beginning",
+      "version": "smwc-22042-1581885383",
+      "upstream_time": 1581885383,
+      "download_url": "https://dl.smwcentral.net/22042/beginning%20-%20unsampled.zip",
+      "filename": "beginning - unsampled.zip",
+      "size": 37309,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22037,
+      "title": "Super Castlevania IV - Beginning",
+      "version": "smwc-22037-1581885387",
+      "upstream_time": 1581885387,
+      "download_url": "https://dl.smwcentral.net/22037/beginning.zip",
+      "filename": "beginning.zip",
+      "size": 63179,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

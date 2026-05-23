@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-preserve-direct-page-on-interrupts",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19554,
+  "title": "Preserve Direct Page on Interrupts",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "direct page",
+    "interrupt",
+    "lorom"
+  ],
+  "description": "This patch preserves the direct page register while the game is running in NMI or in an IRQ, which allows you to tweak it for your own needs in custom code.<br>\r\nDoesn't work with SA-1, as that patch already enables this functionality.",
+  "latest_version": "smwc-19554-1555267514",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19554,
+      "title": "Preserve Direct Page on Interrupts",
+      "version": "smwc-19554-1555267514",
+      "upstream_time": 1555267514,
+      "download_url": "https://dl.smwcentral.net/19554/Preserve%20Direct%20Page.zip",
+      "filename": "Preserve Direct Page.zip",
+      "size": 622,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

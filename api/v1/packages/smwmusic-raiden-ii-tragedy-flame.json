@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-raiden-ii-tragedy-flame",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 10861,
+  "title": "Raiden II - Tragedy Flame",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "final",
+    "industrial",
+    "space"
+  ],
+  "description": "This would be good for fast-paced or action-packed levels.",
+  "latest_version": "smwc-10861-1425431020",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 10861,
+      "title": "Raiden II - Tragedy Flame",
+      "version": "smwc-10861-1425431020",
+      "upstream_time": 1425431020,
+      "download_url": "https://dl.smwcentral.net/10861/Tragedy%20Flame.zip",
+      "filename": "Tragedy Flame.zip",
+      "size": 33694,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

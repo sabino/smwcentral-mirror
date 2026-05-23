@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-elevator-action-gba-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 17326,
+  "title": "Elevator Action (GBA) - Stage 7",
+  "authors": [
+    "Masterlink"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "chase",
+    "urban"
+  ],
+  "description": "Song from Elevator Action. Good for city levels and chase scenes.",
+  "latest_version": "smwc-17326-1522806387",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 17326,
+      "title": "Elevator Action (GBA) - Stage 7",
+      "version": "smwc-17326-1522806387",
+      "upstream_time": 1522806387,
+      "download_url": "https://dl.smwcentral.net/17326/%5BS%5D%20Elevator%20Action%20%28GBA%29%20-%20Stage%207.zip",
+      "filename": "%5BS%5D Elevator Action (GBA) - Stage 7.zip",
+      "size": 72235,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

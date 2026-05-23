@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-kirby-s-dreamland-3-grass-land-2-cloudy-park",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36983,
+  "title": "Kirby's Dreamland 3 - Grass Land 2 + Cloudy Park 1 (Bossanova Remix)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "beach",
+    "bonus",
+    "overworld",
+    "water"
+  ],
+  "description": "3 versions:<br>\r\n- Grass Land 2 (0x413 bytes)<br>\r\n- Grass Land 2 + Cloudy Park 1 (Medley) (0x673 bytes)<br>\r\n- Cloudy Park 1 (0x414 bytes)<br>\r\nCould fit on tropical or underwater levels/overworld.",
+  "latest_version": "smwc-36983-1709803029",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36983,
+      "title": "Kirby's Dreamland 3 - Grass Land 2 + Cloudy Park 1 (Bossanova Remix)",
+      "version": "smwc-36983-1709803029",
+      "upstream_time": 1709803029,
+      "download_url": "https://dl.smwcentral.net/36983/kdl3%20grassland2%20tropical.zip",
+      "filename": "kdl3 grassland2 tropical.zip",
+      "size": 95902,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

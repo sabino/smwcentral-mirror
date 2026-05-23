@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-optimize-1f0",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 31950,
+  "title": "Optimize 1F0",
+  "authors": [
+    "Fernap"
+  ],
+  "tags": [
+    "lorom",
+    "optimize",
+    "sa-1",
+    "slowdown"
+  ],
+  "description": "This patch optimizes SMW's handling of interaction of sprites with 1F0 (in fact, all of 1D8-1FF) tiles, mitigating the chance for slowdown.  This patch should be SA-1 compatible, but you're much less likely to really need to worry about it in that case.<br>\r\n<br>\r\nThe screenshots below are in a stock lorom without fastrom enabled, along with the CPU meter patch for a visual indication.  The star on the left shows approximately how far into the frame the SNES has gotten to before SMW has finished processing for that frame.<br>\r\n<br>\r\nThe first shot is a baseline before any sprites have landed.  The second shot is without the optimize patch (the star on the left has wrapped back to the top of the screen, indicating a significant amount of slowdown).  The last shot is with this patch applied.  There's no slowdown nominally, but spikes can occur when the screen is scrolling, and other factors may introduce some (like the No More Sprite Tile Limits patch, layer 2, sprite buoyancy, etc.).<br>\r\n",
+  "latest_version": "smwc-31950-1668086964",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 31950,
+      "title": "Optimize 1F0",
+      "version": "smwc-31950-1668086964",
+      "upstream_time": 1668086964,
+      "download_url": "https://dl.smwcentral.net/31950/optimize1F0.zip",
+      "filename": "optimize1F0.zip",
+      "size": 690,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-spider-man-the-animated-series-genesis-fun-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39346,
+  "title": "Spider-Man: The Animated Series (Genesis) - Fun House",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "chaotic"
+  ],
+  "description": "Fun House from Spider Man: The Animated Series (Genesis), porting the original voice samples with commonly used local SNES instruments.",
+  "latest_version": "smwc-39346-1748436482",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39346,
+      "title": "Spider-Man: The Animated Series (Genesis) - Fun House",
+      "version": "smwc-39346-1748436482",
+      "upstream_time": 1748436482,
+      "download_url": "https://dl.smwcentral.net/39346/Spider-Man%20The%20Animated%20Series%20-%20Fun%20House.zip",
+      "filename": "Spider-Man The Animated Series - Fun House.zip",
+      "size": 71749,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ultimate-doom-intermission-from-doom-e2m3-mega-man-x2-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28825,
+  "title": "Ultimate DOOM - Intermission from Doom (E2M3) (Mega Man X2 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "dark",
+    "ruins"
+  ],
+  "description": "Style : Mega Man X2",
+  "latest_version": "smwc-28825-1642112220",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28825,
+      "title": "Ultimate DOOM - Intermission from Doom (E2M3) (Mega Man X2 Style)",
+      "version": "smwc-28825-1642112220",
+      "upstream_time": 1642112220,
+      "download_url": "https://dl.smwcentral.net/28825/E2M3_MMX2.zip",
+      "filename": "E2M3_MMX2.zip",
+      "size": 80235,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

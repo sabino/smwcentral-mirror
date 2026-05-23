@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dragon-spirit-area",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19162,
+  "title": "Dragon Spirit - Area 2 (Arrangement)",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "fire",
+    "tense"
+  ],
+  "description": "This is an arrangement of the second stage theme from Dragon Spirit, a pretty classic Namco arcade game, with a equally as classic soundtrack by Shinji Hosoe (in fact, this is his first ever soundtrack too lmao). It's a very long theme, and with that comes a great size, so only use it for large levels and if you have enough space for it. <br>\r\n<br>\r\nFor recommendations for which levels would fit this, final based levels, IMO anyway, would fit best; volcano-based levels also fit very well since the original song does play at a volcano stage after all.",
+  "latest_version": "smwc-19162-1552252959",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19162,
+      "title": "Dragon Spirit - Area 2 (Arrangement)",
+      "version": "smwc-19162-1552252959",
+      "upstream_time": 1552252959,
+      "download_url": "https://dl.smwcentral.net/19162/dragonspirit.zip",
+      "filename": "dragonspirit.zip",
+      "size": 95589,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

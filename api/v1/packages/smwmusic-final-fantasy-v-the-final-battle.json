@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-final-fantasy-v-the-final-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33095,
+  "title": "Final Fantasy V - The Final Battle",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "boss",
+    "final"
+  ],
+  "description": "Could fit a final boss. The Last Battle from Final Fantasy V",
+  "latest_version": "smwc-33095-1687024752",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33095,
+      "title": "Final Fantasy V - The Final Battle",
+      "version": "smwc-33095-1687024752",
+      "upstream_time": 1687024752,
+      "download_url": "https://dl.smwcentral.net/33095/Final%20Fantasy%20V%20-%20The%20Last%20Battle.zip",
+      "filename": "Final Fantasy V - The Last Battle.zip",
+      "size": 34285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 21954,
+      "title": "Final Fantasy V - The Final Battle",
+      "version": "smwc-21954-1580100586",
+      "upstream_time": 1580100586,
+      "download_url": "https://dl.smwcentral.net/21954/LastBattle5.zip",
+      "filename": "LastBattle5.zip",
+      "size": 65440,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

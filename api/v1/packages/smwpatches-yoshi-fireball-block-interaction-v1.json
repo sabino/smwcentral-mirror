@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-yoshi-fireball-block-interaction-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19170,
+  "title": "Yoshi Fireball Block Interaction v1.2",
+  "authors": [
+    "lx5"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "block",
+    "layer 1",
+    "lorom",
+    "sa-1",
+    "yoshi fireball"
+  ],
+  "description": "This patch gives Yoshi Fireballs the ability to interact with Layer 1 blocks. <br>\r\n<br>\r\nRead the readme for further explanations.<br>\r\n<br>\r\nv1.2<br>\r\n-----<br>\r\nFixed a bug in the exlevel flag detection that would detect versions prior LM2 greater than 53 as being having exlevel enabled. Like anyone would run into this lul.<br>\r\n<br>\r\nv1.1<br>\r\n-----<br>\r\nChanged GetMap16 routine to be the same one used in pixi. Supports LM3 exlevels now.",
+  "latest_version": "smwc-19170-1550721393",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19170,
+      "title": "Yoshi Fireball Block Interaction v1.2",
+      "version": "smwc-19170-1550721393",
+      "upstream_time": 1550721393,
+      "download_url": "https://dl.smwcentral.net/19170/yoshi_fire%20v1.2.zip",
+      "filename": "yoshi_fire v1.2.zip",
+      "size": 4498,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

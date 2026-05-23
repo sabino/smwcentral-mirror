@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-super-bonk-underwater",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31687,
+  "title": "Super Bonk - Underwater",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "industrial",
+    "overworld",
+    "urban",
+    "water"
+  ],
+  "description": "Could fit with water or urban themes.",
+  "latest_version": "smwc-31687-1685570700",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31687,
+      "title": "Super Bonk - Underwater",
+      "version": "smwc-31687-1685570700",
+      "upstream_time": 1685570700,
+      "download_url": "https://dl.smwcentral.net/31687/04%20Underwater.zip",
+      "filename": "04 Underwater.zip",
+      "size": 63954,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16669,
+      "title": "Super Bonk - Underwater",
+      "version": "smwc-16669-1511368872",
+      "upstream_time": 1511368872,
+      "download_url": "https://dl.smwcentral.net/16669/Super%20Bonk%20-%20Underwater.zip",
+      "filename": "Super Bonk - Underwater.zip",
+      "size": 31989,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

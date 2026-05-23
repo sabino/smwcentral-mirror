@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-gensoukyou-lotus-land-story-the-inevitably-forbidden-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15572,
+  "title": "Touhou Gensoukyou ~ Lotus Land Story - The Inevitably Forbidden Game",
+  "authors": [
+    "HertzDevil"
+  ],
+  "tags": [
+    "final",
+    "space",
+    "star",
+    "tense"
+  ],
+  "description": "The extra stage theme from the fourth PC-98 Touhou game. Suitable for long, spacy levels near end-game.<br>\r\n<br>\r\nThe MML file is cross-compiled from a different MML dialect using a custom Lua script, and then manually optimized.",
+  "latest_version": "smwc-15572-1494894930",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15572,
+      "title": "Touhou Gensoukyou ~ Lotus Land Story - The Inevitably Forbidden Game",
+      "version": "smwc-15572-1494894930",
+      "upstream_time": 1494894930,
+      "download_url": "https://dl.smwcentral.net/15572/th4_forbidden.zip",
+      "filename": "th4_forbidden.zip",
+      "size": 33889,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

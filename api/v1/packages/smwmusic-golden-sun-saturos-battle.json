@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-golden-sun-saturos-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20520,
+  "title": "Golden Sun - Saturos Battle",
+  "authors": [
+    "RednGreen"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "Part of RednGreen's C3 music pack.<br>\r\n<br>\r\nAgain, one of my favorite tracks from Golden Sun. I originally wanted to make it unsampled, but I previously managed to rip GBA samples so I made a try. Then I realized the sawtooth synth sounded horrible. So I replaced it with @1.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-20520-1562579092",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20520,
+      "title": "Golden Sun - Saturos Battle",
+      "version": "smwc-20520-1562579092",
+      "upstream_time": 1562579092,
+      "download_url": "https://dl.smwcentral.net/20520/Golden%20Sun%20-%20Saturos%20Battle.zip",
+      "filename": "Golden Sun - Saturos Battle.zip",
+      "size": 80559,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

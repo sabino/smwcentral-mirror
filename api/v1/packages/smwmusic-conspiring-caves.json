@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-conspiring-caves",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25740,
+  "title": "Conspiring Caves",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "mysterious"
+  ],
+  "description": "The deep  mysterious cave theme from C3 Winter 2021, featuring lots of reverb.",
+  "latest_version": "smwc-25740-1611463205",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25740,
+      "title": "Conspiring Caves",
+      "version": "smwc-25740-1611463205",
+      "upstream_time": 1611463205,
+      "download_url": "https://dl.smwcentral.net/25740/Conspiring%20Caves.zip",
+      "filename": "Conspiring Caves.zip",
+      "size": 49238,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

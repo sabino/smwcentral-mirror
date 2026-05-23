@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-v-slumber-of-ancient-earth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13562,
+  "title": "Final Fantasy V - Slumber of Ancient Earth",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "desert",
+    "ruins"
+  ],
+  "description": "(Also known as \"Intension of the Earth\")<br>\r\n<br>\r\nThe music that plays in the Quicksand Desert in FF5.",
+  "latest_version": "smwc-13562-1461865993",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13562,
+      "title": "Final Fantasy V - Slumber of Ancient Earth",
+      "version": "smwc-13562-1461865993",
+      "upstream_time": 1461865993,
+      "download_url": "https://dl.smwcentral.net/13562/FF5%20Intension.zip",
+      "filename": "FF5 Intension.zip",
+      "size": 31099,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-jazz-jackrabbit-scraparap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21962,
+  "title": "Jazz Jackrabbit - Scraparap",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "industrial",
+    "temple"
+  ],
+  "description": "1:1 port of a vibing cave theme from Jazz Jackrabbit.<br>\r\nThe not optimized version has the original pan flute sampling size.",
+  "latest_version": "smwc-21962-1580241844",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21962,
+      "title": "Jazz Jackrabbit - Scraparap",
+      "version": "smwc-21962-1580241844",
+      "upstream_time": 1580241844,
+      "download_url": "https://dl.smwcentral.net/21962/Jazz%20Jackrabbit%20-%20Scraparap.zip",
+      "filename": "Jazz Jackrabbit - Scraparap.zip",
+      "size": 152704,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

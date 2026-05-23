@@ -1,0 +1,42 @@
+{
+  "name": "smwpatches-dynamic-z-v-3",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 17919,
+  "title": "Dynamic Z V 3.5",
+  "authors": [
+    "anonimzwx"
+  ],
+  "tags": [
+    "dynamic",
+    "dynamic sprites",
+    "graphic change",
+    "graphics",
+    "lorom",
+    "mario graphics",
+    "mario palette",
+    "palette",
+    "palette change",
+    "sa-1",
+    "semi dynamic sprites"
+  ],
+  "description": "This patch allows to:<br>\r\n<br>\r\n-Use the double of Dynamic Sprites than DSX.<br>\r\n-Use Dynamic Sprites of 80x80, 96x96 and 112x112<br>\r\n-Use Semi-Dynamic Sprites.<br>\r\n-Change graphics and palettes on the fly.<br>\r\n-Change graphics and palettes of Mario on the fly.<br>\r\n-Make your own custom player of 48x48.<br>\r\n-Retro-compatibility with DSX Dynamic Sprites.<br>\r\n<br>\r\nVideos:<br>\r\n<br>\r\n-<a href=\"https://www.youtube.com/watch?v=yfCuK0ZFmMA\" rel=\"nofollow\">Level with some crazy dynamic sprites</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=Jd2xcQFIOwQ\" rel=\"nofollow\">Custom player of 48x48</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=qilsxwAncXE\" rel=\"nofollow\">Dynamic Sprite of 112x112</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=3UqnDKbE_g4\" rel=\"nofollow\">Dynamic Sprite of 96x96</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=4VwtE6wKeH8&list=PLPcBCIzw1xNEh87N0I-2cxjpi5mKM185U&index=3\" rel=\"nofollow\">Exgfx change</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=03tZM4r_pig&list=PLPcBCIzw1xNEh87N0I-2cxjpi5mKM185U&index=2\" rel=\"nofollow\">Palette Change</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=q9VJJC2PQUc&list=PLPcBCIzw1xNEh87N0I-2cxjpi5mKM185U&index=4\" rel=\"nofollow\">Mario Palette</a><br>\r\n-<a href=\"https://www.youtube.com/watch?v=V45nDfuEgA0&list=PLPcBCIzw1xNEh87N0I-2cxjpi5mKM185U&index=5\" rel=\"nofollow\">Mario Graphics Change</a>",
+  "latest_version": "smwc-17919-1547575690",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 17919,
+      "title": "Dynamic Z V 3.5",
+      "version": "smwc-17919-1547575690",
+      "upstream_time": 1547575690,
+      "download_url": "https://dl.smwcentral.net/17919/Dynamic%20Z%20V3.5.zip",
+      "filename": "Dynamic Z V3.5.zip",
+      "size": 1138086,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

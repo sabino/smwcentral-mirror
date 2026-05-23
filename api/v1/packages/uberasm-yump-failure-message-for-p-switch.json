@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-yump-failure-message-for-p-switch",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 29936,
+  "title": "Yump Failure Message for P-Switch",
+  "authors": [
+    "Francium"
+  ],
+  "tags": [
+    "lorom",
+    "p-switch",
+    "p-switch jump",
+    "sa-1",
+    "yump"
+  ],
+  "description": "If the yump of the P-Switch fails, a message will be displayed.<br>\r\nRequest from <span class=\"un-outer\" title=\"zynnoir\"><a href=\"/?p=profile&amp;id=42029\" style=\"color: var(--user-color-1);\" class=\"un\">zynnoir</a></span>.<br>\r\nCredit is optional.",
+  "latest_version": "smwc-29936-1645718536",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 29936,
+      "title": "Yump Failure Message for P-Switch",
+      "version": "smwc-29936-1645718536",
+      "upstream_time": 1645718536,
+      "download_url": "https://dl.smwcentral.net/29936/P-Switch%20Yump.zip",
+      "filename": "P-Switch Yump.zip",
+      "size": 522,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

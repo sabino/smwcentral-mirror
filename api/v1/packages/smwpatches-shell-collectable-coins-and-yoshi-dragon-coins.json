@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-shell-collectable-coins-and-yoshi-dragon-coins",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 34051,
+  "title": "Shell-Collectable Coins and Yoshi/Dragon Coins",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "coin",
+    "collectible",
+    "dragon coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Allows Coins and Yoshi Coins to be collected with Koopa Shells. Read the .asm file for more info.<br>\r\nIt's also compatible with the Yoshi Coin Fix and the Individual Dragon Coin Save, but note that you should insert this patch after instering any of those two.<br>\r\n<br>\r\n<s>Note that due to the way sprite/object interaction works in Super Mario World, coins placed next to walls can sometimes not be picked up. I tried as much as I could to alleviate this but I couldn't really fix it.</s> They kinda seem to work now. <b>LMPuny's note</b>: There are still some issues, such as when you put !CollectType to 1 and up-throw a shell to a wall to the left, it won't collect any coins that are next to that wall.<br>\r\n<br>\r\nUpdate 1 (June 8th): added support for buzzy beetles and throw blocks.<br>\r\nUpdate 2 (July 7th): added support for thrown Goombas, Mecha-Koopas and Bob-Ombs. Added support for brown blocks which turn into coins when the P-Switch is set, and added SA-1 support.<br>\r\nUpdate 3 (March 3rd 2018): added support for invisible P-Switch coins and muncher coins, and fixed a softlock when the shell/block/etc. went out of bounds (thanks to Gamma V for reporting this!).<br>\r\nUpdate 4 (June 6th 2023): fixed interaction in vertical levels, fixed shells from collecting solid blocks (only if two rightmost digit of the Map16 number match with the coins on the page 0), made interaction more central to the shell.",
+  "latest_version": "smwc-34051-1686894129",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 34051,
+      "title": "Shell-Collectable Coins and Yoshi/Dragon Coins",
+      "version": "smwc-34051-1686894129",
+      "upstream_time": 1686894129,
+      "download_url": "https://dl.smwcentral.net/34051/shellCollectableCoins%20v4.zip",
+      "filename": "shellCollectableCoins v4.zip",
+      "size": 2098,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

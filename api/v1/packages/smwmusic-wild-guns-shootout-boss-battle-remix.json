@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-wild-guns-shootout-boss-battle-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23559,
+  "title": "Wild Guns - Shootout!! ~ Boss Battle (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "A remix of the boss theme from <i>Wild Guns</i>.<br>\r\n<br>\r\nIt's perfect for boss fights and very intense stages.<br>\r\n<br>\r\nNote:<br>\r\n- There is a \"READ ME.txt\" file that has the sample bank. You'll need to move what's in that file into \"Addmusic_sample_groups.txt.\"<br>\r\n- The Thunder SFX and @7 are disabled.",
+  "latest_version": "smwc-23559-1594224748",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23559,
+      "title": "Wild Guns - Shootout!! ~ Boss Battle (Remix)",
+      "version": "smwc-23559-1594224748",
+      "upstream_time": 1594224748,
+      "download_url": "https://dl.smwcentral.net/23559/Shootout.zip",
+      "filename": "Shootout.zip",
+      "size": 81820,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

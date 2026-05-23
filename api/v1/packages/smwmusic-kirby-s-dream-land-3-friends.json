@@ -1,0 +1,75 @@
+{
+  "name": "smwmusic-kirby-s-dream-land-3-friends",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39735,
+  "title": "Kirby's Dream Land 3 - Friends 2",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "bonus",
+    "overworld"
+  ],
+  "description": "A cute, upbeat song from KDL3. Fitting for overworlds or bonus areas.",
+  "latest_version": "smwc-39735-1748336317",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39735,
+      "title": "Kirby's Dream Land 3 - Friends 2",
+      "version": "smwc-39735-1748336317",
+      "upstream_time": 1748336317,
+      "download_url": "https://dl.smwcentral.net/39735/Friends%202.zip",
+      "filename": "Friends 2.zip",
+      "size": 31758,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34604,
+      "title": "Kirby's Dream Land 3 - Friends 3",
+      "version": "smwc-34604-1690835275",
+      "upstream_time": 1690835275,
+      "download_url": "https://dl.smwcentral.net/34604/Friends%203.zip",
+      "filename": "Friends 3.zip",
+      "size": 96530,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34603,
+      "title": "Kirby's Dream Land 3 - Friends 2",
+      "version": "smwc-34603-1690835267",
+      "upstream_time": 1690835267,
+      "download_url": "https://dl.smwcentral.net/34603/Friends%202.zip",
+      "filename": "Friends 2.zip",
+      "size": 95500,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 34602,
+      "title": "Kirby's Dream Land 3 - Friends 1",
+      "version": "smwc-34602-1690835262",
+      "upstream_time": 1690835262,
+      "download_url": "https://dl.smwcentral.net/34602/Friends%201.zip",
+      "filename": "Friends 1.zip",
+      "size": 94543,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

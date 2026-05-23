@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-castlevania-bloodlines-the-sinking-old-sanctuary",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27543,
+  "title": "Castlevania: Bloodlines - The Sinking Old Sanctuary",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "calm",
+    "ghost house",
+    "mysterious",
+    "ruins",
+    "spooky",
+    "temple",
+    "water"
+  ],
+  "description": "The Sinking Old Sanctuary from Castlevania Bloodlines, which plays in the second stage of the game, Atlantis Shrine. Good for sunken ruin types of levels, or just ruined/haunted places in general.",
+  "latest_version": "smwc-27543-1627795353",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27543,
+      "title": "Castlevania: Bloodlines - The Sinking Old Sanctuary",
+      "version": "smwc-27543-1627795353",
+      "upstream_time": 1627795353,
+      "download_url": "https://dl.smwcentral.net/27543/thesinkingoldsanctuary.zip",
+      "filename": "thesinkingoldsanctuary.zip",
+      "size": 66133,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

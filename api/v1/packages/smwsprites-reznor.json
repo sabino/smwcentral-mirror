@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-reznor",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3556,
+  "title": "Reznor",
+  "authors": [
+    "yoshicookiezeus"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "lorom",
+    "reznor"
+  ],
+  "description": "A disassembly of the Reznor (sprite A9), commented and ready to be inserted with PIXI.<br>\r\n<br>\r\nNOTE: For Reznor to appear, you need to have Mario start out at the top of the screen, as that is where the Reznors show up. For the level ender to trigger, four of the sprites must be placed together (unless you edit that part of the code). And if you want the Mode 7 background with the spinning sign, the Level Mode needs to be set to 09.",
+  "latest_version": "smwc-3556-1272631813",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3556,
+      "title": "Reznor",
+      "version": "smwc-3556-1272631813",
+      "upstream_time": 1272631813,
+      "download_url": "https://dl.smwcentral.net/3556/Reznor.zip",
+      "filename": "Reznor.zip",
+      "size": 5051,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

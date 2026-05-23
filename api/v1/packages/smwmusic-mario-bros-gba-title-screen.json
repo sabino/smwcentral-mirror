@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-mario-bros-gba-title-screen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39673,
+  "title": "Mario Bros. (GBA) - Title Screen",
+  "authors": [
+    "LadiesMan217",
+    "musicalman"
+  ],
+  "tags": [
+    "grassland",
+    "menu",
+    "title",
+    "town",
+    "upbeat"
+  ],
+  "description": "Part of the \"Super Mario All-Stars Soundtrack: Ultimate Edition\" soundtrack.",
+  "latest_version": "smwc-39673-1743427750",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39673,
+      "title": "Mario Bros. (GBA) - Title Screen",
+      "version": "smwc-39673-1743427750",
+      "upstream_time": 1743427750,
+      "download_url": "https://dl.smwcentral.net/39673/Mario%20Bros.%20%28GBA%29%20-%20Title.zip",
+      "filename": "Mario Bros. (GBA) - Title.zip",
+      "size": 63928,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

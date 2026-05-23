@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-vi-locke-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30936,
+  "title": "Final Fantasy VI - Locke's Theme",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Locke's heroic, adventurous song from Final Fantasy VI.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Brutapode89\"><a href=\"/?p=profile&amp;id=35831\" style=\"color: var(--user-color-1);\" class=\"un\">Brutapode89</a></span>",
+  "latest_version": "smwc-30936-1654060112",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30936,
+      "title": "Final Fantasy VI - Locke's Theme",
+      "version": "smwc-30936-1654060112",
+      "upstream_time": 1654060112,
+      "download_url": "https://dl.smwcentral.net/30936/Locke.zip",
+      "filename": "Locke.zip",
+      "size": 68326,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

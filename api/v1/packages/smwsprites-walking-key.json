@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-walking-key",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3214,
+  "title": "Walking Key",
+  "authors": [
+    "ghettoyouth"
+  ],
+  "tags": [
+    "key",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A key that walks. When stomped, it turns into a regular key.",
+  "latest_version": "smwc-3214-1188250191",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3214,
+      "title": "Walking Key",
+      "version": "smwc-3214-1188250191",
+      "upstream_time": 1188250191,
+      "download_url": "https://dl.smwcentral.net/3214/WalkingKey.zip",
+      "filename": "WalkingKey.zip",
+      "size": 7105,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

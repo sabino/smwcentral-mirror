@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-piyopiyoplayer-cave-story-early-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27670,
+  "title": "PiyoPiyoPlayer - Cave Story (Early Theme)",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "carnival",
+    "credits",
+    "title"
+  ],
+  "description": "A very early theme from Cave Story, made by Pixel on his spare time, in a collection of songs from PiyoPiyoPlayer.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n○洞窟物語：\"洞窟物語\"のテーマ曲になるはずだった。<br>\r\nRough translation:<br>\r\n• Cave Story: It was supposed to be the theme song of \"Cave Story\".</div></div>",
+  "latest_version": "smwc-27670-1628328470",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27670,
+      "title": "PiyoPiyoPlayer - Cave Story (Early Theme)",
+      "version": "smwc-27670-1628328470",
+      "upstream_time": 1628328470,
+      "download_url": "https://dl.smwcentral.net/27670/Cave%20Story%20Alpha.zip",
+      "filename": "Cave Story Alpha.zip",
+      "size": 60521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

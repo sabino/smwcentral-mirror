@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-team-racing-sewer-speedway",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38505,
+  "title": "Crash Team Racing - Sewer Speedway",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "sewer",
+    "urban"
+  ],
+  "description": "A funky and fast paced theme that plays in Sewer Speedway, a sewer themed track inspired by the sewer levels from Crash Bandicoot 2.<br>\r\n<br>\r\nUpdate (Summer 2024): Added the drum intro from Crash Team Racing Nitro-Fueled",
+  "latest_version": "smwc-38505-1726853544",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38505,
+      "title": "Crash Team Racing - Sewer Speedway",
+      "version": "smwc-38505-1726853544",
+      "upstream_time": 1726853544,
+      "download_url": "https://dl.smwcentral.net/38505/CTR%20-%20Sewer%20Speedway.zip",
+      "filename": "CTR - Sewer Speedway.zip",
+      "size": 120701,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

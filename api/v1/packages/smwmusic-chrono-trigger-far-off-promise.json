@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-chrono-trigger-far-off-promise",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22208,
+  "title": "Chrono Trigger - Far Off Promise",
+  "authors": [
+    "Mr. MS"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld"
+  ],
+  "description": "A very calm and cool song from Chrono Trigger. Good for calm ambients.",
+  "latest_version": "smwc-22208-1583902867",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22208,
+      "title": "Chrono Trigger - Far Off Promise",
+      "version": "smwc-22208-1583902867",
+      "upstream_time": 1583902867,
+      "download_url": "https://dl.smwcentral.net/22208/Chrono%20Trigger%20-%20Far%20Off%20Promise.zip",
+      "filename": "Chrono Trigger - Far Off Promise.zip",
+      "size": 29613,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

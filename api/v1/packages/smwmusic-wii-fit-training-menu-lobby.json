@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-wii-fit-training-menu-lobby",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35359,
+  "title": "Wii Fit - Training Menu (Lobby)",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "urban"
+  ],
+  "description": "Music that plays in the main lobby of the training menu in Wii Fit.<br>\r\n<br>\r\nUPDATE: Improved the organ sample.",
+  "latest_version": "smwc-35359-1698633034",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35359,
+      "title": "Wii Fit - Training Menu (Lobby)",
+      "version": "smwc-35359-1698633034",
+      "upstream_time": 1698633034,
+      "download_url": "https://dl.smwcentral.net/35359/Wii%20Fit%20-%20Training%20Menu%20%28Lobby%29.zip",
+      "filename": "Wii Fit - Training Menu (Lobby).zip",
+      "size": 66585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-new-super-mario-bros-wii-ghost-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28628,
+  "title": "New Super Mario Bros. Wii - Ghost House",
+  "authors": [
+    "its_4life"
+  ],
+  "tags": [
+    "dark",
+    "ghost house",
+    "mysterious",
+    "spooky",
+    "temple"
+  ],
+  "description": "The sub-bass is insane!<br>\r\n<br>\r\nFits best in ghost houses (obviously) and other spooky environments.",
+  "latest_version": "smwc-28628-1638252727",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28628,
+      "title": "New Super Mario Bros. Wii - Ghost House",
+      "version": "smwc-28628-1638252727",
+      "upstream_time": 1638252727,
+      "download_url": "https://dl.smwcentral.net/28628/NSMBWiiGhost.zip",
+      "filename": "NSMBWiiGhost.zip",
+      "size": 36583,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

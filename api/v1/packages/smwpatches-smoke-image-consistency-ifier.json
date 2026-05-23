@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-smoke-image-consistency-ifier",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 25194,
+  "title": "Smoke Image Consistency-ifier",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "animation",
+    "lorom",
+    "sa-1",
+    "smoke",
+    "smoke sprite"
+  ],
+  "description": "This is a patch that allows you to swap what animations the different \"smoke cloud\" animations use in SMW.<br>\r\nThere are four distinct type of cloud animations in the game, all of which are slightly different.<br>\r\n<br>\r\nThis patch will make it so you can assign each of the unique animations to any of the *other* types. This aims to improve consistency with different smoke animations if someone wishes to redraw the graphics.<br>\r\n<br>\r\nIn addition to simply adjusting the animations, it *also* will allow you to assign the different smoke images to any of the 8 sprite palette sets, in case you aim to include more detailed smoke sprites in your hack.<br>\r\n<br>\r\nYou can also use it to optimize certain things -- Bullet Bill smoke sprites have 4 total slots, and they are used very frequently. If too many of them are on-screen, some important cues may be lost. As such, assigning the \"Fireball\" animation to those sprites will clear out slots a lot quicker.",
+  "latest_version": "smwc-25194-1610017963",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 25194,
+      "title": "Smoke Image Consistency-ifier",
+      "version": "smwc-25194-1610017963",
+      "upstream_time": 1610017963,
+      "download_url": "https://dl.smwcentral.net/25194/SmokeConsistency.zip",
+      "filename": "SmokeConsistency.zip",
+      "size": 2797,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

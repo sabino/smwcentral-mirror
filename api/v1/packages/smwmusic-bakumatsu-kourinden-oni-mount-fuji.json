@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-bakumatsu-kourinden-oni-mount-fuji",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33193,
+  "title": "Bakumatsu Kourinden Oni - Mount Fuji",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "mountain"
+  ],
+  "description": "Music when you are on Mount Fuji",
+  "latest_version": "smwc-33193-1678519375",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33193,
+      "title": "Bakumatsu Kourinden Oni - Mount Fuji",
+      "version": "smwc-33193-1678519375",
+      "upstream_time": 1678519375,
+      "download_url": "https://dl.smwcentral.net/33193/BakumatsuFuji.zip",
+      "filename": "BakumatsuFuji.zip",
+      "size": 63449,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

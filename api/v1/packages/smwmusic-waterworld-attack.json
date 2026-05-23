@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-waterworld-attack",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23773,
+  "title": "Waterworld - Attack 2",
+  "authors": [
+    "Teows"
+  ],
+  "tags": [
+    "ambient",
+    "chase",
+    "dark",
+    "night",
+    "overworld",
+    "sad",
+    "temple",
+    "tense",
+    "title",
+    "water"
+  ],
+  "description": "A very atmospheric and tense, somewhat sad song from Waterworld. Fitting for dark and ominous settings the best.",
+  "latest_version": "smwc-23773-1596246935",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23773,
+      "title": "Waterworld - Attack 2",
+      "version": "smwc-23773-1596246935",
+      "upstream_time": 1596246935,
+      "download_url": "https://dl.smwcentral.net/23773/attack2.zip",
+      "filename": "attack2.zip",
+      "size": 77349,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23333,
+      "title": "Waterworld - Attack 1 / Atoll",
+      "version": "smwc-23333-1593020561",
+      "upstream_time": 1593020561,
+      "download_url": "https://dl.smwcentral.net/23333/Waterworld%20-%20Attack%201.zip",
+      "filename": "Waterworld - Attack 1.zip",
+      "size": 142874,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

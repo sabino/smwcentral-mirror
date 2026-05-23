@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-power-jumps",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40855,
+  "title": "Power Jumps",
+  "authors": [
+    "HuFlungDu",
+    "Major Flare"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "This is the Power Jumps patch by HuFlungDu, adapted to UberASM. Changes jump height based on powerup. Small Mario jumps low, big jumps regular, fire jumps high, and cape basically flies.<br>\r\nNo credit necessary.",
+  "latest_version": "smwc-40855-1761164413",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40855,
+      "title": "Power Jumps",
+      "version": "smwc-40855-1761164413",
+      "upstream_time": 1761164413,
+      "download_url": "https://dl.smwcentral.net/40855/PowerJumps.zip",
+      "filename": "PowerJumps.zip",
+      "size": 340,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

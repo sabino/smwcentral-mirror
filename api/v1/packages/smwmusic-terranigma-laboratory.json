@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-terranigma-laboratory",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27038,
+  "title": "Terranigma - Laboratory",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "industrial",
+    "mysterious",
+    "sewer"
+  ],
+  "description": "Berugas Laboratory from Terranigma. This port is dedicated to steffi4689.",
+  "latest_version": "smwc-27038-1622498016",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27038,
+      "title": "Terranigma - Laboratory",
+      "version": "smwc-27038-1622498016",
+      "upstream_time": 1622498016,
+      "download_url": "https://dl.smwcentral.net/27038/BerugasLaboratory.zip",
+      "filename": "BerugasLaboratory.zip",
+      "size": 52012,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

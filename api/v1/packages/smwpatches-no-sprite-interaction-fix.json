@@ -1,0 +1,42 @@
+{
+  "name": "smwpatches-no-sprite-interaction-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19222,
+  "title": "No Sprite Interaction Fix",
+  "authors": [
+    "chillyfox"
+  ],
+  "tags": [
+    "fire snake",
+    "hopping flame",
+    "interact",
+    "interaction",
+    "lorom",
+    "sa-1",
+    "shell",
+    "sprite",
+    "sprite contact",
+    "thwimp",
+    "thwomp"
+  ],
+  "description": "Depending on sprite slots, sometimes a few sprites won't interact with other lower priority sprites, like Thwomp vs shell, so this small patch gives consistent sprite-on-sprite interaction to a couple of enemies:<br>\r\n<br>\r\nThwomp<br>\r\nThwimp<br>\r\nFire Snake",
+  "latest_version": "smwc-19222-1553142050",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19222,
+      "title": "No Sprite Interaction Fix",
+      "version": "smwc-19222-1553142050",
+      "upstream_time": 1553142050,
+      "download_url": "https://dl.smwcentral.net/19222/No%20Sprite%20Interaction%20Fix%203.zip",
+      "filename": "No Sprite Interaction Fix 3.zip",
+      "size": 859,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

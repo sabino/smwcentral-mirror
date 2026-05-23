@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-cho-aniki-bakuretsu-ranto-hen-clouds",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27748,
+  "title": "Cho Aniki: Bakuretsu Ranto Hen - Clouds",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "2bpp",
+    "ocean",
+    "patch needed",
+    "sky"
+  ],
+  "description": "A layer 3 BG from the Super Famicom version of this game.<br>\r\nThe house and the clouds were quite hard to draw.<br>\r\n<br>\r\nUse it with a status bar patch like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">DKCR status bar</a>, <a href=\"https://www.smwcentral.net/?p=viewthread&pid=1586086\">Kevin's UberASM retry (sprite status bar option) </a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=18862\">Remove status bar</a> or any other patches / uberasm that remove / hide the layer 3 status bar.",
+  "latest_version": "smwc-27748-1626632690",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27748,
+      "title": "Cho Aniki: Bakuretsu Ranto Hen - Clouds",
+      "version": "smwc-27748-1626632690",
+      "upstream_time": 1626632690,
+      "download_url": "https://dl.smwcentral.net/27748/Cho%20Aniki%20Bakuretsu%20Ranto%20Hen%20-%20Clouds.zip",
+      "filename": "Cho Aniki Bakuretsu Ranto Hen - Clouds.zip",
+      "size": 5105,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

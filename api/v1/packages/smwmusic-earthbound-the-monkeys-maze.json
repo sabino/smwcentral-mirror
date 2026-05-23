@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-the-monkeys-maze",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39840,
+  "title": "EarthBound - The Monkeys' Maze",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "overworld"
+  ],
+  "description": "A quirky and upbeat song from the monkey cave in Earthbound. Don't forget to bring a skip sandwich!",
+  "latest_version": "smwc-39840-1748901152",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39840,
+      "title": "EarthBound - The Monkeys' Maze",
+      "version": "smwc-39840-1748901152",
+      "upstream_time": 1748901152,
+      "download_url": "https://dl.smwcentral.net/39840/091%20The%20Monkeys%27%20Maze.zip",
+      "filename": "091 The Monkeys%27 Maze.zip",
+      "size": 57903,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

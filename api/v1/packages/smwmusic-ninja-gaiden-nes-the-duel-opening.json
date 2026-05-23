@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-ninja-gaiden-nes-the-duel-opening",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31503,
+  "title": "Ninja Gaiden (NES) - The Duel (Opening)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "retro"
+  ],
+  "description": "The song used in first part of the Opening Cutscene in Ninja Gaiden for the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31503-1663841310",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31503,
+      "title": "Ninja Gaiden (NES) - The Duel (Opening)",
+      "version": "smwc-31503-1663841310",
+      "upstream_time": 1663841310,
+      "download_url": "https://dl.smwcentral.net/31503/Ninja%20Gaiden%20-%20The%20Duel%20%28Opening%29.zip",
+      "filename": "Ninja Gaiden - The Duel (Opening).zip",
+      "size": 55515,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

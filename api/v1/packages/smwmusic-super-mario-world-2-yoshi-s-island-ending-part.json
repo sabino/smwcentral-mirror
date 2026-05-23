@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-super-mario-world-2-yoshi-s-island-ending-part",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38628,
+  "title": "Super Mario World 2: Yoshi's Island - Ending (part 2)",
+  "authors": [
+    "LadiesMan217",
+    "musicalman"
+  ],
+  "tags": [
+    "credits"
+  ],
+  "description": "Part of the Yoshi's Island + Super Mario Advance 3 unsampled soundtrack.<br>\r\nMusic ported by LadiesMan217, post mixing with musicalman.<br>\r\nNote that it doesn't loop.",
+  "latest_version": "smwc-38628-1728410244",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38628,
+      "title": "Super Mario World 2: Yoshi's Island - Ending (part 2)",
+      "version": "smwc-38628-1728410244",
+      "upstream_time": 1728410244,
+      "download_url": "https://dl.smwcentral.net/38628/Ending%20%28Part%202%29.zip",
+      "filename": "Ending (Part 2).zip",
+      "size": 32499,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38627,
+      "title": "Super Mario World 2: Yoshi's Island - Ending (part 1)",
+      "version": "smwc-38627-1728410227",
+      "upstream_time": 1728410227,
+      "download_url": "https://dl.smwcentral.net/38627/Ending%20%28Part%201%29.zip",
+      "filename": "Ending (Part 1).zip",
+      "size": 36908,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

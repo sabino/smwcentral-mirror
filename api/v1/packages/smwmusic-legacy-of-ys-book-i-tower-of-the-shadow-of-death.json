@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-legacy-of-ys-book-i-tower-of-the-shadow-of-death",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25496,
+  "title": "Legacy of Ys: Book I - Tower of the Shadow of Death",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "castle",
+    "mountain",
+    "temple"
+  ],
+  "description": "This plays during the final dungeon of Ys 1, Darm Tower. It's not a very final-sounding song, but it can definitely work for a tower/castle level in the mountain!<br>\r\n<br>\r\nMy port is largely based on the DS version of Ys I, hence the title of the submission, but I extended the intro a bit so it stays consistent with the other versions of the song.",
+  "latest_version": "smwc-25496-1608661361",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25496,
+      "title": "Legacy of Ys: Book I - Tower of the Shadow of Death",
+      "version": "smwc-25496-1608661361",
+      "upstream_time": 1608661361,
+      "download_url": "https://dl.smwcentral.net/25496/Ys1DarmTower.zip",
+      "filename": "Ys1DarmTower.zip",
+      "size": 34007,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

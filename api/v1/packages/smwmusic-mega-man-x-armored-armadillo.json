@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-mega-man-x-armored-armadillo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29434,
+  "title": "Mega Man X - Armored Armadillo",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "tense"
+  ],
+  "description": "The Theme played in Armored Armadillo's Stage in Mega Man X.<br>\r\n<br>\r\nFeatured in the Winter C3 2022's \"I Port Occasionally\" Pack.",
+  "latest_version": "smwc-29434-1645747113",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29434,
+      "title": "Mega Man X - Armored Armadillo",
+      "version": "smwc-29434-1645747113",
+      "upstream_time": 1645747113,
+      "download_url": "https://dl.smwcentral.net/29434/Mega%20Man%20X%20-%20Armored%20Armadillo.zip",
+      "filename": "Mega Man X - Armored Armadillo.zip",
+      "size": 35752,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17334,
+      "title": "Mega Man X - Armored Armadillo",
+      "version": "smwc-17334-1522664240",
+      "upstream_time": 1522664240,
+      "download_url": "https://dl.smwcentral.net/17334/%5BS%5D%20Mega%20Man%20X%20-%20Armored%20Armadillo.zip",
+      "filename": "%5BS%5D Mega Man X - Armored Armadillo.zip",
+      "size": 57164,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

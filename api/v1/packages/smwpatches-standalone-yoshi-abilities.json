@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-standalone-yoshi-abilities",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 24589,
+  "title": "Standalone Yoshi Abilities",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "ability",
+    "floating",
+    "lorom",
+    "sa-1",
+    "stomp",
+    "yoshi"
+  ],
+  "description": "This patch allows unmounted yoshi to keep some shell abilities - stomping with yellow shell/yoshi and slowfall with blue shell/yoshi. Those powers can be combined as well.<br>\r\n<br>\r\nCredit is optional.",
+  "latest_version": "smwc-24589-1603474355",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 24589,
+      "title": "Standalone Yoshi Abilities",
+      "version": "smwc-24589-1603474355",
+      "upstream_time": 1603474355,
+      "download_url": "https://dl.smwcentral.net/24589/Standalone%20Yoshi%20Abilities.zip",
+      "filename": "Standalone Yoshi Abilities.zip",
+      "size": 2857,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

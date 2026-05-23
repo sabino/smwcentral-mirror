@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mega-man-x5-maverick-selected",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29881,
+  "title": "Mega Man X5 - Maverick Selected",
+  "authors": [
+    "FalseCircus"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "The jingle that plays when you select a stage in Mega Man X5, introducing that stage's boss. Works well for Welcome to Dinosaur Land, or with the VWF Level Intro patch.",
+  "latest_version": "smwc-29881-1672641449",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29881,
+      "title": "Mega Man X5 - Maverick Selected",
+      "version": "smwc-29881-1672641449",
+      "upstream_time": 1672641449,
+      "download_url": "https://dl.smwcentral.net/29881/mmx5intro.zip",
+      "filename": "mmx5intro.zip",
+      "size": 43548,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

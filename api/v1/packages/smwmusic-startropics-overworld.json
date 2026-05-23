@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-startropics-overworld",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 13974,
+  "title": "StarTropics - Overworld",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach",
+    "overworld"
+  ],
+  "description": "A 16-bit arrangement of the song that plays on StarTropics' overworld.  Great for beaches.",
+  "latest_version": "smwc-13974-1469990984",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 13974,
+      "title": "StarTropics - Overworld",
+      "version": "smwc-13974-1469990984",
+      "upstream_time": 1469990984,
+      "download_url": "https://dl.smwcentral.net/13974/StarTropics%20Overworld.zip",
+      "filename": "StarTropics Overworld.zip",
+      "size": 32248,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

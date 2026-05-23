@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-cape-spin-cooldown",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 26520,
+  "title": "Cape Spin Cooldown",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "cape spin",
+    "lorom",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This patch will add a cooldown timer to the cape spin/twirl, making it less overpowered.<br>\r\nYou can change the duration of the cooldown and of the cape spin in the main asm file. You also need to insert the included UberASM file in gamemode 14 to make the timer decrement.<br>\r\nIt uses 1 byte of free RAM.",
+  "latest_version": "smwc-26520-1620517211",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 26520,
+      "title": "Cape Spin Cooldown",
+      "version": "smwc-26520-1620517211",
+      "upstream_time": 1620517211,
+      "download_url": "https://dl.smwcentral.net/26520/CapeSpinCooldown.zip",
+      "filename": "CapeSpinCooldown.zip",
+      "size": 1271,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-nes-wily-castle-boss-mm7-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39821,
+  "title": "Mega Man (NES) - Wily Castle Boss (MM7 Style)",
+  "authors": [
+    "7 up"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "A scary theme you probably used pause glitch to while you were fighting Yellow Devil. Best for... no, you didn't guess it. *suspense* Bosses.",
+  "latest_version": "smwc-39821-1750701831",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39821,
+      "title": "Mega Man (NES) - Wily Castle Boss (MM7 Style)",
+      "version": "smwc-39821-1750701831",
+      "upstream_time": 1750701831,
+      "download_url": "https://dl.smwcentral.net/39821/Mega%20Man%201%20-%20Wily%20Boss%20%28MM7%20Style%29.zip",
+      "filename": "Mega Man 1 - Wily Boss (MM7 Style).zip",
+      "size": 79848,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

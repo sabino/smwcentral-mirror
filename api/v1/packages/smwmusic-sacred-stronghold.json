@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-sacred-stronghold",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35576,
+  "title": "Sacred Stronghold",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "overworld",
+    "sky"
+  ],
+  "description": "Sacred Stronghold, composed by yours truly, which ranked 12th in Super Famicompo 5's 'Challenge' category.<br>\r\n<br>\r\nMeant for use in overworlds.",
+  "latest_version": "smwc-35576-1703361912",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35576,
+      "title": "Sacred Stronghold",
+      "version": "smwc-35576-1703361912",
+      "upstream_time": 1703361912,
+      "download_url": "https://dl.smwcentral.net/35576/Sacred%20Stronghold.zip",
+      "filename": "Sacred Stronghold.zip",
+      "size": 43462,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

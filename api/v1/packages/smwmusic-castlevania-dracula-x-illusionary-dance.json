@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-castlevania-dracula-x-illusionary-dance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32450,
+  "title": "Castlevania: Dracula X - Illusionary Dance",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "dark"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>",
+  "latest_version": "smwc-32450-1675211952",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32450,
+      "title": "Castlevania: Dracula X - Illusionary Dance",
+      "version": "smwc-32450-1675211952",
+      "upstream_time": 1675211952,
+      "download_url": "https://dl.smwcentral.net/32450/Illusionary%20Dance.zip",
+      "filename": "Illusionary Dance.zip",
+      "size": 69149,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

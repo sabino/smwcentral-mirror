@@ -1,0 +1,65 @@
+{
+  "name": "smwmusic-treasure-hunter-g-surrounded-by-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37492,
+  "title": "Treasure Hunter G - Surrounded by Forest 1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "forest",
+    "mysterious",
+    "night",
+    "overworld",
+    "sad"
+  ],
+  "description": "The prequel to Surrounded by Forest 2",
+  "latest_version": "smwc-37492-1716744495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37492,
+      "title": "Treasure Hunter G - Surrounded by Forest 1",
+      "version": "smwc-37492-1716744495",
+      "upstream_time": 1716744495,
+      "download_url": "https://dl.smwcentral.net/37492/121%20Surrounded%20by%20Forest%201.zip",
+      "filename": "121 Surrounded by Forest 1.zip",
+      "size": 66962,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17895,
+      "title": "Treasure Hunter G - Surrounded by Forest 2",
+      "version": "smwc-17895-1531956921",
+      "upstream_time": 1531956921,
+      "download_url": "https://dl.smwcentral.net/17895/surrounded_unsampled.zip",
+      "filename": "surrounded_unsampled.zip",
+      "size": 31445,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17894,
+      "title": "Treasure Hunter G - Surrounded by Forest 2",
+      "version": "smwc-17894-1531958189",
+      "upstream_time": 1531958189,
+      "download_url": "https://dl.smwcentral.net/17894/surrounded.zip",
+      "filename": "surrounded.zip",
+      "size": 55283,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

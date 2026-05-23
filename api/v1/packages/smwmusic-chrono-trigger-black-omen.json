@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-chrono-trigger-black-omen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21645,
+  "title": "Chrono Trigger - Black Omen",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "The music that plays in the last dungeon of Chrono Trigger, good for a final area.<br>\r\n<br>\r\nNote: not compatible with \"Bonus end\" song and thunder sfx/Blarggs.",
+  "latest_version": "smwc-21645-1576466078",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21645,
+      "title": "Chrono Trigger - Black Omen",
+      "version": "smwc-21645-1576466078",
+      "upstream_time": 1576466078,
+      "download_url": "https://dl.smwcentral.net/21645/311%20Black%20Omen.zip",
+      "filename": "311 Black Omen.zip",
+      "size": 71183,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

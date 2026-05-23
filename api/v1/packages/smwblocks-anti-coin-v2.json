@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-anti-coin-v2",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 15027,
+  "title": "Anti-Coin v2.0",
+  "authors": [
+    "Arinsu",
+    "S.L"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "The opposite of a coin - decrements the coin counter instead of incrementing it. Also generates a sound.<br>\r\n<br>\r\nv2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>):<br>\r\n* Added functional support for the P-Switch, some new features, and SA-1 support. ",
+  "latest_version": "smwc-15027-1494549186",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 15027,
+      "title": "Anti-Coin v2.0",
+      "version": "smwc-15027-1494549186",
+      "upstream_time": 1494549186,
+      "download_url": "https://dl.smwcentral.net/15027/Anticoin%20v2.zip",
+      "filename": "Anticoin v2.zip",
+      "size": 940,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

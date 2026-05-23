@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-shin-kid-senki-gundam-wing-endless-duel-port",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34254,
+  "title": "Shin Kidō Senki Gundam Wing: Endless Duel - Port",
+  "authors": [
+    "Ahrion",
+    "Zavok"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "indutrial",
+    "sewer",
+    "space",
+    "urban"
+  ],
+  "description": "Pretty song. Could fit a factory or space theme.",
+  "latest_version": "smwc-34254-1693477037",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34254,
+      "title": "Shin Kidō Senki Gundam Wing: Endless Duel - Port",
+      "version": "smwc-34254-1693477037",
+      "upstream_time": 1693477037,
+      "download_url": "https://dl.smwcentral.net/34254/Port%20%28U%29.zip",
+      "filename": "Port (U).zip",
+      "size": 37959,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 30847,
+      "title": "Shin Kidō Senki Gundam Wing: Endless Duel - Port",
+      "version": "smwc-30847-1659280145",
+      "upstream_time": 1659280145,
+      "download_url": "https://dl.smwcentral.net/30847/Port.zip",
+      "filename": "Port.zip",
+      "size": 64521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-underwater",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 29824,
+  "title": "Underwater 1-UP Chain Fix",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Fixes a minor issue where Mario's bounce counter still increments while in water, allowing the player to gain 1-UPs very easily. This patch changes it so the counter is reset whenever Mario is in water.",
+  "latest_version": "smwc-29824-1645088318",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 29824,
+      "title": "Underwater 1-UP Chain Fix",
+      "version": "smwc-29824-1645088318",
+      "upstream_time": 1645088318,
+      "download_url": "https://dl.smwcentral.net/29824/water_1up_fix.zip",
+      "filename": "water_1up_fix.zip",
+      "size": 400,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "smwmusic-mega-man-x3-blizzard-buffalo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28805,
+  "title": "Mega Man X3 - Blizzard Buffalo",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ice",
+    "industrial",
+    "mountain",
+    "night",
+    "snow"
+  ],
+  "description": "This was a rather difficult one to get right, I managed to pull through, though.<br>\r\n<br>\r\nThis is the Blizzard Buffalo's Theme from Mega Man X3, my favorite song from the game.<br>\r\n<br>\r\nIt really fits well with the stage. Has that heavy snow feel to it, like you're powering through a massive blizzard and occasionally stopping to recover from the cold.<br>\r\n<br>\r\nFits in literally any snowy environment, and maybe even an ice factory of sorts. (Yes, they exist, look it up)<br>\r\n<br>\r\nOh, almost forgot, there is a toggle option in the .txt file that lets you change the lead between @0 (flute) and @13 (harp).",
+  "latest_version": "smwc-28805-1641796256",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28805,
+      "title": "Mega Man X3 - Blizzard Buffalo",
+      "version": "smwc-28805-1641796256",
+      "upstream_time": 1641796256,
+      "download_url": "https://dl.smwcentral.net/28805/Mega%20Man%20X3%20-%20Blizzard%20Buffalo.zip",
+      "filename": "Mega Man X3 - Blizzard Buffalo.zip",
+      "size": 66695,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17336,
+      "title": "Mega Man X3 - Blizzard Buffalo",
+      "version": "smwc-17336-1522806423",
+      "upstream_time": 1522806423,
+      "download_url": "https://dl.smwcentral.net/17336/%5BS%5D%20Megaman%20X3%20-%20Blizzard%20Buffalo.zip",
+      "filename": "%5BS%5D Megaman X3 - Blizzard Buffalo.zip",
+      "size": 72290,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7195,
+      "title": "Mega Man X3 - Blizzard Buffalo",
+      "version": "smwc-7195-1314132217",
+      "upstream_time": 1314132217,
+      "download_url": "https://dl.smwcentral.net/7195/MMX3%20-%20Blizzard%20Buffalo.zip",
+      "filename": "MMX3 - Blizzard Buffalo.zip",
+      "size": 68521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

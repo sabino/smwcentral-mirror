@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-saga-frontier",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33217,
+  "title": "SaGa Frontier 2 - Mißgestalt",
+  "authors": [
+    "DrAnas"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final",
+    "sky"
+  ],
+  "description": "The song used in the final boss battle in SF2. You may have heard an older port of this by Carol. Included are two different versions of the port-- one for AMK 1.0.8 and one for AMK 1.0.9. The latter version takes better advantage of remote commands and actually uses a 1.0.9-specific command, though the difference is minor. (For some reason, I didn't think of using the same remote commands in the 1.0.8 version, but I didn't feel like touching this port again)",
+  "latest_version": "smwc-33217-1696138736",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33217,
+      "title": "SaGa Frontier 2 - Mißgestalt",
+      "version": "smwc-33217-1696138736",
+      "upstream_time": 1696138736,
+      "download_url": "https://dl.smwcentral.net/33217/mibgestalt.zip",
+      "filename": "mibgestalt.zip",
+      "size": 67458,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-custom-color-bouncing-parakoopa-alternates-height",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19049,
+  "title": "Custom-Color Bouncing Parakoopa, Alternates Height",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "bouncing",
+    "enemy",
+    "koopa",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A parakoopa with a varied jump height; like the green bouncing parakoopa but with their combined height patterns.<br>\r\n<br>\r\nAdditionaly, this koopa is not colored like any of the original 4, so it's the first fully custom koopa with 100% accurate behavior. Yay.<br>\r\n- Yoshi gets wings when it eats the shell.<br>\r\n- Includes a custom shell-less Koopa, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=13892\">coded by Thomas</a>.<br>\r\n- Includes a sprite that just spawns the shell of the specific color.<br>\r\n- Uses palette F by default.<br>\r\n<br>\r\nRequested by Aeon on Summer C3 2017. However, this is fully recoded from scratch unlike the one I uploaded for the event; it also comes with much less bugs. ^u^<br>\r\n<br>\r\nv1.2<br>\r\n----<br>\r\nFixed crash when spawning a shell-less koopa.",
+  "latest_version": "smwc-19049-1549219327",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19049,
+      "title": "Custom-Color Bouncing Parakoopa, Alternates Height",
+      "version": "smwc-19049-1549219327",
+      "upstream_time": 1549219327,
+      "download_url": "https://dl.smwcentral.net/19049/Bouncing%20Parakoopa%20v1.2.zip",
+      "filename": "Bouncing Parakoopa v1.2.zip",
+      "size": 9190,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

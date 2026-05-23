@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-smurfs-gb-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9404,
+  "title": "The Smurfs (GB) - Game Over",
+  "authors": [
+    "Barrels O' Fun"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "game over"
+  ],
+  "description": "This plays when you get a Game Over in ''The Smurfs'' on the Game Boy. It is a nice little tune, but there isn't much use for it. Though it could be used for cutscenes, or more obviously a game over screen if you are good enough to program one.",
+  "latest_version": "smwc-9404-1413919509",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9404,
+      "title": "The Smurfs (GB) - Game Over",
+      "version": "smwc-9404-1413919509",
+      "upstream_time": 1413919509,
+      "download_url": "https://dl.smwcentral.net/9404/The%20Smurfs%20%28GB%29%20-%20Game%20Over.zip",
+      "filename": "The Smurfs (GB) - Game Over.zip",
+      "size": 33614,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

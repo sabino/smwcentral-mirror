@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-last-bible-iii-dance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29248,
+  "title": "Last Bible III - Dance",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "cutscene",
+    "town"
+  ],
+  "description": "Part of the Last Bible 3 soundtrack project.<br>\r\nA song you can dance to.<br>\r\nNote: by default it doesn't loop, like the original. To make it loop, change LOOP to 1 in the txt file.",
+  "latest_version": "smwc-29248-1643134874",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29248,
+      "title": "Last Bible III - Dance",
+      "version": "smwc-29248-1643134874",
+      "upstream_time": 1643134874,
+      "download_url": "https://dl.smwcentral.net/29248/20%20Dance.zip",
+      "filename": "20 Dance.zip",
+      "size": 102313,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

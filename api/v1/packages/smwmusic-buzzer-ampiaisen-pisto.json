@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-buzzer-ampiaisen-pisto",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37331,
+  "title": "Buzzer - Ampiaisen Pisto",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "fire",
+    "industrial",
+    "retro",
+    "tense"
+  ],
+  "description": "A tense chiptune track that I initially ported for Entropy.",
+  "latest_version": "smwc-37331-1714512503",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37331,
+      "title": "Buzzer - Ampiaisen Pisto",
+      "version": "smwc-37331-1714512503",
+      "upstream_time": 1714512503,
+      "download_url": "https://dl.smwcentral.net/37331/Ampiaisen%20Pisto.zip",
+      "filename": "Ampiaisen Pisto.zip",
+      "size": 56716,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

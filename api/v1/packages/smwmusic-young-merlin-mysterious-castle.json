@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-young-merlin-mysterious-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 20600,
+  "title": "Young Merlin - Mysterious Castle",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "cave",
+    "cutscene",
+    "dark",
+    "ghost house",
+    "sewer"
+  ],
+  "description": "Fits caves, sewers, mines and cutscenes.",
+  "latest_version": "smwc-20600-1562899993",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 20600,
+      "title": "Young Merlin - Mysterious Castle",
+      "version": "smwc-20600-1562899993",
+      "upstream_time": 1562899993,
+      "download_url": "https://dl.smwcentral.net/20600/MysteriousCastle.zip",
+      "filename": "MysteriousCastle.zip",
+      "size": 46982,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

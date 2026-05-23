@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-guardin-chuck",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16658,
+  "title": "Guardin' Chuck",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "chuck",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A chuck that will chase Mario when he gets nearby. He's watching one direction only, depending on the extra bit.<br>\r\n<br>\r\nUpdate (4/23/2020): fixed a bug that caused the sprite to crash the game (thanks to Mellonpizza for the fix).",
+  "latest_version": "smwc-16658-1511292110",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16658,
+      "title": "Guardin' Chuck",
+      "version": "smwc-16658-1511292110",
+      "upstream_time": 1511292110,
+      "download_url": "https://dl.smwcentral.net/16658/Guard_Chuck.zip",
+      "filename": "Guard_Chuck.zip",
+      "size": 3637,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

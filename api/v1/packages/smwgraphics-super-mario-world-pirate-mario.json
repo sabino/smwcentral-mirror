@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-pirate-mario",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 27771,
+  "title": "Super Mario World (Pirate) - Mario",
+  "authors": [
+    "King Mayro"
+  ],
+  "tags": [
+    "bootleg",
+    "mario",
+    "nes"
+  ],
+  "description": "The weird Mario graphics from the Super Mario World NES bootleg by the Hummer Team, also known as the Somari Team.<br>\r\n<br>\r\nI tried to make sure everything looked as close to the original as possible, while fixing many oddities. As for missing poses, I had to make my own. Trying to look as close to the bootleg style as possible.<br>\r\n<br>\r\n32x32 Player Tilemap Patch is required: <a href=\"https://www.smwcentral.net/?p=section&a=details&id=26000\">link</a>",
+  "latest_version": "smwc-27771-1626796402",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 27771,
+      "title": "Super Mario World (Pirate) - Mario",
+      "version": "smwc-27771-1626796402",
+      "upstream_time": 1626796402,
+      "download_url": "https://dl.smwcentral.net/27771/SMWpirateMario.zip",
+      "filename": "SMWpirateMario.zip",
+      "size": 17857,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

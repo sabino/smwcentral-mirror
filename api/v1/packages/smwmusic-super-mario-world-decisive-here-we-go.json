@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-world-decisive-here-we-go",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7914,
+  "title": "Super Mario World - Decisive Here We Go",
+  "authors": [
+    "Kil"
+  ],
+  "tags": [
+    "grassland"
+  ],
+  "description": "This is a remix of the main SMW theme. Uploaded because people have been telling me it's their favorite song in ASMT for a year, etc.",
+  "latest_version": "smwc-7914-1319883279",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7914,
+      "title": "Super Mario World - Decisive Here We Go",
+      "version": "smwc-7914-1319883279",
+      "upstream_time": 1319883279,
+      "download_url": "https://dl.smwcentral.net/7914/DecisiveHereWeGo.zip",
+      "filename": "DecisiveHereWeGo.zip",
+      "size": 69380,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

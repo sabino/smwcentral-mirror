@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-touhou-gensoukyou-lotus-land-story-gensokyo-lotus-land-story-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22931,
+  "title": "Touhou Gensoukyou ~ Lotus Land Story - Gensokyo ~ Lotus Land Story (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "final",
+    "night",
+    "sky",
+    "space",
+    "tense",
+    "title"
+  ],
+  "description": "Did a remix of <i>Gensokyo ~ Lotus Land Story</i>, the title theme of <i>Touhou 4: Lotus Land Story</i>.<br>\r\n<br>\r\nThis can work with title screens, but it can also work for sky / athletic levels, night levels, intense moments, & even boss fights.<br>\r\n<br>\r\n<b>Note:</b><br>\r\nThere's a text file with the sample group in which you'll have to move it into your sample group text file.<br>\r\nThere are three customizable pitches for this song that you can adjust in the song file:<br>\r\n- d minor (The default pitch)<br>\r\n- c# minor (The alternate pitch)<br>\r\n- f minor (A custom pitch for this remix)",
+  "latest_version": "smwc-22931-1589340313",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22931,
+      "title": "Touhou Gensoukyou ~ Lotus Land Story - Gensokyo ~ Lotus Land Story (Remix)",
+      "version": "smwc-22931-1589340313",
+      "upstream_time": 1589340313,
+      "download_url": "https://dl.smwcentral.net/22931/Gensokyo__Lotus_Land_Story.zip",
+      "filename": "Gensokyo__Lotus_Land_Story.zip",
+      "size": 165809,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

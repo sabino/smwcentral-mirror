@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-32x32-coin",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3319,
+  "title": "32x32 coin",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A coin 32x32 in size in the form of a sprite.  It's pretty easy to customise it into another collectable too.<br>\r\nMust provide your own graphics.",
+  "latest_version": "smwc-3319-1215847463",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3319,
+      "title": "32x32 coin",
+      "version": "smwc-3319-1215847463",
+      "upstream_time": 1215847463,
+      "download_url": "https://dl.smwcentral.net/3319/32coin.zip",
+      "filename": "32coin.zip",
+      "size": 996,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

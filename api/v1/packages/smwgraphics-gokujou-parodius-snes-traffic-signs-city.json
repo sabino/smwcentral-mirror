@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-gokujou-parodius-snes-traffic-signs-city",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38113,
+  "title": "Gokujou Parodius (SNES) - Traffic Signs (City)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "city"
+  ],
+  "description": "A very colorful background seen in the fourth stage of Gokujou Parodius. It's a high speed stage where the player traverses a city.<br>\r\n<br>\r\nCompared to the old version, palettes and gfx are much more optimized. Includes HDMA gradient seen in the original game, meant to be inserted with UberASM Tool.<br>\r\n<br>\r\nThere's two versions:<br>\r\n- City A: This one has two wide houses and two buildings named A1 and A2.<br>\r\n- City B: Has a lot of tall buildings and some construction sites.<br>\r\n<br>\r\nPick the one you like more. Cheers!",
+  "latest_version": "smwc-38113-1724431711",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38113,
+      "title": "Gokujou Parodius (SNES) - Traffic Signs (City)",
+      "version": "smwc-38113-1724431711",
+      "upstream_time": 1724431711,
+      "download_url": "https://dl.smwcentral.net/38113/Gokujou%20Parodius%20%28SNES%29%20-%20Traffic%20Signs%20%28City%29.zip",
+      "filename": "Gokujou Parodius (SNES) - Traffic Signs (City).zip",
+      "size": 11517,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

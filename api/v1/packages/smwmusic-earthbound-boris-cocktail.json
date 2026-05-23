@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-earthbound-boris-cocktail",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23334,
+  "title": "EarthBound - Boris' Cocktail",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "abstract",
+    "dark",
+    "ghost house",
+    "mysterious",
+    "ruins",
+    "spooky"
+  ],
+  "description": "An eerie bar song that can fit in creepy areas.",
+  "latest_version": "smwc-23334-1592610751",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23334,
+      "title": "EarthBound - Boris' Cocktail",
+      "version": "smwc-23334-1592610751",
+      "upstream_time": 1592610751,
+      "download_url": "https://dl.smwcentral.net/23334/Earthbound%20-%20Boris%27%20Cocktail.zip",
+      "filename": "Earthbound - Boris%27 Cocktail.zip",
+      "size": 53984,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

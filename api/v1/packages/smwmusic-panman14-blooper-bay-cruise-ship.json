@@ -1,0 +1,45 @@
+{
+  "name": "smwmusic-panman14-blooper-bay-cruise-ship",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25167,
+  "title": "Panman14 - Blooper Bay (Cruise Ship)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "beach",
+    "calm",
+    "cave",
+    "cutscene",
+    "dark",
+    "night",
+    "overworld",
+    "sad",
+    "sewers",
+    "spooky",
+    "town",
+    "urban",
+    "water"
+  ],
+  "description": "Version 1a: Strings (0x094C = 2380 bytes)<br>\r\nVersion 2a: Drums (0x095E = 2398 bytes)<br>\r\n<br>\r\nVersion 1b: Strings (Short Intro, 0x08CE = 2254 bytes)<br>\r\nVersion 2b: Drums (Short Intro, 0x08DC = 2268 bytes)<br>\r\n<br>\r\nThe music melody was inspired by Panman14's blooper bay. But my original composition like waiting, information, and options for social transportation. Could fit on the cruise ship or harbor areas, or the social information (any kind).<br>\r\n<br>\r\nPreview Video: https://www.youtube.com/watch?v=N5dN8O896h0<br>\r\nhttps://www.youtube.com/watch?v=HKLkD9PaNH8<br>\r\n<br>\r\nUpdate (2020/11/17): Added (Short Intro) version and fixed<br>\r\nUpdate (2020/11/29): Improved and removed sample group necessary into #default",
+  "latest_version": "smwc-25167-1607225888",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25167,
+      "title": "Panman14 - Blooper Bay (Cruise Ship)",
+      "version": "smwc-25167-1607225888",
+      "upstream_time": 1607225888,
+      "download_url": "https://dl.smwcentral.net/25167/Bloopers_Cruise_Ship.zip",
+      "filename": "Bloopers_Cruise_Ship.zip",
+      "size": 199141,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

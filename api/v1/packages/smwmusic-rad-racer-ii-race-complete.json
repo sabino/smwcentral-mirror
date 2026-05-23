@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-rad-racer-ii-race-complete",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29521,
+  "title": "Rad Racer II - Race Complete",
+  "authors": [
+    "KlonoA13Phill"
+  ],
+  "tags": [
+    "goal"
+  ],
+  "description": "An energetic and tropical style song played when you complete a race in Rad Racer II. You can use it for stage clear or boss clear.",
+  "latest_version": "smwc-29521-1645574492",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29521,
+      "title": "Rad Racer II - Race Complete",
+      "version": "smwc-29521-1645574492",
+      "upstream_time": 1645574492,
+      "download_url": "https://dl.smwcentral.net/29521/Rad%20Racer%20II%20%28NES%29%20-%20Race%20Complete.zip",
+      "filename": "Rad Racer II (NES) - Race Complete.zip",
+      "size": 30522,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-sonic-the-hedgehog-final-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23620,
+  "title": "Sonic the Hedgehog - Final Zone",
+  "authors": [
+    "Hazel"
+  ],
+  "tags": [
+    "boss",
+    "final",
+    "overworld"
+  ],
+  "description": "The daunting, yet also kind of basic final boss theme from Sonic the Hedgehog. Good for final boss encounters that don't take up too much time, because it's a pretty repetitive song.",
+  "latest_version": "smwc-23620-1594229062",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23620,
+      "title": "Sonic the Hedgehog - Final Zone",
+      "version": "smwc-23620-1594229062",
+      "upstream_time": 1594229062,
+      "download_url": "https://dl.smwcentral.net/23620/final%20zone.zip",
+      "filename": "final zone.zip",
+      "size": 32878,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11558,
+      "title": "Sonic the Hedgehog - Final Zone",
+      "version": "smwc-11558-1437618809",
+      "upstream_time": 1437618809,
+      "download_url": "https://dl.smwcentral.net/11558/STHfinalzone.zip",
+      "filename": "STHfinalzone.zip",
+      "size": 31354,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

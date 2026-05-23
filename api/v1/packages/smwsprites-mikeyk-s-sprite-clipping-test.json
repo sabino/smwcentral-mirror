@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-mikeyk-s-sprite-clipping-test",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3744,
+  "title": "mikeyk's Sprite Clipping Test",
+  "authors": [
+    "mikeyk"
+  ],
+  "tags": [
+    "clipping",
+    "enemy",
+    "lorom",
+    "test"
+  ],
+  "description": "This is an in-game tool consisting of a block and a sprite that provides a test environment which shows every sprite clipping size available in SMW. This is perfect for anyone who is coding a sprite, but doesn't know what clipping size to set in the .cfg file.<br>\r\n<br>\r\nThe coin counter will display the clipping value, and the sprite will show the size of the hitbox.<br>\r\n<br>\r\nThis was originally submitted as a tool, but it's better off being a sprite.",
+  "latest_version": "smwc-3744-1315737279",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3744,
+      "title": "mikeyk's Sprite Clipping Test",
+      "version": "smwc-3744-1315737279",
+      "upstream_time": 1315737279,
+      "download_url": "https://dl.smwcentral.net/3744/cliptest.zip",
+      "filename": "cliptest.zip",
+      "size": 3451,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

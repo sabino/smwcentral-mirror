@@ -1,0 +1,64 @@
+{
+  "name": "smwmusic-final-fantasy-iv-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27044,
+  "title": "Final Fantasy IV - Main Theme",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "overworld",
+    "sky",
+    "title"
+  ],
+  "description": "The adventurous main theme of Final Fantasy IV, which plays on the overworld map of said game.",
+  "latest_version": "smwc-27044-1622647955",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27044,
+      "title": "Final Fantasy IV - Main Theme",
+      "version": "smwc-27044-1622647955",
+      "upstream_time": 1622647955,
+      "download_url": "https://dl.smwcentral.net/27044/ff4map.zip",
+      "filename": "ff4map.zip",
+      "size": 32494,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 13714,
+      "title": "Final Fantasy IV - Main Theme",
+      "version": "smwc-13714-1464756589",
+      "upstream_time": 1464756589,
+      "download_url": "https://dl.smwcentral.net/13714/ff4_main_theme.zip",
+      "filename": "ff4_main_theme.zip",
+      "size": 58257,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7170,
+      "title": "Final Fantasy IV - Main Theme",
+      "version": "smwc-7170-1320048562",
+      "upstream_time": 1320048562,
+      "download_url": "https://dl.smwcentral.net/7170/FF4%20Main.zip",
+      "filename": "FF4 Main.zip",
+      "size": 73156,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

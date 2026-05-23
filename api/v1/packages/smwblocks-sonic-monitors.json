@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-sonic-monitors",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4077,
+  "title": "Sonic Monitors",
+  "authors": [
+    "The Blue Yoshi"
+  ],
+  "tags": [
+    "coin",
+    "invincibility",
+    "kill",
+    "lorom",
+    "powerup"
+  ],
+  "description": "These are blocks that recreate the monitors from Sonic the Hedgehog. Now with a few changes and 2 new monitors. Enjoy.<br>\r\n<br>\r\n<i>Moderator's comment: you actually have to 'break' the block by jumping on it. I had difficulties figuring this out</i>",
+  "latest_version": "smwc-4077-1426734851",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4077,
+      "title": "Sonic Monitors",
+      "version": "smwc-4077-1426734851",
+      "upstream_time": 1426734851,
+      "download_url": "https://dl.smwcentral.net/4077/Sonic_Monitors.zip",
+      "filename": "Sonic_Monitors.zip",
+      "size": 3856,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

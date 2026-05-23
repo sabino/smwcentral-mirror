@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-chip-polka",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8491,
+  "title": "Chip Polka",
+  "authors": [
+    "HarvettFox96"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "chase",
+    "credits"
+  ],
+  "description": "A fast-paced tune that would make a good bonus theme or an interesting boss theme.",
+  "latest_version": "smwc-8491-1388496913",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8491,
+      "title": "Chip Polka",
+      "version": "smwc-8491-1388496913",
+      "upstream_time": 1388496913,
+      "download_url": "https://dl.smwcentral.net/8491/Chip%20Polka.zip",
+      "filename": "Chip Polka.zip",
+      "size": 62122,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-pinball-behind-the-mask-wizard",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 30108,
+  "title": "Super Pinball: Behind The Mask - Wizard",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "abstract",
+    "mysterious",
+    "overworld",
+    "sky",
+    "space"
+  ],
+  "description": "The ethereal, spooky song played when playing Wizard's Pinball Machine in Super Pinball: Behind The Mask.<br>\r\n<br>\r\nGreat for your sky and/or space overworlds and levels.",
+  "latest_version": "smwc-30108-1652128655",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 30108,
+      "title": "Super Pinball: Behind The Mask - Wizard",
+      "version": "smwc-30108-1652128655",
+      "upstream_time": 1652128655,
+      "download_url": "https://dl.smwcentral.net/30108/Super%20Pinball%20Behind%20The%20Mask%20-%20Wizard.zip",
+      "filename": "Super Pinball Behind The Mask - Wizard.zip",
+      "size": 46170,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

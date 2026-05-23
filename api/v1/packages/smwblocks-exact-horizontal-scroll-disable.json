@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-exact-horizontal-scroll-disable",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 35798,
+  "title": "Exact Horizontal Scroll Disable",
+  "authors": [
+    "AmazingChest"
+  ],
+  "tags": [
+    "camera",
+    "horizontal",
+    "lorom",
+    "sa-1",
+    "scroll"
+  ],
+  "description": "Disables horizontal scrolling at an exact position.<br>\r\n<br>\r\nUnlike the scroll disabling block by Apollyon, this one ensures that the camera will stop at a precise distance from where the block is placed and it will stop at the exact same coordinate every time.<br>\r\n<br>\r\nNo more stopping in-between tiles. No more variability in where the camera stops.<br>\r\n<br>\r\nNote: Do not use with other camera controlling asm, including vanilla L/R scrolling.",
+  "latest_version": "smwc-35798-1712275836",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 35798,
+      "title": "Exact Horizontal Scroll Disable",
+      "version": "smwc-35798-1712275836",
+      "upstream_time": 1712275836,
+      "download_url": "https://dl.smwcentral.net/35798/ExactHScrollDisable.zip",
+      "filename": "ExactHScrollDisable.zip",
+      "size": 1276,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-kirby-the-amazing-mirror-speed-eaters",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 14023,
+  "title": "Kirby & The Amazing Mirror - Speed Eaters",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "beach"
+  ],
+  "description": "A happy little song that would work well for beach levels.",
+  "latest_version": "smwc-14023-1469990491",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 14023,
+      "title": "Kirby & The Amazing Mirror - Speed Eaters",
+      "version": "smwc-14023-1469990491",
+      "upstream_time": 1469990491,
+      "download_url": "https://dl.smwcentral.net/14023/Speed%20Eaters.zip",
+      "filename": "Speed Eaters.zip",
+      "size": 33313,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

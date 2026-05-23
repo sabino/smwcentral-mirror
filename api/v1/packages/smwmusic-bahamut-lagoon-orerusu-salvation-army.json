@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-bahamut-lagoon-orerusu-salvation-army",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34677,
+  "title": "Bahamut Lagoon - Orerusu Salvation Army",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "bonus",
+    "cutscene",
+    "grassland",
+    "mountain",
+    "overworld",
+    "sky",
+    "title"
+  ],
+  "description": "Adventurous theme. Not compatible with \"Bonus End\".",
+  "latest_version": "smwc-34677-1696101744",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34677,
+      "title": "Bahamut Lagoon - Orerusu Salvation Army",
+      "version": "smwc-34677-1696101744",
+      "upstream_time": 1696101744,
+      "download_url": "https://dl.smwcentral.net/34677/14%20Orerusu%20Salvation%20Army.zip",
+      "filename": "14 Orerusu Salvation Army.zip",
+      "size": 74861,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 25302,
+      "title": "Bahamut Lagoon - Orerusu Salvation Army",
+      "version": "smwc-25302-1607669537",
+      "upstream_time": 1607669537,
+      "download_url": "https://dl.smwcentral.net/25302/bl_orerusu_salvation_army_0_2.zip",
+      "filename": "bl_orerusu_salvation_army_0_2.zip",
+      "size": 51567,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

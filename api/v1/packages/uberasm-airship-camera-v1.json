@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-airship-camera-v1",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 32059,
+  "title": "Airship Camera v1.1",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "camera",
+    "layer 1",
+    "lorom",
+    "sa-1",
+    "smb3"
+  ],
+  "description": "This UberASM will make the camera move up and down similarly to SMB3 airships. Check out the asm file for customization options.<br>\r\n<br>\r\nv1.1: fixed issue where the camera would drift away in some cases even if using symmetric speed and acceleration values.",
+  "latest_version": "smwc-32059-1665818357",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 32059,
+      "title": "Airship Camera v1.1",
+      "version": "smwc-32059-1665818357",
+      "upstream_time": 1665818357,
+      "download_url": "https://dl.smwcentral.net/32059/airship_camera.zip",
+      "filename": "airship_camera.zip",
+      "size": 746,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

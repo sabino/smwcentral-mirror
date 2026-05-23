@@ -1,0 +1,40 @@
+{
+  "name": "uberasm-nerf-yoshi",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 22824,
+  "title": "Nerf Yoshi",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "game mode",
+    "level",
+    "lorom",
+    "nerf",
+    "restriction",
+    "sa-1",
+    "timer",
+    "yoshi"
+  ],
+  "description": "This Uberasm allows you to nerf Yoshi, by removing/restricting his various abilities, and/or by setting a timer that will destroy the Yoshi upon hitting zero. This makes it so that Yoshi's abilities/perks have a cost to them, and forces the player to use their Yoshi more strategically. <br>\r\n<br>\r\nThe Uberasm has a wide range of customizable effects, which both affect Yoshi's abilities, and the speed the timer decrements, should you choose to set it. Can be used on a per-level basis, or as Game Mode 14.<br>\r\n<br>\r\nUses 2 bytes of freeram as a main timer and a ticker timer.<br>\r\n<br>\r\nSee the included readme for detailed descriptions and usage of every effect/mechanic.<br>\r\n<br>\r\nPlease give credit if used.",
+  "latest_version": "smwc-22824-1593702318",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 22824,
+      "title": "Nerf Yoshi",
+      "version": "smwc-22824-1593702318",
+      "upstream_time": 1593702318,
+      "download_url": "https://dl.smwcentral.net/22824/NerfYoshi.zip",
+      "filename": "NerfYoshi.zip",
+      "size": 8974,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

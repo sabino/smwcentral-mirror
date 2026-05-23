@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-dark-room-background-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19456,
+  "title": "Dark Room Background Fix",
+  "authors": [
+    "Roy"
+  ],
+  "tags": [
+    "background",
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch prevents the background (read: layer 2) from disappearing in a room  in which the Sprite C6 (Dark Room with spotlight) is being used, if not using Level Mode 11. First gif is before applying this patch, second one is after applying it.<br>\r\n<br>\r\nCredit not needed.",
+  "latest_version": "smwc-19456-1553612413",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19456,
+      "title": "Dark Room Background Fix",
+      "version": "smwc-19456-1553612413",
+      "upstream_time": 1553612413,
+      "download_url": "https://dl.smwcentral.net/19456/Dark%20Room%20BG%20Fix.zip",
+      "filename": "Dark Room BG Fix.zip",
+      "size": 974,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

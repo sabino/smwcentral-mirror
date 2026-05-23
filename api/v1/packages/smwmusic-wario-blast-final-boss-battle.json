@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-wario-blast-final-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12925,
+  "title": "Wario Blast - Final Boss Battle",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "space"
+  ],
+  "description": "A frantic and chaotic song perfect for boss battles or intense chase sequences<br>\r\n<br>\r\nUPDATE: mallowking PMed me to report an error, which I fixed.",
+  "latest_version": "smwc-12925-1452567119",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12925,
+      "title": "Wario Blast - Final Boss Battle",
+      "version": "smwc-12925-1452567119",
+      "upstream_time": 1452567119,
+      "download_url": "https://dl.smwcentral.net/12925/Wario%20Blast%20Final%20Battle.zip",
+      "filename": "Wario Blast Final Battle.zip",
+      "size": 31686,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

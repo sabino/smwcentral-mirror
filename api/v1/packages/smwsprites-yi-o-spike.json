@@ -1,0 +1,33 @@
+{
+  "name": "smwsprites-yi-o-spike",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3249,
+  "title": "YI O-Spike",
+  "authors": [
+    "edit1754"
+  ],
+  "tags": [
+    "dynamic",
+    "lorom"
+  ],
+  "description": "This the cactus-like enemy from YI that rolls toward mario if a shell hits it on the low side, but rolls away if it's hit on the upper side.",
+  "latest_version": "smwc-3249-1204113289",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3249,
+      "title": "YI O-Spike",
+      "version": "smwc-3249-1204113289",
+      "upstream_time": 1204113289,
+      "download_url": "https://dl.smwcentral.net/3249/YIOSpike.zip",
+      "filename": "YIOSpike.zip",
+      "size": 10083,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

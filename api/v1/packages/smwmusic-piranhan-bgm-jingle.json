@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-piranhan-bgm-jingle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27698,
+  "title": "Piranhan - BGM Jingle 1",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "goal",
+    "misc"
+  ],
+  "description": "A small fanfare used when you kills all of the piranhas in <a href=\"https://www.cavestory.org/pixels-works/piranhan.php\" rel=\"nofollow\">an obscure game co-created by Pixel in Unity.</a><br>\r\nStandalone version using SMW samples only. A goal whistle version is included, in case you want to use it as a goal song. If you want to use that version, open the text file, and change the \"Goal_Whistle\" define value to anything, other than 0.<br>\r\n<br>\r\nMod note: Will not work as a global song by default unless you ensure that the loaded sample group includes @21.",
+  "latest_version": "smwc-27698-1629759885",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27698,
+      "title": "Piranhan - BGM Jingle 1",
+      "version": "smwc-27698-1629759885",
+      "upstream_time": 1629759885,
+      "download_url": "https://dl.smwcentral.net/27698/Victory%21%20%28Unsampled%29.zip",
+      "filename": "Victory%21 (Unsampled).zip",
+      "size": 62874,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 27697,
+      "title": "Piranhan - BGM Jingle 1",
+      "version": "smwc-27697-1629759846",
+      "upstream_time": 1629759846,
+      "download_url": "https://dl.smwcentral.net/27697/Victory%21.zip",
+      "filename": "Victory%21.zip",
+      "size": 42221,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

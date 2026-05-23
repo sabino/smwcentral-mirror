@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-christmas-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35855,
+  "title": "Christmas Island 2 - Frostbearing Tyranny",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "ice",
+    "industrial",
+    "snow",
+    "tense",
+    "water"
+  ],
+  "description": "Frostbearing Tyranny, played in the level 'Iggy's Fortress' in <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35848\">Christmas Island 2</a>.",
+  "latest_version": "smwc-35855-1704608735",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35855,
+      "title": "Christmas Island 2 - Frostbearing Tyranny",
+      "version": "smwc-35855-1704608735",
+      "upstream_time": 1704608735,
+      "download_url": "https://dl.smwcentral.net/35855/Christmas%20Island%202%20-%20Frostbearing%20Tyranny.zip",
+      "filename": "Christmas Island 2 - Frostbearing Tyranny.zip",
+      "size": 37897,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 35854,
+      "title": "Christmas Island 2 - Aquaphobic Descent",
+      "version": "smwc-35854-1704608730",
+      "upstream_time": 1704608730,
+      "download_url": "https://dl.smwcentral.net/35854/Christmas%20Island%202%20-%20Aquaphobic%20Descent.zip",
+      "filename": "Christmas Island 2 - Aquaphobic Descent.zip",
+      "size": 87899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

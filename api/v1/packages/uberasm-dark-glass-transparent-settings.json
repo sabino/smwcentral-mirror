@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-dark-glass-transparent-settings",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 18197,
+  "title": "\"Dark Glass\" / Transparent Settings",
+  "authors": [
+    "Baphomet Junior",
+    "Vivian Darkbloom"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "You can mess around with the CGADSUB settings with this - the way these work is that Layer 2 only appears behind Layer 1. I've provided a description of a few different settings.",
+  "latest_version": "smwc-18197-1538338907",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 18197,
+      "title": "\"Dark Glass\" / Transparent Settings",
+      "version": "smwc-18197-1538338907",
+      "upstream_time": 1538338907,
+      "download_url": "https://dl.smwcentral.net/18197/DarkGlass.zip",
+      "filename": "DarkGlass.zip",
+      "size": 532,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

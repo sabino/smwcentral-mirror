@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-automated-ambience",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11151,
+  "title": "Automated Ambience",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "industrial",
+    "overworld"
+  ],
+  "description": "This is a composition for factory submaps originally composed for this year's VLDC collab.",
+  "latest_version": "smwc-11151-1428185018",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11151,
+      "title": "Automated Ambience",
+      "version": "smwc-11151-1428185018",
+      "upstream_time": 1428185018,
+      "download_url": "https://dl.smwcentral.net/11151/Automated%20Ambience.zip",
+      "filename": "Automated Ambience.zip",
+      "size": 31900,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

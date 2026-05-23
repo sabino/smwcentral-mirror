@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-teleberry-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4032,
+  "title": "Teleberry block",
+  "authors": [
+    "Iceguy"
+  ],
+  "tags": [
+    "lorom",
+    "teleport",
+    "yoshi"
+  ],
+  "description": "This block teleports Mario only when Yoshi has eaten a defined amount of red berries. It can set to play some sound too.",
+  "latest_version": "smwc-4032-1426286189",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4032,
+      "title": "Teleberry block",
+      "version": "smwc-4032-1426286189",
+      "upstream_time": 1426286189,
+      "download_url": "https://dl.smwcentral.net/4032/teleberry.zip",
+      "filename": "teleberry.zip",
+      "size": 431,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

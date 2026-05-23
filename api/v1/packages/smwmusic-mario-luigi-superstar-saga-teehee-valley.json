@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-teehee-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7336,
+  "title": "Mario & Luigi: Superstar Saga - Teehee Valley",
+  "authors": [
+    "Supertails"
+  ],
+  "tags": [
+    "desert",
+    "ruins"
+  ],
+  "description": "The popular theme from Mario & Luigi, now remade to sound much more accurate. It would work well for desert areas.",
+  "latest_version": "smwc-7336-1314129004",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7336,
+      "title": "Mario & Luigi: Superstar Saga - Teehee Valley",
+      "version": "smwc-7336-1314129004",
+      "upstream_time": 1314129004,
+      "download_url": "https://dl.smwcentral.net/7336/teeheevalley.zip",
+      "filename": "teeheevalley.zip",
+      "size": 67040,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

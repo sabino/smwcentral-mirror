@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-animal-crossing-k-k-bossa",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23230,
+  "title": "Animal Crossing - K.K. Bossa",
+  "authors": [
+    "Wyatt"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene"
+  ],
+  "description": "Part of Wyatt Croucher's music pack. A chill song played by a cartoon dog. Best suited for calm situations, like cutscenes or credits. Optimized for AddmusicK.",
+  "latest_version": "smwc-23230-1591146065",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23230,
+      "title": "Animal Crossing - K.K. Bossa",
+      "version": "smwc-23230-1591146065",
+      "upstream_time": 1591146065,
+      "download_url": "https://dl.smwcentral.net/23230/kkbossa.zip",
+      "filename": "kkbossa.zip",
+      "size": 32428,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 20502,
+      "title": "Animal Crossing - K.K. Bossa",
+      "version": "smwc-20502-1562570826",
+      "upstream_time": 1562570826,
+      "download_url": "https://dl.smwcentral.net/20502/Animal%20Crossing%20-%20K.K.%20Bossa.zip",
+      "filename": "Animal Crossing - K.K. Bossa.zip",
+      "size": 67856,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

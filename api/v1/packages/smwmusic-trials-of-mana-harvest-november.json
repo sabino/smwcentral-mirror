@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-trials-of-mana-harvest-november",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26346,
+  "title": "Trials of Mana - Harvest November",
+  "authors": [
+    "Dark Mario Bros"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "fire",
+    "ice",
+    "overworld"
+  ],
+  "description": "The song that plays in Burning Desert<br>\r\neven tho the name of the area, the song is very chill<br>\r\n<br>\r\nRequested by Infinity",
+  "latest_version": "smwc-26346-1617250671",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26346,
+      "title": "Trials of Mana - Harvest November",
+      "version": "smwc-26346-1617250671",
+      "upstream_time": 1617250671,
+      "download_url": "https://dl.smwcentral.net/26346/Trials%20of%20Mana%20-%20Harvest%20November%28unsampled%29.zip",
+      "filename": "Trials of Mana - Harvest November(unsampled).zip",
+      "size": 33599,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 26345,
+      "title": "Trials of Mana - Harvest November",
+      "version": "smwc-26345-1617250390",
+      "upstream_time": 1617250390,
+      "download_url": "https://dl.smwcentral.net/26345/Trials%20of%20Mana%20-%20Harvest%20November.zip",
+      "filename": "Trials of Mana - Harvest November.zip",
+      "size": 62307,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

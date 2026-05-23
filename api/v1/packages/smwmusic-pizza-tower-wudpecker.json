@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pizza-tower-wudpecker",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40730,
+  "title": "Pizza Tower - Wudpecker",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "forest",
+    "upbeat"
+  ],
+  "description": "The song \"Wudpecker\" from Pizza Tower's Gnome Forest level, originally composed by ClascyJitto. Would fit in forest levels, obviously.<br>\r\n<br>\r\nThe original samples were found using the Pizza Tower Sound Sheet.",
+  "latest_version": "smwc-40730-1759583987",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40730,
+      "title": "Pizza Tower - Wudpecker",
+      "version": "smwc-40730-1759583987",
+      "upstream_time": 1759583987,
+      "download_url": "https://dl.smwcentral.net/40730/Wudpecker.zip",
+      "filename": "Wudpecker.zip",
+      "size": 88485,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

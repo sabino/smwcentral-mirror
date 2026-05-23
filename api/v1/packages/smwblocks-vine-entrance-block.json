@@ -1,0 +1,34 @@
+{
+  "name": "smwblocks-vine-entrance-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 3856,
+  "title": "Vine Entrance Block",
+  "authors": [
+    "Big Al"
+  ],
+  "tags": [
+    "lorom",
+    "start",
+    "vine"
+  ],
+  "description": "This block makes the player automatically start on the vine upon entering a level, as long as the player isn't able to touch ground at the same time. Credit not needed, but it would be nice. Block changes to standard vine tile after touching it.",
+  "latest_version": "smwc-3856-1426036580",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 3856,
+      "title": "Vine Entrance Block",
+      "version": "smwc-3856-1426036580",
+      "upstream_time": 1426036580,
+      "download_url": "https://dl.smwcentral.net/3856/Vine%20Entrance.zip",
+      "filename": "Vine Entrance.zip",
+      "size": 439,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

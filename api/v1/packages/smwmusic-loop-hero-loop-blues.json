@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-loop-hero-loop-blues",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35443,
+  "title": "Loop Hero - Loop Blues",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "mysterious",
+    "tense"
+  ],
+  "description": "Calm but tense song from the Loop Hero soundtrack.",
+  "latest_version": "smwc-35443-1699651627",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35443,
+      "title": "Loop Hero - Loop Blues",
+      "version": "smwc-35443-1699651627",
+      "upstream_time": 1699651627,
+      "download_url": "https://dl.smwcentral.net/35443/Loopblues.zip",
+      "filename": "Loopblues.zip",
+      "size": 42818,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

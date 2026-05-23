@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-koopa-eyes-offscreen-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 30683,
+  "title": "Koopa Eyes Offscreen Fix",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "sprite"
+  ],
+  "description": "This patch fixes the bug where the eyes inside a Koopa Shell will appear on the wrong side of the screen when the Shell is offscreen to the right.",
+  "latest_version": "smwc-30683-1663113737",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 30683,
+      "title": "Koopa Eyes Offscreen Fix",
+      "version": "smwc-30683-1663113737",
+      "upstream_time": 1663113737,
+      "download_url": "https://dl.smwcentral.net/30683/koopa_eyes_offscreen_fix.zip",
+      "filename": "koopa_eyes_offscreen_fix.zip",
+      "size": 576,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

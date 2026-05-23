@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-treasure-conflix-salvage-ship",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37520,
+  "title": "Treasure Conflix - Salvage Ship",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "dark",
+    "overworld",
+    "tense"
+  ],
+  "description": "An ominous song from Treasure Conflix. Used in a Final Fantasy VI hack called Return of the Dark Sorcerer. (I first heard this song in that hack)<br>\r\n<br>\r\nUpdate (3/25/2024):<br>\r\n- Merged the Timpani channels<br>\r\n",
+  "latest_version": "smwc-37520-1716059342",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37520,
+      "title": "Treasure Conflix - Salvage Ship",
+      "version": "smwc-37520-1716059342",
+      "upstream_time": 1716059342,
+      "download_url": "https://dl.smwcentral.net/37520/TC%20Salvage%20Ship.zip",
+      "filename": "TC Salvage Ship.zip",
+      "size": 71674,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-sonic-cd-jp-eu-collision-chaos-zone-good-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21307,
+  "title": "Sonic CD (JP/EU) - Collision Chaos Zone (Good Future)",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "ambient",
+    "environmental",
+    "forest",
+    "grassland",
+    "misc",
+    "mountain",
+    "title",
+    "urban"
+  ],
+  "description": "The song has ported with correctly as MIDI, Supports on the eastern forest, futuristic cities, techno grasslands, or/and garden hotels with good environments (daytime (10am - 2pm) with cool climate (sunny and cloudy)).",
+  "latest_version": "smwc-21307-1571498579",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21307,
+      "title": "Sonic CD (JP/EU) - Collision Chaos Zone (Good Future)",
+      "version": "smwc-21307-1571498579",
+      "upstream_time": 1571498579,
+      "download_url": "https://dl.smwcentral.net/21307/SCD%20JP-Collision%20Chaos%20G.zip",
+      "filename": "SCD JP-Collision Chaos G.zip",
+      "size": 66794,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

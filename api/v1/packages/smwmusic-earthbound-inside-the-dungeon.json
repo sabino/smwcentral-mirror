@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-earthbound-inside-the-dungeon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9143,
+  "title": "EarthBound - Inside the Dungeon",
+  "authors": [
+    "Nanako"
+  ],
+  "tags": [
+    "industrial"
+  ],
+  "description": "... I personally think it fit well with a factory, not dungeon.",
+  "latest_version": "smwc-9143-1413461565",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9143,
+      "title": "EarthBound - Inside the Dungeon",
+      "version": "smwc-9143-1413461565",
+      "upstream_time": 1413461565,
+      "download_url": "https://dl.smwcentral.net/9143/Earthbound%20-%20Inside%20the%20Dungeon.zip",
+      "filename": "Earthbound - Inside the Dungeon.zip",
+      "size": 60156,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

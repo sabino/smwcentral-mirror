@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-fence-net-blocks-v1",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 39141,
+  "title": "Fence / Net Blocks v1.3",
+  "authors": [
+    "Donut"
+  ],
+  "tags": [
+    "lorom",
+    "net",
+    "net koopa",
+    "sa-1"
+  ],
+  "description": "Blocks which are only interactable when a sprite or the player is behind or in front of a climbing net.<br>\r\n<br>\r\nThese pair well with <span class=\"un-outer\" title=\"Fernap\"><a href=\"/?p=profile&amp;id=48050\" style=\"color: var(--user-color-1);\" class=\"un\">Fernap</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39129\">Behind Net Spawner</a> sprite.<br>\r\n<br>\r\nMore information can be found in the readme file.<br>\r\n<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><b>v1.3 update:</b><br>\r\n- Munchers now hurt from the side.<br>\r\n- Fixed Map16 file.<br>\r\n<b>v1.2 update:</b><br>\r\n- Added example graphics along with an example level.<br>\r\n- Added coin, muncher and water.<br>\r\n<b>v1.1 update:</b><br>\r\n- Made it so changing the act as is much simpler; done in list.txt, no longer requires editing the code.<br>\r\n- Reduced code redundancy.<br>\r\n- Fixed fireball interaction.</div></div>",
+  "latest_version": "smwc-39141-1754686429",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 39141,
+      "title": "Fence / Net Blocks v1.3",
+      "version": "smwc-39141-1754686429",
+      "upstream_time": 1754686429,
+      "download_url": "https://dl.smwcentral.net/39141/Fence-Net%20Blocks%20v1.3.zip",
+      "filename": "Fence-Net Blocks v1.3.zip",
+      "size": 8972,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

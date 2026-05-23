@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-chrono-trigger-guardia-millennial-fair",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33556,
+  "title": "Chrono Trigger - Guardia Millennial Fair",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "carnival",
+    "town"
+  ],
+  "description": "Music that is played at the beginning of the game at the fair.<br>\r\n<br>\r\nNote: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Thunder/Firework/Blargg ",
+  "latest_version": "smwc-33556-1680320222",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33556,
+      "title": "Chrono Trigger - Guardia Millennial Fair",
+      "version": "smwc-33556-1680320222",
+      "upstream_time": 1680320222,
+      "download_url": "https://dl.smwcentral.net/33556/Guardia%20Millennial%20Fair.zip",
+      "filename": "Guardia Millennial Fair.zip",
+      "size": 78923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

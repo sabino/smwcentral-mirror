@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-m-c-kids-opening-cutscene-character-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8237,
+  "title": "M.C. Kids - Opening Cutscene/Character House",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "grassland",
+    "overworld",
+    "town"
+  ],
+  "description": "The catchy song that plays during the opening cutscene and at the characters' houses in M.C. Kids. It would suit best for a grassland map theme. It could also work well as a town or bonus area theme.",
+  "latest_version": "smwc-8237-1342450621",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8237,
+      "title": "M.C. Kids - Opening Cutscene/Character House",
+      "version": "smwc-8237-1342450621",
+      "upstream_time": 1342450621,
+      "download_url": "https://dl.smwcentral.net/8237/MC%20Kids%20Opening.zip",
+      "filename": "MC Kids Opening.zip",
+      "size": 64563,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

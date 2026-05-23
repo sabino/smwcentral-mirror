@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-earthbound-dead-end-chaos-theatre",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 35360,
+  "title": "EarthBound - Dead-End Chaos Theatre",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "ambient",
+    "calm",
+    "cutscene",
+    "urban"
+  ],
+  "description": "Plays in the Chaos Theater in Twoson.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>",
+  "latest_version": "smwc-35360-1701628284",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 35360,
+      "title": "EarthBound - Dead-End Chaos Theatre",
+      "version": "smwc-35360-1701628284",
+      "upstream_time": 1701628284,
+      "download_url": "https://dl.smwcentral.net/35360/Dead-End%20Chaos%20Theatre.zip",
+      "filename": "Dead-End Chaos Theatre.zip",
+      "size": 39687,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

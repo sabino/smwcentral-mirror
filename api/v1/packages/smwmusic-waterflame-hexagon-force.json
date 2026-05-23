@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-waterflame-hexagon-force",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11198,
+  "title": "Waterflame - Hexagon Force",
+  "authors": [
+    "xHF01x"
+  ],
+  "tags": [
+    "overworld",
+    "title"
+  ],
+  "description": "The song \"Hexagon Force\" by Waterflame for use in an SMW-Hack. Might be used on an overworld or a title screen.<br>\r\nIf you use this please credit Waterflame as well as me.<br>\r\n<br>\r\n[You may know this song from the game \"Geometry Dash\"]",
+  "latest_version": "smwc-11198-1430453564",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11198,
+      "title": "Waterflame - Hexagon Force",
+      "version": "smwc-11198-1430453564",
+      "upstream_time": 1430453564,
+      "download_url": "https://dl.smwcentral.net/11198/Waterflame%20-%20Hexagon%20Force.zip",
+      "filename": "Waterflame - Hexagon Force.zip",
+      "size": 32187,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

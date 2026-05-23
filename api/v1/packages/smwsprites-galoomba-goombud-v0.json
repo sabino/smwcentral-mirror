@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-galoomba-goombud-v0",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 21391,
+  "title": "Galoomba/Goombud v0.2",
+  "authors": [
+    "Sonikku"
+  ],
+  "tags": [
+    "carriable",
+    "enemy",
+    "flying",
+    "goomba",
+    "lorom",
+    "sa-1",
+    "winged"
+  ],
+  "description": "A recreation of the Goombud from Super Mario Maker 2. Virtually identical to the standard Galoomba except that it will stay on ledges.<br>\r\n<br>\r\nThe behavior of the sprite has a few settings that you can set via the Extension field when placing the sprite into the level:<br>\r\n<br>\r\n- x00 - Standard Goombud<br>\r\n- x01 - Winged Goombud (identically to sprite x10, the Winged Goomba)<br>\r\n- x02 - Para-Goombud, flying left (identically to sprite x08, the green Para-Koopa)<br>\r\n- x03 - Para-Goombud, bouncing (identically to sprite x09; initial Y position determines jump height, the green Para-Koopa)<br>\r\n- x04 - Para-Goombud, flying horizontally in intervals (identically to sprite x0A, the red Para-Koopa)<br>\r\n- x05 - Para-Goombud, flying vertically in intervals (identically to sprite x0B, the red Para-Koopa)<br>\r\n- x06 - Para-Goombud, oscillating vertically while flying to the left (identically to sprite x39, the Eerie)<br>\r\n--- Setting the Extra Bit will cause it to spawn four others (similarly to sprite xDE, the cluster of Eeries)<br>\r\n- x07 - Sliding Goombud (identically to sprite xBD, the sliding blue shell-less Koopa)<br>\r\n<br>\r\nIf you set the 5th bit of the Extension, it'll act like a standard Galoomba instead (i.e. adding \"10\"; i.e. \"16\" for an Eerie pattern standard Para-Galoomba). This is relegated to a secondary function solely so the standard Galoomba can have the same winged/sliding variants as the Goombud.",
+  "latest_version": "smwc-21391-1575160721",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 21391,
+      "title": "Galoomba/Goombud v0.2",
+      "version": "smwc-21391-1575160721",
+      "upstream_time": 1575160721,
+      "download_url": "https://dl.smwcentral.net/21391/goombud_edited.zip",
+      "filename": "goombud_edited.zip",
+      "size": 9899,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

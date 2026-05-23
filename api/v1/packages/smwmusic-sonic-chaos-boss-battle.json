@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-sonic-chaos-boss-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 11930,
+  "title": "Sonic Chaos - Boss Battle",
+  "authors": [
+    "Gamma V"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "A fast-paced and intense song suitable for boss battles and chase scenes",
+  "latest_version": "smwc-11930-1444280060",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 11930,
+      "title": "Sonic Chaos - Boss Battle",
+      "version": "smwc-11930-1444280060",
+      "upstream_time": 1444280060,
+      "download_url": "https://dl.smwcentral.net/11930/Sonic%20Chaos%20Boss.zip",
+      "filename": "Sonic Chaos Boss.zip",
+      "size": 32323,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

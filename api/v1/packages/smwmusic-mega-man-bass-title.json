@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-mega-man-bass-title",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25800,
+  "title": "Mega Man & Bass - Title",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "title"
+  ],
+  "description": "Title theme from Megaman & Bass.",
+  "latest_version": "smwc-25800-1612386268",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25800,
+      "title": "Mega Man & Bass - Title",
+      "version": "smwc-25800-1612386268",
+      "upstream_time": 1612386268,
+      "download_url": "https://dl.smwcentral.net/25800/Title.zip",
+      "filename": "Title.zip",
+      "size": 34384,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

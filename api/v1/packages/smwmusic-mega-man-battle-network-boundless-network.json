@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-mega-man-battle-network-boundless-network",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26404,
+  "title": "Mega Man Battle Network - Boundless Network",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "abstract",
+    "mysterious",
+    "night",
+    "overworld",
+    "space"
+  ],
+  "description": "This is Boundless Network, the theme that plays in the main Internet areas from the first Megaman Battle Network game. Although this might be labeled as a port, I actually inspired myself on Double Team DS a bit with this one with the samples used (along with one sample being taken straight from it LOL), so it's only a port by definition since I didn't change much from the original structure-wise (well, outside of a few added drum parts like always) :P<br>\r\n<br>\r\nAnyway, this could definitely work for more abstract and space settings, both for a overworld and for a level if you so desire, so it definitely has it's uses; it could probably be used for night settings too I think. lmao<br>\r\n<br>\r\nNOTE: Not compatible with thunders or Blaargs",
+  "latest_version": "smwc-26404-1617902998",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26404,
+      "title": "Mega Man Battle Network - Boundless Network",
+      "version": "smwc-26404-1617902998",
+      "upstream_time": 1617902998,
+      "download_url": "https://dl.smwcentral.net/26404/mmbninternet.zip",
+      "filename": "mmbninternet.zip",
+      "size": 78772,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

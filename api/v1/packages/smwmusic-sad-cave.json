@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-sad-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 15709,
+  "title": "Sad Cave",
+  "authors": [
+    "Daniel133"
+  ],
+  "tags": [
+    "cave"
+  ],
+  "description": "An Original Composition recommended for caves, dark caves with tense theme, Overworld, etc.",
+  "latest_version": "smwc-15709-1498864879",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 15709,
+      "title": "Sad Cave",
+      "version": "smwc-15709-1498864879",
+      "upstream_time": 1498864879,
+      "download_url": "https://dl.smwcentral.net/15709/Sadcave.zip",
+      "filename": "Sadcave.zip",
+      "size": 31427,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

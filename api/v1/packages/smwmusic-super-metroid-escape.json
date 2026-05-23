@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-metroid-escape",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36744,
+  "title": "Super Metroid - Escape",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "cutscene",
+    "dark",
+    "final",
+    "tense"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36744-1706162522",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36744,
+      "title": "Super Metroid - Escape",
+      "version": "smwc-36744-1706162522",
+      "upstream_time": 1706162522,
+      "download_url": "https://dl.smwcentral.net/36744/22%20Escape.zip",
+      "filename": "22 Escape.zip",
+      "size": 209443,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

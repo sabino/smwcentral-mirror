@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-yume-nikki-shield-folk-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29149,
+  "title": "Yume Nikki - Shield-Folk World",
+  "authors": [
+    "Drink"
+  ],
+  "tags": [
+    "ambient",
+    "cave",
+    "eerie",
+    "enviromental",
+    "overworld"
+  ],
+  "description": "A repetitive eerie echo-y ambient song from Yume Nikki.",
+  "latest_version": "smwc-29149-1647194053",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29149,
+      "title": "Yume Nikki - Shield-Folk World",
+      "version": "smwc-29149-1647194053",
+      "upstream_time": 1647194053,
+      "download_url": "https://dl.smwcentral.net/29149/Shield-Folk%20World.zip",
+      "filename": "Shield-Folk World.zip",
+      "size": 30404,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

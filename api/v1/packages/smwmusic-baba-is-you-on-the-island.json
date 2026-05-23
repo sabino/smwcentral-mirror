@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-baba-is-you-on-the-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23380,
+  "title": "Baba Is You - On the Island",
+  "authors": [
+    "Apple"
+  ],
+  "tags": [
+    "cave",
+    "jungle",
+    "overworld"
+  ],
+  "description": "The theme that plays in the main overworld in the puzzle game Baba Is You. Ideally used on the world map.",
+  "latest_version": "smwc-23380-1593197067",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23380,
+      "title": "Baba Is You - On the Island",
+      "version": "smwc-23380-1593197067",
+      "upstream_time": 1593197067,
+      "download_url": "https://dl.smwcentral.net/23380/on_the_island.zip",
+      "filename": "on_the_island.zip",
+      "size": 32026,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

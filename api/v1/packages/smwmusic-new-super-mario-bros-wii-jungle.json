@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-new-super-mario-bros-wii-jungle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33017,
+  "title": "New Super Mario Bros. Wii - Jungle",
+  "authors": [
+    "Hiro"
+  ],
+  "tags": [
+    "forest",
+    "jungle",
+    "overworld"
+  ],
+  "description": "The music from forest level of NSMBW.",
+  "latest_version": "smwc-33017-1680558698",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33017,
+      "title": "New Super Mario Bros. Wii - Jungle",
+      "version": "smwc-33017-1680558698",
+      "upstream_time": 1680558698,
+      "download_url": "https://dl.smwcentral.net/33017/New%20Super%20Mario%20Bros%20Wii%20-%20Forest.zip",
+      "filename": "New Super Mario Bros Wii - Forest.zip",
+      "size": 63218,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 31579,
+      "title": "New Super Mario Bros. Wii - Jungle",
+      "version": "smwc-31579-1672446890",
+      "upstream_time": 1672446890,
+      "download_url": "https://dl.smwcentral.net/31579/NSMBW%20Jungle.zip",
+      "filename": "NSMBW Jungle.zip",
+      "size": 66381,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

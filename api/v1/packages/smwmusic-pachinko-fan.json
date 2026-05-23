@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pachinko-fan",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39514,
+  "title": "Pachinko Fan 2 - Starting a Game",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "cutscene"
+  ],
+  "description": "Exciting opening cutscenes taking place at an office building when starting a new game of Pachinko Fan 2.",
+  "latest_version": "smwc-39514-1741197945",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39514,
+      "title": "Pachinko Fan 2 - Starting a Game",
+      "version": "smwc-39514-1741197945",
+      "upstream_time": 1741197945,
+      "download_url": "https://dl.smwcentral.net/39514/Pachinko%20Fan%202%20-%20Starting%20a%20Game.zip",
+      "filename": "Pachinko Fan 2 - Starting a Game.zip",
+      "size": 14062,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

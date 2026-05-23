@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-teenage-mutant-ninja-turtles-nes-underground-stage",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8169,
+  "title": "Teenage Mutant Ninja Turtles (NES) - Underground Stage 5",
+  "authors": [
+    "DatGuyT"
+  ],
+  "tags": [
+    "cave",
+    "dark",
+    "ruins"
+  ],
+  "description": "A dark, mysterious cave sounding song from the NES TMNT game.",
+  "latest_version": "smwc-8169-1314321351",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8169,
+      "title": "Teenage Mutant Ninja Turtles (NES) - Underground Stage 5",
+      "version": "smwc-8169-1314321351",
+      "upstream_time": 1314321351,
+      "download_url": "https://dl.smwcentral.net/8169/TMNT%20NES%20Underground%20Stage%205.zip",
+      "filename": "TMNT NES Underground Stage 5.zip",
+      "size": 68409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

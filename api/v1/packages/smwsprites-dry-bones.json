@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-dry-bones",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 34171,
+  "title": "Dry Bones",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "bone",
+    "castle",
+    "dry bones",
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "These are Dry Bones, sprites 30 and 32, which use the extra bit to determine which sprite to act like.<br>\r\n<br>\r\nUpdate on <u>24/06/2023</u> by <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span><br>\r\nChanged the .cfg to a .json and added SA-1 support upon request from <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span>.",
+  "latest_version": "smwc-34171-1691538104",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 34171,
+      "title": "Dry Bones",
+      "version": "smwc-34171-1691538104",
+      "upstream_time": 1691538104,
+      "download_url": "https://dl.smwcentral.net/34171/SMWSDIS%20-%20sprites%2030%20%26%2032%20-%20dry%20bones.zip",
+      "filename": "SMWSDIS - sprites 30 %26 32 - dry bones.zip",
+      "size": 5987,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-metroid-maridia-rocky-underwater-area",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 36732,
+  "title": "Super Metroid - Maridia Rocky Underwater Area",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "calm",
+    "dark",
+    "night",
+    "sewer",
+    "water"
+  ],
+  "description": "Part of the Super Metroid soundtrack.",
+  "latest_version": "smwc-36732-1706161815",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 36732,
+      "title": "Super Metroid - Maridia Rocky Underwater Area",
+      "version": "smwc-36732-1706161815",
+      "upstream_time": 1706161815,
+      "download_url": "https://dl.smwcentral.net/36732/10%20Maridia%20Rocky%20Underwater%20Area.zip",
+      "filename": "10 Maridia Rocky Underwater Area.zip",
+      "size": 201511,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

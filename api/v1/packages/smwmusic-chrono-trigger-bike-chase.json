@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-chrono-trigger-bike-chase",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19621,
+  "title": "Chrono Trigger - Bike Chase",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "boss",
+    "chase"
+  ],
+  "description": "Could fit a race/chase or a miniboss.",
+  "latest_version": "smwc-19621-1555874318",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19621,
+      "title": "Chrono Trigger - Bike Chase",
+      "version": "smwc-19621-1555874318",
+      "upstream_time": 1555874318,
+      "download_url": "https://dl.smwcentral.net/19621/ChronoTrigger_BikeChase.zip",
+      "filename": "ChronoTrigger_BikeChase.zip",
+      "size": 58746,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 8600,
+      "title": "Chrono Trigger - Bike Chase",
+      "version": "smwc-8600-1403994189",
+      "upstream_time": 1403994189,
+      "download_url": "https://dl.smwcentral.net/8600/Bike%20Chase.zip",
+      "filename": "Bike Chase.zip",
+      "size": 65987,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-multi-coin-block-reward",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 20003,
+  "title": "Multi Coin Block Reward",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "coin",
+    "lorom",
+    "multi",
+    "multi-coin",
+    "nsmb",
+    "sa-1"
+  ],
+  "description": "This patch changes how Multi-Coin blocks work to give the player a reward (mushroom, by default) for hitting it a certain amount of time (11, by default), like it does in New Super Mario Bros.<br>\r\n<br>\r\nFor a list of possible rewards, refer to the entry for $02887D on the SMW ROM Map.",
+  "latest_version": "smwc-20003-1558578944",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 20003,
+      "title": "Multi Coin Block Reward",
+      "version": "smwc-20003-1558578944",
+      "upstream_time": 1558578944,
+      "download_url": "https://dl.smwcentral.net/20003/multireward.zip",
+      "filename": "multireward.zip",
+      "size": 1087,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-wagyan-paradise-water-duct",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31611,
+  "title": "Wagyan Paradise - Water Duct",
+  "authors": [
+    "Tamaki"
+  ],
+  "tags": [
+    "athletic",
+    "beach",
+    "bonus",
+    "sewer",
+    "sky",
+    "urban"
+  ],
+  "description": "Plays during the 16th stage. I tried my best to move around the sections so the sound effects won't cut many important channels, but unfortunately they still interrupt a few chords. Sorry about that!",
+  "latest_version": "smwc-31611-1659125266",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31611,
+      "title": "Wagyan Paradise - Water Duct",
+      "version": "smwc-31611-1659125266",
+      "upstream_time": 1659125266,
+      "download_url": "https://dl.smwcentral.net/31611/WPWaterDuct.zip",
+      "filename": "WPWaterDuct.zip",
+      "size": 38759,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

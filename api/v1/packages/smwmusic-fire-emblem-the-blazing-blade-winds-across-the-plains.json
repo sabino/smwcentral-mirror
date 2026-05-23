@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-fire-emblem-the-blazing-blade-winds-across-the-plains",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7110,
+  "title": "Fire Emblem: The Blazing Blade - Winds Across the Plains",
+  "authors": [
+    "AxemJinx"
+  ],
+  "tags": [
+    "grassland",
+    "overworld",
+    "title"
+  ],
+  "description": "A calm, pleasant melody. For use in early levels or OW maps.",
+  "latest_version": "smwc-7110-1311970457",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7110,
+      "title": "Fire Emblem: The Blazing Blade - Winds Across the Plains",
+      "version": "smwc-7110-1311970457",
+      "upstream_time": 1311970457,
+      "download_url": "https://dl.smwcentral.net/7110/WindsAcrossPlains.zip",
+      "filename": "WindsAcrossPlains.zip",
+      "size": 68371,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

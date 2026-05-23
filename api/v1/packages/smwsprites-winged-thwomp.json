@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-winged-thwomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 23242,
+  "title": "Winged Thwomp",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "A Thwomp with wings that can either fly in a specified range or go on forever horizontally. Check the ASM file for more customization options.<br>\r\n<br>\r\nUpdate (KevinM): converted to PIXI.",
+  "latest_version": "smwc-23242-1594168394",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 23242,
+      "title": "Winged Thwomp",
+      "version": "smwc-23242-1594168394",
+      "upstream_time": 1594168394,
+      "download_url": "https://dl.smwcentral.net/23242/Winged%20Thwomp.zip",
+      "filename": "Winged Thwomp.zip",
+      "size": 4442,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

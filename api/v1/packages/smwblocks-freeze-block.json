@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-freeze-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 4071,
+  "title": "Freeze Block",
+  "authors": [
+    "Ixtab"
+  ],
+  "tags": [
+    "controls",
+    "credits",
+    "disable",
+    "freeze",
+    "lorom"
+  ],
+  "description": "This block disables jumping and makes you walk at snails pace. To be used with custom credit levels whith auto scroll enabled.",
+  "latest_version": "smwc-4071-1426267281",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 4071,
+      "title": "Freeze Block",
+      "version": "smwc-4071-1426267281",
+      "upstream_time": 1426267281,
+      "download_url": "https://dl.smwcentral.net/4071/freeze.zip",
+      "filename": "freeze.zip",
+      "size": 299,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

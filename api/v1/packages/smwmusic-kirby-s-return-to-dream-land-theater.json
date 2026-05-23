@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-s-return-to-dream-land-theater",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27727,
+  "title": "Kirby's Return to Dream Land - Theater",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "misc"
+  ],
+  "description": "A very short song played on the cutscenes menu screen.",
+  "latest_version": "smwc-27727-1627093170",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27727,
+      "title": "Kirby's Return to Dream Land - Theater",
+      "version": "smwc-27727-1627093170",
+      "upstream_time": 1627093170,
+      "download_url": "https://dl.smwcentral.net/27727/Kirby%27s%20Return%20to%20Dream%20Land%20-%20Theater.zip",
+      "filename": "Kirby%27s Return to Dream Land - Theater.zip",
+      "size": 65407,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

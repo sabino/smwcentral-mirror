@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-spongebob-squarepants-grass-skirt-chase",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38511,
+  "title": "SpongeBob SquarePants - Grass Skirt Chase",
+  "authors": [
+    "Aguiar Salsicha"
+  ],
+  "tags": [
+    "chaotic",
+    "chase",
+    "tense",
+    "water"
+  ],
+  "description": "Grass Skirt Chase, composed by Sage Guyton and Jeremy Wakefield.<br>\r\n<br>\r\nUpdate: I added a looped version, cutting the final part of the song and therefore improving the loop.<br>\r\n<br>\r\nThe insert size of the complete version is 0x0381 and its duration is 0:31.",
+  "latest_version": "smwc-38511-1729183450",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38511,
+      "title": "SpongeBob SquarePants - Grass Skirt Chase",
+      "version": "smwc-38511-1729183450",
+      "upstream_time": 1729183450,
+      "download_url": "https://dl.smwcentral.net/38511/Grass_Skirt_Chase.zip",
+      "filename": "Grass_Skirt_Chase.zip",
+      "size": 64628,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

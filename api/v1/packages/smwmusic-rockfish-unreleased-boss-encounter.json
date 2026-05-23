@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-rockfish-unreleased-boss-encounter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27674,
+  "title": "Rockfish (Unreleased) - Boss Encounter",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "tense"
+  ],
+  "description": "An upbeat and more tense remix of Rockfish's first dev log song.<br>\r\nThis game was being developed by Pixel for the IOS, back in 2010, until it got cancelled in order to work on Gero Blaster. Later on, it finally got rebooted into Kero Blaster, in 2014.<br>\r\n<br>\r\nIt does uses the KDL3 soundfont.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Original description by Pixel</span></div><div class=\"collapse-content\">Original:<br>\r\n<a href=\"https://archive.cavestory.org/dev1/boss.mp3\" rel=\"nofollow\"><img src=\"https://archive.cavestory.org/images/icon-onpu.png\" alt=\"\"> ボスBGM</a><br>\r\nBGMはピストンコラージュから出力した制限付き形式を使う。<br>\r\n今のところ、三角波 ＋ 矩形波 ＋ ノコギリ波 ＋ バスドラム ＋ ハイハット(クローズ)の計５音。<br>\r\n60フレームで割り切れるビート・テンポを使用。<br>\r\n小さいスピーカーでは低音が聴き取りにくい。<br>\r\nでもそれにあわせてボリューム調整をすると、今度はイヤホンがつらい。<br>\r\n矩形波やノコギリ波は低音でも目立つけど耳が痛い..<br>\r\nRough translation:<br>\r\n<a href=\"https://archive.cavestory.org/dev1/boss.mp3\" rel=\"nofollow\"><img src=\"https://archive.cavestory.org/images/icon-onpu.png\" alt=\"\"> Boss BGM</a><br>\r\nBGM uses the restricted format output from PxTone.<br>\r\nSo far, there are a total of 5 sounds: triangle wave + square wave + sawtooth wave + bass drum + hi-hat (closed).<br>\r\nUses a beat tempo that is divisible by 60 frames.<br>\r\nBass is hard to hear with small speakers.<br>\r\nBut when I adjust the volume accordingly, the earphones are hard this time.<br>\r\nSquare waves and sawtooth waves stand out even in the bass, but my ears hurt ..</div></div>",
+  "latest_version": "smwc-27674-1629282548",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27674,
+      "title": "Rockfish (Unreleased) - Boss Encounter",
+      "version": "smwc-27674-1629282548",
+      "upstream_time": 1629282548,
+      "download_url": "https://dl.smwcentral.net/27674/Boss%20Encounter.zip",
+      "filename": "Boss Encounter.zip",
+      "size": 59357,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

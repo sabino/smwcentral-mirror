@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-exploding-bowser-statue",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 22323,
+  "title": "Exploding Bowser Statue",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This Bowser statue will spit fire until Mario comes close to it; when that happens it'll start flashing and then explode.<br>\r\nWhen the extra byte is set to 80 or more, it'll face right.<br>\r\n<br>\r\nNow PIXI compatible.<br>\r\n<br>\r\n(Rykon-V73): Added .json files for the exploding bowser statue facing left and the other one facing right. I changed the palette to C, to make it easier to notice.",
+  "latest_version": "smwc-22323-1583351440",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 22323,
+      "title": "Exploding Bowser Statue",
+      "version": "smwc-22323-1583351440",
+      "upstream_time": 1583351440,
+      "download_url": "https://dl.smwcentral.net/22323/exploding_bowser_statue_edited.zip",
+      "filename": "exploding_bowser_statue_edited.zip",
+      "size": 2659,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

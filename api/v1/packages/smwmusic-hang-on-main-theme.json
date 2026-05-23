@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-hang-on-main-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21636,
+  "title": "Hang-On - Main Theme",
+  "authors": [
+    "Bak Sangwoo"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "bonus",
+    "retro"
+  ],
+  "description": "A catchy music from the 1985 Sega racing game. Good for retro theme and bonus levels.",
+  "latest_version": "smwc-21636-1576466532",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21636,
+      "title": "Hang-On - Main Theme",
+      "version": "smwc-21636-1576466532",
+      "upstream_time": 1576466532,
+      "download_url": "https://dl.smwcentral.net/21636/Hang-On%20Main%20Theme%20Version%202.1.zip",
+      "filename": "Hang-On Main Theme Version 2.1.zip",
+      "size": 33403,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

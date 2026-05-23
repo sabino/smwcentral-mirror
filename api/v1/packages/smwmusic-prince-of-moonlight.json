@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-prince-of-moonlight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 9522,
+  "title": "Prince of Moonlight",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "grassland",
+    "night",
+    "sky"
+  ],
+  "description": "A fun little nighttime tune. Could possible fit other areas.",
+  "latest_version": "smwc-9522-1418154205",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 9522,
+      "title": "Prince of Moonlight",
+      "version": "smwc-9522-1418154205",
+      "upstream_time": 1418154205,
+      "download_url": "https://dl.smwcentral.net/9522/Prince%20of%20Moonlight.zip",
+      "filename": "Prince of Moonlight.zip",
+      "size": 33056,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-lagrange-point-music-box-of-sadness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25359,
+  "title": "Lagrange Point - Music Box of Sadness",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "misc",
+    "retro",
+    "sad"
+  ],
+  "description": "Also known as Orgel of Sadness.<br>\r\nA small sad song played at tragic events.<br>\r\n<br>\r\nThere's two soundfonts included inside the port, one that was extracted from the NSF files, and Famitracker, and other from the ROM through an emulator. To choose between the two, change the \"ROM_Soundfont\" define to 0 to use the NSF soundfont, and vice-versa.",
+  "latest_version": "smwc-25359-1607729698",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25359,
+      "title": "Lagrange Point - Music Box of Sadness",
+      "version": "smwc-25359-1607729698",
+      "upstream_time": 1607729698,
+      "download_url": "https://dl.smwcentral.net/25359/Lagrange%20Point%20-%20Music%20Box%20of%20Sadness.zip",
+      "filename": "Lagrange Point - Music Box of Sadness.zip",
+      "size": 96177,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

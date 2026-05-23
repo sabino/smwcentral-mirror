@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-smw-like-lemmy-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 32286,
+  "title": "SMW-Like Lemmy Boss",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "boss",
+    "enemy",
+    "koopaling",
+    "lemmy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "In order to offer more boss variety to our sprite section, I present you... a SMW-Like Lemmy Boss, inspired on the SMB3 version as well, coded for me to use in Mario's Enigmatic Tales.<br>\r\n<br>\r\nThis boss is simple: He walks around tossing balls at you. These balls, if jumped on, either shatter, bounce the player or plain hurt. It also can enter in danger-mode and conjure balls from the sky. When hurt, it shell-runs for a bit (for this sprite to work, block the sides of the arena with walls.)<br>\r\n<br>\r\nTo be assembled with PIXI. Please credit if used, I took some time coding this from scratch.",
+  "latest_version": "smwc-32286-1684056630",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 32286,
+      "title": "SMW-Like Lemmy Boss",
+      "version": "smwc-32286-1684056630",
+      "upstream_time": 1684056630,
+      "download_url": "https://dl.smwcentral.net/32286/SMW-Like%20Lemmy.zip",
+      "filename": "SMW-Like Lemmy.zip",
+      "size": 7374,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

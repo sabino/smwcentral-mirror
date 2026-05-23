@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-crash-team-racing-tiny-arena-slide-coliseum-turbo-track",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37206,
+  "title": "Crash Team Racing - Tiny Arena / Slide Coliseum / Turbo Track",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "athletic",
+    "night",
+    "urban"
+  ],
+  "description": "A fast paced racing theme that plays in Tiny Arena, Slide Coliseum and Turbo Track, which are the race stadium tracks from CTR.<br>\r\n<br>\r\nYou can define in the .txt file if you want to use the normal version or the pre-console version which is slightly longer.",
+  "latest_version": "smwc-37206-1712331061",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37206,
+      "title": "Crash Team Racing - Tiny Arena / Slide Coliseum / Turbo Track",
+      "version": "smwc-37206-1712331061",
+      "upstream_time": 1712331061,
+      "download_url": "https://dl.smwcentral.net/37206/CTR_-_Tiny_Arena.zip",
+      "filename": "CTR_-_Tiny_Arena.zip",
+      "size": 126563,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

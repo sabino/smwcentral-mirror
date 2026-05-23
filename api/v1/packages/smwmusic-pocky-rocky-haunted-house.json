@@ -1,0 +1,48 @@
+{
+  "name": "smwmusic-pocky-rocky-haunted-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 38378,
+  "title": "Pocky & Rocky - Haunted House",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "ghose house",
+    "ghost house",
+    "industrial"
+  ],
+  "description": "奇々怪界 謎の黒マント - 第三章 外人墓地の秘密(後半)",
+  "latest_version": "smwc-38378-1727757682",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 38378,
+      "title": "Pocky & Rocky - Haunted House",
+      "version": "smwc-38378-1727757682",
+      "upstream_time": 1727757682,
+      "download_url": "https://dl.smwcentral.net/38378/kiki-18s.zip",
+      "filename": "kiki-18s.zip",
+      "size": 57256,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 38377,
+      "title": "Pocky & Rocky - Haunted House",
+      "version": "smwc-38377-1727757682",
+      "upstream_time": 1727757682,
+      "download_url": "https://dl.smwcentral.net/38377/kiki-18.zip",
+      "filename": "kiki-18.zip",
+      "size": 32395,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

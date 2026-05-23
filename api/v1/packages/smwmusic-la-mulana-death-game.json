@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-la-mulana-death-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27320,
+  "title": "La-Mulana - Death Game",
+  "authors": [
+    "Planeswater"
+  ],
+  "tags": [
+    "boss",
+    "ruins",
+    "tense"
+  ],
+  "description": "Song that plays in Dimensional Corridor in La-Mulana (2012).<br>\r\nFor boss rushes or series of challenge rooms<br>\r\n<br>\r\nOriginal song by Houryu Samejima.<br>\r\nShamisen sampled from Death Game - Journey Version",
+  "latest_version": "smwc-27320-1626334832",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27320,
+      "title": "La-Mulana - Death Game",
+      "version": "smwc-27320-1626334832",
+      "upstream_time": 1626334832,
+      "download_url": "https://dl.smwcentral.net/27320/La-Mulana%20-%20Death%20Game.zip",
+      "filename": "La-Mulana - Death Game.zip",
+      "size": 64470,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

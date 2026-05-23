@@ -1,0 +1,34 @@
+{
+  "name": "flips",
+  "aliases": [
+    "flips"
+  ],
+  "section": "tools",
+  "upstream_id": 42149,
+  "title": "Floating IPS (Flips)",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "bps",
+    "ips",
+    "patcher"
+  ],
+  "description": "Floating IPS (or Flips) is a patcher for IPS and BPS files, aiming for a simple interface yet plenty of power under the hood.<br>\r\n<br>\r\nFeatures:<br>\r\n<ul><li>Creates the smallest BPS patches of any known tool in existence, and is faster than any other comparable creator</li>\n<li>Creates the smallest IPS patches of any known tool in existence, too (but only a little smaller, Lunar IPS is quite good)</li>\n<li>Fully-featured GUIs under Windows and GTK+, including command line support; can also be a pure command line program</li>\n<li>Can apply multiple patches to the same ROM, creating a huge pile of ROMs (GUI only)</li>\n<li>Can remembers which ROMs you've used, and use them again if it thinks it's correct (BPS only, GUI only)</li>\n<li>Can launch other programs after patching the ROMs; together with the above, this allows you to double click a BPS to launch an emulator (GUI only)</li></ul><br>\r\nThe Linux version can be downloaded from the <a href=\"https://git.disroot.org/Sir_Walrus/Flips/releases?q=v198\" rel=\"nofollow\">release page</a>.",
+  "latest_version": "v198",
+  "install_kind": "tool",
+  "versions": [
+    {
+      "upstream_id": 42149,
+      "title": "Floating IPS (Flips)",
+      "version": "v198",
+      "upstream_time": 1776411347,
+      "download_url": "https://dl.smwcentral.net/42149/flips-windows.zip",
+      "filename": "flips-windows.zip",
+      "size": 63680,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "tool"
+    }
+  ]
+}

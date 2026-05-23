@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-11th-vanilla-level-design-contest-beach-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29964,
+  "title": "The 11th Vanilla Level Design Contest - Beach Map",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "beach",
+    "calm",
+    "overworld",
+    "water"
+  ],
+  "description": "Music for the beach submap in <a href=\"https://www.smwcentral.net/?p=section&a=details&id=29930\">The 11th Annual Vanilla Level Design Contest: Collaboration Hack</a>.",
+  "latest_version": "smwc-29964-1648500624",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29964,
+      "title": "The 11th Vanilla Level Design Contest - Beach Map",
+      "version": "smwc-29964-1648500624",
+      "upstream_time": 1648500624,
+      "download_url": "https://dl.smwcentral.net/29964/VLDC11%20Beach%20Map.zip",
+      "filename": "VLDC11 Beach Map.zip",
+      "size": 31198,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

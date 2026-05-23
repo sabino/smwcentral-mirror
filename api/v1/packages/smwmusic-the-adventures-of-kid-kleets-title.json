@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-adventures-of-kid-kleets-title",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 26282,
+  "title": "The Adventures of Kid Kleets - Title",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "athletic",
+    "title",
+    "urban"
+  ],
+  "description": "Funky tune from Kid Kleets (known as \"Soccer Kid\" in Japan).",
+  "latest_version": "smwc-26282-1616652786",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 26282,
+      "title": "The Adventures of Kid Kleets - Title",
+      "version": "smwc-26282-1616652786",
+      "upstream_time": 1616652786,
+      "download_url": "https://dl.smwcentral.net/26282/Kid%20Kleets%20-%20Title.zip",
+      "filename": "Kid Kleets - Title.zip",
+      "size": 76259,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

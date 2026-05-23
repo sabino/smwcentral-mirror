@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-movement-boost-on-time-low",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 23837,
+  "title": "Movement Boost on Time Low",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "boost",
+    "lorom",
+    "sa-1",
+    "timer"
+  ],
+  "description": "This simple UberASM enhances Mario's speed and acceleration physics when the timer falls below 100. As well as making his P‐Speed faster, it also allows him to turn quicker, travel much faster in water, and gain flight with the cape much quicker.<br>\r\n<br>\r\nNote: Be careful about using it in levels with the initial timer set to 0 by default, since it will not check for this and will give Mario a permanent boost for the whole level.<br>\r\n<br>\r\nCredit is unnecessary but appreciated.",
+  "latest_version": "smwc-23837-1595248480",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 23837,
+      "title": "Movement Boost on Time Low",
+      "version": "smwc-23837-1595248480",
+      "upstream_time": 1595248480,
+      "download_url": "https://dl.smwcentral.net/23837/boost.zip",
+      "filename": "boost.zip",
+      "size": 334,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

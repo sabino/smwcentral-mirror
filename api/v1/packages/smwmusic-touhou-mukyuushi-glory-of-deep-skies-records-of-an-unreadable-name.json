@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-touhou-mukyuushi-glory-of-deep-skies-records-of-an-unreadable-name",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29336,
+  "title": "Touhou Mukyuushi ~ Glory of Deep Skies - Records of an Unreadable Name",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "ambient",
+    "cutscene",
+    "mysterious",
+    "night",
+    "overworld",
+    "ruins",
+    "sad",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "The player's score theme from Glory of Deep Skies, a Touhou fangame.<br>\r\n<br>\r\nIt's a solemn and repetitive song that feels very cozy to listen to. I took some slight liberties with instrumentation to capture the vibe of the song better within the context of SMW.<br>\r\n<br>\r\nIncludes an option to disable the fade-in by changing a define.",
+  "latest_version": "smwc-29336-1644679632",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29336,
+      "title": "Touhou Mukyuushi ~ Glory of Deep Skies - Records of an Unreadable Name",
+      "version": "smwc-29336-1644679632",
+      "upstream_time": 1644679632,
+      "download_url": "https://dl.smwcentral.net/29336/records_of.zip",
+      "filename": "records_of.zip",
+      "size": 64811,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

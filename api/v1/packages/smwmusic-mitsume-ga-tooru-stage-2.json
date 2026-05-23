@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mitsume-ga-tooru-stage-2",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 31533,
+  "title": "Mitsume ga Tooru - Stage 2-2",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "castle",
+    "final",
+    "retro",
+    "temple"
+  ],
+  "description": "The royal-sounding song from Mitsume ga Tooru on the NES.<br>\r\n<br>\r\nFeatured in Summer C3 2022's \"50 NES Ports\" Pack.",
+  "latest_version": "smwc-31533-1663848812",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 31533,
+      "title": "Mitsume ga Tooru - Stage 2-2",
+      "version": "smwc-31533-1663848812",
+      "upstream_time": 1663848812,
+      "download_url": "https://dl.smwcentral.net/31533/Mitsume%20ga%20Tooru%20-%20Stage%202-2.zip",
+      "filename": "Mitsume ga Tooru - Stage 2-2.zip",
+      "size": 69896,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-touhou-kaikidan-mystic-square-plastic-mind",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 32412,
+  "title": "Touhou Kaikidan ~ Mystic Square - Plastic Mind",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "final",
+    "fire"
+  ],
+  "description": "プラスチックマインド<br>\r\nAlice's theme from Touhou Kaikidan.<br>\r\nUsed 7 channels.<br>\r\nNOTE: Noise was used, incompatible with sound effects using noise.",
+  "latest_version": "smwc-32412-1675026495",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 32412,
+      "title": "Touhou Kaikidan ~ Mystic Square - Plastic Mind",
+      "version": "smwc-32412-1675026495",
+      "upstream_time": 1675026495,
+      "download_url": "https://dl.smwcentral.net/32412/th5__07.zip",
+      "filename": "th5__07.zip",
+      "size": 33725,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

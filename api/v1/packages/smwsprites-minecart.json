@@ -1,0 +1,41 @@
+{
+  "name": "smwsprites-minecart",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3709,
+  "title": "Minecart",
+  "authors": [
+    "Masashi27"
+  ],
+  "tags": [
+    "lorom",
+    "mine",
+    "minecart",
+    "minecraft",
+    "mines",
+    "mineshaft",
+    "pacifist",
+    "rail",
+    "railroad",
+    "sa-1"
+  ],
+  "description": "This sprite will remain stationary until Mario jumps onto it. Then it will start going left or right (depending on its extra bit). The sprite will stop when it hits a wall/an object and will disappear after a few seconds. Overwrites the Mega Mole graphics in SP4.<br>\r\n<br>\r\nFor further information and customization options, check the ASM file.",
+  "latest_version": "smwc-3709-1302027178",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3709,
+      "title": "Minecart",
+      "version": "smwc-3709-1302027178",
+      "upstream_time": 1302027178,
+      "download_url": "https://dl.smwcentral.net/3709/Minecart.zip",
+      "filename": "Minecart.zip",
+      "size": 4267,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

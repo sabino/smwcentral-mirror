@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-kabu",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16094,
+  "title": "Kabu",
+  "authors": [
+    "Kaijyuu"
+  ],
+  "tags": [
+    "enemy",
+    "kirby",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "The Kabu from Kirby, a 16x16 sprite which will either jump back and forth or slide on the ground, depending on its extra bit. Mario can kill it by jumping on it.<br>\r\n<br>\r\nOriginally part of the Kirby Sprite Pack.",
+  "latest_version": "smwc-16094-1503664550",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16094,
+      "title": "Kabu",
+      "version": "smwc-16094-1503664550",
+      "upstream_time": 1503664550,
+      "download_url": "https://dl.smwcentral.net/16094/Kabu.zip",
+      "filename": "Kabu.zip",
+      "size": 5440,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

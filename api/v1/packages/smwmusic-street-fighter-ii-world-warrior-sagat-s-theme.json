@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-street-fighter-ii-world-warrior-sagat-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 19081,
+  "title": "Street Fighter II: World Warrior - Sagat's Theme",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "calm",
+    "night",
+    "sky"
+  ],
+  "description": "This is Sagat's theme from Street Fighter II. It's a pretty funky song, but also very calm and fast paced (which is honestly not a combination I have ever thought I'd see in a song lmao). It also is a pretty complex song in that it's not only odd-timed, but also constantly changes time signatures throughout the whole song. AFAIK, the time signatures changes between 11/8 and 7/8, which makes this a pretty \"janky\" tune I suppose, but what do I know, I'm a complete illiterate at music theory lol<br>\r\n<br>\r\nOh yeah, right, I almost forgot; for this, I think a eastern level would work very well for this song, and you could also make it a athletic level if you want, your choice :V",
+  "latest_version": "smwc-19081-1549750907",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 19081,
+      "title": "Street Fighter II: World Warrior - Sagat's Theme",
+      "version": "smwc-19081-1549750907",
+      "upstream_time": 1549750907,
+      "download_url": "https://dl.smwcentral.net/19081/Sagat.zip",
+      "filename": "Sagat.zip",
+      "size": 62285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

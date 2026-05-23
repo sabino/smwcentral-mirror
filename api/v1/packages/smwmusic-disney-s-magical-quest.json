@@ -1,0 +1,54 @@
+{
+  "name": "smwmusic-disney-s-magical-quest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 28140,
+  "title": "Disney's Magical Quest 3 Starring Mickey & Donald - The Flying Skyship",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "airship",
+    "athletic",
+    "castle",
+    "cutscene",
+    "dark",
+    "ice",
+    "mountain",
+    "night",
+    "sky"
+  ],
+  "description": "The Flying Skyship from The Magical Quest 3 starring Mickey and Donald.",
+  "latest_version": "smwc-28140-1635625492",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 28140,
+      "title": "Disney's Magical Quest 3 Starring Mickey & Donald - The Flying Skyship",
+      "version": "smwc-28140-1635625492",
+      "upstream_time": 1635625492,
+      "download_url": "https://dl.smwcentral.net/28140/The_Flying_Skyship.zip",
+      "filename": "The_Flying_Skyship.zip",
+      "size": 65287,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 11146,
+      "title": "Disney's Magical Quest 3 Starring Mickey & Donald - The Crystal Snow Mountain",
+      "version": "smwc-11146-1428773749",
+      "upstream_time": 1428773749,
+      "download_url": "https://dl.smwcentral.net/11146/Mickey%27s%20Magical%20Quest%203%20-%20The%20Crystal%20Snow%20Mountain.zip",
+      "filename": "Mickey%27s Magical Quest 3 - The Crystal Snow Mountain.zip",
+      "size": 33585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

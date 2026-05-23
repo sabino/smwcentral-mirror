@@ -1,0 +1,85 @@
+{
+  "name": "smwmusic-tempest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 22553,
+  "title": "Tempest 2000 - Digital Terror",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "bonus",
+    "boss",
+    "castle",
+    "chase",
+    "cutscene",
+    "industrial",
+    "overworld",
+    "space",
+    "tense",
+    "title"
+  ],
+  "description": "A fast and intense DnB track from Tempest 2000. This could fit nicely with boss battles, castles, factories, and other tense situations.<br>\r\n<br>\r\nTo make this port SMW compatible, the vocal samples have been removed entirely and some samples were greatly downsampled. Thankfully it doesn't feel as though the quality suffers too much because of it.",
+  "latest_version": "smwc-22553-1586209498",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 22553,
+      "title": "Tempest 2000 - Digital Terror",
+      "version": "smwc-22553-1586209498",
+      "upstream_time": 1586209498,
+      "download_url": "https://dl.smwcentral.net/22553/Tempest%202000%20-%20Digital%20Terror.zip",
+      "filename": "Tempest 2000 - Digital Terror.zip",
+      "size": 97357,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19229,
+      "title": "Tempest 2000 - Title Screen",
+      "version": "smwc-19229-1552470638",
+      "upstream_time": 1552470638,
+      "download_url": "https://dl.smwcentral.net/19229/Tempest%202000%20-%20Title%20Screen.zip",
+      "filename": "Tempest 2000 - Title Screen.zip",
+      "size": 118570,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19065,
+      "title": "Tempest 2000 - Constructive Demolition",
+      "version": "smwc-19065-1549241569",
+      "upstream_time": 1549241569,
+      "download_url": "https://dl.smwcentral.net/19065/Tempest%202000%20-%20Constructive%20Demolition.zip",
+      "filename": "Tempest 2000 - Constructive Demolition.zip",
+      "size": 100105,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 17081,
+      "title": "Tempest 2000 - Mind's Eye",
+      "version": "smwc-17081-1517733048",
+      "upstream_time": 1517733048,
+      "download_url": "https://dl.smwcentral.net/17081/minds_eye.zip",
+      "filename": "minds_eye.zip",
+      "size": 143160,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

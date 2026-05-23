@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-parodius-da-theme-of-chichibinta-rika",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 39476,
+  "title": "Parodius Da! - Theme of Chichibinta Rika",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "airship",
+    "boss",
+    "cutscene",
+    "fire",
+    "tense"
+  ],
+  "description": "A song that plays during <a href=\"https://www.youtube.com/watch?v=J0obCFLH4cY&t=143s\" rel=\"nofollow\">the wildest moment in any shoot em up ever</a>",
+  "latest_version": "smwc-39476-1743472243",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 39476,
+      "title": "Parodius Da! - Theme of Chichibinta Rika",
+      "version": "smwc-39476-1743472243",
+      "upstream_time": 1743472243,
+      "download_url": "https://dl.smwcentral.net/39476/chichibinta.zip",
+      "filename": "chichibinta.zip",
+      "size": 31914,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

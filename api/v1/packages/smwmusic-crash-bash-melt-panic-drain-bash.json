@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-crash-bash-melt-panic-drain-bash",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 37223,
+  "title": "Crash Bash - Melt Panic / Drain Bash",
+  "authors": [
+    "Pink Gold Peach"
+  ],
+  "tags": [
+    "ice",
+    "industrial",
+    "sewer",
+    "snow"
+  ],
+  "description": "An upbeat but also slightly tense theme that plays in two minigames from Crash Bash, Melt Panic which is a polar push minigame set in an ice cave and Drain Bash which is a crate crush minigame set in a sewer.",
+  "latest_version": "smwc-37223-1712841891",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 37223,
+      "title": "Crash Bash - Melt Panic / Drain Bash",
+      "version": "smwc-37223-1712841891",
+      "upstream_time": 1712841891,
+      "download_url": "https://dl.smwcentral.net/37223/CBash_-_Melt_Panic.zip",
+      "filename": "CBash_-_Melt_Panic.zip",
+      "size": 94780,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

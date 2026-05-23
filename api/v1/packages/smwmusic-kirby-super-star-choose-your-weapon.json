@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-kirby-super-star-choose-your-weapon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27716,
+  "title": "Kirby Super Star - Choose Your Weapon",
+  "authors": [
+    "Milon Luxy"
+  ],
+  "tags": [
+    "bonus",
+    "misc"
+  ],
+  "description": "The small song played at the copy abilities rooms, from said game.",
+  "latest_version": "smwc-27716-1626990089",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27716,
+      "title": "Kirby Super Star - Choose Your Weapon",
+      "version": "smwc-27716-1626990089",
+      "upstream_time": 1626990089,
+      "download_url": "https://dl.smwcentral.net/27716/Kirby%20Super%20Star%20-%20Choose%20Your%20Weapon.zip",
+      "filename": "Kirby Super Star - Choose Your Weapon.zip",
+      "size": 46271,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-love-escalator-fated-pledge-silent-ver",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 12697,
+  "title": "Love Escalator - FATED PLEDGE (SILENT-Ver.)",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "credits",
+    "final",
+    "industrial",
+    "space"
+  ],
+  "description": "(Formerly known as Love Escalator - Green, which is the name of OPN variant one (different song!) under the same track number)<br>\r\n<br>\r\nAn upbeat rockish song, ported for Round 0 of SMWC Idol 7. Good for anything intense.",
+  "latest_version": "smwc-12697-1447625775",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 12697,
+      "title": "Love Escalator - FATED PLEDGE (SILENT-Ver.)",
+      "version": "smwc-12697-1447625775",
+      "upstream_time": 1447625775,
+      "download_url": "https://dl.smwcentral.net/12697/green.zip",
+      "filename": "green.zip",
+      "size": 36908,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

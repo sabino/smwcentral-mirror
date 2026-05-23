@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-crash-bandicoot-nitro-crate-block-exploding-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 35789,
+  "title": "Crash Bandicoot - \"Nitro Crate\" Block (Exploding Block)",
+  "authors": [
+    "TheXander"
+  ],
+  "tags": [
+    "exploding",
+    "exploding block",
+    "explosion",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This block is a custom block that explode if there contact with: Mario, Sprites, Fireballs & Cape contact! When the block detects any of thoses contacts, he will erase himself, makes an particle/smoke effect and makes instantly the explosion from the Vanilla Original SMW Sprite 0D: Bob-omb.<br>\r\n<br>\r\nThis custom block come with some defines/options that you can change freely.<br>\r\n<br>\r\nMore details in the Readme file!<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=126239&page=1&pid=1631184#p1631184\">Requested</a> by <span class=\"un-outer\" title=\"bandicoot\"><a href=\"/?p=profile&amp;id=21068\" style=\"color: var(--user-color-2);\" class=\"un\">bandicoot</a></span>",
+  "latest_version": "smwc-35789-1725116507",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 35789,
+      "title": "Crash Bandicoot - \"Nitro Crate\" Block (Exploding Block)",
+      "version": "smwc-35789-1725116507",
+      "upstream_time": 1725116507,
+      "download_url": "https://dl.smwcentral.net/35789/Crash%20Bandicoot%20-%20Nitro%20Crate%20Block%20%28Explosive%20Block%29.zip",
+      "filename": "Crash Bandicoot - Nitro Crate Block (Explosive Block).zip",
+      "size": 3836,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-slow-message-box-v1",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 33691,
+  "title": "Slow Message Box v1.1",
+  "authors": [
+    "Lui",
+    "Medic"
+  ],
+  "tags": [
+    "lorom",
+    "message",
+    "message box",
+    "sa-1"
+  ],
+  "description": "Makes message boxes show the message frame by frame instead of all at once. You may skip the wait (makes it load instantly) by pressing START or SELECT by default.<br>\r\n<br>\r\nIncludes SFX and SFX generation script by Lui37.<br>\r\n<br>\r\nNote that by its nature, it is incompatible with most custom message systems, even vanilla-like ones like <a href=\"https://www.smwcentral.net/?p=section&a=details&id=20406\">Sprite Message Box</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=26720\">Inline Layer 3 Messages</a>.<br>\r\n<br>\r\nChangelog:<br>\r\nv1.0: Initial release<br>\r\nv1.1: Remoderation update, testing python script with Python 3.9.6 and 3.11.2, fixing Yoshi House and switch messages.",
+  "latest_version": "smwc-33691-1719724885",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 33691,
+      "title": "Slow Message Box v1.1",
+      "version": "smwc-33691-1719724885",
+      "upstream_time": 1719724885,
+      "download_url": "https://dl.smwcentral.net/33691/zzzmsg.zip",
+      "filename": "zzzmsg.zip",
+      "size": 186600,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

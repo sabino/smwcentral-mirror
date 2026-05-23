@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-celeste-controllable-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 19023,
+  "title": "Celeste - Controllable Platform",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1"
+  ],
+  "description": "This platform will move in a direction in an horizontal or vertical manner automatically, with the player being able to control how it moves in the opposite axis. See the ASM file for more information. <br>\r\nNote that this requires a patch (that will be installed when you insert the sprite) to be able to use the respawning feature.<br>\r\n<br>\r\nv1.1<br>\r\n* Updated for PIXI.<br>\r\n* Somewhat fixed SA-1 conversion (but untested anyways so I'm not putting the tag.",
+  "latest_version": "smwc-19023-1548639519",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 19023,
+      "title": "Celeste - Controllable Platform",
+      "version": "smwc-19023-1548639519",
+      "upstream_time": 1548639519,
+      "download_url": "https://dl.smwcentral.net/19023/Celeste%20-%20Moving%20Platform%20-%20PIXI.zip",
+      "filename": "Celeste - Moving Platform - PIXI.zip",
+      "size": 9059,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

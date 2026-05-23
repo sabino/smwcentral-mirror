@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-cave-story-gestation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7310,
+  "title": "Cave Story - Gestation",
+  "authors": [
+    "Ellipsis"
+  ],
+  "tags": [
+    "bonus",
+    "cutscene",
+    "title"
+  ],
+  "description": "This is an excellent remake of the First Cave in Cave Story. Has multiple chords which sound very nice together. Recommended for all of your cave needs, or mini  bonus areas.",
+  "latest_version": "smwc-7310-1319645499",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7310,
+      "title": "Cave Story - Gestation",
+      "version": "smwc-7310-1319645499",
+      "upstream_time": 1319645499,
+      "download_url": "https://dl.smwcentral.net/7310/Gestation.zip",
+      "filename": "Gestation.zip",
+      "size": 67727,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

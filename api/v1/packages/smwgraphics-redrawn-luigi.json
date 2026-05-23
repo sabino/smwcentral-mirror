@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-redrawn-luigi",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 6250,
+  "title": "Redrawn Luigi",
+  "authors": [
+    "chris10125"
+  ],
+  "tags": [
+    "male",
+    "needs remoderation",
+    "redrawn"
+  ],
+  "description": "I made Redrawn Luigi.<br>\r\n<br>\r\nMirann note: I included two versions of GFX00/GFX32 in the submission, one of them is for SMW Redrawn in case you're using it as base, regarding <a href=\"/?p=section&a=details&id=5914\">this submission</a>. I'm sending an update of this file because the older didn't have the proper GFX00.bin included which made some of Luigi frames look odd, but now hopefully the version included in this submission fixes this issue.",
+  "latest_version": "smwc-6250-1394320991",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 6250,
+      "title": "Redrawn Luigi",
+      "version": "smwc-6250-1394320991",
+      "upstream_time": 1394320991,
+      "download_url": "https://dl.smwcentral.net/6250/RedrawnLuigi.zip",
+      "filename": "RedrawnLuigi.zip",
+      "size": 31799,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 725,
+      "title": "Redrawn Luigi",
+      "version": "smwc-725-1389577305",
+      "upstream_time": 1389577305,
+      "download_url": "https://dl.smwcentral.net/725/RedrawnLuigiALL.zip",
+      "filename": "RedrawnLuigiALL.zip",
+      "size": 29009,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

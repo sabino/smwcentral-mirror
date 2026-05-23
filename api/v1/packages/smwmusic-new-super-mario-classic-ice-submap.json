@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-new-super-mario-classic-ice-submap",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29726,
+  "title": "New Super Mario Classic - Ice Submap",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "ice",
+    "overworld"
+  ],
+  "description": "Could fit on the ice submaps with night time or ice cavern. This music was played on World 8 (Icicle Valley) from New Super Mario Classic 2 (Emerald Edition) (My SMW Hack)",
+  "latest_version": "smwc-29726-1644853575",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29726,
+      "title": "New Super Mario Classic - Ice Submap",
+      "version": "smwc-29726-1644853575",
+      "upstream_time": 1644853575,
+      "download_url": "https://dl.smwcentral.net/29726/NSMC%20Ice%20Submap.zip",
+      "filename": "NSMC Ice Submap.zip",
+      "size": 39285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

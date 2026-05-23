@@ -1,0 +1,47 @@
+{
+  "name": "smwsprites-falling-rock",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 3537,
+  "title": "Falling Rock",
+  "authors": [
+    "Ixtab"
+  ],
+  "tags": [
+    "breaks",
+    "cave",
+    "cave level",
+    "cavern",
+    "caverns",
+    "effect",
+    "enemy",
+    "explode",
+    "exploding",
+    "fall",
+    "falling",
+    "lorom",
+    "rock",
+    "rocks",
+    "sa-1",
+    "shatter"
+  ],
+  "description": "A rock which will fall at a random speed and will randomly be 16x16 or 24x24. Depending on the extra bit, it will either shatter or explode. Recommended for use with a sprite spawning generator. Requested by Aqualakitu and some others from #smwc.<br>\r\n<br>\r\nIf you uncheck \"Don't use default interaction with Mario\" with the CFG Editor, the rock will hurt Mario.",
+  "latest_version": "smwc-3537-1263242027",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 3537,
+      "title": "Falling Rock",
+      "version": "smwc-3537-1263242027",
+      "upstream_time": 1263242027,
+      "download_url": "https://dl.smwcentral.net/3537/Falling%20Rock.zip",
+      "filename": "Falling Rock.zip",
+      "size": 4033,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

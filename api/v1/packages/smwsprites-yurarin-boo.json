@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-yurarin-boo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 16232,
+  "title": "Yurarin Boo",
+  "authors": [
+    "smkdan"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "seahorse",
+    "sml",
+    "water"
+  ],
+  "description": "A seahorse from Super Mario Land that jumps from water, spits a fireball, and stays behind layers. It can be stomped. Don't forget to enable sprite buoyancy for your level if using this sprite.<br>\r\n<br>\r\nThis sprite was part of smkdan's Super Mario Land sprites pack, and was resubmitted separately after the remoderation for ease of search and to fit current standards.",
+  "latest_version": "smwc-16232-1504719628",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 16232,
+      "title": "Yurarin Boo",
+      "version": "smwc-16232-1504719628",
+      "upstream_time": 1504719628,
+      "download_url": "https://dl.smwcentral.net/16232/SMLYurarinBoo.zip",
+      "filename": "SMLYurarinBoo.zip",
+      "size": 4885,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

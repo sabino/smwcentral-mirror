@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-puyo-puyo-2-demo",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 21488,
+  "title": "Super Puyo Puyo 2 - Demo 1",
+  "authors": [
+    "MercuryPenny"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "cutscene",
+    "forest",
+    "overworld",
+    "sky"
+  ],
+  "description": "A very happy tune originally used in cutscenes and the practice mode in Super Puyo Puyo 2. Might be useful for cutesy puzzle levels.",
+  "latest_version": "smwc-21488-1573792555",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 21488,
+      "title": "Super Puyo Puyo 2 - Demo 1",
+      "version": "smwc-21488-1573792555",
+      "upstream_time": 1573792555,
+      "download_url": "https://dl.smwcentral.net/21488/puyo2cutscene.zip",
+      "filename": "puyo2cutscene.zip",
+      "size": 32556,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

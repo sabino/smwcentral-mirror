@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-pressure-switch-gate",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 33045,
+  "title": "Pressure Switch + Gate",
+  "authors": [
+    "JamesD28"
+  ],
+  "tags": [
+    "gates",
+    "lorom",
+    "sa-1",
+    "switch"
+  ],
+  "description": "This is a pair of sprites: A Switch that can be pressed down by standing on it, and a Gate, that will open when a linked Switch is pressed. You can link Switches and Gates together by giving them the same value in extra byte 1 (allowing you to have one Switch open several Gates, or several Switches open one Gate, or any combination). You can also set timers for how long the Gates stay open (including forever), the manner in which they close, the Gate size, and several other Gate and Switch behaviours.<br>\r\n<br>\r\nUsage notes:<br>\r\n- The Gate must be inserted as the very next number after the Switch in PIXI's list.<br>\r\n- The Gates do NOT interact with sprites, nor do the Switches.<br>\r\n- Tile priority should be enabled on tiles that the Gates can overlap with when opening, to ensure the Gate goes behind.<br>\r\n- The \"Clipping.asm\" file should be inserted in PIXI's \"routines\" folder.<br>\r\n- The Switch and Gate each take a sprite slot. Considering SA-1 might be a good idea if you plan to make a level based around these sprites.<br>\r\n<br>\r\nHammerBrother's update:<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog.txt</span></div><div class=\"collapse-content\"><pre>v1.0 (2021-03-24) by JamesD28<br>\r\n -First release<br>\r\nv1.1 (2023-01-28) by HammerBrother<br>\r\n -Bug fixes<br>\r\n --Fixed a bug that caused the player to be sucked into the switch (as reported by Kevin) and removed several now redundant<br>\r\n   code due to the said fix. Do note if the player stands on the edge between the switch and the layer 1 solid/ledge,<br>\r\n   the switch will oscillate between moving up and down (since the switch will instantly change direction)<br>\r\n --Fixed the gate sprite having a hitbox that extends 1 pixel to the right than it should be (the bug was in Clipping.asm).<br>\r\n   This bug allowed the player to stand on the right edge of the gate even when the rightmost 16x16 part of the sprite have<br>\r\n   a solid layer 1 block on top of it.<br>\r\n --Switch is no longer a pixel lower<br>\r\n -Feature additions:<br>\r\n --Pressure switch now have an option: SFX and requiring the player to press the switch fully (if not set, the switch would<br>\r\n   activate even if partially pressed).</pre></div></div>",
+  "latest_version": "smwc-33045-1690610014",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 33045,
+      "title": "Pressure Switch + Gate",
+      "version": "smwc-33045-1690610014",
+      "upstream_time": 1690610014,
+      "download_url": "https://dl.smwcentral.net/33045/PressureSwitchGate_v1_1.zip",
+      "filename": "PressureSwitchGate_v1_1.zip",
+      "size": 68190,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

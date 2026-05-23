@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-earthbound-beginnings-magicant",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 8433,
+  "title": "EarthBound Beginnings - Magicant",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "sky"
+  ],
+  "description": "This is the theme that plays when you are in Magicant, Maria's subconsciousness.",
+  "latest_version": "smwc-8433-1372036720",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 8433,
+      "title": "EarthBound Beginnings - Magicant",
+      "version": "smwc-8433-1372036720",
+      "upstream_time": 1372036720,
+      "download_url": "https://dl.smwcentral.net/8433/Magicant.zip",
+      "filename": "Magicant.zip",
+      "size": 64422,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-dragon-warrior-king-dragon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29909,
+  "title": "Dragon Warrior - King Dragon",
+  "authors": [
+    "NewPointless"
+  ],
+  "tags": [
+    "boss",
+    "cutscene",
+    "final",
+    "mysterious",
+    "retro"
+  ],
+  "description": "Dragon Quest I was released in America as Dragon Warrior. This is a SNES remix of the original NES soundtrack.<br>\r\n<br>\r\nThis is useful for bosses or cutscenes.",
+  "latest_version": "smwc-29909-1654010030",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29909,
+      "title": "Dragon Warrior - King Dragon",
+      "version": "smwc-29909-1654010030",
+      "upstream_time": 1654010030,
+      "download_url": "https://dl.smwcentral.net/29909/DragonQuest07TheDragonLord.zip",
+      "filename": "DragonQuest07TheDragonLord.zip",
+      "size": 34923,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

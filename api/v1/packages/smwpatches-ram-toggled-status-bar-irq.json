@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-ram-toggled-status-bar-irq",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 28449,
+  "title": "RAM Toggled Status Bar (& IRQ)",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "irq",
+    "lorom",
+    "sa-1",
+    "status bar"
+  ],
+  "description": "This patch allows you to enable or disable the status bar (and its IRQ) on a per-level basis, by setting a flag. This means that you can remove the status bar only in certain levels to use things like fullscreen layer 3 BGs or certain HDMA effects that normally don't work well with it. Make sure to check the info in the asm file before patching it.",
+  "latest_version": "smwc-28449-1646456880",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 28449,
+      "title": "RAM Toggled Status Bar (& IRQ)",
+      "version": "smwc-28449-1646456880",
+      "upstream_time": 1646456880,
+      "download_url": "https://dl.smwcentral.net/28449/remove_statusbar_toggled.zip",
+      "filename": "remove_statusbar_toggled.zip",
+      "size": 1279,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

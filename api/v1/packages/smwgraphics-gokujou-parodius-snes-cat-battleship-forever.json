@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-gokujou-parodius-snes-cat-battleship-forever",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 38059,
+  "title": "Gokujou Parodius (SNES) - Cat Battleship Forever",
+  "authors": [
+    "Rykon-V73"
+  ],
+  "tags": [
+    "ocean",
+    "underwater"
+  ],
+  "description": "I decided to combine the 2 BGs into 1. I did make a few improvements. Made the clouds and the island use the back area color, along with the high clouds. If you do change it, then make sure you change the underwater colors, too. One of the palettes fits well palette 1, so I moved it there without affecting SMW colors. The Map16 tiles have been improved as well.<br>\r\n<br>\r\nUpdate: I ripped the BG again.<br>\r\nI merged the BG seen above and underwater into one. It does use a lot of tiles but I classify this as complete. A tile is used from the FG1 slot. I also:<br>\r\n-Updated the palettes. Clouds use palette 0 without affecting SMW palette, palette 3 is used for the ground underwater and ship+defeated penguin boss, palette 4 is used for the sand below and palette 6 is used for the islands. Uses the 2nd half of those palettes;<br>\r\n-Map16 went through its overhaul. I drew 2 new tiles for the underwater transition and added a few extra tiles for the islands and the small cloud;<br>\r\n-The octopus cloud was added as well.<br>\r\nYou should use the BG according to the horizontal level settings from the sample level. <br>\r\n<br>\r\nNo credit needed. This did took some time.",
+  "latest_version": "smwc-38059-1720116240",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 38059,
+      "title": "Gokujou Parodius (SNES) - Cat Battleship Forever",
+      "version": "smwc-38059-1720116240",
+      "upstream_time": 1720116240,
+      "download_url": "https://dl.smwcentral.net/38059/Gokujou%20Parodius%20%28SNES%29%20-%20Cat%20Battleship%20Forever.zip",
+      "filename": "Gokujou Parodius (SNES) - Cat Battleship Forever.zip",
+      "size": 14886,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

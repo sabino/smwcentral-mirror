@@ -1,0 +1,52 @@
+{
+  "name": "smwmusic-rockman-exe-4",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25874,
+  "title": "Rockman EXE 4.5: Real Operation - Battlefield",
+  "authors": [
+    "Dippy"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "cutscene",
+    "overworld",
+    "space",
+    "tense"
+  ],
+  "description": "<span style=\"font-size: 12pt;\">NOTE: Incompatible w/ Yoshi, Thunder, Blaargs and the Bonus End song</span><br>\r\n<br>\r\nThe battle theme from Mega Man Battle Network 4.5 (known as Rockman.EXE 4.5 Real Operation in Japan), a Japan-only MMBN game. Useful for athletic levels or boss fights.",
+  "latest_version": "smwc-25874-1613084124",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25874,
+      "title": "Rockman EXE 4.5: Real Operation - Battlefield",
+      "version": "smwc-25874-1613084124",
+      "upstream_time": 1613084124,
+      "download_url": "https://dl.smwcentral.net/25874/Mega%20Man%20Battle%20Network%204.5%20-%20Battlefield.zip",
+      "filename": "Mega Man Battle Network 4.5 - Battlefield.zip",
+      "size": 100383,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 18099,
+      "title": "Rockman EXE 4.5: Real Operation - Theme of SearchMan",
+      "version": "smwc-18099-1535585349",
+      "upstream_time": 1535585349,
+      "download_url": "https://dl.smwcentral.net/18099/MMBN4.5%20-%20Theme%20of%20SearchMan.EXE.zip",
+      "filename": "MMBN4.5 - Theme of SearchMan.EXE.zip",
+      "size": 76570,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-yoshi-s-safari-grass-land",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 34673,
+  "title": "Yoshi's Safari - Grass Land",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "beach",
+    "grassland"
+  ],
+  "description": "Can fit a grassland theme.",
+  "latest_version": "smwc-34673-1696203194",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 34673,
+      "title": "Yoshi's Safari - Grass Land",
+      "version": "smwc-34673-1696203194",
+      "upstream_time": 1696203194,
+      "download_url": "https://dl.smwcentral.net/34673/07%20Grass%20Land.zip",
+      "filename": "07 Grass Land.zip",
+      "size": 52063,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 15428,
+      "title": "Yoshi's Safari - Grass Land",
+      "version": "smwc-15428-1492921466",
+      "upstream_time": 1492921466,
+      "download_url": "https://dl.smwcentral.net/15428/Grass%20Land.zip",
+      "filename": "Grass Land.zip",
+      "size": 31565,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

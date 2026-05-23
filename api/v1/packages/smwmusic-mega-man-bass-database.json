@@ -1,0 +1,68 @@
+{
+  "name": "smwmusic-mega-man-bass-database",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 25780,
+  "title": "Mega Man & Bass - Database",
+  "authors": [
+    "Ultima"
+  ],
+  "tags": [
+    "abstract",
+    "calm",
+    "cutscene",
+    "forest",
+    "night",
+    "overworld",
+    "temple",
+    "town",
+    "water"
+  ],
+  "description": "The CD Database theme from Megaman & Bass.",
+  "latest_version": "smwc-25780-1612050806",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 25780,
+      "title": "Mega Man & Bass - Database",
+      "version": "smwc-25780-1612050806",
+      "upstream_time": 1612050806,
+      "download_url": "https://dl.smwcentral.net/25780/Database.zip",
+      "filename": "Database.zip",
+      "size": 31660,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 22643,
+      "title": "Mega Man & Bass - Database",
+      "version": "smwc-22643-1587285893",
+      "upstream_time": 1587285893,
+      "download_url": "https://dl.smwcentral.net/22643/Mega%20Man%20%26%20Bass%20-%20Database.zip",
+      "filename": "Mega Man %26 Bass - Database.zip",
+      "size": 31040,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 19898,
+      "title": "Mega Man & Bass - Database",
+      "version": "smwc-19898-1557438477",
+      "upstream_time": 1557438477,
+      "download_url": "https://dl.smwcentral.net/19898/RM%26F_Database.zip",
+      "filename": "RM%26F_Database.zip",
+      "size": 65170,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

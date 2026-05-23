@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-100-exits",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 19464,
+  "title": "100 Exits",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "save",
+    "tile"
+  ],
+  "description": "This patch fixes the garbage that appears in the file select screen if you get 100 exits or more.",
+  "latest_version": "smwc-19464-1553718947",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 19464,
+      "title": "100 Exits",
+      "version": "smwc-19464-1553718947",
+      "upstream_time": 1553718947,
+      "download_url": "https://dl.smwcentral.net/19464/100Exits.zip",
+      "filename": "100Exits.zip",
+      "size": 656,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

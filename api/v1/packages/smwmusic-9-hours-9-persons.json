@@ -1,0 +1,81 @@
+{
+  "name": "smwmusic-9-hours-9-persons",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23729,
+  "title": "9 Hours, 9 Persons, 9 Doors - Nonary Game",
+  "authors": [
+    "sincx"
+  ],
+  "tags": [
+    "abstract",
+    "cave",
+    "cutscene",
+    "dark",
+    "final",
+    "ghost house",
+    "industrial",
+    "tense"
+  ],
+  "description": "Dark, tense song. Uses a ridiculous amount of ARAM (probably won't insert if you have anything more than defaults for global songs/sfx). Not compatible with Yoshi, thunder, bonus end.<br>\r\n<br>\r\nOriginally featured in YUMP 2.",
+  "latest_version": "smwc-23729-1595039991",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23729,
+      "title": "9 Hours, 9 Persons, 9 Doors - Nonary Game",
+      "version": "smwc-23729-1595039991",
+      "upstream_time": 1595039991,
+      "download_url": "https://dl.smwcentral.net/23729/nonary.zip",
+      "filename": "nonary.zip",
+      "size": 98366,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 23728,
+      "title": "9 Hours, 9 Persons, 9 Doors - Foreboding",
+      "version": "smwc-23728-1595898112",
+      "upstream_time": 1595898112,
+      "download_url": "https://dl.smwcentral.net/23728/999fb.zip",
+      "filename": "999fb.zip",
+      "size": 108996,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 12635,
+      "title": "9 Hours, 9 Persons, 9 Doors - Riddle and Puzzle",
+      "version": "smwc-12635-1446677906",
+      "upstream_time": 1446677906,
+      "download_url": "https://dl.smwcentral.net/12635/riddle-puzzle.zip",
+      "filename": "riddle-puzzle.zip",
+      "size": 31409,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 7730,
+      "title": "9 Hours, 9 Persons, 9 Doors - Chill and Rigor",
+      "version": "smwc-7730-1317475232",
+      "upstream_time": 1317475232,
+      "download_url": "https://dl.smwcentral.net/7730/Chill%20and%20Rigor.zip",
+      "filename": "Chill and Rigor.zip",
+      "size": 68313,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

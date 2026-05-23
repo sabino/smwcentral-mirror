@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-screen-constrain",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 15244,
+  "title": "Screen Constrain",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "blocks",
+    "extending",
+    "lorom",
+    "needs remoderation",
+    "screen border"
+  ],
+  "description": "This patch will constrain the player's hitbox to inside the camera causing blocks that are placed on the edge of the screen to \"extend\" infinitely.<br>\r\n<br>\r\nUseful for water levels and to prevent players from getting above the level.",
+  "latest_version": "smwc-15244-1494727707",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 15244,
+      "title": "Screen Constrain",
+      "version": "smwc-15244-1494727707",
+      "upstream_time": 1494727707,
+      "download_url": "https://dl.smwcentral.net/15244/screenextend.zip",
+      "filename": "screenextend.zip",
+      "size": 771,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-yoshi-coin-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 18950,
+  "title": "Yoshi Coin Fix",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "screen boundary",
+    "yoshi coin"
+  ],
+  "description": "This patch fixes two glitches with the Yoshi coin object, one involving subscreen boundaries and the other involving tiles on Map16 pages other than 0 that act like it.",
+  "latest_version": "smwc-18950-1548010492",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 18950,
+      "title": "Yoshi Coin Fix",
+      "version": "smwc-18950-1548010492",
+      "upstream_time": 1548010492,
+      "download_url": "https://dl.smwcentral.net/18950/ycoinfix.zip",
+      "filename": "ycoinfix.zip",
+      "size": 634,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

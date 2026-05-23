@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-sumo-brother-flame-fix-nmstl-compatible",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 11245,
+  "title": "Sumo Brother Flame Fix (NMSTL compatible)",
+  "authors": [
+    "Roy",
+    "worldpeace"
+  ],
+  "tags": [
+    "asar 2 remoderation",
+    "lorom",
+    "needs remoderation"
+  ],
+  "description": "1. Now the flame is compatible with NMSTL(sprite memory index = 10).<br>\r\n<br>\r\n2. In the vanilla routine, there's a possibility that flames can overwrite OAM of other sprites when sprite memory is 0 for example.<br>\r\nIf you set sprite memory to 10, this patch will let these cluster sprites be in empty OAM slots without overwriting. (Note that regular sprites take the first OAM slots when sprite memory is 10, flames will be behind normal sprites.)<br>\r\n<br>\r\nCurrently it's still possible for you to use the unmodified routine for some reasons. To use it, use a non-10 sprite memory index. (I might as well change this to be applied for all cases, after confirming there's no problem for doing so.)<br>\r\n<br>\r\nNo credit needed. This patch is based on the patch made by Roy.<br>\r\nThe old description is below.<br>\r\n------------------------------------<br>\r\n<br>\r\nThis patch fixes two pretty serious bugs one might encounter with the Sumo Brother flames. One, that sometimes sprites will \"warp\" towards the flames when the lightning strikes the ground, and two, that the player can get hurt when he is about 8 blocks underneath the fire sea. I just happened to fix these because I stumbled upon them in my own hack.<br>\r\n<br>\r\nNo credit needed.",
+  "latest_version": "smwc-11245-1440955060",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 11245,
+      "title": "Sumo Brother Flame Fix (NMSTL compatible)",
+      "version": "smwc-11245-1440955060",
+      "upstream_time": 1440955060,
+      "download_url": "https://dl.smwcentral.net/11245/Sumo%20Bro%20Flame%20Fix.zip",
+      "filename": "Sumo Bro Flame Fix.zip",
+      "size": 1595,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

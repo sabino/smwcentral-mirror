@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-sonic-robo-blast-2-v2-2-arid-canyon-zone-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 23540,
+  "title": "Sonic Robo Blast 2 (V2.2) - Arid Canyon Zone Act 1",
+  "authors": [
+    "bebn legg"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "desert",
+    "mountain",
+    "ruins",
+    "upbeat"
+  ],
+  "description": "The groovy and adventurous song that plays in the first act of Arid Canyon Zone in Sonic Robo Blast 2, and probably one of my favourite songs from the game. The name probably illustrates the places it would fit well: rough and dry places like deserts and mountains. That being said, it's still a very happy song that makes you want to keep exploring.<br>\r\n<br>\r\nSpecial thanks to Dippy for making the MIDI that this was based on; it greatly sped up the porting process.",
+  "latest_version": "smwc-23540-1594431094",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 23540,
+      "title": "Sonic Robo Blast 2 (V2.2) - Arid Canyon Zone Act 1",
+      "version": "smwc-23540-1594431094",
+      "upstream_time": 1594431094,
+      "download_url": "https://dl.smwcentral.net/23540/arid%20canyone.zip",
+      "filename": "arid canyone.zip",
+      "size": 38410,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

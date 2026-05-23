@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-ix-battle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 7414,
+  "title": "Final Fantasy IX - Battle 2 ~ Boss Battle Theme",
+  "authors": [
+    "Wakana"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "chase",
+    "final"
+  ],
+  "description": "Upbeating song that suits boss battles, chases and epic castles.",
+  "latest_version": "smwc-7414-1375662046",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 7414,
+      "title": "Final Fantasy IX - Battle 2 ~ Boss Battle Theme",
+      "version": "smwc-7414-1375662046",
+      "upstream_time": 1375662046,
+      "download_url": "https://dl.smwcentral.net/7414/Boss%20Battle%20FFIX.zip",
+      "filename": "Boss Battle FFIX.zip",
+      "size": 74285,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

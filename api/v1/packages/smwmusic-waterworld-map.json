@@ -1,0 +1,53 @@
+{
+  "name": "smwmusic-waterworld-map",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 40448,
+  "title": "Waterworld - Map",
+  "authors": [
+    "lordlydumbass"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "menu",
+    "night",
+    "overworld",
+    "sea",
+    "title",
+    "water"
+  ],
+  "description": "The basis is all SMW samples; I used ChordBRR, a sample with @21 and @22 layered together, and this sustained @22 sample: https://www.smwcentral.net/?p=section&a=details&id=28086<br>\r\nCould fit calm water levels or overworlds.",
+  "latest_version": "smwc-40448-1756660029",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 40448,
+      "title": "Waterworld - Map",
+      "version": "smwc-40448-1756660029",
+      "upstream_time": 1756660029,
+      "download_url": "https://dl.smwcentral.net/40448/Waterworld-Map-Lightsampled.zip",
+      "filename": "Waterworld-Map-Lightsampled.zip",
+      "size": 38630,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 10870,
+      "title": "Waterworld - Map",
+      "version": "smwc-10870-1424853834",
+      "upstream_time": 1424853834,
+      "download_url": "https://dl.smwcentral.net/10870/wwmap.zip",
+      "filename": "wwmap.zip",
+      "size": 56394,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

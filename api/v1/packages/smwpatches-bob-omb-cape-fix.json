@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-bob-omb-cape-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 4693,
+  "title": "Bob-omb Cape Fix",
+  "authors": [
+    "Alcaro"
+  ],
+  "tags": [
+    "lorom",
+    "physics",
+    "sa-1",
+    "sprite contact"
+  ],
+  "description": "This patch makes Bob-omb explosions not die from cape spins.<br>\r\n<br>\r\nThis patch previously lacked SA-1 support. The original version <a href=\"https://files.telinc1.com/smwc/patches/bomb.zip\" rel=\"nofollow\">is backed up here</a>.",
+  "latest_version": "smwc-4693-1367077057",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 4693,
+      "title": "Bob-omb Cape Fix",
+      "version": "smwc-4693-1367077057",
+      "upstream_time": 1367077057,
+      "download_url": "https://dl.smwcentral.net/4693/bomb.zip",
+      "filename": "bomb.zip",
+      "size": 367,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-street-fighter-ii-world-warrior-balrog-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 27663,
+  "title": "Street Fighter II: World Warrior - Balrog's Theme",
+  "authors": [
+    "Sariel"
+  ],
+  "tags": [
+    "boss",
+    "chase",
+    "final",
+    "tense"
+  ],
+  "description": "Balrog's Theme from Street Fighter II (SNES-Version). Very powerful and energetic.",
+  "latest_version": "smwc-27663-1629858078",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 27663,
+      "title": "Street Fighter II: World Warrior - Balrog's Theme",
+      "version": "smwc-27663-1629858078",
+      "upstream_time": 1629858078,
+      "download_url": "https://dl.smwcentral.net/27663/Street%20Fighter%20II%20-%20Balrog%27s%20Theme.zip",
+      "filename": "Street Fighter II - Balrog%27s Theme.zip",
+      "size": 28617,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

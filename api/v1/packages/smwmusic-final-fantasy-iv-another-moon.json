@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-final-fantasy-iv-another-moon",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 33408,
+  "title": "Final Fantasy IV - Another Moon",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "abstract",
+    "castle",
+    "cave",
+    "cutscene",
+    "dark",
+    "final",
+    "overworld",
+    "ruins",
+    "space",
+    "spooky"
+  ],
+  "description": "Requested by Brutapode89.",
+  "latest_version": "smwc-33408-1680320153",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 33408,
+      "title": "Final Fantasy IV - Another Moon",
+      "version": "smwc-33408-1680320153",
+      "upstream_time": 1680320153,
+      "download_url": "https://dl.smwcentral.net/33408/40%20Another%20Moon.zip",
+      "filename": "40 Another Moon.zip",
+      "size": 61171,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 16264,
+      "title": "Final Fantasy IV - Another Moon",
+      "version": "smwc-16264-1505351000",
+      "upstream_time": 1505351000,
+      "download_url": "https://dl.smwcentral.net/16264/another%20moon.zip",
+      "filename": "another moon.zip",
+      "size": 30651,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

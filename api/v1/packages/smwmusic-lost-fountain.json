@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-lost-fountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 29455,
+  "title": "Lost Fountain",
+  "authors": [
+    "xyz600sp"
+  ],
+  "tags": [
+    "forest",
+    "ghost house",
+    "overworld",
+    "sad",
+    "spooky",
+    "swamp"
+  ],
+  "description": "Original Composition like <a href=\"https://www.youtube.com/watch?v=q8Me56jU_0M\" rel=\"nofollow\">Youtube</a> was feel haunted waltz music. Also fit on the haunted forest areas.",
+  "latest_version": "smwc-29455-1644509272",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 29455,
+      "title": "Lost Fountain",
+      "version": "smwc-29455-1644509272",
+      "upstream_time": 1644509272,
+      "download_url": "https://dl.smwcentral.net/29455/NSMC%20Lost%20Fountain.zip",
+      "filename": "NSMC Lost Fountain.zip",
+      "size": 32498,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}
