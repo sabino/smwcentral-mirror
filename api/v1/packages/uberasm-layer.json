@@ -8,15 +8,10 @@
     "Kevin"
   ],
   "tags": [
-    "asar 2 remoderation",
-    "autoscroll",
-    "hdma",
     "layer 2",
     "lorom",
     "sa-1",
-    "scroll",
-    "smasher",
-    "tilemap"
+    "scroll"
   ],
   "description": "This UberASM is basically a disassembly of the \"Layer 2 Falls\" sprite (sprite ED), with some customization options, such as speed, acceleration, movement direction (vertical up or down, horizontal left or right), etc. You can also change it to move layer 1 instead (basically acting as an autoscroller). With the default parameters it acts the same as the vanilla sprite.",
   "latest_version": "smwc-41090-1763856619",
@@ -30,76 +25,6 @@
       "download_url": "https://dl.smwcentral.net/41090/Layer2FallsAsar2.zip",
       "filename": "Layer2FallsAsar2.zip",
       "size": 1323,
-      "sha256": null,
-      "dependencies": [
-        "uberasm-tool"
-      ],
-      "install_kind": "uber_asm"
-    },
-    {
-      "upstream_id": 38830,
-      "title": "Layer 2 Football Movement",
-      "version": "smwc-38830-1736211895",
-      "upstream_time": 1736211895,
-      "download_url": "https://dl.smwcentral.net/38830/layer2_rugby.zip",
-      "filename": "layer2_rugby.zip",
-      "size": 1091,
-      "sha256": null,
-      "dependencies": [
-        "uberasm-tool"
-      ],
-      "install_kind": "uber_asm"
-    },
-    {
-      "upstream_id": 29990,
-      "title": "Layer 2 Window",
-      "version": "smwc-29990-1667861404",
-      "upstream_time": 1667861404,
-      "download_url": "https://dl.smwcentral.net/29990/Layer2Windowing.zip",
-      "filename": "Layer2Windowing.zip",
-      "size": 629,
-      "sha256": null,
-      "dependencies": [
-        "uberasm-tool"
-      ],
-      "install_kind": "uber_asm"
-    },
-    {
-      "upstream_id": 23117,
-      "title": "Layer 2 Background Auto-Scroll",
-      "version": "smwc-23117-1593519081",
-      "upstream_time": 1593519081,
-      "download_url": "https://dl.smwcentral.net/23117/BG_AutoScroll%20%28v1.1%29.zip",
-      "filename": "BG_AutoScroll (v1.1).zip",
-      "size": 710,
-      "sha256": null,
-      "dependencies": [
-        "uberasm-tool"
-      ],
-      "install_kind": "uber_asm"
-    },
-    {
-      "upstream_id": 22893,
-      "title": "Layer 2 Scroll on Button Press",
-      "version": "smwc-22893-1593619740",
-      "upstream_time": 1593619740,
-      "download_url": "https://dl.smwcentral.net/22893/l2sbbp1.4.zip",
-      "filename": "l2sbbp1.4.zip",
-      "size": 1922,
-      "sha256": null,
-      "dependencies": [
-        "uberasm-tool"
-      ],
-      "install_kind": "uber_asm"
-    },
-    {
-      "upstream_id": 15182,
-      "title": "Layer 2 Smash Sideways",
-      "version": "smwc-15182-1497896875",
-      "upstream_time": 1497896875,
-      "download_url": "https://dl.smwcentral.net/15182/Layer2SmashSideways.zip",
-      "filename": "Layer2SmashSideways.zip",
-      "size": 3046,
       "sha256": null,
       "dependencies": [
         "uberasm-tool"

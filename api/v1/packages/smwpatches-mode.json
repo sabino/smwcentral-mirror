@@ -2,37 +2,21 @@
   "name": "smwpatches-mode",
   "aliases": [],
   "section": "smwpatches",
-  "upstream_id": 21362,
-  "title": "Mode 7 Game Over Screen",
+  "upstream_id": 41841,
+  "title": "Mode 3/8bpp Nintendo Presents Screen",
   "authors": [
     "Arinsu"
   ],
   "tags": [
-    "game over",
     "lorom",
     "mode 3",
-    "mode 7",
     "sa-1",
     "tilemap"
   ],
   "description": "This patch enables Mode 3 for the Nintendo Presents screen, which means it allows you to put a 256 color picture as your Nintendo Presents screen.<br>\r\n<br>\r\nPlease read the enclosed README thoroughly to understand how to use this.",
-  "latest_version": "smwc-21362-1582986841",
+  "latest_version": "v1.2.2",
   "install_kind": "asar_patch",
   "versions": [
-    {
-      "upstream_id": 21362,
-      "title": "Mode 7 Game Over Screen",
-      "version": "smwc-21362-1582986841",
-      "upstream_time": 1582986841,
-      "download_url": "https://dl.smwcentral.net/21362/M7GameOver.zip",
-      "filename": "M7GameOver.zip",
-      "size": 3892,
-      "sha256": null,
-      "dependencies": [
-        "asar"
-      ],
-      "install_kind": "asar_patch"
-    },
     {
       "upstream_id": 41841,
       "title": "Mode 3/8bpp Nintendo Presents Screen",
