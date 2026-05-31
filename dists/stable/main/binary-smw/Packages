@@ -790,18 +790,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip
 Description: J.J. Squawkers - Pistachio Villa (Boss, Day)
 
-Package: smwgraphics-kid-dracula-nes-witch
-Version: smwc-41848-1773015806
-Section: smwgraphics
-Architecture: smw
-Maintainer: Anorakun
-Filename: pool/smwgraphics/41848/Kid Dracula (NES) - Witch (+ Modified Mega Mole asm).zip
-Size: 7198
-X-SMWC-ID: 41848
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/41848/Kid%20Dracula%20%28NES%29%20-%20Witch%20%28%2B%20Modified%20Mega%20Mole%20asm%29.zip
-Description: Kid Dracula (NES) - Witch
-
 Package: smwgraphics-leap-day-forest
 Version: smwc-41870-1773106690
 Section: smwgraphics
@@ -945,6 +933,18 @@ X-SMWC-ID: 42231
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42231/Pokey%20Heading%2BNeedlenose.zip
 Description: Pokey Heading + Needlenose
+
+Package: smwgraphics-puggsy-genesis-darkskull-castle
+Version: smwc-42410-1779658109
+Section: smwgraphics
+Architecture: smw
+Maintainer: playagmes169
+Filename: pool/smwgraphics/42410/darkskullcastlegenesisbg.zip
+Size: 6178
+X-SMWC-ID: 42410
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42410/darkskullcastlegenesisbg.zip
+Description: Puggsy (Genesis) - Darkskull Castle
 
 Package: smwgraphics-redrawn-styled-baron-von-zeppelin-needlenose
 Version: smwc-42214-1776880737
@@ -1178,7 +1178,7 @@ Package: smwgraphics-super-mario-world-styled-western-badlands
 Version: smwc-42377-1779061200
 Section: smwgraphics
 Architecture: smw
-Maintainer: Blizzard Buffalo, edgar
+Maintainer: Ganbare-Lucifer, edgar
 Filename: pool/smwgraphics/42377/SMW Styled Western-Badlands.zip
 Size: 9790
 X-SMWC-ID: 42377
@@ -1199,15 +1199,15 @@ X-SMWAPT-URL: https://dl.smwcentral.net/41352/Super%20Ninja%20Boy%20-%20Rainfore
 Description: Super Ninja Boy - Rainforest
 
 Package: smwgraphics-the-pigeon
-Version: smwc-42084-1779569309
+Version: 1.1
 Section: smwgraphics
 Architecture: smw
 Maintainer: RunninPigeon
-Filename: pool/smwgraphics/42084/The Pigeon.zip
-Size: 26838
-X-SMWC-ID: 42084
+Filename: pool/smwgraphics/42413/The Pigeon.zip
+Size: 26832
+X-SMWC-ID: 42413
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42084/The%20Pigeon.zip
+X-SMWAPT-URL: https://dl.smwcentral.net/42413/The%20Pigeon.zip
 Description: The Pigeon
 
 Package: smwgraphics-the-wizard-of-oz-snes-forest
@@ -1234,18 +1234,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42014/Aurora%20Borealis%20Catastrophe.zip
 Description: Aurora Borealis Catastrophe
 
-Package: smwmusic-azure-shopping-channel
-Version: smwc-42000-1777515099
-Section: smwmusic
-Architecture: smw
-Maintainer: HaruMKT
-Filename: pool/smwmusic/42000/mario is missing in the mall please call his parents.zip
-Size: 67786
-X-SMWC-ID: 42000
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42000/mario%20is%20missing%20in%20the%20mall%20please%20call%20his%20parents.zip
-Description: Azure Shopping Channel
-
 Package: smwmusic-back-to-saturn-x-episode
 Version: smwc-41308-1778515321
 Section: smwmusic
@@ -1257,18 +1245,6 @@ X-SMWC-ID: 41308
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41308/BTSX_E1%20-%20Womp.zip
 Description: Back to Saturn X Episode 1: Get Out Of My Stations - Womp
-
-Package: smwmusic-clock-rock
-Version: smwc-41984-1777514814
-Section: smwmusic
-Architecture: smw
-Maintainer: Segment1Zone2
-Filename: pool/smwmusic/41984/Clock Rock.zip
-Size: 58612
-X-SMWC-ID: 41984
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41984/Clock%20Rock.zip
-Description: Clock Rock
 
 Package: smwmusic-final-fantasy-mystic-quest-last-castle
 Version: smwc-41719-1779488686
@@ -1282,18 +1258,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41719/Last%20Castle.zip
 Description: Final Fantasy: Mystic Quest - Last Castle
 
-Package: smwmusic-final-fight
-Version: smwc-42194-1777573616
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42194/Final Fight 3 - Pints and Punks.zip
-Size: 57491
-X-SMWC-ID: 42194
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42194/Final%20Fight%203%20-%20Pints%20and%20Punks.zip
-Description: Final Fight 3 - Pints and Punks
-
 Package: smwmusic-galaxy-force-ii-arcade-alone-fighter
 Version: smwc-42035-1778446018
 Section: smwmusic
@@ -1306,17 +1270,29 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42035/Galaxy%20Force%20II%20%28Arcade%29%20-%20Alone%20Fighter%20%5BU%5D.zip
 Description: Galaxy Force II (Arcade) - Alone Fighter
 
-Package: smwmusic-get-the-clocks
-Version: smwc-41983-1777514680
+Package: smwmusic-hyperzone-hyper-zone
+Version: smwc-42058-1780151272
 Section: smwmusic
 Architecture: smw
-Maintainer: Segment1Zone2
-Filename: pool/smwmusic/41983/Get The Clocks%21%21.zip
-Size: 72855
-X-SMWC-ID: 41983
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42058/HyperZone - Hyper Zone.zip
+Size: 47406
+X-SMWC-ID: 42058
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41983/Get%20The%20Clocks%21%21.zip
-Description: Get The Clocks!!
+X-SMWAPT-URL: https://dl.smwcentral.net/42058/HyperZone%20-%20Hyper%20Zone.zip
+Description: HyperZone - Hyper Zone
+
+Package: smwmusic-jb-the-super-bass-opening
+Version: smwc-42059-1780071258
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42059/JB The Super Bass - Opening 2.zip
+Size: 117646
+X-SMWC-ID: 42059
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42059/JB%20The%20Super%20Bass%20-%20Opening%202.zip
+Description: JB The Super Bass - Opening 2
 
 Package: smwmusic-kirby-s-adventure-ice-cream-island-map-kdl3-style
 Version: smwc-41840-1778374664
@@ -1486,6 +1462,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41992/puyopuyo.zip
 Description: Puyo Puyo - Theme
 
+Package: smwmusic-super-mario
+Version: smwc-41986-1779650542
+Section: smwmusic
+Architecture: smw
+Maintainer: Segment1Zone2
+Filename: pool/smwmusic/41986/Super Mario 64 - Course Clear%21 %5BU%5D.zip
+Size: 70682
+X-SMWC-ID: 41986
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41986/Super%20Mario%2064%20-%20Course%20Clear%21%20%5BU%5D.zip
+Description: Super Mario 64 - Course Clear!
+
 Package: smwmusic-the-price-is-right-sax
 Version: smwc-41744-1777997568
 Section: smwmusic
@@ -1569,6 +1557,18 @@ X-SMWC-ID: 41940
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41940/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%203.zip
 Description: True Golf Classics: Wicked 18 (SNES) - Course BGM 3
+
+Package: smwmusic-watermelon-valley
+Version: smwc-42358-1780014215
+Section: smwmusic
+Architecture: smw
+Maintainer: EDIT3333
+Filename: pool/smwmusic/42358/Watermelon_Valley.zip
+Size: 32261
+X-SMWC-ID: 42358
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42358/Watermelon_Valley.zip
+Description: Watermelon Valley
 
 Package: smwmusic-ys-v-lost-kefin-kingdom-of-sand-field-of-gale
 Version: smwc-41816-1778760637
@@ -2302,18 +2302,6 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42068/ChasingSwooper.zip
 Description: Chasing (Explosive) Swooper
 
-Package: smwsprites-chasing-mega-mole
-Version: smwc-41225-1768423052
-Section: smwsprites
-Architecture: smw
-Maintainer: RussianMan
-Filename: pool/smwsprites/41225/Chasing Mega Mole.zip
-Size: 4869
-X-SMWC-ID: 41225
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/41225/Chasing%20Mega%20Mole.zip
-Description: Chasing Mega Mole
-
 Package: smwsprites-clock-thwimp
 Version: smwc-41535-1770255153
 Section: smwsprites
@@ -2613,6 +2601,18 @@ X-SMWC-ID: 41111
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/41111/stretch_shroom.zip
 Description: New Super Mario Bros. - Stretch Shroom
+
+Package: smwsprites-optimized-banzai-bill
+Version: 1.13
+Section: smwsprites
+Architecture: smw
+Maintainer: imamelia
+Filename: pool/smwsprites/42451/Banzai Bill.zip
+Size: 3180
+X-SMWC-ID: 42451
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42451/Banzai%20Bill.zip
+Description: Optimized Banzai Bill
 
 Package: smwsprites-para-spiny-flies-in-an-ellipse-pattern
 Version: V1.0.1
@@ -3443,15 +3443,15 @@ X-SMWAPT-URL: https://dl.smwcentral.net/41035/Circle%20Window%20v1.1.1.zip
 Description: Dynamic Radius Circle Window v1.1.1
 
 Package: uberasm-dynamic-sprites-utility
-Version: 1.0.1
+Version: 1.1.0
 Section: uberasm
 Architecture: smw
 Maintainer: Koopster
-Filename: pool/uberasm/42408/dsu_1.0.1.zip
-Size: 128173
-X-SMWC-ID: 42408
+Filename: pool/uberasm/42433/dsu_1.1.0.zip
+Size: 130643
+X-SMWC-ID: 42433
 X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/42408/dsu_1.0.1.zip
+X-SMWAPT-URL: https://dl.smwcentral.net/42433/dsu_1.1.0.zip
 Description: Dynamic Sprites Utility
 
 Package: uberasm-fade-from-title-screen-to-file-select-menu

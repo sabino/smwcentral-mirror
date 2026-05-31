@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41986,
+  "title": "Super Mario 64 - Course Clear!",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "goal",
+    "keyhole"
+  ],
+  "description": "Course Clear! from Super Mario 64.",
+  "latest_version": "smwc-41986-1779650542",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41986,
+      "title": "Super Mario 64 - Course Clear!",
+      "version": "smwc-41986-1779650542",
+      "upstream_time": 1779650542,
+      "download_url": "https://dl.smwcentral.net/41986/Super%20Mario%2064%20-%20Course%20Clear%21%20%5BU%5D.zip",
+      "filename": "Super Mario 64 - Course Clear%21 %5BU%5D.zip",
+      "size": 70682,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T05:42:37.423790075+00:00",
+  "generated_at": "2026-05-31T05:48:34.914895841+00:00",
   "suite": "stable",
   "component": "main",
   "packages": [
@@ -596,7 +596,7 @@
         "solid",
         "sprite needed"
       ],
-      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
       "latest_version": "smwc-41237-1765159682",
       "install_kind": "gps_block",
       "versions": [
@@ -953,7 +953,7 @@
         "sa-1",
         "uberasm needed"
       ],
-      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
       "latest_version": "smwc-41209-1765844757",
       "install_kind": "gps_block",
       "versions": [
@@ -1305,7 +1305,7 @@
         "shatter",
         "sprite needed"
       ],
-      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
       "latest_version": "smwc-41235-1765916599",
       "install_kind": "gps_block",
       "versions": [
@@ -2209,7 +2209,7 @@
         "night",
         "sky"
       ],
-      "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+      "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
       "latest_version": "smwc-40927-1776545384",
       "install_kind": "asset_only",
       "versions": [
@@ -2314,38 +2314,6 @@
           "download_url": "https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip",
           "filename": "jjsquawkerspistachiovillabossday.zip",
           "size": 7310,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-kid-dracula-nes-witch",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41848,
-      "title": "Kid Dracula (NES) - Witch",
-      "authors": [
-        "Anorakun"
-      ],
-      "tags": [
-        "2bpp",
-        "mega mole",
-        "retro"
-      ],
-      "description": "The cute witch seen in the Kid Dracula game for the NES. Repurposed to be a Mega Mole reskin.<br>\r\n<br>\r\nBy default, it works with palette row 8.<br>\r\n<br>\r\nI also included palette files with the colors seen in the source material and an edited disassembly, which removes the gravity of the Mega Mole sprite, meant to be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=37432\">PIXI.<br>\r\n</a><br>\r\n<span class=\"un-outer\" title=\"imamelia\"><span title=\"imamelia donated $50.00.\" class=\"icon icon-donor\"></span><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=3471\" style=\"color: var(--user-color-1);\" class=\"un\">imamelia</a></span> should be credited if you use the provided modified asm.<br>\r\n<br>\r\nA good fit for retro themed levels. ",
-      "latest_version": "smwc-41848-1773015806",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41848,
-          "title": "Kid Dracula (NES) - Witch",
-          "version": "smwc-41848-1773015806",
-          "upstream_time": 1773015806,
-          "download_url": "https://dl.smwcentral.net/41848/Kid%20Dracula%20%28NES%29%20-%20Witch%20%28%2B%20Modified%20Mega%20Mole%20asm%29.zip",
-          "filename": "Kid Dracula (NES) - Witch (+ Modified Mega Mole asm).zip",
-          "size": 7198,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2732,6 +2700,36 @@
           "download_url": "https://dl.smwcentral.net/42231/Pokey%20Heading%2BNeedlenose.zip",
           "filename": "Pokey Heading+Needlenose.zip",
           "size": 6378,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-puggsy-genesis-darkskull-castle",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42410,
+      "title": "Puggsy (Genesis) - Darkskull Castle",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "castle"
+      ],
+      "description": "The Darkskull Castle BG from Puggsy on the Sega Genesis, I ripped it from Junior stage 3 because I don't know how to disable this game's anti-piracy measures on Gens KMod, which is the emulator I'm using to rip this BG",
+      "latest_version": "smwc-42410-1779658109",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42410,
+          "title": "Puggsy (Genesis) - Darkskull Castle",
+          "version": "smwc-42410-1779658109",
+          "upstream_time": 1779658109,
+          "download_url": "https://dl.smwcentral.net/42410/darkskullcastlegenesisbg.zip",
+          "filename": "darkskullcastlegenesisbg.zip",
+          "size": 6178,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3380,7 +3378,7 @@
       "upstream_id": 42377,
       "title": "Super Mario World Styled Western Badlands",
       "authors": [
-        "Blizzard Buffalo",
+        "Ganbare-Lucifer",
         "edgar"
       ],
       "tags": [
@@ -3441,7 +3439,7 @@
       "name": "smwgraphics-the-pigeon",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42084,
+      "upstream_id": 42413,
       "title": "The Pigeon",
       "authors": [
         "RunninPigeon"
@@ -3451,18 +3449,18 @@
         "patch needed",
         "the pigeon"
       ],
-      "description": "The Pigeon from \"Don't Let the Pigeon Drive the Bus!\" Books by Mo Willems, in the style of SMW.<br>\r\n<br>\r\nContains:<br>\r\nHUD Graphics<br>\r\nBlush Graphics (Vanilla Bowser Fight)<br>\r\nOverworld Mario<br>\r\nLevel Mario<br>\r\nPalette for Luigi, called \"T. DOVE\"<br>\r\n<br>\r\nRequires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 gfx patch</a>.",
-      "latest_version": "smwc-42084-1779569309",
+      "description": "The Pigeon from \"Don't Let the Pigeon Drive the Bus!\" Books by Mo Willems, in the style of SMW.<br>\r\n<br>\r\nContains:<br>\r\nHUD Graphics<br>\r\nBlush Graphics (Vanilla Bowser Fight)<br>\r\nOverworld Mario<br>\r\nLevel Mario<br>\r\nPalette for Luigi, called \"DOVEY\"<br>\r\n<br>\r\nRequires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 gfx patch</a>.",
+      "latest_version": "1.1",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42084,
+          "upstream_id": 42413,
           "title": "The Pigeon",
-          "version": "smwc-42084-1779569309",
-          "upstream_time": 1779569309,
-          "download_url": "https://dl.smwcentral.net/42084/The%20Pigeon.zip",
+          "version": "1.1",
+          "upstream_time": 1779657869,
+          "download_url": "https://dl.smwcentral.net/42413/The%20Pigeon.zip",
           "filename": "The Pigeon.zip",
-          "size": 26838,
+          "size": 26832,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3541,41 +3539,6 @@
       ]
     },
     {
-      "name": "smwmusic-azure-shopping-channel",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42000,
-      "title": "Azure Shopping Channel",
-      "authors": [
-        "HaruMKT"
-      ],
-      "tags": [
-        "abstract",
-        "carnival",
-        "upbeat",
-        "urban"
-      ],
-      "description": "BUY NOW !! FOR LOW PRICE OF [REDACTED] !!! WAOW SO CRASY !!!!!!<br>\r\n<br>\r\nAn original song based on infomercial and mall music, with an alternate vapourwave-y version. Uses nothing but SMW samples.<br>\r\n<br>\r\nAlternate version insert size: 0x95D, duration: 1:58",
-      "latest_version": "smwc-42000-1777515099",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42000,
-          "title": "Azure Shopping Channel",
-          "version": "smwc-42000-1777515099",
-          "upstream_time": 1777515099,
-          "download_url": "https://dl.smwcentral.net/42000/mario%20is%20missing%20in%20the%20mall%20please%20call%20his%20parents.zip",
-          "filename": "mario is missing in the mall please call his parents.zip",
-          "size": 67786,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
       "name": "smwmusic-back-to-saturn-x-episode",
       "aliases": [],
       "section": "smwmusic",
@@ -3613,43 +3576,6 @@
       ]
     },
     {
-      "name": "smwmusic-clock-rock",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 41984,
-      "title": "Clock Rock",
-      "authors": [
-        "Segment1Zone2"
-      ],
-      "tags": [
-        "dark",
-        "final",
-        "overworld",
-        "title",
-        "upbeat",
-        "urban"
-      ],
-      "description": "The title theme composed for the 72hoQLDC #2 entry: <a href=\"https://cloud.smwcentral.net/s/NZRa3FZHRBE9KQP/download\" rel=\"nofollow\">Epic Clock Collection Level</a>.",
-      "latest_version": "smwc-41984-1777514814",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 41984,
-          "title": "Clock Rock",
-          "version": "smwc-41984-1777514814",
-          "upstream_time": 1777514814,
-          "download_url": "https://dl.smwcentral.net/41984/Clock%20Rock.zip",
-          "filename": "Clock Rock.zip",
-          "size": 58612,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
       "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
       "aliases": [],
       "section": "smwmusic",
@@ -3675,42 +3601,6 @@
           "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
           "filename": "Last Castle.zip",
           "size": 25217,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-final-fight",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42194,
-      "title": "Final Fight 3 - Pints and Punks",
-      "authors": [
-        "Fullcannon"
-      ],
-      "tags": [
-        "chaotic",
-        "final",
-        "tense",
-        "upbeat",
-        "urban"
-      ],
-      "description": "In-doors & bar theme from Final Fight 3.",
-      "latest_version": "smwc-42194-1777573616",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42194,
-          "title": "Final Fight 3 - Pints and Punks",
-          "version": "smwc-42194-1777573616",
-          "upstream_time": 1777573616,
-          "download_url": "https://dl.smwcentral.net/42194/Final%20Fight%203%20-%20Pints%20and%20Punks.zip",
-          "filename": "Final Fight 3 - Pints and Punks.zip",
-          "size": 57491,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3755,35 +3645,67 @@
       ]
     },
     {
-      "name": "smwmusic-get-the-clocks",
+      "name": "smwmusic-hyperzone-hyper-zone",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 41983,
-      "title": "Get The Clocks!!",
+      "upstream_id": 42058,
+      "title": "HyperZone - Hyper Zone",
       "authors": [
-        "Segment1Zone2"
+        "Fullcannon"
       ],
       "tags": [
-        "athletic",
-        "chaotic",
+        "airship",
         "chase",
-        "final",
-        "grassland",
-        "upbeat",
-        "urban"
+        "dark",
+        "night",
+        "space"
       ],
-      "description": "The main level theme composed for the 72hoQLDC #2 entry: <a href=\"https://cloud.smwcentral.net/s/NZRa3FZHRBE9KQP/download\" rel=\"nofollow\">Epic Clock Collection Level</a>.",
-      "latest_version": "smwc-41983-1777514680",
+      "description": "Final area from Hyper Zone as seen in the cover, taking place in the darkest of space.",
+      "latest_version": "smwc-42058-1780151272",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 41983,
-          "title": "Get The Clocks!!",
-          "version": "smwc-41983-1777514680",
-          "upstream_time": 1777514680,
-          "download_url": "https://dl.smwcentral.net/41983/Get%20The%20Clocks%21%21.zip",
-          "filename": "Get The Clocks%21%21.zip",
-          "size": 72855,
+          "upstream_id": 42058,
+          "title": "HyperZone - Hyper Zone",
+          "version": "smwc-42058-1780151272",
+          "upstream_time": 1780151272,
+          "download_url": "https://dl.smwcentral.net/42058/HyperZone%20-%20Hyper%20Zone.zip",
+          "filename": "HyperZone - Hyper Zone.zip",
+          "size": 47406,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-jb-the-super-bass-opening",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42059,
+      "title": "JB The Super Bass - Opening 2",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "cutscene",
+        "sea",
+        "title"
+      ],
+      "description": "In-game music playing at the second half of the licensed introduction scenes in JB The Super Bass. Includes both the original (V1) and a custom looped version (V2) for non-cutscene purposes.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ExitmouseM\"><a href=\"/?p=profile&amp;id=73466\" style=\"color: var(--user-color-3);\" class=\"un\">ExitmouseM</a></span>.",
+      "latest_version": "smwc-42059-1780071258",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42059,
+          "title": "JB The Super Bass - Opening 2",
+          "version": "smwc-42059-1780071258",
+          "upstream_time": 1780071258,
+          "download_url": "https://dl.smwcentral.net/42059/JB%20The%20Super%20Bass%20-%20Opening%202.zip",
+          "filename": "JB The Super Bass - Opening 2.zip",
+          "size": 117646,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4499,6 +4421,39 @@
       ]
     },
     {
+      "name": "smwmusic-super-mario",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41986,
+      "title": "Super Mario 64 - Course Clear!",
+      "authors": [
+        "Segment1Zone2"
+      ],
+      "tags": [
+        "goal",
+        "keyhole"
+      ],
+      "description": "Course Clear! from Super Mario 64.",
+      "latest_version": "smwc-41986-1779650542",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 41986,
+          "title": "Super Mario 64 - Course Clear!",
+          "version": "smwc-41986-1779650542",
+          "upstream_time": 1779650542,
+          "download_url": "https://dl.smwcentral.net/41986/Super%20Mario%2064%20-%20Course%20Clear%21%20%5BU%5D.zip",
+          "filename": "Super Mario 64 - Course Clear%21 %5BU%5D.zip",
+          "size": 70682,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
       "name": "smwmusic-the-price-is-right-sax",
       "aliases": [],
       "section": "smwmusic",
@@ -4827,6 +4782,39 @@
           "download_url": "https://dl.smwcentral.net/41938/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%201.zip",
           "filename": "Wicked 18 (SNES) - Course BGM 1.zip",
           "size": 48335,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-watermelon-valley",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42358,
+      "title": "Watermelon Valley",
+      "authors": [
+        "EDIT3333"
+      ],
+      "tags": [
+        "atheletic",
+        "grass"
+      ],
+      "description": "a cheerful theme for different levels",
+      "latest_version": "smwc-42358-1780014215",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42358,
+          "title": "Watermelon Valley",
+          "version": "smwc-42358-1780014215",
+          "upstream_time": 1780014215,
+          "download_url": "https://dl.smwcentral.net/42358/Watermelon_Valley.zip",
+          "filename": "Watermelon_Valley.zip",
+          "size": 32261,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -7039,43 +7027,6 @@
       ]
     },
     {
-      "name": "smwsprites-chasing-mega-mole",
-      "aliases": [],
-      "section": "smwsprites",
-      "upstream_id": 41225,
-      "title": "Chasing Mega Mole",
-      "authors": [
-        "RussianMan"
-      ],
-      "tags": [
-        "chasing",
-        "enemy",
-        "lorom",
-        "mega mole",
-        "mole",
-        "sa-1"
-      ],
-      "description": "A Mega Mole that chases the player. It'll continue moving in the same direction if stood on.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Klug\"><a href=\"/?p=profile&amp;id=28710\" style=\"color: var(--user-color-1);\" class=\"un\">Klug</a></span> during Summer C3 2023.",
-      "latest_version": "smwc-41225-1768423052",
-      "install_kind": "pixi_sprite",
-      "versions": [
-        {
-          "upstream_id": 41225,
-          "title": "Chasing Mega Mole",
-          "version": "smwc-41225-1768423052",
-          "upstream_time": 1768423052,
-          "download_url": "https://dl.smwcentral.net/41225/Chasing%20Mega%20Mole.zip",
-          "filename": "Chasing Mega Mole.zip",
-          "size": 4869,
-          "sha256": null,
-          "dependencies": [
-            "pixi"
-          ],
-          "install_kind": "pixi_sprite"
-        }
-      ]
-    },
-    {
       "name": "smwsprites-clock-thwimp",
       "aliases": [],
       "section": "smwsprites",
@@ -7972,6 +7923,42 @@
           "download_url": "https://dl.smwcentral.net/41111/stretch_shroom.zip",
           "filename": "stretch_shroom.zip",
           "size": 5348,
+          "sha256": null,
+          "dependencies": [
+            "pixi"
+          ],
+          "install_kind": "pixi_sprite"
+        }
+      ]
+    },
+    {
+      "name": "smwsprites-optimized-banzai-bill",
+      "aliases": [],
+      "section": "smwsprites",
+      "upstream_id": 42451,
+      "title": "Optimized Banzai Bill",
+      "authors": [
+        "imamelia"
+      ],
+      "tags": [
+        "banzai bill",
+        "bullet",
+        "disassembly",
+        "lorom",
+        "sa-1"
+      ],
+      "description": "This is an edited disassembly of sprite 9F in SMW, the Banzai Bill. I also made it able to go either direction if the extra bit is set (the original one doesn't show up at all when the player comes from the other direction).  This sprite draws 16 tiles, so it requires the No Sprite Tile Limits patch; even sprite memory setting 04, which was used with the original Banzai Bill, doesn't seem to work.",
+      "latest_version": "1.13",
+      "install_kind": "pixi_sprite",
+      "versions": [
+        {
+          "upstream_id": 42451,
+          "title": "Optimized Banzai Bill",
+          "version": "1.13",
+          "upstream_time": 1780115761,
+          "download_url": "https://dl.smwcentral.net/42451/Banzai%20Bill.zip",
+          "filename": "Banzai Bill.zip",
+          "size": 3180,
           "sha256": null,
           "dependencies": [
             "pixi"
@@ -10339,7 +10326,7 @@
       "name": "uberasm-dynamic-sprites-utility",
       "aliases": [],
       "section": "uberasm",
-      "upstream_id": 42408,
+      "upstream_id": 42433,
       "title": "Dynamic Sprites Utility",
       "authors": [
         "Koopster"
@@ -10350,17 +10337,17 @@
         "sa-1"
       ],
       "description": "A resource that enables dynamic sprites to be used.<br>\r\n<br>\r\nUnlike the patch, this allows the graphics region used by dynamic sprites to be remapped (instead of always using the bottom half of SP4), bumps the limit of dynamic sprites on screen from four to six and includes a few other features. It's also generally more optimal and, aside from an option to uninstall the old patch, doesn't do any hijacks.<br>\r\n<br>\r\nRefer to the readme (enclosed in the download or <a href=\"https://pk.muncher.se/dsu/readme/\" rel=\"nofollow\">here</a>) for more details and instructions on installing it and using the features!<br>\r\n<br>\r\n<b>NOTE:</b> Dynamic sprites from the section will not be compatible with this: <a href=\"https://smwc.me/t/132305\">the conversions must be used instead</a>.",
-      "latest_version": "1.0.1",
+      "latest_version": "1.1.0",
       "install_kind": "uber_asm",
       "versions": [
         {
-          "upstream_id": 42408,
+          "upstream_id": 42433,
           "title": "Dynamic Sprites Utility",
-          "version": "1.0.1",
-          "upstream_time": 1779515175,
-          "download_url": "https://dl.smwcentral.net/42408/dsu_1.0.1.zip",
-          "filename": "dsu_1.0.1.zip",
-          "size": 128173,
+          "version": "1.1.0",
+          "upstream_time": 1779854809,
+          "download_url": "https://dl.smwcentral.net/42433/dsu_1.1.0.zip",
+          "filename": "dsu_1.1.0.zip",
+          "size": 130643,
           "sha256": null,
           "dependencies": [
             "uberasm-tool"
@@ -11581,7 +11568,7 @@
         "sa-1",
         "tile"
       ],
-      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
       "latest_version": "1.1.1",
       "install_kind": "uber_asm",
       "versions": [

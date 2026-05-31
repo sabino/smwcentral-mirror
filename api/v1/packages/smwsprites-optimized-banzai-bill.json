@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-optimized-banzai-bill",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42451,
+  "title": "Optimized Banzai Bill",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "banzai bill",
+    "bullet",
+    "disassembly",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is an edited disassembly of sprite 9F in SMW, the Banzai Bill. I also made it able to go either direction if the extra bit is set (the original one doesn't show up at all when the player comes from the other direction).  This sprite draws 16 tiles, so it requires the No Sprite Tile Limits patch; even sprite memory setting 04, which was used with the original Banzai Bill, doesn't seem to work.",
+  "latest_version": "1.13",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42451,
+      "title": "Optimized Banzai Bill",
+      "version": "1.13",
+      "upstream_time": 1780115761,
+      "download_url": "https://dl.smwcentral.net/42451/Banzai%20Bill.zip",
+      "filename": "Banzai Bill.zip",
+      "size": 3180,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -41,41 +41,6 @@
     ]
   },
   {
-    "name": "smwmusic-azure-shopping-channel",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42000,
-    "title": "Azure Shopping Channel",
-    "authors": [
-      "HaruMKT"
-    ],
-    "tags": [
-      "abstract",
-      "carnival",
-      "upbeat",
-      "urban"
-    ],
-    "description": "BUY NOW !! FOR LOW PRICE OF [REDACTED] !!! WAOW SO CRASY !!!!!!<br>\r\n<br>\r\nAn original song based on infomercial and mall music, with an alternate vapourwave-y version. Uses nothing but SMW samples.<br>\r\n<br>\r\nAlternate version insert size: 0x95D, duration: 1:58",
-    "latest_version": "smwc-42000-1777515099",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42000,
-        "title": "Azure Shopping Channel",
-        "version": "smwc-42000-1777515099",
-        "upstream_time": 1777515099,
-        "download_url": "https://dl.smwcentral.net/42000/mario%20is%20missing%20in%20the%20mall%20please%20call%20his%20parents.zip",
-        "filename": "mario is missing in the mall please call his parents.zip",
-        "size": 67786,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-back-to-saturn-x-episode",
     "aliases": [],
     "section": "smwmusic",
@@ -113,43 +78,6 @@
     ]
   },
   {
-    "name": "smwmusic-clock-rock",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41984,
-    "title": "Clock Rock",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "dark",
-      "final",
-      "overworld",
-      "title",
-      "upbeat",
-      "urban"
-    ],
-    "description": "The title theme composed for the 72hoQLDC #2 entry: <a href=\"https://cloud.smwcentral.net/s/NZRa3FZHRBE9KQP/download\" rel=\"nofollow\">Epic Clock Collection Level</a>.",
-    "latest_version": "smwc-41984-1777514814",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41984,
-        "title": "Clock Rock",
-        "version": "smwc-41984-1777514814",
-        "upstream_time": 1777514814,
-        "download_url": "https://dl.smwcentral.net/41984/Clock%20Rock.zip",
-        "filename": "Clock Rock.zip",
-        "size": 58612,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
     "aliases": [],
     "section": "smwmusic",
@@ -175,42 +103,6 @@
         "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
         "filename": "Last Castle.zip",
         "size": 25217,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-final-fight",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42194,
-    "title": "Final Fight 3 - Pints and Punks",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "chaotic",
-      "final",
-      "tense",
-      "upbeat",
-      "urban"
-    ],
-    "description": "In-doors & bar theme from Final Fight 3.",
-    "latest_version": "smwc-42194-1777573616",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42194,
-        "title": "Final Fight 3 - Pints and Punks",
-        "version": "smwc-42194-1777573616",
-        "upstream_time": 1777573616,
-        "download_url": "https://dl.smwcentral.net/42194/Final%20Fight%203%20-%20Pints%20and%20Punks.zip",
-        "filename": "Final Fight 3 - Pints and Punks.zip",
-        "size": 57491,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -255,35 +147,67 @@
     ]
   },
   {
-    "name": "smwmusic-get-the-clocks",
+    "name": "smwmusic-hyperzone-hyper-zone",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41983,
-    "title": "Get The Clocks!!",
+    "upstream_id": 42058,
+    "title": "HyperZone - Hyper Zone",
     "authors": [
-      "Segment1Zone2"
+      "Fullcannon"
     ],
     "tags": [
-      "athletic",
-      "chaotic",
+      "airship",
       "chase",
-      "final",
-      "grassland",
-      "upbeat",
-      "urban"
+      "dark",
+      "night",
+      "space"
     ],
-    "description": "The main level theme composed for the 72hoQLDC #2 entry: <a href=\"https://cloud.smwcentral.net/s/NZRa3FZHRBE9KQP/download\" rel=\"nofollow\">Epic Clock Collection Level</a>.",
-    "latest_version": "smwc-41983-1777514680",
+    "description": "Final area from Hyper Zone as seen in the cover, taking place in the darkest of space.",
+    "latest_version": "smwc-42058-1780151272",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41983,
-        "title": "Get The Clocks!!",
-        "version": "smwc-41983-1777514680",
-        "upstream_time": 1777514680,
-        "download_url": "https://dl.smwcentral.net/41983/Get%20The%20Clocks%21%21.zip",
-        "filename": "Get The Clocks%21%21.zip",
-        "size": 72855,
+        "upstream_id": 42058,
+        "title": "HyperZone - Hyper Zone",
+        "version": "smwc-42058-1780151272",
+        "upstream_time": 1780151272,
+        "download_url": "https://dl.smwcentral.net/42058/HyperZone%20-%20Hyper%20Zone.zip",
+        "filename": "HyperZone - Hyper Zone.zip",
+        "size": 47406,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-jb-the-super-bass-opening",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42059,
+    "title": "JB The Super Bass - Opening 2",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "cutscene",
+      "sea",
+      "title"
+    ],
+    "description": "In-game music playing at the second half of the licensed introduction scenes in JB The Super Bass. Includes both the original (V1) and a custom looped version (V2) for non-cutscene purposes.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ExitmouseM\"><a href=\"/?p=profile&amp;id=73466\" style=\"color: var(--user-color-3);\" class=\"un\">ExitmouseM</a></span>.",
+    "latest_version": "smwc-42059-1780071258",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42059,
+        "title": "JB The Super Bass - Opening 2",
+        "version": "smwc-42059-1780071258",
+        "upstream_time": 1780071258,
+        "download_url": "https://dl.smwcentral.net/42059/JB%20The%20Super%20Bass%20-%20Opening%202.zip",
+        "filename": "JB The Super Bass - Opening 2.zip",
+        "size": 117646,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -999,6 +923,39 @@
     ]
   },
   {
+    "name": "smwmusic-super-mario",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41986,
+    "title": "Super Mario 64 - Course Clear!",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "goal",
+      "keyhole"
+    ],
+    "description": "Course Clear! from Super Mario 64.",
+    "latest_version": "smwc-41986-1779650542",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41986,
+        "title": "Super Mario 64 - Course Clear!",
+        "version": "smwc-41986-1779650542",
+        "upstream_time": 1779650542,
+        "download_url": "https://dl.smwcentral.net/41986/Super%20Mario%2064%20-%20Course%20Clear%21%20%5BU%5D.zip",
+        "filename": "Super Mario 64 - Course Clear%21 %5BU%5D.zip",
+        "size": 70682,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-the-price-is-right-sax",
     "aliases": [],
     "section": "smwmusic",
@@ -1327,6 +1284,39 @@
         "download_url": "https://dl.smwcentral.net/41938/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%201.zip",
         "filename": "Wicked 18 (SNES) - Course BGM 1.zip",
         "size": 48335,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-watermelon-valley",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42358,
+    "title": "Watermelon Valley",
+    "authors": [
+      "EDIT3333"
+    ],
+    "tags": [
+      "atheletic",
+      "grass"
+    ],
+    "description": "a cheerful theme for different levels",
+    "latest_version": "smwc-42358-1780014215",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42358,
+        "title": "Watermelon Valley",
+        "version": "smwc-42358-1780014215",
+        "upstream_time": 1780014215,
+        "download_url": "https://dl.smwcentral.net/42358/Watermelon_Valley.zip",
+        "filename": "Watermelon_Valley.zip",
+        "size": 32261,
         "sha256": null,
         "dependencies": [
           "addmusick"

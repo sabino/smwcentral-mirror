@@ -203,7 +203,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #64f983;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -308,38 +308,6 @@
         "download_url": "https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip",
         "filename": "jjsquawkerspistachiovillabossday.zip",
         "size": 7310,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-kid-dracula-nes-witch",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41848,
-    "title": "Kid Dracula (NES) - Witch",
-    "authors": [
-      "Anorakun"
-    ],
-    "tags": [
-      "2bpp",
-      "mega mole",
-      "retro"
-    ],
-    "description": "The cute witch seen in the Kid Dracula game for the NES. Repurposed to be a Mega Mole reskin.<br>\r\n<br>\r\nBy default, it works with palette row 8.<br>\r\n<br>\r\nI also included palette files with the colors seen in the source material and an edited disassembly, which removes the gravity of the Mega Mole sprite, meant to be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=37432\">PIXI.<br>\r\n</a><br>\r\n<span class=\"un-outer\" title=\"imamelia\"><span title=\"imamelia donated $50.00.\" class=\"icon icon-donor\"></span><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=3471\" style=\"color: var(--user-color-1);\" class=\"un\">imamelia</a></span> should be credited if you use the provided modified asm.<br>\r\n<br>\r\nA good fit for retro themed levels. ",
-    "latest_version": "smwc-41848-1773015806",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41848,
-        "title": "Kid Dracula (NES) - Witch",
-        "version": "smwc-41848-1773015806",
-        "upstream_time": 1773015806,
-        "download_url": "https://dl.smwcentral.net/41848/Kid%20Dracula%20%28NES%29%20-%20Witch%20%28%2B%20Modified%20Mega%20Mole%20asm%29.zip",
-        "filename": "Kid Dracula (NES) - Witch (+ Modified Mega Mole asm).zip",
-        "size": 7198,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -726,6 +694,36 @@
         "download_url": "https://dl.smwcentral.net/42231/Pokey%20Heading%2BNeedlenose.zip",
         "filename": "Pokey Heading+Needlenose.zip",
         "size": 6378,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-puggsy-genesis-darkskull-castle",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42410,
+    "title": "Puggsy (Genesis) - Darkskull Castle",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "castle"
+    ],
+    "description": "The Darkskull Castle BG from Puggsy on the Sega Genesis, I ripped it from Junior stage 3 because I don't know how to disable this game's anti-piracy measures on Gens KMod, which is the emulator I'm using to rip this BG",
+    "latest_version": "smwc-42410-1779658109",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42410,
+        "title": "Puggsy (Genesis) - Darkskull Castle",
+        "version": "smwc-42410-1779658109",
+        "upstream_time": 1779658109,
+        "download_url": "https://dl.smwcentral.net/42410/darkskullcastlegenesisbg.zip",
+        "filename": "darkskullcastlegenesisbg.zip",
+        "size": 6178,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1374,7 +1372,7 @@
     "upstream_id": 42377,
     "title": "Super Mario World Styled Western Badlands",
     "authors": [
-      "Blizzard Buffalo",
+      "Ganbare-Lucifer",
       "edgar"
     ],
     "tags": [
@@ -1435,7 +1433,7 @@
     "name": "smwgraphics-the-pigeon",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42084,
+    "upstream_id": 42413,
     "title": "The Pigeon",
     "authors": [
       "RunninPigeon"
@@ -1445,18 +1443,18 @@
       "patch needed",
       "the pigeon"
     ],
-    "description": "The Pigeon from \"Don't Let the Pigeon Drive the Bus!\" Books by Mo Willems, in the style of SMW.<br>\r\n<br>\r\nContains:<br>\r\nHUD Graphics<br>\r\nBlush Graphics (Vanilla Bowser Fight)<br>\r\nOverworld Mario<br>\r\nLevel Mario<br>\r\nPalette for Luigi, called \"T. DOVE\"<br>\r\n<br>\r\nRequires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 gfx patch</a>.",
-    "latest_version": "smwc-42084-1779569309",
+    "description": "The Pigeon from \"Don't Let the Pigeon Drive the Bus!\" Books by Mo Willems, in the style of SMW.<br>\r\n<br>\r\nContains:<br>\r\nHUD Graphics<br>\r\nBlush Graphics (Vanilla Bowser Fight)<br>\r\nOverworld Mario<br>\r\nLevel Mario<br>\r\nPalette for Luigi, called \"DOVEY\"<br>\r\n<br>\r\nRequires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 gfx patch</a>.",
+    "latest_version": "1.1",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42084,
+        "upstream_id": 42413,
         "title": "The Pigeon",
-        "version": "smwc-42084-1779569309",
-        "upstream_time": 1779569309,
-        "download_url": "https://dl.smwcentral.net/42084/The%20Pigeon.zip",
+        "version": "1.1",
+        "upstream_time": 1779657869,
+        "download_url": "https://dl.smwcentral.net/42413/The%20Pigeon.zip",
         "filename": "The Pigeon.zip",
-        "size": 26838,
+        "size": 26832,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

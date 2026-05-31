@@ -365,43 +365,6 @@
     ]
   },
   {
-    "name": "smwsprites-chasing-mega-mole",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41225,
-    "title": "Chasing Mega Mole",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "chasing",
-      "enemy",
-      "lorom",
-      "mega mole",
-      "mole",
-      "sa-1"
-    ],
-    "description": "A Mega Mole that chases the player. It'll continue moving in the same direction if stood on.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Klug\"><a href=\"/?p=profile&amp;id=28710\" style=\"color: var(--user-color-1);\" class=\"un\">Klug</a></span> during Summer C3 2023.",
-    "latest_version": "smwc-41225-1768423052",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41225,
-        "title": "Chasing Mega Mole",
-        "version": "smwc-41225-1768423052",
-        "upstream_time": 1768423052,
-        "download_url": "https://dl.smwcentral.net/41225/Chasing%20Mega%20Mole.zip",
-        "filename": "Chasing Mega Mole.zip",
-        "size": 4869,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-clock-thwimp",
     "aliases": [],
     "section": "smwsprites",
@@ -1298,6 +1261,42 @@
         "download_url": "https://dl.smwcentral.net/41111/stretch_shroom.zip",
         "filename": "stretch_shroom.zip",
         "size": 5348,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-optimized-banzai-bill",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42451,
+    "title": "Optimized Banzai Bill",
+    "authors": [
+      "imamelia"
+    ],
+    "tags": [
+      "banzai bill",
+      "bullet",
+      "disassembly",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This is an edited disassembly of sprite 9F in SMW, the Banzai Bill. I also made it able to go either direction if the extra bit is set (the original one doesn't show up at all when the player comes from the other direction).  This sprite draws 16 tiles, so it requires the No Sprite Tile Limits patch; even sprite memory setting 04, which was used with the original Banzai Bill, doesn't seem to work.",
+    "latest_version": "1.13",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42451,
+        "title": "Optimized Banzai Bill",
+        "version": "1.13",
+        "upstream_time": 1780115761,
+        "download_url": "https://dl.smwcentral.net/42451/Banzai%20Bill.zip",
+        "filename": "Banzai Bill.zip",
+        "size": 3180,
         "sha256": null,
         "dependencies": [
           "pixi"

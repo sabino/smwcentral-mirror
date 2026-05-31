@@ -2,7 +2,7 @@
   "name": "uberasm-dynamic-sprites-utility",
   "aliases": [],
   "section": "uberasm",
-  "upstream_id": 42408,
+  "upstream_id": 42433,
   "title": "Dynamic Sprites Utility",
   "authors": [
     "Koopster"
@@ -13,17 +13,17 @@
     "sa-1"
   ],
   "description": "A resource that enables dynamic sprites to be used.<br>\r\n<br>\r\nUnlike the patch, this allows the graphics region used by dynamic sprites to be remapped (instead of always using the bottom half of SP4), bumps the limit of dynamic sprites on screen from four to six and includes a few other features. It's also generally more optimal and, aside from an option to uninstall the old patch, doesn't do any hijacks.<br>\r\n<br>\r\nRefer to the readme (enclosed in the download or <a href=\"https://pk.muncher.se/dsu/readme/\" rel=\"nofollow\">here</a>) for more details and instructions on installing it and using the features!<br>\r\n<br>\r\n<b>NOTE:</b> Dynamic sprites from the section will not be compatible with this: <a href=\"https://smwc.me/t/132305\">the conversions must be used instead</a>.",
-  "latest_version": "1.0.1",
+  "latest_version": "1.1.0",
   "install_kind": "uber_asm",
   "versions": [
     {
-      "upstream_id": 42408,
+      "upstream_id": 42433,
       "title": "Dynamic Sprites Utility",
-      "version": "1.0.1",
-      "upstream_time": 1779515175,
-      "download_url": "https://dl.smwcentral.net/42408/dsu_1.0.1.zip",
-      "filename": "dsu_1.0.1.zip",
-      "size": 128173,
+      "version": "1.1.0",
+      "upstream_time": 1779854809,
+      "download_url": "https://dl.smwcentral.net/42433/dsu_1.1.0.zip",
+      "filename": "dsu_1.1.0.zip",
+      "size": 130643,
       "sha256": null,
       "dependencies": [
         "uberasm-tool"
