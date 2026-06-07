@@ -203,7 +203,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -284,6 +284,37 @@
     ]
   },
   {
+    "name": "smwgraphics-fantasy-zone-gear-stage",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42455,
+    "title": "Fantasy Zone Gear - Stage 1: Woods",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "forest",
+      "grassland"
+    ],
+    "description": "The Stage 1 BG from Fantasy Zone Gear on the Game Gear of all things, which is genuinely impressive to me because of how colorful this BG is, I must say that the Game Gear was ahead of its time despite eating up so many batteries so fast if I heard correctly!<br>\r\nWell, this background is much busier and complex than I actually thought it would be despite it occupying only 1 BG GFX slot, so, as lazy as I am, I decided to leave the Map16 as messy as you can see here.",
+    "latest_version": "smwc-42455-1780247865",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42455,
+        "title": "Fantasy Zone Gear - Stage 1: Woods",
+        "version": "smwc-42455-1780247865",
+        "upstream_time": 1780247865,
+        "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
+        "filename": "fantasyzonegearwoods.zip",
+        "size": 5927,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-j-j-squawkers-pistachio-villa-boss-day",
     "aliases": [],
     "section": "smwgraphics",
@@ -308,68 +339,6 @@
         "download_url": "https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip",
         "filename": "jjsquawkerspistachiovillabossday.zip",
         "size": 7310,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-leap-day-forest",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41870,
-    "title": "Leap Day - Forest",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "wood"
-    ],
-    "description": "The forest tileset from Leap Day, a Nitrome mobile game. The tilesets in this game are incredibly crusty, so I manually reduce the amount of colors in them.",
-    "latest_version": "smwc-41870-1773106690",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41870,
-        "title": "Leap Day - Forest",
-        "version": "smwc-41870-1773106690",
-        "upstream_time": 1773106690,
-        "download_url": "https://dl.smwcentral.net/41870/leapdayforest.zip",
-        "filename": "leapdayforest.zip",
-        "size": 4428,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-leap-day-forest-expanded",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41878,
-    "title": "Leap Day - Forest (Expanded)",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "wood"
-    ],
-    "description": "The forest tileset from Leap Day, now with more stuff I added myself, it's not the most stylistically accurate expansion and I think I took too many creative liberties. On a more important note, I had to split this tileset into 2 files to set in FG3 and BG3 each because I put a lot of new stuff there",
-    "latest_version": "smwc-41878-1773106837",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41878,
-        "title": "Leap Day - Forest (Expanded)",
-        "version": "smwc-41878-1773106837",
-        "upstream_time": 1773106837,
-        "download_url": "https://dl.smwcentral.net/41878/leapdayforestexpanded.zip",
-        "filename": "leapdayforestexpanded.zip",
-        "size": 7995,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -470,37 +439,6 @@
     ]
   },
   {
-    "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-brown-bricks",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41578,
-    "title": "Moorhuhn: Jewel of Darkness (DS) - Brown Bricks",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "ruins",
-      "texture"
-    ],
-    "description": "Some brown brick background from Moorhuhn: Jewel of Darkness for the Nintendo DS.",
-    "latest_version": "smwc-41578-1773337141",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41578,
-        "title": "Moorhuhn: Jewel of Darkness (DS) - Brown Bricks",
-        "version": "smwc-41578-1773337141",
-        "upstream_time": 1773337141,
-        "download_url": "https://dl.smwcentral.net/41578/Moorhuhn%20Jewel%20Of%20Darkness%20DS%20-%20Brown%20Bricks.zip",
-        "filename": "Moorhuhn Jewel Of Darkness DS - Brown Bricks.zip",
-        "size": 5123,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt",
     "aliases": [],
     "section": "smwgraphics",
@@ -556,18 +494,6 @@
         "download_url": "https://dl.smwcentral.net/41947/Mr.%20Tuff%20-%20Temple%20-%20FG.zip",
         "filename": "Mr. Tuff - Temple - FG.zip",
         "size": 11168,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      },
-      {
-        "upstream_id": 41897,
-        "title": "Mr. Tuff - Temple",
-        "version": "smwc-41897-1773339813",
-        "upstream_time": 1773339813,
-        "download_url": "https://dl.smwcentral.net/41897/Mr.%20Tuff%20-%20Temple.zip",
-        "filename": "Mr. Tuff - Temple.zip",
-        "size": 8052,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1108,39 +1034,6 @@
     ]
   },
   {
-    "name": "smwgraphics-soul-blazer-dr-leo-s-laboratory-first-and-second-floors",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41856,
-    "title": "Soul Blazer - Dr. Leo's Laboratory (First and Second Floors)",
-    "authors": [
-      "Anorakun"
-    ],
-    "tags": [
-      "2bpp",
-      "industrial",
-      "mechanical",
-      "patch needed"
-    ],
-    "description": "The mechanical components seen through cracks and holes of the first and second floors of Dr. Leo's Laboratory, from the Quintet's cult classic game: Soul Blazer. While this graphic was meant for a top down view perspective, it works fine in a 2D platformer perspective.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">You'll need to disable the status bar if you wanna use this full layer 3 background</a>. A good fit for mechanical or industrial levels.",
-    "latest_version": "smwc-41856-1773438396",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41856,
-        "title": "Soul Blazer - Dr. Leo's Laboratory (First and Second Floors)",
-        "version": "smwc-41856-1773438396",
-        "upstream_time": 1773438396,
-        "download_url": "https://dl.smwcentral.net/41856/Soul%20Blazer%20-%20Leo%27s%20Laboratory%20%28First%20%26%20Second%20Floors%29.zip",
-        "filename": "Soul Blazer - Leo%27s Laboratory (First %26 Second Floors).zip",
-        "size": 2093,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-soul-blazer-main-map-magridd-castle-area",
     "aliases": [],
     "section": "smwgraphics",
@@ -1172,38 +1065,6 @@
     ]
   },
   {
-    "name": "smwgraphics-soul-blazer-world-of-evil-dazzling-space",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41855,
-    "title": "Soul Blazer -  World of Evil (Dazzling Space)",
-    "authors": [
-      "Anorakun"
-    ],
-    "tags": [
-      "abstract",
-      "flesh",
-      "haunted"
-    ],
-    "description": "The Dazzling Space section of World of Evil, from the Quintet's cult classic game: Soul Blazer. <br>\r\n<br>\r\nIn the original game, there's a wavy effect with it, but I don't think it's necessary to make this background to work.<br>\r\n<br>\r\nThe sample level includes the ideal autoscrolling speed and how it's meant to be used. A good fit for horror themed areas. ",
-    "latest_version": "smwc-41855-1773437939",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41855,
-        "title": "Soul Blazer -  World of Evil (Dazzling Space)",
-        "version": "smwc-41855-1773437939",
-        "upstream_time": 1773437939,
-        "download_url": "https://dl.smwcentral.net/41855/Soul%20Blazer%20-%20World%20of%20Evil%20%28Dazzling%20Space%29.zip",
-        "filename": "Soul Blazer - World of Evil (Dazzling Space).zip",
-        "size": 3869,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-super-double-dragon-airport-runway",
     "aliases": [],
     "section": "smwgraphics",
@@ -1227,6 +1088,37 @@
         "download_url": "https://dl.smwcentral.net/41993/Airport%20Runway.zip",
         "filename": "Airport Runway.zip",
         "size": 3421,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-e-d-f-earth-defense-force-stage",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42467,
+    "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
+    "authors": [
+      "Daizo Dee Von"
+    ],
+    "tags": [
+      "city",
+      "night"
+    ],
+    "description": "A city backdrop from the game Super E.D.F: Earth Defense Force for the SNES. It's been condensed to fit a 512 pixel wide background.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>. Credit would be appreciated, thank you.",
+    "latest_version": "smwc-42467-1780341780",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42467,
+        "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
+        "version": "smwc-42467-1780341780",
+        "upstream_time": 1780341780,
+        "download_url": "https://dl.smwcentral.net/42467/%5BGraphics%5D%5BBG%5D%20Super%20E.D.F%20-%20Midnight%20Interceptor%20%28SNES%29.zip",
+        "filename": "%5BGraphics%5D%5BBG%5D Super E.D.F - Midnight Interceptor (SNES).zip",
+        "size": 8562,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1272,6 +1164,38 @@
         "download_url": "https://dl.smwcentral.net/42290/sfzstage5.zip",
         "filename": "sfzstage5.zip",
         "size": 5750,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-advance-4-super-mario-bros-3-world-e-minigame",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42478,
+    "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
+    "authors": [
+      "TheOrangeToad"
+    ],
+    "tags": [
+      "2bpp",
+      "bonus",
+      "patch needed"
+    ],
+    "description": "A background used in one of the World-E minigames from Super Mario Advance 4: Super Mario Bros. 3 but now converted into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+    "latest_version": "smwc-42478-1780430231",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42478,
+        "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
+        "version": "smwc-42478-1780430231",
+        "upstream_time": 1780430231,
+        "download_url": "https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip",
+        "filename": "(Layer 3) SMA4 SMB3 - World-e Minigame 2.zip",
+        "size": 1773,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1329,6 +1253,81 @@
         "download_url": "https://dl.smwcentral.net/41926/SMB3%20Clouds.zip",
         "filename": "SMB3 Clouds.zip",
         "size": 2459,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42468,
+    "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "forest",
+      "grassland",
+      "jungle"
+    ],
+    "description": "The cobbly jungle FG from Yoshi's Island's early builds, I don't remember which build this was from, but I decided to pick it up because I think it looked cool, I added a lot of things here because the original tileset was basically unfinished, unlike the leafy grassland one that looked sort of finished.<br>\r\n<br>\r\nNOTICE: this tileset will use palette slots 3, 4 and 5 for the trees'/bushes' colors, plus the berry tile is already in the game's FG2 files",
+    "latest_version": "smwc-42468-1780361043",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42468,
+        "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
+        "version": "smwc-42468-1780361043",
+        "upstream_time": 1780361043,
+        "download_url": "https://dl.smwcentral.net/42468/yi-betacobblejungle.zip",
+        "filename": "yi-betacobblejungle.zip",
+        "size": 8965,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 42457,
+        "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Leafy Grassland",
+        "version": "smwc-42457-1780272090",
+        "upstream_time": 1780272090,
+        "download_url": "https://dl.smwcentral.net/42457/yi-betaleafgrassland.zip",
+        "filename": "yi-betaleafgrassland.zip",
+        "size": 9369,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42347,
+    "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
+    "authors": [
+      "Kaching720"
+    ],
+    "tags": [
+      "luigi",
+      "male"
+    ],
+    "description": "This started out as an opposite to QuadFactor's SMA2 Mario, to \"de-advance-ify\" SMA2 Luigi, but I decided to shift the scope to create a Luigi that feels like he came out of base game back in the 1990s. Mainly based off of the 1989 beta and SMA2 Luigi but takes some notes from SMAS/SMM2 and SMB3 Luigi.<br>\r\n<br>\r\n<br>\r\n<br>\r\nIncludes:<br>\r\n<br>\r\n- GFX32 and PlayerGFX for 32x32 compat (with SMAS poses)<br>\r\n<br>\r\n- Same as above with but without vanilla inaccuracies<br>\r\n<br>\r\n- GFX00 (and a corrected version), 10 (one for the 32x32 patch too), 22, and 24 <br>\r\n<br>\r\n- GFX 28 to swap nametags<br>\r\n<br>\r\n- SMW palette (vanilla), SMA2 palette (blue overalls), and SMM2 palette (Mario's skin tone) for Luigi as Player 1<br>\r\n<br>\r\n- OW palettes for adjusted Yoshi colors and Luigi as Player 1 (has both blue and purple overalls)<br>\r\n<br>\r\n<br>\r\nI recommend you use them with patches that fix tile errors in the vanilla game (specifically the first cape flight frame and small victory pose while riding Yoshi)<br>\r\n<br>\r\nThe GFX32 files have a small p-speed jump frame in an unused tile.<br>\r\n<br>\r\nFeel free to edit if you want to mix and match the jank and corrected sprites or if you need compat with custom items/outfits",
+    "latest_version": "smwc-42347-1780431698",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42347,
+        "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
+        "version": "smwc-42347-1780431698",
+        "upstream_time": 1780431698,
+        "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
+        "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
+        "size": 127549,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

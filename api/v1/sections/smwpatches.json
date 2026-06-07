@@ -967,40 +967,6 @@
     ]
   },
   {
-    "name": "smwpatches-music-mute",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40940,
-    "title": "Music Mute",
-    "authors": [
-      "Chdata",
-      "Mattrizzle"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1"
-    ],
-    "description": "For people who want hacks that are completely muted except for SFX, this is for you!<br>\r\n<br>\r\nNot all songs are muted, but Here we go! becomes muted and disables echo commands, while Cave Drums is muted and enables SFX echoing.",
-    "latest_version": "smwc-40940-1762116601",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40940,
-        "title": "Music Mute",
-        "version": "smwc-40940-1762116601",
-        "upstream_time": 1762116601,
-        "download_url": "https://dl.smwcentral.net/40940/Mute%20Asar2.zip",
-        "filename": "Mute Asar2.zip",
-        "size": 1100,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-objectool-0",
     "aliases": [],
     "section": "smwpatches",
@@ -1378,6 +1344,43 @@
         "download_url": "https://dl.smwcentral.net/41074/Re-enter%20Castle%20JP.zip",
         "filename": "Re-enter Castle JP.zip",
         "size": 500,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-replace-cape-with-raccoon",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 41197,
+    "title": "Replace Cape With Raccoon",
+    "authors": [
+      "Blargg",
+      "Neosz"
+    ],
+    "tags": [
+      "lorom",
+      "raccoon",
+      "sa-1",
+      "smb3",
+      "super leaf"
+    ],
+    "description": "An old patch which replaces Cape Mario for the Raccoon Power-Up through a collection of hex edits and a hijack. <br>\r\n<br>\r\nNow properly documented for user-friendlyness' sake, and with fixes to various SFX and visual oversights present in the original version.<br>\r\n<br>\r\nCredit to Blargg if used.",
+    "latest_version": "V1.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 41197,
+        "title": "Replace Cape With Raccoon",
+        "version": "V1.2",
+        "upstream_time": 1780345589,
+        "download_url": "https://dl.smwcentral.net/41197/Replace%20Cape%20with%20Raccoon%20Patch.zip",
+        "filename": "Replace Cape with Raccoon Patch.zip",
+        "size": 32303,
         "sha256": null,
         "dependencies": [
           "asar"

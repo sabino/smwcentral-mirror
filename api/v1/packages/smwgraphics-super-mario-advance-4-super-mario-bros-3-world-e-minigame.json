@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-advance-4-super-mario-bros-3-world-e-minigame",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42478,
+  "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
+  "authors": [
+    "TheOrangeToad"
+  ],
+  "tags": [
+    "2bpp",
+    "bonus",
+    "patch needed"
+  ],
+  "description": "A background used in one of the World-E minigames from Super Mario Advance 4: Super Mario Bros. 3 but now converted into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+  "latest_version": "smwc-42478-1780430231",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42478,
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
+      "version": "smwc-42478-1780430231",
+      "upstream_time": 1780430231,
+      "download_url": "https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip",
+      "filename": "(Layer 3) SMA4 SMB3 - World-e Minigame 2.zip",
+      "size": 1773,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

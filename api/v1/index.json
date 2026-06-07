@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T05:48:34.914895841+00:00",
+  "generated_at": "2026-06-07T05:52:51.336242530+00:00",
   "suite": "stable",
   "component": "main",
   "packages": [
@@ -596,7 +596,7 @@
         "solid",
         "sprite needed"
       ],
-      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
       "latest_version": "smwc-41237-1765159682",
       "install_kind": "gps_block",
       "versions": [
@@ -953,7 +953,7 @@
         "sa-1",
         "uberasm needed"
       ],
-      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
       "latest_version": "smwc-41209-1765844757",
       "install_kind": "gps_block",
       "versions": [
@@ -1305,7 +1305,7 @@
         "shatter",
         "sprite needed"
       ],
-      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
       "latest_version": "smwc-41235-1765916599",
       "install_kind": "gps_block",
       "versions": [
@@ -2209,7 +2209,7 @@
         "night",
         "sky"
       ],
-      "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+      "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
       "latest_version": "smwc-40927-1776545384",
       "install_kind": "asset_only",
       "versions": [
@@ -2290,6 +2290,37 @@
       ]
     },
     {
+      "name": "smwgraphics-fantasy-zone-gear-stage",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42455,
+      "title": "Fantasy Zone Gear - Stage 1: Woods",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "forest",
+        "grassland"
+      ],
+      "description": "The Stage 1 BG from Fantasy Zone Gear on the Game Gear of all things, which is genuinely impressive to me because of how colorful this BG is, I must say that the Game Gear was ahead of its time despite eating up so many batteries so fast if I heard correctly!<br>\r\nWell, this background is much busier and complex than I actually thought it would be despite it occupying only 1 BG GFX slot, so, as lazy as I am, I decided to leave the Map16 as messy as you can see here.",
+      "latest_version": "smwc-42455-1780247865",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42455,
+          "title": "Fantasy Zone Gear - Stage 1: Woods",
+          "version": "smwc-42455-1780247865",
+          "upstream_time": 1780247865,
+          "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
+          "filename": "fantasyzonegearwoods.zip",
+          "size": 5927,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
       "name": "smwgraphics-j-j-squawkers-pistachio-villa-boss-day",
       "aliases": [],
       "section": "smwgraphics",
@@ -2314,68 +2345,6 @@
           "download_url": "https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip",
           "filename": "jjsquawkerspistachiovillabossday.zip",
           "size": 7310,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-leap-day-forest",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41870,
-      "title": "Leap Day - Forest",
-      "authors": [
-        "playagmes169"
-      ],
-      "tags": [
-        "forest",
-        "wood"
-      ],
-      "description": "The forest tileset from Leap Day, a Nitrome mobile game. The tilesets in this game are incredibly crusty, so I manually reduce the amount of colors in them.",
-      "latest_version": "smwc-41870-1773106690",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41870,
-          "title": "Leap Day - Forest",
-          "version": "smwc-41870-1773106690",
-          "upstream_time": 1773106690,
-          "download_url": "https://dl.smwcentral.net/41870/leapdayforest.zip",
-          "filename": "leapdayforest.zip",
-          "size": 4428,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-leap-day-forest-expanded",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41878,
-      "title": "Leap Day - Forest (Expanded)",
-      "authors": [
-        "playagmes169"
-      ],
-      "tags": [
-        "forest",
-        "wood"
-      ],
-      "description": "The forest tileset from Leap Day, now with more stuff I added myself, it's not the most stylistically accurate expansion and I think I took too many creative liberties. On a more important note, I had to split this tileset into 2 files to set in FG3 and BG3 each because I put a lot of new stuff there",
-      "latest_version": "smwc-41878-1773106837",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41878,
-          "title": "Leap Day - Forest (Expanded)",
-          "version": "smwc-41878-1773106837",
-          "upstream_time": 1773106837,
-          "download_url": "https://dl.smwcentral.net/41878/leapdayforestexpanded.zip",
-          "filename": "leapdayforestexpanded.zip",
-          "size": 7995,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2476,37 +2445,6 @@
       ]
     },
     {
-      "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-brown-bricks",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41578,
-      "title": "Moorhuhn: Jewel of Darkness (DS) - Brown Bricks",
-      "authors": [
-        "RussianMan"
-      ],
-      "tags": [
-        "ruins",
-        "texture"
-      ],
-      "description": "Some brown brick background from Moorhuhn: Jewel of Darkness for the Nintendo DS.",
-      "latest_version": "smwc-41578-1773337141",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41578,
-          "title": "Moorhuhn: Jewel of Darkness (DS) - Brown Bricks",
-          "version": "smwc-41578-1773337141",
-          "upstream_time": 1773337141,
-          "download_url": "https://dl.smwcentral.net/41578/Moorhuhn%20Jewel%20Of%20Darkness%20DS%20-%20Brown%20Bricks.zip",
-          "filename": "Moorhuhn Jewel Of Darkness DS - Brown Bricks.zip",
-          "size": 5123,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt",
       "aliases": [],
       "section": "smwgraphics",
@@ -2562,18 +2500,6 @@
           "download_url": "https://dl.smwcentral.net/41947/Mr.%20Tuff%20-%20Temple%20-%20FG.zip",
           "filename": "Mr. Tuff - Temple - FG.zip",
           "size": 11168,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        },
-        {
-          "upstream_id": 41897,
-          "title": "Mr. Tuff - Temple",
-          "version": "smwc-41897-1773339813",
-          "upstream_time": 1773339813,
-          "download_url": "https://dl.smwcentral.net/41897/Mr.%20Tuff%20-%20Temple.zip",
-          "filename": "Mr. Tuff - Temple.zip",
-          "size": 8052,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3114,39 +3040,6 @@
       ]
     },
     {
-      "name": "smwgraphics-soul-blazer-dr-leo-s-laboratory-first-and-second-floors",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41856,
-      "title": "Soul Blazer - Dr. Leo's Laboratory (First and Second Floors)",
-      "authors": [
-        "Anorakun"
-      ],
-      "tags": [
-        "2bpp",
-        "industrial",
-        "mechanical",
-        "patch needed"
-      ],
-      "description": "The mechanical components seen through cracks and holes of the first and second floors of Dr. Leo's Laboratory, from the Quintet's cult classic game: Soul Blazer. While this graphic was meant for a top down view perspective, it works fine in a 2D platformer perspective.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">You'll need to disable the status bar if you wanna use this full layer 3 background</a>. A good fit for mechanical or industrial levels.",
-      "latest_version": "smwc-41856-1773438396",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41856,
-          "title": "Soul Blazer - Dr. Leo's Laboratory (First and Second Floors)",
-          "version": "smwc-41856-1773438396",
-          "upstream_time": 1773438396,
-          "download_url": "https://dl.smwcentral.net/41856/Soul%20Blazer%20-%20Leo%27s%20Laboratory%20%28First%20%26%20Second%20Floors%29.zip",
-          "filename": "Soul Blazer - Leo%27s Laboratory (First %26 Second Floors).zip",
-          "size": 2093,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-soul-blazer-main-map-magridd-castle-area",
       "aliases": [],
       "section": "smwgraphics",
@@ -3178,38 +3071,6 @@
       ]
     },
     {
-      "name": "smwgraphics-soul-blazer-world-of-evil-dazzling-space",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41855,
-      "title": "Soul Blazer -  World of Evil (Dazzling Space)",
-      "authors": [
-        "Anorakun"
-      ],
-      "tags": [
-        "abstract",
-        "flesh",
-        "haunted"
-      ],
-      "description": "The Dazzling Space section of World of Evil, from the Quintet's cult classic game: Soul Blazer. <br>\r\n<br>\r\nIn the original game, there's a wavy effect with it, but I don't think it's necessary to make this background to work.<br>\r\n<br>\r\nThe sample level includes the ideal autoscrolling speed and how it's meant to be used. A good fit for horror themed areas. ",
-      "latest_version": "smwc-41855-1773437939",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41855,
-          "title": "Soul Blazer -  World of Evil (Dazzling Space)",
-          "version": "smwc-41855-1773437939",
-          "upstream_time": 1773437939,
-          "download_url": "https://dl.smwcentral.net/41855/Soul%20Blazer%20-%20World%20of%20Evil%20%28Dazzling%20Space%29.zip",
-          "filename": "Soul Blazer - World of Evil (Dazzling Space).zip",
-          "size": 3869,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-super-double-dragon-airport-runway",
       "aliases": [],
       "section": "smwgraphics",
@@ -3233,6 +3094,37 @@
           "download_url": "https://dl.smwcentral.net/41993/Airport%20Runway.zip",
           "filename": "Airport Runway.zip",
           "size": 3421,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-super-e-d-f-earth-defense-force-stage",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42467,
+      "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
+      "authors": [
+        "Daizo Dee Von"
+      ],
+      "tags": [
+        "city",
+        "night"
+      ],
+      "description": "A city backdrop from the game Super E.D.F: Earth Defense Force for the SNES. It's been condensed to fit a 512 pixel wide background.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>. Credit would be appreciated, thank you.",
+      "latest_version": "smwc-42467-1780341780",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42467,
+          "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
+          "version": "smwc-42467-1780341780",
+          "upstream_time": 1780341780,
+          "download_url": "https://dl.smwcentral.net/42467/%5BGraphics%5D%5BBG%5D%20Super%20E.D.F%20-%20Midnight%20Interceptor%20%28SNES%29.zip",
+          "filename": "%5BGraphics%5D%5BBG%5D Super E.D.F - Midnight Interceptor (SNES).zip",
+          "size": 8562,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3278,6 +3170,38 @@
           "download_url": "https://dl.smwcentral.net/42290/sfzstage5.zip",
           "filename": "sfzstage5.zip",
           "size": 5750,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-super-mario-advance-4-super-mario-bros-3-world-e-minigame",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42478,
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
+      "authors": [
+        "TheOrangeToad"
+      ],
+      "tags": [
+        "2bpp",
+        "bonus",
+        "patch needed"
+      ],
+      "description": "A background used in one of the World-E minigames from Super Mario Advance 4: Super Mario Bros. 3 but now converted into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+      "latest_version": "smwc-42478-1780430231",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42478,
+          "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
+          "version": "smwc-42478-1780430231",
+          "upstream_time": 1780430231,
+          "download_url": "https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip",
+          "filename": "(Layer 3) SMA4 SMB3 - World-e Minigame 2.zip",
+          "size": 1773,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3335,6 +3259,81 @@
           "download_url": "https://dl.smwcentral.net/41926/SMB3%20Clouds.zip",
           "filename": "SMB3 Clouds.zip",
           "size": 2459,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-super-mario-world",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42468,
+      "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "forest",
+        "grassland",
+        "jungle"
+      ],
+      "description": "The cobbly jungle FG from Yoshi's Island's early builds, I don't remember which build this was from, but I decided to pick it up because I think it looked cool, I added a lot of things here because the original tileset was basically unfinished, unlike the leafy grassland one that looked sort of finished.<br>\r\n<br>\r\nNOTICE: this tileset will use palette slots 3, 4 and 5 for the trees'/bushes' colors, plus the berry tile is already in the game's FG2 files",
+      "latest_version": "smwc-42468-1780361043",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42468,
+          "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
+          "version": "smwc-42468-1780361043",
+          "upstream_time": 1780361043,
+          "download_url": "https://dl.smwcentral.net/42468/yi-betacobblejungle.zip",
+          "filename": "yi-betacobblejungle.zip",
+          "size": 8965,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        },
+        {
+          "upstream_id": 42457,
+          "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Leafy Grassland",
+          "version": "smwc-42457-1780272090",
+          "upstream_time": 1780272090,
+          "download_url": "https://dl.smwcentral.net/42457/yi-betaleafgrassland.zip",
+          "filename": "yi-betaleafgrassland.zip",
+          "size": 9369,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42347,
+      "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
+      "authors": [
+        "Kaching720"
+      ],
+      "tags": [
+        "luigi",
+        "male"
+      ],
+      "description": "This started out as an opposite to QuadFactor's SMA2 Mario, to \"de-advance-ify\" SMA2 Luigi, but I decided to shift the scope to create a Luigi that feels like he came out of base game back in the 1990s. Mainly based off of the 1989 beta and SMA2 Luigi but takes some notes from SMAS/SMM2 and SMB3 Luigi.<br>\r\n<br>\r\n<br>\r\n<br>\r\nIncludes:<br>\r\n<br>\r\n- GFX32 and PlayerGFX for 32x32 compat (with SMAS poses)<br>\r\n<br>\r\n- Same as above with but without vanilla inaccuracies<br>\r\n<br>\r\n- GFX00 (and a corrected version), 10 (one for the 32x32 patch too), 22, and 24 <br>\r\n<br>\r\n- GFX 28 to swap nametags<br>\r\n<br>\r\n- SMW palette (vanilla), SMA2 palette (blue overalls), and SMM2 palette (Mario's skin tone) for Luigi as Player 1<br>\r\n<br>\r\n- OW palettes for adjusted Yoshi colors and Luigi as Player 1 (has both blue and purple overalls)<br>\r\n<br>\r\n<br>\r\nI recommend you use them with patches that fix tile errors in the vanilla game (specifically the first cape flight frame and small victory pose while riding Yoshi)<br>\r\n<br>\r\nThe GFX32 files have a small p-speed jump frame in an unused tile.<br>\r\n<br>\r\nFeel free to edit if you want to mix and match the jank and corrected sprites or if you need compat with custom items/outfits",
+      "latest_version": "smwc-42347-1780431698",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42347,
+          "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
+          "version": "smwc-42347-1780431698",
+          "upstream_time": 1780431698,
+          "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
+          "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
+          "size": 127549,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3567,6 +3566,73 @@
           "download_url": "https://dl.smwcentral.net/41308/BTSX_E1%20-%20Womp.zip",
           "filename": "BTSX_E1 - Womp.zip",
           "size": 63398,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-bs-busters-digital-magazine-magazine-viewing",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42006,
+      "title": "BS Busters Digital Magazine - Magazine Viewing",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "menu",
+        "night",
+        "urban"
+      ],
+      "description": "Primary background music for viewing the latest Busters Digital Magazines from Satellaview.",
+      "latest_version": "smwc-42006-1780588800",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42006,
+          "title": "BS Busters Digital Magazine - Magazine Viewing",
+          "version": "smwc-42006-1780588800",
+          "upstream_time": 1780588800,
+          "download_url": "https://dl.smwcentral.net/42006/BS%20Busters%20Digital%20Magazine%20-%20Magazine%20Viewings.zip",
+          "filename": "BS Busters Digital Magazine - Magazine Viewings.zip",
+          "size": 52323,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-cocoron-cocorin-s-entrance",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41812,
+      "title": "Cocoron - Cocorin's Entrance",
+      "authors": [
+        "LuciCat"
+      ],
+      "tags": [
+        "goal",
+        "retro"
+      ],
+      "description": "Here is a triumphant fanfare that plays whenever Cocorin appears in the final levels of the Japan-only Famicom game <i>Cocoron</i>, a Mega Man-style platformer known for allowing you to create your own character at the start of each level.<br>\r\n<br>\r\nGood for goals. In fact, in the TXT, there is text reading \"#define Goal 0\", and setting the 0 to a non-zero value will add the classic SMW goal jingle at the start, with an insert size of 0x015F.",
+      "latest_version": "smwc-41812-1780248240",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 41812,
+          "title": "Cocoron - Cocorin's Entrance",
+          "version": "smwc-41812-1780248240",
+          "upstream_time": 1780248240,
+          "download_url": "https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip",
+          "filename": "Cocoron - Cocorin%27s Entrance (unsampled).zip",
+          "size": 80625,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4114,6 +4180,42 @@
       ]
     },
     {
+      "name": "smwmusic-memento-mori-ii-organic-gods",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41549,
+      "title": "Memento Mori II - Organic Gods",
+      "authors": [
+        "Segment1Zone2"
+      ],
+      "tags": [
+        "castle",
+        "final",
+        "ice",
+        "spooky",
+        "tense"
+      ],
+      "description": "Organic Gods from Memento Mori II.",
+      "latest_version": "smwc-41549-1780333483",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 41549,
+          "title": "Memento Mori II - Organic Gods",
+          "version": "smwc-41549-1780333483",
+          "upstream_time": 1780333483,
+          "download_url": "https://dl.smwcentral.net/41549/Memento%20Mori%20II%20-%20Organic%20Gods.zip",
+          "filename": "Memento Mori II - Organic Gods.zip",
+          "size": 38215,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
       "name": "smwmusic-metal-slader-glory-director-s-cut-password",
       "aliases": [],
       "section": "smwmusic",
@@ -4421,6 +4523,110 @@
       ]
     },
     {
+      "name": "smwmusic-sonic-cd-us-invincible",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41823,
+      "title": "Sonic CD (US) - Invincible!!",
+      "authors": [
+        "nicecarlos024"
+      ],
+      "tags": [
+        "cutscene",
+        "pswitch",
+        "star"
+      ],
+      "description": "The invincible theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star and pswitch themes.",
+      "latest_version": "smwc-41823-1780248588",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 41823,
+          "title": "Sonic CD (US) - Invincible!!",
+          "version": "smwc-41823-1780248588",
+          "upstream_time": 1780248588,
+          "download_url": "https://dl.smwcentral.net/41823/Sonic%20CD%20%28US%29%20-%20Invincible%21%21.zip",
+          "filename": "Sonic CD (US) - Invincible%21%21.zip",
+          "size": 65531,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-sonic-cd-us-speed-up",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41822,
+      "title": "Sonic CD (US) - Speed Up!!",
+      "authors": [
+        "nicecarlos024"
+      ],
+      "tags": [
+        "cutscene",
+        "star",
+        "tense"
+      ],
+      "description": "The power sneakers theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star theme.",
+      "latest_version": "smwc-41822-1780248440",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 41822,
+          "title": "Sonic CD (US) - Speed Up!!",
+          "version": "smwc-41822-1780248440",
+          "upstream_time": 1780248440,
+          "download_url": "https://dl.smwcentral.net/41822/Sonic%20CD%20%28US%29%20-%20Speed%20Up%21%21.zip",
+          "filename": "Sonic CD (US) - Speed Up%21%21.zip",
+          "size": 65442,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-super-bomberman",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42038,
+      "title": "Super Bomberman 3 - Battleship",
+      "authors": [
+        "SiameseTwins"
+      ],
+      "tags": [
+        "industrial",
+        "jungle",
+        "space",
+        "upbeat",
+        "urban"
+      ],
+      "description": "Can be used in industrial areas and levels with machinery. Not recommended to be used with tempo sped up.",
+      "latest_version": "smwc-42038-1780247915",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42038,
+          "title": "Super Bomberman 3 - Battleship",
+          "version": "smwc-42038-1780247915",
+          "upstream_time": 1780247915,
+          "download_url": "https://dl.smwcentral.net/42038/Super%20Bomberman%203%20-%20Battleship.zip",
+          "filename": "Super Bomberman 3 - Battleship.zip",
+          "size": 66396,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
       "name": "smwmusic-super-mario",
       "aliases": [],
       "section": "smwmusic",
@@ -4623,97 +4829,33 @@
       ]
     },
     {
-      "name": "smwmusic-true-golf-classics-wicked",
+      "name": "smwmusic-umineko-no-naku-koro-ni-when-they-cry-organ-short",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 41944,
-      "title": "True Golf Classics: Wicked 18 (SNES) - Unused",
+      "upstream_id": 41457,
+      "title": "Umineko no Naku Koro ni (When They Cry) - Organ Short #600 Million in C Minor",
       "authors": [
-        "Fullcannon"
+        "Aguiar Salsicha"
       ],
       "tags": [
-        "bonus",
-        "calm",
-        "carnival",
-        "credits",
-        "cutscene",
-        "jungle",
-        "menu",
-        "overworld",
-        "sea",
-        "sky",
-        "title",
-        "upbeat",
-        "water"
+        "castle",
+        "dark",
+        "mysterious",
+        "night",
+        "spooky"
       ],
-      "description": "Unused theme from the SNES/SFC port of True Golf Classics: Wicked 18/Devil's Course, later re-used for course guides/hole overview in the 3DO port of Pebble Beach Golf Links/Pebble Beach no Hatou.",
-      "latest_version": "smwc-41944-1777663254",
+      "description": "One of Beatrice's many themes in Umineko. I think it goes well with a gloomy castle.",
+      "latest_version": "smwc-41457-1780528414",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 41944,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Unused",
-          "version": "smwc-41944-1777663254",
-          "upstream_time": 1777663254,
-          "download_url": "https://dl.smwcentral.net/41944/Wicked%2018%20%28SNES%29%20-%20Unused.zip",
-          "filename": "Wicked 18 (SNES) - Unused.zip",
-          "size": 57205,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 41943,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Award",
-          "version": "smwc-41943-1777663237",
-          "upstream_time": 1777663237,
-          "download_url": "https://dl.smwcentral.net/41943/Wicked%2018%20%28SNES%29%20-%20Award.zip",
-          "filename": "Wicked 18 (SNES) - Award.zip",
-          "size": 61969,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 41942,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Tea Break",
-          "version": "smwc-41942-1777663214",
-          "upstream_time": 1777663214,
-          "download_url": "https://dl.smwcentral.net/41942/Wicked%2018%20%28SNES%29%20-%20Tea%20Break.zip",
-          "filename": "Wicked 18 (SNES) - Tea Break.zip",
-          "size": 58923,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 41941,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Hole in One",
-          "version": "smwc-41941-1777663186",
-          "upstream_time": 1777663186,
-          "download_url": "https://dl.smwcentral.net/41941/Wicked%2018%20%28SNES%29%20-%20Hole%20in%20One.zip",
-          "filename": "Wicked 18 (SNES) - Hole in One.zip",
-          "size": 71660,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 41937,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Settings",
-          "version": "smwc-41937-1777652509",
-          "upstream_time": 1777652509,
-          "download_url": "https://dl.smwcentral.net/41937/Wicked%2018%20%28SNES%29%20-%20Settings.zip",
-          "filename": "Wicked 18 (SNES) - Settings.zip",
-          "size": 61642,
+          "upstream_id": 41457,
+          "title": "Umineko no Naku Koro ni (When They Cry) - Organ Short #600 Million in C Minor",
+          "version": "smwc-41457-1780528414",
+          "upstream_time": 1780528414,
+          "download_url": "https://dl.smwcentral.net/41457/Organ%20Short%20%23600%20Million%20In%20C%20Minor.zip",
+          "filename": "Organ Short %23600 Million In C Minor.zip",
+          "size": 31915,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4723,65 +4865,31 @@
       ]
     },
     {
-      "name": "smwmusic-true-golf-classics-wicked-18-snes-course-bgm",
+      "name": "smwmusic-waialae-no-kiseki-sfc-course-bgm",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 41940,
-      "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 3",
+      "upstream_id": 41936,
+      "title": "Waialae no Kiseki (SFC) - Course BGM",
       "authors": [
         "Fullcannon"
       ],
       "tags": [
-        "athletic",
         "beach",
-        "desert",
-        "fire",
-        "forest",
-        "grassland",
-        "mountain",
-        "ruins",
+        "jungle",
         "sea"
       ],
-      "description": "One of the three in-game golfing tunes heard in the SNES/SFC port of True Golf Classics: Wicked 18/Devil's Course.",
-      "latest_version": "smwc-41940-1777663166",
+      "description": "The primary in-game course background music heard/added in the SFC port of Waialae no Kiseki, originating from the PC-98 edition.",
+      "latest_version": "smwc-41936-1780588766",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 41940,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 3",
-          "version": "smwc-41940-1777663166",
-          "upstream_time": 1777663166,
-          "download_url": "https://dl.smwcentral.net/41940/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%203.zip",
-          "filename": "Wicked 18 (SNES) - Course BGM 3.zip",
-          "size": 59139,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 41939,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 2",
-          "version": "smwc-41939-1777663137",
-          "upstream_time": 1777663137,
-          "download_url": "https://dl.smwcentral.net/41939/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%202.zip",
-          "filename": "Wicked 18 (SNES) - Course BGM 2.zip",
-          "size": 58510,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 41938,
-          "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 1",
-          "version": "smwc-41938-1777663112",
-          "upstream_time": 1777663112,
-          "download_url": "https://dl.smwcentral.net/41938/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%201.zip",
-          "filename": "Wicked 18 (SNES) - Course BGM 1.zip",
-          "size": 48335,
+          "upstream_id": 41936,
+          "title": "Waialae no Kiseki (SFC) - Course BGM",
+          "version": "smwc-41936-1780588766",
+          "upstream_time": 1780588766,
+          "download_url": "https://dl.smwcentral.net/41936/Waialae%20no%20Kiseki%20%28SFC%29%20-%20Course%20BGM.zip",
+          "filename": "Waialae no Kiseki (SFC) - Course BGM.zip",
+          "size": 48859,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -5828,40 +5936,6 @@
       ]
     },
     {
-      "name": "smwpatches-music-mute",
-      "aliases": [],
-      "section": "smwpatches",
-      "upstream_id": 40940,
-      "title": "Music Mute",
-      "authors": [
-        "Chdata",
-        "Mattrizzle"
-      ],
-      "tags": [
-        "lorom",
-        "sa-1"
-      ],
-      "description": "For people who want hacks that are completely muted except for SFX, this is for you!<br>\r\n<br>\r\nNot all songs are muted, but Here we go! becomes muted and disables echo commands, while Cave Drums is muted and enables SFX echoing.",
-      "latest_version": "smwc-40940-1762116601",
-      "install_kind": "asar_patch",
-      "versions": [
-        {
-          "upstream_id": 40940,
-          "title": "Music Mute",
-          "version": "smwc-40940-1762116601",
-          "upstream_time": 1762116601,
-          "download_url": "https://dl.smwcentral.net/40940/Mute%20Asar2.zip",
-          "filename": "Mute Asar2.zip",
-          "size": 1100,
-          "sha256": null,
-          "dependencies": [
-            "asar"
-          ],
-          "install_kind": "asar_patch"
-        }
-      ]
-    },
-    {
       "name": "smwpatches-objectool-0",
       "aliases": [],
       "section": "smwpatches",
@@ -6239,6 +6313,43 @@
           "download_url": "https://dl.smwcentral.net/41074/Re-enter%20Castle%20JP.zip",
           "filename": "Re-enter Castle JP.zip",
           "size": 500,
+          "sha256": null,
+          "dependencies": [
+            "asar"
+          ],
+          "install_kind": "asar_patch"
+        }
+      ]
+    },
+    {
+      "name": "smwpatches-replace-cape-with-raccoon",
+      "aliases": [],
+      "section": "smwpatches",
+      "upstream_id": 41197,
+      "title": "Replace Cape With Raccoon",
+      "authors": [
+        "Blargg",
+        "Neosz"
+      ],
+      "tags": [
+        "lorom",
+        "raccoon",
+        "sa-1",
+        "smb3",
+        "super leaf"
+      ],
+      "description": "An old patch which replaces Cape Mario for the Raccoon Power-Up through a collection of hex edits and a hijack. <br>\r\n<br>\r\nNow properly documented for user-friendlyness' sake, and with fixes to various SFX and visual oversights present in the original version.<br>\r\n<br>\r\nCredit to Blargg if used.",
+      "latest_version": "V1.2",
+      "install_kind": "asar_patch",
+      "versions": [
+        {
+          "upstream_id": 41197,
+          "title": "Replace Cape With Raccoon",
+          "version": "V1.2",
+          "upstream_time": 1780345589,
+          "download_url": "https://dl.smwcentral.net/41197/Replace%20Cape%20with%20Raccoon%20Patch.zip",
+          "filename": "Replace Cape with Raccoon Patch.zip",
+          "size": 32303,
           "sha256": null,
           "dependencies": [
             "asar"
@@ -7018,6 +7129,43 @@
           "download_url": "https://dl.smwcentral.net/42068/ChasingSwooper.zip",
           "filename": "ChasingSwooper.zip",
           "size": 8662,
+          "sha256": null,
+          "dependencies": [
+            "pixi"
+          ],
+          "install_kind": "pixi_sprite"
+        }
+      ]
+    },
+    {
+      "name": "smwsprites-chasing-hidden-rex",
+      "aliases": [],
+      "section": "smwsprites",
+      "upstream_id": 42452,
+      "title": "Chasing & Hidden Rex",
+      "authors": [
+        "RussianMan"
+      ],
+      "tags": [
+        "chase",
+        "enemy",
+        "invincible",
+        "lorom",
+        "rex",
+        "sa-1"
+      ],
+      "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+      "latest_version": "1.2.1",
+      "install_kind": "pixi_sprite",
+      "versions": [
+        {
+          "upstream_id": 42452,
+          "title": "Chasing & Hidden Rex",
+          "version": "1.2.1",
+          "upstream_time": 1780252358,
+          "download_url": "https://dl.smwcentral.net/42452/ChasinRex.zip",
+          "filename": "ChasinRex.zip",
+          "size": 9306,
           "sha256": null,
           "dependencies": [
             "pixi"
@@ -8177,44 +8325,6 @@
           "download_url": "https://dl.smwcentral.net/41922/New%20Rip%20Van%20Fish%20Disassembly.zip",
           "filename": "New Rip Van Fish Disassembly.zip",
           "size": 3828,
-          "sha256": null,
-          "dependencies": [
-            "pixi"
-          ],
-          "install_kind": "pixi_sprite"
-        }
-      ]
-    },
-    {
-      "name": "smwsprites-smb3-directional-platform-v1-2",
-      "aliases": [],
-      "section": "smwsprites",
-      "upstream_id": 40259,
-      "title": "SMB3 Directional Platform v1.2.1",
-      "authors": [
-        "Ice Man",
-        "Kevin"
-      ],
-      "tags": [
-        "lorom",
-        "pacifist",
-        "platform",
-        "sa-1",
-        "smb 3",
-        "timer"
-      ],
-      "description": "A semisolid platform that starts moving in a certain direction when Mario steps on it, and then it changes direction every time Mario steps on it again. The current direction is shown by an arrow in the center of the platform. It doesn't interact with other sprites or with objects.<br>\r\nOptionally, you can set a timer that activates when the platform starts moving and makes the platform disappear when it reaches 0.<br>\r\nSome properties can be changed in the asm file (speed, order in which the directions change) while the timer is set by the \"extension\" field in the sprite insertion dialog.<br>\r\nMore information can be found in the asm file.<br>\r\n<br>\r\n<b>MarioFanGamer Edit for v1.2.1:</b><br>\r\n-Fixed graphical display when the platform is barely horizontally offscreen<br>\r\n-Added Lunar Magic display<br>\r\n<br>\r\n<b>Ice Man Edit for v1.2:</b><br>\r\n-Closer to SMB3 (Goes up, right, up, left and repeat)<br>\r\n-Fixed clipping values for each size<br>\r\n-Added one more size<br>\r\n-Asar 2 compatible<br>\r\n<br>\r\n<b>Ice Man Edit for v1.1:</b><br>\r\nNow supports various initial directions to start with relying on extra byte 1 instead of going to the right only!",
-      "latest_version": "smwc-40259-1768500331",
-      "install_kind": "pixi_sprite",
-      "versions": [
-        {
-          "upstream_id": 40259,
-          "title": "SMB3 Directional Platform v1.2.1",
-          "version": "smwc-40259-1768500331",
-          "upstream_time": 1768500331,
-          "download_url": "https://dl.smwcentral.net/40259/DirectionalPlatform.zip",
-          "filename": "DirectionalPlatform.zip",
-          "size": 9146,
           "sha256": null,
           "dependencies": [
             "pixi"
@@ -11568,7 +11678,7 @@
         "sa-1",
         "tile"
       ],
-      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #148903;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
       "latest_version": "1.1.1",
       "install_kind": "uber_asm",
       "versions": [
@@ -11602,7 +11712,7 @@
         "sa-1",
         "spotlight"
       ],
-      "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">ILoveSMW</a></span>.",
+      "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un\">ILoveSMW</a></span>.",
       "latest_version": "smwc-41600-1773623195",
       "install_kind": "uber_asm",
       "versions": [

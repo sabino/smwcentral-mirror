@@ -78,6 +78,73 @@
     ]
   },
   {
+    "name": "smwmusic-bs-busters-digital-magazine-magazine-viewing",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42006,
+    "title": "BS Busters Digital Magazine - Magazine Viewing",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "menu",
+      "night",
+      "urban"
+    ],
+    "description": "Primary background music for viewing the latest Busters Digital Magazines from Satellaview.",
+    "latest_version": "smwc-42006-1780588800",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42006,
+        "title": "BS Busters Digital Magazine - Magazine Viewing",
+        "version": "smwc-42006-1780588800",
+        "upstream_time": 1780588800,
+        "download_url": "https://dl.smwcentral.net/42006/BS%20Busters%20Digital%20Magazine%20-%20Magazine%20Viewings.zip",
+        "filename": "BS Busters Digital Magazine - Magazine Viewings.zip",
+        "size": 52323,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-cocoron-cocorin-s-entrance",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41812,
+    "title": "Cocoron - Cocorin's Entrance",
+    "authors": [
+      "LuciCat"
+    ],
+    "tags": [
+      "goal",
+      "retro"
+    ],
+    "description": "Here is a triumphant fanfare that plays whenever Cocorin appears in the final levels of the Japan-only Famicom game <i>Cocoron</i>, a Mega Man-style platformer known for allowing you to create your own character at the start of each level.<br>\r\n<br>\r\nGood for goals. In fact, in the TXT, there is text reading \"#define Goal 0\", and setting the 0 to a non-zero value will add the classic SMW goal jingle at the start, with an insert size of 0x015F.",
+    "latest_version": "smwc-41812-1780248240",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41812,
+        "title": "Cocoron - Cocorin's Entrance",
+        "version": "smwc-41812-1780248240",
+        "upstream_time": 1780248240,
+        "download_url": "https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip",
+        "filename": "Cocoron - Cocorin%27s Entrance (unsampled).zip",
+        "size": 80625,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
     "aliases": [],
     "section": "smwmusic",
@@ -616,6 +683,42 @@
     ]
   },
   {
+    "name": "smwmusic-memento-mori-ii-organic-gods",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41549,
+    "title": "Memento Mori II - Organic Gods",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "castle",
+      "final",
+      "ice",
+      "spooky",
+      "tense"
+    ],
+    "description": "Organic Gods from Memento Mori II.",
+    "latest_version": "smwc-41549-1780333483",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41549,
+        "title": "Memento Mori II - Organic Gods",
+        "version": "smwc-41549-1780333483",
+        "upstream_time": 1780333483,
+        "download_url": "https://dl.smwcentral.net/41549/Memento%20Mori%20II%20-%20Organic%20Gods.zip",
+        "filename": "Memento Mori II - Organic Gods.zip",
+        "size": 38215,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-metal-slader-glory-director-s-cut-password",
     "aliases": [],
     "section": "smwmusic",
@@ -923,6 +1026,110 @@
     ]
   },
   {
+    "name": "smwmusic-sonic-cd-us-invincible",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41823,
+    "title": "Sonic CD (US) - Invincible!!",
+    "authors": [
+      "nicecarlos024"
+    ],
+    "tags": [
+      "cutscene",
+      "pswitch",
+      "star"
+    ],
+    "description": "The invincible theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star and pswitch themes.",
+    "latest_version": "smwc-41823-1780248588",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41823,
+        "title": "Sonic CD (US) - Invincible!!",
+        "version": "smwc-41823-1780248588",
+        "upstream_time": 1780248588,
+        "download_url": "https://dl.smwcentral.net/41823/Sonic%20CD%20%28US%29%20-%20Invincible%21%21.zip",
+        "filename": "Sonic CD (US) - Invincible%21%21.zip",
+        "size": 65531,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-sonic-cd-us-speed-up",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41822,
+    "title": "Sonic CD (US) - Speed Up!!",
+    "authors": [
+      "nicecarlos024"
+    ],
+    "tags": [
+      "cutscene",
+      "star",
+      "tense"
+    ],
+    "description": "The power sneakers theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star theme.",
+    "latest_version": "smwc-41822-1780248440",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41822,
+        "title": "Sonic CD (US) - Speed Up!!",
+        "version": "smwc-41822-1780248440",
+        "upstream_time": 1780248440,
+        "download_url": "https://dl.smwcentral.net/41822/Sonic%20CD%20%28US%29%20-%20Speed%20Up%21%21.zip",
+        "filename": "Sonic CD (US) - Speed Up%21%21.zip",
+        "size": 65442,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-bomberman",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42038,
+    "title": "Super Bomberman 3 - Battleship",
+    "authors": [
+      "SiameseTwins"
+    ],
+    "tags": [
+      "industrial",
+      "jungle",
+      "space",
+      "upbeat",
+      "urban"
+    ],
+    "description": "Can be used in industrial areas and levels with machinery. Not recommended to be used with tempo sped up.",
+    "latest_version": "smwc-42038-1780247915",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42038,
+        "title": "Super Bomberman 3 - Battleship",
+        "version": "smwc-42038-1780247915",
+        "upstream_time": 1780247915,
+        "download_url": "https://dl.smwcentral.net/42038/Super%20Bomberman%203%20-%20Battleship.zip",
+        "filename": "Super Bomberman 3 - Battleship.zip",
+        "size": 66396,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-super-mario",
     "aliases": [],
     "section": "smwmusic",
@@ -1125,97 +1332,33 @@
     ]
   },
   {
-    "name": "smwmusic-true-golf-classics-wicked",
+    "name": "smwmusic-umineko-no-naku-koro-ni-when-they-cry-organ-short",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41944,
-    "title": "True Golf Classics: Wicked 18 (SNES) - Unused",
+    "upstream_id": 41457,
+    "title": "Umineko no Naku Koro ni (When They Cry) - Organ Short #600 Million in C Minor",
     "authors": [
-      "Fullcannon"
+      "Aguiar Salsicha"
     ],
     "tags": [
-      "bonus",
-      "calm",
-      "carnival",
-      "credits",
-      "cutscene",
-      "jungle",
-      "menu",
-      "overworld",
-      "sea",
-      "sky",
-      "title",
-      "upbeat",
-      "water"
+      "castle",
+      "dark",
+      "mysterious",
+      "night",
+      "spooky"
     ],
-    "description": "Unused theme from the SNES/SFC port of True Golf Classics: Wicked 18/Devil's Course, later re-used for course guides/hole overview in the 3DO port of Pebble Beach Golf Links/Pebble Beach no Hatou.",
-    "latest_version": "smwc-41944-1777663254",
+    "description": "One of Beatrice's many themes in Umineko. I think it goes well with a gloomy castle.",
+    "latest_version": "smwc-41457-1780528414",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41944,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Unused",
-        "version": "smwc-41944-1777663254",
-        "upstream_time": 1777663254,
-        "download_url": "https://dl.smwcentral.net/41944/Wicked%2018%20%28SNES%29%20-%20Unused.zip",
-        "filename": "Wicked 18 (SNES) - Unused.zip",
-        "size": 57205,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41943,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Award",
-        "version": "smwc-41943-1777663237",
-        "upstream_time": 1777663237,
-        "download_url": "https://dl.smwcentral.net/41943/Wicked%2018%20%28SNES%29%20-%20Award.zip",
-        "filename": "Wicked 18 (SNES) - Award.zip",
-        "size": 61969,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41942,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Tea Break",
-        "version": "smwc-41942-1777663214",
-        "upstream_time": 1777663214,
-        "download_url": "https://dl.smwcentral.net/41942/Wicked%2018%20%28SNES%29%20-%20Tea%20Break.zip",
-        "filename": "Wicked 18 (SNES) - Tea Break.zip",
-        "size": 58923,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41941,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Hole in One",
-        "version": "smwc-41941-1777663186",
-        "upstream_time": 1777663186,
-        "download_url": "https://dl.smwcentral.net/41941/Wicked%2018%20%28SNES%29%20-%20Hole%20in%20One.zip",
-        "filename": "Wicked 18 (SNES) - Hole in One.zip",
-        "size": 71660,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41937,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Settings",
-        "version": "smwc-41937-1777652509",
-        "upstream_time": 1777652509,
-        "download_url": "https://dl.smwcentral.net/41937/Wicked%2018%20%28SNES%29%20-%20Settings.zip",
-        "filename": "Wicked 18 (SNES) - Settings.zip",
-        "size": 61642,
+        "upstream_id": 41457,
+        "title": "Umineko no Naku Koro ni (When They Cry) - Organ Short #600 Million in C Minor",
+        "version": "smwc-41457-1780528414",
+        "upstream_time": 1780528414,
+        "download_url": "https://dl.smwcentral.net/41457/Organ%20Short%20%23600%20Million%20In%20C%20Minor.zip",
+        "filename": "Organ Short %23600 Million In C Minor.zip",
+        "size": 31915,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1225,65 +1368,31 @@
     ]
   },
   {
-    "name": "smwmusic-true-golf-classics-wicked-18-snes-course-bgm",
+    "name": "smwmusic-waialae-no-kiseki-sfc-course-bgm",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41940,
-    "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 3",
+    "upstream_id": 41936,
+    "title": "Waialae no Kiseki (SFC) - Course BGM",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "athletic",
       "beach",
-      "desert",
-      "fire",
-      "forest",
-      "grassland",
-      "mountain",
-      "ruins",
+      "jungle",
       "sea"
     ],
-    "description": "One of the three in-game golfing tunes heard in the SNES/SFC port of True Golf Classics: Wicked 18/Devil's Course.",
-    "latest_version": "smwc-41940-1777663166",
+    "description": "The primary in-game course background music heard/added in the SFC port of Waialae no Kiseki, originating from the PC-98 edition.",
+    "latest_version": "smwc-41936-1780588766",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41940,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 3",
-        "version": "smwc-41940-1777663166",
-        "upstream_time": 1777663166,
-        "download_url": "https://dl.smwcentral.net/41940/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%203.zip",
-        "filename": "Wicked 18 (SNES) - Course BGM 3.zip",
-        "size": 59139,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41939,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 2",
-        "version": "smwc-41939-1777663137",
-        "upstream_time": 1777663137,
-        "download_url": "https://dl.smwcentral.net/41939/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%202.zip",
-        "filename": "Wicked 18 (SNES) - Course BGM 2.zip",
-        "size": 58510,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41938,
-        "title": "True Golf Classics: Wicked 18 (SNES) - Course BGM 1",
-        "version": "smwc-41938-1777663112",
-        "upstream_time": 1777663112,
-        "download_url": "https://dl.smwcentral.net/41938/Wicked%2018%20%28SNES%29%20-%20Course%20BGM%201.zip",
-        "filename": "Wicked 18 (SNES) - Course BGM 1.zip",
-        "size": 48335,
+        "upstream_id": 41936,
+        "title": "Waialae no Kiseki (SFC) - Course BGM",
+        "version": "smwc-41936-1780588766",
+        "upstream_time": 1780588766,
+        "download_url": "https://dl.smwcentral.net/41936/Waialae%20no%20Kiseki%20%28SFC%29%20-%20Course%20BGM.zip",
+        "filename": "Waialae no Kiseki (SFC) - Course BGM.zip",
+        "size": 48859,
         "sha256": null,
         "dependencies": [
           "addmusick"

@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42347,
+  "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
+  "authors": [
+    "Kaching720"
+  ],
+  "tags": [
+    "luigi",
+    "male"
+  ],
+  "description": "This started out as an opposite to QuadFactor's SMA2 Mario, to \"de-advance-ify\" SMA2 Luigi, but I decided to shift the scope to create a Luigi that feels like he came out of base game back in the 1990s. Mainly based off of the 1989 beta and SMA2 Luigi but takes some notes from SMAS/SMM2 and SMB3 Luigi.<br>\r\n<br>\r\n<br>\r\n<br>\r\nIncludes:<br>\r\n<br>\r\n- GFX32 and PlayerGFX for 32x32 compat (with SMAS poses)<br>\r\n<br>\r\n- Same as above with but without vanilla inaccuracies<br>\r\n<br>\r\n- GFX00 (and a corrected version), 10 (one for the 32x32 patch too), 22, and 24 <br>\r\n<br>\r\n- GFX 28 to swap nametags<br>\r\n<br>\r\n- SMW palette (vanilla), SMA2 palette (blue overalls), and SMM2 palette (Mario's skin tone) for Luigi as Player 1<br>\r\n<br>\r\n- OW palettes for adjusted Yoshi colors and Luigi as Player 1 (has both blue and purple overalls)<br>\r\n<br>\r\n<br>\r\nI recommend you use them with patches that fix tile errors in the vanilla game (specifically the first cape flight frame and small victory pose while riding Yoshi)<br>\r\n<br>\r\nThe GFX32 files have a small p-speed jump frame in an unused tile.<br>\r\n<br>\r\nFeel free to edit if you want to mix and match the jank and corrected sprites or if you need compat with custom items/outfits",
+  "latest_version": "smwc-42347-1780431698",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42347,
+      "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
+      "version": "smwc-42347-1780431698",
+      "upstream_time": 1780431698,
+      "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
+      "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
+      "size": 127549,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

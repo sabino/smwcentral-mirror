@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-replace-cape-with-raccoon",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41197,
+  "title": "Replace Cape With Raccoon",
+  "authors": [
+    "Blargg",
+    "Neosz"
+  ],
+  "tags": [
+    "lorom",
+    "raccoon",
+    "sa-1",
+    "smb3",
+    "super leaf"
+  ],
+  "description": "An old patch which replaces Cape Mario for the Raccoon Power-Up through a collection of hex edits and a hijack. <br>\r\n<br>\r\nNow properly documented for user-friendlyness' sake, and with fixes to various SFX and visual oversights present in the original version.<br>\r\n<br>\r\nCredit to Blargg if used.",
+  "latest_version": "V1.2",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41197,
+      "title": "Replace Cape With Raccoon",
+      "version": "V1.2",
+      "upstream_time": 1780345589,
+      "download_url": "https://dl.smwcentral.net/41197/Replace%20Cape%20with%20Raccoon%20Patch.zip",
+      "filename": "Replace Cape with Raccoon Patch.zip",
+      "size": 32303,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

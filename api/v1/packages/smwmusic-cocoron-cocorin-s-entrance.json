@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-cocoron-cocorin-s-entrance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41812,
+  "title": "Cocoron - Cocorin's Entrance",
+  "authors": [
+    "LuciCat"
+  ],
+  "tags": [
+    "goal",
+    "retro"
+  ],
+  "description": "Here is a triumphant fanfare that plays whenever Cocorin appears in the final levels of the Japan-only Famicom game <i>Cocoron</i>, a Mega Man-style platformer known for allowing you to create your own character at the start of each level.<br>\r\n<br>\r\nGood for goals. In fact, in the TXT, there is text reading \"#define Goal 0\", and setting the 0 to a non-zero value will add the classic SMW goal jingle at the start, with an insert size of 0x015F.",
+  "latest_version": "smwc-41812-1780248240",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41812,
+      "title": "Cocoron - Cocorin's Entrance",
+      "version": "smwc-41812-1780248240",
+      "upstream_time": 1780248240,
+      "download_url": "https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip",
+      "filename": "Cocoron - Cocorin%27s Entrance (unsampled).zip",
+      "size": 80625,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

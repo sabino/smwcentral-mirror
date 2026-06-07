@@ -1,0 +1,44 @@
+{
+  "name": "smwgraphics-super-mario-world",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42468,
+  "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "jungle"
+  ],
+  "description": "The cobbly jungle FG from Yoshi's Island's early builds, I don't remember which build this was from, but I decided to pick it up because I think it looked cool, I added a lot of things here because the original tileset was basically unfinished, unlike the leafy grassland one that looked sort of finished.<br>\r\n<br>\r\nNOTICE: this tileset will use palette slots 3, 4 and 5 for the trees'/bushes' colors, plus the berry tile is already in the game's FG2 files",
+  "latest_version": "smwc-42468-1780361043",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42468,
+      "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
+      "version": "smwc-42468-1780361043",
+      "upstream_time": 1780361043,
+      "download_url": "https://dl.smwcentral.net/42468/yi-betacobblejungle.zip",
+      "filename": "yi-betacobblejungle.zip",
+      "size": 8965,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 42457,
+      "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Leafy Grassland",
+      "version": "smwc-42457-1780272090",
+      "upstream_time": 1780272090,
+      "download_url": "https://dl.smwcentral.net/42457/yi-betaleafgrassland.zip",
+      "filename": "yi-betaleafgrassland.zip",
+      "size": 9369,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}
