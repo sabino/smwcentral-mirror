@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-enemy",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42526,
+  "title": "Enemy 585 - Castle",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "castle",
+    "patch needed"
+  ],
+  "description": "The castle BG from Nitrome's Enemy 585 flash game, this is my first ExAnimation, and I couldn't find any other way to record this than by using a potato and converting it into a GIF! I compressed the BG's palette to fit in the lava's palette, but I couldn't fit the King Frog statue, because I'm afraid that will occupy a lot of space in the FG3 GFX file.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+  "latest_version": "smwc-42526-1781377327",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42526,
+      "title": "Enemy 585 - Castle",
+      "version": "smwc-42526-1781377327",
+      "upstream_time": 1781377327,
+      "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
+      "filename": "enemy-585-castle.zip",
+      "size": 7582,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

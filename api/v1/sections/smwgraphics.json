@@ -222,6 +222,50 @@
     ]
   },
   {
+    "name": "smwgraphics-chuck-rock",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42531,
+    "title": "Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove",
+    "authors": [
+      "Brutapode89"
+    ],
+    "tags": [
+      "cave",
+      "forest",
+      "grassland"
+    ],
+    "description": "Ripped from the called level \"Butterfly Grove\" in Chuck Rock 2: Son of Chuck on Megadrive/Genesis.",
+    "latest_version": "smwc-42531-1781394803",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42531,
+        "title": "Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove",
+        "version": "smwc-42531-1781394803",
+        "upstream_time": 1781394803,
+        "download_url": "https://dl.smwcentral.net/42531/Chuck%20Rock%202%20Son%20of%20Chuck%20-%20Butterfly%20Grove.zip",
+        "filename": "Chuck Rock 2 Son of Chuck - Butterfly Grove.zip",
+        "size": 4412,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 42530,
+        "title": "Chuck Rock 2: Son of Chuck (Genesis) - In the Smelly Sewers",
+        "version": "smwc-42530-1781394576",
+        "upstream_time": 1781394576,
+        "download_url": "https://dl.smwcentral.net/42530/Chuck%20Rock%202%20-%20Son%20of%20Chuck%20-%20In%20the%20Smelly%20Sewers.zip",
+        "filename": "Chuck Rock 2 - Son of Chuck - In the Smelly Sewers.zip",
+        "size": 3128,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-cute-grasslands",
     "aliases": [],
     "section": "smwgraphics",
@@ -245,6 +289,37 @@
         "download_url": "https://dl.smwcentral.net/42407/Cute%20Grasslands%20version%201.1.zip",
         "filename": "Cute Grasslands version 1.1.zip",
         "size": 3745,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-enemy",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42526,
+    "title": "Enemy 585 - Castle",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "castle",
+      "patch needed"
+    ],
+    "description": "The castle BG from Nitrome's Enemy 585 flash game, this is my first ExAnimation, and I couldn't find any other way to record this than by using a potato and converting it into a GIF! I compressed the BG's palette to fit in the lava's palette, but I couldn't fit the King Frog statue, because I'm afraid that will occupy a lot of space in the FG3 GFX file.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+    "latest_version": "smwc-42526-1781377327",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42526,
+        "title": "Enemy 585 - Castle",
+        "version": "smwc-42526-1781377327",
+        "upstream_time": 1781377327,
+        "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
+        "filename": "enemy-585-castle.zip",
+        "size": 7582,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -463,37 +538,6 @@
         "download_url": "https://dl.smwcentral.net/41579/Moorhuhn%20Jewel%20Of%20Darkness%20DS%20-%20Dirt.zip",
         "filename": "Moorhuhn Jewel Of Darkness DS - Dirt.zip",
         "size": 7138,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-mr-tuff-temple",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41947,
-    "title": "Mr. Tuff - Temple",
-    "authors": [
-      "Rykon-V73"
-    ],
-    "tags": [
-      "castle",
-      "ruins"
-    ],
-    "description": "Here's the FG of Mr. Tuff - Temple. It's compatible with this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41897\">BG</a>. Sacrifices palette 4. You'll have to use a different way to add a midpoint or goal to your level.<br>\r\n<br>\r\nEnjoy!",
-    "latest_version": "smwc-41947-1773974251",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41947,
-        "title": "Mr. Tuff - Temple",
-        "version": "smwc-41947-1773974251",
-        "upstream_time": 1773974251,
-        "download_url": "https://dl.smwcentral.net/41947/Mr.%20Tuff%20-%20Temple%20-%20FG.zip",
-        "filename": "Mr. Tuff - Temple - FG.zip",
-        "size": 11168,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -971,37 +1015,6 @@
     ]
   },
   {
-    "name": "smwgraphics-snow-bros-2-with-new-elves-world-1",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41910,
-    "title": "Snow Bros. 2: With New Elves - World 1-1",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "patch needed",
-      "underwater"
-    ],
-    "description": "Here's the BG from the 1st stage from Snow Bros. 2, I had to change this BG's Layout to make it loop properly. In the original game, it had <b>5 palettes</b>, so I had to reduce the amount of colors, because some looked a bit too similar to each other, and it had so many tiles that I had to separate them into 2 layers, I recommend y'all to set Layer 3's X scrolling to \"Variable 2\" and its Y scrolling to \"Variable\" if you want to use this BG, I'd recommend you to use a patch that <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">deletes the layer 3 status bar</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">completely replaces it with a sprite status bar</a>",
-    "latest_version": "smwc-41910-1773597956",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41910,
-        "title": "Snow Bros. 2: With New Elves - World 1-1",
-        "version": "smwc-41910-1773597956",
-        "upstream_time": 1773597956,
-        "download_url": "https://dl.smwcentral.net/41910/snowbros2world1-1.zip",
-        "filename": "snowbros2world1-1.zip",
-        "size": 11056,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-snow-bros-2-with-new-elves-world-2",
     "aliases": [],
     "section": "smwgraphics",
@@ -1027,37 +1040,6 @@
         "download_url": "https://dl.smwcentral.net/41982/snowbros2world22.zip",
         "filename": "snowbros2world22.zip",
         "size": 10592,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-soul-blazer-main-map-magridd-castle-area",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41857,
-    "title": "Soul Blazer - Main Map (Magridd Castle Area)",
-    "authors": [
-      "Anorakun"
-    ],
-    "tags": [
-      "night",
-      "sky"
-    ],
-    "description": "The dark clouds seen in the upper right half of the main map from Quintet's cult classic: Soul Blazer. I thought it looked pretty enough, so I converted it for use in Super Mario World hacks.<br>\r\n<br>\r\nYou can, optionally, add some parallax scrolling to this background.<br>\r\n<br>\r\nA good fit for night sky themed levels. ",
-    "latest_version": "smwc-41857-1773438795",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41857,
-        "title": "Soul Blazer - Main Map (Magridd Castle Area)",
-        "version": "smwc-41857-1773438795",
-        "upstream_time": 1773438795,
-        "download_url": "https://dl.smwcentral.net/41857/Soul%20Blazer%20-%20Main%20Map%20%28Magridd%20Castle%20Area%29.zip",
-        "filename": "Soul Blazer - Main Map (Magridd Castle Area).zip",
-        "size": 3591,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

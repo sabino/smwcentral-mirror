@@ -753,6 +753,41 @@
     ]
   },
   {
+    "name": "smwmusic-onita-atsushi-fmw-killer-marshal",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42060,
+    "title": "Onita Atsushi FMW - Killer Marshal",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "boss",
+      "industrial",
+      "tense",
+      "urban"
+    ],
+    "description": "Killer Marshal's theme from Onita Atsushi FMW, a cyborg warrior trained into a machine during the main story.",
+    "latest_version": "smwc-42060-1780932787",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42060,
+        "title": "Onita Atsushi FMW - Killer Marshal",
+        "version": "smwc-42060-1780932787",
+        "upstream_time": 1780932787,
+        "download_url": "https://dl.smwcentral.net/42060/Onita%20Atsushi%20FMW%20-%20Killer%20Marshal.zip",
+        "filename": "Onita Atsushi FMW - Killer Marshal.zip",
+        "size": 58091,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-othello-world-game-with-rabbit",
     "aliases": [],
     "section": "smwmusic",
@@ -1163,6 +1198,39 @@
     ]
   },
   {
+    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-fight-against-an-armed-boss",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42208,
+    "title": "Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss",
+    "authors": [
+      "scratch"
+    ],
+    "tags": [
+      "boss",
+      "upbeat"
+    ],
+    "description": "This is the origin of 危険な series mad. ",
+    "latest_version": "smwc-42208-1780933290",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42208,
+        "title": "Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss",
+        "version": "smwc-42208-1780933290",
+        "upstream_time": 1780933290,
+        "download_url": "https://dl.smwcentral.net/42208/smrpg_armed.zip",
+        "filename": "smrpg_armed.zip",
+        "size": 73512,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-the-price-is-right-sax",
     "aliases": [],
     "section": "smwmusic",
@@ -1197,6 +1265,40 @@
     ]
   },
   {
+    "name": "smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41462,
+    "title": "The Sword of Lxsor - BGM B7 (\"Final Offensive\")",
+    "authors": [
+      "Ryman"
+    ],
+    "tags": [
+      "chase",
+      "final",
+      "tense"
+    ],
+    "description": "The Sword of Lxsor is an unreleased game for the Sharp X68000, and this is one of its many tracks. There's no known official name for it. <a href=\"https://www.youtube.com/watch?v=eHvzpztGeDo\" rel=\"nofollow\">Jharmonious</a>, who compiled the soundtrack of the game, gave the track a title.<br>\r\n <br>\r\nGood for tense areas.",
+    "latest_version": "v1.2",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41462,
+        "title": "The Sword of Lxsor - BGM B7 (\"Final Offensive\")",
+        "version": "v1.2",
+        "upstream_time": 1780863427,
+        "download_url": "https://dl.smwcentral.net/41462/Lxsor%20B7%20%28Final_Offensive%29%20v1.2.zip",
+        "filename": "Lxsor B7 (Final_Offensive) v1.2.zip",
+        "size": 24573,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-true-golf-classics-waialae-country-club-snes-award",
     "aliases": [],
     "section": "smwmusic",
@@ -1221,108 +1323,6 @@
         "download_url": "https://dl.smwcentral.net/41869/Waialae%20Country%20Club%20%28SNES%29%20-%20Award.zip",
         "filename": "Waialae Country Club (SNES) - Award.zip",
         "size": 55016,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-opening-title",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41866,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Opening/Title",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "beach",
-      "sea",
-      "title",
-      "upbeat"
-    ],
-    "description": "Opening & Title Screen music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41866-1777735012",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41866,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Opening/Title",
-        "version": "smwc-41866-1777735012",
-        "upstream_time": 1777735012,
-        "download_url": "https://dl.smwcentral.net/41866/Waialae%20Country%20Club%20%28SNES%29%20-%20Title%20Screen.zip",
-        "filename": "Waialae Country Club (SNES) - Title Screen.zip",
-        "size": 58832,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-settings",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41867,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Settings",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "menu",
-      "upbeat"
-    ],
-    "description": "Settings menu music heard in the SNES port of True Golf Classics: Waialae Country Club, originating from the PC-98 edition.",
-    "latest_version": "smwc-41867-1777742044",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41867,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Settings",
-        "version": "smwc-41867-1777742044",
-        "upstream_time": 1777742044,
-        "download_url": "https://dl.smwcentral.net/41867/Waialae%20Country%20Club%20%28SNES%29%20-%20Settings.zip",
-        "filename": "Waialae Country Club (SNES) - Settings.zip",
-        "size": 58632,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-tea-break",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41868,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Tea Break",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "beach",
-      "calm",
-      "sea"
-    ],
-    "description": "Intermission/Tea Break music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41868-1777743440",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41868,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Tea Break",
-        "version": "smwc-41868-1777743440",
-        "upstream_time": 1777743440,
-        "download_url": "https://dl.smwcentral.net/41868/Waialae%20Country%20Club%20%28SNES%29%20-%20Tea%20Break.zip",
-        "filename": "Waialae Country Club (SNES) - Tea Break.zip",
-        "size": 39388,
         "sha256": null,
         "dependencies": [
           "addmusick"

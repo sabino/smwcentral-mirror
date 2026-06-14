@@ -1301,7 +1301,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -2224,6 +2224,50 @@
     ]
   },
   {
+    "name": "smwgraphics-chuck-rock",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42531,
+    "title": "Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove",
+    "authors": [
+      "Brutapode89"
+    ],
+    "tags": [
+      "cave",
+      "forest",
+      "grassland"
+    ],
+    "description": "Ripped from the called level \"Butterfly Grove\" in Chuck Rock 2: Son of Chuck on Megadrive/Genesis.",
+    "latest_version": "smwc-42531-1781394803",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42531,
+        "title": "Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove",
+        "version": "smwc-42531-1781394803",
+        "upstream_time": 1781394803,
+        "download_url": "https://dl.smwcentral.net/42531/Chuck%20Rock%202%20Son%20of%20Chuck%20-%20Butterfly%20Grove.zip",
+        "filename": "Chuck Rock 2 Son of Chuck - Butterfly Grove.zip",
+        "size": 4412,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 42530,
+        "title": "Chuck Rock 2: Son of Chuck (Genesis) - In the Smelly Sewers",
+        "version": "smwc-42530-1781394576",
+        "upstream_time": 1781394576,
+        "download_url": "https://dl.smwcentral.net/42530/Chuck%20Rock%202%20-%20Son%20of%20Chuck%20-%20In%20the%20Smelly%20Sewers.zip",
+        "filename": "Chuck Rock 2 - Son of Chuck - In the Smelly Sewers.zip",
+        "size": 3128,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-cute-grasslands",
     "aliases": [],
     "section": "smwgraphics",
@@ -2247,6 +2291,37 @@
         "download_url": "https://dl.smwcentral.net/42407/Cute%20Grasslands%20version%201.1.zip",
         "filename": "Cute Grasslands version 1.1.zip",
         "size": 3745,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-enemy",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42526,
+    "title": "Enemy 585 - Castle",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "castle",
+      "patch needed"
+    ],
+    "description": "The castle BG from Nitrome's Enemy 585 flash game, this is my first ExAnimation, and I couldn't find any other way to record this than by using a potato and converting it into a GIF! I compressed the BG's palette to fit in the lava's palette, but I couldn't fit the King Frog statue, because I'm afraid that will occupy a lot of space in the FG3 GFX file.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
+    "latest_version": "smwc-42526-1781377327",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42526,
+        "title": "Enemy 585 - Castle",
+        "version": "smwc-42526-1781377327",
+        "upstream_time": 1781377327,
+        "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
+        "filename": "enemy-585-castle.zip",
+        "size": 7582,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2465,37 +2540,6 @@
         "download_url": "https://dl.smwcentral.net/41579/Moorhuhn%20Jewel%20Of%20Darkness%20DS%20-%20Dirt.zip",
         "filename": "Moorhuhn Jewel Of Darkness DS - Dirt.zip",
         "size": 7138,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-mr-tuff-temple",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41947,
-    "title": "Mr. Tuff - Temple",
-    "authors": [
-      "Rykon-V73"
-    ],
-    "tags": [
-      "castle",
-      "ruins"
-    ],
-    "description": "Here's the FG of Mr. Tuff - Temple. It's compatible with this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41897\">BG</a>. Sacrifices palette 4. You'll have to use a different way to add a midpoint or goal to your level.<br>\r\n<br>\r\nEnjoy!",
-    "latest_version": "smwc-41947-1773974251",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41947,
-        "title": "Mr. Tuff - Temple",
-        "version": "smwc-41947-1773974251",
-        "upstream_time": 1773974251,
-        "download_url": "https://dl.smwcentral.net/41947/Mr.%20Tuff%20-%20Temple%20-%20FG.zip",
-        "filename": "Mr. Tuff - Temple - FG.zip",
-        "size": 11168,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2973,37 +3017,6 @@
     ]
   },
   {
-    "name": "smwgraphics-snow-bros-2-with-new-elves-world-1",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41910,
-    "title": "Snow Bros. 2: With New Elves - World 1-1",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "patch needed",
-      "underwater"
-    ],
-    "description": "Here's the BG from the 1st stage from Snow Bros. 2, I had to change this BG's Layout to make it loop properly. In the original game, it had <b>5 palettes</b>, so I had to reduce the amount of colors, because some looked a bit too similar to each other, and it had so many tiles that I had to separate them into 2 layers, I recommend y'all to set Layer 3's X scrolling to \"Variable 2\" and its Y scrolling to \"Variable\" if you want to use this BG, I'd recommend you to use a patch that <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">deletes the layer 3 status bar</a> or <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">completely replaces it with a sprite status bar</a>",
-    "latest_version": "smwc-41910-1773597956",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41910,
-        "title": "Snow Bros. 2: With New Elves - World 1-1",
-        "version": "smwc-41910-1773597956",
-        "upstream_time": 1773597956,
-        "download_url": "https://dl.smwcentral.net/41910/snowbros2world1-1.zip",
-        "filename": "snowbros2world1-1.zip",
-        "size": 11056,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-snow-bros-2-with-new-elves-world-2",
     "aliases": [],
     "section": "smwgraphics",
@@ -3029,37 +3042,6 @@
         "download_url": "https://dl.smwcentral.net/41982/snowbros2world22.zip",
         "filename": "snowbros2world22.zip",
         "size": 10592,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-soul-blazer-main-map-magridd-castle-area",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41857,
-    "title": "Soul Blazer - Main Map (Magridd Castle Area)",
-    "authors": [
-      "Anorakun"
-    ],
-    "tags": [
-      "night",
-      "sky"
-    ],
-    "description": "The dark clouds seen in the upper right half of the main map from Quintet's cult classic: Soul Blazer. I thought it looked pretty enough, so I converted it for use in Super Mario World hacks.<br>\r\n<br>\r\nYou can, optionally, add some parallax scrolling to this background.<br>\r\n<br>\r\nA good fit for night sky themed levels. ",
-    "latest_version": "smwc-41857-1773438795",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41857,
-        "title": "Soul Blazer - Main Map (Magridd Castle Area)",
-        "version": "smwc-41857-1773438795",
-        "upstream_time": 1773438795,
-        "download_url": "https://dl.smwcentral.net/41857/Soul%20Blazer%20-%20Main%20Map%20%28Magridd%20Castle%20Area%29.zip",
-        "filename": "Soul Blazer - Main Map (Magridd Castle Area).zip",
-        "size": 3591,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -4246,6 +4228,41 @@
     ]
   },
   {
+    "name": "smwmusic-onita-atsushi-fmw-killer-marshal",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42060,
+    "title": "Onita Atsushi FMW - Killer Marshal",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "boss",
+      "industrial",
+      "tense",
+      "urban"
+    ],
+    "description": "Killer Marshal's theme from Onita Atsushi FMW, a cyborg warrior trained into a machine during the main story.",
+    "latest_version": "smwc-42060-1780932787",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42060,
+        "title": "Onita Atsushi FMW - Killer Marshal",
+        "version": "smwc-42060-1780932787",
+        "upstream_time": 1780932787,
+        "download_url": "https://dl.smwcentral.net/42060/Onita%20Atsushi%20FMW%20-%20Killer%20Marshal.zip",
+        "filename": "Onita Atsushi FMW - Killer Marshal.zip",
+        "size": 58091,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-othello-world-game-with-rabbit",
     "aliases": [],
     "section": "smwmusic",
@@ -4656,6 +4673,39 @@
     ]
   },
   {
+    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-fight-against-an-armed-boss",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42208,
+    "title": "Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss",
+    "authors": [
+      "scratch"
+    ],
+    "tags": [
+      "boss",
+      "upbeat"
+    ],
+    "description": "This is the origin of 危険な series mad. ",
+    "latest_version": "smwc-42208-1780933290",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42208,
+        "title": "Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss",
+        "version": "smwc-42208-1780933290",
+        "upstream_time": 1780933290,
+        "download_url": "https://dl.smwcentral.net/42208/smrpg_armed.zip",
+        "filename": "smrpg_armed.zip",
+        "size": 73512,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-the-price-is-right-sax",
     "aliases": [],
     "section": "smwmusic",
@@ -4690,6 +4740,40 @@
     ]
   },
   {
+    "name": "smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41462,
+    "title": "The Sword of Lxsor - BGM B7 (\"Final Offensive\")",
+    "authors": [
+      "Ryman"
+    ],
+    "tags": [
+      "chase",
+      "final",
+      "tense"
+    ],
+    "description": "The Sword of Lxsor is an unreleased game for the Sharp X68000, and this is one of its many tracks. There's no known official name for it. <a href=\"https://www.youtube.com/watch?v=eHvzpztGeDo\" rel=\"nofollow\">Jharmonious</a>, who compiled the soundtrack of the game, gave the track a title.<br>\r\n <br>\r\nGood for tense areas.",
+    "latest_version": "v1.2",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41462,
+        "title": "The Sword of Lxsor - BGM B7 (\"Final Offensive\")",
+        "version": "v1.2",
+        "upstream_time": 1780863427,
+        "download_url": "https://dl.smwcentral.net/41462/Lxsor%20B7%20%28Final_Offensive%29%20v1.2.zip",
+        "filename": "Lxsor B7 (Final_Offensive) v1.2.zip",
+        "size": 24573,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-true-golf-classics-waialae-country-club-snes-award",
     "aliases": [],
     "section": "smwmusic",
@@ -4714,108 +4798,6 @@
         "download_url": "https://dl.smwcentral.net/41869/Waialae%20Country%20Club%20%28SNES%29%20-%20Award.zip",
         "filename": "Waialae Country Club (SNES) - Award.zip",
         "size": 55016,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-opening-title",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41866,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Opening/Title",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "beach",
-      "sea",
-      "title",
-      "upbeat"
-    ],
-    "description": "Opening & Title Screen music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41866-1777735012",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41866,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Opening/Title",
-        "version": "smwc-41866-1777735012",
-        "upstream_time": 1777735012,
-        "download_url": "https://dl.smwcentral.net/41866/Waialae%20Country%20Club%20%28SNES%29%20-%20Title%20Screen.zip",
-        "filename": "Waialae Country Club (SNES) - Title Screen.zip",
-        "size": 58832,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-settings",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41867,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Settings",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "menu",
-      "upbeat"
-    ],
-    "description": "Settings menu music heard in the SNES port of True Golf Classics: Waialae Country Club, originating from the PC-98 edition.",
-    "latest_version": "smwc-41867-1777742044",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41867,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Settings",
-        "version": "smwc-41867-1777742044",
-        "upstream_time": 1777742044,
-        "download_url": "https://dl.smwcentral.net/41867/Waialae%20Country%20Club%20%28SNES%29%20-%20Settings.zip",
-        "filename": "Waialae Country Club (SNES) - Settings.zip",
-        "size": 58632,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-tea-break",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41868,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Tea Break",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "beach",
-      "calm",
-      "sea"
-    ],
-    "description": "Intermission/Tea Break music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41868-1777743440",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41868,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Tea Break",
-        "version": "smwc-41868-1777743440",
-        "upstream_time": 1777743440,
-        "download_url": "https://dl.smwcentral.net/41868/Waialae%20Country%20Club%20%28SNES%29%20-%20Tea%20Break.zip",
-        "filename": "Waialae Country Club (SNES) - Tea Break.zip",
-        "size": 39388,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -7113,7 +7095,7 @@
       "sa-1",
       "swooper"
     ],
-    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
+    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42068-1774966936",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7150,7 +7132,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
