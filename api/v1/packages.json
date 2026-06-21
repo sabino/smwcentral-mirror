@@ -182,48 +182,6 @@
     ]
   },
   {
-    "name": "pixi",
-    "aliases": [
-      "pixi"
-    ],
-    "section": "tools",
-    "upstream_id": 37432,
-    "title": "PIXI v1.42 - Sprite Insertion Tool",
-    "authors": [
-      "Atari2.0",
-      "JackTheSpades",
-      "Tattletale"
-    ],
-    "tags": [
-      "cluster",
-      "extended",
-      "insert",
-      "inserter",
-      "insertion",
-      "sa-1",
-      "sprite",
-      "sprite tool",
-      "spritetool"
-    ],
-    "description": "A sprite insertion tool made to allow more dynamic sprite usage, space savings and more SA-1 compatibility.<br>\r\nDespite this, it is almost fully compatible with sprites written for older SpriteTools, save for the fact that Asar is now used as the assembler. There also the new sprite status table that has been moved from 1938 to 7FAF00, used by SubOffScreen routines since version 1.2.10.<br>\r\n<br>\r\nDetailed usage instructions, common errors and changes compared to older sprite tools can be found in the included README.html file. Version history can be found in CHANGELOG.html.<br>\r\n<br>\r\n<a href=\"https://github.com/JackTheSpades/SpriteToolSuperDelux\" rel=\"nofollow\"> Source (up to date now) </a><br>\r\n<br>\r\n<a href=\"https://github.com/JackTheSpades/SpriteToolSuperDelux/issues?q=is%3Aopen+is%3Aissue+label%3Abug\" rel=\"nofollow\"> List of known bugs/issues </a><br>\r\nAny weird issues you may encounter, please submit an issue on github at the link above, if you're not sure how to proceed, feel free to contact me on discord (atari2.0) or on the site <span class=\"un-outer\" title=\"Atari2.0\"><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=35033\" style=\"color: #f07b16;\" class=\"un\">Atari2.0</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><br>\r\nVersion 1.42 (March 27, 2024)<br>\r\n- (Fernap) Update %Random() routine to avoid having modulo bias.<br>\r\n- (Atari2.0) Include LICENSE in release zip<br>\r\n- (Atari2.0) Upgrade to Asar 1.91<br>\r\n- (Atari2.0) Fix CFG Editor bug where loading a JSON file which used GFXInfo would cause a null reference exception.<br>\r\n<br>\r\nVersion 1.41 (March 11, 2024)<br>\r\n- (mellonpizza) Add --stddefines and --stdincludes command line options.<br>\r\n- (spooonsss) Add --symbols command line option to make asar output symbols file (can be WLA or nocash)<br>\r\n- (spooonsss) Fix CFG Editor small visual bug<br>\r\n- (Iwakoro) Add define support for the \"More Extended Sprites\" patch<br>\r\n- (RunicRain) Split shared routines in a way that makes it safe for routines to call each other<br>\r\n- (Atari2.0) Add a way to consume pixi as a library (dynamic or static), and add C,C++,C# and Python bindings, see the README for more details.<br>\r\n- (Atari2.0) Fixed a routine name<br>\r\n- (Atari2.0) Add plugin system, see the README for more details<br>\r\n- (Atari2.0) Correct on-hover tooltips on icons in CFG Editor, aswell as fix maximum value of spinbox for value when using extra byte in json.<br>\r\n- (Atari2.0) Add list.txt aswell as asm/ExtraDefines asm/ExtraHijacks to the zip file so users don't have to create them on their own.<br>\r\n- (Atari2.0) Add --exerel command line option to make Pixi search for the list.txt and the mwt/mw2/ssc/s16 files relative to the exe instead of relative to the ROM<br>\r\n- (Atari2.0) Partially fix an issue that could occur with wrong path resolution when the ROM and the pixi exe are on different drives on windows.<br>\r\n- (Atari2.0) Fix a bug from 1.21 where the CFG editor feature to be able to edit ROMs directly (akin to Tweaker) introduced in 1.1 was accidentally disabled, thanks to SubconsciousEye for reporting this.<br>\r\n- (Atari2.0) Fix a bug from 1.40 with some spawning routines where a missing XBA was making the routine not work properly. Special thanks to RussianMan for reporting this.<br>\r\n- (Atari2.0) Minor README improvements (document the CFG file format mostly).<br>\r\n- (Atari2.0) Warn when inserting sprite number $7B (goal tape) in ROMs that use LM 2.53+<br>\r\n- (zuccha) FireballContact now checks exactly for player fireball value<br>\r\n- (SubconsciousEye) Add custom GFX handler for sprite status 3<br>\r\n- (MarioFanGamer) CFG Sprites will now also show up in the custom sprite collection in LM<br>\r\n- (zuccha) Add command line flags for custom misc sprites directories in README<br>\r\n- (Atari2.0) Fix SpawnCluster & other misc sprites routines using wrong positions and overwriting A, additionally set $18B8 to 1 when spawning a cluster sprite, thanks to kkevinm for reporting this.<br>\r\n- (Atari2.0) Add %SpawnMinorExtendedOverwrite routine to spawn the sprite even if there's no slots free (overwrites oldest one)<br>\r\n- (Atari2.0) Fix %ExtendedSpeed routine not applying gravity when speed was between $80 and $C0, thanks to anonimzwx for reporting this. <br>\r\n- (Atari2.0) Upgrade to Asar 1.90.<br>\r\n<br>\r\nVersion 1.40 (October 3, 2022):<br>\r\n- (Atari2.0) Fix list.txt parsing bug when paths would get wrongly split for containing spaces.<br>\r\n- (Atari2.0) Now pixi also prints warnings that asar gives instead of silently ignoring them.<br>\r\n- (Atari2.0) Fixed oversight in extra byte count assignment<br>\r\n- (JamesD28) Updated circle routines to fix sign issues with large radii on LoRom.<br>\r\n- (Atari2.0) Better error messages in general.<br>\r\n- (Atari2.0) Fixed extended sprites cape interaction.<br>\r\n- (lx5, Atari2.0) Added support for minor sprite types (minor extended, bounce, spinningcoin, etc.)<br>\r\n- (Atari2.0) Fix misplaced bracket causing ExtendedHurt routine to send Yoshi always to the right.<br>\r\n- (KevinM) Extended/Cluster defines update (details [here](https://github.com/JackTheSpades/SpriteToolSuperDelux/commit/0e0d4d24dee1066118635da3824fc648f71bd630)) <br>\r\n- (spooonsss) ExtendedGetDrawInfo: properly despawn when extended sprite is vertically offscreen <br>\r\n- (Atari2.0) Add all of the LM3.30 ssc/mwt features. More details in README.md<br>\r\n- (lx5) Updated cluster sprites routines<br>\r\n- (Atari2.0) Added utf-8 paths support on Windows. This should fix any issues with paths containing non-ascii characters.<br>\r\n- (Atari2.0) Completely overhaul the build system, use CMake, enable building pixi as a .dll, add APIs for python, c and c#.<br>\r\n- (Atari2.0) Now the print statements in sprites can be substituted by labels (`init:` etc) and they are not case sensitive anymore (e.g. `print \"init\", pc` works)<br>\r\n- (Atari2.0) A lot (and I mean a lot) of internal C++ code changes to improve the codebase and speedup the tool as well as major changes to the build system. These changes are massive but they should not be visible to external users. As such they won't be reported here but they can be found in the single commits in the repository.<br>\r\n- (Atari2.0) Add support for having a pixi_setttings.json in the same folder as the executable. This file will be used to get command line options if present. Format explained in the README<br>\r\n- (Atari2.0) Now you can have subfolders in the routines folder, the subfolder path and the routine filename will be joined to be used as the routine name, e.g. routines/Bounce/Spawn.asm -&gt; %BounceSpawn()<br>\r\n<br>\r\nVersion 1.32 (January 23, 2021):<br>\r\n  - (Atari2.0) Fixes spritetool_clean.asm not being in the asm/ folder.<br>\r\n  - (Atari2.0) Now permits nested shared routine calls, fixing https://github.com/JackTheSpades/SpriteToolSuperDelux/issues/28<br>\r\n  - (Atari2.0) Updated asar.dll to 1.80, fixes https://github.com/JackTheSpades/SpriteToolSuperDelux/issues/35<br>\r\n  - (Atari2.0) Updated and fixed make, Makefile and .gitignore<br>\r\n  - (Atari2.0) Added escaping to ! in filepaths, fixes https://github.com/JackTheSpades/SpriteToolSuperDelux/issues/16<br>\r\n  - (Atari2.0) Added autoclean to all sprite pointers, fixes https://github.com/JackTheSpades/SpriteToolSuperDelux/issues/34<br>\r\n  - (Atari2.0) Fixed various compiler warnings, swapped fread arguments causing an error when writing extmod file.<br>\r\n  - (Atari2.0) Fixed snestopc not working correctly on SA-1 roms bigger than 2 mbs<br>\r\n  - (Atari2.0) Greatly refactored and reworked MeiMei, embedded both ROM classes in one<br>\r\n  - (Atari2.0) Made Pixi work on +6mb ROMs correctly<br>\r\n  - (Atari2.0) Now can use -nr to specify max number of shared routines<br>\r\n  - (Atari2.0) Fixed various memory leaks, along with a couple of asar warnings related to relative paths being used.<br>\r\n  - (Atari2.0) You can now use comments in your list.txt file<br>\r\n  - (Atari2.0) Completely rewritten populate_sprite_list and relative_directory to fix various bugs related to pathing.<br>\r\n  <br>\r\n</div></div>",
-    "latest_version": "smwc-37432-1727660254",
-    "install_kind": "tool",
-    "versions": [
-      {
-        "upstream_id": 37432,
-        "title": "PIXI v1.42 - Sprite Insertion Tool",
-        "version": "smwc-37432-1727660254",
-        "upstream_time": 1727660254,
-        "download_url": "https://dl.smwcentral.net/37432/pixi_v1.42.zip",
-        "filename": "pixi_v1.42.zip",
-        "size": 1051380,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "tool"
-      }
-    ]
-  },
-  {
     "name": "smwblocks-32x32-coins-v1",
     "aliases": [],
     "section": "smwblocks",
@@ -592,7 +550,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -949,7 +907,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -1301,7 +1259,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -2205,7 +2163,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -2322,38 +2280,6 @@
         "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
         "filename": "enemy-585-castle.zip",
         "size": 7582,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-fancy-nintendo-logo",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41981,
-    "title": "Fancy Nintendo Logo",
-    "authors": [
-      "Deus Oculi"
-    ],
-    "tags": [
-      "japanese",
-      "logo",
-      "nintendo presents"
-    ],
-    "description": "I wanted to make something to replace that boring old Nintendo Presents logo, so I made this. It's not anything groundbreaking, but I think it's much nicer than leaving the Nintendo logo unchanged.",
-    "latest_version": "smwc-41981-1774120014",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41981,
-        "title": "Fancy Nintendo Logo",
-        "version": "smwc-41981-1774120014",
-        "upstream_time": 1774120014,
-        "download_url": "https://dl.smwcentral.net/41981/fancy_nintendo.zip",
-        "filename": "fancy_nintendo.zip",
-        "size": 2020,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2478,37 +2404,6 @@
         "download_url": "https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip",
         "filename": "Madou Monogatari A-R-S - Arle%27s Story - Cave.zip",
         "size": 5961,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-metroid-fusion-pipeline-interior-sector",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41948,
-    "title": "Metroid Fusion - Pipeline Interior (Sector 2)",
-    "authors": [
-      "Rykon-V73"
-    ],
-    "tags": [
-      "mechanical",
-      "pipe"
-    ],
-    "description": "Here's another tileset release at Winter C3 2026. <br>\r\n<br>\r\nI had to use Metroid Fusion - Pipeline Interior as reference. <br>\r\n<br>\r\nUses the second half of palette row 4.<br>\r\n<br>\r\nTileset uses level mode 2 as both FG and BG have the same scrolling. ",
-    "latest_version": "smwc-41948-1773974554",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41948,
-        "title": "Metroid Fusion - Pipeline Interior (Sector 2)",
-        "version": "smwc-41948-1773974554",
-        "upstream_time": 1773974554,
-        "download_url": "https://dl.smwcentral.net/41948/MF%20-%20Pipeline%20Interior%20%28Sector%202%29.zip",
-        "filename": "MF - Pipeline Interior (Sector 2).zip",
-        "size": 12573,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3017,38 +2912,6 @@
     ]
   },
   {
-    "name": "smwgraphics-snow-bros-2-with-new-elves-world-2",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41982,
-    "title": "Snow Bros. 2: With New Elves - World 2-2",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "jungle",
-      "mountain",
-      "patch needed"
-    ],
-    "description": "The beanstalk waterfall BG from Snow Bros. 2, I had to separate this BG into 2 separate layers, make sure to set layer 3's X scrolling to \"Variable\" and its Y scrolling to \"Auto-Scroll Down Normal\", plus, you need to use a patch to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">remove the layer 3 status bar</a> or a patch to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">replace it with a sprite status bar</a>",
-    "latest_version": "smwc-41982-1774116709",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41982,
-        "title": "Snow Bros. 2: With New Elves - World 2-2",
-        "version": "smwc-41982-1774116709",
-        "upstream_time": 1774116709,
-        "download_url": "https://dl.smwcentral.net/41982/snowbros2world22.zip",
-        "filename": "snowbros2world22.zip",
-        "size": 10592,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-super-double-dragon-airport-runway",
     "aliases": [],
     "section": "smwgraphics",
@@ -3196,10 +3059,8 @@
       "Natsuz2"
     ],
     "tags": [
-      "2bpp",
       "castle",
-      "desert",
-      "sky"
+      "desert"
     ],
     "description": "I found this background in the first castle of SMAS 3 and decided to put it next to its layer 3. They are available here.<br>\r\nI also put the animation of the lamps above the background.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=30076\">The foreground can be found here!</a>",
     "latest_version": "smwc-42045-1774718448",
@@ -3228,15 +3089,33 @@
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-maker",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42536,
+    "title": "Super Mario Maker 2 : Super Mario World  - Firebar Block",
+    "authors": [
+      "Hamilton Silva de Almeida"
+    ],
+    "tags": [
+      "block"
+    ],
+    "description": "Super Mario Maker 2 Firebar blocks, compatible with Isokoro's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=36788\">Customizable Circle Sprites v1.2</a> . ",
+    "latest_version": "smwc-42536-1781457423",
+    "install_kind": "asset_only",
+    "versions": [
       {
-        "upstream_id": 41926,
-        "title": "Super Mario All-Stars: Super Mario Bros. 3 - Treasure Ship",
-        "version": "smwc-41926-1774119086",
-        "upstream_time": 1774119086,
-        "download_url": "https://dl.smwcentral.net/41926/SMB3%20Clouds.zip",
-        "filename": "SMB3 Clouds.zip",
-        "size": 2459,
+        "upstream_id": 42536,
+        "title": "Super Mario Maker 2 : Super Mario World  - Firebar Block",
+        "version": "smwc-42536-1781457423",
+        "upstream_time": 1781457423,
+        "download_url": "https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip",
+        "filename": "SMM2 Firebar Block.zip",
+        "size": 2942,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3312,6 +3191,71 @@
         "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
         "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
         "size": 127549,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-mario-bros-ice-fort",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42548,
+    "title": "Super Mario World Styled Mario Bros. Ice Fort",
+    "authors": [
+      "Ganbare-Lucifer",
+      "edgar"
+    ],
+    "tags": [
+      "castle",
+      "ice",
+      "snow"
+    ],
+    "description": "A Super Mario World styled take on the ice fort background of the Mario Bros. port on GBA.<br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
+    "latest_version": "smwc-42548-1781724584",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42548,
+        "title": "Super Mario World Styled Mario Bros. Ice Fort",
+        "version": "smwc-42548-1781724584",
+        "upstream_time": 1781724584,
+        "download_url": "https://dl.smwcentral.net/42548/SMW%20Styled%20Mario%20Bros%20Ice%20Fort.zip",
+        "filename": "SMW Styled Mario Bros Ice Fort.zip",
+        "size": 4125,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-mario-bros-lava-sewer",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42549,
+    "title": "Super Mario World Styled Mario Bros. Lava Sewer",
+    "authors": [
+      "Ganbare-Lucifer",
+      "edgar"
+    ],
+    "tags": [
+      "castle",
+      "fire"
+    ],
+    "description": "A Super Mario World-styled take on <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32155\">this background</a> of the Mario Bros. port on GBA.<br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
+    "latest_version": "smwc-42549-1781724856",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42549,
+        "title": "Super Mario World Styled Mario Bros. Lava Sewer",
+        "version": "smwc-42549-1781724856",
+        "upstream_time": 1781724856,
+        "download_url": "https://dl.smwcentral.net/42549/SMW%20Styled%20Mario%20Bros%20Lava%20Sewer.zip",
+        "filename": "SMW Styled Mario Bros Lava Sewer.zip",
+        "size": 4691,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3468,6 +3412,35 @@
         "download_url": "https://dl.smwcentral.net/41717/wizardoz_forest.zip",
         "filename": "wizardoz_forest.zip",
         "size": 5231,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-wario-waluigi",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42517,
+    "title": "Wario & Waluigi",
+    "authors": [
+      "Ganbare-Lucifer",
+      "edgar"
+    ],
+    "tags": [],
+    "description": "Long due overworld graphics that are best suited for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=693\">this submission.</a><br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
+    "latest_version": "smwc-42517-1781467404",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42517,
+        "title": "Wario & Waluigi",
+        "version": "smwc-42517-1781467404",
+        "upstream_time": 1781467404,
+        "download_url": "https://dl.smwcentral.net/42517/Wario%20%26%20Waluigi.zip",
+        "filename": "Wario %26 Waluigi.zip",
+        "size": 4600,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3645,6 +3618,56 @@
         "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
         "filename": "Last Castle.zip",
         "size": 25217,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-full-tilt-3d-pinball-space-cadet-main-theme",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42401,
+    "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
+    "authors": [
+      "7 up"
+    ],
+    "tags": [
+      "abstract",
+      "bonus",
+      "dark",
+      "space",
+      "urban"
+    ],
+    "description": "(Keep the other unsampled version of this as well, due to nostalgia.)<br>\r\n<br>\r\nJust decided to post an unsampled version that I only fixed just now and had sitting on my disk for a few months. Anyway, when you ran out of connection, you naturally played this game on an old PC.<br>\r\n<br>\r\nBest for space/casino bonus areas.",
+    "latest_version": "smwc-42401-1781430748",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42401,
+        "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
+        "version": "smwc-42401-1781430748",
+        "upstream_time": 1781430748,
+        "download_url": "https://dl.smwcentral.net/42401/pinball%20main%20%28u%29.zip",
+        "filename": "pinball main (u).zip",
+        "size": 32363,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 41796,
+        "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
+        "version": "smwc-41796-1781430255",
+        "upstream_time": 1781430255,
+        "download_url": "https://dl.smwcentral.net/41796/pinball%20main.zip",
+        "filename": "pinball main.zip",
+        "size": 55854,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3841,12 +3864,9 @@
       "bonus",
       "calm",
       "credits",
-      "cutscene",
-      "menu",
       "overworld",
       "sea",
-      "sky",
-      "town"
+      "sky"
     ],
     "description": "Victory music after completing all 18 holes as heard i in the SFC port of Masters: Harukanaru Augusta 2, originating from the PC-98 edition.",
     "latest_version": "smwc-41957-1778078451",
@@ -3888,98 +3908,6 @@
         "download_url": "https://dl.smwcentral.net/41955/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Tea%20Break.zip",
         "filename": "Masters Harukanaru Augusta 2 (SFC) - Tea Break.zip",
         "size": 54918,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41954,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Hole in One",
-        "version": "smwc-41954-1778078409",
-        "upstream_time": 1778078409,
-        "download_url": "https://dl.smwcentral.net/41954/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Hole%20in%20One.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Hole in One.zip",
-        "size": 66239,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41950,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Settings",
-        "version": "smwc-41950-1778078360",
-        "upstream_time": 1778078360,
-        "download_url": "https://dl.smwcentral.net/41950/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Settings.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Settings.zip",
-        "size": 64740,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-masters-harukanaru-augusta-2-sfc-course-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41953,
-    "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 3",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "forest",
-      "grassland",
-      "sea",
-      "sky",
-      "upbeat"
-    ],
-    "description": "One of the three in-game golfing tunes heard in the SFC port of Masters: Harukanaru Augusta 2.",
-    "latest_version": "smwc-41953-1778078399",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41953,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 3",
-        "version": "smwc-41953-1778078399",
-        "upstream_time": 1778078399,
-        "download_url": "https://dl.smwcentral.net/41953/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%203.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Course BGM 3.zip",
-        "size": 57933,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41952,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 2",
-        "version": "smwc-41952-1778078381",
-        "upstream_time": 1778078381,
-        "download_url": "https://dl.smwcentral.net/41952/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%202.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Course BGM 2.zip",
-        "size": 47053,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41951,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 1",
-        "version": "smwc-41951-1778078370",
-        "upstream_time": 1778078370,
-        "download_url": "https://dl.smwcentral.net/41951/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%201.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Course BGM 1.zip",
-        "size": 53439,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4502,6 +4430,107 @@
     ]
   },
   {
+    "name": "smwmusic-pizza-tower-extraterrestrial-wahwahs",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41636,
+    "title": "Pizza Tower - Extraterrestrial Wahwahs",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "abstract",
+      "space",
+      "upbeat"
+    ],
+    "description": "Deep Dish 9's level theme from Pizza Tower, which takes place on space planets.<br>\r\n",
+    "latest_version": "smwc-41636-1781743322",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41636,
+        "title": "Pizza Tower - Extraterrestrial Wahwahs",
+        "version": "smwc-41636-1781743322",
+        "upstream_time": 1781743322,
+        "download_url": "https://dl.smwcentral.net/41636/Pizza%20Tower%20-%20Extraterrestrial%20Wahwahs.zip",
+        "filename": "Pizza Tower - Extraterrestrial Wahwahs.zip",
+        "size": 37398,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-pizza-tower-good-eatin",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41637,
+    "title": "Pizza Tower - Good Eatin'",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "grassland"
+    ],
+    "description": "GOLF's level theme from Pizza Tower, taking place at golf courses.",
+    "latest_version": "smwc-41637-1781747053",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41637,
+        "title": "Pizza Tower - Good Eatin'",
+        "version": "smwc-41637-1781747053",
+        "upstream_time": 1781747053,
+        "download_url": "https://dl.smwcentral.net/41637/Pizza%20Tower%20-%20Good%20Eatin%27.zip",
+        "filename": "Pizza Tower - Good Eatin%27.zip",
+        "size": 33944,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-pizza-tower-mmm-yes-put-the-tree-on-my-pizza",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41638,
+    "title": "Pizza Tower - mmm yes put the tree on my pizza",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "forest",
+      "jungle",
+      "upbeat"
+    ],
+    "description": "Gnome Forest's initial level theme from Pizza Tower.",
+    "latest_version": "smwc-41638-1781747056",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41638,
+        "title": "Pizza Tower - mmm yes put the tree on my pizza",
+        "version": "smwc-41638-1781747056",
+        "upstream_time": 1781747056,
+        "download_url": "https://dl.smwcentral.net/41638/Pizza%20Tower%20-%20mmm%20yes%20put%20the%20tree%20on%20my%20pizza.zip",
+        "filename": "Pizza Tower - mmm yes put the tree on my pizza.zip",
+        "size": 33674,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-puyo-puyo-theme",
     "aliases": [],
     "section": "smwmusic",
@@ -4604,6 +4633,42 @@
     ]
   },
   {
+    "name": "smwmusic-sonic-the-hedgehog-ms-gg-special-stage",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42252,
+    "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+    "authors": [
+      "Dzing"
+    ],
+    "tags": [
+      "airship",
+      "bonus",
+      "night",
+      "space",
+      "upbeat"
+    ],
+    "description": "16-bit arrangement of the bonus stage of Sonic 8-bit. Requested by <span class=\"un-outer\" title=\"MaxtonChao\"><a href=\"/?p=profile&amp;id=69227\" style=\"color: var(--user-color-1);\" class=\"un\">MaxtonChao</a></span>.<br>\r\n<br>\r\nI used a tempo somewhere between the NTSC and PAL versions. Use t43 for the PAL version and t51 for the NTSC version.",
+    "latest_version": "smwc-42252-1781747812",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42252,
+        "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+        "version": "smwc-42252-1781747812",
+        "upstream_time": 1781747812,
+        "download_url": "https://dl.smwcentral.net/42252/sonic8bit-bonusstage%20.zip",
+        "filename": "sonic8bit-bonusstage .zip",
+        "size": 32604,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-super-bomberman",
     "aliases": [],
     "section": "smwmusic",
@@ -4673,6 +4738,42 @@
     ]
   },
   {
+    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-bowser-s-keep-first-visit",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41931,
+    "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+    "authors": [
+      "Moltz",
+      "h.carrell"
+    ],
+    "tags": [
+      "castle",
+      "dark",
+      "final",
+      "overworld"
+    ],
+    "description": "The shorter variation of Bowser's Castle in SMRPG that plays at the start of the game. This one could probably fit an overworld of sorts.",
+    "latest_version": "smwc-41931-1781459862",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41931,
+        "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+        "version": "smwc-41931-1781459862",
+        "upstream_time": 1781459862,
+        "download_url": "https://dl.smwcentral.net/41931/Super%20Mario%20RPG_Bowser%27s%20Castle%20%281st%20Visit%29.zip",
+        "filename": "Super Mario RPG_Bowser%27s Castle (1st Visit).zip",
+        "size": 31362,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-fight-against-an-armed-boss",
     "aliases": [],
     "section": "smwmusic",
@@ -4697,40 +4798,6 @@
         "download_url": "https://dl.smwcentral.net/42208/smrpg_armed.zip",
         "filename": "smrpg_armed.zip",
         "size": 73512,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-the-price-is-right-sax",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41744,
-    "title": "The Price Is Right (Sax Version)",
-    "authors": [
-      "jneen"
-    ],
-    "tags": [
-      "bonus",
-      "menu",
-      "title"
-    ],
-    "description": "Theme song for the UK version of The Price Is Right with Bruce Forsyth. As heard in pixlrik's precision hack \"The Precise Is Right\".<br>\r\n<br>\r\nThis theme was used in the Bruce Forsyth version (UK 1995), as well as The New Price Is Right (US 1994), and possibly others. The naming of syndications and spin-offs of The Price Is Right is extremely confusing, but this is the jazzy one with the epic saxophone solo.<br>\r\n<br>\r\nUses samples from PlayerSounds '23 and Super Bonk.",
-    "latest_version": "smwc-41744-1777997568",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41744,
-        "title": "The Price Is Right (Sax Version)",
-        "version": "smwc-41744-1777997568",
-        "upstream_time": 1777997568,
-        "download_url": "https://dl.smwcentral.net/41744/price-is-right.zip",
-        "filename": "price-is-right.zip",
-        "size": 48628,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4765,39 +4832,6 @@
         "download_url": "https://dl.smwcentral.net/41462/Lxsor%20B7%20%28Final_Offensive%29%20v1.2.zip",
         "filename": "Lxsor B7 (Final_Offensive) v1.2.zip",
         "size": 24573,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-award",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41869,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Award",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "credits",
-      "cutscene"
-    ],
-    "description": "'Congratulations'<br>\r\nChampions/Award victory music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41869-1777744372",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41869,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Award",
-        "version": "smwc-41869-1777744372",
-        "upstream_time": 1777744372,
-        "download_url": "https://dl.smwcentral.net/41869/Waialae%20Country%20Club%20%28SNES%29%20-%20Award.zip",
-        "filename": "Waialae Country Club (SNES) - Award.zip",
-        "size": 55016,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -7095,7 +7129,7 @@
       "sa-1",
       "swooper"
     ],
-    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
+    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42068-1774966936",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7132,7 +7166,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -9712,6 +9746,46 @@
     ]
   },
   {
+    "name": "tools-pixi-v1",
+    "aliases": [],
+    "section": "tools",
+    "upstream_id": 41283,
+    "title": "PIXI v1.43 - Sprite Insertion Tool",
+    "authors": [
+      "Atari2.0",
+      "JackTheSpades",
+      "Tattletale"
+    ],
+    "tags": [
+      "cluster",
+      "extended",
+      "insert",
+      "inserter",
+      "insertion",
+      "sa-1",
+      "sprite",
+      "sprite tool",
+      "spritetool"
+    ],
+    "description": "A sprite insertion tool made to allow more dynamic sprite usage, space savings and more SA-1 compatibility.<br>\r\nDespite this, it is almost fully compatible with sprites written for older SpriteTools, save for the fact that Asar is now used as the assembler. There also the new sprite status table that has been moved from 1938 to 7FAF00, used by SubOffScreen routines since version 1.2.10.<br>\r\n<br>\r\nDetailed usage instructions, common errors and changes compared to older sprite tools can be found in the included README.html file. Version history can be found in CHANGELOG.html.<br>\r\n<br>\r\n<a href=\"https://github.com/JackTheSpades/SpriteToolSuperDelux\" rel=\"nofollow\"> Source (up to date now) </a><br>\r\n<br>\r\n<a href=\"https://github.com/JackTheSpades/SpriteToolSuperDelux/issues?q=is%3Aopen+is%3Aissue+label%3Abug\" rel=\"nofollow\"> List of known bugs/issues </a><br>\r\nAny weird issues you may encounter, please submit an issue on github at the link above.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><br>\r\nVersion 1.43 (December 12, 2025)<br>\r\n- (Atari2.0) Link statically to Asar instead of dynamically so Pixi doesn't need asar.dll to run anymore, if an external tool prefers dynamic linking, they can still build from source and link dynamically by setting the CMake variable ASAR_USE_DLL to ON.<br>\r\n- (Atari2.0) Fix MeiMei incorrectly capping sprite data size at 0x800 and report when sprites in a level go beyond 255.<br>\r\n- (Atari2.0) Fix a feature_deprecated warning in sa1def.asm by using immediate define assignment, thanks to Koopster for reporting this.<br>\r\n- (Atari2.0) Fix incorrect symlink handling in shared routines insertion<br>\r\n- (Fernap) Fix a bug with %Random() where an off-by-one error in the reading of the random number address would cause bias in the generated random numbers.<br>\r\n- (Fernap) Change labels in %invoke_snes() to be macro-local.<br>\r\n- (Atari2.0) Fix bug with -no-lm-aux where it wouldn't generate \\_customsize.bin and thus fail insertion.<br>\r\n- (Atari2.0) Revert a change from 1.41 where CFG sprites would always show up in the custom sprite collection in LM, instead now to have a CFG sprite display in the LM custom sprite collection, append \"display\" to the corresponding list entry.<br>\r\n- (Atari2.0) Fix a bug with per-level sprites where they wouldn't get cleaned at all before re-inserting them, thanks to BatataDouce for reporting this.<br>\r\n- (Iwakoro) Add CircleXY, ClusterSpeed routines<br>\r\n- (Iwakoro) Add support for varying gravity values in ExtendedSpeed routine<br>\r\n- (Fernap) Add ReplaceSelf routine<br>\r\n- (Atari2.0) Fix a bug with per-level sprites and custom status pointers where they would get called with wrong data bank set even thought it was explicitely said in the README that it would be.<br>\r\n- (Atari2.0) Make the -w command line option default to true, so now warnings are printed by default, -w is now deprecated and adding it to the command line does nothing.<br>\r\n- (Atari2.0) Added the -wno command line option to disable asar warnings, this is not recommended and should only be used if you know what you're doing.<br>\r\n- (Atari2.0) Added the --script-mode command line options to disable the user prompts during the insertion process, this is useful for scripting purposes, note that in script mode, the ROM path is required to be passed as a command line argument.<br>\r\n<br>\r\nVersion 1.42 (March 27, 2024)<br>\r\n- (Fernap) Update %Random() routine to avoid having modulo bias.<br>\r\n- (Atari2.0) Include LICENSE in release zip<br>\r\n- (Atari2.0) Upgrade to Asar 1.91<br>\r\n- (Atari2.0) Fix CFG Editor bug where loading a JSON file which used GFXInfo would cause a null reference exception.<br>\r\n<br>\r\nVersion 1.41 (March 11, 2024)<br>\r\n- (mellonpizza) Add --stddefines and --stdincludes command line options.<br>\r\n- (spooonsss) Add --symbols command line option to make asar output symbols file (can be WLA or nocash)<br>\r\n- (spooonsss) Fix CFG Editor small visual bug<br>\r\n- (Iwakoro) Add define support for the \"More Extended Sprites\" patch<br>\r\n- (RunicRain) Split shared routines in a way that makes it safe for routines to call each other<br>\r\n- (Atari2.0) Add a way to consume pixi as a library (dynamic or static), and add C,C++,C# and Python bindings, see the README for more details.<br>\r\n- (Atari2.0) Fixed a routine name<br>\r\n- (Atari2.0) Add plugin system, see the README for more details<br>\r\n- (Atari2.0) Correct on-hover tooltips on icons in CFG Editor, aswell as fix maximum value of spinbox for value when using extra byte in json.<br>\r\n- (Atari2.0) Add list.txt aswell as asm/ExtraDefines asm/ExtraHijacks to the zip file so users don't have to create them on their own.<br>\r\n- (Atari2.0) Add --exerel command line option to make Pixi search for the list.txt and the mwt/mw2/ssc/s16 files relative to the exe instead of relative to the ROM<br>\r\n- (Atari2.0) Partially fix an issue that could occur with wrong path resolution when the ROM and the pixi exe are on different drives on windows.<br>\r\n- (Atari2.0) Fix a bug from 1.21 where the CFG editor feature to be able to edit ROMs directly (akin to Tweaker) introduced in 1.1 was accidentally disabled, thanks to SubconsciousEye for reporting this.<br>\r\n- (Atari2.0) Fix a bug from 1.40 with some spawning routines where a missing XBA was making the routine not work properly. Special thanks to RussianMan for reporting this.<br>\r\n- (Atari2.0) Minor README improvements (document the CFG file format mostly).<br>\r\n- (Atari2.0) Warn when inserting sprite number $7B (goal tape) in ROMs that use LM 2.53+<br>\r\n- (zuccha) FireballContact now checks exactly for player fireball value<br>\r\n- (SubconsciousEye) Add custom GFX handler for sprite status 3<br>\r\n- (MarioFanGamer) CFG Sprites will now also show up in the custom sprite collection in LM<br>\r\n- (zuccha) Add command line flags for custom misc sprites directories in README<br>\r\n- (Atari2.0) Fix SpawnCluster & other misc sprites routines using wrong positions and overwriting A, additionally set $18B8 to 1 when spawning a cluster sprite, thanks to kkevinm for reporting this.<br>\r\n- (Atari2.0) Add %SpawnMinorExtendedOverwrite routine to spawn the sprite even if there's no slots free (overwrites oldest one)<br>\r\n- (Atari2.0) Fix %ExtendedSpeed routine not applying gravity when speed was between $80 and $C0, thanks to anonimzwx for reporting this. <br>\r\n- (Atari2.0) Upgrade to Asar 1.90.<br>\r\n<br>\r\nVersion 1.40 (October 3, 2022):<br>\r\n- (Atari2.0) Fix list.txt parsing bug when paths would get wrongly split for containing spaces.<br>\r\n- (Atari2.0) Now pixi also prints warnings that asar gives instead of silently ignoring them.<br>\r\n- (Atari2.0) Fixed oversight in extra byte count assignment<br>\r\n- (JamesD28) Updated circle routines to fix sign issues with large radii on LoRom.<br>\r\n- (Atari2.0) Better error messages in general.<br>\r\n- (Atari2.0) Fixed extended sprites cape interaction.<br>\r\n- (lx5, Atari2.0) Added support for minor sprite types (minor extended, bounce, spinningcoin, etc.)<br>\r\n- (Atari2.0) Fix misplaced bracket causing ExtendedHurt routine to send Yoshi always to the right.<br>\r\n- (KevinM) Extended/Cluster defines update (details [here](https://github.com/JackTheSpades/SpriteToolSuperDelux/commit/0e0d4d24dee1066118635da3824fc648f71bd630)) <br>\r\n- (spooonsss) ExtendedGetDrawInfo: properly despawn when extended sprite is vertically offscreen <br>\r\n- (Atari2.0) Add all of the LM3.30 ssc/mwt features. More details in README.md<br>\r\n- (lx5) Updated cluster sprites routines<br>\r\n- (Atari2.0) Added utf-8 paths support on Windows. This should fix any issues with paths containing non-ascii characters.<br>\r\n- (Atari2.0) Completely overhaul the build system, use CMake, enable building pixi as a .dll, add APIs for python, c and c#.<br>\r\n- (Atari2.0) Now the print statements in sprites can be substituted by labels (`init:` etc) and they are not case sensitive anymore (e.g. `print \"init\", pc` works)<br>\r\n- (Atari2.0) A lot (and I mean a lot) of internal C++ code changes to improve the codebase and speedup the tool as well as major changes to the build system. These changes are massive but they should not be visible to external users. As such they won't be reported here but they can be found in the single commits in the repository.<br>\r\n- (Atari2.0) Add support for having a pixi_setttings.json in the same folder as the executable. This file will be used to get command line options if present. Format explained in the README<br>\r\n- (Atari2.0) Now you can have subfolders in the routines folder, the subfolder path and the routine filename will be joined to be used as the routine name, e.g. routines/Bounce/Spawn.asm -&gt; %BounceSpawn()<br>\r\n  <br>\r\n</div></div>",
+    "latest_version": "smwc-41283-1781888804",
+    "install_kind": "tool",
+    "versions": [
+      {
+        "upstream_id": 41283,
+        "title": "PIXI v1.43 - Sprite Insertion Tool",
+        "version": "smwc-41283-1781888804",
+        "upstream_time": 1781888804,
+        "download_url": "https://dl.smwcentral.net/41283/pixi_v1.43.zip",
+        "filename": "pixi_v1.43.zip",
+        "size": 934298,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "tool"
+      }
+    ]
+  },
+  {
     "name": "tools-romclean",
     "aliases": [],
     "section": "tools",
@@ -9920,7 +9994,7 @@
       "sa-1",
       "score"
     ],
-    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
+    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
     "latest_version": "smwc-41058-1763938565",
     "install_kind": "uber_asm",
     "versions": [
@@ -11656,7 +11730,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

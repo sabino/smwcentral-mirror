@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-bowser-s-keep-first-visit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41931,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+  "authors": [
+    "Moltz",
+    "h.carrell"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "final",
+    "overworld"
+  ],
+  "description": "The shorter variation of Bowser's Castle in SMRPG that plays at the start of the game. This one could probably fit an overworld of sorts.",
+  "latest_version": "smwc-41931-1781459862",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41931,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+      "version": "smwc-41931-1781459862",
+      "upstream_time": 1781459862,
+      "download_url": "https://dl.smwcentral.net/41931/Super%20Mario%20RPG_Bowser%27s%20Castle%20%281st%20Visit%29.zip",
+      "filename": "Super Mario RPG_Bowser%27s Castle (1st Visit).zip",
+      "size": 31362,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -58,18 +58,6 @@ X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/41329/lm363.zip
 Description: Lunar Magic 3.63
 
-Package: pixi
-Version: smwc-37432-1727660254
-Section: tools
-Architecture: smw
-Maintainer: Atari2.0, JackTheSpades, Tattletale
-Filename: pool/tools/37432/pixi_v1.42.zip
-Size: 1051380
-X-SMWC-ID: 37432
-X-SMWAPT-Kind: Tool
-X-SMWAPT-URL: https://dl.smwcentral.net/37432/pixi_v1.42.zip
-Description: PIXI v1.42 - Sprite Insertion Tool
-
 Package: smwblocks-32x32-coins-v1
 Version: smwc-41176-1764467824
 Section: smwblocks
@@ -790,18 +778,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42526/enemy-585-castle.zip
 Description: Enemy 585 - Castle
 
-Package: smwgraphics-fancy-nintendo-logo
-Version: smwc-41981-1774120014
-Section: smwgraphics
-Architecture: smw
-Maintainer: Deus Oculi
-Filename: pool/smwgraphics/41981/fancy_nintendo.zip
-Size: 2020
-X-SMWC-ID: 41981
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/41981/fancy_nintendo.zip
-Description: Fancy Nintendo Logo
-
 Package: smwgraphics-fantasy-zone-gear-stage
 Version: smwc-42455-1780247865
 Section: smwgraphics
@@ -849,18 +825,6 @@ X-SMWC-ID: 42344
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip
 Description: Madou Monogatari A-R-S: Arle's Story - Cave
-
-Package: smwgraphics-metroid-fusion-pipeline-interior-sector
-Version: smwc-41948-1773974554
-Section: smwgraphics
-Architecture: smw
-Maintainer: Rykon-V73
-Filename: pool/smwgraphics/41948/MF - Pipeline Interior (Sector 2).zip
-Size: 12573
-X-SMWC-ID: 41948
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/41948/MF%20-%20Pipeline%20Interior%20%28Sector%202%29.zip
-Description: Metroid Fusion - Pipeline Interior (Sector 2)
 
 Package: smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt
 Version: smwc-41579-1778486576
@@ -1054,18 +1018,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42296/Redrawn%20Styled%20Tap-Tap.zip
 Description: Redrawn Styled Tap-Tap
 
-Package: smwgraphics-snow-bros-2-with-new-elves-world-2
-Version: smwc-41982-1774116709
-Section: smwgraphics
-Architecture: smw
-Maintainer: playagmes169
-Filename: pool/smwgraphics/41982/snowbros2world22.zip
-Size: 10592
-X-SMWC-ID: 41982
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/41982/snowbros2world22.zip
-Description: Snow Bros. 2: With New Elves - World 2-2
-
 Package: smwgraphics-super-double-dragon-airport-runway
 Version: smwc-41993-1774286676
 Section: smwgraphics
@@ -1126,6 +1078,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42045/SMAS3%20Desert.zip
 Description: Super Mario All-Stars: Super Mario Bros. 3 - Desert
 
+Package: smwgraphics-super-mario-maker
+Version: smwc-42536-1781457423
+Section: smwgraphics
+Architecture: smw
+Maintainer: Hamilton Silva de Almeida
+Filename: pool/smwgraphics/42536/SMM2 Firebar Block.zip
+Size: 2942
+X-SMWC-ID: 42536
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip
+Description: Super Mario Maker 2 : Super Mario World - Firebar Block
+
 Package: smwgraphics-super-mario-world
 Version: smwc-42468-1780361043
 Section: smwgraphics
@@ -1149,6 +1113,30 @@ X-SMWC-ID: 42347
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip
 Description: Super Mario World Styled Luigi (Beta & SMA2-inspired)
+
+Package: smwgraphics-super-mario-world-styled-mario-bros-ice-fort
+Version: smwc-42548-1781724584
+Section: smwgraphics
+Architecture: smw
+Maintainer: Ganbare-Lucifer, edgar
+Filename: pool/smwgraphics/42548/SMW Styled Mario Bros Ice Fort.zip
+Size: 4125
+X-SMWC-ID: 42548
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42548/SMW%20Styled%20Mario%20Bros%20Ice%20Fort.zip
+Description: Super Mario World Styled Mario Bros. Ice Fort
+
+Package: smwgraphics-super-mario-world-styled-mario-bros-lava-sewer
+Version: smwc-42549-1781724856
+Section: smwgraphics
+Architecture: smw
+Maintainer: Ganbare-Lucifer, edgar
+Filename: pool/smwgraphics/42549/SMW Styled Mario Bros Lava Sewer.zip
+Size: 4691
+X-SMWC-ID: 42549
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42549/SMW%20Styled%20Mario%20Bros%20Lava%20Sewer.zip
+Description: Super Mario World Styled Mario Bros. Lava Sewer
 
 Package: smwgraphics-super-mario-world-styled-super-mario-world
 Version: smwc-42241-1777144690
@@ -1210,6 +1198,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/41717/wizardoz_forest.zip
 Description: The Wizard of Oz (SNES) - Forest
 
+Package: smwgraphics-wario-waluigi
+Version: smwc-42517-1781467404
+Section: smwgraphics
+Architecture: smw
+Maintainer: Ganbare-Lucifer, edgar
+Filename: pool/smwgraphics/42517/Wario %26 Waluigi.zip
+Size: 4600
+X-SMWC-ID: 42517
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42517/Wario%20%26%20Waluigi.zip
+Description: Wario & Waluigi
+
 Package: smwmusic-aurora-borealis-catastrophe
 Version: smwc-42014-1778443412
 Section: smwmusic
@@ -1269,6 +1269,18 @@ X-SMWC-ID: 41719
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41719/Last%20Castle.zip
 Description: Final Fantasy: Mystic Quest - Last Castle
+
+Package: smwmusic-full-tilt-3d-pinball-space-cadet-main-theme
+Version: smwc-42401-1781430748
+Section: smwmusic
+Architecture: smw
+Maintainer: 7 up
+Filename: pool/smwmusic/42401/pinball main (u).zip
+Size: 32363
+X-SMWC-ID: 42401
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42401/pinball%20main%20%28u%29.zip
+Description: Full Tilt!/3D Pinball: Space Cadet - Main Theme
 
 Package: smwmusic-galaxy-force-ii-arcade-alone-fighter
 Version: smwc-42035-1778446018
@@ -1341,18 +1353,6 @@ X-SMWC-ID: 41957
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41957/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Award.zip
 Description: Masters: Harukanaru Augusta 2 (SFC) - Award
-
-Package: smwmusic-masters-harukanaru-augusta-2-sfc-course-bgm
-Version: smwc-41953-1778078399
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41953/Masters Harukanaru Augusta 2 (SFC) - Course BGM 3.zip
-Size: 57933
-X-SMWC-ID: 41953
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41953/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%203.zip
-Description: Masters: Harukanaru Augusta 2 (SFC) - Course BGM 3
 
 Package: smwmusic-masters-new-harukanaru-augusta
 Version: smwc-41963-1778080726
@@ -1486,6 +1486,42 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41964/Pebble%20Beach%20no%20Hatou%20New%20-%20Settings%20Fixed.zip
 Description: Pebble Beach no Hatou New: Tournament Edition - Settings
 
+Package: smwmusic-pizza-tower-extraterrestrial-wahwahs
+Version: smwc-41636-1781743322
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/41636/Pizza Tower - Extraterrestrial Wahwahs.zip
+Size: 37398
+X-SMWC-ID: 41636
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41636/Pizza%20Tower%20-%20Extraterrestrial%20Wahwahs.zip
+Description: Pizza Tower - Extraterrestrial Wahwahs
+
+Package: smwmusic-pizza-tower-good-eatin
+Version: smwc-41637-1781747053
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/41637/Pizza Tower - Good Eatin%27.zip
+Size: 33944
+X-SMWC-ID: 41637
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41637/Pizza%20Tower%20-%20Good%20Eatin%27.zip
+Description: Pizza Tower - Good Eatin'
+
+Package: smwmusic-pizza-tower-mmm-yes-put-the-tree-on-my-pizza
+Version: smwc-41638-1781747056
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/41638/Pizza Tower - mmm yes put the tree on my pizza.zip
+Size: 33674
+X-SMWC-ID: 41638
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41638/Pizza%20Tower%20-%20mmm%20yes%20put%20the%20tree%20on%20my%20pizza.zip
+Description: Pizza Tower - mmm yes put the tree on my pizza
+
 Package: smwmusic-puyo-puyo-theme
 Version: smwc-41992-1778445657
 Section: smwmusic
@@ -1522,6 +1558,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41822/Sonic%20CD%20%28US%29%20-%20Speed%20Up%21%21.zip
 Description: Sonic CD (US) - Speed Up!!
 
+Package: smwmusic-sonic-the-hedgehog-ms-gg-special-stage
+Version: smwc-42252-1781747812
+Section: smwmusic
+Architecture: smw
+Maintainer: Dzing
+Filename: pool/smwmusic/42252/sonic8bit-bonusstage .zip
+Size: 32604
+X-SMWC-ID: 42252
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42252/sonic8bit-bonusstage%20.zip
+Description: Sonic The Hedgehog (MS/GG) - Special Stage
+
 Package: smwmusic-super-bomberman
 Version: smwc-42038-1780247915
 Section: smwmusic
@@ -1546,6 +1594,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41986/Super%20Mario%2064%20-%20Course%20Clear%21%20%5BU%5D.zip
 Description: Super Mario 64 - Course Clear!
 
+Package: smwmusic-super-mario-rpg-legend-of-the-seven-stars-bowser-s-keep-first-visit
+Version: smwc-41931-1781459862
+Section: smwmusic
+Architecture: smw
+Maintainer: Moltz, h.carrell
+Filename: pool/smwmusic/41931/Super Mario RPG_Bowser%27s Castle (1st Visit).zip
+Size: 31362
+X-SMWC-ID: 41931
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41931/Super%20Mario%20RPG_Bowser%27s%20Castle%20%281st%20Visit%29.zip
+Description: Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)
+
 Package: smwmusic-super-mario-rpg-legend-of-the-seven-stars-fight-against-an-armed-boss
 Version: smwc-42208-1780933290
 Section: smwmusic
@@ -1558,18 +1618,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42208/smrpg_armed.zip
 Description: Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss
 
-Package: smwmusic-the-price-is-right-sax
-Version: smwc-41744-1777997568
-Section: smwmusic
-Architecture: smw
-Maintainer: jneen
-Filename: pool/smwmusic/41744/price-is-right.zip
-Size: 48628
-X-SMWC-ID: 41744
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41744/price-is-right.zip
-Description: The Price Is Right (Sax Version)
-
 Package: smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive
 Version: v1.2
 Section: smwmusic
@@ -1581,18 +1629,6 @@ X-SMWC-ID: 41462
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41462/Lxsor%20B7%20%28Final_Offensive%29%20v1.2.zip
 Description: The Sword of Lxsor - BGM B7 ("Final Offensive")
-
-Package: smwmusic-true-golf-classics-waialae-country-club-snes-award
-Version: smwc-41869-1777744372
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41869/Waialae Country Club (SNES) - Award.zip
-Size: 55016
-X-SMWC-ID: 41869
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41869/Waialae%20Country%20Club%20%28SNES%29%20-%20Award.zip
-Description: True Golf Classics: Waialae Country Club (SNES) - Award
 
 Package: smwmusic-umineko-no-naku-koro-ni-when-they-cry-organ-short
 Version: smwc-41457-1780528414
@@ -3261,6 +3297,18 @@ X-SMWC-ID: 18497
 X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/18497/palGenerator_1.2.zip
 Description: .pal Generator
+
+Package: tools-pixi-v1
+Version: smwc-41283-1781888804
+Section: tools
+Architecture: smw
+Maintainer: Atari2.0, JackTheSpades, Tattletale
+Filename: pool/tools/41283/pixi_v1.43.zip
+Size: 934298
+X-SMWC-ID: 41283
+X-SMWAPT-Kind: Tool
+X-SMWAPT-URL: https://dl.smwcentral.net/41283/pixi_v1.43.zip
+Description: PIXI v1.43 - Sprite Insertion Tool
 
 Package: tools-romclean
 Version: smwc-12178-1448731882

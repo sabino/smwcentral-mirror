@@ -179,6 +179,56 @@
     ]
   },
   {
+    "name": "smwmusic-full-tilt-3d-pinball-space-cadet-main-theme",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42401,
+    "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
+    "authors": [
+      "7 up"
+    ],
+    "tags": [
+      "abstract",
+      "bonus",
+      "dark",
+      "space",
+      "urban"
+    ],
+    "description": "(Keep the other unsampled version of this as well, due to nostalgia.)<br>\r\n<br>\r\nJust decided to post an unsampled version that I only fixed just now and had sitting on my disk for a few months. Anyway, when you ran out of connection, you naturally played this game on an old PC.<br>\r\n<br>\r\nBest for space/casino bonus areas.",
+    "latest_version": "smwc-42401-1781430748",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42401,
+        "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
+        "version": "smwc-42401-1781430748",
+        "upstream_time": 1781430748,
+        "download_url": "https://dl.smwcentral.net/42401/pinball%20main%20%28u%29.zip",
+        "filename": "pinball main (u).zip",
+        "size": 32363,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 41796,
+        "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
+        "version": "smwc-41796-1781430255",
+        "upstream_time": 1781430255,
+        "download_url": "https://dl.smwcentral.net/41796/pinball%20main.zip",
+        "filename": "pinball main.zip",
+        "size": 55854,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-galaxy-force-ii-arcade-alone-fighter",
     "aliases": [],
     "section": "smwmusic",
@@ -366,12 +416,9 @@
       "bonus",
       "calm",
       "credits",
-      "cutscene",
-      "menu",
       "overworld",
       "sea",
-      "sky",
-      "town"
+      "sky"
     ],
     "description": "Victory music after completing all 18 holes as heard i in the SFC port of Masters: Harukanaru Augusta 2, originating from the PC-98 edition.",
     "latest_version": "smwc-41957-1778078451",
@@ -413,98 +460,6 @@
         "download_url": "https://dl.smwcentral.net/41955/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Tea%20Break.zip",
         "filename": "Masters Harukanaru Augusta 2 (SFC) - Tea Break.zip",
         "size": 54918,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41954,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Hole in One",
-        "version": "smwc-41954-1778078409",
-        "upstream_time": 1778078409,
-        "download_url": "https://dl.smwcentral.net/41954/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Hole%20in%20One.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Hole in One.zip",
-        "size": 66239,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41950,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Settings",
-        "version": "smwc-41950-1778078360",
-        "upstream_time": 1778078360,
-        "download_url": "https://dl.smwcentral.net/41950/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Settings.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Settings.zip",
-        "size": 64740,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-masters-harukanaru-augusta-2-sfc-course-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41953,
-    "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 3",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "forest",
-      "grassland",
-      "sea",
-      "sky",
-      "upbeat"
-    ],
-    "description": "One of the three in-game golfing tunes heard in the SFC port of Masters: Harukanaru Augusta 2.",
-    "latest_version": "smwc-41953-1778078399",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41953,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 3",
-        "version": "smwc-41953-1778078399",
-        "upstream_time": 1778078399,
-        "download_url": "https://dl.smwcentral.net/41953/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%203.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Course BGM 3.zip",
-        "size": 57933,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41952,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 2",
-        "version": "smwc-41952-1778078381",
-        "upstream_time": 1778078381,
-        "download_url": "https://dl.smwcentral.net/41952/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%202.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Course BGM 2.zip",
-        "size": 47053,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41951,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Course BGM 1",
-        "version": "smwc-41951-1778078370",
-        "upstream_time": 1778078370,
-        "download_url": "https://dl.smwcentral.net/41951/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Course%20BGM%201.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Course BGM 1.zip",
-        "size": 53439,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1027,6 +982,107 @@
     ]
   },
   {
+    "name": "smwmusic-pizza-tower-extraterrestrial-wahwahs",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41636,
+    "title": "Pizza Tower - Extraterrestrial Wahwahs",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "abstract",
+      "space",
+      "upbeat"
+    ],
+    "description": "Deep Dish 9's level theme from Pizza Tower, which takes place on space planets.<br>\r\n",
+    "latest_version": "smwc-41636-1781743322",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41636,
+        "title": "Pizza Tower - Extraterrestrial Wahwahs",
+        "version": "smwc-41636-1781743322",
+        "upstream_time": 1781743322,
+        "download_url": "https://dl.smwcentral.net/41636/Pizza%20Tower%20-%20Extraterrestrial%20Wahwahs.zip",
+        "filename": "Pizza Tower - Extraterrestrial Wahwahs.zip",
+        "size": 37398,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-pizza-tower-good-eatin",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41637,
+    "title": "Pizza Tower - Good Eatin'",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "grassland"
+    ],
+    "description": "GOLF's level theme from Pizza Tower, taking place at golf courses.",
+    "latest_version": "smwc-41637-1781747053",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41637,
+        "title": "Pizza Tower - Good Eatin'",
+        "version": "smwc-41637-1781747053",
+        "upstream_time": 1781747053,
+        "download_url": "https://dl.smwcentral.net/41637/Pizza%20Tower%20-%20Good%20Eatin%27.zip",
+        "filename": "Pizza Tower - Good Eatin%27.zip",
+        "size": 33944,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-pizza-tower-mmm-yes-put-the-tree-on-my-pizza",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41638,
+    "title": "Pizza Tower - mmm yes put the tree on my pizza",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "forest",
+      "jungle",
+      "upbeat"
+    ],
+    "description": "Gnome Forest's initial level theme from Pizza Tower.",
+    "latest_version": "smwc-41638-1781747056",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41638,
+        "title": "Pizza Tower - mmm yes put the tree on my pizza",
+        "version": "smwc-41638-1781747056",
+        "upstream_time": 1781747056,
+        "download_url": "https://dl.smwcentral.net/41638/Pizza%20Tower%20-%20mmm%20yes%20put%20the%20tree%20on%20my%20pizza.zip",
+        "filename": "Pizza Tower - mmm yes put the tree on my pizza.zip",
+        "size": 33674,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-puyo-puyo-theme",
     "aliases": [],
     "section": "smwmusic",
@@ -1129,6 +1185,42 @@
     ]
   },
   {
+    "name": "smwmusic-sonic-the-hedgehog-ms-gg-special-stage",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42252,
+    "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+    "authors": [
+      "Dzing"
+    ],
+    "tags": [
+      "airship",
+      "bonus",
+      "night",
+      "space",
+      "upbeat"
+    ],
+    "description": "16-bit arrangement of the bonus stage of Sonic 8-bit. Requested by <span class=\"un-outer\" title=\"MaxtonChao\"><a href=\"/?p=profile&amp;id=69227\" style=\"color: var(--user-color-1);\" class=\"un\">MaxtonChao</a></span>.<br>\r\n<br>\r\nI used a tempo somewhere between the NTSC and PAL versions. Use t43 for the PAL version and t51 for the NTSC version.",
+    "latest_version": "smwc-42252-1781747812",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42252,
+        "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+        "version": "smwc-42252-1781747812",
+        "upstream_time": 1781747812,
+        "download_url": "https://dl.smwcentral.net/42252/sonic8bit-bonusstage%20.zip",
+        "filename": "sonic8bit-bonusstage .zip",
+        "size": 32604,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-super-bomberman",
     "aliases": [],
     "section": "smwmusic",
@@ -1198,6 +1290,42 @@
     ]
   },
   {
+    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-bowser-s-keep-first-visit",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41931,
+    "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+    "authors": [
+      "Moltz",
+      "h.carrell"
+    ],
+    "tags": [
+      "castle",
+      "dark",
+      "final",
+      "overworld"
+    ],
+    "description": "The shorter variation of Bowser's Castle in SMRPG that plays at the start of the game. This one could probably fit an overworld of sorts.",
+    "latest_version": "smwc-41931-1781459862",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41931,
+        "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+        "version": "smwc-41931-1781459862",
+        "upstream_time": 1781459862,
+        "download_url": "https://dl.smwcentral.net/41931/Super%20Mario%20RPG_Bowser%27s%20Castle%20%281st%20Visit%29.zip",
+        "filename": "Super Mario RPG_Bowser%27s Castle (1st Visit).zip",
+        "size": 31362,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-fight-against-an-armed-boss",
     "aliases": [],
     "section": "smwmusic",
@@ -1222,40 +1350,6 @@
         "download_url": "https://dl.smwcentral.net/42208/smrpg_armed.zip",
         "filename": "smrpg_armed.zip",
         "size": 73512,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-the-price-is-right-sax",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41744,
-    "title": "The Price Is Right (Sax Version)",
-    "authors": [
-      "jneen"
-    ],
-    "tags": [
-      "bonus",
-      "menu",
-      "title"
-    ],
-    "description": "Theme song for the UK version of The Price Is Right with Bruce Forsyth. As heard in pixlrik's precision hack \"The Precise Is Right\".<br>\r\n<br>\r\nThis theme was used in the Bruce Forsyth version (UK 1995), as well as The New Price Is Right (US 1994), and possibly others. The naming of syndications and spin-offs of The Price Is Right is extremely confusing, but this is the jazzy one with the epic saxophone solo.<br>\r\n<br>\r\nUses samples from PlayerSounds '23 and Super Bonk.",
-    "latest_version": "smwc-41744-1777997568",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41744,
-        "title": "The Price Is Right (Sax Version)",
-        "version": "smwc-41744-1777997568",
-        "upstream_time": 1777997568,
-        "download_url": "https://dl.smwcentral.net/41744/price-is-right.zip",
-        "filename": "price-is-right.zip",
-        "size": 48628,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1290,39 +1384,6 @@
         "download_url": "https://dl.smwcentral.net/41462/Lxsor%20B7%20%28Final_Offensive%29%20v1.2.zip",
         "filename": "Lxsor B7 (Final_Offensive) v1.2.zip",
         "size": 24573,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-true-golf-classics-waialae-country-club-snes-award",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41869,
-    "title": "True Golf Classics: Waialae Country Club (SNES) - Award",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "credits",
-      "cutscene"
-    ],
-    "description": "'Congratulations'<br>\r\nChampions/Award victory music heard in the SNES/SFC port of True Golf Classics: Waialae Country Club/Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41869-1777744372",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41869,
-        "title": "True Golf Classics: Waialae Country Club (SNES) - Award",
-        "version": "smwc-41869-1777744372",
-        "upstream_time": 1777744372,
-        "download_url": "https://dl.smwcentral.net/41869/Waialae%20Country%20Club%20%28SNES%29%20-%20Award.zip",
-        "filename": "Waialae Country Club (SNES) - Award.zip",
-        "size": 55016,
         "sha256": null,
         "dependencies": [
           "addmusick"

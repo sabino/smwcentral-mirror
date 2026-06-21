@@ -203,7 +203,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #faadee;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -320,38 +320,6 @@
         "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
         "filename": "enemy-585-castle.zip",
         "size": 7582,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-fancy-nintendo-logo",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41981,
-    "title": "Fancy Nintendo Logo",
-    "authors": [
-      "Deus Oculi"
-    ],
-    "tags": [
-      "japanese",
-      "logo",
-      "nintendo presents"
-    ],
-    "description": "I wanted to make something to replace that boring old Nintendo Presents logo, so I made this. It's not anything groundbreaking, but I think it's much nicer than leaving the Nintendo logo unchanged.",
-    "latest_version": "smwc-41981-1774120014",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41981,
-        "title": "Fancy Nintendo Logo",
-        "version": "smwc-41981-1774120014",
-        "upstream_time": 1774120014,
-        "download_url": "https://dl.smwcentral.net/41981/fancy_nintendo.zip",
-        "filename": "fancy_nintendo.zip",
-        "size": 2020,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -476,37 +444,6 @@
         "download_url": "https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip",
         "filename": "Madou Monogatari A-R-S - Arle%27s Story - Cave.zip",
         "size": 5961,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-metroid-fusion-pipeline-interior-sector",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41948,
-    "title": "Metroid Fusion - Pipeline Interior (Sector 2)",
-    "authors": [
-      "Rykon-V73"
-    ],
-    "tags": [
-      "mechanical",
-      "pipe"
-    ],
-    "description": "Here's another tileset release at Winter C3 2026. <br>\r\n<br>\r\nI had to use Metroid Fusion - Pipeline Interior as reference. <br>\r\n<br>\r\nUses the second half of palette row 4.<br>\r\n<br>\r\nTileset uses level mode 2 as both FG and BG have the same scrolling. ",
-    "latest_version": "smwc-41948-1773974554",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41948,
-        "title": "Metroid Fusion - Pipeline Interior (Sector 2)",
-        "version": "smwc-41948-1773974554",
-        "upstream_time": 1773974554,
-        "download_url": "https://dl.smwcentral.net/41948/MF%20-%20Pipeline%20Interior%20%28Sector%202%29.zip",
-        "filename": "MF - Pipeline Interior (Sector 2).zip",
-        "size": 12573,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1015,38 +952,6 @@
     ]
   },
   {
-    "name": "smwgraphics-snow-bros-2-with-new-elves-world-2",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41982,
-    "title": "Snow Bros. 2: With New Elves - World 2-2",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "jungle",
-      "mountain",
-      "patch needed"
-    ],
-    "description": "The beanstalk waterfall BG from Snow Bros. 2, I had to separate this BG into 2 separate layers, make sure to set layer 3's X scrolling to \"Variable\" and its Y scrolling to \"Auto-Scroll Down Normal\", plus, you need to use a patch to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">remove the layer 3 status bar</a> or a patch to <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">replace it with a sprite status bar</a>",
-    "latest_version": "smwc-41982-1774116709",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41982,
-        "title": "Snow Bros. 2: With New Elves - World 2-2",
-        "version": "smwc-41982-1774116709",
-        "upstream_time": 1774116709,
-        "download_url": "https://dl.smwcentral.net/41982/snowbros2world22.zip",
-        "filename": "snowbros2world22.zip",
-        "size": 10592,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-super-double-dragon-airport-runway",
     "aliases": [],
     "section": "smwgraphics",
@@ -1194,10 +1099,8 @@
       "Natsuz2"
     ],
     "tags": [
-      "2bpp",
       "castle",
-      "desert",
-      "sky"
+      "desert"
     ],
     "description": "I found this background in the first castle of SMAS 3 and decided to put it next to its layer 3. They are available here.<br>\r\nI also put the animation of the lamps above the background.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=30076\">The foreground can be found here!</a>",
     "latest_version": "smwc-42045-1774718448",
@@ -1226,15 +1129,33 @@
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-maker",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42536,
+    "title": "Super Mario Maker 2 : Super Mario World  - Firebar Block",
+    "authors": [
+      "Hamilton Silva de Almeida"
+    ],
+    "tags": [
+      "block"
+    ],
+    "description": "Super Mario Maker 2 Firebar blocks, compatible with Isokoro's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=36788\">Customizable Circle Sprites v1.2</a> . ",
+    "latest_version": "smwc-42536-1781457423",
+    "install_kind": "asset_only",
+    "versions": [
       {
-        "upstream_id": 41926,
-        "title": "Super Mario All-Stars: Super Mario Bros. 3 - Treasure Ship",
-        "version": "smwc-41926-1774119086",
-        "upstream_time": 1774119086,
-        "download_url": "https://dl.smwcentral.net/41926/SMB3%20Clouds.zip",
-        "filename": "SMB3 Clouds.zip",
-        "size": 2459,
+        "upstream_id": 42536,
+        "title": "Super Mario Maker 2 : Super Mario World  - Firebar Block",
+        "version": "smwc-42536-1781457423",
+        "upstream_time": 1781457423,
+        "download_url": "https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip",
+        "filename": "SMM2 Firebar Block.zip",
+        "size": 2942,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1310,6 +1231,71 @@
         "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
         "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
         "size": 127549,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-mario-bros-ice-fort",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42548,
+    "title": "Super Mario World Styled Mario Bros. Ice Fort",
+    "authors": [
+      "Ganbare-Lucifer",
+      "edgar"
+    ],
+    "tags": [
+      "castle",
+      "ice",
+      "snow"
+    ],
+    "description": "A Super Mario World styled take on the ice fort background of the Mario Bros. port on GBA.<br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
+    "latest_version": "smwc-42548-1781724584",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42548,
+        "title": "Super Mario World Styled Mario Bros. Ice Fort",
+        "version": "smwc-42548-1781724584",
+        "upstream_time": 1781724584,
+        "download_url": "https://dl.smwcentral.net/42548/SMW%20Styled%20Mario%20Bros%20Ice%20Fort.zip",
+        "filename": "SMW Styled Mario Bros Ice Fort.zip",
+        "size": 4125,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-mario-bros-lava-sewer",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42549,
+    "title": "Super Mario World Styled Mario Bros. Lava Sewer",
+    "authors": [
+      "Ganbare-Lucifer",
+      "edgar"
+    ],
+    "tags": [
+      "castle",
+      "fire"
+    ],
+    "description": "A Super Mario World-styled take on <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32155\">this background</a> of the Mario Bros. port on GBA.<br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
+    "latest_version": "smwc-42549-1781724856",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42549,
+        "title": "Super Mario World Styled Mario Bros. Lava Sewer",
+        "version": "smwc-42549-1781724856",
+        "upstream_time": 1781724856,
+        "download_url": "https://dl.smwcentral.net/42549/SMW%20Styled%20Mario%20Bros%20Lava%20Sewer.zip",
+        "filename": "SMW Styled Mario Bros Lava Sewer.zip",
+        "size": 4691,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1466,6 +1452,35 @@
         "download_url": "https://dl.smwcentral.net/41717/wizardoz_forest.zip",
         "filename": "wizardoz_forest.zip",
         "size": 5231,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-wario-waluigi",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42517,
+    "title": "Wario & Waluigi",
+    "authors": [
+      "Ganbare-Lucifer",
+      "edgar"
+    ],
+    "tags": [],
+    "description": "Long due overworld graphics that are best suited for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=693\">this submission.</a><br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
+    "latest_version": "smwc-42517-1781467404",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42517,
+        "title": "Wario & Waluigi",
+        "version": "smwc-42517-1781467404",
+        "upstream_time": 1781467404,
+        "download_url": "https://dl.smwcentral.net/42517/Wario%20%26%20Waluigi.zip",
+        "filename": "Wario %26 Waluigi.zip",
+        "size": 4600,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
