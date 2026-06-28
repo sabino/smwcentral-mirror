@@ -358,37 +358,6 @@
     ]
   },
   {
-    "name": "smwgraphics-j-j-squawkers-pistachio-villa-boss-day",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42011,
-    "title": "J.J. Squawkers - Pistachio Villa (Boss, Day)",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "beach",
-      "ocean"
-    ],
-    "description": "The ocean BG from the 1st stage of J. J. Squawkers, I had to reduce the amount of colors and I couldn't include the clouds because they took too much space in the GFX files",
-    "latest_version": "smwc-42011-1774375395",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42011,
-        "title": "J.J. Squawkers - Pistachio Villa (Boss, Day)",
-        "version": "smwc-42011-1774375395",
-        "upstream_time": 1774375395,
-        "download_url": "https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip",
-        "filename": "jjsquawkerspistachiovillabossday.zip",
-        "size": 7310,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-leap-day-snow-land",
     "aliases": [],
     "section": "smwgraphics",
@@ -444,6 +413,37 @@
         "download_url": "https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip",
         "filename": "Madou Monogatari A-R-S - Arle%27s Story - Cave.zip",
         "size": 5961,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-mario-coin",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42579,
+    "title": "Mario Coin",
+    "authors": [
+      "Green Jerry"
+    ],
+    "tags": [
+      "dragon coin",
+      "yoshi coin"
+    ],
+    "description": "A Yoshi/Dragon Coin with Mario's face instead of Yoshi's face.<br>\r\n<br>\r\nDoesn't require custom palettes, it uses the vanilla palette.",
+    "latest_version": "smwc-42579-1782355346",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42579,
+        "title": "Mario Coin",
+        "version": "smwc-42579-1782355346",
+        "upstream_time": 1782355346,
+        "download_url": "https://dl.smwcentral.net/42579/Mario%20Coin.zip",
+        "filename": "Mario Coin.zip",
+        "size": 1568,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -952,29 +952,31 @@
     ]
   },
   {
-    "name": "smwgraphics-super-double-dragon-airport-runway",
+    "name": "smwgraphics-snow-bros-arcade-world",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 41993,
-    "title": "Super Double Dragon - Airport Runway",
+    "upstream_id": 42567,
+    "title": "Snow Bros. (Arcade) - World 2",
     "authors": [
-      "Natsuz2"
+      "playagmes169"
     ],
     "tags": [
-      "city"
+      "abstract",
+      "carnival",
+      "industrial"
     ],
-    "description": "This was taken from Super Double Dragon, on a stage on a runway. It's very beautiful because of the colors of the lights. It's a shame it doesn't have an original animation.",
-    "latest_version": "smwc-41993-1774286676",
+    "description": "Ah yes, the bright and colorful yet sort of \"abstract\" world that I can't figure out if it's some sort of carnival or a Krtek-style toy factory (for who doesn't know about Krtek aka The Little Mole, it was an old Czechoslovakian animated series that was usually quite wholesome and cutesy compared to the creepy or scary animations that we know Czechoslovakia for nowadays, including Fantastic Planet, if I remember correctly. There was a scene in a Krtek short about Krtek and his friends going to find shelter in the city after the forest they called home was deforestated, but let's get straight to the point now, Krtek and his friends become famous and enter a colorful toy factory where they started making Krtek dolls. Anyways, if you didn't know, you can find Krtek and his friends literally EVERYWHERE around Prague, but let's move on, shall we?)<br>\r\nI couldn't find any tiles in the original game's files that made the scaffoldings cross between each other or something, so I edited the Map16 to make them connect properly without making them look too \"choppy\", without risking of having more cutoff, not to mention that I've added 2 custom-made tiles specifically to complete this tileset ",
+    "latest_version": "smwc-42567-1782354729",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 41993,
-        "title": "Super Double Dragon - Airport Runway",
-        "version": "smwc-41993-1774286676",
-        "upstream_time": 1774286676,
-        "download_url": "https://dl.smwcentral.net/41993/Airport%20Runway.zip",
-        "filename": "Airport Runway.zip",
-        "size": 3421,
+        "upstream_id": 42567,
+        "title": "Snow Bros. (Arcade) - World 2",
+        "version": "smwc-42567-1782354729",
+        "upstream_time": 1782354729,
+        "download_url": "https://dl.smwcentral.net/42567/snowbrosarcadeworld2.zip",
+        "filename": "snowbrosarcadeworld2.zip",
+        "size": 13471,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1210,7 +1212,7 @@
     "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42347,
+    "upstream_id": 42573,
     "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
     "authors": [
       "Kaching720"
@@ -1220,17 +1222,17 @@
       "male"
     ],
     "description": "This started out as an opposite to QuadFactor's SMA2 Mario, to \"de-advance-ify\" SMA2 Luigi, but I decided to shift the scope to create a Luigi that feels like he came out of base game back in the 1990s. Mainly based off of the 1989 beta and SMA2 Luigi but takes some notes from SMAS/SMM2 and SMB3 Luigi.<br>\r\n<br>\r\n<br>\r\n<br>\r\nIncludes:<br>\r\n<br>\r\n- GFX32 and PlayerGFX for 32x32 compat (with SMAS poses)<br>\r\n<br>\r\n- Same as above with but without vanilla inaccuracies<br>\r\n<br>\r\n- GFX00 (and a corrected version), 10 (one for the 32x32 patch too), 22, and 24 <br>\r\n<br>\r\n- GFX 28 to swap nametags<br>\r\n<br>\r\n- SMW palette (vanilla), SMA2 palette (blue overalls), and SMM2 palette (Mario's skin tone) for Luigi as Player 1<br>\r\n<br>\r\n- OW palettes for adjusted Yoshi colors and Luigi as Player 1 (has both blue and purple overalls)<br>\r\n<br>\r\n<br>\r\nI recommend you use them with patches that fix tile errors in the vanilla game (specifically the first cape flight frame and small victory pose while riding Yoshi)<br>\r\n<br>\r\nThe GFX32 files have a small p-speed jump frame in an unused tile.<br>\r\n<br>\r\nFeel free to edit if you want to mix and match the jank and corrected sprites or if you need compat with custom items/outfits",
-    "latest_version": "smwc-42347-1780431698",
+    "latest_version": "smwc-42573-1782438086",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42347,
+        "upstream_id": 42573,
         "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
-        "version": "smwc-42347-1780431698",
-        "upstream_time": 1780431698,
-        "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
+        "version": "smwc-42573-1782438086",
+        "upstream_time": 1782438086,
+        "download_url": "https://dl.smwcentral.net/42573/SMW-Styled_Luigi%28Beta-inspired%29.zip",
         "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
-        "size": 127549,
+        "size": 127596,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

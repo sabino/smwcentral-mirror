@@ -1,0 +1,41 @@
+{
+  "name": "uberasm-princess-peach-abilities-floating-charged-jump-bomber",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42483,
+  "title": "Princess Peach Abilities (Floating / Charged Jump / Bomber)",
+  "authors": [
+    "Black Goku",
+    "Ladida",
+    "Noobish Noobsicle",
+    "scepile3"
+  ],
+  "tags": [
+    "ability",
+    "jump",
+    "lorom",
+    "physics",
+    "player",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+  "latest_version": "smwc-42483-1782085948",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42483,
+      "title": "Princess Peach Abilities (Floating / Charged Jump / Bomber)",
+      "version": "smwc-42483-1782085948",
+      "upstream_time": 1782085948,
+      "download_url": "https://dl.smwcentral.net/42483/Unified%20Peach%20Abilities%20-%20V1.zip",
+      "filename": "Unified Peach Abilities - V1.zip",
+      "size": 3554,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

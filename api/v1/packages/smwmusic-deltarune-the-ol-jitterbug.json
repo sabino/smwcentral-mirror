@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-deltarune-the-ol-jitterbug",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42108,
+  "title": "Deltarune - The Ol' Jitterbug",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "overworld",
+    "upbeat"
+  ],
+  "description": "The song \"The Ol' Jitterbug\" from Chapter 4 of Deltarune, originally composed by Toby Fox. Great music to sleep to!<br>\r\n<br>\r\nThe original samples were found using the Toby Fox Sample Sheet.",
+  "latest_version": "smwc-42108-1782492258",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42108,
+      "title": "Deltarune - The Ol' Jitterbug",
+      "version": "smwc-42108-1782492258",
+      "upstream_time": 1782492258,
+      "download_url": "https://dl.smwcentral.net/42108/The%20Ol%27%20Jitterbug.zip",
+      "filename": "The Ol%27 Jitterbug.zip",
+      "size": 51461,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

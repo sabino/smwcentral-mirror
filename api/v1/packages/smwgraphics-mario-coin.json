@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-mario-coin",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42579,
+  "title": "Mario Coin",
+  "authors": [
+    "Green Jerry"
+  ],
+  "tags": [
+    "dragon coin",
+    "yoshi coin"
+  ],
+  "description": "A Yoshi/Dragon Coin with Mario's face instead of Yoshi's face.<br>\r\n<br>\r\nDoesn't require custom palettes, it uses the vanilla palette.",
+  "latest_version": "smwc-42579-1782355346",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42579,
+      "title": "Mario Coin",
+      "version": "smwc-42579-1782355346",
+      "upstream_time": 1782355346,
+      "download_url": "https://dl.smwcentral.net/42579/Mario%20Coin.zip",
+      "filename": "Mario Coin.zip",
+      "size": 1568,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

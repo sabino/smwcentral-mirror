@@ -145,6 +145,75 @@
     ]
   },
   {
+    "name": "smwmusic-deltarune-the-ol-jitterbug",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42108,
+    "title": "Deltarune - The Ol' Jitterbug",
+    "authors": [
+      "Forgado"
+    ],
+    "tags": [
+      "overworld",
+      "upbeat"
+    ],
+    "description": "The song \"The Ol' Jitterbug\" from Chapter 4 of Deltarune, originally composed by Toby Fox. Great music to sleep to!<br>\r\n<br>\r\nThe original samples were found using the Toby Fox Sample Sheet.",
+    "latest_version": "smwc-42108-1782492258",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42108,
+        "title": "Deltarune - The Ol' Jitterbug",
+        "version": "smwc-42108-1782492258",
+        "upstream_time": 1782492258,
+        "download_url": "https://dl.smwcentral.net/42108/The%20Ol%27%20Jitterbug.zip",
+        "filename": "The Ol%27 Jitterbug.zip",
+        "size": 51461,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-f-zero-white-land-ii",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42117,
+    "title": "F-Zero - White Land II",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "abstract",
+      "chase",
+      "snow",
+      "tense",
+      "urban"
+    ],
+    "description": "A fast-paced noisy racing tune heard in the second part of White Land II from F-Zero, the only course in-game with alternative music.",
+    "latest_version": "smwc-42117-1782492909",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42117,
+        "title": "F-Zero - White Land II",
+        "version": "smwc-42117-1782492909",
+        "upstream_time": 1782492909,
+        "download_url": "https://dl.smwcentral.net/42117/F-Zero%20-%20White%20Land%20II.zip",
+        "filename": "F-Zero - White Land II.zip",
+        "size": 55475,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
     "aliases": [],
     "section": "smwmusic",
@@ -170,6 +239,41 @@
         "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
         "filename": "Last Castle.zip",
         "size": 25217,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-neutral-army",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42111,
+    "title": "Fire Emblem: Genealogy of the Holy War - Neutral Army",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "airship",
+      "castle",
+      "final",
+      "overworld"
+    ],
+    "description": "Neutral Army from Fire Emblem 4.",
+    "latest_version": "smwc-42111-1782492710",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42111,
+        "title": "Fire Emblem: Genealogy of the Holy War - Neutral Army",
+        "version": "smwc-42111-1782492710",
+        "upstream_time": 1782492710,
+        "download_url": "https://dl.smwcentral.net/42111/Fire%20Emblem%204%20-%20Neutral%20Army.zip",
+        "filename": "Fire Emblem 4 - Neutral Army.zip",
+        "size": 56902,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -404,71 +508,6 @@
     ]
   },
   {
-    "name": "smwmusic-masters-harukanaru-augusta",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41957,
-    "title": "Masters: Harukanaru Augusta 2 (SFC) - Award",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "bonus",
-      "calm",
-      "credits",
-      "overworld",
-      "sea",
-      "sky"
-    ],
-    "description": "Victory music after completing all 18 holes as heard i in the SFC port of Masters: Harukanaru Augusta 2, originating from the PC-98 edition.",
-    "latest_version": "smwc-41957-1778078451",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41957,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Award",
-        "version": "smwc-41957-1778078451",
-        "upstream_time": 1778078451,
-        "download_url": "https://dl.smwcentral.net/41957/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Award.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Award.zip",
-        "size": 57500,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41956,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Results",
-        "version": "smwc-41956-1778078435",
-        "upstream_time": 1778078435,
-        "download_url": "https://dl.smwcentral.net/41956/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Results.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Results.zip",
-        "size": 65704,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41955,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Tea Break",
-        "version": "smwc-41955-1778078422",
-        "upstream_time": 1778078422,
-        "download_url": "https://dl.smwcentral.net/41955/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Tea%20Break.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Tea Break.zip",
-        "size": 54918,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-masters-new-harukanaru-augusta",
     "aliases": [],
     "section": "smwmusic",
@@ -484,10 +523,8 @@
       "cutscene",
       "forest",
       "grassland",
-      "menu",
       "sea",
-      "sky",
-      "water"
+      "sky"
     ],
     "description": "Course results music after finishing any regular day as heard in the SFC port of Masters New: Harukanaru Augusta 3.",
     "latest_version": "smwc-41963-1778080726",
@@ -520,20 +557,6 @@
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41958,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Settings",
-        "version": "smwc-41958-1778080599",
-        "upstream_time": 1778080599,
-        "download_url": "https://dl.smwcentral.net/41958/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Settings.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Settings.zip",
-        "size": 53247,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
       }
     ]
   },
@@ -551,8 +574,7 @@
       "calm",
       "forest",
       "grassland",
-      "sea",
-      "upbeat"
+      "sea"
     ],
     "description": "One of the three in-game golfing tunes heard in the SFC port of Masters New: Harukanaru Augusta 3.",
     "latest_version": "smwc-41961-1778080637",
@@ -585,15 +607,36 @@
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-mega-man",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42267,
+    "title": "Mega Man 5 - Star Man",
+    "authors": [
+      "7 up"
+    ],
+    "tags": [
+      "abstract",
+      "night",
+      "space",
+      "upbeat"
+    ],
+    "description": "The theme of Star Man's* stage from Mega Man 5.<br>\r\n<br>\r\n*not to be confused with Mario's Starman<br>\r\n<br>\r\nBest for space levels.",
+    "latest_version": "smwc-42267-1782403319",
+    "install_kind": "add_music_k_music",
+    "versions": [
       {
-        "upstream_id": 41959,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 1",
-        "version": "smwc-41959-1778080613",
-        "upstream_time": 1778080613,
-        "download_url": "https://dl.smwcentral.net/41959/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%201.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Course BGM 1.zip",
-        "size": 60473,
+        "upstream_id": 42267,
+        "title": "Mega Man 5 - Star Man",
+        "version": "smwc-42267-1782403319",
+        "upstream_time": 1782403319,
+        "download_url": "https://dl.smwcentral.net/42267/mm5star.zip",
+        "filename": "mm5star.zip",
+        "size": 32961,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1350,6 +1393,40 @@
         "download_url": "https://dl.smwcentral.net/42208/smrpg_armed.zip",
         "filename": "smrpg_armed.zip",
         "size": 73512,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-tetris",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42134,
+    "title": "Super Tetris 3 - Sakura ~ The Cherry Blossoms",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "forest",
+      "mountain",
+      "sea"
+    ],
+    "description": "Magicaliss stage 2 from Super Tetris 3, themed around traditional Japan featuring cherry blossoms and a bridge leading to mountain peaks.",
+    "latest_version": "smwc-42134-1782403436",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42134,
+        "title": "Super Tetris 3 - Sakura ~ The Cherry Blossoms",
+        "version": "smwc-42134-1782403436",
+        "upstream_time": 1782403436,
+        "download_url": "https://dl.smwcentral.net/42134/Super%20Tetris%203%20-%20Sakura%20~%20The%20Cherry%20Blossoms.zip",
+        "filename": "Super Tetris 3 - Sakura ~ The Cherry Blossoms.zip",
+        "size": 59027,
         "sha256": null,
         "dependencies": [
           "addmusick"

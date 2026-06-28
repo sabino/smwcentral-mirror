@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42267,
+  "title": "Mega Man 5 - Star Man",
+  "authors": [
+    "7 up"
+  ],
+  "tags": [
+    "abstract",
+    "night",
+    "space",
+    "upbeat"
+  ],
+  "description": "The theme of Star Man's* stage from Mega Man 5.<br>\r\n<br>\r\n*not to be confused with Mario's Starman<br>\r\n<br>\r\nBest for space levels.",
+  "latest_version": "smwc-42267-1782403319",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42267,
+      "title": "Mega Man 5 - Star Man",
+      "version": "smwc-42267-1782403319",
+      "upstream_time": 1782403319,
+      "download_url": "https://dl.smwcentral.net/42267/mm5star.zip",
+      "filename": "mm5star.zip",
+      "size": 32961,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

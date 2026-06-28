@@ -15,7 +15,7 @@
       "sa-1",
       "score"
     ],
-    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
+    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
     "latest_version": "smwc-41058-1763938565",
     "install_kind": "uber_asm",
     "versions": [
@@ -211,44 +211,6 @@
         "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
         "filename": "AirMeter.zip",
         "size": 980,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-charged-fireball",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40875,
-    "title": "Charged Fireball",
-    "authors": [
-      "Kevin",
-      "Ladida",
-      "SuperMariaSis"
-    ],
-    "tags": [
-      "charged",
-      "fireball",
-      "lorom",
-      "player",
-      "sa-1"
-    ],
-    "description": "This UberASM makes mario shoot a Yoshi Fireball if you hold a fire button (and optionally an additional button, by default R), emulating a charged fireball, just like in many platformer games like Megaman.<br>\r\nCheck out the ChargedFire.asm file for customization options.<br>\r\n<br>\r\nIt also includes a minor patch (to be applied with asar!) and GFX to make Yoshi Fireballs and Flopping Cheep-Cheeps swap tilemaps, so you can have Yoshi Fireballs in every level, optional but recommended (especially if using this in gamemode 14!).<br>\r\n<br>\r\nYou can find the patch version <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22868\">here</a>.",
-    "latest_version": "smwc-40875-1761412802",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40875,
-        "title": "Charged Fireball",
-        "version": "smwc-40875-1761412802",
-        "upstream_time": 1761412802,
-        "download_url": "https://dl.smwcentral.net/40875/Charged%20Fire.zip",
-        "filename": "Charged Fire.zip",
-        "size": 7367,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -672,40 +634,6 @@
         "download_url": "https://dl.smwcentral.net/41062/GroundPoundAsar2.zip",
         "filename": "GroundPoundAsar2.zip",
         "size": 4018,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-horizontal-vertical-autoscroll",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40876,
-    "title": "Horizontal/Vertical Autoscroll",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "autoscroll",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This code will enable horizontal or vertical autoscrolling in the level it's inserted in. Check out the asm file for customization options, such as scroll direction, speed/fractional speed and when to start and stop the autoscroll.<br>\r\n<br>\r\nNote: when using horizontal autoscrolling with a high speed, Mario will die instead of being pushed by the border of the screen.<br>\r\n<br>\r\nNote 2: usage of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=13675\">this patch</a> is recommended to solve spawning issues when using this.<br>\r\n<br>\r\nUpdate:<br>\r\n- Added horizontal autoscroll option.<br>\r\n- Added option to teleport when the autoscroll stops (suggested by <span class=\"un-outer\" title=\"TheMorganah\"><a href=\"/?p=profile&amp;id=27479\" style=\"color: var(--user-color-1);\" class=\"un\">TheMorganah</a></span>).",
-    "latest_version": "smwc-40876-1761416367",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40876,
-        "title": "Horizontal/Vertical Autoscroll",
-        "version": "smwc-40876-1761416367",
-        "upstream_time": 1761416367,
-        "download_url": "https://dl.smwcentral.net/40876/ConstantAutoscroll.zip",
-        "filename": "ConstantAutoscroll.zip",
-        "size": 1087,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1292,6 +1220,47 @@
     ]
   },
   {
+    "name": "uberasm-princess-peach-abilities-floating-charged-jump-bomber",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42483,
+    "title": "Princess Peach Abilities (Floating / Charged Jump / Bomber)",
+    "authors": [
+      "Black Goku",
+      "Ladida",
+      "Noobish Noobsicle",
+      "scepile3"
+    ],
+    "tags": [
+      "ability",
+      "jump",
+      "lorom",
+      "physics",
+      "player",
+      "sa-1",
+      "smb2"
+    ],
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+    "latest_version": "smwc-42483-1782085948",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42483,
+        "title": "Princess Peach Abilities (Floating / Charged Jump / Bomber)",
+        "version": "smwc-42483-1782085948",
+        "upstream_time": 1782085948,
+        "download_url": "https://dl.smwcentral.net/42483/Unified%20Peach%20Abilities%20-%20V1.zip",
+        "filename": "Unified Peach Abilities - V1.zip",
+        "size": 3554,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-punishment-for-getting-coins-or-score",
     "aliases": [],
     "section": "uberasm",
@@ -1538,6 +1507,42 @@
         "download_url": "https://dl.smwcentral.net/42124/ChargedJumpUber.zip",
         "filename": "ChargedJumpUber.zip",
         "size": 2201,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-super-star-with-coins",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42506,
+    "title": "Super Star With Coins",
+    "authors": [
+      "Steven Atauchi C."
+    ],
+    "tags": [
+      "coins",
+      "lorom",
+      "sa-1",
+      "star",
+      "starman"
+    ],
+    "description": "Inspired by the powerup mechanic using rings in the Sonic the Hedgehog series. When Mario collects a certain number of coins, he can activate Starman powerup, accompanied by a \"transformation animation\".<br>\r\nThe duration of the effect depends on the number of coins available. While Starman is active, Mario will lose 1 coin per second until he runs out.<br>\r\n<br>\r\nThis is my first resource on the site, and I tried to make it as customizable as possible. You can consult the Readme file for more details on customization.<br>\r\n<br>\r\nInsert as level.",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42506,
+        "title": "Super Star With Coins",
+        "version": "V1.1",
+        "upstream_time": 1782597292,
+        "download_url": "https://dl.smwcentral.net/42506/SuperStarWithCoinsV1.1.zip",
+        "filename": "SuperStarWithCoinsV1.1.zip",
+        "size": 2932,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"

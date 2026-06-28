@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-super-star-with-coins",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42506,
+  "title": "Super Star With Coins",
+  "authors": [
+    "Steven Atauchi C."
+  ],
+  "tags": [
+    "coins",
+    "lorom",
+    "sa-1",
+    "star",
+    "starman"
+  ],
+  "description": "Inspired by the powerup mechanic using rings in the Sonic the Hedgehog series. When Mario collects a certain number of coins, he can activate Starman powerup, accompanied by a \"transformation animation\".<br>\r\nThe duration of the effect depends on the number of coins available. While Starman is active, Mario will lose 1 coin per second until he runs out.<br>\r\n<br>\r\nThis is my first resource on the site, and I tried to make it as customizable as possible. You can consult the Readme file for more details on customization.<br>\r\n<br>\r\nInsert as level.",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42506,
+      "title": "Super Star With Coins",
+      "version": "V1.1",
+      "upstream_time": 1782597292,
+      "download_url": "https://dl.smwcentral.net/42506/SuperStarWithCoinsV1.1.zip",
+      "filename": "SuperStarWithCoinsV1.1.zip",
+      "size": 2932,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

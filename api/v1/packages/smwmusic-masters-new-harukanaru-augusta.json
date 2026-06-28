@@ -14,10 +14,8 @@
     "cutscene",
     "forest",
     "grassland",
-    "menu",
     "sea",
-    "sky",
-    "water"
+    "sky"
   ],
   "description": "Course results music after finishing any regular day as heard in the SFC port of Masters New: Harukanaru Augusta 3.",
   "latest_version": "smwc-41963-1778080726",
@@ -45,20 +43,6 @@
       "download_url": "https://dl.smwcentral.net/41962/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Coffee%20Break.zip",
       "filename": "Masters New Harukanaru Augusta 3 (SFC) - Coffee Break.zip",
       "size": 64866,
-      "sha256": null,
-      "dependencies": [
-        "addmusick"
-      ],
-      "install_kind": "add_music_k_music"
-    },
-    {
-      "upstream_id": 41958,
-      "title": "Masters New: Harukanaru Augusta 3 (SFC) - Settings",
-      "version": "smwc-41958-1778080599",
-      "upstream_time": 1778080599,
-      "download_url": "https://dl.smwcentral.net/41958/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Settings.zip",
-      "filename": "Masters New Harukanaru Augusta 3 (SFC) - Settings.zip",
-      "size": 53247,
       "sha256": null,
       "dependencies": [
         "addmusick"

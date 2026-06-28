@@ -2318,37 +2318,6 @@
     ]
   },
   {
-    "name": "smwgraphics-j-j-squawkers-pistachio-villa-boss-day",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42011,
-    "title": "J.J. Squawkers - Pistachio Villa (Boss, Day)",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "beach",
-      "ocean"
-    ],
-    "description": "The ocean BG from the 1st stage of J. J. Squawkers, I had to reduce the amount of colors and I couldn't include the clouds because they took too much space in the GFX files",
-    "latest_version": "smwc-42011-1774375395",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42011,
-        "title": "J.J. Squawkers - Pistachio Villa (Boss, Day)",
-        "version": "smwc-42011-1774375395",
-        "upstream_time": 1774375395,
-        "download_url": "https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip",
-        "filename": "jjsquawkerspistachiovillabossday.zip",
-        "size": 7310,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-leap-day-snow-land",
     "aliases": [],
     "section": "smwgraphics",
@@ -2404,6 +2373,37 @@
         "download_url": "https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip",
         "filename": "Madou Monogatari A-R-S - Arle%27s Story - Cave.zip",
         "size": 5961,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-mario-coin",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42579,
+    "title": "Mario Coin",
+    "authors": [
+      "Green Jerry"
+    ],
+    "tags": [
+      "dragon coin",
+      "yoshi coin"
+    ],
+    "description": "A Yoshi/Dragon Coin with Mario's face instead of Yoshi's face.<br>\r\n<br>\r\nDoesn't require custom palettes, it uses the vanilla palette.",
+    "latest_version": "smwc-42579-1782355346",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42579,
+        "title": "Mario Coin",
+        "version": "smwc-42579-1782355346",
+        "upstream_time": 1782355346,
+        "download_url": "https://dl.smwcentral.net/42579/Mario%20Coin.zip",
+        "filename": "Mario Coin.zip",
+        "size": 1568,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2912,29 +2912,31 @@
     ]
   },
   {
-    "name": "smwgraphics-super-double-dragon-airport-runway",
+    "name": "smwgraphics-snow-bros-arcade-world",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 41993,
-    "title": "Super Double Dragon - Airport Runway",
+    "upstream_id": 42567,
+    "title": "Snow Bros. (Arcade) - World 2",
     "authors": [
-      "Natsuz2"
+      "playagmes169"
     ],
     "tags": [
-      "city"
+      "abstract",
+      "carnival",
+      "industrial"
     ],
-    "description": "This was taken from Super Double Dragon, on a stage on a runway. It's very beautiful because of the colors of the lights. It's a shame it doesn't have an original animation.",
-    "latest_version": "smwc-41993-1774286676",
+    "description": "Ah yes, the bright and colorful yet sort of \"abstract\" world that I can't figure out if it's some sort of carnival or a Krtek-style toy factory (for who doesn't know about Krtek aka The Little Mole, it was an old Czechoslovakian animated series that was usually quite wholesome and cutesy compared to the creepy or scary animations that we know Czechoslovakia for nowadays, including Fantastic Planet, if I remember correctly. There was a scene in a Krtek short about Krtek and his friends going to find shelter in the city after the forest they called home was deforestated, but let's get straight to the point now, Krtek and his friends become famous and enter a colorful toy factory where they started making Krtek dolls. Anyways, if you didn't know, you can find Krtek and his friends literally EVERYWHERE around Prague, but let's move on, shall we?)<br>\r\nI couldn't find any tiles in the original game's files that made the scaffoldings cross between each other or something, so I edited the Map16 to make them connect properly without making them look too \"choppy\", without risking of having more cutoff, not to mention that I've added 2 custom-made tiles specifically to complete this tileset ",
+    "latest_version": "smwc-42567-1782354729",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 41993,
-        "title": "Super Double Dragon - Airport Runway",
-        "version": "smwc-41993-1774286676",
-        "upstream_time": 1774286676,
-        "download_url": "https://dl.smwcentral.net/41993/Airport%20Runway.zip",
-        "filename": "Airport Runway.zip",
-        "size": 3421,
+        "upstream_id": 42567,
+        "title": "Snow Bros. (Arcade) - World 2",
+        "version": "smwc-42567-1782354729",
+        "upstream_time": 1782354729,
+        "download_url": "https://dl.smwcentral.net/42567/snowbrosarcadeworld2.zip",
+        "filename": "snowbrosarcadeworld2.zip",
+        "size": 13471,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3170,7 +3172,7 @@
     "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42347,
+    "upstream_id": 42573,
     "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
     "authors": [
       "Kaching720"
@@ -3180,17 +3182,17 @@
       "male"
     ],
     "description": "This started out as an opposite to QuadFactor's SMA2 Mario, to \"de-advance-ify\" SMA2 Luigi, but I decided to shift the scope to create a Luigi that feels like he came out of base game back in the 1990s. Mainly based off of the 1989 beta and SMA2 Luigi but takes some notes from SMAS/SMM2 and SMB3 Luigi.<br>\r\n<br>\r\n<br>\r\n<br>\r\nIncludes:<br>\r\n<br>\r\n- GFX32 and PlayerGFX for 32x32 compat (with SMAS poses)<br>\r\n<br>\r\n- Same as above with but without vanilla inaccuracies<br>\r\n<br>\r\n- GFX00 (and a corrected version), 10 (one for the 32x32 patch too), 22, and 24 <br>\r\n<br>\r\n- GFX 28 to swap nametags<br>\r\n<br>\r\n- SMW palette (vanilla), SMA2 palette (blue overalls), and SMM2 palette (Mario's skin tone) for Luigi as Player 1<br>\r\n<br>\r\n- OW palettes for adjusted Yoshi colors and Luigi as Player 1 (has both blue and purple overalls)<br>\r\n<br>\r\n<br>\r\nI recommend you use them with patches that fix tile errors in the vanilla game (specifically the first cape flight frame and small victory pose while riding Yoshi)<br>\r\n<br>\r\nThe GFX32 files have a small p-speed jump frame in an unused tile.<br>\r\n<br>\r\nFeel free to edit if you want to mix and match the jank and corrected sprites or if you need compat with custom items/outfits",
-    "latest_version": "smwc-42347-1780431698",
+    "latest_version": "smwc-42573-1782438086",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42347,
+        "upstream_id": 42573,
         "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
-        "version": "smwc-42347-1780431698",
-        "upstream_time": 1780431698,
-        "download_url": "https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip",
+        "version": "smwc-42573-1782438086",
+        "upstream_time": 1782438086,
+        "download_url": "https://dl.smwcentral.net/42573/SMW-Styled_Luigi%28Beta-inspired%29.zip",
         "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
-        "size": 127549,
+        "size": 127596,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3593,6 +3595,75 @@
     ]
   },
   {
+    "name": "smwmusic-deltarune-the-ol-jitterbug",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42108,
+    "title": "Deltarune - The Ol' Jitterbug",
+    "authors": [
+      "Forgado"
+    ],
+    "tags": [
+      "overworld",
+      "upbeat"
+    ],
+    "description": "The song \"The Ol' Jitterbug\" from Chapter 4 of Deltarune, originally composed by Toby Fox. Great music to sleep to!<br>\r\n<br>\r\nThe original samples were found using the Toby Fox Sample Sheet.",
+    "latest_version": "smwc-42108-1782492258",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42108,
+        "title": "Deltarune - The Ol' Jitterbug",
+        "version": "smwc-42108-1782492258",
+        "upstream_time": 1782492258,
+        "download_url": "https://dl.smwcentral.net/42108/The%20Ol%27%20Jitterbug.zip",
+        "filename": "The Ol%27 Jitterbug.zip",
+        "size": 51461,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-f-zero-white-land-ii",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42117,
+    "title": "F-Zero - White Land II",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "abstract",
+      "chase",
+      "snow",
+      "tense",
+      "urban"
+    ],
+    "description": "A fast-paced noisy racing tune heard in the second part of White Land II from F-Zero, the only course in-game with alternative music.",
+    "latest_version": "smwc-42117-1782492909",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42117,
+        "title": "F-Zero - White Land II",
+        "version": "smwc-42117-1782492909",
+        "upstream_time": 1782492909,
+        "download_url": "https://dl.smwcentral.net/42117/F-Zero%20-%20White%20Land%20II.zip",
+        "filename": "F-Zero - White Land II.zip",
+        "size": 55475,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
     "aliases": [],
     "section": "smwmusic",
@@ -3618,6 +3689,41 @@
         "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
         "filename": "Last Castle.zip",
         "size": 25217,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-neutral-army",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42111,
+    "title": "Fire Emblem: Genealogy of the Holy War - Neutral Army",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "airship",
+      "castle",
+      "final",
+      "overworld"
+    ],
+    "description": "Neutral Army from Fire Emblem 4.",
+    "latest_version": "smwc-42111-1782492710",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42111,
+        "title": "Fire Emblem: Genealogy of the Holy War - Neutral Army",
+        "version": "smwc-42111-1782492710",
+        "upstream_time": 1782492710,
+        "download_url": "https://dl.smwcentral.net/42111/Fire%20Emblem%204%20-%20Neutral%20Army.zip",
+        "filename": "Fire Emblem 4 - Neutral Army.zip",
+        "size": 56902,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3852,71 +3958,6 @@
     ]
   },
   {
-    "name": "smwmusic-masters-harukanaru-augusta",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41957,
-    "title": "Masters: Harukanaru Augusta 2 (SFC) - Award",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "bonus",
-      "calm",
-      "credits",
-      "overworld",
-      "sea",
-      "sky"
-    ],
-    "description": "Victory music after completing all 18 holes as heard i in the SFC port of Masters: Harukanaru Augusta 2, originating from the PC-98 edition.",
-    "latest_version": "smwc-41957-1778078451",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41957,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Award",
-        "version": "smwc-41957-1778078451",
-        "upstream_time": 1778078451,
-        "download_url": "https://dl.smwcentral.net/41957/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Award.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Award.zip",
-        "size": 57500,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41956,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Results",
-        "version": "smwc-41956-1778078435",
-        "upstream_time": 1778078435,
-        "download_url": "https://dl.smwcentral.net/41956/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Results.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Results.zip",
-        "size": 65704,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41955,
-        "title": "Masters: Harukanaru Augusta 2 (SFC) - Tea Break",
-        "version": "smwc-41955-1778078422",
-        "upstream_time": 1778078422,
-        "download_url": "https://dl.smwcentral.net/41955/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Tea%20Break.zip",
-        "filename": "Masters Harukanaru Augusta 2 (SFC) - Tea Break.zip",
-        "size": 54918,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-masters-new-harukanaru-augusta",
     "aliases": [],
     "section": "smwmusic",
@@ -3932,10 +3973,8 @@
       "cutscene",
       "forest",
       "grassland",
-      "menu",
       "sea",
-      "sky",
-      "water"
+      "sky"
     ],
     "description": "Course results music after finishing any regular day as heard in the SFC port of Masters New: Harukanaru Augusta 3.",
     "latest_version": "smwc-41963-1778080726",
@@ -3968,20 +4007,6 @@
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41958,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Settings",
-        "version": "smwc-41958-1778080599",
-        "upstream_time": 1778080599,
-        "download_url": "https://dl.smwcentral.net/41958/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Settings.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Settings.zip",
-        "size": 53247,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
       }
     ]
   },
@@ -3999,8 +4024,7 @@
       "calm",
       "forest",
       "grassland",
-      "sea",
-      "upbeat"
+      "sea"
     ],
     "description": "One of the three in-game golfing tunes heard in the SFC port of Masters New: Harukanaru Augusta 3.",
     "latest_version": "smwc-41961-1778080637",
@@ -4033,15 +4057,36 @@
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-mega-man",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42267,
+    "title": "Mega Man 5 - Star Man",
+    "authors": [
+      "7 up"
+    ],
+    "tags": [
+      "abstract",
+      "night",
+      "space",
+      "upbeat"
+    ],
+    "description": "The theme of Star Man's* stage from Mega Man 5.<br>\r\n<br>\r\n*not to be confused with Mario's Starman<br>\r\n<br>\r\nBest for space levels.",
+    "latest_version": "smwc-42267-1782403319",
+    "install_kind": "add_music_k_music",
+    "versions": [
       {
-        "upstream_id": 41959,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 1",
-        "version": "smwc-41959-1778080613",
-        "upstream_time": 1778080613,
-        "download_url": "https://dl.smwcentral.net/41959/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%201.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Course BGM 1.zip",
-        "size": 60473,
+        "upstream_id": 42267,
+        "title": "Mega Man 5 - Star Man",
+        "version": "smwc-42267-1782403319",
+        "upstream_time": 1782403319,
+        "download_url": "https://dl.smwcentral.net/42267/mm5star.zip",
+        "filename": "mm5star.zip",
+        "size": 32961,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4807,6 +4852,40 @@
     ]
   },
   {
+    "name": "smwmusic-super-tetris",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42134,
+    "title": "Super Tetris 3 - Sakura ~ The Cherry Blossoms",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "forest",
+      "mountain",
+      "sea"
+    ],
+    "description": "Magicaliss stage 2 from Super Tetris 3, themed around traditional Japan featuring cherry blossoms and a bridge leading to mountain peaks.",
+    "latest_version": "smwc-42134-1782403436",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42134,
+        "title": "Super Tetris 3 - Sakura ~ The Cherry Blossoms",
+        "version": "smwc-42134-1782403436",
+        "upstream_time": 1782403436,
+        "download_url": "https://dl.smwcentral.net/42134/Super%20Tetris%203%20-%20Sakura%20~%20The%20Cherry%20Blossoms.zip",
+        "filename": "Super Tetris 3 - Sakura ~ The Cherry Blossoms.zip",
+        "size": 59027,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive",
     "aliases": [],
     "section": "smwmusic",
@@ -5561,7 +5640,7 @@
       "sa-1",
       "scroll"
     ],
-    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
+    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -6101,7 +6180,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -9994,7 +10073,7 @@
       "sa-1",
       "score"
     ],
-    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
+    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
     "latest_version": "smwc-41058-1763938565",
     "install_kind": "uber_asm",
     "versions": [
@@ -10190,44 +10269,6 @@
         "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
         "filename": "AirMeter.zip",
         "size": 980,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-charged-fireball",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40875,
-    "title": "Charged Fireball",
-    "authors": [
-      "Kevin",
-      "Ladida",
-      "SuperMariaSis"
-    ],
-    "tags": [
-      "charged",
-      "fireball",
-      "lorom",
-      "player",
-      "sa-1"
-    ],
-    "description": "This UberASM makes mario shoot a Yoshi Fireball if you hold a fire button (and optionally an additional button, by default R), emulating a charged fireball, just like in many platformer games like Megaman.<br>\r\nCheck out the ChargedFire.asm file for customization options.<br>\r\n<br>\r\nIt also includes a minor patch (to be applied with asar!) and GFX to make Yoshi Fireballs and Flopping Cheep-Cheeps swap tilemaps, so you can have Yoshi Fireballs in every level, optional but recommended (especially if using this in gamemode 14!).<br>\r\n<br>\r\nYou can find the patch version <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22868\">here</a>.",
-    "latest_version": "smwc-40875-1761412802",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40875,
-        "title": "Charged Fireball",
-        "version": "smwc-40875-1761412802",
-        "upstream_time": 1761412802,
-        "download_url": "https://dl.smwcentral.net/40875/Charged%20Fire.zip",
-        "filename": "Charged Fire.zip",
-        "size": 7367,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -10651,40 +10692,6 @@
         "download_url": "https://dl.smwcentral.net/41062/GroundPoundAsar2.zip",
         "filename": "GroundPoundAsar2.zip",
         "size": 4018,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-horizontal-vertical-autoscroll",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40876,
-    "title": "Horizontal/Vertical Autoscroll",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "autoscroll",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This code will enable horizontal or vertical autoscrolling in the level it's inserted in. Check out the asm file for customization options, such as scroll direction, speed/fractional speed and when to start and stop the autoscroll.<br>\r\n<br>\r\nNote: when using horizontal autoscrolling with a high speed, Mario will die instead of being pushed by the border of the screen.<br>\r\n<br>\r\nNote 2: usage of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=13675\">this patch</a> is recommended to solve spawning issues when using this.<br>\r\n<br>\r\nUpdate:<br>\r\n- Added horizontal autoscroll option.<br>\r\n- Added option to teleport when the autoscroll stops (suggested by <span class=\"un-outer\" title=\"TheMorganah\"><a href=\"/?p=profile&amp;id=27479\" style=\"color: var(--user-color-1);\" class=\"un\">TheMorganah</a></span>).",
-    "latest_version": "smwc-40876-1761416367",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40876,
-        "title": "Horizontal/Vertical Autoscroll",
-        "version": "smwc-40876-1761416367",
-        "upstream_time": 1761416367,
-        "download_url": "https://dl.smwcentral.net/40876/ConstantAutoscroll.zip",
-        "filename": "ConstantAutoscroll.zip",
-        "size": 1087,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -11271,6 +11278,47 @@
     ]
   },
   {
+    "name": "uberasm-princess-peach-abilities-floating-charged-jump-bomber",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42483,
+    "title": "Princess Peach Abilities (Floating / Charged Jump / Bomber)",
+    "authors": [
+      "Black Goku",
+      "Ladida",
+      "Noobish Noobsicle",
+      "scepile3"
+    ],
+    "tags": [
+      "ability",
+      "jump",
+      "lorom",
+      "physics",
+      "player",
+      "sa-1",
+      "smb2"
+    ],
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+    "latest_version": "smwc-42483-1782085948",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42483,
+        "title": "Princess Peach Abilities (Floating / Charged Jump / Bomber)",
+        "version": "smwc-42483-1782085948",
+        "upstream_time": 1782085948,
+        "download_url": "https://dl.smwcentral.net/42483/Unified%20Peach%20Abilities%20-%20V1.zip",
+        "filename": "Unified Peach Abilities - V1.zip",
+        "size": 3554,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-punishment-for-getting-coins-or-score",
     "aliases": [],
     "section": "uberasm",
@@ -11517,6 +11565,42 @@
         "download_url": "https://dl.smwcentral.net/42124/ChargedJumpUber.zip",
         "filename": "ChargedJumpUber.zip",
         "size": 2201,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-super-star-with-coins",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42506,
+    "title": "Super Star With Coins",
+    "authors": [
+      "Steven Atauchi C."
+    ],
+    "tags": [
+      "coins",
+      "lorom",
+      "sa-1",
+      "star",
+      "starman"
+    ],
+    "description": "Inspired by the powerup mechanic using rings in the Sonic the Hedgehog series. When Mario collects a certain number of coins, he can activate Starman powerup, accompanied by a \"transformation animation\".<br>\r\nThe duration of the effect depends on the number of coins available. While Starman is active, Mario will lose 1 coin per second until he runs out.<br>\r\n<br>\r\nThis is my first resource on the site, and I tried to make it as customizable as possible. You can consult the Readme file for more details on customization.<br>\r\n<br>\r\nInsert as level.",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42506,
+        "title": "Super Star With Coins",
+        "version": "V1.1",
+        "upstream_time": 1782597292,
+        "download_url": "https://dl.smwcentral.net/42506/SuperStarWithCoinsV1.1.zip",
+        "filename": "SuperStarWithCoinsV1.1.zip",
+        "size": 2932,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"

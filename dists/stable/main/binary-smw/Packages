@@ -790,18 +790,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip
 Description: Fantasy Zone Gear - Stage 1: Woods
 
-Package: smwgraphics-j-j-squawkers-pistachio-villa-boss-day
-Version: smwc-42011-1774375395
-Section: smwgraphics
-Architecture: smw
-Maintainer: playagmes169
-Filename: pool/smwgraphics/42011/jjsquawkerspistachiovillabossday.zip
-Size: 7310
-X-SMWC-ID: 42011
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42011/jjsquawkerspistachiovillabossday.zip
-Description: J.J. Squawkers - Pistachio Villa (Boss, Day)
-
 Package: smwgraphics-leap-day-snow-land
 Version: smwc-42115-1775246181
 Section: smwgraphics
@@ -825,6 +813,18 @@ X-SMWC-ID: 42344
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip
 Description: Madou Monogatari A-R-S: Arle's Story - Cave
+
+Package: smwgraphics-mario-coin
+Version: smwc-42579-1782355346
+Section: smwgraphics
+Architecture: smw
+Maintainer: Green Jerry
+Filename: pool/smwgraphics/42579/Mario Coin.zip
+Size: 1568
+X-SMWC-ID: 42579
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42579/Mario%20Coin.zip
+Description: Mario Coin
 
 Package: smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt
 Version: smwc-41579-1778486576
@@ -1018,17 +1018,17 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42296/Redrawn%20Styled%20Tap-Tap.zip
 Description: Redrawn Styled Tap-Tap
 
-Package: smwgraphics-super-double-dragon-airport-runway
-Version: smwc-41993-1774286676
+Package: smwgraphics-snow-bros-arcade-world
+Version: smwc-42567-1782354729
 Section: smwgraphics
 Architecture: smw
-Maintainer: Natsuz2
-Filename: pool/smwgraphics/41993/Airport Runway.zip
-Size: 3421
-X-SMWC-ID: 41993
+Maintainer: playagmes169
+Filename: pool/smwgraphics/42567/snowbrosarcadeworld2.zip
+Size: 13471
+X-SMWC-ID: 42567
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/41993/Airport%20Runway.zip
-Description: Super Double Dragon - Airport Runway
+X-SMWAPT-URL: https://dl.smwcentral.net/42567/snowbrosarcadeworld2.zip
+Description: Snow Bros. (Arcade) - World 2
 
 Package: smwgraphics-super-e-d-f-earth-defense-force-stage
 Version: smwc-42467-1780341780
@@ -1103,15 +1103,15 @@ X-SMWAPT-URL: https://dl.smwcentral.net/42468/yi-betacobblejungle.zip
 Description: Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle
 
 Package: smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired
-Version: smwc-42347-1780431698
+Version: smwc-42573-1782438086
 Section: smwgraphics
 Architecture: smw
 Maintainer: Kaching720
-Filename: pool/smwgraphics/42347/SMW-Styled_Luigi(Beta-inspired).zip
-Size: 127549
-X-SMWC-ID: 42347
+Filename: pool/smwgraphics/42573/SMW-Styled_Luigi(Beta-inspired).zip
+Size: 127596
+X-SMWC-ID: 42573
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42347/SMW-Styled_Luigi%28Beta-inspired%29.zip
+X-SMWAPT-URL: https://dl.smwcentral.net/42573/SMW-Styled_Luigi%28Beta-inspired%29.zip
 Description: Super Mario World Styled Luigi (Beta & SMA2-inspired)
 
 Package: smwgraphics-super-mario-world-styled-mario-bros-ice-fort
@@ -1258,6 +1258,30 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip
 Description: Cocoron - Cocorin's Entrance
 
+Package: smwmusic-deltarune-the-ol-jitterbug
+Version: smwc-42108-1782492258
+Section: smwmusic
+Architecture: smw
+Maintainer: Forgado
+Filename: pool/smwmusic/42108/The Ol%27 Jitterbug.zip
+Size: 51461
+X-SMWC-ID: 42108
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42108/The%20Ol%27%20Jitterbug.zip
+Description: Deltarune - The Ol' Jitterbug
+
+Package: smwmusic-f-zero-white-land-ii
+Version: smwc-42117-1782492909
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42117/F-Zero - White Land II.zip
+Size: 55475
+X-SMWC-ID: 42117
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42117/F-Zero%20-%20White%20Land%20II.zip
+Description: F-Zero - White Land II
+
 Package: smwmusic-final-fantasy-mystic-quest-last-castle
 Version: smwc-41719-1779488686
 Section: smwmusic
@@ -1269,6 +1293,18 @@ X-SMWC-ID: 41719
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41719/Last%20Castle.zip
 Description: Final Fantasy: Mystic Quest - Last Castle
+
+Package: smwmusic-fire-emblem-genealogy-of-the-holy-war-neutral-army
+Version: smwc-42111-1782492710
+Section: smwmusic
+Architecture: smw
+Maintainer: Segment1Zone2
+Filename: pool/smwmusic/42111/Fire Emblem 4 - Neutral Army.zip
+Size: 56902
+X-SMWC-ID: 42111
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42111/Fire%20Emblem%204%20-%20Neutral%20Army.zip
+Description: Fire Emblem: Genealogy of the Holy War - Neutral Army
 
 Package: smwmusic-full-tilt-3d-pinball-space-cadet-main-theme
 Version: smwc-42401-1781430748
@@ -1342,18 +1378,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41473/Kirby%20Triple%20Deluxe%20-%20Sullied%20Grace.zip
 Description: Kirby Triple Deluxe - Sullied Grace
 
-Package: smwmusic-masters-harukanaru-augusta
-Version: smwc-41957-1778078451
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41957/Masters Harukanaru Augusta 2 (SFC) - Award.zip
-Size: 57500
-X-SMWC-ID: 41957
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41957/Masters%20Harukanaru%20Augusta%202%20%28SFC%29%20-%20Award.zip
-Description: Masters: Harukanaru Augusta 2 (SFC) - Award
-
 Package: smwmusic-masters-new-harukanaru-augusta
 Version: smwc-41963-1778080726
 Section: smwmusic
@@ -1377,6 +1401,18 @@ X-SMWC-ID: 41961
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41961/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%203.zip
 Description: Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 3
+
+Package: smwmusic-mega-man
+Version: smwc-42267-1782403319
+Section: smwmusic
+Architecture: smw
+Maintainer: 7 up
+Filename: pool/smwmusic/42267/mm5star.zip
+Size: 32961
+X-SMWC-ID: 42267
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42267/mm5star.zip
+Description: Mega Man 5 - Star Man
 
 Package: smwmusic-mega-man-the-wily-wars-wily-s-tower-buster-rod-g-stage
 Version: smwc-41909-1778374487
@@ -1617,6 +1653,18 @@ X-SMWC-ID: 42208
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42208/smrpg_armed.zip
 Description: Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss
+
+Package: smwmusic-super-tetris
+Version: smwc-42134-1782403436
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42134/Super Tetris 3 - Sakura ~ The Cherry Blossoms.zip
+Size: 59027
+X-SMWC-ID: 42134
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42134/Super%20Tetris%203%20-%20Sakura%20~%20The%20Cherry%20Blossoms.zip
+Description: Super Tetris 3 - Sakura ~ The Cherry Blossoms
 
 Package: smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive
 Version: v1.2
@@ -3454,18 +3502,6 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41011/AirMeter.zip
 Description: Basic Numerical Air Meter V1.1
 
-Package: uberasm-charged-fireball
-Version: smwc-40875-1761412802
-Section: uberasm
-Architecture: smw
-Maintainer: Kevin, Ladida, SuperMariaSis
-Filename: pool/uberasm/40875/Charged Fire.zip
-Size: 7367
-X-SMWC-ID: 40875
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40875/Charged%20Fire.zip
-Description: Charged Fireball
-
 Package: uberasm-consistent-vanilla-walljumps
 Version: smwc-41030-1763077448
 Section: uberasm
@@ -3609,18 +3645,6 @@ X-SMWC-ID: 41062
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41062/GroundPoundAsar2.zip
 Description: Ground Pound, Yoshi's Stomp Effect
-
-Package: uberasm-horizontal-vertical-autoscroll
-Version: smwc-40876-1761416367
-Section: uberasm
-Architecture: smw
-Maintainer: Kevin
-Filename: pool/uberasm/40876/ConstantAutoscroll.zip
-Size: 1087
-X-SMWC-ID: 40876
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40876/ConstantAutoscroll.zip
-Description: Horizontal/Vertical Autoscroll
 
 Package: uberasm-hurt-kill-on-sound-effect-trigger-v1
 Version: smwc-41071-1763939200
@@ -3814,6 +3838,18 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41659/RtoSwitchOW%20V1.1.zip
 Description: Press R to Switch Mario and Luigi on the Overworld V1.1
 
+Package: uberasm-princess-peach-abilities-floating-charged-jump-bomber
+Version: smwc-42483-1782085948
+Section: uberasm
+Architecture: smw
+Maintainer: Black Goku, Ladida, Noobish Noobsicle, scepile3
+Filename: pool/uberasm/42483/Unified Peach Abilities - V1.zip
+Size: 3554
+X-SMWC-ID: 42483
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42483/Unified%20Peach%20Abilities%20-%20V1.zip
+Description: Princess Peach Abilities (Floating / Charged Jump / Bomber)
+
 Package: uberasm-punishment-for-getting-coins-or-score
 Version: smwc-41015-1762884760
 Section: uberasm
@@ -3897,6 +3933,18 @@ X-SMWC-ID: 42124
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42124/ChargedJumpUber.zip
 Description: SMB2-styled Charged Jump
+
+Package: uberasm-super-star-with-coins
+Version: V1.1
+Section: uberasm
+Architecture: smw
+Maintainer: Steven Atauchi C.
+Filename: pool/uberasm/42506/SuperStarWithCoinsV1.1.zip
+Size: 2932
+X-SMWC-ID: 42506
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42506/SuperStarWithCoinsV1.1.zip
+Description: Super Star With Coins
 
 Package: uberasm-tallying-score
 Version: smwc-41072-1763649286
