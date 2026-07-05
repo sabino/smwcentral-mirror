@@ -1,37 +1,31 @@
 [
   {
-    "name": "smwmusic-aurora-borealis-catastrophe",
+    "name": "smwmusic-aoki-densetsu-shoot-game",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42014,
-    "title": "Aurora Borealis Catastrophe",
+    "upstream_id": 42219,
+    "title": "Aoki Densetsu Shoot! - Game 2",
     "authors": [
-      "KungFuFurby"
+      "Fullcannon"
     ],
     "tags": [
-      "abstract",
       "athletic",
-      "boss",
-      "chaotic",
-      "dark",
-      "final",
-      "mysterious",
-      "sad",
-      "spooky",
-      "tense"
+      "sky",
+      "upbeat",
+      "urban"
     ],
-    "description": "As you go in to attack... and potentially free yourself from whatever nightmare you've gotten in this go round... it'll be quite a rollercoaster, to put things simply.<br>\r\n<br>\r\nYes, the song shown at Winter C3 2023 is now yours for the taking for your SMW ROM hacks. Enjoy. Just remember that this is for AddmusicK 1.0.9 and later due to a hot patch requirement.",
-    "latest_version": "smwc-42014-1778443412",
+    "description": "The second of three in-game soccer themes from Aoki Densetsu Shoot!.",
+    "latest_version": "smwc-42219-1782839648",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42014,
-        "title": "Aurora Borealis Catastrophe",
-        "version": "smwc-42014-1778443412",
-        "upstream_time": 1778443412,
-        "download_url": "https://dl.smwcentral.net/42014/Aurora%20Borealis%20Catastrophe.zip",
-        "filename": "Aurora Borealis Catastrophe.zip",
-        "size": 75681,
+        "upstream_id": 42219,
+        "title": "Aoki Densetsu Shoot! - Game 2",
+        "version": "smwc-42219-1782839648",
+        "upstream_time": 1782839648,
+        "download_url": "https://dl.smwcentral.net/42219/Aoki%20Densetsu%20Shoot%21%20-%20Game%202.zip",
+        "filename": "Aoki Densetsu Shoot%21 - Game 2.zip",
+        "size": 58271,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -136,6 +130,79 @@
         "download_url": "https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip",
         "filename": "Cocoron - Cocorin%27s Entrance (unsampled).zip",
         "size": 80625,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-contra-hard-corps-gtr-attack",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41794,
+    "title": "Contra: Hard Corps - GTR Attack!",
+    "authors": [
+      "Dzing"
+    ],
+    "tags": [
+      "athletic",
+      "boss",
+      "chase",
+      "retro",
+      "tense"
+    ],
+    "description": "Song that fits boss fights. Suggested by <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "latest_version": "smwc-41794-1782834160",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41794,
+        "title": "Contra: Hard Corps - GTR Attack!",
+        "version": "smwc-41794-1782834160",
+        "upstream_time": 1782834160,
+        "download_url": "https://dl.smwcentral.net/41794/gtr-attack.zip",
+        "filename": "gtr-attack.zip",
+        "size": 103106,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-danganronpa-argument-hope-vs-despair-super-metroid-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42280,
+    "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
+    "authors": [
+      "JX444444"
+    ],
+    "tags": [
+      "boss",
+      "cave",
+      "dark",
+      "final",
+      "fire",
+      "tense"
+    ],
+    "description": "\"Power Suit MonoKuma\"",
+    "latest_version": "smwc-42280-1782864425",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42280,
+        "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
+        "version": "smwc-42280-1782864425",
+        "upstream_time": 1782864425,
+        "download_url": "https://dl.smwcentral.net/42280/HOPEvsDESPAIR_SM.zip",
+        "filename": "HOPEvsDESPAIR_SM.zip",
+        "size": 72021,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -333,32 +400,32 @@
     ]
   },
   {
-    "name": "smwmusic-galaxy-force-ii-arcade-alone-fighter",
+    "name": "smwmusic-go-go-ackman",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42035,
-    "title": "Galaxy Force II (Arcade) - Alone Fighter",
+    "upstream_id": 42132,
+    "title": "Go Go Ackman 3 - Tenshi vs. Robot",
     "authors": [
-      "Segment1Zone2"
+      "Fullcannon"
     ],
     "tags": [
-      "athletic",
-      "sky",
-      "upbeat",
-      "urban"
+      "boss",
+      "dark",
+      "industrial",
+      "tense"
     ],
-    "description": "Alone Fighter from the arcade version of Galaxy Force II.",
-    "latest_version": "smwc-42035-1778446018",
+    "description": "Stage 2-2 boss against the research lab robot in Go Go Ackman 3.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>.",
+    "latest_version": "smwc-42132-1782836754",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42035,
-        "title": "Galaxy Force II (Arcade) - Alone Fighter",
-        "version": "smwc-42035-1778446018",
-        "upstream_time": 1778446018,
-        "download_url": "https://dl.smwcentral.net/42035/Galaxy%20Force%20II%20%28Arcade%29%20-%20Alone%20Fighter%20%5BU%5D.zip",
-        "filename": "Galaxy Force II (Arcade) - Alone Fighter %5BU%5D.zip",
-        "size": 35339,
+        "upstream_id": 42132,
+        "title": "Go Go Ackman 3 - Tenshi vs. Robot",
+        "version": "smwc-42132-1782836754",
+        "upstream_time": 1782836754,
+        "download_url": "https://dl.smwcentral.net/42132/Go%20Go%20Ackman%203%20-%20Tenshi%20vs%20Robot.zip",
+        "filename": "Go Go Ackman 3 - Tenshi vs Robot.zip",
+        "size": 50715,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -404,6 +471,43 @@
     ]
   },
   {
+    "name": "smwmusic-james-bond-jr-snes-minicopter-mission-mmx2-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42153,
+    "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "boss",
+      "castle",
+      "chase",
+      "final",
+      "industrial",
+      "tense"
+    ],
+    "description": "The theme played during the Minicopter Mission from James Bond Jr. on the SNES, ported in an MMX2 Style.",
+    "latest_version": "smwc-42153-1782864051",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42153,
+        "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
+        "version": "smwc-42153-1782864051",
+        "upstream_time": 1782864051,
+        "download_url": "https://dl.smwcentral.net/42153/James%20Bond%20Jr.%20-%20Minicopter%20Mission%20%28MMX2%20Style%29.zip",
+        "filename": "James Bond Jr. - Minicopter Mission (MMX2 Style).zip",
+        "size": 73490,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-jb-the-super-bass-opening",
     "aliases": [],
     "section": "smwmusic",
@@ -438,33 +542,31 @@
     ]
   },
   {
-    "name": "smwmusic-kirby-s-adventure-ice-cream-island-map-kdl3-style",
+    "name": "smwmusic-jikkyou-powerful-pro-yakyuu",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41840,
-    "title": "Kirby's Adventure - Ice Cream Island Map (KDL3 Style)",
+    "upstream_id": 42169,
+    "title": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending",
     "authors": [
-      "7 up"
+      "Fullcannon"
     ],
     "tags": [
-      "grassland",
-      "overworld",
-      "sky",
-      "town",
-      "upbeat"
+      "athletic",
+      "credits",
+      "ice"
     ],
-    "description": "The second stage select theme from Kirby's Adventure with glory of Kirby's Dream Land 3's samples. Best for overworld maps. Not recommended for levels due to the length, though.",
-    "latest_version": "smwc-41840-1778374664",
+    "description": "Good ending theme after winning through 130 matches on Pennant Mode in Jikkyou Powerful Pro Yakyuu 2.",
+    "latest_version": "smwc-42169-1782790436",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41840,
-        "title": "Kirby's Adventure - Ice Cream Island Map (KDL3 Style)",
-        "version": "smwc-41840-1778374664",
-        "upstream_time": 1778374664,
-        "download_url": "https://dl.smwcentral.net/41840/Ice%20Cream%20Island%20Map.zip",
-        "filename": "Ice Cream Island Map.zip",
-        "size": 48726,
+        "upstream_id": 42169,
+        "title": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending",
+        "version": "smwc-42169-1782790436",
+        "upstream_time": 1782790436,
+        "download_url": "https://dl.smwcentral.net/42169/Jikkyou%20Powerful%20Pro%20Yakyuu%202%20-%20Good%20Ending.zip",
+        "filename": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending.zip",
+        "size": 74194,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -508,50 +610,31 @@
     ]
   },
   {
-    "name": "smwmusic-masters-new-harukanaru-augusta",
+    "name": "smwmusic-leading-company-lights-across-the-bay",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41963,
-    "title": "Masters New: Harukanaru Augusta 3 (SFC) - Results",
+    "upstream_id": 42104,
+    "title": "Leading Company - Lights across the bay",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "bonus",
       "calm",
-      "credits",
-      "cutscene",
-      "forest",
-      "grassland",
-      "sea",
-      "sky"
+      "retro",
+      "sea"
     ],
-    "description": "Course results music after finishing any regular day as heard in the SFC port of Masters New: Harukanaru Augusta 3.",
-    "latest_version": "smwc-41963-1778080726",
+    "description": "Track 06 of 'Keys of the city' as heard in Leading Company's SFC port.",
+    "latest_version": "smwc-42104-1782835267",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41963,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Results",
-        "version": "smwc-41963-1778080726",
-        "upstream_time": 1778080726,
-        "download_url": "https://dl.smwcentral.net/41963/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Results.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Results.zip",
-        "size": 42765,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41962,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Coffee Break",
-        "version": "smwc-41962-1778080658",
-        "upstream_time": 1778080658,
-        "download_url": "https://dl.smwcentral.net/41962/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Coffee%20Break.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Coffee Break.zip",
-        "size": 64866,
+        "upstream_id": 42104,
+        "title": "Leading Company - Lights across the bay",
+        "version": "smwc-42104-1782835267",
+        "upstream_time": 1782835267,
+        "download_url": "https://dl.smwcentral.net/42104/Leading%20Company%20-%20Lights%20across%20the%20bay.zip",
+        "filename": "Leading Company - Lights across the bay.zip",
+        "size": 34270,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -561,47 +644,66 @@
     ]
   },
   {
-    "name": "smwmusic-masters-new-harukanaru-augusta-3-sfc-course-bgm",
+    "name": "smwmusic-lester-the-unlikely-something-happened",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41961,
-    "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 3",
+    "upstream_id": 42195,
+    "title": "Lester the Unlikely - Something Happened",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "athletic",
-      "calm",
-      "forest",
-      "grassland",
-      "sea"
+      "cutscene",
+      "jungle",
+      "sea",
+      "tense"
     ],
-    "description": "One of the three in-game golfing tunes heard in the SFC port of Masters New: Harukanaru Augusta 3.",
-    "latest_version": "smwc-41961-1778080637",
+    "description": "The opening cutscenes story theme from Lester the Unlikely.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"James Tall\"><a href=\"/?p=profile&amp;id=54789\" style=\"color: var(--user-color-1);\" class=\"un\">James Tall</a></span>.",
+    "latest_version": "smwc-42195-1782837421",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41961,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 3",
-        "version": "smwc-41961-1778080637",
-        "upstream_time": 1778080637,
-        "download_url": "https://dl.smwcentral.net/41961/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%203.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Course BGM 3.zip",
-        "size": 54289,
+        "upstream_id": 42195,
+        "title": "Lester the Unlikely - Something Happened",
+        "version": "smwc-42195-1782837421",
+        "upstream_time": 1782837421,
+        "download_url": "https://dl.smwcentral.net/42195/Lester%20the%20Unlikely%20-%20Something%20Happened.zip",
+        "filename": "Lester the Unlikely - Something Happened.zip",
+        "size": 56594,
         "sha256": null,
         "dependencies": [
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-magic-sword-honor-blade",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41880,
+    "title": "Magic Sword - Honor Blade",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "castle",
+      "dark",
+      "upbeat"
+    ],
+    "description": "One of the many tower floors from Magic Sword.",
+    "latest_version": "smwc-41880-1782838584",
+    "install_kind": "add_music_k_music",
+    "versions": [
       {
-        "upstream_id": 41960,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 2",
-        "version": "smwc-41960-1778080623",
-        "upstream_time": 1778080623,
-        "download_url": "https://dl.smwcentral.net/41960/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%202.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Course BGM 2.zip",
-        "size": 53784,
+        "upstream_id": 41880,
+        "title": "Magic Sword - Honor Blade",
+        "version": "smwc-41880-1782838584",
+        "upstream_time": 1782838584,
+        "download_url": "https://dl.smwcentral.net/41880/Magic%20Sword%20-%20Honor%20Blade.zip",
+        "filename": "Magic Sword - Honor Blade.zip",
+        "size": 65693,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -637,41 +739,6 @@
         "download_url": "https://dl.smwcentral.net/42267/mm5star.zip",
         "filename": "mm5star.zip",
         "size": 32961,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mega-man-the-wily-wars-wily-s-tower-buster-rod-g-stage",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41909,
-    "title": "Mega Man: The Wily Wars - Wily's Tower - Buster Rod G Stage",
-    "authors": [
-      "Dzing"
-    ],
-    "tags": [
-      "calm",
-      "cave",
-      "jungle",
-      "mountain"
-    ],
-    "description": "Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
-    "latest_version": "smwc-41909-1778374487",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41909,
-        "title": "Mega Man: The Wily Wars - Wily's Tower - Buster Rod G Stage",
-        "version": "smwc-41909-1778374487",
-        "upstream_time": 1778374487,
-        "download_url": "https://dl.smwcentral.net/41909/MMWW-busterrod.zip",
-        "filename": "MMWW-busterrod.zip",
-        "size": 93047,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -786,236 +853,33 @@
     ]
   },
   {
-    "name": "smwmusic-othello-world-game-with-rabbit",
+    "name": "smwmusic-pachi-slot-kenkyuu-outside",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41881,
-    "title": "Othello World - Game with Rabbit",
+    "upstream_id": 42133,
+    "title": "Pachi-Slot Kenkyuu - Outside",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "bonus",
-      "carnival"
-    ],
-    "description": "Second player rabbit game from Othello World.",
-    "latest_version": "smwc-41881-1778445392",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41881,
-        "title": "Othello World - Game with Rabbit",
-        "version": "smwc-41881-1778445392",
-        "upstream_time": 1778445392,
-        "download_url": "https://dl.smwcentral.net/41881/Othello%20World%20-%20Game%20with%20Rabbit.zip",
-        "filename": "Othello World - Game with Rabbit.zip",
-        "size": 34672,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-award",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41971,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Award",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "credits",
-      "cutscene",
-      "sea"
-    ],
-    "description": "'THE WINNER'<br>\r\nVictory music after completing all 18 holes as heard in the SFC three-dimensional golfing simulation of Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41971-1778166764",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41971,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Award",
-        "version": "smwc-41971-1778166764",
-        "upstream_time": 1778166764,
-        "download_url": "https://dl.smwcentral.net/41971/Pebble%20Beach%20no%20Hatou%20New%20-%20Award.zip",
-        "filename": "Pebble Beach no Hatou New - Award.zip",
-        "size": 71568,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-course-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41969,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 5",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "beach",
-      "dark",
-      "factory",
-      "final",
-      "fire",
-      "grassland",
-      "industrial",
-      "mountain",
-      "sea",
-      "upbeat",
-      "water"
-    ],
-    "description": "One of the golfing tunes heard in Hole 5, 7, 11 & 15 of the SFC three-dimensional golfing simulation Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41969-1778166748",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41969,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 5",
-        "version": "smwc-41969-1778166748",
-        "upstream_time": 1778166748,
-        "download_url": "https://dl.smwcentral.net/41969/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%205.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 5.zip",
-        "size": 49666,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41968,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 4",
-        "version": "smwc-41968-1778166737",
-        "upstream_time": 1778166737,
-        "download_url": "https://dl.smwcentral.net/41968/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%204.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 4.zip",
-        "size": 56996,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41967,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 3",
-        "version": "smwc-41967-1778166727",
-        "upstream_time": 1778166727,
-        "download_url": "https://dl.smwcentral.net/41967/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%203.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 3.zip",
-        "size": 53898,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41966,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 2",
-        "version": "smwc-41966-1778166719",
-        "upstream_time": 1778166719,
-        "download_url": "https://dl.smwcentral.net/41966/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%202.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 2.zip",
-        "size": 55939,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41965,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 1",
-        "version": "smwc-41965-1778166712",
-        "upstream_time": 1778166712,
-        "download_url": "https://dl.smwcentral.net/41965/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%201.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 1.zip",
-        "size": 59563,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-results",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41970,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Results",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cutscene",
-      "sea",
-      "sky"
-    ],
-    "description": "Course results music after finishing any regular day at sunset as heard in the SFC three-dimensional golfing simulation of Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41970-1778166757",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41970,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Results",
-        "version": "smwc-41970-1778166757",
-        "upstream_time": 1778166757,
-        "download_url": "https://dl.smwcentral.net/41970/Pebble%20Beach%20no%20Hatou%20New%20-%20Results.zip",
-        "filename": "Pebble Beach no Hatou New - Results.zip",
-        "size": 62705,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-settings",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41964,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Settings",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "abstract",
-      "athletic",
-      "chaotic",
-      "menu",
-      "sea",
-      "tense",
-      "upbeat",
+      "mysterious",
+      "night",
+      "overworld",
+      "town",
       "urban"
     ],
-    "description": "Settings menu music heard in the SFC three-dimensional golfing simulation of Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41964-1778166704",
+    "description": "The primary urban gambling overworld theme full of parlors and slot machines in Pachi-Slot Kenkyuu.",
+    "latest_version": "smwc-42133-1782927525",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41964,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Settings",
-        "version": "smwc-41964-1778166704",
-        "upstream_time": 1778166704,
-        "download_url": "https://dl.smwcentral.net/41964/Pebble%20Beach%20no%20Hatou%20New%20-%20Settings%20Fixed.zip",
-        "filename": "Pebble Beach no Hatou New - Settings Fixed.zip",
-        "size": 65978,
+        "upstream_id": 42133,
+        "title": "Pachi-Slot Kenkyuu - Outside",
+        "version": "smwc-42133-1782927525",
+        "upstream_time": 1782927525,
+        "download_url": "https://dl.smwcentral.net/42133/Pachi-Slot%20Kenkyuu%20-%20Outside%20.zip",
+        "filename": "Pachi-Slot Kenkyuu - Outside .zip",
+        "size": 63067,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1126,31 +990,140 @@
     ]
   },
   {
-    "name": "smwmusic-puyo-puyo-theme",
+    "name": "smwmusic-pok-mon-ruby-sapphire-emerald-trainers-eyes-meet-psychic-mmx2-style",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41992,
-    "title": "Puyo Puyo - Theme",
+    "upstream_id": 42247,
+    "title": "Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic)  (MMX2 Style)",
     "authors": [
-      "Dzing"
+      "Segment1Zone2"
     ],
     "tags": [
-      "calm",
-      "grassland",
-      "upbeat"
+      "cutscene",
+      "final",
+      "fire",
+      "industrial",
+      "overworld",
+      "tense"
     ],
-    "description": "Main theme from Puyo Puyo on the Genesis. Suggested by <span class=\"un-outer\" title=\"Klug\"><a href=\"/?p=profile&amp;id=28710\" style=\"color: var(--user-color-1);\" class=\"un\">Klug</a></span>.",
-    "latest_version": "smwc-41992-1778445657",
+    "description": "The theme played when Fighter & Psychic trainers spot you in Pokémon Ruby / Sapphire / Emerald, ported in an MMX2 Style.",
+    "latest_version": "smwc-42247-1782789824",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41992,
-        "title": "Puyo Puyo - Theme",
-        "version": "smwc-41992-1778445657",
-        "upstream_time": 1778445657,
-        "download_url": "https://dl.smwcentral.net/41992/puyopuyo.zip",
-        "filename": "puyopuyo.zip",
-        "size": 82473,
+        "upstream_id": 42247,
+        "title": "Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic)  (MMX2 Style)",
+        "version": "smwc-42247-1782789824",
+        "upstream_time": 1782789824,
+        "download_url": "https://dl.smwcentral.net/42247/Pokemon%20RSE%20-%20Look%21%20Fighter%20%26%20Psychic%20%28MMX2%20Style%29%20.zip",
+        "filename": "Pokemon RSE - Look%21 Fighter %26 Psychic (MMX2 Style) .zip",
+        "size": 73558,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-run-saber-renegade-saber",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42061,
+    "title": "Run Saber - Renegade Saber",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "boss",
+      "fire",
+      "upbeat",
+      "urban"
+    ],
+    "description": "A recurring encounter between the Red Saber sub boss from Run Saber.",
+    "latest_version": "smwc-42061-1782864675",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42061,
+        "title": "Run Saber - Renegade Saber",
+        "version": "smwc-42061-1782864675",
+        "upstream_time": 1782864675,
+        "download_url": "https://dl.smwcentral.net/42061/Run%20Saber%20-%20Renegade%20Saber.zip",
+        "filename": "Run Saber - Renegade Saber.zip",
+        "size": 50185,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-simcity-jr-statistics",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41883,
+    "title": "SimCity Jr. - Statistics",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "menu",
+      "mysterious",
+      "town",
+      "urban"
+    ],
+    "description": "Town statistical menus from SimCity Jr.'s SFC port.",
+    "latest_version": "smwc-41883-1782928189",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41883,
+        "title": "SimCity Jr. - Statistics",
+        "version": "smwc-41883-1782928189",
+        "upstream_time": 1782928189,
+        "download_url": "https://dl.smwcentral.net/41883/SimCity%20Jr.%20-%20Statistics.zip",
+        "filename": "SimCity Jr. - Statistics.zip",
+        "size": 57163,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-smart-ball-castle",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42062,
+    "title": "Smart Ball - Castle",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "castle",
+      "chaotic",
+      "final",
+      "industrial",
+      "tense"
+    ],
+    "description": "8-A final castle from Smart Ball/Jerry Boy.",
+    "latest_version": "smwc-42062-1782864798",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42062,
+        "title": "Smart Ball - Castle",
+        "version": "smwc-42062-1782864798",
+        "upstream_time": 1782864798,
+        "download_url": "https://dl.smwcentral.net/42062/Smart%20Ball%20-%20Castle.zip",
+        "filename": "Smart Ball - Castle.zip",
+        "size": 53104,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1436,6 +1409,73 @@
     ]
   },
   {
+    "name": "smwmusic-the-addams-family-pugsley-s-scavenger-hunt-attic",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42198,
+    "title": "The Addams Family: Pugsley's Scavenger Hunt - Attic",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "cave",
+      "ghost house",
+      "mysterious",
+      "sewer"
+    ],
+    "description": "In-doors house music heard in the upper platforming sections & cavern of Pugsley's Scavenger Hunt, the second SNES title in the Addams Family series.",
+    "latest_version": "smwc-42198-1782838958",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42198,
+        "title": "The Addams Family: Pugsley's Scavenger Hunt - Attic",
+        "version": "smwc-42198-1782838958",
+        "upstream_time": 1782838958,
+        "download_url": "https://dl.smwcentral.net/42198/The%20Addams%20Family%20~%20Pugsley%27s%20Scavenger%20Hunt%20-%20Attic.zip",
+        "filename": "The Addams Family ~ Pugsley%27s Scavenger Hunt - Attic.zip",
+        "size": 44128,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-the-flintstones-the-treasure-of-sierra-madrock-theme-of-the-flintstones",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42222,
+    "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "title"
+    ],
+    "description": "The title screen music from the first 1994 Flintstones platforming title on the SNES, featuring an arrangement of the iconic Flintstones motif here and throughout the soundtrack.",
+    "latest_version": "smwc-42222-1782841615",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42222,
+        "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
+        "version": "smwc-42222-1782841615",
+        "upstream_time": 1782841615,
+        "download_url": "https://dl.smwcentral.net/42222/The%20Treasure%20of%20Sierra%20Madrock%20-%20Theme%20of%20the%20Flintstones.zip",
+        "filename": "The Treasure of Sierra Madrock - Theme of the Flintstones.zip",
+        "size": 59929,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive",
     "aliases": [],
     "section": "smwmusic",
@@ -1540,6 +1580,43 @@
     ]
   },
   {
+    "name": "smwmusic-waku-waku-ski-wonder-shoot-technician",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42223,
+    "title": "Waku Waku Ski Wonder Shoot - Technician",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "ice",
+      "menu",
+      "mountain",
+      "snow",
+      "upbeat"
+    ],
+    "description": "Character editor theme from Waku Waku Ski Wonder Shoot.",
+    "latest_version": "smwc-42223-1782840928",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42223,
+        "title": "Waku Waku Ski Wonder Shoot - Technician",
+        "version": "smwc-42223-1782840928",
+        "upstream_time": 1782840928,
+        "download_url": "https://dl.smwcentral.net/42223/Waku%20Waku%20Ski%20Wonder%20Shoot%20-%20Technician.zip",
+        "filename": "Waku Waku Ski Wonder Shoot - Technician.zip",
+        "size": 67302,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-watermelon-valley",
     "aliases": [],
     "section": "smwmusic",
@@ -1564,6 +1641,40 @@
         "download_url": "https://dl.smwcentral.net/42358/Watermelon_Valley.zip",
         "filename": "Watermelon_Valley.zip",
         "size": 32261,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-ys-iv-mask-of-the-sun-field",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42121,
+    "title": "Ys IV: Mask of the Sun - Field",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "grassland",
+      "mountain",
+      "upbeat"
+    ],
+    "description": "Wandering through the outside fields and wilderness in the SFC adaptation of Ys IV: Mask of the Sun.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>.",
+    "latest_version": "smwc-42121-1782836066",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42121,
+        "title": "Ys IV: Mask of the Sun - Field",
+        "version": "smwc-42121-1782836066",
+        "upstream_time": 1782836066,
+        "download_url": "https://dl.smwcentral.net/42121/Ys%20IV%20Mask%20of%20the%20Sun%20-%20Field.zip",
+        "filename": "Ys IV Mask of the Sun - Field.zip",
+        "size": 72557,
         "sha256": null,
         "dependencies": [
           "addmusick"

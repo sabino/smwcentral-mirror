@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-custom-smw-like-iggy-boss",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42637,
+  "title": "Custom SMW-Like Iggy Boss",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "boss",
+    "enemy",
+    "iggy",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
+  "latest_version": "smwc-42637-1783173142",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42637,
+      "title": "Custom SMW-Like Iggy Boss",
+      "version": "smwc-42637-1783173142",
+      "upstream_time": 1783173142,
+      "download_url": "https://dl.smwcentral.net/42637/SMW%20Custom%20Iggy%20Boss.zip",
+      "filename": "SMW Custom Iggy Boss.zip",
+      "size": 10074,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

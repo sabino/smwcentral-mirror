@@ -186,41 +186,6 @@
     ]
   },
   {
-    "name": "smwsprites-bob-omb-shooter",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40290,
-    "title": "Bob-omb Shooter",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "bob-omb",
-      "lorom",
-      "sa-1",
-      "shooter"
-    ],
-    "description": "bobomb shooter from smb3<br>\r\nrequested by Xulon",
-    "latest_version": "smwc-40290-1768699020",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40290,
-        "title": "Bob-omb Shooter",
-        "version": "smwc-40290-1768699020",
-        "upstream_time": 1768699020,
-        "download_url": "https://dl.smwcentral.net/40290/bobomb_shooter.zip",
-        "filename": "bobomb_shooter.zip",
-        "size": 1674,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-bouncy-boo",
     "aliases": [],
     "section": "smwsprites",
@@ -402,41 +367,6 @@
     ]
   },
   {
-    "name": "smwsprites-clock-thwimp",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41535,
-    "title": "Clock Thwimp",
-    "authors": [
-      "MellyMellouange"
-    ],
-    "tags": [
-      "lorom",
-      "mosaic",
-      "sa-1",
-      "thwimp"
-    ],
-    "description": "Clock Thwimp will go a direction until it hits a wall, and then turn clockwise/counter-clockwise and repeat the process.<br>\r\n<br>\r\nAutomatically detects walls surrounding it as it spawns in order to immediately start going the intended direction.",
-    "latest_version": "smwc-41535-1770255153",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41535,
-        "title": "Clock Thwimp",
-        "version": "smwc-41535-1770255153",
-        "upstream_time": 1770255153,
-        "download_url": "https://dl.smwcentral.net/41535/ClockThwimp.zip",
-        "filename": "ClockThwimp.zip",
-        "size": 2971,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-conditional-keyhole",
     "aliases": [],
     "section": "smwsprites",
@@ -463,6 +393,79 @@
         "download_url": "https://dl.smwcentral.net/42039/conditional_keyhole.zip",
         "filename": "conditional_keyhole.zip",
         "size": 4732,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-custom-smw-like-iggy-boss",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42637,
+    "title": "Custom SMW-Like Iggy Boss",
+    "authors": [
+      "Major Flare"
+    ],
+    "tags": [
+      "boss",
+      "enemy",
+      "iggy",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
+    "latest_version": "smwc-42637-1783173142",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42637,
+        "title": "Custom SMW-Like Iggy Boss",
+        "version": "smwc-42637-1783173142",
+        "upstream_time": 1783173142,
+        "download_url": "https://dl.smwcentral.net/42637/SMW%20Custom%20Iggy%20Boss.zip",
+        "filename": "SMW Custom Iggy Boss.zip",
+        "size": 10074,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-customizable-lemmy-wendy",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42636,
+    "title": "Customizable Lemmy/Wendy",
+    "authors": [
+      "Fernap"
+    ],
+    "tags": [
+      "boss",
+      "koopaling",
+      "lemmy",
+      "lorom",
+      "sa-1",
+      "wendy"
+    ],
+    "description": "A customizable Lemmy/Wendy boss based on the disassembly by yoshicookiezeus.  Features include:<br>\r\n<br>\r\n- Set the number of hits to kill the boss<br>\r\n- Very flexible method of giving spawn positions and patterns for the boss and their dummies (can be used in levels larger than one screen)<br>\r\n- Support for autoscroll fights, including manual tweaking of cycle timings<br>\r\n- Upside down spawns<br>\r\n- Flexible interaction behavior between the boss/dummies and Mario/carriable sprites/fireballs<br>\r\n- Support for custom graphics<br>\r\n- And more (see the readme and config file for a full list)<br>\r\n",
+    "latest_version": "1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42636,
+        "title": "Customizable Lemmy/Wendy",
+        "version": "1.1",
+        "upstream_time": 1783172277,
+        "download_url": "https://dl.smwcentral.net/42636/CustomLemmyWendy1.1.zip",
+        "filename": "CustomLemmyWendy1.1.zip",
+        "size": 23135,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -568,6 +571,42 @@
         "download_url": "https://dl.smwcentral.net/41241/Dino%20Rhino%20%2B%20Dino%20Torch.zip",
         "filename": "Dino Rhino + Dino Torch.zip",
         "size": 11345,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-explosive-dry-bones",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42639,
+    "title": "Explosive Dry Bones",
+    "authors": [
+      "TheXander"
+    ],
+    "tags": [
+      "dry bones",
+      "explosion",
+      "extended",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Explosive Dry Bones:<br>\r\n<br>\r\nDescription: This are a variant version of the Dry Bones, that acts like the SMW ones, but when the player stomp him and he are showing the crumble animation, he will start flashing and explode.<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nAllow customize the sprite easily with a bunch of defines!<br>\r\n<br>\r\nMore details are in the included \"Readme\" file.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=126154&page=1&pid=1630493#p1630493\">Requested</a> by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+    "latest_version": "V1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42639,
+        "title": "Explosive Dry Bones",
+        "version": "V1.1",
+        "upstream_time": 1783174906,
+        "download_url": "https://dl.smwcentral.net/42639/Explosive%20Dry%20Bones%20V1.1.zip",
+        "filename": "Explosive Dry Bones V1.1.zip",
+        "size": 15207,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -908,86 +947,6 @@
     ]
   },
   {
-    "name": "smwsprites-gatlin-venus",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40179,
-    "title": "Gatlin Venus",
-    "authors": [
-      "Luknight",
-      "imamelia"
-    ],
-    "tags": [
-      "lorom",
-      "piranha",
-      "piranha plant",
-      "plant",
-      "sa-1",
-      "venus"
-    ],
-    "description": "The plants shot aiming fast fireball.<br>\r\npalette is E (default)<br>\r\n<br>\r\nRequested by Xulon",
-    "latest_version": "smwc-40179-1769902370",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40179,
-        "title": "Gatlin Venus",
-        "version": "smwc-40179-1769902370",
-        "upstream_time": 1769902370,
-        "download_url": "https://dl.smwcentral.net/40179/gatlin_venus.zip",
-        "filename": "gatlin_venus.zip",
-        "size": 9359,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-giant-piranha-plants",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40128,
-    "title": "Giant Piranha Plants",
-    "authors": [
-      "Davros",
-      "Luknight",
-      "mikeyk"
-    ],
-    "tags": [
-      "enemy",
-      "giant",
-      "giant piranha",
-      "lorom",
-      "piranha",
-      "piranha plant",
-      "sa-1",
-      "sideways piranha",
-      "smb3"
-    ],
-    "description": "This is the Giant Piranha Plant, originally from sprite tool, further adapted by Davros. Can be used in giant and regular bytes (size determined by extra bit). Extra Byte 1 controls the direction, stem length and aggressivity.<br>\r\n<br>\r\nNow SA-1 and PIXI Compatible.<br>\r\n<br>\r\n2026/01/31 moderation update<br>\r\n.now with lunar magic display<br>\r\n<br>\r\n2025/07/18 update<br>\r\n.extra prop -&gt; extra byte 1<br>\r\n.can shift 8 pixels<br>\r\n.add long length<br>\r\n.(optional) no longer hiding behind the object.<br>\r\n<br>\r\n2025/07/18<br>\r\n.iceman's code update",
-    "latest_version": "smwc-40128-1769863555",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40128,
-        "title": "Giant Piranha Plants",
-        "version": "smwc-40128-1769863555",
-        "upstream_time": 1769863555,
-        "download_url": "https://dl.smwcentral.net/40128/giant_piranha.zip",
-        "filename": "giant_piranha.zip",
-        "size": 8559,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-goal-roulette",
     "aliases": [],
     "section": "smwsprites",
@@ -1087,41 +1046,6 @@
         "download_url": "https://dl.smwcentral.net/42003/iggy2024.zip",
         "filename": "iggy2024.zip",
         "size": 5146,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-jumpy-grinder",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41534,
-    "title": "Jumpy Grinder",
-    "authors": [
-      "Medic"
-    ],
-    "tags": [
-      "grinder",
-      "jumping",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This is very simple: It's a constantly jumping grinder. Height is customizable. Don't credit me, credit Iceguy for the awesome dissasembly. (you can credit me if you want :3)<br>\r\n<br>\r\nMod edit: Don't make it able to reach a ceiling, since it will pass through it!",
-    "latest_version": "smwc-41534-1770253097",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41534,
-        "title": "Jumpy Grinder",
-        "version": "smwc-41534-1770253097",
-        "upstream_time": 1770253097,
-        "download_url": "https://dl.smwcentral.net/41534/Jumpy%20Grinder.zip",
-        "filename": "Jumpy Grinder.zip",
-        "size": 2883,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1380,33 +1304,32 @@
     ]
   },
   {
-    "name": "smwsprites-pipe-dwelling-pitchin-chuck",
+    "name": "smwsprites-parachute-thwomp",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 41536,
-    "title": "Pipe Dwelling Pitchin' Chuck",
+    "upstream_id": 42640,
+    "title": "Parachute Thwomp",
     "authors": [
-      "TheBiob"
+      "Von Fahrenheit"
     ],
     "tags": [
-      "chuck",
       "enemy",
       "lorom",
-      "pipe",
-      "sa-1"
+      "sa-1",
+      "thwomp"
     ],
-    "description": "This is a pitchin' chuck that throws baseballs from a pipe.<br>\r\n<br>\r\nRequested by UpBForVictory<br>\r\n<br>\r\nNow SA-1 hybrid.",
-    "latest_version": "smwc-41536-1770258505",
+    "description": "Exactly what it says on the tin. It's a Thwomp with a tiny parachute.<br>\r\n<br>\r\nRequested for the Strongest Sprite Workshop 2020 by Sammmoo",
+    "latest_version": "1.1",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 41536,
-        "title": "Pipe Dwelling Pitchin' Chuck",
-        "version": "smwc-41536-1770258505",
-        "upstream_time": 1770258505,
-        "download_url": "https://dl.smwcentral.net/41536/pipechuck.zip",
-        "filename": "pipechuck.zip",
-        "size": 3199,
+        "upstream_id": 42640,
+        "title": "Parachute Thwomp",
+        "version": "1.1",
+        "upstream_time": 1783176214,
+        "download_url": "https://dl.smwcentral.net/42640/parachute%20thwomp.zip",
+        "filename": "parachute thwomp.zip",
+        "size": 6597,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1444,6 +1367,44 @@
         "download_url": "https://dl.smwcentral.net/41979/NeedlenoseAndPokey.zip",
         "filename": "NeedlenoseAndPokey.zip",
         "size": 8774,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-pot",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42618,
+    "title": "Pot",
+    "authors": [
+      "wiiqwertyuiop"
+    ],
+    "tags": [
+      "breakable",
+      "lorom",
+      "pacifist",
+      "pot",
+      "sa-1",
+      "shatter",
+      "vase"
+    ],
+    "description": "This is a 16x16 pot sprite. Mario can stand on it, push it, and pick it up to move it. When he drops it, it will break and spawn another sprite. It must spawn on a solid tile.<br>\r\n<br>\r\nIt uses its extra bytes to determine which sprite it should spawn (they can be set in the Add Sprite Manual dialog with the \"Extension\" field). The first byte (first two digits) determines the sprite number to spawn (get it either from the Add Sprites Window or from PIXI's list.txt). The next digit determines <a href=\"https://www.smwcentral.net/?p=nmap&m=smwram#7E14C8\">which status</a> the sprite should spawn in (if unsure, use 1). The fourth digit is the extra bit of the sprite to spawn. 0 and 1 spawn a normal sprite with its extra bit clear or set, 2 and 3 spawn a custom sprite with its extra bit clear or set (just like the Extra Bits field from the Add Sprite Manual dialog). For example, extension 8010 would spawn vanilla sprite 80 (a key) in status 1 with its extra bit clear. 0583 would spawn custom sprite 05 in status 8 with its extra bit set. If you set the sprite number to FF, the pot will shatter without spawning anything.<br>\r\n<br>\r\nIf the extra bit of the pot is set, then it'll randomly leave nothing behind, or spawn one of two sprites. The second sprite is defined in the extension after the first one (in the same format). For example, a pot with its extra bit set and extension 80110582 would either spawn nothing, a key in status 1 with its extra bit set, or custom sprite 05 in status 8 with its extra bit clear.<br>\r\n<br>\r\nCheck the ASM file for customization options. The included graphics use Mario's palette and come from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14160\">BlackSabbath's SMB2 tileset</a>.",
+    "latest_version": "smwc-42618-1782820599",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42618,
+        "title": "Pot",
+        "version": "smwc-42618-1782820599",
+        "upstream_time": 1782820599,
+        "download_url": "https://dl.smwcentral.net/42618/Pot_Remodded.zip",
+        "filename": "Pot_Remodded.zip",
+        "size": 6239,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1623,6 +1584,41 @@
         "download_url": "https://dl.smwcentral.net/41057/sumo_bro_ex.zip",
         "filename": "sumo_bro_ex.zip",
         "size": 9492,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-super-bob-omb",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42638,
+    "title": "Super Bob-omb",
+    "authors": [
+      "Major Flare"
+    ],
+    "tags": [
+      "bob-omb",
+      "enemy",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This is a Super Bob-omb, inspired and rehauled from its original japanese code. It behaves like a normal Bob-omb, but it has a wider explosion range.<br>\r\n<br>\r\nIncludes .cfg and .json files. Tested with SA-1 and the latest version of PIXI.",
+    "latest_version": "smwc-42638-1783173745",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42638,
+        "title": "Super Bob-omb",
+        "version": "smwc-42638-1783173745",
+        "upstream_time": 1783173745,
+        "download_url": "https://dl.smwcentral.net/42638/Super%20Bob%20Omb.zip",
+        "filename": "Super Bob Omb.zip",
+        "size": 2849,
         "sha256": null,
         "dependencies": [
           "pixi"

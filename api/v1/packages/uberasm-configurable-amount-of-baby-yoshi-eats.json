@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-configurable-amount-of-baby-yoshi-eats",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42635,
+  "title": "Configurable Amount of Baby Yoshi Eats",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "baby yoshi",
+    "lorom",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "This simple code will change the required amount of things Baby Yoshi has to eat to grow up for the level you put it in (or for all levels, if used in gamemode 14). Note that powerups will still make him grow immediately, and \"double eats\" still apply (if he eats 2 things in quick succession, it will count as 3).",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42635,
+      "title": "Configurable Amount of Baby Yoshi Eats",
+      "version": "V1.1",
+      "upstream_time": 1783117090,
+      "download_url": "https://dl.smwcentral.net/42635/BabyYoshiEatsV1.1.zip",
+      "filename": "BabyYoshiEatsV1.1.zip",
+      "size": 1191,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

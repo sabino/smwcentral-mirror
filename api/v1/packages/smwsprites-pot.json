@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-pot",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42618,
+  "title": "Pot",
+  "authors": [
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "breakable",
+    "lorom",
+    "pacifist",
+    "pot",
+    "sa-1",
+    "shatter",
+    "vase"
+  ],
+  "description": "This is a 16x16 pot sprite. Mario can stand on it, push it, and pick it up to move it. When he drops it, it will break and spawn another sprite. It must spawn on a solid tile.<br>\r\n<br>\r\nIt uses its extra bytes to determine which sprite it should spawn (they can be set in the Add Sprite Manual dialog with the \"Extension\" field). The first byte (first two digits) determines the sprite number to spawn (get it either from the Add Sprites Window or from PIXI's list.txt). The next digit determines <a href=\"https://www.smwcentral.net/?p=nmap&m=smwram#7E14C8\">which status</a> the sprite should spawn in (if unsure, use 1). The fourth digit is the extra bit of the sprite to spawn. 0 and 1 spawn a normal sprite with its extra bit clear or set, 2 and 3 spawn a custom sprite with its extra bit clear or set (just like the Extra Bits field from the Add Sprite Manual dialog). For example, extension 8010 would spawn vanilla sprite 80 (a key) in status 1 with its extra bit clear. 0583 would spawn custom sprite 05 in status 8 with its extra bit set. If you set the sprite number to FF, the pot will shatter without spawning anything.<br>\r\n<br>\r\nIf the extra bit of the pot is set, then it'll randomly leave nothing behind, or spawn one of two sprites. The second sprite is defined in the extension after the first one (in the same format). For example, a pot with its extra bit set and extension 80110582 would either spawn nothing, a key in status 1 with its extra bit set, or custom sprite 05 in status 8 with its extra bit clear.<br>\r\n<br>\r\nCheck the ASM file for customization options. The included graphics use Mario's palette and come from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14160\">BlackSabbath's SMB2 tileset</a>.",
+  "latest_version": "smwc-42618-1782820599",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42618,
+      "title": "Pot",
+      "version": "smwc-42618-1782820599",
+      "upstream_time": 1782820599,
+      "download_url": "https://dl.smwcentral.net/42618/Pot_Remodded.zip",
+      "filename": "Pot_Remodded.zip",
+      "size": 6239,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ys-iv-mask-of-the-sun-field",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42121,
+  "title": "Ys IV: Mask of the Sun - Field",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "grassland",
+    "mountain",
+    "upbeat"
+  ],
+  "description": "Wandering through the outside fields and wilderness in the SFC adaptation of Ys IV: Mask of the Sun.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>.",
+  "latest_version": "smwc-42121-1782836066",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42121,
+      "title": "Ys IV: Mask of the Sun - Field",
+      "version": "smwc-42121-1782836066",
+      "upstream_time": 1782836066,
+      "download_url": "https://dl.smwcentral.net/42121/Ys%20IV%20Mask%20of%20the%20Sun%20-%20Field.zip",
+      "filename": "Ys IV Mask of the Sun - Field.zip",
+      "size": 72557,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

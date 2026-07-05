@@ -247,39 +247,6 @@
     ]
   },
   {
-    "name": "smwpatches-clear-all-ram-on-reset",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40942,
-    "title": "Clear All RAM on Reset",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "ram"
-    ],
-    "description": "Initializes every RAM address from $7E0000 to $7FFFFF to zero via a DMA. This can avoid weird quirks.<br>\r\nIt also gives a <i>slight</i> - not really that noticeable - speed boost on boot when using AddmusicK.<br>\r\n<br>\r\nThis patch is not meant for SA-1.",
-    "latest_version": "smwc-40942-1762369336",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40942,
-        "title": "Clear All RAM on Reset",
-        "version": "smwc-40942-1762369336",
-        "upstream_time": 1762369336,
-        "download_url": "https://dl.smwcentral.net/40942/reset_clear.zip",
-        "filename": "reset_clear.zip",
-        "size": 612,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-collected-moon-outline",
     "aliases": [],
     "section": "smwpatches",
@@ -527,6 +494,73 @@
     ]
   },
   {
+    "name": "smwpatches-dry-bones-and-bony-beetle-suboffscreen-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42569,
+    "title": "Dry Bones and Bony Beetle SubOffScreen Fix",
+    "authors": [
+      "HammerBrother"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Fixes an oversight that caused Dry Bones and Bony Beetle to not despawn offscreen if they're in their crumbled state, until they revive. This is because such subroutine is only called in their \"normal\" state.",
+    "latest_version": "V1.0.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42569,
+        "title": "Dry Bones and Bony Beetle SubOffScreen Fix",
+        "version": "V1.0.1",
+        "upstream_time": 1782681050,
+        "download_url": "https://dl.smwcentral.net/42569/DryBonesBonyBeetleOffScrnFix.zip",
+        "filename": "DryBonesBonyBeetleOffScrnFix.zip",
+        "size": 1862,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-enemy-credit-sprite-changer-with-graphical-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42372,
+    "title": "Enemy Credit Sprite Changer (With Graphical Fix)",
+    "authors": [
+      "Hamtaro126"
+    ],
+    "tags": [
+      "credits",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+    "latest_version": "0.031",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42372,
+        "title": "Enemy Credit Sprite Changer (With Graphical Fix)",
+        "version": "0.031",
+        "upstream_time": 1782670695,
+        "download_url": "https://dl.smwcentral.net/42372/endsprfix%200.031.zip",
+        "filename": "endsprfix 0.031.zip",
+        "size": 5506,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-enter-level-pipe-star-road-sounds-v1",
     "aliases": [],
     "section": "smwpatches",
@@ -707,36 +741,77 @@
     ]
   },
   {
-    "name": "smwpatches-magikoopa-sprite-hijack",
+    "name": "smwpatches-koopaling-palette-changer",
     "aliases": [],
     "section": "smwpatches",
-    "upstream_id": 38708,
-    "title": "Magikoopa Sprite Hijack",
+    "upstream_id": 42405,
+    "title": "Koopaling Palette Changer",
     "authors": [
-      "Isikoro",
-      "imamelia"
+      "Moltz"
     ],
     "tags": [
+      "iggy koopa",
+      "koopalings",
+      "larry koopa",
+      "lemmy koopa",
       "lorom",
-      "magikoopa",
+      "luwdig von koopa",
+      "morton koopa jr",
+      "palette",
+      "roy koopa",
       "sa-1",
-      "spawn",
-      "sprite",
-      "turn block",
-      "uberasm"
+      "wendy o koopa"
     ],
-    "description": "This patch hijacks Magikoopa's \"turn block into sprite\" routine so that you can specify your own sprite numbers for it to generate. (There is a \"Sprite kind x 3\" bytes table in the patch that holds all possible sprite numbers.) You can also use custom sprites and stunned sprites.<br>\r\n<br>\r\nUpdated by <span class=\"un-outer\" title=\"Isikoro\"><a href=\"/?p=profile&amp;id=36566\" style=\"color: var(--user-color-1);\" class=\"un\">Isikoro</a></span><br>\r\n- Allows you to set the sprites to be produced, level by level, using 1 byte RAM. It can also be shared at all levels.<br>\r\n- Extra bytes can now be set for the custom sprites produced.<br>\r\n- Supported for Monty Mole and Swooper Bat.",
-    "latest_version": "smwc-38708-1763087676",
+    "description": "This patch allows the user to easily change the palette all seven Koopalings use.<br>\r\n<br>\r\nCredit is not required.",
+    "latest_version": "V1.1",
     "install_kind": "asar_patch",
     "versions": [
       {
-        "upstream_id": 38708,
-        "title": "Magikoopa Sprite Hijack",
-        "version": "smwc-38708-1763087676",
-        "upstream_time": 1763087676,
-        "download_url": "https://dl.smwcentral.net/38708/Magikoopa%20Sprite%20Hijack.zip",
-        "filename": "Magikoopa Sprite Hijack.zip",
-        "size": 4497,
+        "upstream_id": 42405,
+        "title": "Koopaling Palette Changer",
+        "version": "V1.1",
+        "upstream_time": 1782747899,
+        "download_url": "https://dl.smwcentral.net/42405/SMW%20Koopaling%20Palette%20Changer%20Patch%20V1.1.zip",
+        "filename": "SMW Koopaling Palette Changer Patch V1.1.zip",
+        "size": 2407,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-limited-yoshi-flying",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42608,
+    "title": "Limited Yoshi Flying",
+    "authors": [
+      "SkywinDragoon"
+    ],
+    "tags": [
+      "abilities",
+      "flight",
+      "fly",
+      "limit",
+      "lorom",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "This patch will prevent yoshi with blue shell from flying forever and ever.<br>\r\n<br>\r\nlimitation of flight is configurable.<br>\r\n<br>\r\nfixed bugs and with SA-1 support.",
+    "latest_version": "smwc-42608-1782629978",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42608,
+        "title": "Limited Yoshi Flying",
+        "version": "smwc-42608-1782629978",
+        "upstream_time": 1782629978,
+        "download_url": "https://dl.smwcentral.net/42608/LYF.zip",
+        "filename": "LYF.zip",
+        "size": 882,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -933,6 +1008,43 @@
     ]
   },
   {
+    "name": "smwpatches-morton-roy-ludwig-tilemap-editor",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42384,
+    "title": "Morton, Roy & Ludwig Tilemap Editor",
+    "authors": [
+      "Moltz"
+    ],
+    "tags": [
+      "lorom",
+      "ludwig",
+      "mode7",
+      "morton",
+      "roy",
+      "sa-1"
+    ],
+    "description": "This patch provides users an easy way to edit and remap Super Mario World's Morton, Roy and Ludwig's tilemap per pose, a troublesome endeavor normally due to theirs being rendered in Mode 7.<br>\r\n<br>\r\nIt also comes with two extra options that can be toggled on if the user wishes so:<br>\r\n1. The means to repurpose one of Ludwig's unused poses into a potential fourth shell pose.<br>\r\n2. An optional hijack that makes Morton & Roy switch poses when landing on the ground for their earthquake attack (requires freespace!).<br>\r\n<br>\r\nCredit's not necessary, but very much appreciated.",
+    "latest_version": "1.11",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42384,
+        "title": "Morton, Roy & Ludwig Tilemap Editor",
+        "version": "1.11",
+        "upstream_time": 1782772581,
+        "download_url": "https://dl.smwcentral.net/42384/MortonRoyLudwigTilemap%20Editor%201.11.zip",
+        "filename": "MortonRoyLudwigTilemap Editor 1.11.zip",
+        "size": 82105,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-multiple-title-screen-demos-v1-1",
     "aliases": [],
     "section": "smwpatches",
@@ -958,41 +1070,6 @@
         "download_url": "https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip",
         "filename": "Multiple Title Screen Demos 1.1.2.zip",
         "size": 6116,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-objectool-0",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40964,
-    "title": "ObjecTool 0.5",
-    "authors": [
-      "0x400",
-      "imamelia"
-    ],
-    "tags": [
-      "lorom",
-      "objects",
-      "sa-1"
-    ],
-    "description": "This patch allows you to create and insert custom normal and extended objects.<br>\r\n<br>\r\nNow works with Lunar Magic 3.00+, and it includes a variety of subroutines and a comprehensive guide to using them.",
-    "latest_version": "smwc-40964-1762462669",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40964,
-        "title": "ObjecTool 0.5",
-        "version": "smwc-40964-1762462669",
-        "upstream_time": 1762462669,
-        "download_url": "https://dl.smwcentral.net/40964/ObjecTool_0.5.zip",
-        "filename": "ObjecTool_0.5.zip",
-        "size": 20759,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1310,40 +1387,6 @@
         "download_url": "https://dl.smwcentral.net/42064/Random%20Chance%20Custom%20Tile%20Instead%20of%20Moon.zip",
         "filename": "Random Chance Custom Tile Instead of Moon.zip",
         "size": 4720,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-reenter-castle-upon-pressing-l-r-smw-j",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41074,
-    "title": "Reenter Castle Upon Pressing L+R (SMW-J)",
-    "authors": [
-      "Puluphy"
-    ],
-    "tags": [
-      "lorom",
-      "overworld",
-      "smw-j"
-    ],
-    "description": "To be used on a J ROM of the game.<br>\r\n<br>\r\nThis patch is very simple, all it does is implement the option to reenter castles upon pressing L+R, just like in the U version.",
-    "latest_version": "smwc-41074-1763688451",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41074,
-        "title": "Reenter Castle Upon Pressing L+R (SMW-J)",
-        "version": "smwc-41074-1763688451",
-        "upstream_time": 1763688451,
-        "download_url": "https://dl.smwcentral.net/41074/Re-enter%20Castle%20JP.zip",
-        "filename": "Re-enter Castle JP.zip",
-        "size": 500,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1691,42 +1734,6 @@
         "download_url": "https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip",
         "filename": "tolerance-timer-asar2.zip",
         "size": 1981,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-vwf-dialogues-v1",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 36969,
-    "title": "VWF Dialogues v1.4",
-    "authors": [
-      "Check manual for full list",
-      "RPG Hacker"
-    ],
-    "tags": [
-      "lorom",
-      "message box",
-      "sa-1",
-      "vwf"
-    ],
-    "description": "This patch lets you use VWF text boxes like in some old SNES RPGs. They're very flexible and customizable in both appearance and behavior. You can even execute code from a text box for near endless possibilities. There is no GUI application to set up text, but macros aim to make the usage as easy as possible. The manual is pretty detailed, so if you read it carefully, you should be alright.<br>\r\n<br>\r\nThis upload combines all the changes from version 1.3 (which was never submitted to the Patches section) and the newest version 1.4.<br>\r\n<br>\r\nAsar v1.90 or newer is required to use this patch.<br>\r\n<br>\r\nVersion 1.3 changes:<br>\r\n<ul><li>The patch now uses Asar macros to make messages a lot easier to both read and write.</li>\r\n<li>Message headers can now have default arguments, so you no longer need to specify every possible setting.</li>\r\n<li>The new MessageASM system allows you to continuously execute code while a specific text box is open, similar to UberASM with levels.</li>\r\n<li>A new text macro system allows you to reuse pieces of text.</li>\r\n<li>A new shared routines system lets you call VWF Dialogues routines from other resources.</li>\r\n<li>Added a few new text commands.</li>\r\n<li>Fixed many bugs.</li>\r\n<li>And much more (see history in manual for full details).</li></ul><br>\r\n<br>\r\nVersion 1.4 changes:<br>\r\n<ul><li>Improved compatibility with many Status Bar replacement patches.</li>\r\n<li>Greatly improved performance in multiple areas, especially V-Blank.</li>\r\n<li>Added the ability to customize which buttons the patch uses.</li>\r\n<li>Added the ability to override the appearance of a text box via its header.</li>\r\n<li>Added the ability to share headers between messages.</li>\r\n<li>Fixed many bugs.</li>\r\n<li>And much more (see history in manual for full details).</li></ul><br>\r\n<br>\r\nRequires 20,296 bytes of free RAM at default settings (956 bytes to store settings, 16,384 bytes to back up layer 3 graphics and 2,956 bytes as working RAM). By default, all free RAM is mapped to SRAM (there's an option to automatically expand SRAM), except in SA-1 ROMs, where BW-RAM is used instead. Requires a variable amount of free space, depending on the amount of text and graphics you insert into your ROM with it. Expect around a full bank of free space to be taken at minimum by average use of this patch.<br>\r\n<br>\r\nFeel free to contribute to this and other patches via my <a href=\"https://github.com/RPGHacker/SMW-Workspace\" rel=\"nofollow\">GitHub repository</a>.",
-    "latest_version": "smwc-36969-1762697016",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 36969,
-        "title": "VWF Dialogues v1.4",
-        "version": "smwc-36969-1762697016",
-        "upstream_time": 1762697016,
-        "download_url": "https://dl.smwcentral.net/36969/vwf_dialogues_140b.zip",
-        "filename": "vwf_dialogues_140b.zip",
-        "size": 1159321,
         "sha256": null,
         "dependencies": [
           "asar"

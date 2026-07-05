@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-parachute-thwomp",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42640,
+  "title": "Parachute Thwomp",
+  "authors": [
+    "Von Fahrenheit"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "thwomp"
+  ],
+  "description": "Exactly what it says on the tin. It's a Thwomp with a tiny parachute.<br>\r\n<br>\r\nRequested for the Strongest Sprite Workshop 2020 by Sammmoo",
+  "latest_version": "1.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42640,
+      "title": "Parachute Thwomp",
+      "version": "1.1",
+      "upstream_time": 1783176214,
+      "download_url": "https://dl.smwcentral.net/42640/parachute%20thwomp.zip",
+      "filename": "parachute thwomp.zip",
+      "size": 6597,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-enemy-credit-sprite-changer-with-graphical-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42372,
+  "title": "Enemy Credit Sprite Changer (With Graphical Fix)",
+  "authors": [
+    "Hamtaro126"
+  ],
+  "tags": [
+    "credits",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+  "latest_version": "0.031",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42372,
+      "title": "Enemy Credit Sprite Changer (With Graphical Fix)",
+      "version": "0.031",
+      "upstream_time": 1782670695,
+      "download_url": "https://dl.smwcentral.net/42372/endsprfix%200.031.zip",
+      "filename": "endsprfix 0.031.zip",
+      "size": 5506,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

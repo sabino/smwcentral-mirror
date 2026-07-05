@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-bomberman-ii-intro-cutscene",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 41854,
+  "title": "Bomberman II - Intro Cutscene",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "city",
+    "retro"
+  ],
+  "description": "The city seen in the opening sequence of Bomberman II for the NES.  <br>\r\n<br>\r\nIncludes a church cross that was removed from the international releases, due to Nintendo's censorship back then. Thanks to <span class=\"un-outer\" title=\"NES Boy216\"><a href=\"/?p=profile&amp;id=55033\" style=\"color: var(--user-color-2);\" class=\"un\">NES Boy216</a></span> for telling me about this.<br>\r\n<br>\r\nThere's four palettes included:<br>\r\n- FCEUX colors;<br>\r\n- FCEUX, but with a lighter outline;<br>\r\n- NES colors;<br>\r\n- NES colors but with a lighter outline;<br>\r\n<br>\r\nPick the one you like the most. Personally, I think that the ones with lighter outlines work the best with SMW style.<br>\r\n<br>\r\nThe colors and outline are easy enough to edit.  If you want to remove the cross, for some reason, delete the last two 8x8 tiles in the provided bin file.<br>\r\n<br>\r\nA good fit for retro themed town levels.",
+  "latest_version": "smwc-41854-1782790399",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 41854,
+      "title": "Bomberman II - Intro Cutscene",
+      "version": "smwc-41854-1782790399",
+      "upstream_time": 1782790399,
+      "download_url": "https://dl.smwcentral.net/41854/bomberman%202%20intro%20cutscene.zip",
+      "filename": "bomberman 2 intro cutscene.zip",
+      "size": 5621,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

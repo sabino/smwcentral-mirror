@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42601,
+  "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+  "authors": [
+    "MaltaRCX"
+  ],
+  "tags": [
+    "male",
+    "patch needed"
+  ],
+  "description": "Mario and Luigi from the SNES version of Super Mario Bros. Fully adapted to the SMW moveset including cutscene poses, Yoshi, etc.<br>\r\n<br>\r\nIMPORTANT: You will need the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 Player Graphics Patch</a> to use this.<br>\r\n<br>\r\nIncludes:<br>\r\n- Mario.<br>\r\n- Luigi.<br>\r\n- Shared palettes.<br>\r\n- Beta version of Mario + Shared palettes for Beta Mario and Luigi.<br>\r\n- Alternate graphics for Luigi using SMAS poses.<br>\r\n- A file containing various extra poses for Mario and Luigi for use with other patches or custom ASM.",
+  "latest_version": "smwc-42601-1782687074",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42601,
+      "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+      "version": "smwc-42601-1782687074",
+      "upstream_time": 1782687074,
+      "download_url": "https://dl.smwcentral.net/42601/SMAS%20-%20SMB%20-%20Mario%20%26%20Luigi.zip",
+      "filename": "SMAS - SMB - Mario %26 Luigi.zip",
+      "size": 69799,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

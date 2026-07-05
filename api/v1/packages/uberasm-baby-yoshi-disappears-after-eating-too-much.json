@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-baby-yoshi-disappears-after-eating-too-much",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42641,
+  "title": "Baby Yoshi Disappears After Eating Too Much",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "baby yoshi",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42641,
+      "title": "Baby Yoshi Disappears After Eating Too Much",
+      "version": "V1.1",
+      "upstream_time": 1783188562,
+      "download_url": "https://dl.smwcentral.net/42641/MaxBabyYoshiEatsV1.1.zip",
+      "filename": "MaxBabyYoshiEatsV1.1.zip",
+      "size": 2059,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

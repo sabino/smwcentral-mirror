@@ -550,7 +550,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -907,7 +907,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -1259,7 +1259,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -2057,32 +2057,30 @@
     ]
   },
   {
-    "name": "smwgraphics-beach-desert",
+    "name": "smwgraphics-bomberman-ii-intro-cutscene",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42055,
-    "title": "Beach / Desert",
+    "upstream_id": 41854,
+    "title": "Bomberman II - Intro Cutscene",
     "authors": [
-      "Skewer"
+      "Anorakun"
     ],
     "tags": [
-      "beach",
-      "desert",
-      "redrawn",
-      "ruins"
+      "city",
+      "retro"
     ],
-    "description": "Originally made in 2017 for one of SF-The Dark Warrior's SMW hack projects, now released at the request of those who want to use it in their desert/beach levels. Best used with Redrawn-styled assets.<br>\r\n<br>\r\nChangelog<br>\r\n1.1 - Addressed concerns with the <a href=\"https://smwc.me/1663848\">initial removal log</a> (Fixed FG Map16, simplified Palette options to make it less confusing/redundant)",
-    "latest_version": "smwc-42055-1774718126",
+    "description": "The city seen in the opening sequence of Bomberman II for the NES.  <br>\r\n<br>\r\nIncludes a church cross that was removed from the international releases, due to Nintendo's censorship back then. Thanks to <span class=\"un-outer\" title=\"NES Boy216\"><a href=\"/?p=profile&amp;id=55033\" style=\"color: var(--user-color-2);\" class=\"un\">NES Boy216</a></span> for telling me about this.<br>\r\n<br>\r\nThere's four palettes included:<br>\r\n- FCEUX colors;<br>\r\n- FCEUX, but with a lighter outline;<br>\r\n- NES colors;<br>\r\n- NES colors but with a lighter outline;<br>\r\n<br>\r\nPick the one you like the most. Personally, I think that the ones with lighter outlines work the best with SMW style.<br>\r\n<br>\r\nThe colors and outline are easy enough to edit.  If you want to remove the cross, for some reason, delete the last two 8x8 tiles in the provided bin file.<br>\r\n<br>\r\nA good fit for retro themed town levels.",
+    "latest_version": "smwc-41854-1782790399",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42055,
-        "title": "Beach / Desert",
-        "version": "smwc-42055-1774718126",
-        "upstream_time": 1774718126,
-        "download_url": "https://dl.smwcentral.net/42055/Skewer%202017%20Beach%20Release%201.1%20RC.zip",
-        "filename": "Skewer 2017 Beach Release 1.1 RC.zip",
-        "size": 13361,
+        "upstream_id": 41854,
+        "title": "Bomberman II - Intro Cutscene",
+        "version": "smwc-41854-1782790399",
+        "upstream_time": 1782790399,
+        "download_url": "https://dl.smwcentral.net/41854/bomberman%202%20intro%20cutscene.zip",
+        "filename": "bomberman 2 intro cutscene.zip",
+        "size": 5621,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2150,6 +2148,36 @@
     ]
   },
   {
+    "name": "smwgraphics-cave",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42627,
+    "title": "Cave 2026",
+    "authors": [
+      "Gamma V"
+    ],
+    "tags": [
+      "cave"
+    ],
+    "description": "This is meant to be another installment in my 2025 FG series, but it's 2026.  Either way, it's a cave tileset with crystals, wood/mine elements, hanging lanterns, and cobwebs.",
+    "latest_version": "smwc-42627-1783020633",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42627,
+        "title": "Cave 2026",
+        "version": "smwc-42627-1783020633",
+        "upstream_time": 1783020633,
+        "download_url": "https://dl.smwcentral.net/42627/Cave2026.zip",
+        "filename": "Cave2026.zip",
+        "size": 6398,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-cave-story-outer-wall",
     "aliases": [],
     "section": "smwgraphics",
@@ -2163,7 +2191,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -2311,38 +2339,6 @@
         "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
         "filename": "fantasyzonegearwoods.zip",
         "size": 5927,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-leap-day-snow-land",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42115,
-    "title": "Leap Day - Snow Land",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "patch needed",
-      "snow"
-    ],
-    "description": "The Snow Land BG from Nitrome's Leap Day, I had to resize the layer 2 BG because its resolution wasn't a multiple of 8 or 16, plus, sorry if I didn't include the other parts of this BG, you can use this BG for snowy stages, obviously, both vertical and horizontal, if you want to use this BG for horizontal stages, set layer 3's X scrolling to \"Variable 2\" and its Y scrolling to \"None\"",
-    "latest_version": "smwc-42115-1775246181",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42115,
-        "title": "Leap Day - Snow Land",
-        "version": "smwc-42115-1775246181",
-        "upstream_time": 1775246181,
-        "download_url": "https://dl.smwcentral.net/42115/leapdaysnowbg.zip",
-        "filename": "leapdaysnowbg.zip",
-        "size": 5665,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2724,37 +2720,6 @@
     ]
   },
   {
-    "name": "smwgraphics-redrawn-styled-reznor-family",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 40576,
-    "title": "Redrawn Styled Reznor Family",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "baby reznor",
-      "reznor"
-    ],
-    "description": "Redrawn-styled graphics for the whole Reznor family, meant to resemble the dino's redesign from New Super Mario Bros 2. This pack includes:<br>\r\n* Graphics for SMW Vanilla Reznor + the platform they're in.<br>\r\n* Graphics for Koopster's <a href=\"https://smwc.me/s/40567\">Baby Reznor custom sprite</a>.<br>\r\n* A custom Sprite Palette 2, meant to be used with the family.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-40576-1774979153",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 40576,
-        "title": "Redrawn Styled Reznor Family",
-        "version": "smwc-40576-1774979153",
-        "upstream_time": 1774979153,
-        "download_url": "https://dl.smwcentral.net/40576/Redrawn%20NSMB2%20Styled%20Reznor%20Family.zip",
-        "filename": "Redrawn NSMB2 Styled Reznor Family.zip",
-        "size": 5576,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-redrawn-styled-rideable-balloon",
     "aliases": [],
     "section": "smwgraphics",
@@ -3055,31 +3020,18 @@
     "name": "smwgraphics-super-mario-all-stars-super-mario-bros",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42045,
-    "title": "Super Mario All-Stars: Super Mario Bros. 3 - Desert",
+    "upstream_id": 42044,
+    "title": "Super Mario All-Stars: Super Mario Bros. 3 - Castle",
     "authors": [
       "Natsuz2"
     ],
     "tags": [
-      "castle",
-      "desert"
+      "castle"
     ],
     "description": "I found this background in the first castle of SMAS 3 and decided to put it next to its layer 3. They are available here.<br>\r\nI also put the animation of the lamps above the background.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=30076\">The foreground can be found here!</a>",
-    "latest_version": "smwc-42045-1774718448",
+    "latest_version": "smwc-42044-1777156058",
     "install_kind": "asset_only",
     "versions": [
-      {
-        "upstream_id": 42045,
-        "title": "Super Mario All-Stars: Super Mario Bros. 3 - Desert",
-        "version": "smwc-42045-1774718448",
-        "upstream_time": 1774718448,
-        "download_url": "https://dl.smwcentral.net/42045/SMAS3%20Desert.zip",
-        "filename": "SMAS3 Desert.zip",
-        "size": 3452,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      },
       {
         "upstream_id": 42044,
         "title": "Super Mario All-Stars: Super Mario Bros. 3 - Castle",
@@ -3088,6 +3040,37 @@
         "download_url": "https://dl.smwcentral.net/42044/SMAS3%20Castle.zip",
         "filename": "SMAS3 Castle.zip",
         "size": 5289,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42601,
+    "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+    "authors": [
+      "MaltaRCX"
+    ],
+    "tags": [
+      "male",
+      "patch needed"
+    ],
+    "description": "Mario and Luigi from the SNES version of Super Mario Bros. Fully adapted to the SMW moveset including cutscene poses, Yoshi, etc.<br>\r\n<br>\r\nIMPORTANT: You will need the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 Player Graphics Patch</a> to use this.<br>\r\n<br>\r\nIncludes:<br>\r\n- Mario.<br>\r\n- Luigi.<br>\r\n- Shared palettes.<br>\r\n- Beta version of Mario + Shared palettes for Beta Mario and Luigi.<br>\r\n- Alternate graphics for Luigi using SMAS poses.<br>\r\n- A file containing various extra poses for Mario and Luigi for use with other patches or custom ASM.",
+    "latest_version": "smwc-42601-1782687074",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42601,
+        "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+        "version": "smwc-42601-1782687074",
+        "upstream_time": 1782687074,
+        "download_url": "https://dl.smwcentral.net/42601/SMAS%20-%20SMB%20-%20Mario%20%26%20Luigi.zip",
+        "filename": "SMAS - SMB - Mario %26 Luigi.zip",
+        "size": 69799,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3391,6 +3374,38 @@
     ]
   },
   {
+    "name": "smwgraphics-the-wizard-of-oz-snes-crystal-cave",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 41718,
+    "title": "The Wizard of Oz (SNES) - Crystal Cave",
+    "authors": [
+      "Roberto zampari"
+    ],
+    "tags": [
+      "cave",
+      "ice",
+      "texture"
+    ],
+    "description": "<span style=\"font-size: 16pt;\"><b>C3 WINTER 2026 - SISTER EDITION:</b></span><br>\r\n<br>\r\nThe \"Crystal Cave\" from <b><u>The Wizard of Oz</u></b> Super Nintendo game.<br>\r\nWhat do you think about this?",
+    "latest_version": "smwc-41718-1782789558",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 41718,
+        "title": "The Wizard of Oz (SNES) - Crystal Cave",
+        "version": "smwc-41718-1782789558",
+        "upstream_time": 1782789558,
+        "download_url": "https://dl.smwcentral.net/41718/wizardoz_crystalcave.zip",
+        "filename": "wizardoz_crystalcave.zip",
+        "size": 3695,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-the-wizard-of-oz-snes-forest",
     "aliases": [],
     "section": "smwgraphics",
@@ -3450,38 +3465,32 @@
     ]
   },
   {
-    "name": "smwmusic-aurora-borealis-catastrophe",
+    "name": "smwmusic-aoki-densetsu-shoot-game",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42014,
-    "title": "Aurora Borealis Catastrophe",
+    "upstream_id": 42219,
+    "title": "Aoki Densetsu Shoot! - Game 2",
     "authors": [
-      "KungFuFurby"
+      "Fullcannon"
     ],
     "tags": [
-      "abstract",
       "athletic",
-      "boss",
-      "chaotic",
-      "dark",
-      "final",
-      "mysterious",
-      "sad",
-      "spooky",
-      "tense"
+      "sky",
+      "upbeat",
+      "urban"
     ],
-    "description": "As you go in to attack... and potentially free yourself from whatever nightmare you've gotten in this go round... it'll be quite a rollercoaster, to put things simply.<br>\r\n<br>\r\nYes, the song shown at Winter C3 2023 is now yours for the taking for your SMW ROM hacks. Enjoy. Just remember that this is for AddmusicK 1.0.9 and later due to a hot patch requirement.",
-    "latest_version": "smwc-42014-1778443412",
+    "description": "The second of three in-game soccer themes from Aoki Densetsu Shoot!.",
+    "latest_version": "smwc-42219-1782839648",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42014,
-        "title": "Aurora Borealis Catastrophe",
-        "version": "smwc-42014-1778443412",
-        "upstream_time": 1778443412,
-        "download_url": "https://dl.smwcentral.net/42014/Aurora%20Borealis%20Catastrophe.zip",
-        "filename": "Aurora Borealis Catastrophe.zip",
-        "size": 75681,
+        "upstream_id": 42219,
+        "title": "Aoki Densetsu Shoot! - Game 2",
+        "version": "smwc-42219-1782839648",
+        "upstream_time": 1782839648,
+        "download_url": "https://dl.smwcentral.net/42219/Aoki%20Densetsu%20Shoot%21%20-%20Game%202.zip",
+        "filename": "Aoki Densetsu Shoot%21 - Game 2.zip",
+        "size": 58271,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3586,6 +3595,79 @@
         "download_url": "https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip",
         "filename": "Cocoron - Cocorin%27s Entrance (unsampled).zip",
         "size": 80625,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-contra-hard-corps-gtr-attack",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41794,
+    "title": "Contra: Hard Corps - GTR Attack!",
+    "authors": [
+      "Dzing"
+    ],
+    "tags": [
+      "athletic",
+      "boss",
+      "chase",
+      "retro",
+      "tense"
+    ],
+    "description": "Song that fits boss fights. Suggested by <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "latest_version": "smwc-41794-1782834160",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41794,
+        "title": "Contra: Hard Corps - GTR Attack!",
+        "version": "smwc-41794-1782834160",
+        "upstream_time": 1782834160,
+        "download_url": "https://dl.smwcentral.net/41794/gtr-attack.zip",
+        "filename": "gtr-attack.zip",
+        "size": 103106,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-danganronpa-argument-hope-vs-despair-super-metroid-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42280,
+    "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
+    "authors": [
+      "JX444444"
+    ],
+    "tags": [
+      "boss",
+      "cave",
+      "dark",
+      "final",
+      "fire",
+      "tense"
+    ],
+    "description": "\"Power Suit MonoKuma\"",
+    "latest_version": "smwc-42280-1782864425",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42280,
+        "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
+        "version": "smwc-42280-1782864425",
+        "upstream_time": 1782864425,
+        "download_url": "https://dl.smwcentral.net/42280/HOPEvsDESPAIR_SM.zip",
+        "filename": "HOPEvsDESPAIR_SM.zip",
+        "size": 72021,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3783,32 +3865,32 @@
     ]
   },
   {
-    "name": "smwmusic-galaxy-force-ii-arcade-alone-fighter",
+    "name": "smwmusic-go-go-ackman",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42035,
-    "title": "Galaxy Force II (Arcade) - Alone Fighter",
+    "upstream_id": 42132,
+    "title": "Go Go Ackman 3 - Tenshi vs. Robot",
     "authors": [
-      "Segment1Zone2"
+      "Fullcannon"
     ],
     "tags": [
-      "athletic",
-      "sky",
-      "upbeat",
-      "urban"
+      "boss",
+      "dark",
+      "industrial",
+      "tense"
     ],
-    "description": "Alone Fighter from the arcade version of Galaxy Force II.",
-    "latest_version": "smwc-42035-1778446018",
+    "description": "Stage 2-2 boss against the research lab robot in Go Go Ackman 3.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>.",
+    "latest_version": "smwc-42132-1782836754",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42035,
-        "title": "Galaxy Force II (Arcade) - Alone Fighter",
-        "version": "smwc-42035-1778446018",
-        "upstream_time": 1778446018,
-        "download_url": "https://dl.smwcentral.net/42035/Galaxy%20Force%20II%20%28Arcade%29%20-%20Alone%20Fighter%20%5BU%5D.zip",
-        "filename": "Galaxy Force II (Arcade) - Alone Fighter %5BU%5D.zip",
-        "size": 35339,
+        "upstream_id": 42132,
+        "title": "Go Go Ackman 3 - Tenshi vs. Robot",
+        "version": "smwc-42132-1782836754",
+        "upstream_time": 1782836754,
+        "download_url": "https://dl.smwcentral.net/42132/Go%20Go%20Ackman%203%20-%20Tenshi%20vs%20Robot.zip",
+        "filename": "Go Go Ackman 3 - Tenshi vs Robot.zip",
+        "size": 50715,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3854,6 +3936,43 @@
     ]
   },
   {
+    "name": "smwmusic-james-bond-jr-snes-minicopter-mission-mmx2-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42153,
+    "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "boss",
+      "castle",
+      "chase",
+      "final",
+      "industrial",
+      "tense"
+    ],
+    "description": "The theme played during the Minicopter Mission from James Bond Jr. on the SNES, ported in an MMX2 Style.",
+    "latest_version": "smwc-42153-1782864051",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42153,
+        "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
+        "version": "smwc-42153-1782864051",
+        "upstream_time": 1782864051,
+        "download_url": "https://dl.smwcentral.net/42153/James%20Bond%20Jr.%20-%20Minicopter%20Mission%20%28MMX2%20Style%29.zip",
+        "filename": "James Bond Jr. - Minicopter Mission (MMX2 Style).zip",
+        "size": 73490,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-jb-the-super-bass-opening",
     "aliases": [],
     "section": "smwmusic",
@@ -3888,33 +4007,31 @@
     ]
   },
   {
-    "name": "smwmusic-kirby-s-adventure-ice-cream-island-map-kdl3-style",
+    "name": "smwmusic-jikkyou-powerful-pro-yakyuu",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41840,
-    "title": "Kirby's Adventure - Ice Cream Island Map (KDL3 Style)",
+    "upstream_id": 42169,
+    "title": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending",
     "authors": [
-      "7 up"
+      "Fullcannon"
     ],
     "tags": [
-      "grassland",
-      "overworld",
-      "sky",
-      "town",
-      "upbeat"
+      "athletic",
+      "credits",
+      "ice"
     ],
-    "description": "The second stage select theme from Kirby's Adventure with glory of Kirby's Dream Land 3's samples. Best for overworld maps. Not recommended for levels due to the length, though.",
-    "latest_version": "smwc-41840-1778374664",
+    "description": "Good ending theme after winning through 130 matches on Pennant Mode in Jikkyou Powerful Pro Yakyuu 2.",
+    "latest_version": "smwc-42169-1782790436",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41840,
-        "title": "Kirby's Adventure - Ice Cream Island Map (KDL3 Style)",
-        "version": "smwc-41840-1778374664",
-        "upstream_time": 1778374664,
-        "download_url": "https://dl.smwcentral.net/41840/Ice%20Cream%20Island%20Map.zip",
-        "filename": "Ice Cream Island Map.zip",
-        "size": 48726,
+        "upstream_id": 42169,
+        "title": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending",
+        "version": "smwc-42169-1782790436",
+        "upstream_time": 1782790436,
+        "download_url": "https://dl.smwcentral.net/42169/Jikkyou%20Powerful%20Pro%20Yakyuu%202%20-%20Good%20Ending.zip",
+        "filename": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending.zip",
+        "size": 74194,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3958,50 +4075,31 @@
     ]
   },
   {
-    "name": "smwmusic-masters-new-harukanaru-augusta",
+    "name": "smwmusic-leading-company-lights-across-the-bay",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41963,
-    "title": "Masters New: Harukanaru Augusta 3 (SFC) - Results",
+    "upstream_id": 42104,
+    "title": "Leading Company - Lights across the bay",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "bonus",
       "calm",
-      "credits",
-      "cutscene",
-      "forest",
-      "grassland",
-      "sea",
-      "sky"
+      "retro",
+      "sea"
     ],
-    "description": "Course results music after finishing any regular day as heard in the SFC port of Masters New: Harukanaru Augusta 3.",
-    "latest_version": "smwc-41963-1778080726",
+    "description": "Track 06 of 'Keys of the city' as heard in Leading Company's SFC port.",
+    "latest_version": "smwc-42104-1782835267",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41963,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Results",
-        "version": "smwc-41963-1778080726",
-        "upstream_time": 1778080726,
-        "download_url": "https://dl.smwcentral.net/41963/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Results.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Results.zip",
-        "size": 42765,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41962,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Coffee Break",
-        "version": "smwc-41962-1778080658",
-        "upstream_time": 1778080658,
-        "download_url": "https://dl.smwcentral.net/41962/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Coffee%20Break.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Coffee Break.zip",
-        "size": 64866,
+        "upstream_id": 42104,
+        "title": "Leading Company - Lights across the bay",
+        "version": "smwc-42104-1782835267",
+        "upstream_time": 1782835267,
+        "download_url": "https://dl.smwcentral.net/42104/Leading%20Company%20-%20Lights%20across%20the%20bay.zip",
+        "filename": "Leading Company - Lights across the bay.zip",
+        "size": 34270,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4011,47 +4109,66 @@
     ]
   },
   {
-    "name": "smwmusic-masters-new-harukanaru-augusta-3-sfc-course-bgm",
+    "name": "smwmusic-lester-the-unlikely-something-happened",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41961,
-    "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 3",
+    "upstream_id": 42195,
+    "title": "Lester the Unlikely - Something Happened",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "athletic",
-      "calm",
-      "forest",
-      "grassland",
-      "sea"
+      "cutscene",
+      "jungle",
+      "sea",
+      "tense"
     ],
-    "description": "One of the three in-game golfing tunes heard in the SFC port of Masters New: Harukanaru Augusta 3.",
-    "latest_version": "smwc-41961-1778080637",
+    "description": "The opening cutscenes story theme from Lester the Unlikely.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"James Tall\"><a href=\"/?p=profile&amp;id=54789\" style=\"color: var(--user-color-1);\" class=\"un\">James Tall</a></span>.",
+    "latest_version": "smwc-42195-1782837421",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41961,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 3",
-        "version": "smwc-41961-1778080637",
-        "upstream_time": 1778080637,
-        "download_url": "https://dl.smwcentral.net/41961/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%203.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Course BGM 3.zip",
-        "size": 54289,
+        "upstream_id": 42195,
+        "title": "Lester the Unlikely - Something Happened",
+        "version": "smwc-42195-1782837421",
+        "upstream_time": 1782837421,
+        "download_url": "https://dl.smwcentral.net/42195/Lester%20the%20Unlikely%20-%20Something%20Happened.zip",
+        "filename": "Lester the Unlikely - Something Happened.zip",
+        "size": 56594,
         "sha256": null,
         "dependencies": [
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-magic-sword-honor-blade",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41880,
+    "title": "Magic Sword - Honor Blade",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "castle",
+      "dark",
+      "upbeat"
+    ],
+    "description": "One of the many tower floors from Magic Sword.",
+    "latest_version": "smwc-41880-1782838584",
+    "install_kind": "add_music_k_music",
+    "versions": [
       {
-        "upstream_id": 41960,
-        "title": "Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 2",
-        "version": "smwc-41960-1778080623",
-        "upstream_time": 1778080623,
-        "download_url": "https://dl.smwcentral.net/41960/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%202.zip",
-        "filename": "Masters New Harukanaru Augusta 3 (SFC) - Course BGM 2.zip",
-        "size": 53784,
+        "upstream_id": 41880,
+        "title": "Magic Sword - Honor Blade",
+        "version": "smwc-41880-1782838584",
+        "upstream_time": 1782838584,
+        "download_url": "https://dl.smwcentral.net/41880/Magic%20Sword%20-%20Honor%20Blade.zip",
+        "filename": "Magic Sword - Honor Blade.zip",
+        "size": 65693,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4087,41 +4204,6 @@
         "download_url": "https://dl.smwcentral.net/42267/mm5star.zip",
         "filename": "mm5star.zip",
         "size": 32961,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mega-man-the-wily-wars-wily-s-tower-buster-rod-g-stage",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41909,
-    "title": "Mega Man: The Wily Wars - Wily's Tower - Buster Rod G Stage",
-    "authors": [
-      "Dzing"
-    ],
-    "tags": [
-      "calm",
-      "cave",
-      "jungle",
-      "mountain"
-    ],
-    "description": "Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
-    "latest_version": "smwc-41909-1778374487",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41909,
-        "title": "Mega Man: The Wily Wars - Wily's Tower - Buster Rod G Stage",
-        "version": "smwc-41909-1778374487",
-        "upstream_time": 1778374487,
-        "download_url": "https://dl.smwcentral.net/41909/MMWW-busterrod.zip",
-        "filename": "MMWW-busterrod.zip",
-        "size": 93047,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4236,236 +4318,33 @@
     ]
   },
   {
-    "name": "smwmusic-othello-world-game-with-rabbit",
+    "name": "smwmusic-pachi-slot-kenkyuu-outside",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41881,
-    "title": "Othello World - Game with Rabbit",
+    "upstream_id": 42133,
+    "title": "Pachi-Slot Kenkyuu - Outside",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "bonus",
-      "carnival"
-    ],
-    "description": "Second player rabbit game from Othello World.",
-    "latest_version": "smwc-41881-1778445392",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41881,
-        "title": "Othello World - Game with Rabbit",
-        "version": "smwc-41881-1778445392",
-        "upstream_time": 1778445392,
-        "download_url": "https://dl.smwcentral.net/41881/Othello%20World%20-%20Game%20with%20Rabbit.zip",
-        "filename": "Othello World - Game with Rabbit.zip",
-        "size": 34672,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-award",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41971,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Award",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "credits",
-      "cutscene",
-      "sea"
-    ],
-    "description": "'THE WINNER'<br>\r\nVictory music after completing all 18 holes as heard in the SFC three-dimensional golfing simulation of Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41971-1778166764",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41971,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Award",
-        "version": "smwc-41971-1778166764",
-        "upstream_time": 1778166764,
-        "download_url": "https://dl.smwcentral.net/41971/Pebble%20Beach%20no%20Hatou%20New%20-%20Award.zip",
-        "filename": "Pebble Beach no Hatou New - Award.zip",
-        "size": 71568,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-course-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41969,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 5",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "beach",
-      "dark",
-      "factory",
-      "final",
-      "fire",
-      "grassland",
-      "industrial",
-      "mountain",
-      "sea",
-      "upbeat",
-      "water"
-    ],
-    "description": "One of the golfing tunes heard in Hole 5, 7, 11 & 15 of the SFC three-dimensional golfing simulation Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41969-1778166748",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41969,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 5",
-        "version": "smwc-41969-1778166748",
-        "upstream_time": 1778166748,
-        "download_url": "https://dl.smwcentral.net/41969/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%205.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 5.zip",
-        "size": 49666,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41968,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 4",
-        "version": "smwc-41968-1778166737",
-        "upstream_time": 1778166737,
-        "download_url": "https://dl.smwcentral.net/41968/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%204.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 4.zip",
-        "size": 56996,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41967,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 3",
-        "version": "smwc-41967-1778166727",
-        "upstream_time": 1778166727,
-        "download_url": "https://dl.smwcentral.net/41967/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%203.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 3.zip",
-        "size": 53898,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41966,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 2",
-        "version": "smwc-41966-1778166719",
-        "upstream_time": 1778166719,
-        "download_url": "https://dl.smwcentral.net/41966/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%202.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 2.zip",
-        "size": 55939,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41965,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Course BGM 1",
-        "version": "smwc-41965-1778166712",
-        "upstream_time": 1778166712,
-        "download_url": "https://dl.smwcentral.net/41965/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%201.zip",
-        "filename": "Pebble Beach no Hatou New - Course BGM 1.zip",
-        "size": 59563,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-results",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41970,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Results",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cutscene",
-      "sea",
-      "sky"
-    ],
-    "description": "Course results music after finishing any regular day at sunset as heard in the SFC three-dimensional golfing simulation of Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41970-1778166757",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41970,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Results",
-        "version": "smwc-41970-1778166757",
-        "upstream_time": 1778166757,
-        "download_url": "https://dl.smwcentral.net/41970/Pebble%20Beach%20no%20Hatou%20New%20-%20Results.zip",
-        "filename": "Pebble Beach no Hatou New - Results.zip",
-        "size": 62705,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-no-hatou-new-tournament-edition-settings",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41964,
-    "title": "Pebble Beach no Hatou New: Tournament Edition - Settings",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "abstract",
-      "athletic",
-      "chaotic",
-      "menu",
-      "sea",
-      "tense",
-      "upbeat",
+      "mysterious",
+      "night",
+      "overworld",
+      "town",
       "urban"
     ],
-    "description": "Settings menu music heard in the SFC three-dimensional golfing simulation of Pebble Beach no Hatou New: Tournament Edition.",
-    "latest_version": "smwc-41964-1778166704",
+    "description": "The primary urban gambling overworld theme full of parlors and slot machines in Pachi-Slot Kenkyuu.",
+    "latest_version": "smwc-42133-1782927525",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41964,
-        "title": "Pebble Beach no Hatou New: Tournament Edition - Settings",
-        "version": "smwc-41964-1778166704",
-        "upstream_time": 1778166704,
-        "download_url": "https://dl.smwcentral.net/41964/Pebble%20Beach%20no%20Hatou%20New%20-%20Settings%20Fixed.zip",
-        "filename": "Pebble Beach no Hatou New - Settings Fixed.zip",
-        "size": 65978,
+        "upstream_id": 42133,
+        "title": "Pachi-Slot Kenkyuu - Outside",
+        "version": "smwc-42133-1782927525",
+        "upstream_time": 1782927525,
+        "download_url": "https://dl.smwcentral.net/42133/Pachi-Slot%20Kenkyuu%20-%20Outside%20.zip",
+        "filename": "Pachi-Slot Kenkyuu - Outside .zip",
+        "size": 63067,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4576,31 +4455,140 @@
     ]
   },
   {
-    "name": "smwmusic-puyo-puyo-theme",
+    "name": "smwmusic-pok-mon-ruby-sapphire-emerald-trainers-eyes-meet-psychic-mmx2-style",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41992,
-    "title": "Puyo Puyo - Theme",
+    "upstream_id": 42247,
+    "title": "Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic)  (MMX2 Style)",
     "authors": [
-      "Dzing"
+      "Segment1Zone2"
     ],
     "tags": [
-      "calm",
-      "grassland",
-      "upbeat"
+      "cutscene",
+      "final",
+      "fire",
+      "industrial",
+      "overworld",
+      "tense"
     ],
-    "description": "Main theme from Puyo Puyo on the Genesis. Suggested by <span class=\"un-outer\" title=\"Klug\"><a href=\"/?p=profile&amp;id=28710\" style=\"color: var(--user-color-1);\" class=\"un\">Klug</a></span>.",
-    "latest_version": "smwc-41992-1778445657",
+    "description": "The theme played when Fighter & Psychic trainers spot you in Pokémon Ruby / Sapphire / Emerald, ported in an MMX2 Style.",
+    "latest_version": "smwc-42247-1782789824",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41992,
-        "title": "Puyo Puyo - Theme",
-        "version": "smwc-41992-1778445657",
-        "upstream_time": 1778445657,
-        "download_url": "https://dl.smwcentral.net/41992/puyopuyo.zip",
-        "filename": "puyopuyo.zip",
-        "size": 82473,
+        "upstream_id": 42247,
+        "title": "Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic)  (MMX2 Style)",
+        "version": "smwc-42247-1782789824",
+        "upstream_time": 1782789824,
+        "download_url": "https://dl.smwcentral.net/42247/Pokemon%20RSE%20-%20Look%21%20Fighter%20%26%20Psychic%20%28MMX2%20Style%29%20.zip",
+        "filename": "Pokemon RSE - Look%21 Fighter %26 Psychic (MMX2 Style) .zip",
+        "size": 73558,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-run-saber-renegade-saber",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42061,
+    "title": "Run Saber - Renegade Saber",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "boss",
+      "fire",
+      "upbeat",
+      "urban"
+    ],
+    "description": "A recurring encounter between the Red Saber sub boss from Run Saber.",
+    "latest_version": "smwc-42061-1782864675",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42061,
+        "title": "Run Saber - Renegade Saber",
+        "version": "smwc-42061-1782864675",
+        "upstream_time": 1782864675,
+        "download_url": "https://dl.smwcentral.net/42061/Run%20Saber%20-%20Renegade%20Saber.zip",
+        "filename": "Run Saber - Renegade Saber.zip",
+        "size": 50185,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-simcity-jr-statistics",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 41883,
+    "title": "SimCity Jr. - Statistics",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "menu",
+      "mysterious",
+      "town",
+      "urban"
+    ],
+    "description": "Town statistical menus from SimCity Jr.'s SFC port.",
+    "latest_version": "smwc-41883-1782928189",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 41883,
+        "title": "SimCity Jr. - Statistics",
+        "version": "smwc-41883-1782928189",
+        "upstream_time": 1782928189,
+        "download_url": "https://dl.smwcentral.net/41883/SimCity%20Jr.%20-%20Statistics.zip",
+        "filename": "SimCity Jr. - Statistics.zip",
+        "size": 57163,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-smart-ball-castle",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42062,
+    "title": "Smart Ball - Castle",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "castle",
+      "chaotic",
+      "final",
+      "industrial",
+      "tense"
+    ],
+    "description": "8-A final castle from Smart Ball/Jerry Boy.",
+    "latest_version": "smwc-42062-1782864798",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42062,
+        "title": "Smart Ball - Castle",
+        "version": "smwc-42062-1782864798",
+        "upstream_time": 1782864798,
+        "download_url": "https://dl.smwcentral.net/42062/Smart%20Ball%20-%20Castle.zip",
+        "filename": "Smart Ball - Castle.zip",
+        "size": 53104,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4886,6 +4874,73 @@
     ]
   },
   {
+    "name": "smwmusic-the-addams-family-pugsley-s-scavenger-hunt-attic",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42198,
+    "title": "The Addams Family: Pugsley's Scavenger Hunt - Attic",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "cave",
+      "ghost house",
+      "mysterious",
+      "sewer"
+    ],
+    "description": "In-doors house music heard in the upper platforming sections & cavern of Pugsley's Scavenger Hunt, the second SNES title in the Addams Family series.",
+    "latest_version": "smwc-42198-1782838958",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42198,
+        "title": "The Addams Family: Pugsley's Scavenger Hunt - Attic",
+        "version": "smwc-42198-1782838958",
+        "upstream_time": 1782838958,
+        "download_url": "https://dl.smwcentral.net/42198/The%20Addams%20Family%20~%20Pugsley%27s%20Scavenger%20Hunt%20-%20Attic.zip",
+        "filename": "The Addams Family ~ Pugsley%27s Scavenger Hunt - Attic.zip",
+        "size": 44128,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-the-flintstones-the-treasure-of-sierra-madrock-theme-of-the-flintstones",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42222,
+    "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "title"
+    ],
+    "description": "The title screen music from the first 1994 Flintstones platforming title on the SNES, featuring an arrangement of the iconic Flintstones motif here and throughout the soundtrack.",
+    "latest_version": "smwc-42222-1782841615",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42222,
+        "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
+        "version": "smwc-42222-1782841615",
+        "upstream_time": 1782841615,
+        "download_url": "https://dl.smwcentral.net/42222/The%20Treasure%20of%20Sierra%20Madrock%20-%20Theme%20of%20the%20Flintstones.zip",
+        "filename": "The Treasure of Sierra Madrock - Theme of the Flintstones.zip",
+        "size": 59929,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive",
     "aliases": [],
     "section": "smwmusic",
@@ -4990,6 +5045,43 @@
     ]
   },
   {
+    "name": "smwmusic-waku-waku-ski-wonder-shoot-technician",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42223,
+    "title": "Waku Waku Ski Wonder Shoot - Technician",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "ice",
+      "menu",
+      "mountain",
+      "snow",
+      "upbeat"
+    ],
+    "description": "Character editor theme from Waku Waku Ski Wonder Shoot.",
+    "latest_version": "smwc-42223-1782840928",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42223,
+        "title": "Waku Waku Ski Wonder Shoot - Technician",
+        "version": "smwc-42223-1782840928",
+        "upstream_time": 1782840928,
+        "download_url": "https://dl.smwcentral.net/42223/Waku%20Waku%20Ski%20Wonder%20Shoot%20-%20Technician.zip",
+        "filename": "Waku Waku Ski Wonder Shoot - Technician.zip",
+        "size": 67302,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-watermelon-valley",
     "aliases": [],
     "section": "smwmusic",
@@ -5014,6 +5106,40 @@
         "download_url": "https://dl.smwcentral.net/42358/Watermelon_Valley.zip",
         "filename": "Watermelon_Valley.zip",
         "size": 32261,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-ys-iv-mask-of-the-sun-field",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42121,
+    "title": "Ys IV: Mask of the Sun - Field",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "grassland",
+      "mountain",
+      "upbeat"
+    ],
+    "description": "Wandering through the outside fields and wilderness in the SFC adaptation of Ys IV: Mask of the Sun.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>.",
+    "latest_version": "smwc-42121-1782836066",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42121,
+        "title": "Ys IV: Mask of the Sun - Field",
+        "version": "smwc-42121-1782836066",
+        "upstream_time": 1782836066,
+        "download_url": "https://dl.smwcentral.net/42121/Ys%20IV%20Mask%20of%20the%20Sun%20-%20Field.zip",
+        "filename": "Ys IV Mask of the Sun - Field.zip",
+        "size": 72557,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -5307,39 +5433,6 @@
     ]
   },
   {
-    "name": "smwpatches-clear-all-ram-on-reset",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40942,
-    "title": "Clear All RAM on Reset",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "ram"
-    ],
-    "description": "Initializes every RAM address from $7E0000 to $7FFFFF to zero via a DMA. This can avoid weird quirks.<br>\r\nIt also gives a <i>slight</i> - not really that noticeable - speed boost on boot when using AddmusicK.<br>\r\n<br>\r\nThis patch is not meant for SA-1.",
-    "latest_version": "smwc-40942-1762369336",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40942,
-        "title": "Clear All RAM on Reset",
-        "version": "smwc-40942-1762369336",
-        "upstream_time": 1762369336,
-        "download_url": "https://dl.smwcentral.net/40942/reset_clear.zip",
-        "filename": "reset_clear.zip",
-        "size": 612,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-collected-moon-outline",
     "aliases": [],
     "section": "smwpatches",
@@ -5587,6 +5680,73 @@
     ]
   },
   {
+    "name": "smwpatches-dry-bones-and-bony-beetle-suboffscreen-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42569,
+    "title": "Dry Bones and Bony Beetle SubOffScreen Fix",
+    "authors": [
+      "HammerBrother"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Fixes an oversight that caused Dry Bones and Bony Beetle to not despawn offscreen if they're in their crumbled state, until they revive. This is because such subroutine is only called in their \"normal\" state.",
+    "latest_version": "V1.0.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42569,
+        "title": "Dry Bones and Bony Beetle SubOffScreen Fix",
+        "version": "V1.0.1",
+        "upstream_time": 1782681050,
+        "download_url": "https://dl.smwcentral.net/42569/DryBonesBonyBeetleOffScrnFix.zip",
+        "filename": "DryBonesBonyBeetleOffScrnFix.zip",
+        "size": 1862,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-enemy-credit-sprite-changer-with-graphical-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42372,
+    "title": "Enemy Credit Sprite Changer (With Graphical Fix)",
+    "authors": [
+      "Hamtaro126"
+    ],
+    "tags": [
+      "credits",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+    "latest_version": "0.031",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42372,
+        "title": "Enemy Credit Sprite Changer (With Graphical Fix)",
+        "version": "0.031",
+        "upstream_time": 1782670695,
+        "download_url": "https://dl.smwcentral.net/42372/endsprfix%200.031.zip",
+        "filename": "endsprfix 0.031.zip",
+        "size": 5506,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-enter-level-pipe-star-road-sounds-v1",
     "aliases": [],
     "section": "smwpatches",
@@ -5767,36 +5927,77 @@
     ]
   },
   {
-    "name": "smwpatches-magikoopa-sprite-hijack",
+    "name": "smwpatches-koopaling-palette-changer",
     "aliases": [],
     "section": "smwpatches",
-    "upstream_id": 38708,
-    "title": "Magikoopa Sprite Hijack",
+    "upstream_id": 42405,
+    "title": "Koopaling Palette Changer",
     "authors": [
-      "Isikoro",
-      "imamelia"
+      "Moltz"
     ],
     "tags": [
+      "iggy koopa",
+      "koopalings",
+      "larry koopa",
+      "lemmy koopa",
       "lorom",
-      "magikoopa",
+      "luwdig von koopa",
+      "morton koopa jr",
+      "palette",
+      "roy koopa",
       "sa-1",
-      "spawn",
-      "sprite",
-      "turn block",
-      "uberasm"
+      "wendy o koopa"
     ],
-    "description": "This patch hijacks Magikoopa's \"turn block into sprite\" routine so that you can specify your own sprite numbers for it to generate. (There is a \"Sprite kind x 3\" bytes table in the patch that holds all possible sprite numbers.) You can also use custom sprites and stunned sprites.<br>\r\n<br>\r\nUpdated by <span class=\"un-outer\" title=\"Isikoro\"><a href=\"/?p=profile&amp;id=36566\" style=\"color: var(--user-color-1);\" class=\"un\">Isikoro</a></span><br>\r\n- Allows you to set the sprites to be produced, level by level, using 1 byte RAM. It can also be shared at all levels.<br>\r\n- Extra bytes can now be set for the custom sprites produced.<br>\r\n- Supported for Monty Mole and Swooper Bat.",
-    "latest_version": "smwc-38708-1763087676",
+    "description": "This patch allows the user to easily change the palette all seven Koopalings use.<br>\r\n<br>\r\nCredit is not required.",
+    "latest_version": "V1.1",
     "install_kind": "asar_patch",
     "versions": [
       {
-        "upstream_id": 38708,
-        "title": "Magikoopa Sprite Hijack",
-        "version": "smwc-38708-1763087676",
-        "upstream_time": 1763087676,
-        "download_url": "https://dl.smwcentral.net/38708/Magikoopa%20Sprite%20Hijack.zip",
-        "filename": "Magikoopa Sprite Hijack.zip",
-        "size": 4497,
+        "upstream_id": 42405,
+        "title": "Koopaling Palette Changer",
+        "version": "V1.1",
+        "upstream_time": 1782747899,
+        "download_url": "https://dl.smwcentral.net/42405/SMW%20Koopaling%20Palette%20Changer%20Patch%20V1.1.zip",
+        "filename": "SMW Koopaling Palette Changer Patch V1.1.zip",
+        "size": 2407,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-limited-yoshi-flying",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42608,
+    "title": "Limited Yoshi Flying",
+    "authors": [
+      "SkywinDragoon"
+    ],
+    "tags": [
+      "abilities",
+      "flight",
+      "fly",
+      "limit",
+      "lorom",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "This patch will prevent yoshi with blue shell from flying forever and ever.<br>\r\n<br>\r\nlimitation of flight is configurable.<br>\r\n<br>\r\nfixed bugs and with SA-1 support.",
+    "latest_version": "smwc-42608-1782629978",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42608,
+        "title": "Limited Yoshi Flying",
+        "version": "smwc-42608-1782629978",
+        "upstream_time": 1782629978,
+        "download_url": "https://dl.smwcentral.net/42608/LYF.zip",
+        "filename": "LYF.zip",
+        "size": 882,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -5993,6 +6194,43 @@
     ]
   },
   {
+    "name": "smwpatches-morton-roy-ludwig-tilemap-editor",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42384,
+    "title": "Morton, Roy & Ludwig Tilemap Editor",
+    "authors": [
+      "Moltz"
+    ],
+    "tags": [
+      "lorom",
+      "ludwig",
+      "mode7",
+      "morton",
+      "roy",
+      "sa-1"
+    ],
+    "description": "This patch provides users an easy way to edit and remap Super Mario World's Morton, Roy and Ludwig's tilemap per pose, a troublesome endeavor normally due to theirs being rendered in Mode 7.<br>\r\n<br>\r\nIt also comes with two extra options that can be toggled on if the user wishes so:<br>\r\n1. The means to repurpose one of Ludwig's unused poses into a potential fourth shell pose.<br>\r\n2. An optional hijack that makes Morton & Roy switch poses when landing on the ground for their earthquake attack (requires freespace!).<br>\r\n<br>\r\nCredit's not necessary, but very much appreciated.",
+    "latest_version": "1.11",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42384,
+        "title": "Morton, Roy & Ludwig Tilemap Editor",
+        "version": "1.11",
+        "upstream_time": 1782772581,
+        "download_url": "https://dl.smwcentral.net/42384/MortonRoyLudwigTilemap%20Editor%201.11.zip",
+        "filename": "MortonRoyLudwigTilemap Editor 1.11.zip",
+        "size": 82105,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-multiple-title-screen-demos-v1-1",
     "aliases": [],
     "section": "smwpatches",
@@ -6018,41 +6256,6 @@
         "download_url": "https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip",
         "filename": "Multiple Title Screen Demos 1.1.2.zip",
         "size": 6116,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-objectool-0",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40964,
-    "title": "ObjecTool 0.5",
-    "authors": [
-      "0x400",
-      "imamelia"
-    ],
-    "tags": [
-      "lorom",
-      "objects",
-      "sa-1"
-    ],
-    "description": "This patch allows you to create and insert custom normal and extended objects.<br>\r\n<br>\r\nNow works with Lunar Magic 3.00+, and it includes a variety of subroutines and a comprehensive guide to using them.",
-    "latest_version": "smwc-40964-1762462669",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40964,
-        "title": "ObjecTool 0.5",
-        "version": "smwc-40964-1762462669",
-        "upstream_time": 1762462669,
-        "download_url": "https://dl.smwcentral.net/40964/ObjecTool_0.5.zip",
-        "filename": "ObjecTool_0.5.zip",
-        "size": 20759,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -6370,40 +6573,6 @@
         "download_url": "https://dl.smwcentral.net/42064/Random%20Chance%20Custom%20Tile%20Instead%20of%20Moon.zip",
         "filename": "Random Chance Custom Tile Instead of Moon.zip",
         "size": 4720,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-reenter-castle-upon-pressing-l-r-smw-j",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41074,
-    "title": "Reenter Castle Upon Pressing L+R (SMW-J)",
-    "authors": [
-      "Puluphy"
-    ],
-    "tags": [
-      "lorom",
-      "overworld",
-      "smw-j"
-    ],
-    "description": "To be used on a J ROM of the game.<br>\r\n<br>\r\nThis patch is very simple, all it does is implement the option to reenter castles upon pressing L+R, just like in the U version.",
-    "latest_version": "smwc-41074-1763688451",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41074,
-        "title": "Reenter Castle Upon Pressing L+R (SMW-J)",
-        "version": "smwc-41074-1763688451",
-        "upstream_time": 1763688451,
-        "download_url": "https://dl.smwcentral.net/41074/Re-enter%20Castle%20JP.zip",
-        "filename": "Re-enter Castle JP.zip",
-        "size": 500,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -6760,42 +6929,6 @@
     ]
   },
   {
-    "name": "smwpatches-vwf-dialogues-v1",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 36969,
-    "title": "VWF Dialogues v1.4",
-    "authors": [
-      "Check manual for full list",
-      "RPG Hacker"
-    ],
-    "tags": [
-      "lorom",
-      "message box",
-      "sa-1",
-      "vwf"
-    ],
-    "description": "This patch lets you use VWF text boxes like in some old SNES RPGs. They're very flexible and customizable in both appearance and behavior. You can even execute code from a text box for near endless possibilities. There is no GUI application to set up text, but macros aim to make the usage as easy as possible. The manual is pretty detailed, so if you read it carefully, you should be alright.<br>\r\n<br>\r\nThis upload combines all the changes from version 1.3 (which was never submitted to the Patches section) and the newest version 1.4.<br>\r\n<br>\r\nAsar v1.90 or newer is required to use this patch.<br>\r\n<br>\r\nVersion 1.3 changes:<br>\r\n<ul><li>The patch now uses Asar macros to make messages a lot easier to both read and write.</li>\r\n<li>Message headers can now have default arguments, so you no longer need to specify every possible setting.</li>\r\n<li>The new MessageASM system allows you to continuously execute code while a specific text box is open, similar to UberASM with levels.</li>\r\n<li>A new text macro system allows you to reuse pieces of text.</li>\r\n<li>A new shared routines system lets you call VWF Dialogues routines from other resources.</li>\r\n<li>Added a few new text commands.</li>\r\n<li>Fixed many bugs.</li>\r\n<li>And much more (see history in manual for full details).</li></ul><br>\r\n<br>\r\nVersion 1.4 changes:<br>\r\n<ul><li>Improved compatibility with many Status Bar replacement patches.</li>\r\n<li>Greatly improved performance in multiple areas, especially V-Blank.</li>\r\n<li>Added the ability to customize which buttons the patch uses.</li>\r\n<li>Added the ability to override the appearance of a text box via its header.</li>\r\n<li>Added the ability to share headers between messages.</li>\r\n<li>Fixed many bugs.</li>\r\n<li>And much more (see history in manual for full details).</li></ul><br>\r\n<br>\r\nRequires 20,296 bytes of free RAM at default settings (956 bytes to store settings, 16,384 bytes to back up layer 3 graphics and 2,956 bytes as working RAM). By default, all free RAM is mapped to SRAM (there's an option to automatically expand SRAM), except in SA-1 ROMs, where BW-RAM is used instead. Requires a variable amount of free space, depending on the amount of text and graphics you insert into your ROM with it. Expect around a full bank of free space to be taken at minimum by average use of this patch.<br>\r\n<br>\r\nFeel free to contribute to this and other patches via my <a href=\"https://github.com/RPGHacker/SMW-Workspace\" rel=\"nofollow\">GitHub repository</a>.",
-    "latest_version": "smwc-36969-1762697016",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 36969,
-        "title": "VWF Dialogues v1.4",
-        "version": "smwc-36969-1762697016",
-        "upstream_time": 1762697016,
-        "download_url": "https://dl.smwcentral.net/36969/vwf_dialogues_140b.zip",
-        "filename": "vwf_dialogues_140b.zip",
-        "size": 1159321,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-walking-monty-mole",
     "aliases": [],
     "section": "smwpatches",
@@ -7050,41 +7183,6 @@
     ]
   },
   {
-    "name": "smwsprites-bob-omb-shooter",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40290,
-    "title": "Bob-omb Shooter",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "bob-omb",
-      "lorom",
-      "sa-1",
-      "shooter"
-    ],
-    "description": "bobomb shooter from smb3<br>\r\nrequested by Xulon",
-    "latest_version": "smwc-40290-1768699020",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40290,
-        "title": "Bob-omb Shooter",
-        "version": "smwc-40290-1768699020",
-        "upstream_time": 1768699020,
-        "download_url": "https://dl.smwcentral.net/40290/bobomb_shooter.zip",
-        "filename": "bobomb_shooter.zip",
-        "size": 1674,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-bouncy-boo",
     "aliases": [],
     "section": "smwsprites",
@@ -7266,41 +7364,6 @@
     ]
   },
   {
-    "name": "smwsprites-clock-thwimp",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41535,
-    "title": "Clock Thwimp",
-    "authors": [
-      "MellyMellouange"
-    ],
-    "tags": [
-      "lorom",
-      "mosaic",
-      "sa-1",
-      "thwimp"
-    ],
-    "description": "Clock Thwimp will go a direction until it hits a wall, and then turn clockwise/counter-clockwise and repeat the process.<br>\r\n<br>\r\nAutomatically detects walls surrounding it as it spawns in order to immediately start going the intended direction.",
-    "latest_version": "smwc-41535-1770255153",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41535,
-        "title": "Clock Thwimp",
-        "version": "smwc-41535-1770255153",
-        "upstream_time": 1770255153,
-        "download_url": "https://dl.smwcentral.net/41535/ClockThwimp.zip",
-        "filename": "ClockThwimp.zip",
-        "size": 2971,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-conditional-keyhole",
     "aliases": [],
     "section": "smwsprites",
@@ -7327,6 +7390,79 @@
         "download_url": "https://dl.smwcentral.net/42039/conditional_keyhole.zip",
         "filename": "conditional_keyhole.zip",
         "size": 4732,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-custom-smw-like-iggy-boss",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42637,
+    "title": "Custom SMW-Like Iggy Boss",
+    "authors": [
+      "Major Flare"
+    ],
+    "tags": [
+      "boss",
+      "enemy",
+      "iggy",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
+    "latest_version": "smwc-42637-1783173142",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42637,
+        "title": "Custom SMW-Like Iggy Boss",
+        "version": "smwc-42637-1783173142",
+        "upstream_time": 1783173142,
+        "download_url": "https://dl.smwcentral.net/42637/SMW%20Custom%20Iggy%20Boss.zip",
+        "filename": "SMW Custom Iggy Boss.zip",
+        "size": 10074,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-customizable-lemmy-wendy",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42636,
+    "title": "Customizable Lemmy/Wendy",
+    "authors": [
+      "Fernap"
+    ],
+    "tags": [
+      "boss",
+      "koopaling",
+      "lemmy",
+      "lorom",
+      "sa-1",
+      "wendy"
+    ],
+    "description": "A customizable Lemmy/Wendy boss based on the disassembly by yoshicookiezeus.  Features include:<br>\r\n<br>\r\n- Set the number of hits to kill the boss<br>\r\n- Very flexible method of giving spawn positions and patterns for the boss and their dummies (can be used in levels larger than one screen)<br>\r\n- Support for autoscroll fights, including manual tweaking of cycle timings<br>\r\n- Upside down spawns<br>\r\n- Flexible interaction behavior between the boss/dummies and Mario/carriable sprites/fireballs<br>\r\n- Support for custom graphics<br>\r\n- And more (see the readme and config file for a full list)<br>\r\n",
+    "latest_version": "1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42636,
+        "title": "Customizable Lemmy/Wendy",
+        "version": "1.1",
+        "upstream_time": 1783172277,
+        "download_url": "https://dl.smwcentral.net/42636/CustomLemmyWendy1.1.zip",
+        "filename": "CustomLemmyWendy1.1.zip",
+        "size": 23135,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -7432,6 +7568,42 @@
         "download_url": "https://dl.smwcentral.net/41241/Dino%20Rhino%20%2B%20Dino%20Torch.zip",
         "filename": "Dino Rhino + Dino Torch.zip",
         "size": 11345,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-explosive-dry-bones",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42639,
+    "title": "Explosive Dry Bones",
+    "authors": [
+      "TheXander"
+    ],
+    "tags": [
+      "dry bones",
+      "explosion",
+      "extended",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Explosive Dry Bones:<br>\r\n<br>\r\nDescription: This are a variant version of the Dry Bones, that acts like the SMW ones, but when the player stomp him and he are showing the crumble animation, he will start flashing and explode.<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nAllow customize the sprite easily with a bunch of defines!<br>\r\n<br>\r\nMore details are in the included \"Readme\" file.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=126154&page=1&pid=1630493#p1630493\">Requested</a> by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+    "latest_version": "V1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42639,
+        "title": "Explosive Dry Bones",
+        "version": "V1.1",
+        "upstream_time": 1783174906,
+        "download_url": "https://dl.smwcentral.net/42639/Explosive%20Dry%20Bones%20V1.1.zip",
+        "filename": "Explosive Dry Bones V1.1.zip",
+        "size": 15207,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -7772,86 +7944,6 @@
     ]
   },
   {
-    "name": "smwsprites-gatlin-venus",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40179,
-    "title": "Gatlin Venus",
-    "authors": [
-      "Luknight",
-      "imamelia"
-    ],
-    "tags": [
-      "lorom",
-      "piranha",
-      "piranha plant",
-      "plant",
-      "sa-1",
-      "venus"
-    ],
-    "description": "The plants shot aiming fast fireball.<br>\r\npalette is E (default)<br>\r\n<br>\r\nRequested by Xulon",
-    "latest_version": "smwc-40179-1769902370",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40179,
-        "title": "Gatlin Venus",
-        "version": "smwc-40179-1769902370",
-        "upstream_time": 1769902370,
-        "download_url": "https://dl.smwcentral.net/40179/gatlin_venus.zip",
-        "filename": "gatlin_venus.zip",
-        "size": 9359,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-giant-piranha-plants",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40128,
-    "title": "Giant Piranha Plants",
-    "authors": [
-      "Davros",
-      "Luknight",
-      "mikeyk"
-    ],
-    "tags": [
-      "enemy",
-      "giant",
-      "giant piranha",
-      "lorom",
-      "piranha",
-      "piranha plant",
-      "sa-1",
-      "sideways piranha",
-      "smb3"
-    ],
-    "description": "This is the Giant Piranha Plant, originally from sprite tool, further adapted by Davros. Can be used in giant and regular bytes (size determined by extra bit). Extra Byte 1 controls the direction, stem length and aggressivity.<br>\r\n<br>\r\nNow SA-1 and PIXI Compatible.<br>\r\n<br>\r\n2026/01/31 moderation update<br>\r\n.now with lunar magic display<br>\r\n<br>\r\n2025/07/18 update<br>\r\n.extra prop -&gt; extra byte 1<br>\r\n.can shift 8 pixels<br>\r\n.add long length<br>\r\n.(optional) no longer hiding behind the object.<br>\r\n<br>\r\n2025/07/18<br>\r\n.iceman's code update",
-    "latest_version": "smwc-40128-1769863555",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40128,
-        "title": "Giant Piranha Plants",
-        "version": "smwc-40128-1769863555",
-        "upstream_time": 1769863555,
-        "download_url": "https://dl.smwcentral.net/40128/giant_piranha.zip",
-        "filename": "giant_piranha.zip",
-        "size": 8559,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-goal-roulette",
     "aliases": [],
     "section": "smwsprites",
@@ -7951,41 +8043,6 @@
         "download_url": "https://dl.smwcentral.net/42003/iggy2024.zip",
         "filename": "iggy2024.zip",
         "size": 5146,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-jumpy-grinder",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41534,
-    "title": "Jumpy Grinder",
-    "authors": [
-      "Medic"
-    ],
-    "tags": [
-      "grinder",
-      "jumping",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This is very simple: It's a constantly jumping grinder. Height is customizable. Don't credit me, credit Iceguy for the awesome dissasembly. (you can credit me if you want :3)<br>\r\n<br>\r\nMod edit: Don't make it able to reach a ceiling, since it will pass through it!",
-    "latest_version": "smwc-41534-1770253097",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41534,
-        "title": "Jumpy Grinder",
-        "version": "smwc-41534-1770253097",
-        "upstream_time": 1770253097,
-        "download_url": "https://dl.smwcentral.net/41534/Jumpy%20Grinder.zip",
-        "filename": "Jumpy Grinder.zip",
-        "size": 2883,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -8244,33 +8301,32 @@
     ]
   },
   {
-    "name": "smwsprites-pipe-dwelling-pitchin-chuck",
+    "name": "smwsprites-parachute-thwomp",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 41536,
-    "title": "Pipe Dwelling Pitchin' Chuck",
+    "upstream_id": 42640,
+    "title": "Parachute Thwomp",
     "authors": [
-      "TheBiob"
+      "Von Fahrenheit"
     ],
     "tags": [
-      "chuck",
       "enemy",
       "lorom",
-      "pipe",
-      "sa-1"
+      "sa-1",
+      "thwomp"
     ],
-    "description": "This is a pitchin' chuck that throws baseballs from a pipe.<br>\r\n<br>\r\nRequested by UpBForVictory<br>\r\n<br>\r\nNow SA-1 hybrid.",
-    "latest_version": "smwc-41536-1770258505",
+    "description": "Exactly what it says on the tin. It's a Thwomp with a tiny parachute.<br>\r\n<br>\r\nRequested for the Strongest Sprite Workshop 2020 by Sammmoo",
+    "latest_version": "1.1",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 41536,
-        "title": "Pipe Dwelling Pitchin' Chuck",
-        "version": "smwc-41536-1770258505",
-        "upstream_time": 1770258505,
-        "download_url": "https://dl.smwcentral.net/41536/pipechuck.zip",
-        "filename": "pipechuck.zip",
-        "size": 3199,
+        "upstream_id": 42640,
+        "title": "Parachute Thwomp",
+        "version": "1.1",
+        "upstream_time": 1783176214,
+        "download_url": "https://dl.smwcentral.net/42640/parachute%20thwomp.zip",
+        "filename": "parachute thwomp.zip",
+        "size": 6597,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -8308,6 +8364,44 @@
         "download_url": "https://dl.smwcentral.net/41979/NeedlenoseAndPokey.zip",
         "filename": "NeedlenoseAndPokey.zip",
         "size": 8774,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-pot",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42618,
+    "title": "Pot",
+    "authors": [
+      "wiiqwertyuiop"
+    ],
+    "tags": [
+      "breakable",
+      "lorom",
+      "pacifist",
+      "pot",
+      "sa-1",
+      "shatter",
+      "vase"
+    ],
+    "description": "This is a 16x16 pot sprite. Mario can stand on it, push it, and pick it up to move it. When he drops it, it will break and spawn another sprite. It must spawn on a solid tile.<br>\r\n<br>\r\nIt uses its extra bytes to determine which sprite it should spawn (they can be set in the Add Sprite Manual dialog with the \"Extension\" field). The first byte (first two digits) determines the sprite number to spawn (get it either from the Add Sprites Window or from PIXI's list.txt). The next digit determines <a href=\"https://www.smwcentral.net/?p=nmap&m=smwram#7E14C8\">which status</a> the sprite should spawn in (if unsure, use 1). The fourth digit is the extra bit of the sprite to spawn. 0 and 1 spawn a normal sprite with its extra bit clear or set, 2 and 3 spawn a custom sprite with its extra bit clear or set (just like the Extra Bits field from the Add Sprite Manual dialog). For example, extension 8010 would spawn vanilla sprite 80 (a key) in status 1 with its extra bit clear. 0583 would spawn custom sprite 05 in status 8 with its extra bit set. If you set the sprite number to FF, the pot will shatter without spawning anything.<br>\r\n<br>\r\nIf the extra bit of the pot is set, then it'll randomly leave nothing behind, or spawn one of two sprites. The second sprite is defined in the extension after the first one (in the same format). For example, a pot with its extra bit set and extension 80110582 would either spawn nothing, a key in status 1 with its extra bit set, or custom sprite 05 in status 8 with its extra bit clear.<br>\r\n<br>\r\nCheck the ASM file for customization options. The included graphics use Mario's palette and come from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14160\">BlackSabbath's SMB2 tileset</a>.",
+    "latest_version": "smwc-42618-1782820599",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42618,
+        "title": "Pot",
+        "version": "smwc-42618-1782820599",
+        "upstream_time": 1782820599,
+        "download_url": "https://dl.smwcentral.net/42618/Pot_Remodded.zip",
+        "filename": "Pot_Remodded.zip",
+        "size": 6239,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -8487,6 +8581,41 @@
         "download_url": "https://dl.smwcentral.net/41057/sumo_bro_ex.zip",
         "filename": "sumo_bro_ex.zip",
         "size": 9492,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-super-bob-omb",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42638,
+    "title": "Super Bob-omb",
+    "authors": [
+      "Major Flare"
+    ],
+    "tags": [
+      "bob-omb",
+      "enemy",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This is a Super Bob-omb, inspired and rehauled from its original japanese code. It behaves like a normal Bob-omb, but it has a wider explosion range.<br>\r\n<br>\r\nIncludes .cfg and .json files. Tested with SA-1 and the latest version of PIXI.",
+    "latest_version": "smwc-42638-1783173745",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42638,
+        "title": "Super Bob-omb",
+        "version": "smwc-42638-1783173745",
+        "upstream_time": 1783173745,
+        "download_url": "https://dl.smwcentral.net/42638/Super%20Bob%20Omb.zip",
+        "filename": "Super Bob Omb.zip",
+        "size": 2849,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -10128,45 +10257,6 @@
     ]
   },
   {
-    "name": "uberasm-airjump-with-jump-counter",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40919,
-    "title": "Airjump with Jump Counter",
-    "authors": [
-      "HammerBrother",
-      "RussianMan"
-    ],
-    "tags": [
-      "airjump",
-      "airspin",
-      "counter",
-      "jump",
-      "lorom",
-      "sa-1",
-      "spinjump"
-    ],
-    "description": "This is <span class=\"un-outer\" title=\"HammerBrother\"><a href=\"/?p=profile&amp;id=18802\" style=\"color: var(--user-color-1);\" class=\"un\">HammerBrother</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14759\">Airjump</a> uberASM code, but with a jump counter attached to the player that can count up to 9, or count down to 0, or just show infinity.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"1UPdudes\"><span title=\"1UPdudes donated $8.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=6549\" style=\"color: var(--user-color-2);\" class=\"un\">1UPdudes</a></span>.",
-    "latest_version": "smwc-40919-1761943914",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40919,
-        "title": "Airjump with Jump Counter",
-        "version": "smwc-40919-1761943914",
-        "upstream_time": 1761943914,
-        "download_url": "https://dl.smwcentral.net/40919/Airjumps%2BJump%20Counter_asar2.zip",
-        "filename": "Airjumps+Jump Counter_asar2.zip",
-        "size": 2977,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-always-wall-run",
     "aliases": [],
     "section": "uberasm",
@@ -10238,6 +10328,40 @@
     ]
   },
   {
+    "name": "uberasm-baby-yoshi-disappears-after-eating-too-much",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42641,
+    "title": "Baby Yoshi Disappears After Eating Too Much",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "baby yoshi",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42641,
+        "title": "Baby Yoshi Disappears After Eating Too Much",
+        "version": "V1.1",
+        "upstream_time": 1783188562,
+        "download_url": "https://dl.smwcentral.net/42641/MaxBabyYoshiEatsV1.1.zip",
+        "filename": "MaxBabyYoshiEatsV1.1.zip",
+        "size": 2059,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-basic-numerical-air-meter-v1",
     "aliases": [],
     "section": "uberasm",
@@ -10269,6 +10393,41 @@
         "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
         "filename": "AirMeter.zip",
         "size": 980,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-configurable-amount-of-baby-yoshi-eats",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42635,
+    "title": "Configurable Amount of Baby Yoshi Eats",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "baby yoshi",
+      "lorom",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "This simple code will change the required amount of things Baby Yoshi has to eat to grow up for the level you put it in (or for all levels, if used in gamemode 14). Note that powerups will still make him grow immediately, and \"double eats\" still apply (if he eats 2 things in quick succession, it will count as 3).",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42635,
+        "title": "Configurable Amount of Baby Yoshi Eats",
+        "version": "V1.1",
+        "upstream_time": 1783117090,
+        "download_url": "https://dl.smwcentral.net/42635/BabyYoshiEatsV1.1.zip",
+        "filename": "BabyYoshiEatsV1.1.zip",
+        "size": 1191,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -10375,40 +10534,6 @@
         "download_url": "https://dl.smwcentral.net/41017/Counterbreak_Asar2.zip",
         "filename": "Counterbreak_Asar2.zip",
         "size": 546,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-credits-utilities",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40912,
-    "title": "Credits Utilities",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "credits",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This UberASM provides some useful (optional) functions for when the player reaches the credits (which can be either the vanilla credits cutscene, or a credits sublevel they're teleported to or whatever):<br>\r\n- Mark the final level as beaten and increase the exits count.<br>\r\n- Run a (silent) event that will show as already run next time the OW is loaded (post-credits stuff?).<br>\r\n- Open a direction on the OW from the current level (probably best used in conjunction with the silent event).<br>\r\n- Change the current player's OW position (teleport back to the start of the game, or to a new map, etc.)<br>\r\n- Save the game.<br>\r\n<br>\r\nSee the ASM file for more info.",
-    "latest_version": "smwc-40912-1761864643",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40912,
-        "title": "Credits Utilities",
-        "version": "smwc-40912-1761864643",
-        "upstream_time": 1761864643,
-        "download_url": "https://dl.smwcentral.net/40912/credits_stuff_asar2.zip",
-        "filename": "credits_stuff_asar2.zip",
-        "size": 1436,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -10621,6 +10746,39 @@
         "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
         "filename": "lights_timer asar2.zip",
         "size": 1920,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-filter-items-when-exiting-pipe",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42313,
+    "title": "Filter Items When Exiting Pipe",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This resource allows you to disable bringing any item you carry through a pipe while keeping the pipe animation.<br>\r\n<br>\r\nThere are two variants included in here:<br>\r\n<ul><li><div class=\"code inline filter-noemote filter-nobr\"><pre>filter_item_pipe_total.asm</pre></div> will erase <i>any</i> carried item you bring in the level you insert this at.</li>\n<li><div class=\"code inline filter-noemote filter-nobr\"><pre>filer_item_pipe_conditional.asm</pre></div> will erase carried items <i>depending</i> on the value of a secondary exit. Useful when you have many pipes in one level and want to filter items from some of them only.</li></ul>",
+    "latest_version": "V1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42313,
+        "title": "Filter Items When Exiting Pipe",
+        "version": "V1.0.1",
+        "upstream_time": 1782655878,
+        "download_url": "https://dl.smwcentral.net/42313/Filter%20Items%20When%20Exiting%20Pipe%20V1.0.1.zip",
+        "filename": "Filter Items When Exiting Pipe V1.0.1.zip",
+        "size": 2344,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -11066,41 +11224,6 @@
     ]
   },
   {
-    "name": "uberasm-pause-on-death-v1",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40878,
-    "title": "Pause on Death V1.1",
-    "authors": [
-      "dtothefourth",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "death",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "Pause on Death - Freezes the game in place upon death before starting the death animation for a configurable amount of time, perhaps giving the player a chance to see what killed them in a hectic level.<br>\r\n<br>\r\nApply to gamemode 14 to make it universal or instead just apply it to specific level numbers if you only want it on certain levels.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Made use of UberASMTool 2.0's end label to make this not need to run during V-Blank.<br>\r\n- Removed the gamemode version as the above change allows you to insert the same file as either level or gamemode ASM.<br>\r\n- Fixed an oversight where you could press select during the pause to exit the level if you've already beaten it.<br>\r\n- Made a few optimizations that saved 10 bytes overall.",
-    "latest_version": "smwc-40878-1761503420",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40878,
-        "title": "Pause on Death V1.1",
-        "version": "smwc-40878-1761503420",
-        "upstream_time": 1761503420,
-        "download_url": "https://dl.smwcentral.net/40878/DeathPauseV1_1.zip",
-        "filename": "DeathPauseV1_1.zip",
-        "size": 594,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-pay-coins-to-jump-v1",
     "aliases": [],
     "section": "uberasm",
@@ -11298,7 +11421,7 @@
       "sa-1",
       "smb2"
     ],
-    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un\">LinkstormZ</a></span>.",
     "latest_version": "smwc-42483-1782085948",
     "install_kind": "uber_asm",
     "versions": [
@@ -11814,7 +11937,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

@@ -694,17 +694,17 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42232/antonblastbigbath.zip
 Description: ANTONBLAST - The Big Bath (Main)
 
-Package: smwgraphics-beach-desert
-Version: smwc-42055-1774718126
+Package: smwgraphics-bomberman-ii-intro-cutscene
+Version: smwc-41854-1782790399
 Section: smwgraphics
 Architecture: smw
-Maintainer: Skewer
-Filename: pool/smwgraphics/42055/Skewer 2017 Beach Release 1.1 RC.zip
-Size: 13361
-X-SMWC-ID: 42055
+Maintainer: Anorakun
+Filename: pool/smwgraphics/41854/bomberman 2 intro cutscene.zip
+Size: 5621
+X-SMWC-ID: 41854
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42055/Skewer%202017%20Beach%20Release%201.1%20RC.zip
-Description: Beach / Desert
+X-SMWAPT-URL: https://dl.smwcentral.net/41854/bomberman%202%20intro%20cutscene.zip
+Description: Bomberman II - Intro Cutscene
 
 Package: smwgraphics-castle-of-illusion-starring-mickey-mouse-castle-act
 Version: 1.3
@@ -729,6 +729,18 @@ X-SMWC-ID: 42162
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42162/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20-%20Enchanted%20Forest%20%28Act%201%29%20%28FG%29.zip
 Description: Castle of Illusion Starring Mickey Mouse - Enchanted Forest (Act 1)
+
+Package: smwgraphics-cave
+Version: smwc-42627-1783020633
+Section: smwgraphics
+Architecture: smw
+Maintainer: Gamma V
+Filename: pool/smwgraphics/42627/Cave2026.zip
+Size: 6398
+X-SMWC-ID: 42627
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42627/Cave2026.zip
+Description: Cave 2026
 
 Package: smwgraphics-cave-story-outer-wall
 Version: smwc-40927-1776545384
@@ -789,18 +801,6 @@ X-SMWC-ID: 42455
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip
 Description: Fantasy Zone Gear - Stage 1: Woods
-
-Package: smwgraphics-leap-day-snow-land
-Version: smwc-42115-1775246181
-Section: smwgraphics
-Architecture: smw
-Maintainer: playagmes169
-Filename: pool/smwgraphics/42115/leapdaysnowbg.zip
-Size: 5665
-X-SMWC-ID: 42115
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42115/leapdaysnowbg.zip
-Description: Leap Day - Snow Land
 
 Package: smwgraphics-madou-monogatari-a-r-s-arle-s-story-cave
 Version: smwc-42344-1778627425
@@ -946,18 +946,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42260/Redrawn%20Joe%20The%20Shark.zip
 Description: Redrawn Styled Joe The Shark
 
-Package: smwgraphics-redrawn-styled-reznor-family
-Version: smwc-40576-1774979153
-Section: smwgraphics
-Architecture: smw
-Maintainer: Moltz
-Filename: pool/smwgraphics/40576/Redrawn NSMB2 Styled Reznor Family.zip
-Size: 5576
-X-SMWC-ID: 40576
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/40576/Redrawn%20NSMB2%20Styled%20Reznor%20Family.zip
-Description: Redrawn Styled Reznor Family
-
 Package: smwgraphics-redrawn-styled-rideable-balloon
 Version: smwc-42224-1776883539
 Section: smwgraphics
@@ -1067,16 +1055,28 @@ X-SMWAPT-URL: https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%
 Description: Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2
 
 Package: smwgraphics-super-mario-all-stars-super-mario-bros
-Version: smwc-42045-1774718448
+Version: smwc-42044-1777156058
 Section: smwgraphics
 Architecture: smw
 Maintainer: Natsuz2
-Filename: pool/smwgraphics/42045/SMAS3 Desert.zip
-Size: 3452
-X-SMWC-ID: 42045
+Filename: pool/smwgraphics/42044/SMAS3 Castle.zip
+Size: 5289
+X-SMWC-ID: 42044
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42045/SMAS3%20Desert.zip
-Description: Super Mario All-Stars: Super Mario Bros. 3 - Desert
+X-SMWAPT-URL: https://dl.smwcentral.net/42044/SMAS3%20Castle.zip
+Description: Super Mario All-Stars: Super Mario Bros. 3 - Castle
+
+Package: smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi
+Version: smwc-42601-1782687074
+Section: smwgraphics
+Architecture: smw
+Maintainer: MaltaRCX
+Filename: pool/smwgraphics/42601/SMAS - SMB - Mario %26 Luigi.zip
+Size: 69799
+X-SMWC-ID: 42601
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42601/SMAS%20-%20SMB%20-%20Mario%20%26%20Luigi.zip
+Description: Super Mario All-Stars: Super Mario Bros. - Mario & Luigi
 
 Package: smwgraphics-super-mario-maker
 Version: smwc-42536-1781457423
@@ -1186,6 +1186,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42413/The%20Pigeon.zip
 Description: The Pigeon
 
+Package: smwgraphics-the-wizard-of-oz-snes-crystal-cave
+Version: smwc-41718-1782789558
+Section: smwgraphics
+Architecture: smw
+Maintainer: Roberto zampari
+Filename: pool/smwgraphics/41718/wizardoz_crystalcave.zip
+Size: 3695
+X-SMWC-ID: 41718
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/41718/wizardoz_crystalcave.zip
+Description: The Wizard of Oz (SNES) - Crystal Cave
+
 Package: smwgraphics-the-wizard-of-oz-snes-forest
 Version: smwc-41717-1778487322
 Section: smwgraphics
@@ -1210,17 +1222,17 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42517/Wario%20%26%20Waluigi.zip
 Description: Wario & Waluigi
 
-Package: smwmusic-aurora-borealis-catastrophe
-Version: smwc-42014-1778443412
+Package: smwmusic-aoki-densetsu-shoot-game
+Version: smwc-42219-1782839648
 Section: smwmusic
 Architecture: smw
-Maintainer: KungFuFurby
-Filename: pool/smwmusic/42014/Aurora Borealis Catastrophe.zip
-Size: 75681
-X-SMWC-ID: 42014
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42219/Aoki Densetsu Shoot%21 - Game 2.zip
+Size: 58271
+X-SMWC-ID: 42219
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42014/Aurora%20Borealis%20Catastrophe.zip
-Description: Aurora Borealis Catastrophe
+X-SMWAPT-URL: https://dl.smwcentral.net/42219/Aoki%20Densetsu%20Shoot%21%20-%20Game%202.zip
+Description: Aoki Densetsu Shoot! - Game 2
 
 Package: smwmusic-back-to-saturn-x-episode
 Version: smwc-41308-1778515321
@@ -1257,6 +1269,30 @@ X-SMWC-ID: 41812
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip
 Description: Cocoron - Cocorin's Entrance
+
+Package: smwmusic-contra-hard-corps-gtr-attack
+Version: smwc-41794-1782834160
+Section: smwmusic
+Architecture: smw
+Maintainer: Dzing
+Filename: pool/smwmusic/41794/gtr-attack.zip
+Size: 103106
+X-SMWC-ID: 41794
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41794/gtr-attack.zip
+Description: Contra: Hard Corps - GTR Attack!
+
+Package: smwmusic-danganronpa-argument-hope-vs-despair-super-metroid-style
+Version: smwc-42280-1782864425
+Section: smwmusic
+Architecture: smw
+Maintainer: JX444444
+Filename: pool/smwmusic/42280/HOPEvsDESPAIR_SM.zip
+Size: 72021
+X-SMWC-ID: 42280
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42280/HOPEvsDESPAIR_SM.zip
+Description: Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)
 
 Package: smwmusic-deltarune-the-ol-jitterbug
 Version: smwc-42108-1782492258
@@ -1318,17 +1354,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42401/pinball%20main%20%28u%29.zip
 Description: Full Tilt!/3D Pinball: Space Cadet - Main Theme
 
-Package: smwmusic-galaxy-force-ii-arcade-alone-fighter
-Version: smwc-42035-1778446018
+Package: smwmusic-go-go-ackman
+Version: smwc-42132-1782836754
 Section: smwmusic
 Architecture: smw
-Maintainer: Segment1Zone2
-Filename: pool/smwmusic/42035/Galaxy Force II (Arcade) - Alone Fighter %5BU%5D.zip
-Size: 35339
-X-SMWC-ID: 42035
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42132/Go Go Ackman 3 - Tenshi vs Robot.zip
+Size: 50715
+X-SMWC-ID: 42132
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42035/Galaxy%20Force%20II%20%28Arcade%29%20-%20Alone%20Fighter%20%5BU%5D.zip
-Description: Galaxy Force II (Arcade) - Alone Fighter
+X-SMWAPT-URL: https://dl.smwcentral.net/42132/Go%20Go%20Ackman%203%20-%20Tenshi%20vs%20Robot.zip
+Description: Go Go Ackman 3 - Tenshi vs. Robot
 
 Package: smwmusic-hyperzone-hyper-zone
 Version: smwc-42058-1780151272
@@ -1342,6 +1378,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42058/HyperZone%20-%20Hyper%20Zone.zip
 Description: HyperZone - Hyper Zone
 
+Package: smwmusic-james-bond-jr-snes-minicopter-mission-mmx2-style
+Version: smwc-42153-1782864051
+Section: smwmusic
+Architecture: smw
+Maintainer: Segment1Zone2
+Filename: pool/smwmusic/42153/James Bond Jr. - Minicopter Mission (MMX2 Style).zip
+Size: 73490
+X-SMWC-ID: 42153
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42153/James%20Bond%20Jr.%20-%20Minicopter%20Mission%20%28MMX2%20Style%29.zip
+Description: James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)
+
 Package: smwmusic-jb-the-super-bass-opening
 Version: smwc-42059-1780071258
 Section: smwmusic
@@ -1354,17 +1402,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42059/JB%20The%20Super%20Bass%20-%20Opening%202.zip
 Description: JB The Super Bass - Opening 2
 
-Package: smwmusic-kirby-s-adventure-ice-cream-island-map-kdl3-style
-Version: smwc-41840-1778374664
+Package: smwmusic-jikkyou-powerful-pro-yakyuu
+Version: smwc-42169-1782790436
 Section: smwmusic
 Architecture: smw
-Maintainer: 7 up
-Filename: pool/smwmusic/41840/Ice Cream Island Map.zip
-Size: 48726
-X-SMWC-ID: 41840
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42169/Jikkyou Powerful Pro Yakyuu 2 - Good Ending.zip
+Size: 74194
+X-SMWC-ID: 42169
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41840/Ice%20Cream%20Island%20Map.zip
-Description: Kirby's Adventure - Ice Cream Island Map (KDL3 Style)
+X-SMWAPT-URL: https://dl.smwcentral.net/42169/Jikkyou%20Powerful%20Pro%20Yakyuu%202%20-%20Good%20Ending.zip
+Description: Jikkyou Powerful Pro Yakyuu 2 - Good Ending
 
 Package: smwmusic-kirby-triple-deluxe-sullied-grace
 Version: smwc-41473-1778515635
@@ -1378,29 +1426,41 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41473/Kirby%20Triple%20Deluxe%20-%20Sullied%20Grace.zip
 Description: Kirby Triple Deluxe - Sullied Grace
 
-Package: smwmusic-masters-new-harukanaru-augusta
-Version: smwc-41963-1778080726
+Package: smwmusic-leading-company-lights-across-the-bay
+Version: smwc-42104-1782835267
 Section: smwmusic
 Architecture: smw
 Maintainer: Fullcannon
-Filename: pool/smwmusic/41963/Masters New Harukanaru Augusta 3 (SFC) - Results.zip
-Size: 42765
-X-SMWC-ID: 41963
+Filename: pool/smwmusic/42104/Leading Company - Lights across the bay.zip
+Size: 34270
+X-SMWC-ID: 42104
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41963/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Results.zip
-Description: Masters New: Harukanaru Augusta 3 (SFC) - Results
+X-SMWAPT-URL: https://dl.smwcentral.net/42104/Leading%20Company%20-%20Lights%20across%20the%20bay.zip
+Description: Leading Company - Lights across the bay
 
-Package: smwmusic-masters-new-harukanaru-augusta-3-sfc-course-bgm
-Version: smwc-41961-1778080637
+Package: smwmusic-lester-the-unlikely-something-happened
+Version: smwc-42195-1782837421
 Section: smwmusic
 Architecture: smw
 Maintainer: Fullcannon
-Filename: pool/smwmusic/41961/Masters New Harukanaru Augusta 3 (SFC) - Course BGM 3.zip
-Size: 54289
-X-SMWC-ID: 41961
+Filename: pool/smwmusic/42195/Lester the Unlikely - Something Happened.zip
+Size: 56594
+X-SMWC-ID: 42195
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41961/Masters%20New%20Harukanaru%20Augusta%203%20%28SFC%29%20-%20Course%20BGM%203.zip
-Description: Masters New: Harukanaru Augusta 3 (SFC) - Course BGM 3
+X-SMWAPT-URL: https://dl.smwcentral.net/42195/Lester%20the%20Unlikely%20-%20Something%20Happened.zip
+Description: Lester the Unlikely - Something Happened
+
+Package: smwmusic-magic-sword-honor-blade
+Version: smwc-41880-1782838584
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/41880/Magic Sword - Honor Blade.zip
+Size: 65693
+X-SMWC-ID: 41880
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41880/Magic%20Sword%20-%20Honor%20Blade.zip
+Description: Magic Sword - Honor Blade
 
 Package: smwmusic-mega-man
 Version: smwc-42267-1782403319
@@ -1413,18 +1473,6 @@ X-SMWC-ID: 42267
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42267/mm5star.zip
 Description: Mega Man 5 - Star Man
-
-Package: smwmusic-mega-man-the-wily-wars-wily-s-tower-buster-rod-g-stage
-Version: smwc-41909-1778374487
-Section: smwmusic
-Architecture: smw
-Maintainer: Dzing
-Filename: pool/smwmusic/41909/MMWW-busterrod.zip
-Size: 93047
-X-SMWC-ID: 41909
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41909/MMWW-busterrod.zip
-Description: Mega Man: The Wily Wars - Wily's Tower - Buster Rod G Stage
 
 Package: smwmusic-memento-mori-ii-organic-gods
 Version: smwc-41549-1780333483
@@ -1462,65 +1510,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42060/Onita%20Atsushi%20FMW%20-%20Killer%20Marshal.zip
 Description: Onita Atsushi FMW - Killer Marshal
 
-Package: smwmusic-othello-world-game-with-rabbit
-Version: smwc-41881-1778445392
+Package: smwmusic-pachi-slot-kenkyuu-outside
+Version: smwc-42133-1782927525
 Section: smwmusic
 Architecture: smw
 Maintainer: Fullcannon
-Filename: pool/smwmusic/41881/Othello World - Game with Rabbit.zip
-Size: 34672
-X-SMWC-ID: 41881
+Filename: pool/smwmusic/42133/Pachi-Slot Kenkyuu - Outside .zip
+Size: 63067
+X-SMWC-ID: 42133
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41881/Othello%20World%20-%20Game%20with%20Rabbit.zip
-Description: Othello World - Game with Rabbit
-
-Package: smwmusic-pebble-beach-no-hatou-new-tournament-edition-award
-Version: smwc-41971-1778166764
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41971/Pebble Beach no Hatou New - Award.zip
-Size: 71568
-X-SMWC-ID: 41971
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41971/Pebble%20Beach%20no%20Hatou%20New%20-%20Award.zip
-Description: Pebble Beach no Hatou New: Tournament Edition - Award
-
-Package: smwmusic-pebble-beach-no-hatou-new-tournament-edition-course-bgm
-Version: smwc-41969-1778166748
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41969/Pebble Beach no Hatou New - Course BGM 5.zip
-Size: 49666
-X-SMWC-ID: 41969
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41969/Pebble%20Beach%20no%20Hatou%20New%20-%20Course%20BGM%205.zip
-Description: Pebble Beach no Hatou New: Tournament Edition - Course BGM 5
-
-Package: smwmusic-pebble-beach-no-hatou-new-tournament-edition-results
-Version: smwc-41970-1778166757
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41970/Pebble Beach no Hatou New - Results.zip
-Size: 62705
-X-SMWC-ID: 41970
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41970/Pebble%20Beach%20no%20Hatou%20New%20-%20Results.zip
-Description: Pebble Beach no Hatou New: Tournament Edition - Results
-
-Package: smwmusic-pebble-beach-no-hatou-new-tournament-edition-settings
-Version: smwc-41964-1778166704
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/41964/Pebble Beach no Hatou New - Settings Fixed.zip
-Size: 65978
-X-SMWC-ID: 41964
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41964/Pebble%20Beach%20no%20Hatou%20New%20-%20Settings%20Fixed.zip
-Description: Pebble Beach no Hatou New: Tournament Edition - Settings
+X-SMWAPT-URL: https://dl.smwcentral.net/42133/Pachi-Slot%20Kenkyuu%20-%20Outside%20.zip
+Description: Pachi-Slot Kenkyuu - Outside
 
 Package: smwmusic-pizza-tower-extraterrestrial-wahwahs
 Version: smwc-41636-1781743322
@@ -1558,17 +1558,53 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41638/Pizza%20Tower%20-%20mmm%20yes%20put%20the%20tree%20on%20my%20pizza.zip
 Description: Pizza Tower - mmm yes put the tree on my pizza
 
-Package: smwmusic-puyo-puyo-theme
-Version: smwc-41992-1778445657
+Package: smwmusic-pok-mon-ruby-sapphire-emerald-trainers-eyes-meet-psychic-mmx2-style
+Version: smwc-42247-1782789824
 Section: smwmusic
 Architecture: smw
-Maintainer: Dzing
-Filename: pool/smwmusic/41992/puyopuyo.zip
-Size: 82473
-X-SMWC-ID: 41992
+Maintainer: Segment1Zone2
+Filename: pool/smwmusic/42247/Pokemon RSE - Look%21 Fighter %26 Psychic (MMX2 Style) .zip
+Size: 73558
+X-SMWC-ID: 42247
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41992/puyopuyo.zip
-Description: Puyo Puyo - Theme
+X-SMWAPT-URL: https://dl.smwcentral.net/42247/Pokemon%20RSE%20-%20Look%21%20Fighter%20%26%20Psychic%20%28MMX2%20Style%29%20.zip
+Description: Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic) (MMX2 Style)
+
+Package: smwmusic-run-saber-renegade-saber
+Version: smwc-42061-1782864675
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42061/Run Saber - Renegade Saber.zip
+Size: 50185
+X-SMWC-ID: 42061
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42061/Run%20Saber%20-%20Renegade%20Saber.zip
+Description: Run Saber - Renegade Saber
+
+Package: smwmusic-simcity-jr-statistics
+Version: smwc-41883-1782928189
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/41883/SimCity Jr. - Statistics.zip
+Size: 57163
+X-SMWC-ID: 41883
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41883/SimCity%20Jr.%20-%20Statistics.zip
+Description: SimCity Jr. - Statistics
+
+Package: smwmusic-smart-ball-castle
+Version: smwc-42062-1782864798
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42062/Smart Ball - Castle.zip
+Size: 53104
+X-SMWC-ID: 42062
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42062/Smart%20Ball%20-%20Castle.zip
+Description: Smart Ball - Castle
 
 Package: smwmusic-sonic-cd-us-invincible
 Version: smwc-41823-1780248588
@@ -1666,6 +1702,30 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42134/Super%20Tetris%203%20-%20Sakura%20~%20The%20Cherry%20Blossoms.zip
 Description: Super Tetris 3 - Sakura ~ The Cherry Blossoms
 
+Package: smwmusic-the-addams-family-pugsley-s-scavenger-hunt-attic
+Version: smwc-42198-1782838958
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42198/The Addams Family ~ Pugsley%27s Scavenger Hunt - Attic.zip
+Size: 44128
+X-SMWC-ID: 42198
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42198/The%20Addams%20Family%20~%20Pugsley%27s%20Scavenger%20Hunt%20-%20Attic.zip
+Description: The Addams Family: Pugsley's Scavenger Hunt - Attic
+
+Package: smwmusic-the-flintstones-the-treasure-of-sierra-madrock-theme-of-the-flintstones
+Version: smwc-42222-1782841615
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42222/The Treasure of Sierra Madrock - Theme of the Flintstones.zip
+Size: 59929
+X-SMWC-ID: 42222
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42222/The%20Treasure%20of%20Sierra%20Madrock%20-%20Theme%20of%20the%20Flintstones.zip
+Description: The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones
+
 Package: smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive
 Version: v1.2
 Section: smwmusic
@@ -1702,6 +1762,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41936/Waialae%20no%20Kiseki%20%28SFC%29%20-%20Course%20BGM.zip
 Description: Waialae no Kiseki (SFC) - Course BGM
 
+Package: smwmusic-waku-waku-ski-wonder-shoot-technician
+Version: smwc-42223-1782840928
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42223/Waku Waku Ski Wonder Shoot - Technician.zip
+Size: 67302
+X-SMWC-ID: 42223
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42223/Waku%20Waku%20Ski%20Wonder%20Shoot%20-%20Technician.zip
+Description: Waku Waku Ski Wonder Shoot - Technician
+
 Package: smwmusic-watermelon-valley
 Version: smwc-42358-1780014215
 Section: smwmusic
@@ -1713,6 +1785,18 @@ X-SMWC-ID: 42358
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42358/Watermelon_Valley.zip
 Description: Watermelon Valley
+
+Package: smwmusic-ys-iv-mask-of-the-sun-field
+Version: smwc-42121-1782836066
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42121/Ys IV Mask of the Sun - Field.zip
+Size: 72557
+X-SMWC-ID: 42121
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42121/Ys%20IV%20Mask%20of%20the%20Sun%20-%20Field.zip
+Description: Ys IV: Mask of the Sun - Field
 
 Package: smwmusic-ys-v-lost-kefin-kingdom-of-sand-field-of-gale
 Version: smwc-41816-1778760637
@@ -1810,18 +1894,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/40307/ChuckBreakBrickFix.zip
 Description: Chuck Breaking Blocks Fix
 
-Package: smwpatches-clear-all-ram-on-reset
-Version: smwc-40942-1762369336
-Section: smwpatches
-Architecture: smw
-Maintainer: Arinsu
-Filename: pool/smwpatches/40942/reset_clear.zip
-Size: 612
-X-SMWC-ID: 40942
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40942/reset_clear.zip
-Description: Clear All RAM on Reset
-
 Package: smwpatches-collected-moon-outline
 Version: smwc-41799-1772116767
 Section: smwpatches
@@ -1906,6 +1978,30 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41544/dma_remap.zip
 Description: DMA Remap v3.0
 
+Package: smwpatches-dry-bones-and-bony-beetle-suboffscreen-fix
+Version: V1.0.1
+Section: smwpatches
+Architecture: smw
+Maintainer: HammerBrother
+Filename: pool/smwpatches/42569/DryBonesBonyBeetleOffScrnFix.zip
+Size: 1862
+X-SMWC-ID: 42569
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42569/DryBonesBonyBeetleOffScrnFix.zip
+Description: Dry Bones and Bony Beetle SubOffScreen Fix
+
+Package: smwpatches-enemy-credit-sprite-changer-with-graphical-fix
+Version: 0.031
+Section: smwpatches
+Architecture: smw
+Maintainer: Hamtaro126
+Filename: pool/smwpatches/42372/endsprfix 0.031.zip
+Size: 5506
+X-SMWC-ID: 42372
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42372/endsprfix%200.031.zip
+Description: Enemy Credit Sprite Changer (With Graphical Fix)
+
 Package: smwpatches-enter-level-pipe-star-road-sounds-v1
 Version: smwc-41243-1765223490
 Section: smwpatches
@@ -1966,17 +2062,29 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/40704/KickDropOverrideFix.zip
 Description: Kick and Drop Override Fix
 
-Package: smwpatches-magikoopa-sprite-hijack
-Version: smwc-38708-1763087676
+Package: smwpatches-koopaling-palette-changer
+Version: V1.1
 Section: smwpatches
 Architecture: smw
-Maintainer: Isikoro, imamelia
-Filename: pool/smwpatches/38708/Magikoopa Sprite Hijack.zip
-Size: 4497
-X-SMWC-ID: 38708
+Maintainer: Moltz
+Filename: pool/smwpatches/42405/SMW Koopaling Palette Changer Patch V1.1.zip
+Size: 2407
+X-SMWC-ID: 42405
 X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/38708/Magikoopa%20Sprite%20Hijack.zip
-Description: Magikoopa Sprite Hijack
+X-SMWAPT-URL: https://dl.smwcentral.net/42405/SMW%20Koopaling%20Palette%20Changer%20Patch%20V1.1.zip
+Description: Koopaling Palette Changer
+
+Package: smwpatches-limited-yoshi-flying
+Version: smwc-42608-1782629978
+Section: smwpatches
+Architecture: smw
+Maintainer: SkywinDragoon
+Filename: pool/smwpatches/42608/LYF.zip
+Size: 882
+X-SMWC-ID: 42608
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42608/LYF.zip
+Description: Limited Yoshi Flying
 
 Package: smwpatches-messagebox-in-minimalist-status-bar-goal-customizer
 Version: smwc-42390-1779420219
@@ -2038,6 +2146,18 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41647/MoreFireballs.zip
 Description: More Fireballs
 
+Package: smwpatches-morton-roy-ludwig-tilemap-editor
+Version: 1.11
+Section: smwpatches
+Architecture: smw
+Maintainer: Moltz
+Filename: pool/smwpatches/42384/MortonRoyLudwigTilemap Editor 1.11.zip
+Size: 82105
+X-SMWC-ID: 42384
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42384/MortonRoyLudwigTilemap%20Editor%201.11.zip
+Description: Morton, Roy & Ludwig Tilemap Editor
+
 Package: smwpatches-multiple-title-screen-demos-v1-1
 Version: smwc-40309-1774901115
 Section: smwpatches
@@ -2049,18 +2169,6 @@ X-SMWC-ID: 40309
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip
 Description: Multiple Title Screen Demos v1.1.2
-
-Package: smwpatches-objectool-0
-Version: smwc-40964-1762462669
-Section: smwpatches
-Architecture: smw
-Maintainer: 0x400, imamelia
-Filename: pool/smwpatches/40964/ObjecTool_0.5.zip
-Size: 20759
-X-SMWC-ID: 40964
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40964/ObjecTool_0.5.zip
-Description: ObjecTool 0.5
 
 Package: smwpatches-optimize
 Version: smwc-41786-1772056855
@@ -2170,18 +2278,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42064/Random%20Chance%20Custom%20Tile%20Instead%20of%20Moon.zip
 Description: Random Chance Custom Tile Instead of 3-up Moon
 
-Package: smwpatches-reenter-castle-upon-pressing-l-r-smw-j
-Version: smwc-41074-1763688451
-Section: smwpatches
-Architecture: smw
-Maintainer: Puluphy
-Filename: pool/smwpatches/41074/Re-enter Castle JP.zip
-Size: 500
-X-SMWC-ID: 41074
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41074/Re-enter%20Castle%20JP.zip
-Description: Reenter Castle Upon Pressing L+R (SMW-J)
-
 Package: smwpatches-replace-cape-with-raccoon
 Version: V1.2
 Section: smwpatches
@@ -2290,18 +2386,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip
 Description: Tolerance Timer (aka Input Buffering & "Coyote Time")
 
-Package: smwpatches-vwf-dialogues-v1
-Version: smwc-36969-1762697016
-Section: smwpatches
-Architecture: smw
-Maintainer: Check manual for full list, RPG Hacker
-Filename: pool/smwpatches/36969/vwf_dialogues_140b.zip
-Size: 1159321
-X-SMWC-ID: 36969
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/36969/vwf_dialogues_140b.zip
-Description: VWF Dialogues v1.4
-
 Package: smwpatches-walking-monty-mole
 Version: smwc-40869-1764611593
 Section: smwpatches
@@ -2386,18 +2470,6 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip
 Description: Bob-omb, Leaves Fire Trail
 
-Package: smwsprites-bob-omb-shooter
-Version: smwc-40290-1768699020
-Section: smwsprites
-Architecture: smw
-Maintainer: Luknight
-Filename: pool/smwsprites/40290/bobomb_shooter.zip
-Size: 1674
-X-SMWC-ID: 40290
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/40290/bobomb_shooter.zip
-Description: Bob-omb Shooter
-
 Package: smwsprites-bouncy-boo
 Version: smwc-41921-1773807906
 Section: smwsprites
@@ -2458,18 +2530,6 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42452/ChasinRex.zip
 Description: Chasing & Hidden Rex
 
-Package: smwsprites-clock-thwimp
-Version: smwc-41535-1770255153
-Section: smwsprites
-Architecture: smw
-Maintainer: MellyMellouange
-Filename: pool/smwsprites/41535/ClockThwimp.zip
-Size: 2971
-X-SMWC-ID: 41535
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/41535/ClockThwimp.zip
-Description: Clock Thwimp
-
 Package: smwsprites-conditional-keyhole
 Version: smwc-42039-1774553550
 Section: smwsprites
@@ -2481,6 +2541,30 @@ X-SMWC-ID: 42039
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42039/conditional_keyhole.zip
 Description: Conditional Keyhole
+
+Package: smwsprites-custom-smw-like-iggy-boss
+Version: smwc-42637-1783173142
+Section: smwsprites
+Architecture: smw
+Maintainer: Major Flare
+Filename: pool/smwsprites/42637/SMW Custom Iggy Boss.zip
+Size: 10074
+X-SMWC-ID: 42637
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42637/SMW%20Custom%20Iggy%20Boss.zip
+Description: Custom SMW-Like Iggy Boss
+
+Package: smwsprites-customizable-lemmy-wendy
+Version: 1.1
+Section: smwsprites
+Architecture: smw
+Maintainer: Fernap
+Filename: pool/smwsprites/42636/CustomLemmyWendy1.1.zip
+Size: 23135
+X-SMWC-ID: 42636
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42636/CustomLemmyWendy1.1.zip
+Description: Customizable Lemmy/Wendy
 
 Package: smwsprites-dino-rhino-dino-torch
 Version: smwc-41240-1773242526
@@ -2517,6 +2601,18 @@ X-SMWC-ID: 41241
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/41241/Dino%20Rhino%20%2B%20Dino%20Torch.zip
 Description: Expanded Dino Rhino + Dino Torch
+
+Package: smwsprites-explosive-dry-bones
+Version: V1.1
+Section: smwsprites
+Architecture: smw
+Maintainer: TheXander
+Filename: pool/smwsprites/42639/Explosive Dry Bones V1.1.zip
+Size: 15207
+X-SMWC-ID: 42639
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42639/Explosive%20Dry%20Bones%20V1.1.zip
+Description: Explosive Dry Bones
 
 Package: smwsprites-falling-fireball-generator
 Version: smwc-41845-1773022692
@@ -2626,30 +2722,6 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42085/Galoomba%20That%20Sticks%20To%20Them%20Walls.zip
 Description: Galoomba, Sticks to Walls
 
-Package: smwsprites-gatlin-venus
-Version: smwc-40179-1769902370
-Section: smwsprites
-Architecture: smw
-Maintainer: Luknight, imamelia
-Filename: pool/smwsprites/40179/gatlin_venus.zip
-Size: 9359
-X-SMWC-ID: 40179
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/40179/gatlin_venus.zip
-Description: Gatlin Venus
-
-Package: smwsprites-giant-piranha-plants
-Version: smwc-40128-1769863555
-Section: smwsprites
-Architecture: smw
-Maintainer: Davros, Luknight, mikeyk
-Filename: pool/smwsprites/40128/giant_piranha.zip
-Size: 8559
-X-SMWC-ID: 40128
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/40128/giant_piranha.zip
-Description: Giant Piranha Plants
-
 Package: smwsprites-goal-roulette
 Version: smwc-41199-1772733043
 Section: smwsprites
@@ -2685,18 +2757,6 @@ X-SMWC-ID: 42003
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42003/iggy2024.zip
 Description: Iggy Boss 2024 Edition
-
-Package: smwsprites-jumpy-grinder
-Version: smwc-41534-1770253097
-Section: smwsprites
-Architecture: smw
-Maintainer: Medic
-Filename: pool/smwsprites/41534/Jumpy Grinder.zip
-Size: 2883
-X-SMWC-ID: 41534
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/41534/Jumpy%20Grinder.zip
-Description: Jumpy Grinder
 
 Package: smwsprites-line-guided-colored-blocks-switch-toggled
 Version: smwc-40598-1772439361
@@ -2782,17 +2842,17 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42179/Elliptic%20Para-Spiny.zip
 Description: Para-spiny, Flies in an Ellipse Pattern
 
-Package: smwsprites-pipe-dwelling-pitchin-chuck
-Version: smwc-41536-1770258505
+Package: smwsprites-parachute-thwomp
+Version: 1.1
 Section: smwsprites
 Architecture: smw
-Maintainer: TheBiob
-Filename: pool/smwsprites/41536/pipechuck.zip
-Size: 3199
-X-SMWC-ID: 41536
+Maintainer: Von Fahrenheit
+Filename: pool/smwsprites/42640/parachute thwomp.zip
+Size: 6597
+X-SMWC-ID: 42640
 X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/41536/pipechuck.zip
-Description: Pipe Dwelling Pitchin' Chuck
+X-SMWAPT-URL: https://dl.smwcentral.net/42640/parachute%20thwomp.zip
+Description: Parachute Thwomp
 
 Package: smwsprites-pokey-heading-yoshi-s-island-pokey
 Version: smwc-41979-1774910938
@@ -2805,6 +2865,18 @@ X-SMWC-ID: 41979
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/41979/NeedlenoseAndPokey.zip
 Description: Pokey Heading (Yoshi's Island Pokey)
+
+Package: smwsprites-pot
+Version: smwc-42618-1782820599
+Section: smwsprites
+Architecture: smw
+Maintainer: wiiqwertyuiop
+Filename: pool/smwsprites/42618/Pot_Remodded.zip
+Size: 6239
+X-SMWC-ID: 42618
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42618/Pot_Remodded.zip
+Description: Pot
 
 Package: smwsprites-random-chance-sprite-spawner
 Version: smwc-42074-1775269547
@@ -2865,6 +2937,18 @@ X-SMWC-ID: 41057
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/41057/sumo_bro_ex.zip
 Description: Sumo Brother EX
+
+Package: smwsprites-super-bob-omb
+Version: smwc-42638-1783173745
+Section: smwsprites
+Architecture: smw
+Maintainer: Major Flare
+Filename: pool/smwsprites/42638/Super Bob Omb.zip
+Size: 2849
+X-SMWC-ID: 42638
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42638/Super%20Bob%20Omb.zip
+Description: Super Bob-omb
 
 Package: smwsprites-super-mario-bros
 Version: smwc-42078-1775670513
@@ -3454,18 +3538,6 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41162/pathfade_color8_asar2.zip
 Description: Add Color 8 to Event Path Fade
 
-Package: uberasm-airjump-with-jump-counter
-Version: smwc-40919-1761943914
-Section: uberasm
-Architecture: smw
-Maintainer: HammerBrother, RussianMan
-Filename: pool/uberasm/40919/Airjumps+Jump Counter_asar2.zip
-Size: 2977
-X-SMWC-ID: 40919
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40919/Airjumps%2BJump%20Counter_asar2.zip
-Description: Airjump with Jump Counter
-
 Package: uberasm-always-wall-run
 Version: smwc-41053-1763340498
 Section: uberasm
@@ -3490,6 +3562,18 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/40853/AutojumpV1_1.zip
 Description: Automatic Alternating Jumps V1.1
 
+Package: uberasm-baby-yoshi-disappears-after-eating-too-much
+Version: V1.1
+Section: uberasm
+Architecture: smw
+Maintainer: Kevin
+Filename: pool/uberasm/42641/MaxBabyYoshiEatsV1.1.zip
+Size: 2059
+X-SMWC-ID: 42641
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42641/MaxBabyYoshiEatsV1.1.zip
+Description: Baby Yoshi Disappears After Eating Too Much
+
 Package: uberasm-basic-numerical-air-meter-v1
 Version: smwc-41011-1763931254
 Section: uberasm
@@ -3501,6 +3585,18 @@ X-SMWC-ID: 41011
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41011/AirMeter.zip
 Description: Basic Numerical Air Meter V1.1
+
+Package: uberasm-configurable-amount-of-baby-yoshi-eats
+Version: V1.1
+Section: uberasm
+Architecture: smw
+Maintainer: Kevin
+Filename: pool/uberasm/42635/BabyYoshiEatsV1.1.zip
+Size: 1191
+X-SMWC-ID: 42635
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42635/BabyYoshiEatsV1.1.zip
+Description: Configurable Amount of Baby Yoshi Eats
 
 Package: uberasm-consistent-vanilla-walljumps
 Version: smwc-41030-1763077448
@@ -3537,18 +3633,6 @@ X-SMWC-ID: 41017
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41017/Counterbreak_Asar2.zip
 Description: Counterbreak
-
-Package: uberasm-credits-utilities
-Version: smwc-40912-1761864643
-Section: uberasm
-Architecture: smw
-Maintainer: Kevin
-Filename: pool/uberasm/40912/credits_stuff_asar2.zip
-Size: 1436
-X-SMWC-ID: 40912
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40912/credits_stuff_asar2.zip
-Description: Credits Utilities
 
 Package: uberasm-discoshell-on-off
 Version: smwc-41007-1762816248
@@ -3621,6 +3705,18 @@ X-SMWC-ID: 41443
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41443/lights_timer%20asar2.zip
 Description: Fading Lights v1.1.2
+
+Package: uberasm-filter-items-when-exiting-pipe
+Version: V1.0.1
+Section: uberasm
+Architecture: smw
+Maintainer: Arinsu
+Filename: pool/uberasm/42313/Filter Items When Exiting Pipe V1.0.1.zip
+Size: 2344
+X-SMWC-ID: 42313
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42313/Filter%20Items%20When%20Exiting%20Pipe%20V1.0.1.zip
+Description: Filter Items When Exiting Pipe
 
 Package: uberasm-graphical-air-meter-v2-0
 Version: smwc-39678-1770563680
@@ -3765,18 +3861,6 @@ X-SMWC-ID: 41073
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41073/onetimeflower.zip
 Description: One Time Flower
-
-Package: uberasm-pause-on-death-v1
-Version: smwc-40878-1761503420
-Section: uberasm
-Architecture: smw
-Maintainer: dtothefourth, yoshifanatic
-Filename: pool/uberasm/40878/DeathPauseV1_1.zip
-Size: 594
-X-SMWC-ID: 40878
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40878/DeathPauseV1_1.zip
-Description: Pause on Death V1.1
 
 Package: uberasm-pay-coins-to-jump-v1
 Version: smwc-40972-1762548866

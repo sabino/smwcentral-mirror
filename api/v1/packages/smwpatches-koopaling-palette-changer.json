@@ -1,0 +1,42 @@
+{
+  "name": "smwpatches-koopaling-palette-changer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42405,
+  "title": "Koopaling Palette Changer",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "iggy koopa",
+    "koopalings",
+    "larry koopa",
+    "lemmy koopa",
+    "lorom",
+    "luwdig von koopa",
+    "morton koopa jr",
+    "palette",
+    "roy koopa",
+    "sa-1",
+    "wendy o koopa"
+  ],
+  "description": "This patch allows the user to easily change the palette all seven Koopalings use.<br>\r\n<br>\r\nCredit is not required.",
+  "latest_version": "V1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42405,
+      "title": "Koopaling Palette Changer",
+      "version": "V1.1",
+      "upstream_time": 1782747899,
+      "download_url": "https://dl.smwcentral.net/42405/SMW%20Koopaling%20Palette%20Changer%20Patch%20V1.1.zip",
+      "filename": "SMW Koopaling Palette Changer Patch V1.1.zip",
+      "size": 2407,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -97,32 +97,30 @@
     ]
   },
   {
-    "name": "smwgraphics-beach-desert",
+    "name": "smwgraphics-bomberman-ii-intro-cutscene",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42055,
-    "title": "Beach / Desert",
+    "upstream_id": 41854,
+    "title": "Bomberman II - Intro Cutscene",
     "authors": [
-      "Skewer"
+      "Anorakun"
     ],
     "tags": [
-      "beach",
-      "desert",
-      "redrawn",
-      "ruins"
+      "city",
+      "retro"
     ],
-    "description": "Originally made in 2017 for one of SF-The Dark Warrior's SMW hack projects, now released at the request of those who want to use it in their desert/beach levels. Best used with Redrawn-styled assets.<br>\r\n<br>\r\nChangelog<br>\r\n1.1 - Addressed concerns with the <a href=\"https://smwc.me/1663848\">initial removal log</a> (Fixed FG Map16, simplified Palette options to make it less confusing/redundant)",
-    "latest_version": "smwc-42055-1774718126",
+    "description": "The city seen in the opening sequence of Bomberman II for the NES.  <br>\r\n<br>\r\nIncludes a church cross that was removed from the international releases, due to Nintendo's censorship back then. Thanks to <span class=\"un-outer\" title=\"NES Boy216\"><a href=\"/?p=profile&amp;id=55033\" style=\"color: var(--user-color-2);\" class=\"un\">NES Boy216</a></span> for telling me about this.<br>\r\n<br>\r\nThere's four palettes included:<br>\r\n- FCEUX colors;<br>\r\n- FCEUX, but with a lighter outline;<br>\r\n- NES colors;<br>\r\n- NES colors but with a lighter outline;<br>\r\n<br>\r\nPick the one you like the most. Personally, I think that the ones with lighter outlines work the best with SMW style.<br>\r\n<br>\r\nThe colors and outline are easy enough to edit.  If you want to remove the cross, for some reason, delete the last two 8x8 tiles in the provided bin file.<br>\r\n<br>\r\nA good fit for retro themed town levels.",
+    "latest_version": "smwc-41854-1782790399",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42055,
-        "title": "Beach / Desert",
-        "version": "smwc-42055-1774718126",
-        "upstream_time": 1774718126,
-        "download_url": "https://dl.smwcentral.net/42055/Skewer%202017%20Beach%20Release%201.1%20RC.zip",
-        "filename": "Skewer 2017 Beach Release 1.1 RC.zip",
-        "size": 13361,
+        "upstream_id": 41854,
+        "title": "Bomberman II - Intro Cutscene",
+        "version": "smwc-41854-1782790399",
+        "upstream_time": 1782790399,
+        "download_url": "https://dl.smwcentral.net/41854/bomberman%202%20intro%20cutscene.zip",
+        "filename": "bomberman 2 intro cutscene.zip",
+        "size": 5621,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -190,6 +188,36 @@
     ]
   },
   {
+    "name": "smwgraphics-cave",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42627,
+    "title": "Cave 2026",
+    "authors": [
+      "Gamma V"
+    ],
+    "tags": [
+      "cave"
+    ],
+    "description": "This is meant to be another installment in my 2025 FG series, but it's 2026.  Either way, it's a cave tileset with crystals, wood/mine elements, hanging lanterns, and cobwebs.",
+    "latest_version": "smwc-42627-1783020633",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42627,
+        "title": "Cave 2026",
+        "version": "smwc-42627-1783020633",
+        "upstream_time": 1783020633,
+        "download_url": "https://dl.smwcentral.net/42627/Cave2026.zip",
+        "filename": "Cave2026.zip",
+        "size": 6398,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-cave-story-outer-wall",
     "aliases": [],
     "section": "smwgraphics",
@@ -203,7 +231,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -351,38 +379,6 @@
         "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
         "filename": "fantasyzonegearwoods.zip",
         "size": 5927,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-leap-day-snow-land",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42115,
-    "title": "Leap Day - Snow Land",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "patch needed",
-      "snow"
-    ],
-    "description": "The Snow Land BG from Nitrome's Leap Day, I had to resize the layer 2 BG because its resolution wasn't a multiple of 8 or 16, plus, sorry if I didn't include the other parts of this BG, you can use this BG for snowy stages, obviously, both vertical and horizontal, if you want to use this BG for horizontal stages, set layer 3's X scrolling to \"Variable 2\" and its Y scrolling to \"None\"",
-    "latest_version": "smwc-42115-1775246181",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42115,
-        "title": "Leap Day - Snow Land",
-        "version": "smwc-42115-1775246181",
-        "upstream_time": 1775246181,
-        "download_url": "https://dl.smwcentral.net/42115/leapdaysnowbg.zip",
-        "filename": "leapdaysnowbg.zip",
-        "size": 5665,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -764,37 +760,6 @@
     ]
   },
   {
-    "name": "smwgraphics-redrawn-styled-reznor-family",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 40576,
-    "title": "Redrawn Styled Reznor Family",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "baby reznor",
-      "reznor"
-    ],
-    "description": "Redrawn-styled graphics for the whole Reznor family, meant to resemble the dino's redesign from New Super Mario Bros 2. This pack includes:<br>\r\n* Graphics for SMW Vanilla Reznor + the platform they're in.<br>\r\n* Graphics for Koopster's <a href=\"https://smwc.me/s/40567\">Baby Reznor custom sprite</a>.<br>\r\n* A custom Sprite Palette 2, meant to be used with the family.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-40576-1774979153",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 40576,
-        "title": "Redrawn Styled Reznor Family",
-        "version": "smwc-40576-1774979153",
-        "upstream_time": 1774979153,
-        "download_url": "https://dl.smwcentral.net/40576/Redrawn%20NSMB2%20Styled%20Reznor%20Family.zip",
-        "filename": "Redrawn NSMB2 Styled Reznor Family.zip",
-        "size": 5576,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-redrawn-styled-rideable-balloon",
     "aliases": [],
     "section": "smwgraphics",
@@ -1095,31 +1060,18 @@
     "name": "smwgraphics-super-mario-all-stars-super-mario-bros",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42045,
-    "title": "Super Mario All-Stars: Super Mario Bros. 3 - Desert",
+    "upstream_id": 42044,
+    "title": "Super Mario All-Stars: Super Mario Bros. 3 - Castle",
     "authors": [
       "Natsuz2"
     ],
     "tags": [
-      "castle",
-      "desert"
+      "castle"
     ],
     "description": "I found this background in the first castle of SMAS 3 and decided to put it next to its layer 3. They are available here.<br>\r\nI also put the animation of the lamps above the background.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=30076\">The foreground can be found here!</a>",
-    "latest_version": "smwc-42045-1774718448",
+    "latest_version": "smwc-42044-1777156058",
     "install_kind": "asset_only",
     "versions": [
-      {
-        "upstream_id": 42045,
-        "title": "Super Mario All-Stars: Super Mario Bros. 3 - Desert",
-        "version": "smwc-42045-1774718448",
-        "upstream_time": 1774718448,
-        "download_url": "https://dl.smwcentral.net/42045/SMAS3%20Desert.zip",
-        "filename": "SMAS3 Desert.zip",
-        "size": 3452,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      },
       {
         "upstream_id": 42044,
         "title": "Super Mario All-Stars: Super Mario Bros. 3 - Castle",
@@ -1128,6 +1080,37 @@
         "download_url": "https://dl.smwcentral.net/42044/SMAS3%20Castle.zip",
         "filename": "SMAS3 Castle.zip",
         "size": 5289,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42601,
+    "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+    "authors": [
+      "MaltaRCX"
+    ],
+    "tags": [
+      "male",
+      "patch needed"
+    ],
+    "description": "Mario and Luigi from the SNES version of Super Mario Bros. Fully adapted to the SMW moveset including cutscene poses, Yoshi, etc.<br>\r\n<br>\r\nIMPORTANT: You will need the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 Player Graphics Patch</a> to use this.<br>\r\n<br>\r\nIncludes:<br>\r\n- Mario.<br>\r\n- Luigi.<br>\r\n- Shared palettes.<br>\r\n- Beta version of Mario + Shared palettes for Beta Mario and Luigi.<br>\r\n- Alternate graphics for Luigi using SMAS poses.<br>\r\n- A file containing various extra poses for Mario and Luigi for use with other patches or custom ASM.",
+    "latest_version": "smwc-42601-1782687074",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42601,
+        "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+        "version": "smwc-42601-1782687074",
+        "upstream_time": 1782687074,
+        "download_url": "https://dl.smwcentral.net/42601/SMAS%20-%20SMB%20-%20Mario%20%26%20Luigi.zip",
+        "filename": "SMAS - SMB - Mario %26 Luigi.zip",
+        "size": 69799,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1424,6 +1407,38 @@
         "download_url": "https://dl.smwcentral.net/42413/The%20Pigeon.zip",
         "filename": "The Pigeon.zip",
         "size": 26832,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-the-wizard-of-oz-snes-crystal-cave",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 41718,
+    "title": "The Wizard of Oz (SNES) - Crystal Cave",
+    "authors": [
+      "Roberto zampari"
+    ],
+    "tags": [
+      "cave",
+      "ice",
+      "texture"
+    ],
+    "description": "<span style=\"font-size: 16pt;\"><b>C3 WINTER 2026 - SISTER EDITION:</b></span><br>\r\n<br>\r\nThe \"Crystal Cave\" from <b><u>The Wizard of Oz</u></b> Super Nintendo game.<br>\r\nWhat do you think about this?",
+    "latest_version": "smwc-41718-1782789558",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 41718,
+        "title": "The Wizard of Oz (SNES) - Crystal Cave",
+        "version": "smwc-41718-1782789558",
+        "upstream_time": 1782789558,
+        "download_url": "https://dl.smwcentral.net/41718/wizardoz_crystalcave.zip",
+        "filename": "wizardoz_crystalcave.zip",
+        "size": 3695,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

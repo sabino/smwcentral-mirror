@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-dry-bones-and-bony-beetle-suboffscreen-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42569,
+  "title": "Dry Bones and Bony Beetle SubOffScreen Fix",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Fixes an oversight that caused Dry Bones and Bony Beetle to not despawn offscreen if they're in their crumbled state, until they revive. This is because such subroutine is only called in their \"normal\" state.",
+  "latest_version": "V1.0.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42569,
+      "title": "Dry Bones and Bony Beetle SubOffScreen Fix",
+      "version": "V1.0.1",
+      "upstream_time": 1782681050,
+      "download_url": "https://dl.smwcentral.net/42569/DryBonesBonyBeetleOffScrnFix.zip",
+      "filename": "DryBonesBonyBeetleOffScrnFix.zip",
+      "size": 1862,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

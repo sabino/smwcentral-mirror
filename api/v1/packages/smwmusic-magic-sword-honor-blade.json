@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-magic-sword-honor-blade",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41880,
+  "title": "Magic Sword - Honor Blade",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "upbeat"
+  ],
+  "description": "One of the many tower floors from Magic Sword.",
+  "latest_version": "smwc-41880-1782838584",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41880,
+      "title": "Magic Sword - Honor Blade",
+      "version": "smwc-41880-1782838584",
+      "upstream_time": 1782838584,
+      "download_url": "https://dl.smwcentral.net/41880/Magic%20Sword%20-%20Honor%20Blade.zip",
+      "filename": "Magic Sword - Honor Blade.zip",
+      "size": 65693,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

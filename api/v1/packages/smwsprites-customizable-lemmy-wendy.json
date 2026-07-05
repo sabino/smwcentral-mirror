@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-customizable-lemmy-wendy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42636,
+  "title": "Customizable Lemmy/Wendy",
+  "authors": [
+    "Fernap"
+  ],
+  "tags": [
+    "boss",
+    "koopaling",
+    "lemmy",
+    "lorom",
+    "sa-1",
+    "wendy"
+  ],
+  "description": "A customizable Lemmy/Wendy boss based on the disassembly by yoshicookiezeus.  Features include:<br>\r\n<br>\r\n- Set the number of hits to kill the boss<br>\r\n- Very flexible method of giving spawn positions and patterns for the boss and their dummies (can be used in levels larger than one screen)<br>\r\n- Support for autoscroll fights, including manual tweaking of cycle timings<br>\r\n- Upside down spawns<br>\r\n- Flexible interaction behavior between the boss/dummies and Mario/carriable sprites/fireballs<br>\r\n- Support for custom graphics<br>\r\n- And more (see the readme and config file for a full list)<br>\r\n",
+  "latest_version": "1.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42636,
+      "title": "Customizable Lemmy/Wendy",
+      "version": "1.1",
+      "upstream_time": 1783172277,
+      "download_url": "https://dl.smwcentral.net/42636/CustomLemmyWendy1.1.zip",
+      "filename": "CustomLemmyWendy1.1.zip",
+      "size": 23135,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

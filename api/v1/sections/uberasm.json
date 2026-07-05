@@ -70,45 +70,6 @@
     ]
   },
   {
-    "name": "uberasm-airjump-with-jump-counter",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40919,
-    "title": "Airjump with Jump Counter",
-    "authors": [
-      "HammerBrother",
-      "RussianMan"
-    ],
-    "tags": [
-      "airjump",
-      "airspin",
-      "counter",
-      "jump",
-      "lorom",
-      "sa-1",
-      "spinjump"
-    ],
-    "description": "This is <span class=\"un-outer\" title=\"HammerBrother\"><a href=\"/?p=profile&amp;id=18802\" style=\"color: var(--user-color-1);\" class=\"un\">HammerBrother</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14759\">Airjump</a> uberASM code, but with a jump counter attached to the player that can count up to 9, or count down to 0, or just show infinity.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"1UPdudes\"><span title=\"1UPdudes donated $8.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=6549\" style=\"color: var(--user-color-2);\" class=\"un\">1UPdudes</a></span>.",
-    "latest_version": "smwc-40919-1761943914",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40919,
-        "title": "Airjump with Jump Counter",
-        "version": "smwc-40919-1761943914",
-        "upstream_time": 1761943914,
-        "download_url": "https://dl.smwcentral.net/40919/Airjumps%2BJump%20Counter_asar2.zip",
-        "filename": "Airjumps+Jump Counter_asar2.zip",
-        "size": 2977,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-always-wall-run",
     "aliases": [],
     "section": "uberasm",
@@ -180,6 +141,40 @@
     ]
   },
   {
+    "name": "uberasm-baby-yoshi-disappears-after-eating-too-much",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42641,
+    "title": "Baby Yoshi Disappears After Eating Too Much",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "baby yoshi",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42641,
+        "title": "Baby Yoshi Disappears After Eating Too Much",
+        "version": "V1.1",
+        "upstream_time": 1783188562,
+        "download_url": "https://dl.smwcentral.net/42641/MaxBabyYoshiEatsV1.1.zip",
+        "filename": "MaxBabyYoshiEatsV1.1.zip",
+        "size": 2059,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-basic-numerical-air-meter-v1",
     "aliases": [],
     "section": "uberasm",
@@ -211,6 +206,41 @@
         "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
         "filename": "AirMeter.zip",
         "size": 980,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-configurable-amount-of-baby-yoshi-eats",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42635,
+    "title": "Configurable Amount of Baby Yoshi Eats",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "baby yoshi",
+      "lorom",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "This simple code will change the required amount of things Baby Yoshi has to eat to grow up for the level you put it in (or for all levels, if used in gamemode 14). Note that powerups will still make him grow immediately, and \"double eats\" still apply (if he eats 2 things in quick succession, it will count as 3).",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42635,
+        "title": "Configurable Amount of Baby Yoshi Eats",
+        "version": "V1.1",
+        "upstream_time": 1783117090,
+        "download_url": "https://dl.smwcentral.net/42635/BabyYoshiEatsV1.1.zip",
+        "filename": "BabyYoshiEatsV1.1.zip",
+        "size": 1191,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -317,40 +347,6 @@
         "download_url": "https://dl.smwcentral.net/41017/Counterbreak_Asar2.zip",
         "filename": "Counterbreak_Asar2.zip",
         "size": 546,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-credits-utilities",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40912,
-    "title": "Credits Utilities",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "credits",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This UberASM provides some useful (optional) functions for when the player reaches the credits (which can be either the vanilla credits cutscene, or a credits sublevel they're teleported to or whatever):<br>\r\n- Mark the final level as beaten and increase the exits count.<br>\r\n- Run a (silent) event that will show as already run next time the OW is loaded (post-credits stuff?).<br>\r\n- Open a direction on the OW from the current level (probably best used in conjunction with the silent event).<br>\r\n- Change the current player's OW position (teleport back to the start of the game, or to a new map, etc.)<br>\r\n- Save the game.<br>\r\n<br>\r\nSee the ASM file for more info.",
-    "latest_version": "smwc-40912-1761864643",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40912,
-        "title": "Credits Utilities",
-        "version": "smwc-40912-1761864643",
-        "upstream_time": 1761864643,
-        "download_url": "https://dl.smwcentral.net/40912/credits_stuff_asar2.zip",
-        "filename": "credits_stuff_asar2.zip",
-        "size": 1436,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -563,6 +559,39 @@
         "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
         "filename": "lights_timer asar2.zip",
         "size": 1920,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-filter-items-when-exiting-pipe",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42313,
+    "title": "Filter Items When Exiting Pipe",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This resource allows you to disable bringing any item you carry through a pipe while keeping the pipe animation.<br>\r\n<br>\r\nThere are two variants included in here:<br>\r\n<ul><li><div class=\"code inline filter-noemote filter-nobr\"><pre>filter_item_pipe_total.asm</pre></div> will erase <i>any</i> carried item you bring in the level you insert this at.</li>\n<li><div class=\"code inline filter-noemote filter-nobr\"><pre>filer_item_pipe_conditional.asm</pre></div> will erase carried items <i>depending</i> on the value of a secondary exit. Useful when you have many pipes in one level and want to filter items from some of them only.</li></ul>",
+    "latest_version": "V1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42313,
+        "title": "Filter Items When Exiting Pipe",
+        "version": "V1.0.1",
+        "upstream_time": 1782655878,
+        "download_url": "https://dl.smwcentral.net/42313/Filter%20Items%20When%20Exiting%20Pipe%20V1.0.1.zip",
+        "filename": "Filter Items When Exiting Pipe V1.0.1.zip",
+        "size": 2344,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1008,41 +1037,6 @@
     ]
   },
   {
-    "name": "uberasm-pause-on-death-v1",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40878,
-    "title": "Pause on Death V1.1",
-    "authors": [
-      "dtothefourth",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "death",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "Pause on Death - Freezes the game in place upon death before starting the death animation for a configurable amount of time, perhaps giving the player a chance to see what killed them in a hectic level.<br>\r\n<br>\r\nApply to gamemode 14 to make it universal or instead just apply it to specific level numbers if you only want it on certain levels.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Made use of UberASMTool 2.0's end label to make this not need to run during V-Blank.<br>\r\n- Removed the gamemode version as the above change allows you to insert the same file as either level or gamemode ASM.<br>\r\n- Fixed an oversight where you could press select during the pause to exit the level if you've already beaten it.<br>\r\n- Made a few optimizations that saved 10 bytes overall.",
-    "latest_version": "smwc-40878-1761503420",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40878,
-        "title": "Pause on Death V1.1",
-        "version": "smwc-40878-1761503420",
-        "upstream_time": 1761503420,
-        "download_url": "https://dl.smwcentral.net/40878/DeathPauseV1_1.zip",
-        "filename": "DeathPauseV1_1.zip",
-        "size": 594,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-pay-coins-to-jump-v1",
     "aliases": [],
     "section": "uberasm",
@@ -1240,7 +1234,7 @@
       "sa-1",
       "smb2"
     ],
-    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un\">LinkstormZ</a></span>.",
     "latest_version": "smwc-42483-1782085948",
     "install_kind": "uber_asm",
     "versions": [
@@ -1710,7 +1704,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #75f2ff;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-morton-roy-ludwig-tilemap-editor",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42384,
+  "title": "Morton, Roy & Ludwig Tilemap Editor",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "lorom",
+    "ludwig",
+    "mode7",
+    "morton",
+    "roy",
+    "sa-1"
+  ],
+  "description": "This patch provides users an easy way to edit and remap Super Mario World's Morton, Roy and Ludwig's tilemap per pose, a troublesome endeavor normally due to theirs being rendered in Mode 7.<br>\r\n<br>\r\nIt also comes with two extra options that can be toggled on if the user wishes so:<br>\r\n1. The means to repurpose one of Ludwig's unused poses into a potential fourth shell pose.<br>\r\n2. An optional hijack that makes Morton & Roy switch poses when landing on the ground for their earthquake attack (requires freespace!).<br>\r\n<br>\r\nCredit's not necessary, but very much appreciated.",
+  "latest_version": "1.11",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42384,
+      "title": "Morton, Roy & Ludwig Tilemap Editor",
+      "version": "1.11",
+      "upstream_time": 1782772581,
+      "download_url": "https://dl.smwcentral.net/42384/MortonRoyLudwigTilemap%20Editor%201.11.zip",
+      "filename": "MortonRoyLudwigTilemap Editor 1.11.zip",
+      "size": 82105,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

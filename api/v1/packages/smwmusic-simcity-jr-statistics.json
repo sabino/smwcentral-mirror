@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-simcity-jr-statistics",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41883,
+  "title": "SimCity Jr. - Statistics",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "menu",
+    "mysterious",
+    "town",
+    "urban"
+  ],
+  "description": "Town statistical menus from SimCity Jr.'s SFC port.",
+  "latest_version": "smwc-41883-1782928189",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41883,
+      "title": "SimCity Jr. - Statistics",
+      "version": "smwc-41883-1782928189",
+      "upstream_time": 1782928189,
+      "download_url": "https://dl.smwcentral.net/41883/SimCity%20Jr.%20-%20Statistics.zip",
+      "filename": "SimCity Jr. - Statistics.zip",
+      "size": 57163,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

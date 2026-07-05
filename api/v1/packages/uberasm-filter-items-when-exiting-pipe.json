@@ -1,0 +1,33 @@
+{
+  "name": "uberasm-filter-items-when-exiting-pipe",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42313,
+  "title": "Filter Items When Exiting Pipe",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This resource allows you to disable bringing any item you carry through a pipe while keeping the pipe animation.<br>\r\n<br>\r\nThere are two variants included in here:<br>\r\n<ul><li><div class=\"code inline filter-noemote filter-nobr\"><pre>filter_item_pipe_total.asm</pre></div> will erase <i>any</i> carried item you bring in the level you insert this at.</li>\n<li><div class=\"code inline filter-noemote filter-nobr\"><pre>filer_item_pipe_conditional.asm</pre></div> will erase carried items <i>depending</i> on the value of a secondary exit. Useful when you have many pipes in one level and want to filter items from some of them only.</li></ul>",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42313,
+      "title": "Filter Items When Exiting Pipe",
+      "version": "V1.0.1",
+      "upstream_time": 1782655878,
+      "download_url": "https://dl.smwcentral.net/42313/Filter%20Items%20When%20Exiting%20Pipe%20V1.0.1.zip",
+      "filename": "Filter Items When Exiting Pipe V1.0.1.zip",
+      "size": 2344,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}
