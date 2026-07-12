@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-background-fireworks",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42057,
+  "title": "Background Fireworks",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A version of the fireworks seen in the credits that can be used as vanity in a regular level. They won't make the player invisible and will spawn behind the foreground. You can disable the sound effects and either disable or customise the background color flashing in the .asm file.<br>\r\n<br>\r\nDespite being a normal sprite, this works like a generator by spawning fireworks regularly. If the extra bit is set, this acts as a fireworks disabler instead. Place either version at the <b>very start</b> of the level to ensure it takes a low sprite slot, or it may cause other sprites to become invisible! Certain cluster sprites, such as Sumo Brother flames and Boo ceilings, are prone to having issues with this, so avoid them. Other than that, this should be (mostly) safe to use.<br>\r\n<br>\r\nIf not using SA-1, <a href=\"https://smwc.me/s/40702\">No More Sprite Tile Limits</a> is an absolute requirement.",
+  "latest_version": "smwc-42057-1783430550",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42057,
+      "title": "Background Fireworks",
+      "version": "smwc-42057-1783430550",
+      "upstream_time": 1783430550,
+      "download_url": "https://dl.smwcentral.net/42057/fireworks.zip",
+      "filename": "fireworks.zip",
+      "size": 10221,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

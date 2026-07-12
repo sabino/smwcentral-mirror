@@ -550,7 +550,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -907,7 +907,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -1259,7 +1259,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -2191,7 +2191,7 @@
       "night",
       "sky"
     ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
+    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
     "latest_version": "smwc-40927-1776545384",
     "install_kind": "asset_only",
     "versions": [
@@ -3500,43 +3500,6 @@
     ]
   },
   {
-    "name": "smwmusic-back-to-saturn-x-episode",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41308,
-    "title": "Back to Saturn X Episode 1: Get Out Of My Stations - Womp",
-    "authors": [
-      "Maxodex"
-    ],
-    "tags": [
-      "boss",
-      "chaotic",
-      "dark",
-      "final",
-      "industrial",
-      "upbeat"
-    ],
-    "description": "A frenetic song from a doom wad Back To Saturn X Episode 1 that goes well with very intensive action-packed levels and fights.",
-    "latest_version": "smwc-41308-1778515321",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41308,
-        "title": "Back to Saturn X Episode 1: Get Out Of My Stations - Womp",
-        "version": "smwc-41308-1778515321",
-        "upstream_time": 1778515321,
-        "download_url": "https://dl.smwcentral.net/41308/BTSX_E1%20-%20Womp.zip",
-        "filename": "BTSX_E1 - Womp.zip",
-        "size": 63398,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-bs-busters-digital-magazine-magazine-viewing",
     "aliases": [],
     "section": "smwmusic",
@@ -3737,6 +3700,39 @@
         "download_url": "https://dl.smwcentral.net/42117/F-Zero%20-%20White%20Land%20II.zip",
         "filename": "F-Zero - White Land II.zip",
         "size": 55475,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-final-fantasy-iv-prologue",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42125,
+    "title": "Final Fantasy IV - Prologue",
+    "authors": [
+      "scratch"
+    ],
+    "tags": [
+      "cutscene",
+      "title"
+    ],
+    "description": "It's used on Kitiku Mario (unsampled tho) and Super Wakana Land (it has a Japanese voice tho)<br>\r\nFinal Fantasy Main theme",
+    "latest_version": "smwc-42125-1783611984",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42125,
+        "title": "Final Fantasy IV - Prologue",
+        "version": "smwc-42125-1783611984",
+        "upstream_time": 1783611984,
+        "download_url": "https://dl.smwcentral.net/42125/4main.zip",
+        "filename": "4main.zip",
+        "size": 68663,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4041,31 +4037,33 @@
     ]
   },
   {
-    "name": "smwmusic-kirby-triple-deluxe-sullied-grace",
+    "name": "smwmusic-kirby-s-star-stacker-kawasaki",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41473,
-    "title": "Kirby Triple Deluxe - Sullied Grace",
+    "upstream_id": 42118,
+    "title": "Kirby's Star Stacker - Kawasaki",
     "authors": [
-      "Isikoro"
+      "Fullcannon"
     ],
     "tags": [
       "boss",
-      "final",
-      "tense"
+      "grassland",
+      "ice",
+      "snow",
+      "upbeat"
     ],
-    "description": "\"Sullied Grace\" from \"Kirby Triple Deluxe\"<br>\r\n<br>\r\nSerious BGM rare for the Kirby series<br>\r\nYou can set the length of the intro.<br>\r\nThere is no laughter.<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=TfcPV76iBPw\" rel=\"nofollow\">Original ver</a><br>\r\n<a href=\"https://www.youtube.com/watch?v=kegeUa3hns4\" rel=\"nofollow\">Pinci's ver</a><br>\r\n<br>\r\n",
-    "latest_version": "smwc-41473-1778515635",
+    "description": "Stage 5 theme of stacking against Chef Kawasaki in Kirby's Star Stacker.",
+    "latest_version": "smwc-42118-1783611913",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41473,
-        "title": "Kirby Triple Deluxe - Sullied Grace",
-        "version": "smwc-41473-1778515635",
-        "upstream_time": 1778515635,
-        "download_url": "https://dl.smwcentral.net/41473/Kirby%20Triple%20Deluxe%20-%20Sullied%20Grace.zip",
-        "filename": "Kirby Triple Deluxe - Sullied Grace.zip",
-        "size": 109784,
+        "upstream_id": 42118,
+        "title": "Kirby's Star Stacker - Kawasaki",
+        "version": "smwc-42118-1783611913",
+        "upstream_time": 1783611913,
+        "download_url": "https://dl.smwcentral.net/42118/Kirby%27s%20Star%20Stacker%20-%20Kawasaki.zip",
+        "filename": "Kirby%27s Star Stacker - Kawasaki.zip",
+        "size": 52548,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4178,6 +4176,40 @@
     ]
   },
   {
+    "name": "smwmusic-mecarobot-golf-playing-golf-exciting",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42119,
+    "title": "Mecarobot Golf - Playing Golf (Exciting)",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "grassland",
+      "sea"
+    ],
+    "description": "The exciting main in-game golfing tune heard throughout Mecarobot Golf.",
+    "latest_version": "smwc-42119-1783611938",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42119,
+        "title": "Mecarobot Golf - Playing Golf (Exciting)",
+        "version": "smwc-42119-1783611938",
+        "upstream_time": 1783611938,
+        "download_url": "https://dl.smwcentral.net/42119/Mecarobot%20Golf%20-%20Playing%20Golf%20%28Exciting%29.zip",
+        "filename": "Mecarobot Golf - Playing Golf (Exciting).zip",
+        "size": 41361,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-mega-man",
     "aliases": [],
     "section": "smwmusic",
@@ -4240,40 +4272,6 @@
         "download_url": "https://dl.smwcentral.net/41549/Memento%20Mori%20II%20-%20Organic%20Gods.zip",
         "filename": "Memento Mori II - Organic Gods.zip",
         "size": 38215,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-metal-slader-glory-director-s-cut-password",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41873,
-    "title": "Metal Slader Glory: Director's Cut - Password",
-    "authors": [
-      "h.carrell"
-    ],
-    "tags": [
-      "ambient",
-      "calm",
-      "overworld"
-    ],
-    "description": "The calm Password theme from Metal Slader Glory: Director's Cut.<br>\r\n<br>\r\nAn attempt at earporting, and with an easy song.<br>\r\n<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">tfw you share your birthday with the final SNES release</div></div>",
-    "latest_version": "smwc-41873-1778637802",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41873,
-        "title": "Metal Slader Glory: Director's Cut - Password",
-        "version": "smwc-41873-1778637802",
-        "upstream_time": 1778637802,
-        "download_url": "https://dl.smwcentral.net/41873/MSGDC%20Password.zip",
-        "filename": "MSGDC Password.zip",
-        "size": 36532,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -7033,6 +7031,40 @@
     ]
   },
   {
+    "name": "smwsprites-background-fireworks",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42057,
+    "title": "Background Fireworks",
+    "authors": [
+      "Koopster"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "sa-1"
+    ],
+    "description": "A version of the fireworks seen in the credits that can be used as vanity in a regular level. They won't make the player invisible and will spawn behind the foreground. You can disable the sound effects and either disable or customise the background color flashing in the .asm file.<br>\r\n<br>\r\nDespite being a normal sprite, this works like a generator by spawning fireworks regularly. If the extra bit is set, this acts as a fireworks disabler instead. Place either version at the <b>very start</b> of the level to ensure it takes a low sprite slot, or it may cause other sprites to become invisible! Certain cluster sprites, such as Sumo Brother flames and Boo ceilings, are prone to having issues with this, so avoid them. Other than that, this should be (mostly) safe to use.<br>\r\n<br>\r\nIf not using SA-1, <a href=\"https://smwc.me/s/40702\">No More Sprite Tile Limits</a> is an absolute requirement.",
+    "latest_version": "smwc-42057-1783430550",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42057,
+        "title": "Background Fireworks",
+        "version": "smwc-42057-1783430550",
+        "upstream_time": 1783430550,
+        "download_url": "https://dl.smwcentral.net/42057/fireworks.zip",
+        "filename": "fireworks.zip",
+        "size": 10221,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-baron-von-zeppelin",
     "aliases": [],
     "section": "smwsprites",
@@ -7793,42 +7825,6 @@
         "download_url": "https://dl.smwcentral.net/41608/Flying%20Grinder.zip",
         "filename": "Flying Grinder.zip",
         "size": 3271,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-flying-key",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41537,
-    "title": "Flying Key",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "flying",
-      "key",
-      "lorom",
-      "pacifist",
-      "sa-1"
-    ],
-    "description": "It's a flying key that resembles SMW's key unfinished flying variant, that can be achieved with glitches. It flies in same pattern as unused red coin or golden 1-up sprites, and it can be picked up from above.<br>\r\n<br>\r\nCredit is optional.",
-    "latest_version": "smwc-41537-1770299464",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41537,
-        "title": "Flying Key",
-        "version": "smwc-41537-1770299464",
-        "upstream_time": 1770299464,
-        "download_url": "https://dl.smwcentral.net/41537/When%20Keys%20Fly....zip",
-        "filename": "When Keys Fly....zip",
-        "size": 3391,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -11937,7 +11933,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #00ffff;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

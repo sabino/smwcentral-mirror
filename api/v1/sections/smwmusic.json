@@ -35,43 +35,6 @@
     ]
   },
   {
-    "name": "smwmusic-back-to-saturn-x-episode",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41308,
-    "title": "Back to Saturn X Episode 1: Get Out Of My Stations - Womp",
-    "authors": [
-      "Maxodex"
-    ],
-    "tags": [
-      "boss",
-      "chaotic",
-      "dark",
-      "final",
-      "industrial",
-      "upbeat"
-    ],
-    "description": "A frenetic song from a doom wad Back To Saturn X Episode 1 that goes well with very intensive action-packed levels and fights.",
-    "latest_version": "smwc-41308-1778515321",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41308,
-        "title": "Back to Saturn X Episode 1: Get Out Of My Stations - Womp",
-        "version": "smwc-41308-1778515321",
-        "upstream_time": 1778515321,
-        "download_url": "https://dl.smwcentral.net/41308/BTSX_E1%20-%20Womp.zip",
-        "filename": "BTSX_E1 - Womp.zip",
-        "size": 63398,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-bs-busters-digital-magazine-magazine-viewing",
     "aliases": [],
     "section": "smwmusic",
@@ -272,6 +235,39 @@
         "download_url": "https://dl.smwcentral.net/42117/F-Zero%20-%20White%20Land%20II.zip",
         "filename": "F-Zero - White Land II.zip",
         "size": 55475,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-final-fantasy-iv-prologue",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42125,
+    "title": "Final Fantasy IV - Prologue",
+    "authors": [
+      "scratch"
+    ],
+    "tags": [
+      "cutscene",
+      "title"
+    ],
+    "description": "It's used on Kitiku Mario (unsampled tho) and Super Wakana Land (it has a Japanese voice tho)<br>\r\nFinal Fantasy Main theme",
+    "latest_version": "smwc-42125-1783611984",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42125,
+        "title": "Final Fantasy IV - Prologue",
+        "version": "smwc-42125-1783611984",
+        "upstream_time": 1783611984,
+        "download_url": "https://dl.smwcentral.net/42125/4main.zip",
+        "filename": "4main.zip",
+        "size": 68663,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -576,31 +572,33 @@
     ]
   },
   {
-    "name": "smwmusic-kirby-triple-deluxe-sullied-grace",
+    "name": "smwmusic-kirby-s-star-stacker-kawasaki",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41473,
-    "title": "Kirby Triple Deluxe - Sullied Grace",
+    "upstream_id": 42118,
+    "title": "Kirby's Star Stacker - Kawasaki",
     "authors": [
-      "Isikoro"
+      "Fullcannon"
     ],
     "tags": [
       "boss",
-      "final",
-      "tense"
+      "grassland",
+      "ice",
+      "snow",
+      "upbeat"
     ],
-    "description": "\"Sullied Grace\" from \"Kirby Triple Deluxe\"<br>\r\n<br>\r\nSerious BGM rare for the Kirby series<br>\r\nYou can set the length of the intro.<br>\r\nThere is no laughter.<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=TfcPV76iBPw\" rel=\"nofollow\">Original ver</a><br>\r\n<a href=\"https://www.youtube.com/watch?v=kegeUa3hns4\" rel=\"nofollow\">Pinci's ver</a><br>\r\n<br>\r\n",
-    "latest_version": "smwc-41473-1778515635",
+    "description": "Stage 5 theme of stacking against Chef Kawasaki in Kirby's Star Stacker.",
+    "latest_version": "smwc-42118-1783611913",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41473,
-        "title": "Kirby Triple Deluxe - Sullied Grace",
-        "version": "smwc-41473-1778515635",
-        "upstream_time": 1778515635,
-        "download_url": "https://dl.smwcentral.net/41473/Kirby%20Triple%20Deluxe%20-%20Sullied%20Grace.zip",
-        "filename": "Kirby Triple Deluxe - Sullied Grace.zip",
-        "size": 109784,
+        "upstream_id": 42118,
+        "title": "Kirby's Star Stacker - Kawasaki",
+        "version": "smwc-42118-1783611913",
+        "upstream_time": 1783611913,
+        "download_url": "https://dl.smwcentral.net/42118/Kirby%27s%20Star%20Stacker%20-%20Kawasaki.zip",
+        "filename": "Kirby%27s Star Stacker - Kawasaki.zip",
+        "size": 52548,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -713,6 +711,40 @@
     ]
   },
   {
+    "name": "smwmusic-mecarobot-golf-playing-golf-exciting",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42119,
+    "title": "Mecarobot Golf - Playing Golf (Exciting)",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "grassland",
+      "sea"
+    ],
+    "description": "The exciting main in-game golfing tune heard throughout Mecarobot Golf.",
+    "latest_version": "smwc-42119-1783611938",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42119,
+        "title": "Mecarobot Golf - Playing Golf (Exciting)",
+        "version": "smwc-42119-1783611938",
+        "upstream_time": 1783611938,
+        "download_url": "https://dl.smwcentral.net/42119/Mecarobot%20Golf%20-%20Playing%20Golf%20%28Exciting%29.zip",
+        "filename": "Mecarobot Golf - Playing Golf (Exciting).zip",
+        "size": 41361,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-mega-man",
     "aliases": [],
     "section": "smwmusic",
@@ -775,40 +807,6 @@
         "download_url": "https://dl.smwcentral.net/41549/Memento%20Mori%20II%20-%20Organic%20Gods.zip",
         "filename": "Memento Mori II - Organic Gods.zip",
         "size": 38215,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-metal-slader-glory-director-s-cut-password",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41873,
-    "title": "Metal Slader Glory: Director's Cut - Password",
-    "authors": [
-      "h.carrell"
-    ],
-    "tags": [
-      "ambient",
-      "calm",
-      "overworld"
-    ],
-    "description": "The calm Password theme from Metal Slader Glory: Director's Cut.<br>\r\n<br>\r\nAn attempt at earporting, and with an easy song.<br>\r\n<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">tfw you share your birthday with the final SNES release</div></div>",
-    "latest_version": "smwc-41873-1778637802",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41873,
-        "title": "Metal Slader Glory: Director's Cut - Password",
-        "version": "smwc-41873-1778637802",
-        "upstream_time": 1778637802,
-        "download_url": "https://dl.smwcentral.net/41873/MSGDC%20Password.zip",
-        "filename": "MSGDC Password.zip",
-        "size": 36532,
         "sha256": null,
         "dependencies": [
           "addmusick"
