@@ -1,5 +1,41 @@
 [
   {
+    "name": "smwmusic-actraiser-all-over-the-world",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42131,
+    "title": "ActRaiser - All over the World",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "final",
+      "ice",
+      "mountain",
+      "snow",
+      "tense"
+    ],
+    "description": "The final snowy dungeon theme from Northwall Act-2 in ActRaiser.",
+    "latest_version": "smwc-42131-1784137905",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42131,
+        "title": "ActRaiser - All over the World",
+        "version": "smwc-42131-1784137905",
+        "upstream_time": 1784137905,
+        "download_url": "https://dl.smwcentral.net/42131/ActRaiser%20-%20All%20over%20the%20World.zip",
+        "filename": "ActRaiser - All over the World.zip",
+        "size": 66998,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-aoki-densetsu-shoot-game",
     "aliases": [],
     "section": "smwmusic",
@@ -26,6 +62,43 @@
         "download_url": "https://dl.smwcentral.net/42219/Aoki%20Densetsu%20Shoot%21%20-%20Game%202.zip",
         "filename": "Aoki Densetsu Shoot%21 - Game 2.zip",
         "size": 58271,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-banshee-amiga-ending",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42175,
+    "title": "Banshee (Amiga) - Ending",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "abstract",
+      "ambient",
+      "cutscene",
+      "mysterious",
+      "sky",
+      "space"
+    ],
+    "description": "Originally ported for <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span> and I's VLDC14 entry, <a href=\"https://bin.smwcentral.net/u/48514/skyway_highway.bps&key=j0BGDKPR\" rel=\"nofollow\">Skyway Highway</a>.",
+    "latest_version": "smwc-42175-1784397548",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42175,
+        "title": "Banshee (Amiga) - Ending",
+        "version": "smwc-42175-1784397548",
+        "upstream_time": 1784397548,
+        "download_url": "https://dl.smwcentral.net/42175/Banshee%20%28Amiga%29%20-%20Ending.zip",
+        "filename": "Banshee (Amiga) - Ending.zip",
+        "size": 115181,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -69,30 +142,29 @@
     ]
   },
   {
-    "name": "smwmusic-cocoron-cocorin-s-entrance",
+    "name": "smwmusic-castlevania-dracula-x-game-over",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41812,
-    "title": "Cocoron - Cocorin's Entrance",
+    "upstream_id": 42158,
+    "title": "Castlevania: Dracula X - Game Over",
     "authors": [
-      "LuciCat"
+      "Kevin"
     ],
     "tags": [
-      "goal",
-      "retro"
+      "game over"
     ],
-    "description": "Here is a triumphant fanfare that plays whenever Cocorin appears in the final levels of the Japan-only Famicom game <i>Cocoron</i>, a Mega Man-style platformer known for allowing you to create your own character at the start of each level.<br>\r\n<br>\r\nGood for goals. In fact, in the TXT, there is text reading \"#define Goal 0\", and setting the 0 to a non-zero value will add the classic SMW goal jingle at the start, with an insert size of 0x015F.",
-    "latest_version": "smwc-41812-1780248240",
+    "description": "If used for a (local) game over theme, you can remove \"#default\" to make it load faster (if there's no sfx).<br>\r\nYou may need <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40236\">this patch</a> to extend the Game Over screen length.",
+    "latest_version": "smwc-42158-1784311252",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41812,
-        "title": "Cocoron - Cocorin's Entrance",
-        "version": "smwc-41812-1780248240",
-        "upstream_time": 1780248240,
-        "download_url": "https://dl.smwcentral.net/41812/Cocoron%20-%20Cocorin%27s%20Entrance%20%28unsampled%29.zip",
-        "filename": "Cocoron - Cocorin%27s Entrance (unsampled).zip",
-        "size": 80625,
+        "upstream_id": 42158,
+        "title": "Castlevania: Dracula X - Game Over",
+        "version": "smwc-42158-1784311252",
+        "upstream_time": 1784311252,
+        "download_url": "https://dl.smwcentral.net/42158/Dracula%20X%20-%20Game%20Over.zip",
+        "filename": "Dracula X - Game Over.zip",
+        "size": 41602,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -129,6 +201,41 @@
         "download_url": "https://dl.smwcentral.net/41794/gtr-attack.zip",
         "filename": "gtr-attack.zip",
         "size": 103106,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-d-xt-r-fluffbug",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42174,
+    "title": "d=xt=r - fluffbug",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "athletic",
+      "bonus",
+      "sky",
+      "space"
+    ],
+    "description": "Originally ported for <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span> and I's VLDC14 entry, <a href=\"https://bin.smwcentral.net/u/48514/skyway_highway.bps&key=j0BGDKPR\" rel=\"nofollow\">Skyway Highway</a>.<br>\r\n<br>\r\nOmits Thunder.",
+    "latest_version": "smwc-42174-1784312155",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42174,
+        "title": "d=xt=r - fluffbug",
+        "version": "smwc-42174-1784312155",
+        "upstream_time": 1784312155,
+        "download_url": "https://dl.smwcentral.net/42174/fluffbug.zip",
+        "filename": "fluffbug.zip",
+        "size": 101943,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -208,6 +315,39 @@
     ]
   },
   {
+    "name": "smwmusic-earthbound-halloween-hack-megalovania",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42007,
+    "title": "Earthbound Halloween Hack - Megalovania",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "boss",
+      "final"
+    ],
+    "description": "Final boss theme from Earthbound Halloween Hack, preceding the more widely popular fight from Undertale by years.",
+    "latest_version": "smwc-42007-1784052250",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42007,
+        "title": "Earthbound Halloween Hack - Megalovania",
+        "version": "smwc-42007-1784052250",
+        "upstream_time": 1784052250,
+        "download_url": "https://dl.smwcentral.net/42007/Earthbound%20Halloween%20Hack%20-%20Megalovania.zip",
+        "filename": "Earthbound Halloween Hack - Megalovania.zip",
+        "size": 57689,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-f-zero-white-land-ii",
     "aliases": [],
     "section": "smwmusic",
@@ -268,40 +408,6 @@
         "download_url": "https://dl.smwcentral.net/42125/4main.zip",
         "filename": "4main.zip",
         "size": 68663,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-final-fantasy-mystic-quest-last-castle",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41719,
-    "title": "Final Fantasy: Mystic Quest - Last Castle",
-    "authors": [
-      "Zavok"
-    ],
-    "tags": [
-      "castle",
-      "final",
-      "tense"
-    ],
-    "description": "Can fit a final castle area",
-    "latest_version": "smwc-41719-1779488686",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41719,
-        "title": "Final Fantasy: Mystic Quest - Last Castle",
-        "version": "smwc-41719-1779488686",
-        "upstream_time": 1779488686,
-        "download_url": "https://dl.smwcentral.net/41719/Last%20Castle.zip",
-        "filename": "Last Castle.zip",
-        "size": 25217,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -431,42 +537,6 @@
     ]
   },
   {
-    "name": "smwmusic-hyperzone-hyper-zone",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42058,
-    "title": "HyperZone - Hyper Zone",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "airship",
-      "chase",
-      "dark",
-      "night",
-      "space"
-    ],
-    "description": "Final area from Hyper Zone as seen in the cover, taking place in the darkest of space.",
-    "latest_version": "smwc-42058-1780151272",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42058,
-        "title": "HyperZone - Hyper Zone",
-        "version": "smwc-42058-1780151272",
-        "upstream_time": 1780151272,
-        "download_url": "https://dl.smwcentral.net/42058/HyperZone%20-%20Hyper%20Zone.zip",
-        "filename": "HyperZone - Hyper Zone.zip",
-        "size": 47406,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-james-bond-jr-snes-minicopter-mission-mmx2-style",
     "aliases": [],
     "section": "smwmusic",
@@ -495,40 +565,6 @@
         "download_url": "https://dl.smwcentral.net/42153/James%20Bond%20Jr.%20-%20Minicopter%20Mission%20%28MMX2%20Style%29.zip",
         "filename": "James Bond Jr. - Minicopter Mission (MMX2 Style).zip",
         "size": 73490,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-jb-the-super-bass-opening",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42059,
-    "title": "JB The Super Bass - Opening 2",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cutscene",
-      "sea",
-      "title"
-    ],
-    "description": "In-game music playing at the second half of the licensed introduction scenes in JB The Super Bass. Includes both the original (V1) and a custom looped version (V2) for non-cutscene purposes.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ExitmouseM\"><a href=\"/?p=profile&amp;id=73466\" style=\"color: var(--user-color-3);\" class=\"un\">ExitmouseM</a></span>.",
-    "latest_version": "smwc-42059-1780071258",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42059,
-        "title": "JB The Super Bass - Opening 2",
-        "version": "smwc-42059-1780071258",
-        "upstream_time": 1780071258,
-        "download_url": "https://dl.smwcentral.net/42059/JB%20The%20Super%20Bass%20-%20Opening%202.zip",
-        "filename": "JB The Super Bass - Opening 2.zip",
-        "size": 117646,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -668,6 +704,40 @@
         "download_url": "https://dl.smwcentral.net/42195/Lester%20the%20Unlikely%20-%20Something%20Happened.zip",
         "filename": "Lester the Unlikely - Something Happened.zip",
         "size": 56594,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-let-s-idle",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42180,
+    "title": "Let's Idle",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "town",
+      "upbeat",
+      "urban"
+    ],
+    "description": "Let's Idle.",
+    "latest_version": "smwc-42180-1784397889",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42180,
+        "title": "Let's Idle",
+        "version": "smwc-42180-1784397889",
+        "upstream_time": 1784397889,
+        "download_url": "https://dl.smwcentral.net/42180/Let%27s%20Idle.zip",
+        "filename": "Let%27s Idle.zip",
+        "size": 130867,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -878,6 +948,42 @@
         "download_url": "https://dl.smwcentral.net/42133/Pachi-Slot%20Kenkyuu%20-%20Outside%20.zip",
         "filename": "Pachi-Slot Kenkyuu - Outside .zip",
         "size": 63067,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-parodius-non-sense-fantasy-let-s-get-fever-with-gunkan-march",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42170,
+    "title": "Parodius: Non-Sense Fantasy - Let's Get Fever with Gunkan March",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "abstract",
+      "bonus",
+      "carnival",
+      "ship",
+      "upbeat"
+    ],
+    "description": "Stage 6 from Parodius Da!, featuring an arrangement of the Japanese warship Gunkan March.",
+    "latest_version": "smwc-42170-1784311639",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42170,
+        "title": "Parodius: Non-Sense Fantasy - Let's Get Fever with Gunkan March",
+        "version": "smwc-42170-1784311639",
+        "upstream_time": 1784311639,
+        "download_url": "https://dl.smwcentral.net/42170/Parodius%20Da%21%20-%20Let%27s%20Get%20Fever%20with%20Gunkan%20March.zip",
+        "filename": "Parodius Da%21 - Let%27s Get Fever with Gunkan March.zip",
+        "size": 97064,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1165,40 +1271,6 @@
     ]
   },
   {
-    "name": "smwmusic-sonic-cd-us-speed-up",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41822,
-    "title": "Sonic CD (US) - Speed Up!!",
-    "authors": [
-      "nicecarlos024"
-    ],
-    "tags": [
-      "cutscene",
-      "star",
-      "tense"
-    ],
-    "description": "The power sneakers theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star theme.",
-    "latest_version": "smwc-41822-1780248440",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41822,
-        "title": "Sonic CD (US) - Speed Up!!",
-        "version": "smwc-41822-1780248440",
-        "upstream_time": 1780248440,
-        "download_url": "https://dl.smwcentral.net/41822/Sonic%20CD%20%28US%29%20-%20Speed%20Up%21%21.zip",
-        "filename": "Sonic CD (US) - Speed Up%21%21.zip",
-        "size": 65442,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-sonic-the-hedgehog-ms-gg-special-stage",
     "aliases": [],
     "section": "smwmusic",
@@ -1235,33 +1307,32 @@
     ]
   },
   {
-    "name": "smwmusic-super-bomberman",
+    "name": "smwmusic-star-fox",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42038,
-    "title": "Super Bomberman 3 - Battleship",
+    "upstream_id": 42120,
+    "title": "Star Fox 2 - Eladard",
     "authors": [
-      "SiameseTwins"
+      "Fullcannon"
     ],
     "tags": [
+      "dark",
       "industrial",
-      "jungle",
       "space",
-      "upbeat",
-      "urban"
+      "upbeat"
     ],
-    "description": "Can be used in industrial areas and levels with machinery. Not recommended to be used with tempo sped up.",
-    "latest_version": "smwc-42038-1780247915",
+    "description": "Flying through the dark, purple industrial surface of Eladard in Star Fox 2.",
+    "latest_version": "smwc-42120-1784052976",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42038,
-        "title": "Super Bomberman 3 - Battleship",
-        "version": "smwc-42038-1780247915",
-        "upstream_time": 1780247915,
-        "download_url": "https://dl.smwcentral.net/42038/Super%20Bomberman%203%20-%20Battleship.zip",
-        "filename": "Super Bomberman 3 - Battleship.zip",
-        "size": 66396,
+        "upstream_id": 42120,
+        "title": "Star Fox 2 - Eladard",
+        "version": "smwc-42120-1784052976",
+        "upstream_time": 1784052976,
+        "download_url": "https://dl.smwcentral.net/42120/Star%20Fox%202%20-%20Eladard.zip",
+        "filename": "Star Fox 2 - Eladard.zip",
+        "size": 44676,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1271,30 +1342,33 @@
     ]
   },
   {
-    "name": "smwmusic-super-mario",
+    "name": "smwmusic-super-bombliss-vs-computer-player",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41986,
-    "title": "Super Mario 64 - Course Clear!",
+    "upstream_id": 42196,
+    "title": "Super Bombliss - Vs. Computer Player 2",
     "authors": [
-      "Segment1Zone2"
+      "Fullcannon"
     ],
     "tags": [
-      "goal",
-      "keyhole"
+      "boss",
+      "dark",
+      "ghost house",
+      "industrial",
+      "tense"
     ],
-    "description": "Course Clear! from Super Mario 64.",
-    "latest_version": "smwc-41986-1779650542",
+    "description": "VS Com Type-B battle theme from the SFC port of Super Bombliss.",
+    "latest_version": "smwc-42196-1784397398",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41986,
-        "title": "Super Mario 64 - Course Clear!",
-        "version": "smwc-41986-1779650542",
-        "upstream_time": 1779650542,
-        "download_url": "https://dl.smwcentral.net/41986/Super%20Mario%2064%20-%20Course%20Clear%21%20%5BU%5D.zip",
-        "filename": "Super Mario 64 - Course Clear%21 %5BU%5D.zip",
-        "size": 70682,
+        "upstream_id": 42196,
+        "title": "Super Bombliss - Vs. Computer Player 2",
+        "version": "smwc-42196-1784397398",
+        "upstream_time": 1784397398,
+        "download_url": "https://dl.smwcentral.net/42196/Super%20Bombliss%20-%20Vs.%20Computer%20Player%202.zip",
+        "filename": "Super Bombliss - Vs. Computer Player 2.zip",
+        "size": 61609,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1615,39 +1689,6 @@
     ]
   },
   {
-    "name": "smwmusic-watermelon-valley",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42358,
-    "title": "Watermelon Valley",
-    "authors": [
-      "EDIT3333"
-    ],
-    "tags": [
-      "atheletic",
-      "grass"
-    ],
-    "description": "a cheerful theme for different levels",
-    "latest_version": "smwc-42358-1780014215",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42358,
-        "title": "Watermelon Valley",
-        "version": "smwc-42358-1780014215",
-        "upstream_time": 1780014215,
-        "download_url": "https://dl.smwcentral.net/42358/Watermelon_Valley.zip",
-        "filename": "Watermelon_Valley.zip",
-        "size": 32261,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-ys-iv-mask-of-the-sun-field",
     "aliases": [],
     "section": "smwmusic",
@@ -1673,43 +1714,6 @@
         "download_url": "https://dl.smwcentral.net/42121/Ys%20IV%20Mask%20of%20the%20Sun%20-%20Field.zip",
         "filename": "Ys IV Mask of the Sun - Field.zip",
         "size": 72557,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-ys-v-lost-kefin-kingdom-of-sand-field-of-gale",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41816,
-    "title": "Ys V: Lost Kefin, Kingdom of Sand - Field of Gale",
-    "authors": [
-      "Samantha"
-    ],
-    "tags": [
-      "airship",
-      "athletic",
-      "fortress",
-      "grassland",
-      "mountain",
-      "sky"
-    ],
-    "description": "I've wanted to port this song since 2016 when Obama was still president and now I finally did it. Go me!",
-    "latest_version": "smwc-41816-1778760637",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41816,
-        "title": "Ys V: Lost Kefin, Kingdom of Sand - Field of Gale",
-        "version": "smwc-41816-1778760637",
-        "upstream_time": 1778760637,
-        "download_url": "https://dl.smwcentral.net/41816/Field%20of%20Gale.zip",
-        "filename": "Field of Gale.zip",
-        "size": 33825,
         "sha256": null,
         "dependencies": [
           "addmusick"

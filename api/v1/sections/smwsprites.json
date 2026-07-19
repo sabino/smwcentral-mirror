@@ -70,43 +70,6 @@
     ]
   },
   {
-    "name": "smwsprites-baron-von-zeppelin",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40198,
-    "title": "Baron Von Zeppelin",
-    "authors": [
-      "DrAnas",
-      "smkdan"
-    ],
-    "tags": [
-      "balloon",
-      "lorom",
-      "sa-1",
-      "smw2",
-      "yoshi's island"
-    ],
-    "description": "The little balloon from SMW2:YI which holds a configurable sprite. Green Needlenose is also included.<br>\r\n<br>\r\nThis sprite was part of smkdan's YI Pack 2, and was resubmitted separately after the remoderation for ease of search and to fit current standards.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: var(--user-color-2);\" class=\"un\">DrAnas</a></span> update: fixed two major oversights reported by <span class=\"un-outer\" title=\"MegaSonic1999\"><a href=\"/?p=profile&amp;id=37260\" style=\"color: var(--user-color-3);\" class=\"un\">MegaSonic1999</a></span> where the extra bit option for the Baron von Zeppelin to respawn after dropping its payload didn't actually work and running away from the Baron von Zeppelin after approaching it would permanently despawn it. Also, all previously-hardcoded sprite-related defines are now extra byte options!<br>\r\n<br>\r\n- Extra byte 1 = How close Mario should get in order to drop payload.<br>\r\n- Extra byte 2 = carried sprite is custom or normal? - 0 = normal. 1 = custom.<br>\r\n- Extra byte 3 = carried sprite number.<br>\r\n- Extra byte 4 = 16x16 tile to use for the carried sprite.<br>\r\n- Extra byte 5 = tile properties for carried sprite, YXPPCCCT format.",
-    "latest_version": "smwc-40198-1771212414",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40198,
-        "title": "Baron Von Zeppelin",
-        "version": "smwc-40198-1771212414",
-        "upstream_time": 1771212414,
-        "download_url": "https://dl.smwcentral.net/40198/YIBaron%26NeedlenoseV2.zip",
-        "filename": "YIBaron%26NeedlenoseV2.zip",
-        "size": 8658,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-better-creating-eating-block-snakes",
     "aliases": [],
     "section": "smwsprites",
@@ -255,42 +218,6 @@
     ]
   },
   {
-    "name": "smwsprites-carriable-goal-point-question-sphere",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41167,
-    "title": "Carriable Goal Point Question Sphere",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "carriable",
-      "goal",
-      "lorom",
-      "pacifist",
-      "sa-1"
-    ],
-    "description": "A goal sphere which can be carried. To trigger the goal sequence, approach it without pressing X or Y.<br>\r\n<br>\r\nWith the extra byte, the exit triggered (normal or secret 1, 2 or 3) can be selected, and the glitter can be toggled.",
-    "latest_version": "smwc-41167-1771819166",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41167,
-        "title": "Carriable Goal Point Question Sphere",
-        "version": "smwc-41167-1771819166",
-        "upstream_time": 1771819166,
-        "download_url": "https://dl.smwcentral.net/41167/carriable_goal_sphere.zip",
-        "filename": "carriable_goal_sphere.zip",
-        "size": 3756,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-carriable-reusable-p-switch-stump",
     "aliases": [],
     "section": "smwsprites",
@@ -343,7 +270,7 @@
       "sa-1",
       "swooper"
     ],
-    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
+    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42068-1774966936",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -380,7 +307,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -982,6 +909,42 @@
     ]
   },
   {
+    "name": "smwsprites-growing-vine",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42695,
+    "title": "Growing Vine",
+    "authors": [
+      "imamelia"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "plant",
+      "sa-1",
+      "vine"
+    ],
+    "description": "This is a disassembly of the growing vine.  I modified the code slightly (the graphics routine, for example, was just plain weird), but I also included the original code ripped directly from all.log.",
+    "latest_version": "1.2",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42695,
+        "title": "Growing Vine",
+        "version": "1.2",
+        "upstream_time": 1784123069,
+        "download_url": "https://dl.smwcentral.net/42695/growing%20vine%20disassembly%20v1.2.zip",
+        "filename": "growing vine disassembly v1.2.zip",
+        "size": 4757,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-homing-torpedo-ted",
     "aliases": [],
     "section": "smwsprites",
@@ -1511,6 +1474,43 @@
         "download_url": "https://dl.smwcentral.net/41922/New%20Rip%20Van%20Fish%20Disassembly.zip",
         "filename": "New Rip Van Fish Disassembly.zip",
         "size": 3828,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-smw-like-lemmy-boss",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42696,
+    "title": "SMW-Like Lemmy Boss",
+    "authors": [
+      "Major Flare"
+    ],
+    "tags": [
+      "boss",
+      "enemy",
+      "koopaling",
+      "lemmy",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "In order to offer more boss variety to our sprite section, I present you... a SMW-Like Lemmy Boss, inspired on the SMB3 version as well, coded for me to use in Mario's Enigmatic Tales.<br>\r\n<br>\r\nThis boss is simple: He walks around tossing balls at you. These balls, if jumped on, either shatter, bounce the player or plain hurt. It also can enter in danger-mode and conjure balls from the sky. When hurt, it shell-runs for a bit (for this sprite to work, block the sides of the arena with walls.)<br>\r\n<br>\r\nTo be assembled with PIXI. Please credit if used, I took some time coding this from scratch.",
+    "latest_version": "smwc-42696-1784127515",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42696,
+        "title": "SMW-Like Lemmy Boss",
+        "version": "smwc-42696-1784127515",
+        "upstream_time": 1784127515,
+        "download_url": "https://dl.smwcentral.net/42696/SMW-Like%20Lemmy.zip",
+        "filename": "SMW-Like Lemmy.zip",
+        "size": 8051,
         "sha256": null,
         "dependencies": [
           "pixi"

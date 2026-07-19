@@ -341,6 +341,39 @@
     ]
   },
   {
+    "name": "tools-bowsie-v1",
+    "aliases": [],
+    "section": "tools",
+    "upstream_id": 40308,
+    "title": "BOWSIE v1.21 - Better Overworld Sprite Insertion Engine",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "overworld",
+      "sa-1",
+      "sprite"
+    ],
+    "description": "The purpose of this tool is supersede carol's, Alcaro's and wiiqwertyuiop's old overworld sprite tool by using, by default, the system used in the 9th Vanilla Level Design Contest hack. As with PIXI, it is a command line tool, and its usage is similar. It is compatible with <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Overworld Revolution patch.<br>\r\n<br>\r\nRead the changelog for more details.",
+    "latest_version": "1.21",
+    "install_kind": "tool",
+    "versions": [
+      {
+        "upstream_id": 40308,
+        "title": "BOWSIE v1.21 - Better Overworld Sprite Insertion Engine",
+        "version": "1.21",
+        "upstream_time": 1783986319,
+        "download_url": "https://dl.smwcentral.net/40308/BOWSIE%20v1.21-static.zip",
+        "filename": "BOWSIE v1.21-static.zip",
+        "size": 448413,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "tool"
+      }
+    ]
+  },
+  {
     "name": "tools-bpp-2",
     "aliases": [],
     "section": "tools",
@@ -1253,36 +1286,6 @@
         "download_url": "https://dl.smwcentral.net/13234/M64%20Parser%200.9.zip",
         "filename": "M64 Parser 0.9.zip",
         "size": 28910,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "tool"
-      }
-    ]
-  },
-  {
-    "name": "tools-m7-map",
-    "aliases": [],
-    "section": "tools",
-    "upstream_id": 25188,
-    "title": "M7 Map",
-    "authors": [
-      "Vitor Vilela"
-    ],
-    "tags": [
-      "mode 7"
-    ],
-    "description": "Vitor's Mode 7 mapping tool, released in his Ultimate Tool Request thread from Winter 2019.<br>\r\n<br>\r\nYou can utilize this to edit tilemaps to look how you want them to look in-game, and you can also project the tilemap and preview how it looks after a matrix transformation. Lastly, with some C# knowledge, you can also create a custom projection.<br>\r\n<br>\r\nFor use, convert an image to SNES 8bpp Mode 7 using SNESGfx, with tilemap, and upload it to M7 Map using the open options. From there on, it should be simple. Easy Mode 7 Patch required if you want to use it in your hack, of course.<br>\r\n<br>\r\nHave fun using it in your Mode 7 endeavors!",
-    "latest_version": "smwc-25188-1608246126",
-    "install_kind": "tool",
-    "versions": [
-      {
-        "upstream_id": 25188,
-        "title": "M7 Map",
-        "version": "smwc-25188-1608246126",
-        "upstream_time": 1608246126,
-        "download_url": "https://dl.smwcentral.net/25188/M7Map%202019.zip",
-        "filename": "M7Map 2019.zip",
-        "size": 584268,
         "sha256": null,
         "dependencies": [],
         "install_kind": "tool"

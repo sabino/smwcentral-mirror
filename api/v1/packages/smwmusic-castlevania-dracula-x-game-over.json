@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-castlevania-dracula-x-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42158,
+  "title": "Castlevania: Dracula X - Game Over",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "game over"
+  ],
+  "description": "If used for a (local) game over theme, you can remove \"#default\" to make it load faster (if there's no sfx).<br>\r\nYou may need <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40236\">this patch</a> to extend the Game Over screen length.",
+  "latest_version": "smwc-42158-1784311252",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42158,
+      "title": "Castlevania: Dracula X - Game Over",
+      "version": "smwc-42158-1784311252",
+      "upstream_time": 1784311252,
+      "download_url": "https://dl.smwcentral.net/42158/Dracula%20X%20-%20Game%20Over.zip",
+      "filename": "Dracula X - Game Over.zip",
+      "size": 41602,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

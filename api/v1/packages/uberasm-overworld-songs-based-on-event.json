@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-overworld-songs-based-on-event",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42713,
+  "title": "Overworld Songs Based on Event",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "music",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This UberASM will make each OW submap have a different song when a certain event has been passed (it only works properly if using AddmusicK). Make sure to check out the included readme file for instructions on how to use it.",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42713,
+      "title": "Overworld Songs Based on Event",
+      "version": "V1.0.1",
+      "upstream_time": 1784404706,
+      "download_url": "https://dl.smwcentral.net/42713/OWSongWhenEventPassedV1.0.1.zip",
+      "filename": "OWSongWhenEventPassedV1.0.1.zip",
+      "size": 2516,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

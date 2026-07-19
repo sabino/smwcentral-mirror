@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-actraiser-all-over-the-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42131,
+  "title": "ActRaiser - All over the World",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "final",
+    "ice",
+    "mountain",
+    "snow",
+    "tense"
+  ],
+  "description": "The final snowy dungeon theme from Northwall Act-2 in ActRaiser.",
+  "latest_version": "smwc-42131-1784137905",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42131,
+      "title": "ActRaiser - All over the World",
+      "version": "smwc-42131-1784137905",
+      "upstream_time": 1784137905,
+      "download_url": "https://dl.smwcentral.net/42131/ActRaiser%20-%20All%20over%20the%20World.zip",
+      "filename": "ActRaiser - All over the World.zip",
+      "size": 66998,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "uberasm-reverse-controls",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42707,
+  "title": "Reverse Controls",
+  "authors": [
+    "Nowieso"
+  ],
+  "tags": [
+    "abilities",
+    "controller",
+    "controller button",
+    "lorom",
+    "mario",
+    "on-off-switch",
+    "p-switch",
+    "sa-1",
+    "star",
+    "water",
+    "yoshi"
+  ],
+  "description": "This is a very user-friendly code that lets you switch certain buttons on the controller.<br>\r\n<br>\r\nYou can switch controls based on:<br>\r\n- Nothing - always switch the controls<br>\r\n- ON/OFF Switch<br>\r\n- P-Switch <br>\r\n- Star-Power<br>\r\n- Yoshi<br>\r\n- Water<br>\r\nFeel free to submit more options!<br>\r\n<br>\r\nThis code might be useful to create a unique ghosthouse/ghost themed level.<br>\r\n<br>\r\nSet your options in the asm file!!!<br>\r\n<br>\r\nCredit is optional, just don't claim it as your own.",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42707,
+      "title": "Reverse Controls",
+      "version": "V1.0.1",
+      "upstream_time": 1784321160,
+      "download_url": "https://dl.smwcentral.net/42707/Reverse%20Controls%20V1.0.1.zip",
+      "filename": "Reverse Controls V1.0.1.zip",
+      "size": 1508,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

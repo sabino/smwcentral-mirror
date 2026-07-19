@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-let-s-idle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42180,
+  "title": "Let's Idle",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Let's Idle.",
+  "latest_version": "smwc-42180-1784397889",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42180,
+      "title": "Let's Idle",
+      "version": "smwc-42180-1784397889",
+      "upstream_time": 1784397889,
+      "download_url": "https://dl.smwcentral.net/42180/Let%27s%20Idle.zip",
+      "filename": "Let%27s Idle.zip",
+      "size": 130867,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

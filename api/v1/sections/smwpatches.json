@@ -143,41 +143,6 @@
     ]
   },
   {
-    "name": "smwpatches-bouncy-fireballs",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40110,
-    "title": "Bouncy Fireballs",
-    "authors": [
-      "Donut"
-    ],
-    "tags": [
-      "ability",
-      "fireball",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "Makes fireballs bounce off walls which in most cases isn't really useful at all (especially if you consider that fireballs despawn as soon as they go off-screen), but regardless I think it's kind of neat!<br>\r\n<br>\r\nHow many times the fireball is allowed to bounce among other things can be changed in the file.<br>\r\n<br>\r\nShould be compaitble with <i>most</i> fireball-related resources, for example <span class=\"un-outer\" title=\"Kevin\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=36308\" style=\"color: var(--user-color-2);\" class=\"un\">Kevin</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=29898\">RAM Controlled Mario's Fireballs Limit</a> patch.",
-    "latest_version": "smwc-40110-1764543115",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40110,
-        "title": "Bouncy Fireballs",
-        "version": "smwc-40110-1764543115",
-        "upstream_time": 1764543115,
-        "download_url": "https://dl.smwcentral.net/40110/bouncy_fireballs.zip",
-        "filename": "bouncy_fireballs.zip",
-        "size": 1748,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-carry-items-through-doors-and-diagonal-pipes",
     "aliases": [],
     "section": "smwpatches",
@@ -589,6 +554,42 @@
         "download_url": "https://dl.smwcentral.net/41243/OW%20Tile%20Sounds%20v1.1.zip",
         "filename": "OW Tile Sounds v1.1.zip",
         "size": 950,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-fade-in-pack",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42701,
+    "title": "Fade-in Pack",
+    "authors": [
+      "MarioE"
+    ],
+    "tags": [
+      "fadein",
+      "hdma",
+      "lorom",
+      "sa-1",
+      "window"
+    ],
+    "description": "These two patches change the game's default mosaic fade-in to either a circle that zooms into or out from the player or a \"horizontally convex\" shape that zooms into or out from the center of the screen.<br>\r\n<br>\r\nMod Note: If you happen to be using HDMA that messes with the layer 1 X/Y position ($210D-$210E), the shape fade, and you're <i>not</i> using the SA-1 patch, the HDMA will mess with random scanlines of the fade effect. This is minor and likely won't affect most SMW hacks, but will be mentioned here in the rare case it comes up.",
+    "latest_version": "V1.1.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42701,
+        "title": "Fade-in Pack",
+        "version": "V1.1.1",
+        "upstream_time": 1784243152,
+        "download_url": "https://dl.smwcentral.net/42701/fadein_v1.1.1.zip",
+        "filename": "fadein_v1.1.1.zip",
+        "size": 60333,
         "sha256": null,
         "dependencies": [
           "asar"

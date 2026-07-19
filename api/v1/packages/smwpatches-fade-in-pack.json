@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-fade-in-pack",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42701,
+  "title": "Fade-in Pack",
+  "authors": [
+    "MarioE"
+  ],
+  "tags": [
+    "fadein",
+    "hdma",
+    "lorom",
+    "sa-1",
+    "window"
+  ],
+  "description": "These two patches change the game's default mosaic fade-in to either a circle that zooms into or out from the player or a \"horizontally convex\" shape that zooms into or out from the center of the screen.<br>\r\n<br>\r\nMod Note: If you happen to be using HDMA that messes with the layer 1 X/Y position ($210D-$210E), the shape fade, and you're <i>not</i> using the SA-1 patch, the HDMA will mess with random scanlines of the fade effect. This is minor and likely won't affect most SMW hacks, but will be mentioned here in the rare case it comes up.",
+  "latest_version": "V1.1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42701,
+      "title": "Fade-in Pack",
+      "version": "V1.1.1",
+      "upstream_time": 1784243152,
+      "download_url": "https://dl.smwcentral.net/42701/fadein_v1.1.1.zip",
+      "filename": "fadein_v1.1.1.zip",
+      "size": 60333,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}
