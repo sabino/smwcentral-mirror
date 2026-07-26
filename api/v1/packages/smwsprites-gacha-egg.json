@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-gacha-egg",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42732,
+  "title": "Gacha Egg",
+  "authors": [
+    "MellyMellouange"
+  ],
+  "tags": [
+    "customizable",
+    "egg",
+    "lorom",
+    "pacifist",
+    "random",
+    "sa-1",
+    "spawner"
+  ],
+  "description": "This Yoshi Egg will hatch into a sprite when in contact with the ground.<br>\r\nWithin the ASM file, there are multiple tables determining which sprites can spawn and multiple parameters to apply on creation.<br>\r\nThe first extension byte determines which entry to use.<br>\r\nThe second extension byte, if nonzero, will be added as a random offset to that entry. Example:<br>\r\n03 00 -- use Entry_03<br>\r\n02 05 -- randomly use any entry between Entry_02 and (2+5) Entry_07<br>\r\n<br>\r\nhere's a short description of all the tables and what they can do<br>\r\nMain table: Sprite number, index to x/y/xspeed/yspeed table, index to manual init table (for vanilla sprites), index to the extension byte table (for custom sprites), random index offset to the extension byte table, entry in the SFX table, property flags (custom sprite flag, must face Mario flag, Extra Bit, spawns graphical egg pieces when hatching)<br>\r\n<br>\r\nManual init table: values to use for sprite tables at $14C8, $C2, $151C, $1528, $1534, $1540, $154C and $157C<br>\r\n<br>\r\nXY table: x offset, y offset, starting x speed, starting y speed<br>\r\n<br>\r\nExtension table: values for Extension Bytes 1 through 4<br>\r\n<br>\r\nSFX Table: sound effect and sound bank<br>\r\n<br>\r\nMight be a bit of a learning curve, but all relevant information is written within the asm file itself. There's also  a default list of entries.<br>\r\n<br>\r\nOh, and it's all compatible with both LoROM and sa1.<br>\r\n<br>\r\nUm, good luck!<br>\r\n<br>\r\nAdditional credits to Sonikku for providing the code that spawns graphical egg pieces. And Isikoro for the customizable firebar sprite used in the gifs (for demonstration purpose only)<br>\r\n<br>\r\nSmall update: made it so the egg won't hatch if it has yet to move, so you could set them in motion with an on/off switch or a P switch",
+  "latest_version": "smwc-42732-1784831762",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42732,
+      "title": "Gacha Egg",
+      "version": "smwc-42732-1784831762",
+      "upstream_time": 1784831762,
+      "download_url": "https://dl.smwcentral.net/42732/gachaegg.zip",
+      "filename": "gachaegg.zip",
+      "size": 6328,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

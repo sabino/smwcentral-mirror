@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-fire-magikoopa",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42731,
+  "title": "Fire Magikoopa",
+  "authors": [
+    "Akaginite"
+  ],
+  "tags": [
+    "enemy",
+    "fire",
+    "lorom",
+    "magikoopa",
+    "sa-1"
+  ],
+  "description": "It is red magikoopa.<br>\r\nI fire fire to Mario.<br>\r\nWhen Extra info is 2,<br>\r\nI fire flame in one direction.<br>\r\nWhen Extra info is 3,<br>\r\nI fire flame in three directions.<br>\r\n<br>\r\n",
+  "latest_version": "smwc-42731-1784830625",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42731,
+      "title": "Fire Magikoopa",
+      "version": "smwc-42731-1784830625",
+      "upstream_time": 1784830625,
+      "download_url": "https://dl.smwcentral.net/42731/Fire_Magikoopa.zip",
+      "filename": "Fire_Magikoopa.zip",
+      "size": 3949,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

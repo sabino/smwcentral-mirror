@@ -2088,6 +2088,36 @@
     ]
   },
   {
+    "name": "smwgraphics-burnt-mario",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42621,
+    "title": "Burnt Mario",
+    "authors": [
+      "16-BitMario94"
+    ],
+    "tags": [
+      "male"
+    ],
+    "description": "This is an expanded version of the castle #5 cutscene sprites in the original game. This also contains overworld sprites for burnt Mario.<br>\r\n<br>\r\nIf you're going to use please be sure to give credit.",
+    "latest_version": "2.0",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42621,
+        "title": "Burnt Mario",
+        "version": "2.0",
+        "upstream_time": 1784913814,
+        "download_url": "https://dl.smwcentral.net/42621/BurntMario.zip",
+        "filename": "BurntMario.zip",
+        "size": 14647,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-castle-of-illusion-starring-mickey-mouse-castle-act",
     "aliases": [],
     "section": "smwgraphics",
@@ -2141,38 +2171,6 @@
         "download_url": "https://dl.smwcentral.net/42627/Cave2026.zip",
         "filename": "Cave2026.zip",
         "size": 6398,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-cave-story-outer-wall",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 40927,
-    "title": "Cave Story - Outer Wall",
-    "authors": [
-      "7601",
-      "Anorakun"
-    ],
-    "tags": [
-      "night",
-      "sky"
-    ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
-    "latest_version": "smwc-40927-1776545384",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 40927,
-        "title": "Cave Story - Outer Wall",
-        "version": "smwc-40927-1776545384",
-        "upstream_time": 1776545384,
-        "download_url": "https://dl.smwcentral.net/40927/Cave%20Story%20-%20Outer%20Wall%20%28Clouds%29.zip",
-        "filename": "Cave Story - Outer Wall (Clouds).zip",
-        "size": 5462,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2377,6 +2375,36 @@
     ]
   },
   {
+    "name": "smwgraphics-mario-if-he-locked-in",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42613,
+    "title": "Mario if he locked in",
+    "authors": [
+      "16-BitMario94"
+    ],
+    "tags": [
+      "male"
+    ],
+    "description": "Some Mario sprites I made for fun, please credit me if you're going to use them in a hack!",
+    "latest_version": "smwc-42613-1784912978",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42613,
+        "title": "Mario if he locked in",
+        "version": "smwc-42613-1784912978",
+        "upstream_time": 1784912978,
+        "download_url": "https://dl.smwcentral.net/42613/Mario%20if%20he%20locked%20in.zip",
+        "filename": "Mario if he locked in.zip",
+        "size": 11362,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt",
     "aliases": [],
     "section": "smwgraphics",
@@ -2500,37 +2528,6 @@
     ]
   },
   {
-    "name": "smwgraphics-paperboy-nes-font",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42205,
-    "title": "Paperboy (NES) - Font",
-    "authors": [
-      "papucho139"
-    ],
-    "tags": [
-      "retro",
-      "serif"
-    ],
-    "description": "The font used in the menus and news headlines of Paperboy (NES)",
-    "latest_version": "smwc-42205-1776880552",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42205,
-        "title": "Paperboy (NES) - Font",
-        "version": "smwc-42205-1776880552",
-        "upstream_time": 1776880552,
-        "download_url": "https://dl.smwcentral.net/42205/Paperboy%20%28NES%29%20-%20Font.zip",
-        "filename": "Paperboy (NES) - Font.zip",
-        "size": 993,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-pokey-heading-needlenose",
     "aliases": [],
     "section": "smwgraphics",
@@ -2594,38 +2591,6 @@
     ]
   },
   {
-    "name": "smwgraphics-redrawn-styled-baron-von-zeppelin-needlenose",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42214,
-    "title": "Redrawn Styled Baron von Zeppelin + Needlenose",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "baron von zeppelin",
-      "needlenose",
-      "redrawn"
-    ],
-    "description": "Redrawn-styled graphics for <a href=\"https://smwc.me/s/40198\">Yoshi Island's Baron von Zeppelin custom sprite recreation from smkdan and Dr. Anas</a>, meant to make the enemy fit SMW Redrawn's art style.<br>\r\n<br>\r\nIt also includes graphics for the cactus-like enemy it can drop  (Needlenose), included with the balloon.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42214-1776880737",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42214,
-        "title": "Redrawn Styled Baron von Zeppelin + Needlenose",
-        "version": "smwc-42214-1776880737",
-        "upstream_time": 1776880737,
-        "download_url": "https://dl.smwcentral.net/42214/Redrawn%20Baron%20Von%20Zeppelin%20%2B%20Mr.Needlenose.zip",
-        "filename": "Redrawn Baron Von Zeppelin + Mr.Needlenose.zip",
-        "size": 3335,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-redrawn-styled-ghost-guy-snufit",
     "aliases": [],
     "section": "smwgraphics",
@@ -2652,36 +2617,6 @@
         "download_url": "https://dl.smwcentral.net/42256/Redrawn%20Ghost%20Guy%20%2B%20Snufit.zip",
         "filename": "Redrawn Ghost Guy + Snufit.zip",
         "size": 3467,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-jelectro",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42211,
-    "title": "Redrawn Styled Jelectro",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "jelectro"
-    ],
-    "description": "Redrawn-styled graphics for the SMB3 Enemy/Solid Hazard Jelectro, meant to resemble the jellyfish's official artwork.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42211-1776544952",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42211,
-        "title": "Redrawn Styled Jelectro",
-        "version": "smwc-42211-1776544952",
-        "upstream_time": 1776544952,
-        "download_url": "https://dl.smwcentral.net/42211/Redrawn_Jelectro.zip",
-        "filename": "Redrawn_Jelectro.zip",
-        "size": 4008,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2808,37 +2743,6 @@
         "download_url": "https://dl.smwcentral.net/42233/Redrawn%20SMRPG%20Shymore.zip",
         "filename": "Redrawn SMRPG Shymore.zip",
         "size": 5523,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-spark",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42216,
-    "title": "Redrawn Styled Spark",
-    "authors": [
-      "Frattari Gaspar"
-    ],
-    "tags": [
-      "redrawn",
-      "spark"
-    ],
-    "description": "A redrawn styled version of this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23679\">sprite</a>, It comes with variants for the Doki Doki design and Yoshi's Island design.",
-    "latest_version": "smwc-42216-1776883243",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42216,
-        "title": "Redrawn Styled Spark",
-        "version": "smwc-42216-1776883243",
-        "upstream_time": 1776883243,
-        "download_url": "https://dl.smwcentral.net/42216/Redrawn%20Styled%20Spark.zip",
-        "filename": "Redrawn Styled Spark.zip",
-        "size": 8605,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3184,6 +3088,37 @@
     ]
   },
   {
+    "name": "smwgraphics-super-mario-world-styled-desert",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42655,
+    "title": "Super Mario World Styled Desert",
+    "authors": [
+      "RebootedThunder"
+    ],
+    "tags": [
+      "desert",
+      "pyramid"
+    ],
+    "description": "My first ever tileset. A cool desert tileset that includes FG and BG tiles + a custom palette! Hope you like it!",
+    "latest_version": "1.1",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42655,
+        "title": "Super Mario World Styled Desert",
+        "version": "1.1",
+        "upstream_time": 1784853478,
+        "download_url": "https://dl.smwcentral.net/42655/SMW-Styled%20Desert.zip",
+        "filename": "SMW-Styled Desert.zip",
+        "size": 7518,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
     "aliases": [],
     "section": "smwgraphics",
@@ -3273,6 +3208,39 @@
         "download_url": "https://dl.smwcentral.net/42549/SMW%20Styled%20Mario%20Bros%20Lava%20Sewer.zip",
         "filename": "SMW Styled Mario Bros Lava Sewer.zip",
         "size": 4691,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-princess-peach",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42623,
+    "title": "Super Mario World Styled Princess Peach",
+    "authors": [
+      "LinkstormZ"
+    ],
+    "tags": [
+      "cape",
+      "female",
+      "princess peach",
+      "raccoon"
+    ],
+    "description": "A Princess Peach SMW style<br>\r\n<br>\r\nMario and the Princess change places<br>\r\n<br>\r\nExtra:<br>\r\n2 versions: With cape or Raccoon( <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12444\"> for this patch </a><br>\r\n  )<br>\r\n<br>\r\nEnjoy!<br>\r\n<br>\r\nUpdate: added file for patch the Mario Start! to Peach Start!<br>\r\nAfter long time i fixed the old design",
+    "latest_version": "smwc-42623-1784915675",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42623,
+        "title": "Super Mario World Styled Princess Peach",
+        "version": "smwc-42623-1784915675",
+        "upstream_time": 1784915675,
+        "download_url": "https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip",
+        "filename": "SMW-Styled Princess Peach.zip",
+        "size": 48620,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3430,6 +3398,36 @@
         "download_url": "https://dl.smwcentral.net/41717/wizardoz_forest.zip",
         "filename": "wizardoz_forest.zip",
         "size": 5231,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-wario-land",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42725,
+    "title": "Wario Land 3 - Above the Clouds (Moon Area)",
+    "authors": [
+      "Brutapode89"
+    ],
+    "tags": [
+      "pyramid"
+    ],
+    "description": "Ripped from the Moon area of the Above the Clouds level in Wario Land 3 on Game Boy Color.<br>\r\n<br>\r\nNote: Meant to be used with a Layer 2 level.",
+    "latest_version": "smwc-42725-1784772436",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42725,
+        "title": "Wario Land 3 - Above the Clouds (Moon Area)",
+        "version": "smwc-42725-1784772436",
+        "upstream_time": 1784772436,
+        "download_url": "https://dl.smwcentral.net/42725/Wario%20Land%203%20-%20Above%20the%20Clouds%20%28Inside%20Moon%29.zip",
+        "filename": "Wario Land 3 - Above the Clouds (Inside Moon).zip",
+        "size": 6726,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3781,6 +3779,43 @@
     ]
   },
   {
+    "name": "smwmusic-dinocity-fight",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42210,
+    "title": "DinoCity - Fight!!",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "boss",
+      "cave",
+      "industrial",
+      "jungle",
+      "temple",
+      "upbeat"
+    ],
+    "description": "The boss battle theme from Dino City on the SNES.",
+    "latest_version": "smwc-42210-1784489004",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42210,
+        "title": "DinoCity - Fight!!",
+        "version": "smwc-42210-1784489004",
+        "upstream_time": 1784489004,
+        "download_url": "https://dl.smwcentral.net/42210/Dino%20City%20-%20Fight%21%21.zip",
+        "filename": "Dino City - Fight%21%21.zip",
+        "size": 65470,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-earthbound-halloween-hack-megalovania",
     "aliases": [],
     "section": "smwmusic",
@@ -3874,6 +3909,42 @@
         "download_url": "https://dl.smwcentral.net/42125/4main.zip",
         "filename": "4main.zip",
         "size": 68663,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-dancer-fights",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42105,
+    "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "cutscene",
+      "overworld",
+      "sea",
+      "upbeat",
+      "water"
+    ],
+    "description": "Dancer Fights from Fire Emblem 4.",
+    "latest_version": "smwc-42105-1784480650",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42105,
+        "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+        "version": "smwc-42105-1784480650",
+        "upstream_time": 1784480650,
+        "download_url": "https://dl.smwcentral.net/42105/Fire%20Emblem%204%20-%20Dancer%20Fights.zip",
+        "filename": "Fire Emblem 4 - Dancer Fights.zip",
+        "size": 48449,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4316,42 +4387,6 @@
     ]
   },
   {
-    "name": "smwmusic-memento-mori-ii-organic-gods",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41549,
-    "title": "Memento Mori II - Organic Gods",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "castle",
-      "final",
-      "ice",
-      "spooky",
-      "tense"
-    ],
-    "description": "Organic Gods from Memento Mori II.",
-    "latest_version": "smwc-41549-1780333483",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41549,
-        "title": "Memento Mori II - Organic Gods",
-        "version": "smwc-41549-1780333483",
-        "upstream_time": 1780333483,
-        "download_url": "https://dl.smwcentral.net/41549/Memento%20Mori%20II%20-%20Organic%20Gods.zip",
-        "filename": "Memento Mori II - Organic Gods.zip",
-        "size": 38215,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-onita-atsushi-fmw-killer-marshal",
     "aliases": [],
     "section": "smwmusic",
@@ -4694,40 +4729,6 @@
         "download_url": "https://dl.smwcentral.net/42062/Smart%20Ball%20-%20Castle.zip",
         "filename": "Smart Ball - Castle.zip",
         "size": 53104,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-sonic-cd-us-invincible",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41823,
-    "title": "Sonic CD (US) - Invincible!!",
-    "authors": [
-      "nicecarlos024"
-    ],
-    "tags": [
-      "cutscene",
-      "pswitch",
-      "star"
-    ],
-    "description": "The invincible theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star and pswitch themes.",
-    "latest_version": "smwc-41823-1780248588",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41823,
-        "title": "Sonic CD (US) - Invincible!!",
-        "version": "smwc-41823-1780248588",
-        "upstream_time": 1780248588,
-        "download_url": "https://dl.smwcentral.net/41823/Sonic%20CD%20%28US%29%20-%20Invincible%21%21.zip",
-        "filename": "Sonic CD (US) - Invincible%21%21.zip",
-        "size": 65531,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -7219,42 +7220,6 @@
     ]
   },
   {
-    "name": "smwsprites-carriable-reusable-p-switch-stump",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41045,
-    "title": "Carriable Reusable P-Switch Stump",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "block needed",
-      "carriable",
-      "lorom",
-      "pacifist",
-      "sa-1"
-    ],
-    "description": "A P-Switch stump which can be re-activated with a block.<br>\r\nTwo blocks are included:<br>\r\n1. A basic block which just re-activates every stump it touches.<br>\r\n2. A more powerful block which can be triggered by the player, other sprites, cape and fire, and which can trigger only one or all stumps of either one color or both colors. It can also change into another Map16 tile and it includes an optional bounce sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"3dsalmon\"><a href=\"/?p=profile&amp;id=42973\" style=\"color: var(--user-color-1);\" class=\"un\">3dsalmon</a></span>.",
-    "latest_version": "smwc-41045-1771946382",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41045,
-        "title": "Carriable Reusable P-Switch Stump",
-        "version": "smwc-41045-1771946382",
-        "upstream_time": 1771946382,
-        "download_url": "https://dl.smwcentral.net/41045/Carriable%20P-Switch%20Stump.zip",
-        "filename": "Carriable P-Switch Stump.zip",
-        "size": 9657,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-chasing-explosive-swooper",
     "aliases": [],
     "section": "smwsprites",
@@ -7614,6 +7579,42 @@
     ]
   },
   {
+    "name": "smwsprites-fire-magikoopa",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42731,
+    "title": "Fire Magikoopa",
+    "authors": [
+      "Akaginite"
+    ],
+    "tags": [
+      "enemy",
+      "fire",
+      "lorom",
+      "magikoopa",
+      "sa-1"
+    ],
+    "description": "It is red magikoopa.<br>\r\nI fire fire to Mario.<br>\r\nWhen Extra info is 2,<br>\r\nI fire flame in one direction.<br>\r\nWhen Extra info is 3,<br>\r\nI fire flame in three directions.<br>\r\n<br>\r\n",
+    "latest_version": "smwc-42731-1784830625",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42731,
+        "title": "Fire Magikoopa",
+        "version": "smwc-42731-1784830625",
+        "upstream_time": 1784830625,
+        "download_url": "https://dl.smwcentral.net/42731/Fire_Magikoopa.zip",
+        "filename": "Fire_Magikoopa.zip",
+        "size": 3949,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-flame-trail-galoomba",
     "aliases": [],
     "section": "smwsprites",
@@ -7767,6 +7768,44 @@
     ]
   },
   {
+    "name": "smwsprites-gacha-egg",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42732,
+    "title": "Gacha Egg",
+    "authors": [
+      "MellyMellouange"
+    ],
+    "tags": [
+      "customizable",
+      "egg",
+      "lorom",
+      "pacifist",
+      "random",
+      "sa-1",
+      "spawner"
+    ],
+    "description": "This Yoshi Egg will hatch into a sprite when in contact with the ground.<br>\r\nWithin the ASM file, there are multiple tables determining which sprites can spawn and multiple parameters to apply on creation.<br>\r\nThe first extension byte determines which entry to use.<br>\r\nThe second extension byte, if nonzero, will be added as a random offset to that entry. Example:<br>\r\n03 00 -- use Entry_03<br>\r\n02 05 -- randomly use any entry between Entry_02 and (2+5) Entry_07<br>\r\n<br>\r\nhere's a short description of all the tables and what they can do<br>\r\nMain table: Sprite number, index to x/y/xspeed/yspeed table, index to manual init table (for vanilla sprites), index to the extension byte table (for custom sprites), random index offset to the extension byte table, entry in the SFX table, property flags (custom sprite flag, must face Mario flag, Extra Bit, spawns graphical egg pieces when hatching)<br>\r\n<br>\r\nManual init table: values to use for sprite tables at $14C8, $C2, $151C, $1528, $1534, $1540, $154C and $157C<br>\r\n<br>\r\nXY table: x offset, y offset, starting x speed, starting y speed<br>\r\n<br>\r\nExtension table: values for Extension Bytes 1 through 4<br>\r\n<br>\r\nSFX Table: sound effect and sound bank<br>\r\n<br>\r\nMight be a bit of a learning curve, but all relevant information is written within the asm file itself. There's also  a default list of entries.<br>\r\n<br>\r\nOh, and it's all compatible with both LoROM and sa1.<br>\r\n<br>\r\nUm, good luck!<br>\r\n<br>\r\nAdditional credits to Sonikku for providing the code that spawns graphical egg pieces. And Isikoro for the customizable firebar sprite used in the gifs (for demonstration purpose only)<br>\r\n<br>\r\nSmall update: made it so the egg won't hatch if it has yet to move, so you could set them in motion with an on/off switch or a P switch",
+    "latest_version": "smwc-42732-1784831762",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42732,
+        "title": "Gacha Egg",
+        "version": "smwc-42732-1784831762",
+        "upstream_time": 1784831762,
+        "download_url": "https://dl.smwcentral.net/42732/gachaegg.zip",
+        "filename": "gachaegg.zip",
+        "size": 6328,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-galoomba-climbs-walls",
     "aliases": [],
     "section": "smwsprites",
@@ -7864,6 +7903,42 @@
         "download_url": "https://dl.smwcentral.net/42085/Galoomba%20That%20Sticks%20To%20Them%20Walls.zip",
         "filename": "Galoomba That Sticks To Them Walls.zip",
         "size": 12329,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-giant-jumping-piranha-plant",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42722,
+    "title": "Giant Jumping Piranha Plant",
+    "authors": [
+      "TheBiob"
+    ],
+    "tags": [
+      "enemy",
+      "giant",
+      "lorom",
+      "piranha plant",
+      "sa-1"
+    ],
+    "description": "This sprite is basically smw's original Jumping piranha plant with a different graphic routine and hitbox.<br>\r\n<br>\r\nWhen extra bit is set the sprite will spit fire<br>\r\n<br>\r\nRequested by Rykon-V73",
+    "latest_version": "smwc-42722-1784570135",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42722,
+        "title": "Giant Jumping Piranha Plant",
+        "version": "smwc-42722-1784570135",
+        "upstream_time": 1784570135,
+        "download_url": "https://dl.smwcentral.net/42722/GiantJumpingPlant.zip",
+        "filename": "GiantJumpingPlant.zip",
+        "size": 6245,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -8017,42 +8092,6 @@
     ]
   },
   {
-    "name": "smwsprites-line-guided-colored-blocks-switch-toggled",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40598,
-    "title": "Line Guided Colored Blocks, Switch Toggled",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "line-guided",
-      "lorom",
-      "pacifist",
-      "platform",
-      "sa-1"
-    ],
-    "description": "A line guided 3-block platform that can have various colors. The platform can be in an inactive state, in which it doesn't move, and in an active state, in which, naturally, it moves.<br>\r\n<br>\r\nWith the extra bit set, this sprite becomes a switch which will toggle every existing platform's state. The switch can also have multiple colors and will only act upon platforms that match its color.<br>\r\n<br>\r\nInspired by a similar entity in Super Mario Bros. X.",
-    "latest_version": "smwc-40598-1772439361",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40598,
-        "title": "Line Guided Colored Blocks, Switch Toggled",
-        "version": "smwc-40598-1772439361",
-        "upstream_time": 1772439361,
-        "download_url": "https://dl.smwcentral.net/40598/line_guided_colored_blocks.zip",
-        "filename": "line_guided_colored_blocks.zip",
-        "size": 6657,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-mother-dino-rhino-dino-torch-egg",
     "aliases": [],
     "section": "smwsprites",
@@ -8114,40 +8153,6 @@
         "download_url": "https://dl.smwcentral.net/41528/moving_midway_point_tape.zip",
         "filename": "moving_midway_point_tape.zip",
         "size": 6034,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-mr-saturn",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40887,
-    "title": "Mr. Saturn",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "lorom",
-      "pacifist",
-      "sa-1"
-    ],
-    "description": "Mr. Saturn walks peacefully. If grabbed, he can be thrown at enemies, destroying them relentlessly.<br>\r\n<br>\r\nƶơơᨓ!",
-    "latest_version": "smwc-40887-1772494431",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40887,
-        "title": "Mr. Saturn",
-        "version": "smwc-40887-1772494431",
-        "upstream_time": 1772494431,
-        "download_url": "https://dl.smwcentral.net/40887/mr._saturn.zip",
-        "filename": "mr._saturn.zip",
-        "size": 9418,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -10549,41 +10554,6 @@
     ]
   },
   {
-    "name": "uberasm-counterbreak",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41017,
-    "title": "Counterbreak",
-    "authors": [
-      "Thomas"
-    ],
-    "tags": [
-      "filter",
-      "lorom",
-      "player",
-      "sa-1"
-    ],
-    "description": "This code allows you to reset various statuses and counters when the player returns to the overworld, including:<br>\r\n- Powerup<br>\r\n- Item box item<br>\r\n- Yoshi<br>\r\n- Coins<br>\r\n- Bonus stars<br>\r\n- Score<br>\r\n- Midway point<br>\r\n- Life count<br>\r\n<br>\r\nTo use, insert into game mode 0C.<br>\r\n<br>\r\nNote: If you want to disable midpoints, this requires the \"<a href=\"https://www.smwcentral.net/?p=section&a=details&id=17738\">Bonus Game Midpoint Fix</a>\" patch to fix a vanilla quirk that will prevent events from running.",
-    "latest_version": "smwc-41017-1762889963",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41017,
-        "title": "Counterbreak",
-        "version": "smwc-41017-1762889963",
-        "upstream_time": 1762889963,
-        "download_url": "https://dl.smwcentral.net/41017/Counterbreak_Asar2.zip",
-        "filename": "Counterbreak_Asar2.zip",
-        "size": 546,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-dolphin-generator",
     "aliases": [],
     "section": "uberasm",
@@ -11891,6 +11861,43 @@
     ]
   },
   {
+    "name": "uberasm-wall-stick-jump",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42720,
+    "title": "Wall Stick & Jump",
+    "authors": [
+      "RussianMan"
+    ],
+    "tags": [
+      "ability",
+      "lorom",
+      "physics",
+      "sa-1",
+      "wall jump",
+      "walljump"
+    ],
+    "description": "This code allows the player to stick to walls and perform wall jumps off them.<br>\r\n<br>\r\nCredit is optional, but highly appreciated.",
+    "latest_version": "V1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42720,
+        "title": "Wall Stick & Jump",
+        "version": "V1.0.1",
+        "upstream_time": 1784493981,
+        "download_url": "https://dl.smwcentral.net/42720/WallStickAndJumpV1.0.1.zip",
+        "filename": "WallStickAndJumpV1.0.1.zip",
+        "size": 3866,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-wario-dash-v1",
     "aliases": [],
     "section": "uberasm",
@@ -11945,7 +11952,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

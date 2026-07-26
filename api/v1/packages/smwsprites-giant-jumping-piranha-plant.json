@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-giant-jumping-piranha-plant",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42722,
+  "title": "Giant Jumping Piranha Plant",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "enemy",
+    "giant",
+    "lorom",
+    "piranha plant",
+    "sa-1"
+  ],
+  "description": "This sprite is basically smw's original Jumping piranha plant with a different graphic routine and hitbox.<br>\r\n<br>\r\nWhen extra bit is set the sprite will spit fire<br>\r\n<br>\r\nRequested by Rykon-V73",
+  "latest_version": "smwc-42722-1784570135",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42722,
+      "title": "Giant Jumping Piranha Plant",
+      "version": "smwc-42722-1784570135",
+      "upstream_time": 1784570135,
+      "download_url": "https://dl.smwcentral.net/42722/GiantJumpingPlant.zip",
+      "filename": "GiantJumpingPlant.zip",
+      "size": 6245,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

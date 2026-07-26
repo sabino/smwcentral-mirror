@@ -128,6 +128,36 @@
     ]
   },
   {
+    "name": "smwgraphics-burnt-mario",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42621,
+    "title": "Burnt Mario",
+    "authors": [
+      "16-BitMario94"
+    ],
+    "tags": [
+      "male"
+    ],
+    "description": "This is an expanded version of the castle #5 cutscene sprites in the original game. This also contains overworld sprites for burnt Mario.<br>\r\n<br>\r\nIf you're going to use please be sure to give credit.",
+    "latest_version": "2.0",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42621,
+        "title": "Burnt Mario",
+        "version": "2.0",
+        "upstream_time": 1784913814,
+        "download_url": "https://dl.smwcentral.net/42621/BurntMario.zip",
+        "filename": "BurntMario.zip",
+        "size": 14647,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-castle-of-illusion-starring-mickey-mouse-castle-act",
     "aliases": [],
     "section": "smwgraphics",
@@ -181,38 +211,6 @@
         "download_url": "https://dl.smwcentral.net/42627/Cave2026.zip",
         "filename": "Cave2026.zip",
         "size": 6398,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-cave-story-outer-wall",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 40927,
-    "title": "Cave Story - Outer Wall",
-    "authors": [
-      "7601",
-      "Anorakun"
-    ],
-    "tags": [
-      "night",
-      "sky"
-    ],
-    "description": "This is Outer Wall's background, complete with awesome parallax effect.<br>\r\n<br>\r\nUPDATE: Reripped from scratch.  Uses a better palette row + uses a tiny bit less GFX space. <br>\r\n<br>\r\nThe previous UberASM file has been cleaned up, thanks to <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fac87d;\" class=\"un\">Arinsu</a></span>. It includes a pause check, so the background stops when the game is paused.",
-    "latest_version": "smwc-40927-1776545384",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 40927,
-        "title": "Cave Story - Outer Wall",
-        "version": "smwc-40927-1776545384",
-        "upstream_time": 1776545384,
-        "download_url": "https://dl.smwcentral.net/40927/Cave%20Story%20-%20Outer%20Wall%20%28Clouds%29.zip",
-        "filename": "Cave Story - Outer Wall (Clouds).zip",
-        "size": 5462,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -417,6 +415,36 @@
     ]
   },
   {
+    "name": "smwgraphics-mario-if-he-locked-in",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42613,
+    "title": "Mario if he locked in",
+    "authors": [
+      "16-BitMario94"
+    ],
+    "tags": [
+      "male"
+    ],
+    "description": "Some Mario sprites I made for fun, please credit me if you're going to use them in a hack!",
+    "latest_version": "smwc-42613-1784912978",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42613,
+        "title": "Mario if he locked in",
+        "version": "smwc-42613-1784912978",
+        "upstream_time": 1784912978,
+        "download_url": "https://dl.smwcentral.net/42613/Mario%20if%20he%20locked%20in.zip",
+        "filename": "Mario if he locked in.zip",
+        "size": 11362,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt",
     "aliases": [],
     "section": "smwgraphics",
@@ -540,37 +568,6 @@
     ]
   },
   {
-    "name": "smwgraphics-paperboy-nes-font",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42205,
-    "title": "Paperboy (NES) - Font",
-    "authors": [
-      "papucho139"
-    ],
-    "tags": [
-      "retro",
-      "serif"
-    ],
-    "description": "The font used in the menus and news headlines of Paperboy (NES)",
-    "latest_version": "smwc-42205-1776880552",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42205,
-        "title": "Paperboy (NES) - Font",
-        "version": "smwc-42205-1776880552",
-        "upstream_time": 1776880552,
-        "download_url": "https://dl.smwcentral.net/42205/Paperboy%20%28NES%29%20-%20Font.zip",
-        "filename": "Paperboy (NES) - Font.zip",
-        "size": 993,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-pokey-heading-needlenose",
     "aliases": [],
     "section": "smwgraphics",
@@ -634,38 +631,6 @@
     ]
   },
   {
-    "name": "smwgraphics-redrawn-styled-baron-von-zeppelin-needlenose",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42214,
-    "title": "Redrawn Styled Baron von Zeppelin + Needlenose",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "baron von zeppelin",
-      "needlenose",
-      "redrawn"
-    ],
-    "description": "Redrawn-styled graphics for <a href=\"https://smwc.me/s/40198\">Yoshi Island's Baron von Zeppelin custom sprite recreation from smkdan and Dr. Anas</a>, meant to make the enemy fit SMW Redrawn's art style.<br>\r\n<br>\r\nIt also includes graphics for the cactus-like enemy it can drop  (Needlenose), included with the balloon.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42214-1776880737",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42214,
-        "title": "Redrawn Styled Baron von Zeppelin + Needlenose",
-        "version": "smwc-42214-1776880737",
-        "upstream_time": 1776880737,
-        "download_url": "https://dl.smwcentral.net/42214/Redrawn%20Baron%20Von%20Zeppelin%20%2B%20Mr.Needlenose.zip",
-        "filename": "Redrawn Baron Von Zeppelin + Mr.Needlenose.zip",
-        "size": 3335,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-redrawn-styled-ghost-guy-snufit",
     "aliases": [],
     "section": "smwgraphics",
@@ -692,36 +657,6 @@
         "download_url": "https://dl.smwcentral.net/42256/Redrawn%20Ghost%20Guy%20%2B%20Snufit.zip",
         "filename": "Redrawn Ghost Guy + Snufit.zip",
         "size": 3467,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-jelectro",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42211,
-    "title": "Redrawn Styled Jelectro",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "jelectro"
-    ],
-    "description": "Redrawn-styled graphics for the SMB3 Enemy/Solid Hazard Jelectro, meant to resemble the jellyfish's official artwork.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42211-1776544952",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42211,
-        "title": "Redrawn Styled Jelectro",
-        "version": "smwc-42211-1776544952",
-        "upstream_time": 1776544952,
-        "download_url": "https://dl.smwcentral.net/42211/Redrawn_Jelectro.zip",
-        "filename": "Redrawn_Jelectro.zip",
-        "size": 4008,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -848,37 +783,6 @@
         "download_url": "https://dl.smwcentral.net/42233/Redrawn%20SMRPG%20Shymore.zip",
         "filename": "Redrawn SMRPG Shymore.zip",
         "size": 5523,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-spark",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42216,
-    "title": "Redrawn Styled Spark",
-    "authors": [
-      "Frattari Gaspar"
-    ],
-    "tags": [
-      "redrawn",
-      "spark"
-    ],
-    "description": "A redrawn styled version of this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=23679\">sprite</a>, It comes with variants for the Doki Doki design and Yoshi's Island design.",
-    "latest_version": "smwc-42216-1776883243",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42216,
-        "title": "Redrawn Styled Spark",
-        "version": "smwc-42216-1776883243",
-        "upstream_time": 1776883243,
-        "download_url": "https://dl.smwcentral.net/42216/Redrawn%20Styled%20Spark.zip",
-        "filename": "Redrawn Styled Spark.zip",
-        "size": 8605,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1224,6 +1128,37 @@
     ]
   },
   {
+    "name": "smwgraphics-super-mario-world-styled-desert",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42655,
+    "title": "Super Mario World Styled Desert",
+    "authors": [
+      "RebootedThunder"
+    ],
+    "tags": [
+      "desert",
+      "pyramid"
+    ],
+    "description": "My first ever tileset. A cool desert tileset that includes FG and BG tiles + a custom palette! Hope you like it!",
+    "latest_version": "1.1",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42655,
+        "title": "Super Mario World Styled Desert",
+        "version": "1.1",
+        "upstream_time": 1784853478,
+        "download_url": "https://dl.smwcentral.net/42655/SMW-Styled%20Desert.zip",
+        "filename": "SMW-Styled Desert.zip",
+        "size": 7518,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
     "aliases": [],
     "section": "smwgraphics",
@@ -1313,6 +1248,39 @@
         "download_url": "https://dl.smwcentral.net/42549/SMW%20Styled%20Mario%20Bros%20Lava%20Sewer.zip",
         "filename": "SMW Styled Mario Bros Lava Sewer.zip",
         "size": 4691,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-princess-peach",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42623,
+    "title": "Super Mario World Styled Princess Peach",
+    "authors": [
+      "LinkstormZ"
+    ],
+    "tags": [
+      "cape",
+      "female",
+      "princess peach",
+      "raccoon"
+    ],
+    "description": "A Princess Peach SMW style<br>\r\n<br>\r\nMario and the Princess change places<br>\r\n<br>\r\nExtra:<br>\r\n2 versions: With cape or Raccoon( <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12444\"> for this patch </a><br>\r\n  )<br>\r\n<br>\r\nEnjoy!<br>\r\n<br>\r\nUpdate: added file for patch the Mario Start! to Peach Start!<br>\r\nAfter long time i fixed the old design",
+    "latest_version": "smwc-42623-1784915675",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42623,
+        "title": "Super Mario World Styled Princess Peach",
+        "version": "smwc-42623-1784915675",
+        "upstream_time": 1784915675,
+        "download_url": "https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip",
+        "filename": "SMW-Styled Princess Peach.zip",
+        "size": 48620,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1470,6 +1438,36 @@
         "download_url": "https://dl.smwcentral.net/41717/wizardoz_forest.zip",
         "filename": "wizardoz_forest.zip",
         "size": 5231,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-wario-land",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42725,
+    "title": "Wario Land 3 - Above the Clouds (Moon Area)",
+    "authors": [
+      "Brutapode89"
+    ],
+    "tags": [
+      "pyramid"
+    ],
+    "description": "Ripped from the Moon area of the Above the Clouds level in Wario Land 3 on Game Boy Color.<br>\r\n<br>\r\nNote: Meant to be used with a Layer 2 level.",
+    "latest_version": "smwc-42725-1784772436",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42725,
+        "title": "Wario Land 3 - Above the Clouds (Moon Area)",
+        "version": "smwc-42725-1784772436",
+        "upstream_time": 1784772436,
+        "download_url": "https://dl.smwcentral.net/42725/Wario%20Land%203%20-%20Above%20the%20Clouds%20%28Inside%20Moon%29.zip",
+        "filename": "Wario Land 3 - Above the Clouds (Inside Moon).zip",
+        "size": 6726,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

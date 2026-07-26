@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-wall-stick-jump",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42720,
+  "title": "Wall Stick & Jump",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "ability",
+    "lorom",
+    "physics",
+    "sa-1",
+    "wall jump",
+    "walljump"
+  ],
+  "description": "This code allows the player to stick to walls and perform wall jumps off them.<br>\r\n<br>\r\nCredit is optional, but highly appreciated.",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42720,
+      "title": "Wall Stick & Jump",
+      "version": "V1.0.1",
+      "upstream_time": 1784493981,
+      "download_url": "https://dl.smwcentral.net/42720/WallStickAndJumpV1.0.1.zip",
+      "filename": "WallStickAndJumpV1.0.1.zip",
+      "size": 3866,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

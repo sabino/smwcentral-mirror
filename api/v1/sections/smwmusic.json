@@ -315,6 +315,43 @@
     ]
   },
   {
+    "name": "smwmusic-dinocity-fight",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42210,
+    "title": "DinoCity - Fight!!",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "boss",
+      "cave",
+      "industrial",
+      "jungle",
+      "temple",
+      "upbeat"
+    ],
+    "description": "The boss battle theme from Dino City on the SNES.",
+    "latest_version": "smwc-42210-1784489004",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42210,
+        "title": "DinoCity - Fight!!",
+        "version": "smwc-42210-1784489004",
+        "upstream_time": 1784489004,
+        "download_url": "https://dl.smwcentral.net/42210/Dino%20City%20-%20Fight%21%21.zip",
+        "filename": "Dino City - Fight%21%21.zip",
+        "size": 65470,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-earthbound-halloween-hack-megalovania",
     "aliases": [],
     "section": "smwmusic",
@@ -408,6 +445,42 @@
         "download_url": "https://dl.smwcentral.net/42125/4main.zip",
         "filename": "4main.zip",
         "size": 68663,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-dancer-fights",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42105,
+    "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "cutscene",
+      "overworld",
+      "sea",
+      "upbeat",
+      "water"
+    ],
+    "description": "Dancer Fights from Fire Emblem 4.",
+    "latest_version": "smwc-42105-1784480650",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42105,
+        "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+        "version": "smwc-42105-1784480650",
+        "upstream_time": 1784480650,
+        "download_url": "https://dl.smwcentral.net/42105/Fire%20Emblem%204%20-%20Dancer%20Fights.zip",
+        "filename": "Fire Emblem 4 - Dancer Fights.zip",
+        "size": 48449,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -850,42 +923,6 @@
     ]
   },
   {
-    "name": "smwmusic-memento-mori-ii-organic-gods",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41549,
-    "title": "Memento Mori II - Organic Gods",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "castle",
-      "final",
-      "ice",
-      "spooky",
-      "tense"
-    ],
-    "description": "Organic Gods from Memento Mori II.",
-    "latest_version": "smwc-41549-1780333483",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41549,
-        "title": "Memento Mori II - Organic Gods",
-        "version": "smwc-41549-1780333483",
-        "upstream_time": 1780333483,
-        "download_url": "https://dl.smwcentral.net/41549/Memento%20Mori%20II%20-%20Organic%20Gods.zip",
-        "filename": "Memento Mori II - Organic Gods.zip",
-        "size": 38215,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-onita-atsushi-fmw-killer-marshal",
     "aliases": [],
     "section": "smwmusic",
@@ -1228,40 +1265,6 @@
         "download_url": "https://dl.smwcentral.net/42062/Smart%20Ball%20-%20Castle.zip",
         "filename": "Smart Ball - Castle.zip",
         "size": 53104,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-sonic-cd-us-invincible",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41823,
-    "title": "Sonic CD (US) - Invincible!!",
-    "authors": [
-      "nicecarlos024"
-    ],
-    "tags": [
-      "cutscene",
-      "pswitch",
-      "star"
-    ],
-    "description": "The invincible theme from Sonic CD (US).<br>\r\n<br>\r\nCan be used to replace the vanilla star and pswitch themes.",
-    "latest_version": "smwc-41823-1780248588",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41823,
-        "title": "Sonic CD (US) - Invincible!!",
-        "version": "smwc-41823-1780248588",
-        "upstream_time": 1780248588,
-        "download_url": "https://dl.smwcentral.net/41823/Sonic%20CD%20%28US%29%20-%20Invincible%21%21.zip",
-        "filename": "Sonic CD (US) - Invincible%21%21.zip",
-        "size": 65531,
         "sha256": null,
         "dependencies": [
           "addmusick"

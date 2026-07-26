@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-dancer-fights",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42105,
+  "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld",
+    "sea",
+    "upbeat",
+    "water"
+  ],
+  "description": "Dancer Fights from Fire Emblem 4.",
+  "latest_version": "smwc-42105-1784480650",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42105,
+      "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+      "version": "smwc-42105-1784480650",
+      "upstream_time": 1784480650,
+      "download_url": "https://dl.smwcentral.net/42105/Fire%20Emblem%204%20-%20Dancer%20Fights.zip",
+      "filename": "Fire Emblem 4 - Dancer Fights.zip",
+      "size": 48449,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}
