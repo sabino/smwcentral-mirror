@@ -36,41 +36,6 @@
     ]
   },
   {
-    "name": "smwmusic-aoki-densetsu-shoot-game",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42219,
-    "title": "Aoki Densetsu Shoot! - Game 2",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "sky",
-      "upbeat",
-      "urban"
-    ],
-    "description": "The second of three in-game soccer themes from Aoki Densetsu Shoot!.",
-    "latest_version": "smwc-42219-1782839648",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42219,
-        "title": "Aoki Densetsu Shoot! - Game 2",
-        "version": "smwc-42219-1782839648",
-        "upstream_time": 1782839648,
-        "download_url": "https://dl.smwcentral.net/42219/Aoki%20Densetsu%20Shoot%21%20-%20Game%202.zip",
-        "filename": "Aoki Densetsu Shoot%21 - Game 2.zip",
-        "size": 58271,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-banshee-amiga-ending",
     "aliases": [],
     "section": "smwmusic",
@@ -108,31 +73,35 @@
     ]
   },
   {
-    "name": "smwmusic-bs-busters-digital-magazine-magazine-viewing",
+    "name": "smwmusic-brandish",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42006,
-    "title": "BS Busters Digital Magazine - Magazine Viewing",
+    "upstream_id": 42314,
+    "title": "Brandish 2: The Planet Buster (SNES) - Prison",
     "authors": [
-      "Fullcannon"
+      "SiameseTwins"
     ],
     "tags": [
-      "menu",
+      "castle",
+      "cave",
+      "ice",
       "night",
+      "ruins",
+      "upbeat",
       "urban"
     ],
-    "description": "Primary background music for viewing the latest Busters Digital Magazines from Satellaview.",
-    "latest_version": "smwc-42006-1780588800",
+    "description": "A nice tune from the first dungeon of Brandish 2: The Planet Buster.",
+    "latest_version": "smwc-42314-1785547889",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42006,
-        "title": "BS Busters Digital Magazine - Magazine Viewing",
-        "version": "smwc-42006-1780588800",
-        "upstream_time": 1780588800,
-        "download_url": "https://dl.smwcentral.net/42006/BS%20Busters%20Digital%20Magazine%20-%20Magazine%20Viewings.zip",
-        "filename": "BS Busters Digital Magazine - Magazine Viewings.zip",
-        "size": 52323,
+        "upstream_id": 42314,
+        "title": "Brandish 2: The Planet Buster (SNES) - Prison",
+        "version": "smwc-42314-1785547889",
+        "upstream_time": 1785547889,
+        "download_url": "https://dl.smwcentral.net/42314/Brandish%202%20%28SFC%29%20-%20Prison.zip",
+        "filename": "Brandish 2 (SFC) - Prison.zip",
+        "size": 53410,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -165,42 +134,6 @@
         "download_url": "https://dl.smwcentral.net/42158/Dracula%20X%20-%20Game%20Over.zip",
         "filename": "Dracula X - Game Over.zip",
         "size": 41602,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-contra-hard-corps-gtr-attack",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41794,
-    "title": "Contra: Hard Corps - GTR Attack!",
-    "authors": [
-      "Dzing"
-    ],
-    "tags": [
-      "athletic",
-      "boss",
-      "chase",
-      "retro",
-      "tense"
-    ],
-    "description": "Song that fits boss fights. Suggested by <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
-    "latest_version": "smwc-41794-1782834160",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41794,
-        "title": "Contra: Hard Corps - GTR Attack!",
-        "version": "smwc-41794-1782834160",
-        "upstream_time": 1782834160,
-        "download_url": "https://dl.smwcentral.net/41794/gtr-attack.zip",
-        "filename": "gtr-attack.zip",
-        "size": 103106,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -282,39 +215,6 @@
     ]
   },
   {
-    "name": "smwmusic-deltarune-the-ol-jitterbug",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42108,
-    "title": "Deltarune - The Ol' Jitterbug",
-    "authors": [
-      "Forgado"
-    ],
-    "tags": [
-      "overworld",
-      "upbeat"
-    ],
-    "description": "The song \"The Ol' Jitterbug\" from Chapter 4 of Deltarune, originally composed by Toby Fox. Great music to sleep to!<br>\r\n<br>\r\nThe original samples were found using the Toby Fox Sample Sheet.",
-    "latest_version": "smwc-42108-1782492258",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42108,
-        "title": "Deltarune - The Ol' Jitterbug",
-        "version": "smwc-42108-1782492258",
-        "upstream_time": 1782492258,
-        "download_url": "https://dl.smwcentral.net/42108/The%20Ol%27%20Jitterbug.zip",
-        "filename": "The Ol%27 Jitterbug.zip",
-        "size": 51461,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-dinocity-fight",
     "aliases": [],
     "section": "smwmusic",
@@ -385,33 +285,33 @@
     ]
   },
   {
-    "name": "smwmusic-f-zero-white-land-ii",
+    "name": "smwmusic-earthbound-the-lost-underworld",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42117,
-    "title": "F-Zero - White Land II",
+    "upstream_id": 42234,
+    "title": "Earthbound - The Lost Underworld",
     "authors": [
-      "Fullcannon"
+      "h.carrell"
     ],
     "tags": [
-      "abstract",
-      "chase",
-      "snow",
-      "tense",
-      "urban"
+      "cave",
+      "forest",
+      "jungle",
+      "ruins",
+      "swamp"
     ],
-    "description": "A fast-paced noisy racing tune heard in the second part of White Land II from F-Zero, the only course in-game with alternative music.",
-    "latest_version": "smwc-42117-1782492909",
+    "description": "The theme of the Lost Underworld from Earthbound, can fit a forest or a cave level.<br>\r\n<br>\r\nNote: For any pre 1.0.9 users, set the #define amkversion to 0 for compatibility with 1.0.8 or lower (Insert size will be 0x0761 bytes)<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>",
+    "latest_version": "smwc-42234-1785115824",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42117,
-        "title": "F-Zero - White Land II",
-        "version": "smwc-42117-1782492909",
-        "upstream_time": 1782492909,
-        "download_url": "https://dl.smwcentral.net/42117/F-Zero%20-%20White%20Land%20II.zip",
-        "filename": "F-Zero - White Land II.zip",
-        "size": 55475,
+        "upstream_id": 42234,
+        "title": "Earthbound - The Lost Underworld",
+        "version": "smwc-42234-1785115824",
+        "upstream_time": 1785115824,
+        "download_url": "https://dl.smwcentral.net/42234/Lost%20Underworld.zip",
+        "filename": "Lost Underworld.zip",
+        "size": 59645,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -445,6 +345,116 @@
         "download_url": "https://dl.smwcentral.net/42125/4main.zip",
         "filename": "4main.zip",
         "size": 68663,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-final-fantasy-vi-shadow-s-theme",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42279,
+    "title": "Final Fantasy VI - Shadow's Theme",
+    "authors": [
+      "SiameseTwins"
+    ],
+    "tags": [
+      "calm",
+      "cave",
+      "credits",
+      "cutscene",
+      "forest",
+      "sad",
+      "title",
+      "town"
+    ],
+    "description": "A calm/sad tune that can fit forests, towns and cutscenes.",
+    "latest_version": "1.1",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42279,
+        "title": "Final Fantasy VI - Shadow's Theme",
+        "version": "1.1",
+        "upstream_time": 1785113216,
+        "download_url": "https://dl.smwcentral.net/42279/Final%20Fantasy%20VI%20-%20Shadow%27s%20Theme.zip",
+        "filename": "Final Fantasy VI - Shadow%27s Theme.zip",
+        "size": 66348,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-final-fantasy-vi-what",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42268,
+    "title": "Final Fantasy VI - What?",
+    "authors": [
+      "h.carrell"
+    ],
+    "tags": [
+      "cutscene",
+      "overworld"
+    ],
+    "description": "The silly theme of FF6, which plays at Gau's Father's House and the Dragon's Neck House (Before it's replaced with the Coliseum in the WoR)",
+    "latest_version": "smwc-42268-1785510483",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42268,
+        "title": "Final Fantasy VI - What?",
+        "version": "smwc-42268-1785510483",
+        "upstream_time": 1785510483,
+        "download_url": "https://dl.smwcentral.net/42268/FF6%20Strange%20theme.zip",
+        "filename": "FF6 Strange theme.zip",
+        "size": 80672,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-chapter",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42076,
+    "title": "Fire Emblem: Genealogy of the Holy War - Chapter 4: Dancing in the Sky",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "calm",
+      "castle",
+      "ice",
+      "overworld",
+      "sad",
+      "snow",
+      "temple"
+    ],
+    "description": "Chapter 4: Dancing in the Sky from Fire Emblem 4.",
+    "latest_version": "smwc-42076-1785562326",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42076,
+        "title": "Fire Emblem: Genealogy of the Holy War - Chapter 4: Dancing in the Sky",
+        "version": "smwc-42076-1785562326",
+        "upstream_time": 1785562326,
+        "download_url": "https://dl.smwcentral.net/42076/Fire%20Emblem%204%20-%20Chapter%204%20~%20Dance%20by%20the%20Sky.zip",
+        "filename": "Fire Emblem 4 - Chapter 4 ~ Dance by the Sky.zip",
+        "size": 58614,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -490,117 +500,32 @@
     ]
   },
   {
-    "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-neutral-army",
+    "name": "smwmusic-genjuu-ryodan-castle-in-the-sky",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42111,
-    "title": "Fire Emblem: Genealogy of the Holy War - Neutral Army",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "airship",
-      "castle",
-      "final",
-      "overworld"
-    ],
-    "description": "Neutral Army from Fire Emblem 4.",
-    "latest_version": "smwc-42111-1782492710",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42111,
-        "title": "Fire Emblem: Genealogy of the Holy War - Neutral Army",
-        "version": "smwc-42111-1782492710",
-        "upstream_time": 1782492710,
-        "download_url": "https://dl.smwcentral.net/42111/Fire%20Emblem%204%20-%20Neutral%20Army.zip",
-        "filename": "Fire Emblem 4 - Neutral Army.zip",
-        "size": 56902,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-full-tilt-3d-pinball-space-cadet-main-theme",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42401,
-    "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
-    "authors": [
-      "7 up"
-    ],
-    "tags": [
-      "abstract",
-      "bonus",
-      "dark",
-      "space",
-      "urban"
-    ],
-    "description": "(Keep the other unsampled version of this as well, due to nostalgia.)<br>\r\n<br>\r\nJust decided to post an unsampled version that I only fixed just now and had sitting on my disk for a few months. Anyway, when you ran out of connection, you naturally played this game on an old PC.<br>\r\n<br>\r\nBest for space/casino bonus areas.",
-    "latest_version": "smwc-42401-1781430748",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42401,
-        "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
-        "version": "smwc-42401-1781430748",
-        "upstream_time": 1781430748,
-        "download_url": "https://dl.smwcentral.net/42401/pinball%20main%20%28u%29.zip",
-        "filename": "pinball main (u).zip",
-        "size": 32363,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 41796,
-        "title": "Full Tilt!/3D Pinball: Space Cadet - Main Theme",
-        "version": "smwc-41796-1781430255",
-        "upstream_time": 1781430255,
-        "download_url": "https://dl.smwcentral.net/41796/pinball%20main.zip",
-        "filename": "pinball main.zip",
-        "size": 55854,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-go-go-ackman",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42132,
-    "title": "Go Go Ackman 3 - Tenshi vs. Robot",
+    "upstream_id": 42220,
+    "title": "Genjuu Ryodan - Castle in the Sky",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
-      "boss",
-      "dark",
-      "industrial",
-      "tense"
+      "castle",
+      "sky",
+      "temple",
+      "upbeat"
     ],
-    "description": "Stage 2-2 boss against the research lab robot in Go Go Ackman 3.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>.",
-    "latest_version": "smwc-42132-1782836754",
+    "description": "The floating castle map theme from 13th mission of post-era Genjuu Ryodan.",
+    "latest_version": "smwc-42220-1785112540",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42132,
-        "title": "Go Go Ackman 3 - Tenshi vs. Robot",
-        "version": "smwc-42132-1782836754",
-        "upstream_time": 1782836754,
-        "download_url": "https://dl.smwcentral.net/42132/Go%20Go%20Ackman%203%20-%20Tenshi%20vs%20Robot.zip",
-        "filename": "Go Go Ackman 3 - Tenshi vs Robot.zip",
-        "size": 50715,
+        "upstream_id": 42220,
+        "title": "Genjuu Ryodan - Castle in the Sky",
+        "version": "smwc-42220-1785112540",
+        "upstream_time": 1785112540,
+        "download_url": "https://dl.smwcentral.net/42220/Genjuu%20Ryodan%20-%20Castle%20in%20the%20Sky%20.zip",
+        "filename": "Genjuu Ryodan - Castle in the Sky .zip",
+        "size": 76349,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -647,40 +572,6 @@
     ]
   },
   {
-    "name": "smwmusic-jikkyou-powerful-pro-yakyuu",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42169,
-    "title": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "credits",
-      "ice"
-    ],
-    "description": "Good ending theme after winning through 130 matches on Pennant Mode in Jikkyou Powerful Pro Yakyuu 2.",
-    "latest_version": "smwc-42169-1782790436",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42169,
-        "title": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending",
-        "version": "smwc-42169-1782790436",
-        "upstream_time": 1782790436,
-        "download_url": "https://dl.smwcentral.net/42169/Jikkyou%20Powerful%20Pro%20Yakyuu%202%20-%20Good%20Ending.zip",
-        "filename": "Jikkyou Powerful Pro Yakyuu 2 - Good Ending.zip",
-        "size": 74194,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-kirby-s-star-stacker-kawasaki",
     "aliases": [],
     "section": "smwmusic",
@@ -717,66 +608,32 @@
     ]
   },
   {
-    "name": "smwmusic-leading-company-lights-across-the-bay",
+    "name": "smwmusic-krack-s-kafe-because-they-kicked-me-out-it-s-do-or-die",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42104,
-    "title": "Leading Company - Lights across the bay",
+    "upstream_id": 42185,
+    "title": "Krack's Kafe: Because They Kicked Me Out! - It's DO or DIE!",
     "authors": [
-      "Fullcannon"
+      "Daizo Dee Von"
     ],
     "tags": [
-      "calm",
-      "retro",
-      "sea"
-    ],
-    "description": "Track 06 of 'Keys of the city' as heard in Leading Company's SFC port.",
-    "latest_version": "smwc-42104-1782835267",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42104,
-        "title": "Leading Company - Lights across the bay",
-        "version": "smwc-42104-1782835267",
-        "upstream_time": 1782835267,
-        "download_url": "https://dl.smwcentral.net/42104/Leading%20Company%20-%20Lights%20across%20the%20bay.zip",
-        "filename": "Leading Company - Lights across the bay.zip",
-        "size": 34270,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lester-the-unlikely-something-happened",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42195,
-    "title": "Lester the Unlikely - Something Happened",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cutscene",
-      "jungle",
-      "sea",
+      "bonus",
+      "boss",
+      "dark",
       "tense"
     ],
-    "description": "The opening cutscenes story theme from Lester the Unlikely.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"James Tall\"><a href=\"/?p=profile&amp;id=54789\" style=\"color: var(--user-color-1);\" class=\"un\">James Tall</a></span>.",
-    "latest_version": "smwc-42195-1782837421",
+    "description": "The quick-paced track with an edge perfect for Switch Palaces with a frantic pace.<br>\r\n<br>\r\nOriginally used in <a href=\"https://smwc.me/s/31405\">Krack's Kafe</a>. Credit would be appreciated.<br>\r\n<br>\r\nMod note: Incompatible with miss, thunder, Yoshi, and bonus end",
+    "latest_version": "smwc-42185-1785119416",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42195,
-        "title": "Lester the Unlikely - Something Happened",
-        "version": "smwc-42195-1782837421",
-        "upstream_time": 1782837421,
-        "download_url": "https://dl.smwcentral.net/42195/Lester%20the%20Unlikely%20-%20Something%20Happened.zip",
-        "filename": "Lester the Unlikely - Something Happened.zip",
-        "size": 56594,
+        "upstream_id": 42185,
+        "title": "Krack's Kafe: Because They Kicked Me Out! - It's DO or DIE!",
+        "version": "smwc-42185-1785119416",
+        "upstream_time": 1785119416,
+        "download_url": "https://dl.smwcentral.net/42185/%5BS%5D%20Krack%27s%20Kafe%3B%20Because%20They%20Kicked%20Me%20Out%21%20-%20It%27s%20DO%20or%20DIE%21%20.zip",
+        "filename": "%5BS%5D Krack%27s Kafe%3B Because They Kicked Me Out%21 - It%27s DO or DIE%21 .zip",
+        "size": 89607,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -820,31 +677,48 @@
     ]
   },
   {
-    "name": "smwmusic-magic-sword-honor-blade",
+    "name": "smwmusic-live-a-live-under-the-fake",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41880,
-    "title": "Magic Sword - Honor Blade",
+    "upstream_id": 42312,
+    "title": "Live A Live - Under the Fake",
     "authors": [
-      "Fullcannon"
+      "EDIT3333"
     ],
     "tags": [
-      "castle",
-      "dark",
-      "upbeat"
+      "calm",
+      "desert",
+      "mountain",
+      "night",
+      "overworld",
+      "town"
     ],
-    "description": "One of the many tower floors from Magic Sword.",
-    "latest_version": "smwc-41880-1782838584",
+    "description": "It works well in deserts.",
+    "latest_version": "smwc-42312-1785116362",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41880,
-        "title": "Magic Sword - Honor Blade",
-        "version": "smwc-41880-1782838584",
-        "upstream_time": 1782838584,
-        "download_url": "https://dl.smwcentral.net/41880/Magic%20Sword%20-%20Honor%20Blade.zip",
-        "filename": "Magic Sword - Honor Blade.zip",
-        "size": 65693,
+        "upstream_id": 42312,
+        "title": "Live A Live - Under the Fake",
+        "version": "smwc-42312-1785116362",
+        "upstream_time": 1785116362,
+        "download_url": "https://dl.smwcentral.net/42312/Under%20The%20Fake%20.zip",
+        "filename": "Under The Fake .zip",
+        "size": 32911,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42306,
+        "title": "Live A Live - Under the Fake",
+        "version": "v1.1",
+        "upstream_time": 1785116359,
+        "download_url": "https://dl.smwcentral.net/42306/Under%20The%20Fake%20.zip",
+        "filename": "Under The Fake .zip",
+        "size": 58502,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -888,67 +762,32 @@
     ]
   },
   {
-    "name": "smwmusic-mega-man",
+    "name": "smwmusic-mega-man-x-boomer-kuwanger-smas-smb3-style",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42267,
-    "title": "Mega Man 5 - Star Man",
+    "upstream_id": 42004,
+    "title": "Mega Man X - Boomer Kuwanger (SMAS SMB3 Style)",
     "authors": [
-      "7 up"
-    ],
-    "tags": [
-      "abstract",
-      "night",
-      "space",
-      "upbeat"
-    ],
-    "description": "The theme of Star Man's* stage from Mega Man 5.<br>\r\n<br>\r\n*not to be confused with Mario's Starman<br>\r\n<br>\r\nBest for space levels.",
-    "latest_version": "smwc-42267-1782403319",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42267,
-        "title": "Mega Man 5 - Star Man",
-        "version": "smwc-42267-1782403319",
-        "upstream_time": 1782403319,
-        "download_url": "https://dl.smwcentral.net/42267/mm5star.zip",
-        "filename": "mm5star.zip",
-        "size": 32961,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-onita-atsushi-fmw-killer-marshal",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42060,
-    "title": "Onita Atsushi FMW - Killer Marshal",
-    "authors": [
-      "Fullcannon"
+      "JX444444"
     ],
     "tags": [
       "boss",
       "industrial",
-      "tense",
-      "urban"
+      "ruins",
+      "upbeat"
     ],
-    "description": "Killer Marshal's theme from Onita Atsushi FMW, a cyborg warrior trained into a machine during the main story.",
-    "latest_version": "smwc-42060-1780932787",
+    "description": "Based : Super Mario Bros 3 - Enemy Battle<br>\r\n(Boomer Bros)",
+    "latest_version": "smwc-42004-1785080239",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42060,
-        "title": "Onita Atsushi FMW - Killer Marshal",
-        "version": "smwc-42060-1780932787",
-        "upstream_time": 1780932787,
-        "download_url": "https://dl.smwcentral.net/42060/Onita%20Atsushi%20FMW%20-%20Killer%20Marshal.zip",
-        "filename": "Onita Atsushi FMW - Killer Marshal.zip",
-        "size": 58091,
+        "upstream_id": 42004,
+        "title": "Mega Man X - Boomer Kuwanger (SMAS SMB3 Style)",
+        "version": "smwc-42004-1785080239",
+        "upstream_time": 1785080239,
+        "download_url": "https://dl.smwcentral.net/42004/Kuwanger_SMAS.zip",
+        "filename": "Kuwanger_SMAS.zip",
+        "size": 39879,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1030,98 +869,33 @@
     ]
   },
   {
-    "name": "smwmusic-pizza-tower-extraterrestrial-wahwahs",
+    "name": "smwmusic-plants-vs-zombies-brainiac-maniac-kdl3-style",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41636,
-    "title": "Pizza Tower - Extraterrestrial Wahwahs",
+    "upstream_id": 42056,
+    "title": "Plants vs. Zombies - Brainiac Maniac (KDL3 Style)",
     "authors": [
-      "Fullcannon"
+      "JX444444"
     ],
     "tags": [
-      "abstract",
-      "space",
-      "upbeat"
-    ],
-    "description": "Deep Dish 9's level theme from Pizza Tower, which takes place on space planets.<br>\r\n",
-    "latest_version": "smwc-41636-1781743322",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41636,
-        "title": "Pizza Tower - Extraterrestrial Wahwahs",
-        "version": "smwc-41636-1781743322",
-        "upstream_time": 1781743322,
-        "download_url": "https://dl.smwcentral.net/41636/Pizza%20Tower%20-%20Extraterrestrial%20Wahwahs.zip",
-        "filename": "Pizza Tower - Extraterrestrial Wahwahs.zip",
-        "size": 37398,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pizza-tower-good-eatin",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41637,
-    "title": "Pizza Tower - Good Eatin'",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "grassland"
-    ],
-    "description": "GOLF's level theme from Pizza Tower, taking place at golf courses.",
-    "latest_version": "smwc-41637-1781747053",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41637,
-        "title": "Pizza Tower - Good Eatin'",
-        "version": "smwc-41637-1781747053",
-        "upstream_time": 1781747053,
-        "download_url": "https://dl.smwcentral.net/41637/Pizza%20Tower%20-%20Good%20Eatin%27.zip",
-        "filename": "Pizza Tower - Good Eatin%27.zip",
-        "size": 33944,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pizza-tower-mmm-yes-put-the-tree-on-my-pizza",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41638,
-    "title": "Pizza Tower - mmm yes put the tree on my pizza",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
+      "desert",
       "forest",
-      "jungle",
-      "upbeat"
+      "ruins",
+      "town",
+      "urban"
     ],
-    "description": "Gnome Forest's initial level theme from Pizza Tower.",
-    "latest_version": "smwc-41638-1781747056",
+    "description": "Based : Sand Canyon 2",
+    "latest_version": "smwc-42056-1785086206",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41638,
-        "title": "Pizza Tower - mmm yes put the tree on my pizza",
-        "version": "smwc-41638-1781747056",
-        "upstream_time": 1781747056,
-        "download_url": "https://dl.smwcentral.net/41638/Pizza%20Tower%20-%20mmm%20yes%20put%20the%20tree%20on%20my%20pizza.zip",
-        "filename": "Pizza Tower - mmm yes put the tree on my pizza.zip",
-        "size": 33674,
+        "upstream_id": 42056,
+        "title": "Plants vs. Zombies - Brainiac Maniac (KDL3 Style)",
+        "version": "smwc-42056-1785086206",
+        "upstream_time": 1785086206,
+        "download_url": "https://dl.smwcentral.net/42056/BrainiacManiacXGourmetRace_KDL3.zip",
+        "filename": "BrainiacManiacXGourmetRace_KDL3.zip",
+        "size": 56557,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1131,34 +905,101 @@
     ]
   },
   {
-    "name": "smwmusic-pok-mon-ruby-sapphire-emerald-trainers-eyes-meet-psychic-mmx2-style",
+    "name": "smwmusic-pok-mon-ruby-sapphire-emerald-wild-pok-mon-victory",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42247,
-    "title": "Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic)  (MMX2 Style)",
+    "upstream_id": 42093,
+    "title": "Pokémon Ruby/Sapphire/Emerald - Wild Pokémon Victory",
     "authors": [
-      "Segment1Zone2"
+      "7 up"
     ],
     "tags": [
       "cutscene",
-      "final",
-      "fire",
-      "industrial",
-      "overworld",
-      "tense"
+      "goal",
+      "upbeat"
     ],
-    "description": "The theme played when Fighter & Psychic trainers spot you in Pokémon Ruby / Sapphire / Emerald, ported in an MMX2 Style.",
-    "latest_version": "smwc-42247-1782789824",
+    "description": "A theme that plays when you defeat a wild Pokémon. It's a short version remixed to fit a victory scenario. No crazy custom ADSRs.<br>\r\n<br>\r\nThere's a define for the SMW whistle inside the TXT file.",
+    "latest_version": "smwc-42093-1785593286",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42247,
-        "title": "Pokémon Ruby/Sapphire/Emerald - Trainers' Eyes Meet (Psychic)  (MMX2 Style)",
-        "version": "smwc-42247-1782789824",
-        "upstream_time": 1782789824,
-        "download_url": "https://dl.smwcentral.net/42247/Pokemon%20RSE%20-%20Look%21%20Fighter%20%26%20Psychic%20%28MMX2%20Style%29%20.zip",
-        "filename": "Pokemon RSE - Look%21 Fighter %26 Psychic (MMX2 Style) .zip",
-        "size": 73558,
+        "upstream_id": 42093,
+        "title": "Pokémon Ruby/Sapphire/Emerald - Wild Pokémon Victory",
+        "version": "smwc-42093-1785593286",
+        "upstream_time": 1785593286,
+        "download_url": "https://dl.smwcentral.net/42093/Pokemon%20Gen%20III%20-%20Wild%20Pokemon%20Victory%20%28SMW%29_.zip",
+        "filename": "Pokemon Gen III - Wild Pokemon Victory (SMW)_.zip",
+        "size": 62969,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-power-rangers-zeo-battle-racers-select",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42294,
+    "title": "Power Rangers Zeo: Battle Racers - Select",
+    "authors": [
+      "h.carrell"
+    ],
+    "tags": [
+      "cutscene",
+      "menu",
+      "overworld"
+    ],
+    "description": "The main menu theme of the Power Rangers racing game on the SNES.",
+    "latest_version": "smwc-42294-1785114348",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42294,
+        "title": "Power Rangers Zeo: Battle Racers - Select",
+        "version": "smwc-42294-1785114348",
+        "upstream_time": 1785114348,
+        "download_url": "https://dl.smwcentral.net/42294/ZeoSelect%20.zip",
+        "filename": "ZeoSelect .zip",
+        "size": 56711,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-rokko-chan-hockey-man-mega-man-x-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42338,
+    "title": "Rokko Chan - Hockey Man (Mega Man X Style)",
+    "authors": [
+      "JX444444"
+    ],
+    "tags": [
+      "castle",
+      "cave",
+      "ice",
+      "industrial",
+      "mountain"
+    ],
+    "description": "When I started making this, I had forgotten that someone else had made an MMX-style Hockey Man a long time ago. I hope this is not equated with that person's version.<br>\r\nAnyway, I feel good knowing that many people enjoyed the animation that was released in advance as a short.",
+    "latest_version": "smwc-42338-1785548185",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42338,
+        "title": "Rokko Chan - Hockey Man (Mega Man X Style)",
+        "version": "smwc-42338-1785548185",
+        "upstream_time": 1785548185,
+        "download_url": "https://dl.smwcentral.net/42338/HockeyMan_X1.zip",
+        "filename": "HockeyMan_X1.zip",
+        "size": 65425,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1274,33 +1115,30 @@
     ]
   },
   {
-    "name": "smwmusic-sonic-the-hedgehog-ms-gg-special-stage",
+    "name": "smwmusic-snes-test-program-sound-channel-test",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42252,
-    "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
+    "upstream_id": 42032,
+    "title": "SNES Test Program - Sound Channel Test",
     "authors": [
-      "Dzing"
+      "Fullcannon"
     ],
     "tags": [
-      "airship",
-      "bonus",
-      "night",
-      "space",
-      "upbeat"
+      "grassland",
+      "jungle"
     ],
-    "description": "16-bit arrangement of the bonus stage of Sonic 8-bit. Requested by <span class=\"un-outer\" title=\"MaxtonChao\"><a href=\"/?p=profile&amp;id=69227\" style=\"color: var(--user-color-1);\" class=\"un\">MaxtonChao</a></span>.<br>\r\n<br>\r\nI used a tempo somewhere between the NTSC and PAL versions. Use t43 for the PAL version and t51 for the NTSC version.",
-    "latest_version": "smwc-42252-1781747812",
+    "description": "A sampled remix of the original Super Mario Bros. overworld theme as heard from the SNES Test Program, including both the left and right hardware channel demos and a centered version for general purposes.",
+    "latest_version": "smwc-42032-1785508908",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42252,
-        "title": "Sonic The Hedgehog (MS/GG) - Special Stage",
-        "version": "smwc-42252-1781747812",
-        "upstream_time": 1781747812,
-        "download_url": "https://dl.smwcentral.net/42252/sonic8bit-bonusstage%20.zip",
-        "filename": "sonic8bit-bonusstage .zip",
-        "size": 32604,
+        "upstream_id": 42032,
+        "title": "SNES Test Program - Sound Channel Test",
+        "version": "smwc-42032-1785508908",
+        "upstream_time": 1785508908,
+        "download_url": "https://dl.smwcentral.net/42032/SNES%20Test%20Program%20-%20Sound%20Channel%20Test.zip",
+        "filename": "SNES Test Program - Sound Channel Test.zip",
+        "size": 148252,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1336,6 +1174,74 @@
         "download_url": "https://dl.smwcentral.net/42120/Star%20Fox%202%20-%20Eladard.zip",
         "filename": "Star Fox 2 - Eladard.zip",
         "size": 44676,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-stunt-race-fx-goal",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42299,
+    "title": "Stunt Race FX - Goal",
+    "authors": [
+      "h.carrell"
+    ],
+    "tags": [
+      "cutscene",
+      "goal",
+      "misc"
+    ],
+    "description": "The Goal theme from Stunt Race FX, which is technically 2 seperate songs combined into 1.<br>\r\n<br>\r\nThere are 2 defines in the Part 1 and Combined text file, a define which adds the vanilla SMW Goal sound (#define goal), <br>\r\nand a define that combines both halves of the song into 1 (#define loop). <br>\r\nThe 2nd half of the song is also included as an entirely seperate song like in the original game.<br>\r\n<br>\r\nIncompatibile with Global use due to using Echo and samples.<br>\r\n<br>\r\nCredit goes to <span class=\"un-outer\" title=\"KungFuFurby\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=30120\" style=\"color: var(--user-color-2);\" class=\"un\">KungFuFurby</a></span> for providing an SPC Dump of the 2nd half.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Humberto Quackenbush\"><a href=\"/?p=profile&amp;id=36130\" style=\"color: var(--user-color-3);\" class=\"un\">Humberto Quackenbush</a></span>",
+    "latest_version": "smwc-42299-1785514765",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42299,
+        "title": "Stunt Race FX - Goal",
+        "version": "smwc-42299-1785514765",
+        "upstream_time": 1785514765,
+        "download_url": "https://dl.smwcentral.net/42299/Stunt%20Race%20FX%20Goal.zip",
+        "filename": "Stunt Race FX Goal.zip",
+        "size": 216918,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-stunt-race-fx-unused-song",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42221,
+    "title": "Stunt Race FX - Unused Song 2",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "chase",
+      "upbeat",
+      "urban"
+    ],
+    "description": "An unused racing course theme found in the final version of Stunt Race FX.",
+    "latest_version": "smwc-42221-1785263811",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42221,
+        "title": "Stunt Race FX - Unused Song 2",
+        "version": "smwc-42221-1785263811",
+        "upstream_time": 1785263811,
+        "download_url": "https://dl.smwcentral.net/42221/Stunt%20Race%20FX%20-%20Unused%20Song%202%20.zip",
+        "filename": "Stunt Race FX - Unused Song 2 .zip",
+        "size": 67549,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1381,66 +1287,133 @@
     ]
   },
   {
-    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-bowser-s-keep-first-visit",
+    "name": "smwmusic-super-mario-kart-undumped-prototype-vanilla-lake",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41931,
-    "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
+    "upstream_id": 42243,
+    "title": "Super Mario Kart (Undumped Prototype) - Vanilla Lake",
     "authors": [
-      "Moltz",
+      "brickblock369"
+    ],
+    "tags": [
+      "bonus",
+      "ice",
+      "sky",
+      "space"
+    ],
+    "description": "The later prototype version of Super Mario Kart's Vanilla Lake.<br>\r\nThanks to <a href=\"https://www.dropbox.com/s/yohxmxj36ijc9wq/Vanilla%20Lake.mp3?dl=0\" rel=\"nofollow\">this Dropbox link</a> of the recording from the game that Dave Harris/iridescentaudio (the person who transcribed a pretty accurate MIDI of it in 2008) kept, I was able to use that as a reference to help me port this!",
+    "latest_version": "2",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42243,
+        "title": "Super Mario Kart (Undumped Prototype) - Vanilla Lake",
+        "version": "2",
+        "upstream_time": 1785086893,
+        "download_url": "https://dl.smwcentral.net/42243/Super%20Mario%20Kart%20-%20Vanilla%20Lake%20%28Prototype%20v2%29.zip",
+        "filename": "Super Mario Kart - Vanilla Lake (Prototype v2).zip",
+        "size": 45555,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-mario-world",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42286,
+    "title": "Super Mario World 2: Yoshi's Island - Underground (MMX Style)",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "calm",
+      "cave",
+      "ice",
+      "industrial",
+      "upbeat"
+    ],
+    "description": "The theme played during the underground sections from Super Mario World 2: Yoshi's Island on the SNES, remixed in an MMX style.",
+    "latest_version": "smwc-42286-1785087081",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42286,
+        "title": "Super Mario World 2: Yoshi's Island - Underground (MMX Style)",
+        "version": "smwc-42286-1785087081",
+        "upstream_time": 1785087081,
+        "download_url": "https://dl.smwcentral.net/42286/Yoshi%27s%20Island%20-%20Underground%20%28MMX%20Style%29.zip",
+        "filename": "Yoshi%27s Island - Underground (MMX Style).zip",
+        "size": 68241,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-mario-world-miss-resampled",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42228,
+    "title": "Super Mario World - Miss (Resampled)",
+    "authors": [
+      "brickblock369"
+    ],
+    "tags": [
+      "miss"
+    ],
+    "description": "In case a local song of yours replaces the Miss jingle's piano (@9) with a weird sample instead, you could use this instead.<br>\r\n<br>\r\nThis uses @1, @6, and @3, and they're smaller samples and more commonly used in SFX, so they wouldn't get omitted whatsoever.<br>\r\n<br>\r\n@1 is the main instrument, @6 is used for the bass tones, and @3 is used to add an extra percussive layer for the piano.",
+    "latest_version": "smwc-42228-1785285157",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42228,
+        "title": "Super Mario World - Miss (Resampled)",
+        "version": "smwc-42228-1785285157",
+        "upstream_time": 1785285157,
+        "download_url": "https://dl.smwcentral.net/42228/Super%20Mario%20World%20-%20Miss%20%28but%20with%20%401%20instead%20of%20%409%29.zip",
+        "filename": "Super Mario World - Miss (but with %401 instead of %409).zip",
+        "size": 31570,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-tetris-attack-bowser-s-stage",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42251,
+    "title": "Tetris Attack - Bowser's Stage",
+    "authors": [
       "h.carrell"
     ],
     "tags": [
-      "castle",
-      "dark",
-      "final",
-      "overworld"
-    ],
-    "description": "The shorter variation of Bowser's Castle in SMRPG that plays at the start of the game. This one could probably fit an overworld of sorts.",
-    "latest_version": "smwc-41931-1781459862",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41931,
-        "title": "Super Mario RPG: Legend of the Seven Stars - Bowser's Keep (First Visit)",
-        "version": "smwc-41931-1781459862",
-        "upstream_time": 1781459862,
-        "download_url": "https://dl.smwcentral.net/41931/Super%20Mario%20RPG_Bowser%27s%20Castle%20%281st%20Visit%29.zip",
-        "filename": "Super Mario RPG_Bowser%27s Castle (1st Visit).zip",
-        "size": 31362,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-fight-against-an-armed-boss",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42208,
-    "title": "Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss",
-    "authors": [
-      "scratch"
-    ],
-    "tags": [
       "boss",
-      "upbeat"
+      "castle"
     ],
-    "description": "This is the origin of 危険な series mad. ",
-    "latest_version": "smwc-42208-1780933290",
+    "description": "The theme when you face Bowser in Tetris Attack/Thanatos in Panel de Pon.",
+    "latest_version": "smwc-42251-1785272362",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42208,
-        "title": "Super Mario RPG: Legend of the Seven Stars - Fight Against an Armed Boss",
-        "version": "smwc-42208-1780933290",
-        "upstream_time": 1780933290,
-        "download_url": "https://dl.smwcentral.net/42208/smrpg_armed.zip",
-        "filename": "smrpg_armed.zip",
-        "size": 73512,
+        "upstream_id": 42251,
+        "title": "Tetris Attack - Bowser's Stage",
+        "version": "smwc-42251-1785272362",
+        "upstream_time": 1785272362,
+        "download_url": "https://dl.smwcentral.net/42251/Thanatos.zip",
+        "filename": "Thanatos.zip",
+        "size": 56163,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1450,66 +1423,34 @@
     ]
   },
   {
-    "name": "smwmusic-super-tetris",
+    "name": "smwmusic-the-adventures-of-kid-kleets-london",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42134,
-    "title": "Super Tetris 3 - Sakura ~ The Cherry Blossoms",
+    "upstream_id": 42278,
+    "title": "The Adventures of Kid Kleets - London",
     "authors": [
-      "Fullcannon"
+      "SiameseTwins"
     ],
     "tags": [
-      "forest",
-      "mountain",
-      "sea"
+      "athletic",
+      "bonus",
+      "grassland",
+      "sky",
+      "town",
+      "urban"
     ],
-    "description": "Magicaliss stage 2 from Super Tetris 3, themed around traditional Japan featuring cherry blossoms and a bridge leading to mountain peaks.",
-    "latest_version": "smwc-42134-1782403436",
+    "description": "a.k.a. Soccer Kid. The song from the first level of the game. Very athletic and suits an urban area.",
+    "latest_version": "1.1",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42134,
-        "title": "Super Tetris 3 - Sakura ~ The Cherry Blossoms",
-        "version": "smwc-42134-1782403436",
-        "upstream_time": 1782403436,
-        "download_url": "https://dl.smwcentral.net/42134/Super%20Tetris%203%20-%20Sakura%20~%20The%20Cherry%20Blossoms.zip",
-        "filename": "Super Tetris 3 - Sakura ~ The Cherry Blossoms.zip",
-        "size": 59027,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-the-addams-family-pugsley-s-scavenger-hunt-attic",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42198,
-    "title": "The Addams Family: Pugsley's Scavenger Hunt - Attic",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cave",
-      "ghost house",
-      "mysterious",
-      "sewer"
-    ],
-    "description": "In-doors house music heard in the upper platforming sections & cavern of Pugsley's Scavenger Hunt, the second SNES title in the Addams Family series.",
-    "latest_version": "smwc-42198-1782838958",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42198,
-        "title": "The Addams Family: Pugsley's Scavenger Hunt - Attic",
-        "version": "smwc-42198-1782838958",
-        "upstream_time": 1782838958,
-        "download_url": "https://dl.smwcentral.net/42198/The%20Addams%20Family%20~%20Pugsley%27s%20Scavenger%20Hunt%20-%20Attic.zip",
-        "filename": "The Addams Family ~ Pugsley%27s Scavenger Hunt - Attic.zip",
-        "size": 44128,
+        "upstream_id": 42278,
+        "title": "The Adventures of Kid Kleets - London",
+        "version": "1.1",
+        "upstream_time": 1785113045,
+        "download_url": "https://dl.smwcentral.net/42278/The%20Adventures%20of%20Kid%20Kleets%20-%20London.zip",
+        "filename": "The Adventures of Kid Kleets - London.zip",
+        "size": 52920,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1551,172 +1492,235 @@
     ]
   },
   {
-    "name": "smwmusic-the-sword-of-lxsor-bgm-b7-final-offensive",
+    "name": "smwmusic-treasure-hunter-g-around-the-world",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41462,
-    "title": "The Sword of Lxsor - BGM B7 (\"Final Offensive\")",
-    "authors": [
-      "Ryman"
-    ],
-    "tags": [
-      "chase",
-      "final",
-      "tense"
-    ],
-    "description": "The Sword of Lxsor is an unreleased game for the Sharp X68000, and this is one of its many tracks. There's no known official name for it. <a href=\"https://www.youtube.com/watch?v=eHvzpztGeDo\" rel=\"nofollow\">Jharmonious</a>, who compiled the soundtrack of the game, gave the track a title.<br>\r\n <br>\r\nGood for tense areas.",
-    "latest_version": "v1.2",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41462,
-        "title": "The Sword of Lxsor - BGM B7 (\"Final Offensive\")",
-        "version": "v1.2",
-        "upstream_time": 1780863427,
-        "download_url": "https://dl.smwcentral.net/41462/Lxsor%20B7%20%28Final_Offensive%29%20v1.2.zip",
-        "filename": "Lxsor B7 (Final_Offensive) v1.2.zip",
-        "size": 24573,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-umineko-no-naku-koro-ni-when-they-cry-organ-short",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41457,
-    "title": "Umineko no Naku Koro ni (When They Cry) - Organ Short #600 Million in C Minor",
-    "authors": [
-      "Aguiar Salsicha"
-    ],
-    "tags": [
-      "castle",
-      "dark",
-      "mysterious",
-      "night",
-      "spooky"
-    ],
-    "description": "One of Beatrice's many themes in Umineko. I think it goes well with a gloomy castle.",
-    "latest_version": "smwc-41457-1780528414",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41457,
-        "title": "Umineko no Naku Koro ni (When They Cry) - Organ Short #600 Million in C Minor",
-        "version": "smwc-41457-1780528414",
-        "upstream_time": 1780528414,
-        "download_url": "https://dl.smwcentral.net/41457/Organ%20Short%20%23600%20Million%20In%20C%20Minor.zip",
-        "filename": "Organ Short %23600 Million In C Minor.zip",
-        "size": 31915,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-waialae-no-kiseki-sfc-course-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41936,
-    "title": "Waialae no Kiseki (SFC) - Course BGM",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "beach",
-      "jungle",
-      "sea"
-    ],
-    "description": "The primary in-game course background music heard/added in the SFC port of Waialae no Kiseki, originating from the PC-98 edition.",
-    "latest_version": "smwc-41936-1780588766",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41936,
-        "title": "Waialae no Kiseki (SFC) - Course BGM",
-        "version": "smwc-41936-1780588766",
-        "upstream_time": 1780588766,
-        "download_url": "https://dl.smwcentral.net/41936/Waialae%20no%20Kiseki%20%28SFC%29%20-%20Course%20BGM.zip",
-        "filename": "Waialae no Kiseki (SFC) - Course BGM.zip",
-        "size": 48859,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-waku-waku-ski-wonder-shoot-technician",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42223,
-    "title": "Waku Waku Ski Wonder Shoot - Technician",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "ice",
-      "menu",
-      "mountain",
-      "snow",
-      "upbeat"
-    ],
-    "description": "Character editor theme from Waku Waku Ski Wonder Shoot.",
-    "latest_version": "smwc-42223-1782840928",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42223,
-        "title": "Waku Waku Ski Wonder Shoot - Technician",
-        "version": "smwc-42223-1782840928",
-        "upstream_time": 1782840928,
-        "download_url": "https://dl.smwcentral.net/42223/Waku%20Waku%20Ski%20Wonder%20Shoot%20-%20Technician.zip",
-        "filename": "Waku Waku Ski Wonder Shoot - Technician.zip",
-        "size": 67302,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-ys-iv-mask-of-the-sun-field",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42121,
-    "title": "Ys IV: Mask of the Sun - Field",
+    "upstream_id": 42135,
+    "title": "Treasure Hunter G - Around the World",
     "authors": [
       "Fullcannon"
     ],
     "tags": [
       "grassland",
-      "mountain",
-      "upbeat"
+      "overworld",
+      "sea"
     ],
-    "description": "Wandering through the outside fields and wilderness in the SFC adaptation of Ys IV: Mask of the Sun.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>.",
-    "latest_version": "smwc-42121-1782836066",
+    "description": "Overworld theme from Treasure Hunter G.",
+    "latest_version": "smwc-42135-1785264541",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42121,
-        "title": "Ys IV: Mask of the Sun - Field",
-        "version": "smwc-42121-1782836066",
-        "upstream_time": 1782836066,
-        "download_url": "https://dl.smwcentral.net/42121/Ys%20IV%20Mask%20of%20the%20Sun%20-%20Field.zip",
-        "filename": "Ys IV Mask of the Sun - Field.zip",
-        "size": 72557,
+        "upstream_id": 42135,
+        "title": "Treasure Hunter G - Around the World",
+        "version": "smwc-42135-1785264541",
+        "upstream_time": 1785264541,
+        "download_url": "https://dl.smwcentral.net/42135/Treasure%20Hunter%20G%20-%20Around%20the%20World%20.zip",
+        "filename": "Treasure Hunter G - Around the World .zip",
+        "size": 59917,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-s-cookie-frantic-factory",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42008,
+    "title": "Yoshi's Cookie - Frantic Factory",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "castle",
+      "chaotic",
+      "chase",
+      "factory",
+      "tense"
+    ],
+    "description": "Frantic Factory/Action Type B from Yoshi's Cookie (SNES), one of the high speed puzzle themes in-game.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>.",
+    "latest_version": "smwc-42008-1785508649",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42008,
+        "title": "Yoshi's Cookie - Frantic Factory",
+        "version": "smwc-42008-1785508649",
+        "upstream_time": 1785508649,
+        "download_url": "https://dl.smwcentral.net/42008/Yoshis%20Cookie%20-%20Frantic%20Factory.zip",
+        "filename": "Yoshis Cookie - Frantic Factory.zip",
+        "size": 56050,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-s-safari-cornice-cave",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42010,
+    "title": "Yoshi's Safari - Cornice Cave",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "cave",
+      "fire",
+      "temple"
+    ],
+    "description": "Stage 8 from Yoshi's Safari, taking place under a fiery cavern.",
+    "latest_version": "smwc-42010-1785508456",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42010,
+        "title": "Yoshi's Safari - Cornice Cave",
+        "version": "smwc-42010-1785508456",
+        "upstream_time": 1785508456,
+        "download_url": "https://dl.smwcentral.net/42010/Yoshi%27s%20Safari%20-%20Cornice%20Cave.zip",
+        "filename": "Yoshi%27s Safari - Cornice Cave.zip",
+        "size": 57411,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-s-safari-crescent-underwater",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42173,
+    "title": "Yoshi's Safari - Crescent Underwater",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "beach",
+      "sea",
+      "water"
+    ],
+    "description": "Crescent Coast (Stage 4)'s underwater portion theme from Yoshi's Safari.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MKDSmaster91\"><a href=\"/?p=profile&amp;id=28195\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">MKDSmaster91</a></span>.",
+    "latest_version": "smwc-42173-1785508491",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42173,
+        "title": "Yoshi's Safari - Crescent Underwater",
+        "version": "smwc-42173-1785508491",
+        "upstream_time": 1785508491,
+        "download_url": "https://dl.smwcentral.net/42173/Yoshis%20Safari%20-%20Crescent%20Underwater.zip",
+        "filename": "Yoshis Safari - Crescent Underwater.zip",
+        "size": 49867,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-s-safari-opening",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42033,
+    "title": "Yoshi's Safari - Opening",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "calm",
+      "cutscene"
+    ],
+    "description": "Opening cutscenes story from Yoshi's Safari on the way to entering the grasslands.",
+    "latest_version": "smwc-42033-1785508469",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42033,
+        "title": "Yoshi's Safari - Opening",
+        "version": "smwc-42033-1785508469",
+        "upstream_time": 1785508469,
+        "download_url": "https://dl.smwcentral.net/42033/Yoshi%27s%20Safari%20-%20Opening.zip",
+        "filename": "Yoshi%27s Safari - Opening.zip",
+        "size": 37526,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-s-safari-pipe-island",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42009,
+    "title": "Yoshi's Safari - Pipe Island",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "athletic",
+      "grassland"
+    ],
+    "description": "Third stage from Yoshi's Safari, featuring plain grasslands with pipes in the background.",
+    "latest_version": "smwc-42009-1785508436",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42009,
+        "title": "Yoshi's Safari - Pipe Island",
+        "version": "smwc-42009-1785508436",
+        "upstream_time": 1785508436,
+        "download_url": "https://dl.smwcentral.net/42009/Yoshi%27s%20Safari%20-%20Pipe%20Island.zip",
+        "filename": "Yoshi%27s Safari - Pipe Island.zip",
+        "size": 50185,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-s-safari-stage-select",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42034,
+    "title": "Yoshi's Safari - Stage Select",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "menu",
+      "overworld"
+    ],
+    "description": "Stage selection overworld seen prior to entering a level in Yoshi's Safari.",
+    "latest_version": "smwc-42034-1785508615",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42034,
+        "title": "Yoshi's Safari - Stage Select",
+        "version": "smwc-42034-1785508615",
+        "upstream_time": 1785508615,
+        "download_url": "https://dl.smwcentral.net/42034/Yoshis%20Safari%20-%20Stage%20Select.zip",
+        "filename": "Yoshis Safari - Stage Select.zip",
+        "size": 35460,
         "sha256": null,
         "dependencies": [
           "addmusick"

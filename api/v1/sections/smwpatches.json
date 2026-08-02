@@ -636,6 +636,41 @@
     ]
   },
   {
+    "name": "smwpatches-free-roaming-overworld",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42743,
+    "title": "Free Roaming Overworld",
+    "authors": [
+      "TheBiob"
+    ],
+    "tags": [
+      "free",
+      "lorom",
+      "movement",
+      "overworld"
+    ],
+    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
+    "latest_version": "V1.0.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42743,
+        "title": "Free Roaming Overworld",
+        "version": "V1.0.1",
+        "upstream_time": 1785188426,
+        "download_url": "https://dl.smwcentral.net/42743/FreeOWV1.0.1.zip",
+        "filename": "FreeOWV1.0.1.zip",
+        "size": 5237,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-freeze-timer-with-string",
     "aliases": [],
     "section": "smwpatches",
@@ -895,40 +930,6 @@
         "download_url": "https://dl.smwcentral.net/41841/Mode%203%20Nintendo%20Presents%20v1.2.2.zip",
         "filename": "Mode 3 Nintendo Presents v1.2.2.zip",
         "size": 12101,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-modified-bob-omb-explosion",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41195,
-    "title": "Modified Bob-Omb Explosion",
-    "authors": [
-      "Koyuki"
-    ],
-    "tags": [
-      "bob-omb",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This patch modifies explosion of bob-ombs by adding quake effects and SFX change.",
-    "latest_version": "smwc-41195-1764601751",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41195,
-        "title": "Modified Bob-Omb Explosion",
-        "version": "smwc-41195-1764601751",
-        "upstream_time": 1764601751,
-        "download_url": "https://dl.smwcentral.net/41195/Bobomb_Asar2.zip",
-        "filename": "Bobomb_Asar2.zip",
-        "size": 490,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1198,7 +1199,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [

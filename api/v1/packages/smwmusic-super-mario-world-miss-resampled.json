@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-super-mario-world-miss-resampled",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42228,
+  "title": "Super Mario World - Miss (Resampled)",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "miss"
+  ],
+  "description": "In case a local song of yours replaces the Miss jingle's piano (@9) with a weird sample instead, you could use this instead.<br>\r\n<br>\r\nThis uses @1, @6, and @3, and they're smaller samples and more commonly used in SFX, so they wouldn't get omitted whatsoever.<br>\r\n<br>\r\n@1 is the main instrument, @6 is used for the bass tones, and @3 is used to add an extra percussive layer for the piano.",
+  "latest_version": "smwc-42228-1785285157",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42228,
+      "title": "Super Mario World - Miss (Resampled)",
+      "version": "smwc-42228-1785285157",
+      "upstream_time": 1785285157,
+      "download_url": "https://dl.smwcentral.net/42228/Super%20Mario%20World%20-%20Miss%20%28but%20with%20%401%20instead%20of%20%409%29.zip",
+      "filename": "Super Mario World - Miss (but with %401 instead of %409).zip",
+      "size": 31570,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

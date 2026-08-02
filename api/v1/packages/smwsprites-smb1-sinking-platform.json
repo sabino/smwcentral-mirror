@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-smb1-sinking-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42767,
+  "title": "SMB1 Sinking Platform",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "platform",
+    "sa-1",
+    "sink"
+  ],
+  "description": "This is a platform intended to mimic the platforms from the original Super Mario Bros. that fall rapidly when the player is standing on them.  The width is customizable.",
+  "latest_version": "smwc-42767-1785505580",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42767,
+      "title": "SMB1 Sinking Platform",
+      "version": "smwc-42767-1785505580",
+      "upstream_time": 1785505580,
+      "download_url": "https://dl.smwcentral.net/42767/SMB1%20sinking%20platform.zip",
+      "filename": "SMB1 sinking platform.zip",
+      "size": 3802,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-yoshi-s-safari-pipe-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42009,
+  "title": "Yoshi's Safari - Pipe Island",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "athletic",
+    "grassland"
+  ],
+  "description": "Third stage from Yoshi's Safari, featuring plain grasslands with pipes in the background.",
+  "latest_version": "smwc-42009-1785508436",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42009,
+      "title": "Yoshi's Safari - Pipe Island",
+      "version": "smwc-42009-1785508436",
+      "upstream_time": 1785508436,
+      "download_url": "https://dl.smwcentral.net/42009/Yoshi%27s%20Safari%20-%20Pipe%20Island.zip",
+      "filename": "Yoshi%27s Safari - Pipe Island.zip",
+      "size": 50185,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

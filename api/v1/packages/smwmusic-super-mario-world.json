@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-super-mario-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42286,
+  "title": "Super Mario World 2: Yoshi's Island - Underground (MMX Style)",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "ice",
+    "industrial",
+    "upbeat"
+  ],
+  "description": "The theme played during the underground sections from Super Mario World 2: Yoshi's Island on the SNES, remixed in an MMX style.",
+  "latest_version": "smwc-42286-1785087081",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42286,
+      "title": "Super Mario World 2: Yoshi's Island - Underground (MMX Style)",
+      "version": "smwc-42286-1785087081",
+      "upstream_time": 1785087081,
+      "download_url": "https://dl.smwcentral.net/42286/Yoshi%27s%20Island%20-%20Underground%20%28MMX%20Style%29.zip",
+      "filename": "Yoshi%27s Island - Underground (MMX Style).zip",
+      "size": 68241,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-super-mario-kart-undumped-prototype-vanilla-lake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42243,
+  "title": "Super Mario Kart (Undumped Prototype) - Vanilla Lake",
+  "authors": [
+    "brickblock369"
+  ],
+  "tags": [
+    "bonus",
+    "ice",
+    "sky",
+    "space"
+  ],
+  "description": "The later prototype version of Super Mario Kart's Vanilla Lake.<br>\r\nThanks to <a href=\"https://www.dropbox.com/s/yohxmxj36ijc9wq/Vanilla%20Lake.mp3?dl=0\" rel=\"nofollow\">this Dropbox link</a> of the recording from the game that Dave Harris/iridescentaudio (the person who transcribed a pretty accurate MIDI of it in 2008) kept, I was able to use that as a reference to help me port this!",
+  "latest_version": "2",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42243,
+      "title": "Super Mario Kart (Undumped Prototype) - Vanilla Lake",
+      "version": "2",
+      "upstream_time": 1785086893,
+      "download_url": "https://dl.smwcentral.net/42243/Super%20Mario%20Kart%20-%20Vanilla%20Lake%20%28Prototype%20v2%29.zip",
+      "filename": "Super Mario Kart - Vanilla Lake (Prototype v2).zip",
+      "size": 45555,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

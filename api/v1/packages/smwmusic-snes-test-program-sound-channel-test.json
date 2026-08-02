@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-snes-test-program-sound-channel-test",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42032,
+  "title": "SNES Test Program - Sound Channel Test",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "grassland",
+    "jungle"
+  ],
+  "description": "A sampled remix of the original Super Mario Bros. overworld theme as heard from the SNES Test Program, including both the left and right hardware channel demos and a centered version for general purposes.",
+  "latest_version": "smwc-42032-1785508908",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42032,
+      "title": "SNES Test Program - Sound Channel Test",
+      "version": "smwc-42032-1785508908",
+      "upstream_time": 1785508908,
+      "download_url": "https://dl.smwcentral.net/42032/SNES%20Test%20Program%20-%20Sound%20Channel%20Test.zip",
+      "filename": "SNES Test Program - Sound Channel Test.zip",
+      "size": 148252,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

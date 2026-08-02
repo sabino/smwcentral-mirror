@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-yoshi-s-safari-cornice-cave",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42010,
+  "title": "Yoshi's Safari - Cornice Cave",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "cave",
+    "fire",
+    "temple"
+  ],
+  "description": "Stage 8 from Yoshi's Safari, taking place under a fiery cavern.",
+  "latest_version": "smwc-42010-1785508456",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42010,
+      "title": "Yoshi's Safari - Cornice Cave",
+      "version": "smwc-42010-1785508456",
+      "upstream_time": 1785508456,
+      "download_url": "https://dl.smwcentral.net/42010/Yoshi%27s%20Safari%20-%20Cornice%20Cave.zip",
+      "filename": "Yoshi%27s Safari - Cornice Cave.zip",
+      "size": 57411,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

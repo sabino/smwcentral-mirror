@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-soul-blazer-battle-with-deathtoll",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42024,
+  "title": "Soul Blazer - Battle with Deathtoll",
+  "authors": [
+    "Anorakun",
+    "Darolac",
+    "TheXander"
+  ],
+  "tags": [
+    "abstract",
+    "sky"
+  ],
+  "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: var(--user-color-2);\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: var(--user-color-1);\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
+  "latest_version": "smwc-42024-1785442984",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42024,
+      "title": "Soul Blazer - Battle with Deathtoll",
+      "version": "smwc-42024-1785442984",
+      "upstream_time": 1785442984,
+      "download_url": "https://dl.smwcentral.net/42024/Soul%20Blazer%20-%20Battle%20with%20Deathtoll%20%28feat.%20parallax%29.zip",
+      "filename": "Soul Blazer - Battle with Deathtoll (feat. parallax).zip",
+      "size": 5158,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

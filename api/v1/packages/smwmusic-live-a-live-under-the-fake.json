@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-live-a-live-under-the-fake",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42312,
+  "title": "Live A Live - Under the Fake",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "calm",
+    "desert",
+    "mountain",
+    "night",
+    "overworld",
+    "town"
+  ],
+  "description": "It works well in deserts.",
+  "latest_version": "smwc-42312-1785116362",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42312,
+      "title": "Live A Live - Under the Fake",
+      "version": "smwc-42312-1785116362",
+      "upstream_time": 1785116362,
+      "download_url": "https://dl.smwcentral.net/42312/Under%20The%20Fake%20.zip",
+      "filename": "Under The Fake .zip",
+      "size": 32911,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42306,
+      "title": "Live A Live - Under the Fake",
+      "version": "v1.1",
+      "upstream_time": 1785116359,
+      "download_url": "https://dl.smwcentral.net/42306/Under%20The%20Fake%20.zip",
+      "filename": "Under The Fake .zip",
+      "size": 58502,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

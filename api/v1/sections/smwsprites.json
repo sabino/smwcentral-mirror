@@ -218,6 +218,42 @@
     ]
   },
   {
+    "name": "smwsprites-charging-spiny",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42744,
+    "title": "Charging Spiny",
+    "authors": [
+      "Major Flare"
+    ],
+    "tags": [
+      "chase",
+      "enemy",
+      "lorom",
+      "sa-1",
+      "spiny"
+    ],
+    "description": "This sprite acts like a normal SMB3 Spiny, but when Mario comes near it, it retreats into its shell and dashes towards him after spinning in place for a short amount of time.<br>\r\n<br>\r\nCheck the ASM file for customization options.",
+    "latest_version": "smwc-42744-1785201918",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42744,
+        "title": "Charging Spiny",
+        "version": "smwc-42744-1785201918",
+        "upstream_time": 1785201918,
+        "download_url": "https://dl.smwcentral.net/42744/Charging%20Spiny.zip",
+        "filename": "Charging Spiny.zip",
+        "size": 6228,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-chasing-explosive-swooper",
     "aliases": [],
     "section": "smwsprites",
@@ -946,43 +982,6 @@
     ]
   },
   {
-    "name": "smwsprites-goal-roulette",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41199,
-    "title": "Goal Roulette",
-    "authors": [
-      "Iceguy"
-    ],
-    "tags": [
-      "goal",
-      "item",
-      "lorom",
-      "pacifist",
-      "powerup",
-      "sa-1"
-    ],
-    "description": "This is a custom made Goal Roulette, inspired by the one from SMWCP II. The player can hit it to get either a yellow coin (5 coins), blue coin (10 coins), red coin (20 coins), Mushroom, 1-Up, Fire Flower, or nothing at all. The extra byte determines whether it triggers the normal exit or a secret exit.<br>\r\n<br>\r\nCheck the ASM file for customization options.<br>\r\n<br>\r\nCredit isn't required but would be nice.",
-    "latest_version": "smwc-41199-1772733043",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41199,
-        "title": "Goal Roulette",
-        "version": "smwc-41199-1772733043",
-        "upstream_time": 1772733043,
-        "download_url": "https://dl.smwcentral.net/41199/Goal%20Roulette%20Update.zip",
-        "filename": "Goal Roulette Update.zip",
-        "size": 3830,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-growing-vine",
     "aliases": [],
     "section": "smwsprites",
@@ -1081,6 +1080,41 @@
         "download_url": "https://dl.smwcentral.net/42003/iggy2024.zip",
         "filename": "iggy2024.zip",
         "size": 5146,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-invisible-sprite-killer-box-v1",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42764,
+    "title": "Invisible Sprite Killer Box v1.1",
+    "authors": [
+      "Darolac",
+      "MellyMellouange"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "sa-1"
+    ],
+    "description": "This invisible sprite will kill any other standard sprite it comes into contact with, even ones that are not meant to interact with objects or other sprites.<br>\r\n<br>\r\nVersion v1.1 by Darolac<br>\r\n<br>\r\n-Converted to PIXI.<br>\r\n-Added the option to kill sprites on the same line of the sprite.<br>\r\n-Optimized the code.",
+    "latest_version": "smwc-42764-1785484543",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42764,
+        "title": "Invisible Sprite Killer Box v1.1",
+        "version": "smwc-42764-1785484543",
+        "upstream_time": 1785484543,
+        "download_url": "https://dl.smwcentral.net/42764/Invisible%20Sprite%20Killer%20Box.zip",
+        "filename": "Invisible Sprite Killer Box.zip",
+        "size": 2266,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1487,6 +1521,42 @@
     ]
   },
   {
+    "name": "smwsprites-smb1-sinking-platform",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42767,
+    "title": "SMB1 Sinking Platform",
+    "authors": [
+      "imamelia"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "platform",
+      "sa-1",
+      "sink"
+    ],
+    "description": "This is a platform intended to mimic the platforms from the original Super Mario Bros. that fall rapidly when the player is standing on them.  The width is customizable.",
+    "latest_version": "smwc-42767-1785505580",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42767,
+        "title": "SMB1 Sinking Platform",
+        "version": "smwc-42767-1785505580",
+        "upstream_time": 1785505580,
+        "download_url": "https://dl.smwcentral.net/42767/SMB1%20sinking%20platform.zip",
+        "filename": "SMB1 sinking platform.zip",
+        "size": 3802,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-smw-like-lemmy-boss",
     "aliases": [],
     "section": "smwsprites",
@@ -1552,40 +1622,6 @@
         "download_url": "https://dl.smwcentral.net/42081/Statue%20Chuck%20v1.1.zip",
         "filename": "Statue Chuck v1.1.zip",
         "size": 6413,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-sumo-brother-ex",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41057,
-    "title": "Sumo Brother EX",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "enemy",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "A version of the Sumo Brother that spawns a highly configurable fire wall. With the extra bytes, you can control how far the fire spreads, how fast it spreads and how long the flames take to dissipate. Additionally, fire will only spread if ground is detected, no longer spawning on thin air like the original.<br>\r\n<br>\r\nIn the sprite's .asm file, you can also configure how long the Sumo Brother's cycle lasts and his speed when stepping to the side. You could make him extremely quick.<br>\r\n<br>\r\nIncluded is a custom flame cluster sprite. <b>Make sure to insert it and set up the define !cluster_flame_id accordingly in the sprite's .asm file!</b> The cluster sprite is required to allow for up to 20 flames to be on screen at once, unlike the original flames of which there can only be 10. It also fixes the sprite teleportation bug and the extended hitbox below.",
-    "latest_version": "smwc-41057-1772668752",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41057,
-        "title": "Sumo Brother EX",
-        "version": "smwc-41057-1772668752",
-        "upstream_time": 1772668752,
-        "download_url": "https://dl.smwcentral.net/41057/sumo_bro_ex.zip",
-        "filename": "sumo_bro_ex.zip",
-        "size": 9492,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1745,40 +1781,6 @@
         "download_url": "https://dl.smwcentral.net/40039/swimming_goomba.zip",
         "filename": "swimming_goomba.zip",
         "size": 11562,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-toothy-s-pipe",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40896,
-    "title": "Toothy's Pipe",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "lorom",
-      "pacifist",
-      "sa-1"
-    ],
-    "description": "A carriable pipe. While carried, Toothy, a piranha plant, comes out of it and kills enemies. You can optionally enable it to shatter specified map16 tiles on contact.<br>\r\n<br>\r\nOriginally from Super Mario Bros. X.",
-    "latest_version": "smwc-40896-1772572957",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40896,
-        "title": "Toothy's Pipe",
-        "version": "smwc-40896-1772572957",
-        "upstream_time": 1772572957,
-        "download_url": "https://dl.smwcentral.net/40896/toothy_pipe.zip",
-        "filename": "toothy_pipe.zip",
-        "size": 9519,
         "sha256": null,
         "dependencies": [
           "pixi"

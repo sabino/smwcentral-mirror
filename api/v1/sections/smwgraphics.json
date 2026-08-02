@@ -1,5 +1,39 @@
 [
   {
+    "name": "smwgraphics-alternative-redrawn-pidgit-bill",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42756,
+    "title": "Alternative Redrawn Pidgit Bill",
+    "authors": [
+      "Frattari Gaspar",
+      "Moltz",
+      "SF - The Dark Warrior"
+    ],
+    "tags": [
+      "bullet bill",
+      "pidgit bill",
+      "redrawn"
+    ],
+    "description": "Alternative redrawn graphics for SMW Redrawn's Pidgit Bill, which replaces vanilla Bullet Bill's graphics after all 96 exits have been found.<br>\r\n<br>\r\nThis version now includes graphics for the vertical and diagonal Bullet Bills, as well exanimation data for both based on how fast the user wants the Pidgits to flap their wings.<br>\r\n<br>\r\nGive credit to me, SF - The Dark Warrior, and Frattari Gaspar if used.",
+    "latest_version": "2.0",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42756,
+        "title": "Alternative Redrawn Pidgit Bill",
+        "version": "2.0",
+        "upstream_time": 1785371362,
+        "download_url": "https://dl.smwcentral.net/42756/New%20Redrawn%20Pidgit%20v2.zip",
+        "filename": "New Redrawn Pidgit v2.zip",
+        "size": 11300,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-alternative-redrawn-styled-bullet-bill",
     "aliases": [],
     "section": "smwgraphics",
@@ -58,38 +92,6 @@
         "download_url": "https://dl.smwcentral.net/42261/Alternate%20Redrawn%20Chucks.zip",
         "filename": "Alternate Redrawn Chucks.zip",
         "size": 15263,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-antonblast-the-big-bath-main",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42232,
-    "title": "ANTONBLAST - The Big Bath (Main)",
-    "authors": [
-      "VGrKnoise",
-      "playagmes169"
-    ],
-    "tags": [
-      "interior",
-      "sewer"
-    ],
-    "description": "Ah yes, the classic poolrooms reference that is the 5th stage in ANTONBLAST, you can use it for pools (obviously) or other water related stages like sewers or something! Huge credit goes to VGrKnoise on The Spriters Resource for ripping these tiles, I only slightly edited them and ported them to SMW, but I also ripped the water palette from the One Blast demo because I've gotta save money for more important things! Or maybe I can buy the full ANTONBLAST game some time in the future...<br>\r\n<br>\r\nNOTICE: the water that's already in SMW's files is in this Map16 because I included the water palette and flipped a tile so that you can use it however you'd like<br>\r\n<br>\r\nHere's where you can find the original rips:<br>\r\nhttps://www.spriters-resource.com/pc_computer/antonblast/asset/253627/<br>\r\nhttps://www.spriters-resource.com/pc_computer/antonblast/asset/254945/",
-    "latest_version": "smwc-42232-1776891241",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42232,
-        "title": "ANTONBLAST - The Big Bath (Main)",
-        "version": "smwc-42232-1776891241",
-        "upstream_time": 1776891241,
-        "download_url": "https://dl.smwcentral.net/42232/antonblastbigbath.zip",
-        "filename": "antonblastbigbath.zip",
-        "size": 7026,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -568,39 +570,6 @@
     ]
   },
   {
-    "name": "smwgraphics-pokey-heading-needlenose",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42231,
-    "title": "Pokey Heading + Needlenose",
-    "authors": [
-      "Frattari Gaspar",
-      "Moltz"
-    ],
-    "tags": [
-      "needlenose",
-      "pokey",
-      "redrawn"
-    ],
-    "description": "A redrawn styled version of this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41979\">sprite</a>, it comes with two variants one with white teeth based on their Yoshi's Island artwork and one with green teeth based in the Yoshi's New Island design.<br>\r\n<br>\r\nThe Needlenose from YI New Island was made by <a href=\"https://www.smwcentral.net/?p=profile&id=12420\">Moltz</a>.",
-    "latest_version": "smwc-42231-1776883840",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42231,
-        "title": "Pokey Heading + Needlenose",
-        "version": "smwc-42231-1776883840",
-        "upstream_time": 1776883840,
-        "download_url": "https://dl.smwcentral.net/42231/Pokey%20Heading%2BNeedlenose.zip",
-        "filename": "Pokey Heading+Needlenose.zip",
-        "size": 6378,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-puggsy-genesis-darkskull-castle",
     "aliases": [],
     "section": "smwgraphics",
@@ -695,37 +664,6 @@
     ]
   },
   {
-    "name": "smwgraphics-redrawn-styled-rideable-balloon",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42224,
-    "title": "Redrawn Styled Rideable Balloon",
-    "authors": [
-      "Moltz"
-    ],
-    "tags": [
-      "redrawn",
-      "rideable balloon"
-    ],
-    "description": "Redrawn-styled graphics for <a href=\"https://smwc.me/s/16172\">Yoshi Island's Rideable Balloon custom sprite recreation from smkdan</a>. It comes with 2 variations; normal, and with a blush.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42224-1776883539",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42224,
-        "title": "Redrawn Styled Rideable Balloon",
-        "version": "smwc-42224-1776883539",
-        "upstream_time": 1776883539,
-        "download_url": "https://dl.smwcentral.net/42224/Redrawn%20YI%20Balloon.zip",
-        "filename": "Redrawn YI Balloon.zip",
-        "size": 1648,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-redrawn-styled-serpont",
     "aliases": [],
     "section": "smwgraphics",
@@ -750,39 +688,6 @@
         "download_url": "https://dl.smwcentral.net/42319/RedrawnStyled%20Serpont.zip",
         "filename": "RedrawnStyled Serpont.zip",
         "size": 7629,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-shymore-shyster",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42233,
-    "title": "Redrawn Styled Shymore/Shyster",
-    "authors": [
-      "Moltz",
-      "icegoom"
-    ],
-    "tags": [
-      "redrawn",
-      "shymore",
-      "shyster"
-    ],
-    "description": "Redrawn-styled graphics for <a href=\"https://smwc.me/s/16213\">imamelia's Super Mario RPG Shymore/Shyster Custom Sprite recreation</a>, meant to make the enemy fit its more modern design from the Super Mario RPG Switch remake.<br>\r\n<br>\r\nMultiple variations are included depending on what palettes the Shy Guys riding the claymore-looking pogo-sticks look best with. Variations A to D use Icegoom's masks for Super Mario World Redrawn's Shy Guys, while variations E & F use a custom mask of my own design. <br>\r\n<br>\r\nSimilarly, 3 different custom palettes are included which give the pogo-sticks different colors: green, red, and gray/silver.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42233-1776889140",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42233,
-        "title": "Redrawn Styled Shymore/Shyster",
-        "version": "smwc-42233-1776889140",
-        "upstream_time": 1776889140,
-        "download_url": "https://dl.smwcentral.net/42233/Redrawn%20SMRPG%20Shymore.zip",
-        "filename": "Redrawn SMRPG Shymore.zip",
-        "size": 5523,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -846,6 +751,70 @@
         "download_url": "https://dl.smwcentral.net/42567/snowbrosarcadeworld2.zip",
         "filename": "snowbrosarcadeworld2.zip",
         "size": 13471,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-soul-blazer-battle-with-deathtoll",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42024,
+    "title": "Soul Blazer - Battle with Deathtoll",
+    "authors": [
+      "Anorakun",
+      "Darolac",
+      "TheXander"
+    ],
+    "tags": [
+      "abstract",
+      "sky"
+    ],
+    "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: var(--user-color-2);\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: var(--user-color-1);\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
+    "latest_version": "smwc-42024-1785442984",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42024,
+        "title": "Soul Blazer - Battle with Deathtoll",
+        "version": "smwc-42024-1785442984",
+        "upstream_time": 1785442984,
+        "download_url": "https://dl.smwcentral.net/42024/Soul%20Blazer%20-%20Battle%20with%20Deathtoll%20%28feat.%20parallax%29.zip",
+        "filename": "Soul Blazer - Battle with Deathtoll (feat. parallax).zip",
+        "size": 5158,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-soul-blazer-world-of-evil-space",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42036,
+    "title": "Soul Blazer - World of Evil (Space)",
+    "authors": [
+      "Anorakun",
+      "Donut"
+    ],
+    "tags": [
+      "space"
+    ],
+    "description": "The space-like background seen in the final area of Soul Blazer, a cult classic video game made by Quintet.  A good fit for space levels.<br>\r\n<br>\r\nBundled with this submission is a wave hdma code made by <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span>, meant to replicate the effect seen in the source material.  Insert it using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>. ",
+    "latest_version": "smwc-42036-1785442976",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42036,
+        "title": "Soul Blazer - World of Evil (Space)",
+        "version": "smwc-42036-1785442976",
+        "upstream_time": 1785442976,
+        "download_url": "https://dl.smwcentral.net/42036/Soul%20Blazer%20-%20World%20of%20Evil%20%28Space%20%2B%20Wave%20Effect%29.zip",
+        "filename": "Soul Blazer - World of Evil (Space + Wave Effect).zip",
+        "size": 5240,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1497,6 +1466,39 @@
         "download_url": "https://dl.smwcentral.net/42517/Wario%20%26%20Waluigi.zip",
         "filename": "Wario %26 Waluigi.zip",
         "size": 4600,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-whisper-the-wolf",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 41927,
+    "title": "Whisper The Wolf",
+    "authors": [
+      "NinAlexTM"
+    ],
+    "tags": [
+      "female player",
+      "new character",
+      "non mario",
+      "player"
+    ],
+    "description": "Whisper The Wolf...But in SMW Let´s Go &gt;:D. Made by me :).<br>\r\nThe Zip File includes:<br>\r\nGFX32 (Player)<br>\r\nGFX28 (Name)<br>\r\nGFX10 (Overworld Player)<br>\r\nGFX00 (Some Player Tiles)<br>\r\nSMW_Shared.pal (The character color palettes)<br>\r\n<br>\r\nAlso includes optional GFX:<br>\r\nGFX22<br>\r\nGFX24 (Both removes blushing frames from the vanilla ending)<br>\r\n<br>\r\nFunny Thing: Like i did with Tangle & Rayman, Second Player it´s a Silver Color Reference (not at all), again, to mimic \"Green Mario\". (Because of the limited colors and some shared colors between P1 & P2, P2 looks a little weird)",
+    "latest_version": "smwc-41927-1785436075",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 41927,
+        "title": "Whisper The Wolf",
+        "version": "smwc-41927-1785436075",
+        "upstream_time": 1785436075,
+        "download_url": "https://dl.smwcentral.net/41927/Whisper%20in%20SMW.zip",
+        "filename": "Whisper in SMW.zip",
+        "size": 23932,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

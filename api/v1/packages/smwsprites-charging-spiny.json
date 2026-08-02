@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-charging-spiny",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42744,
+  "title": "Charging Spiny",
+  "authors": [
+    "Major Flare"
+  ],
+  "tags": [
+    "chase",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "spiny"
+  ],
+  "description": "This sprite acts like a normal SMB3 Spiny, but when Mario comes near it, it retreats into its shell and dashes towards him after spinning in place for a short amount of time.<br>\r\n<br>\r\nCheck the ASM file for customization options.",
+  "latest_version": "smwc-42744-1785201918",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42744,
+      "title": "Charging Spiny",
+      "version": "smwc-42744-1785201918",
+      "upstream_time": 1785201918,
+      "download_url": "https://dl.smwcentral.net/42744/Charging%20Spiny.zip",
+      "filename": "Charging Spiny.zip",
+      "size": 6228,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-final-fantasy-vi-shadow-s-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42279,
+  "title": "Final Fantasy VI - Shadow's Theme",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "calm",
+    "cave",
+    "credits",
+    "cutscene",
+    "forest",
+    "sad",
+    "title",
+    "town"
+  ],
+  "description": "A calm/sad tune that can fit forests, towns and cutscenes.",
+  "latest_version": "1.1",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42279,
+      "title": "Final Fantasy VI - Shadow's Theme",
+      "version": "1.1",
+      "upstream_time": 1785113216,
+      "download_url": "https://dl.smwcentral.net/42279/Final%20Fantasy%20VI%20-%20Shadow%27s%20Theme.zip",
+      "filename": "Final Fantasy VI - Shadow%27s Theme.zip",
+      "size": 66348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

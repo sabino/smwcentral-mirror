@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-free-roaming-overworld",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42743,
+  "title": "Free Roaming Overworld",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "free",
+    "lorom",
+    "movement",
+    "overworld"
+  ],
+  "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
+  "latest_version": "V1.0.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42743,
+      "title": "Free Roaming Overworld",
+      "version": "V1.0.1",
+      "upstream_time": 1785188426,
+      "download_url": "https://dl.smwcentral.net/42743/FreeOWV1.0.1.zip",
+      "filename": "FreeOWV1.0.1.zip",
+      "size": 5237,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

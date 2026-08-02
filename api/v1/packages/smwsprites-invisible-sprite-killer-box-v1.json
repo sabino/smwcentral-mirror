@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-invisible-sprite-killer-box-v1",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42764,
+  "title": "Invisible Sprite Killer Box v1.1",
+  "authors": [
+    "Darolac",
+    "MellyMellouange"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This invisible sprite will kill any other standard sprite it comes into contact with, even ones that are not meant to interact with objects or other sprites.<br>\r\n<br>\r\nVersion v1.1 by Darolac<br>\r\n<br>\r\n-Converted to PIXI.<br>\r\n-Added the option to kill sprites on the same line of the sprite.<br>\r\n-Optimized the code.",
+  "latest_version": "smwc-42764-1785484543",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42764,
+      "title": "Invisible Sprite Killer Box v1.1",
+      "version": "smwc-42764-1785484543",
+      "upstream_time": 1785484543,
+      "download_url": "https://dl.smwcentral.net/42764/Invisible%20Sprite%20Killer%20Box.zip",
+      "filename": "Invisible Sprite Killer Box.zip",
+      "size": 2266,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}
