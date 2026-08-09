@@ -1,0 +1,43 @@
+{
+  "name": "smwpatches-player-hp-meter",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 40285,
+  "title": "Player HP meter v4.3",
+  "authors": [
+    "HammerBrother",
+    "Iceguy",
+    "K3fka",
+    "Ladida"
+  ],
+  "tags": [
+    "counter",
+    "health bar",
+    "hitpoints",
+    "hp bar",
+    "knockback",
+    "lifebar",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch will add a health system based on the \"numerical HP bar\". However its has been heavily edited and added new features by GreenHammerBro:<br>\r\n<br>\r\n<ul>\r\n<li>Custom blocks to damage, heal, and increase max HP. Also damage and recovery based on fraction of max HP</li>\r\n<li>16-bit HP and max HP, you can now have up to 65535 HP, Good for hacks that have made collectibles HP upgrades items that are being saved or RPG-styled hacks. Of course, you can change that to 8-bit for HP being less than or equal to 255 to save memory.</li>\r\n<li>display HP also as a bar in percentage (based on the HP meter for sprites in the patch section).</li>\r\n<li>display HP on overworld border, so the player know how much HP they have without the need to be in a level.</li>\r\n<li>All kinds of sprites (normal, custom, cluster, and extended) now have customizable damage, no more several sprites dealing 1HP of damage.</li>\r\n<li>perfect knockback, when hit, rather than the need to have higher backward speed, Mario loses control until he's back on the ground. Also, its programmed to knock <i>away</i> from the sprite rather than backwards.</li>\r\n<li>Display numerical current HP changes, showing the total damage and recovery briefly.</li>\r\n</ul><br>\r\n<br>\r\nRead the readme and VersionHistory.txt for more info.<br>\r\n<br>\r\nNotes:<br>\r\n<ul>\r\n<li>Bob-omb explosion itself share the damage as the bob-omb, since the explosion is actually the bob-omb sprite.</li>\r\n\r\n<li>The GIFs here may be rendered at a lower framerate than usual, the bar’s rapid-flicker is a pseudo-transparency effect to display damge or recovery amount.</li>\r\n</ul>",
+  "latest_version": "4.3",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 40285,
+      "title": "Player HP meter v4.3",
+      "version": "4.3",
+      "upstream_time": 1785996523,
+      "download_url": "https://dl.smwcentral.net/40285/Player-HP-patch_v4_3.zip",
+      "filename": "Player-HP-patch_v4_3.zip",
+      "size": 249677,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

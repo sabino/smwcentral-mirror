@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-player-damaging-fireball-flag",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42383,
+  "title": "Player-Damaging Fireball Flag",
+  "authors": [
+    "TheBiob"
+  ],
+  "tags": [
+    "fireball",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #edad24;\" class=\"un\">Arinsu</a></span>.",
+  "latest_version": "v1.2.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42383,
+      "title": "Player-Damaging Fireball Flag",
+      "version": "v1.2.1",
+      "upstream_time": 1786041929,
+      "download_url": "https://dl.smwcentral.net/42383/fireball_interaction_v1.2.1.zip",
+      "filename": "fireball_interaction_v1.2.1.zip",
+      "size": 3197,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

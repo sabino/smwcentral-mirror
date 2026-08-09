@@ -694,6 +694,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42261/Alternate%20Redrawn%20Chucks.zip
 Description: Alternative Redrawn Styled Chucks
 
+Package: smwgraphics-bandr-s-grassland
+Version: smwc-42783-1785954429
+Section: smwgraphics
+Architecture: smw
+Maintainer: bandr
+Filename: pool/smwgraphics/42783/bandr-Grass.zip
+Size: 4071
+X-SMWC-ID: 42783
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42783/bandr-Grass.zip
+Description: bandr's Grassland
+
 Package: smwgraphics-bomberman-ii-intro-cutscene
 Version: smwc-41854-1782790399
 Section: smwgraphics
@@ -825,6 +837,18 @@ X-SMWC-ID: 42613
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42613/Mario%20if%20he%20locked%20in.zip
 Description: Mario if he locked in
+
+Package: smwgraphics-minus-galaxy-styled-mario
+Version: smwc-42774-1785695919
+Section: smwgraphics
+Architecture: smw
+Maintainer: Gamer collin, mit
+Filename: pool/smwgraphics/42774/Mario (Minus Galaxy Style).zip
+Size: 49729
+X-SMWC-ID: 42774
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip
+Description: Minus Galaxy Styled Mario
 
 Package: smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt
 Version: smwc-41579-1778486576
@@ -1006,18 +1030,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip
 Description: Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2
 
-Package: smwgraphics-super-mario-all-stars-super-mario-bros
-Version: smwc-42044-1777156058
-Section: smwgraphics
-Architecture: smw
-Maintainer: Natsuz2
-Filename: pool/smwgraphics/42044/SMAS3 Castle.zip
-Size: 5289
-X-SMWC-ID: 42044
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42044/SMAS3%20Castle.zip
-Description: Super Mario All-Stars: Super Mario Bros. 3 - Castle
-
 Package: smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi
 Version: smwc-42601-1782687074
 Section: smwgraphics
@@ -1125,18 +1137,6 @@ X-SMWC-ID: 42623
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip
 Description: Super Mario World Styled Princess Peach
-
-Package: smwgraphics-super-mario-world-styled-super-mario-world
-Version: smwc-42241-1777144690
-Section: smwgraphics
-Architecture: smw
-Maintainer: TheOrangeToad
-Filename: pool/smwgraphics/42241/SMW Syled SMW2 Yoshi%27s Island - Forest Background.zip
-Size: 4290
-X-SMWC-ID: 42241
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42241/SMW%20Syled%20SMW2%20Yoshi%27s%20Island%20-%20Forest%20Background.zip
-Description: Super Mario World Styled Super Mario World 2: Yoshi's Island - Forest
 
 Package: smwgraphics-super-mario-world-styled-western-badlands
 Version: smwc-42377-1779061200
@@ -2050,18 +2050,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41471/retimer3.0.zip
 Description: Freeze Timer With String
 
-Package: smwpatches-item-block-priority-mask
-Version: smwc-41020-1764617255
-Section: smwpatches
-Architecture: smw
-Maintainer: Ice Man, Katrina
-Filename: pool/smwpatches/41020/ItemBlockPriorityMask.zip
-Size: 1142
-X-SMWC-ID: 41020
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41020/ItemBlockPriorityMask.zip
-Description: Item Block Priority Mask
-
 Package: smwpatches-kick-and-drop-override-fix
 Version: smwc-40704-1764722095
 Section: smwpatches
@@ -2230,6 +2218,30 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41597/PickUpSound.zip
 Description: Pick Up Sprite Sound
 
+Package: smwpatches-player-damaging-fireball-flag
+Version: v1.2.1
+Section: smwpatches
+Architecture: smw
+Maintainer: TheBiob
+Filename: pool/smwpatches/42383/fireball_interaction_v1.2.1.zip
+Size: 3197
+X-SMWC-ID: 42383
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42383/fireball_interaction_v1.2.1.zip
+Description: Player-Damaging Fireball Flag
+
+Package: smwpatches-player-hp-meter
+Version: 4.3
+Section: smwpatches
+Architecture: smw
+Maintainer: HammerBrother, Iceguy, K3fka, Ladida
+Filename: pool/smwpatches/40285/Player-HP-patch_v4_3.zip
+Size: 249677
+X-SMWC-ID: 40285
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/40285/Player-HP-patch_v4_3.zip
+Description: Player HP meter v4.3
+
 Package: smwpatches-poison-mushroom
 Version: 1.1.2
 Section: smwpatches
@@ -2386,18 +2398,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip
 Description: Tolerance Timer (aka Input Buffering & "Coyote Time")
 
-Package: smwpatches-walking-monty-mole
-Version: smwc-40869-1764611593
-Section: smwpatches
-Architecture: smw
-Maintainer: Koopster
-Filename: pool/smwpatches/40869/walking_monty_mole.zip
-Size: 864
-X-SMWC-ID: 40869
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40869/walking_monty_mole.zip
-Description: Walking Monty Mole
-
 Package: smwpatches-xorshift-pseudo-random-number-generator
 Version: smwc-42146-1778281143
 Section: smwpatches
@@ -2481,6 +2481,18 @@ X-SMWC-ID: 41921
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/41921/Bouncy%20Boo.zip
 Description: Bouncy Boo
+
+Package: smwsprites-bumper
+Version: v1.2
+Section: smwsprites
+Architecture: smw
+Maintainer: Blind Devil
+Filename: pool/smwsprites/42816/LeBumper v1.2.zip
+Size: 10947
+X-SMWC-ID: 42816
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42816/LeBumper%20v1.2.zip
+Description: Bumper
 
 Package: smwsprites-charging-spiny
 Version: smwc-42744-1785201918
@@ -2793,18 +2805,6 @@ X-SMWC-ID: 42183
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip
 Description: Mother Dino Rhino + Dino Torch Egg
-
-Package: smwsprites-moving-midway-point-tape
-Version: smwc-41528-1772757509
-Section: smwsprites
-Architecture: smw
-Maintainer: Koopster
-Filename: pool/smwsprites/41528/moving_midway_point_tape.zip
-Size: 6034
-X-SMWC-ID: 41528
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/41528/moving_midway_point_tape.zip
-Description: Moving Midway Point Tape
 
 Package: smwsprites-new-super-mario-bros-stretch-shroom
 Version: smwc-41111-1773018736
@@ -3370,18 +3370,6 @@ X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/31275/le120.zip
 Description: Lunar Expand v1.20
 
-Package: tools-lunar-helper-lunar-monitor-bundle-v2-0
-Version: smwc-29228-1651551110
-Section: tools
-Architecture: smw
-Maintainer: Atari2.0, YMM, underway
-Filename: pool/tools/29228/LunarHelper-LunarMonitor-Bundle-v2.0.0.zip
-Size: 11121229
-X-SMWC-ID: 29228
-X-SMWAPT-Kind: Tool
-X-SMWAPT-URL: https://dl.smwcentral.net/29228/LunarHelper-LunarMonitor-Bundle-v2.0.0.zip
-Description: Lunar Helper + Lunar Monitor Bundle v2.0.0
-
 Package: tools-lunar-magic-archive-of-older-versions
 Version: smwc-39449-1740848883
 Section: tools
@@ -3405,6 +3393,18 @@ X-SMWC-ID: 13234
 X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/13234/M64%20Parser%200.9.zip
 Description: M64 Parser 0.09
+
+Package: tools-m7-map
+Version: smwc-25188-1608246126
+Section: tools
+Architecture: smw
+Maintainer: Vitor Vilela
+Filename: pool/tools/25188/M7Map 2019.zip
+Size: 584268
+X-SMWC-ID: 25188
+X-SMWAPT-Kind: Tool
+X-SMWAPT-URL: https://dl.smwcentral.net/25188/M7Map%202019.zip
+Description: M7 Map
 
 Package: tools-mario-64-level-importer
 Version: smwc-4813-1366223468
@@ -3610,18 +3610,6 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42635/BabyYoshiEatsV1.1.zip
 Description: Configurable Amount of Baby Yoshi Eats
 
-Package: uberasm-consistent-vanilla-walljumps
-Version: smwc-41030-1763077448
-Section: uberasm
-Architecture: smw
-Maintainer: xHF01x
-Filename: pool/uberasm/41030/vanilla_walljump.zip
-Size: 3416
-X-SMWC-ID: 41030
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/41030/vanilla_walljump.zip
-Description: Consistent Vanilla Walljumps
-
 Package: uberasm-controller-read-optimization
 Version: smwc-41069-1763568165
 Section: uberasm
@@ -3693,6 +3681,18 @@ X-SMWC-ID: 41443
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41443/lights_timer%20asar2.zip
 Description: Fading Lights v1.1.2
+
+Package: uberasm-fair-powerup-filters
+Version: V1.0.1
+Section: uberasm
+Architecture: smw
+Maintainer: Koopster
+Filename: pool/uberasm/42792/powerupfiltersV1.0.1.zip
+Size: 3689
+X-SMWC-ID: 42792
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42792/powerupfiltersV1.0.1.zip
+Description: Fair Powerup Filters
 
 Package: uberasm-filter-items-when-exiting-pipe
 Version: V1.0.1

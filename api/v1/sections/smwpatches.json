@@ -708,42 +708,6 @@
     ]
   },
   {
-    "name": "smwpatches-item-block-priority-mask",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41020,
-    "title": "Item Block Priority Mask",
-    "authors": [
-      "Ice Man",
-      "Katrina"
-    ],
-    "tags": [
-      "lorom",
-      "priority",
-      "sa-1",
-      "sprite"
-    ],
-    "description": "This patch uses a sprite priority mask to put items behind item blocks.<br>\r\n<br>\r\nThis means that they will no longer be obstructed by low-priority objects on Layer 1 or Layer 2, without having to change the item block Map16 to high priority.<br>\r\n<br>\r\nMost useful for hacks which use unusual subscreen/mainscreen settings for color math, since having Layer 2 on subscreen normally puts items behind the BG.<br>\r\n<br>\r\n<b><span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span> Edit:</b><br>\r\nMade it also SA-1 compatible and fixed a small oversight with when a P-Switch is active.<br>\r\nThe mask was still showing even though it was not needed in that case.",
-    "latest_version": "smwc-41020-1764617255",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41020,
-        "title": "Item Block Priority Mask",
-        "version": "smwc-41020-1764617255",
-        "upstream_time": 1764617255,
-        "download_url": "https://dl.smwcentral.net/41020/ItemBlockPriorityMask.zip",
-        "filename": "ItemBlockPriorityMask.zip",
-        "size": 1142,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-kick-and-drop-override-fix",
     "aliases": [],
     "section": "smwpatches",
@@ -1254,6 +1218,83 @@
     ]
   },
   {
+    "name": "smwpatches-player-damaging-fireball-flag",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42383,
+    "title": "Player-Damaging Fireball Flag",
+    "authors": [
+      "TheBiob"
+    ],
+    "tags": [
+      "fireball",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #edad24;\" class=\"un\">Arinsu</a></span>.",
+    "latest_version": "v1.2.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42383,
+        "title": "Player-Damaging Fireball Flag",
+        "version": "v1.2.1",
+        "upstream_time": 1786041929,
+        "download_url": "https://dl.smwcentral.net/42383/fireball_interaction_v1.2.1.zip",
+        "filename": "fireball_interaction_v1.2.1.zip",
+        "size": 3197,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-player-hp-meter",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 40285,
+    "title": "Player HP meter v4.3",
+    "authors": [
+      "HammerBrother",
+      "Iceguy",
+      "K3fka",
+      "Ladida"
+    ],
+    "tags": [
+      "counter",
+      "health bar",
+      "hitpoints",
+      "hp bar",
+      "knockback",
+      "lifebar",
+      "lorom",
+      "player",
+      "sa-1"
+    ],
+    "description": "This patch will add a health system based on the \"numerical HP bar\". However its has been heavily edited and added new features by GreenHammerBro:<br>\r\n<br>\r\n<ul>\r\n<li>Custom blocks to damage, heal, and increase max HP. Also damage and recovery based on fraction of max HP</li>\r\n<li>16-bit HP and max HP, you can now have up to 65535 HP, Good for hacks that have made collectibles HP upgrades items that are being saved or RPG-styled hacks. Of course, you can change that to 8-bit for HP being less than or equal to 255 to save memory.</li>\r\n<li>display HP also as a bar in percentage (based on the HP meter for sprites in the patch section).</li>\r\n<li>display HP on overworld border, so the player know how much HP they have without the need to be in a level.</li>\r\n<li>All kinds of sprites (normal, custom, cluster, and extended) now have customizable damage, no more several sprites dealing 1HP of damage.</li>\r\n<li>perfect knockback, when hit, rather than the need to have higher backward speed, Mario loses control until he's back on the ground. Also, its programmed to knock <i>away</i> from the sprite rather than backwards.</li>\r\n<li>Display numerical current HP changes, showing the total damage and recovery briefly.</li>\r\n</ul><br>\r\n<br>\r\nRead the readme and VersionHistory.txt for more info.<br>\r\n<br>\r\nNotes:<br>\r\n<ul>\r\n<li>Bob-omb explosion itself share the damage as the bob-omb, since the explosion is actually the bob-omb sprite.</li>\r\n\r\n<li>The GIFs here may be rendered at a lower framerate than usual, the bar’s rapid-flicker is a pseudo-transparency effect to display damge or recovery amount.</li>\r\n</ul>",
+    "latest_version": "4.3",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 40285,
+        "title": "Player HP meter v4.3",
+        "version": "4.3",
+        "upstream_time": 1785996523,
+        "download_url": "https://dl.smwcentral.net/40285/Player-HP-patch_v4_3.zip",
+        "filename": "Player-HP-patch_v4_3.zip",
+        "size": 249677,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-poison-mushroom",
     "aliases": [],
     "section": "smwpatches",
@@ -1736,40 +1777,6 @@
         "download_url": "https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip",
         "filename": "tolerance-timer-asar2.zip",
         "size": 1981,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-walking-monty-mole",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40869,
-    "title": "Walking Monty Mole",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "lorom",
-      "monty mole",
-      "sa-1"
-    ],
-    "description": "This patch allows for a monty mole to be placed in its walking state instead of digging out. To do that, place sprite 12 (originally unused).<br>\r\n<br>\r\nIts behavior (follow or walk with a hop) will still be dependent on its X position, unless the <a href=\"https://smwc.me/s/27942\">Sprite Properties Depending on the Extra Bit patch</a> has been installed, in which case it will similarly obey the extra bit.",
-    "latest_version": "smwc-40869-1764611593",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40869,
-        "title": "Walking Monty Mole",
-        "version": "smwc-40869-1764611593",
-        "upstream_time": 1764611593,
-        "download_url": "https://dl.smwcentral.net/40869/walking_monty_mole.zip",
-        "filename": "walking_monty_mole.zip",
-        "size": 864,
         "sha256": null,
         "dependencies": [
           "asar"

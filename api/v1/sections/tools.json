@@ -1191,40 +1191,6 @@
     ]
   },
   {
-    "name": "tools-lunar-helper-lunar-monitor-bundle-v2-0",
-    "aliases": [],
-    "section": "tools",
-    "upstream_id": 29228,
-    "title": "Lunar Helper + Lunar Monitor Bundle v2.0.0",
-    "authors": [
-      "Atari2.0",
-      "YMM",
-      "underway"
-    ],
-    "tags": [
-      "insert",
-      "inserter",
-      "insertion"
-    ],
-    "description": "<b><span style=\"color: #ff0000;\"><span style=\"font-size: 18pt;\">MOD NOTICE: THIS TOOL HAS BEEN SUPERSEDED BY <a href=\"https://smwc.me/t/125568\">callisto</a> AND HAS BEEN SUBSEQUENTLY DEPRECATED, ITS USAGE IS THUS UNSUPPORTED, IT REMAINS IN THE SECTION FOR ARCHIVAL PURPOSES ONLY. </span></span></b><br>\r\n<br>\r\nThis is a bundle of two tools, Lunar Helper (originally created by Maddy Thorson, slightly altered by me (underway)) and Lunar Monitor (mostly written by me, logging functionality added by Atari2.0), which together allow you to very easily extract resources from your ROM while you edit it in Lunar Magic and to then rebuild your ROM from these extracted resources.<br>\r\n<br>\r\nEach tool has its own directory in this archive, as well as its own included readme for its setup. <br>\r\n<br>\r\nLunar Helper is basically a build system for SMW ROMs, which takes a bunch of resources and inserts them all into a clean ROM to produce a hacked output ROM.<br>\r\n<br>\r\nLunar Monitor automatically extracts the necessary resources for this process whenever you make changes to them while working with Lunar Magic.<br>\r\n<br>\r\nNote that the included Lunar Helper version is slightly different from the standard version in that it does not have a Save function, since Lunar Monitor handles all exports automatically.<br>\r\n<br>\r\nNote that v2.0.0 is the version tag assigned to this bundle by me, I'm not assigning it to the individual tools.<br>\r\n<br>\r\nVersion history:<br>\r\n<br>\r\nv2.0.0 - Updates Lunar Monitor to v1.0.0 (\"Export all\" button, log messages in LM and removal of `mwl_file_format`)<br>\r\nv1.2.1 - Updates Lunar Helper to v1.2.1-LMC, which fixes a typo in the new config var from v1.2.0-LMC<br>\r\nv1.2.0 - Updates Lunar Helper to v1.2.0-LMC and Lunar Monitor to v0.5.0<br>\r\nv1.1.1 - Updates Lunar Helper to v1.1.1-LMC<br>\r\nv1.1.0 - Updates Lunar Helper to v1.1.0-LMC and Lunar Monitor to v0.4.0",
-    "latest_version": "smwc-29228-1651551110",
-    "install_kind": "tool",
-    "versions": [
-      {
-        "upstream_id": 29228,
-        "title": "Lunar Helper + Lunar Monitor Bundle v2.0.0",
-        "version": "smwc-29228-1651551110",
-        "upstream_time": 1651551110,
-        "download_url": "https://dl.smwcentral.net/29228/LunarHelper-LunarMonitor-Bundle-v2.0.0.zip",
-        "filename": "LunarHelper-LunarMonitor-Bundle-v2.0.0.zip",
-        "size": 11121229,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "tool"
-      }
-    ]
-  },
-  {
     "name": "tools-lunar-magic-archive-of-older-versions",
     "aliases": [],
     "section": "tools",
@@ -1286,6 +1252,36 @@
         "download_url": "https://dl.smwcentral.net/13234/M64%20Parser%200.9.zip",
         "filename": "M64 Parser 0.9.zip",
         "size": 28910,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "tool"
+      }
+    ]
+  },
+  {
+    "name": "tools-m7-map",
+    "aliases": [],
+    "section": "tools",
+    "upstream_id": 25188,
+    "title": "M7 Map",
+    "authors": [
+      "Vitor Vilela"
+    ],
+    "tags": [
+      "mode 7"
+    ],
+    "description": "Vitor's Mode 7 mapping tool, released in his Ultimate Tool Request thread from Winter 2019.<br>\r\n<br>\r\nYou can utilize this to edit tilemaps to look how you want them to look in-game, and you can also project the tilemap and preview how it looks after a matrix transformation. Lastly, with some C# knowledge, you can also create a custom projection.<br>\r\n<br>\r\nFor use, convert an image to SNES 8bpp Mode 7 using SNESGfx, with tilemap, and upload it to M7 Map using the open options. From there on, it should be simple. Easy Mode 7 Patch required if you want to use it in your hack, of course.<br>\r\n<br>\r\nHave fun using it in your Mode 7 endeavors!",
+    "latest_version": "smwc-25188-1608246126",
+    "install_kind": "tool",
+    "versions": [
+      {
+        "upstream_id": 25188,
+        "title": "M7 Map",
+        "version": "smwc-25188-1608246126",
+        "upstream_time": 1608246126,
+        "download_url": "https://dl.smwcentral.net/25188/M7Map%202019.zip",
+        "filename": "M7Map 2019.zip",
+        "size": 584268,
         "sha256": null,
         "dependencies": [],
         "install_kind": "tool"

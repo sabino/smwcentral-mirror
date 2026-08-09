@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-bumper",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42816,
+  "title": "Bumper",
+  "authors": [
+    "Blind Devil"
+  ],
+  "tags": [
+    "bouncy",
+    "line-guided",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a simple 32x32 sprite that bounces the player away when touched. It can either be stationary or line guided depending on Extra Byte 1, and if line-guided, can move at different speeds. For how to set this, read the Readme/ASM file.<br>\r\n<br>\r\nThe sprite also includes defines for tilemap, bounce speeds, SFX for bouncing and how long to animate the bumper after bouncing the player.<br>\r\n<br>\r\nSprite is compatible with Line Guide Acts-Like Fix patch.",
+  "latest_version": "v1.2",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42816,
+      "title": "Bumper",
+      "version": "v1.2",
+      "upstream_time": 1786222982,
+      "download_url": "https://dl.smwcentral.net/42816/LeBumper%20v1.2.zip",
+      "filename": "LeBumper v1.2.zip",
+      "size": 10947,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

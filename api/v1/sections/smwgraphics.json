@@ -99,6 +99,36 @@
     ]
   },
   {
+    "name": "smwgraphics-bandr-s-grassland",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42783,
+    "title": "bandr's Grassland",
+    "authors": [
+      "bandr"
+    ],
+    "tags": [
+      "grassland"
+    ],
+    "description": "My first ever ExGFX.  (at least, that i post.) <br>\r\n<br>\r\nI don't care about credits, honestly. But, it would be nice if you would just go ahead and credit me.<br>\r\n<br>\r\nInspired by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41692\">\"Super Mario World Styled Faithful Athletic Grassland\"</a>.",
+    "latest_version": "smwc-42783-1785954429",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42783,
+        "title": "bandr's Grassland",
+        "version": "smwc-42783-1785954429",
+        "upstream_time": 1785954429,
+        "download_url": "https://dl.smwcentral.net/42783/bandr-Grass.zip",
+        "filename": "bandr-Grass.zip",
+        "size": 4071,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-bomberman-ii-intro-cutscene",
     "aliases": [],
     "section": "smwgraphics",
@@ -447,6 +477,37 @@
     ]
   },
   {
+    "name": "smwgraphics-minus-galaxy-styled-mario",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42774,
+    "title": "Minus Galaxy Styled Mario",
+    "authors": [
+      "Gamer collin",
+      "mit"
+    ],
+    "tags": [
+      "male"
+    ],
+    "description": "Minus Galaxy Styled Mario - Give credits to Mit if used. Crediting me for the spin jump stuff is optional.<br>\r\n<br>\r\nI created 4 spin jump frames for Mario if the Modern Spin Jump Patch is inserted. <br>\r\n<br>\r\nThe <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 player tilemap patch</a> is required, if you wanna use these graphics.<br>\r\n<br>\r\nCredit <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>, as well, if you use the Modern Spin Jump patch.",
+    "latest_version": "smwc-42774-1785695919",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42774,
+        "title": "Minus Galaxy Styled Mario",
+        "version": "smwc-42774-1785695919",
+        "upstream_time": 1785695919,
+        "download_url": "https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip",
+        "filename": "Mario (Minus Galaxy Style).zip",
+        "size": 49729,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt",
     "aliases": [],
     "section": "smwgraphics",
@@ -770,6 +831,7 @@
     ],
     "tags": [
       "abstract",
+      "hdma",
       "sky"
     ],
     "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: var(--user-color-2);\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: var(--user-color-1);\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
@@ -801,6 +863,7 @@
       "Donut"
     ],
     "tags": [
+      "hdma",
       "space"
     ],
     "description": "The space-like background seen in the final area of Soul Blazer, a cult classic video game made by Quintet.  A good fit for space levels.<br>\r\n<br>\r\nBundled with this submission is a wave hdma code made by <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span>, meant to replicate the effect seen in the source material.  Insert it using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>. ",
@@ -923,36 +986,6 @@
         "download_url": "https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip",
         "filename": "(Layer 3) SMA4 SMB3 - World-e Minigame 2.zip",
         "size": 1773,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-all-stars-super-mario-bros",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42044,
-    "title": "Super Mario All-Stars: Super Mario Bros. 3 - Castle",
-    "authors": [
-      "Natsuz2"
-    ],
-    "tags": [
-      "castle"
-    ],
-    "description": "I found this background in the first castle of SMAS 3 and decided to put it next to its layer 3. They are available here.<br>\r\nI also put the animation of the lamps above the background.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=30076\">The foreground can be found here!</a>",
-    "latest_version": "smwc-42044-1777156058",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42044,
-        "title": "Super Mario All-Stars: Super Mario Bros. 3 - Castle",
-        "version": "smwc-42044-1777156058",
-        "upstream_time": 1777156058,
-        "download_url": "https://dl.smwcentral.net/42044/SMAS3%20Castle.zip",
-        "filename": "SMAS3 Castle.zip",
-        "size": 5289,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1250,36 +1283,6 @@
         "download_url": "https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip",
         "filename": "SMW-Styled Princess Peach.zip",
         "size": 48620,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-world-styled-super-mario-world",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42241,
-    "title": "Super Mario World Styled Super Mario World 2: Yoshi's Island - Forest",
-    "authors": [
-      "TheOrangeToad"
-    ],
-    "tags": [
-      "forest"
-    ],
-    "description": "The forest background from Yoshi's Island but now fits with the art style from Super Mario World. It's uses a mix of custom and vanilla background tiles from the original SMW and SMM2's SMW Forest Theme.<br>\r\n<br>\r\n",
-    "latest_version": "smwc-42241-1777144690",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42241,
-        "title": "Super Mario World Styled Super Mario World 2: Yoshi's Island - Forest",
-        "version": "smwc-42241-1777144690",
-        "upstream_time": 1777144690,
-        "download_url": "https://dl.smwcentral.net/42241/SMW%20Syled%20SMW2%20Yoshi%27s%20Island%20-%20Forest%20Background.zip",
-        "filename": "SMW Syled SMW2 Yoshi%27s Island - Forest Background.zip",
-        "size": 4290,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

@@ -218,6 +218,42 @@
     ]
   },
   {
+    "name": "smwsprites-bumper",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42816,
+    "title": "Bumper",
+    "authors": [
+      "Blind Devil"
+    ],
+    "tags": [
+      "bouncy",
+      "line-guided",
+      "lorom",
+      "pacifist",
+      "sa-1"
+    ],
+    "description": "This is a simple 32x32 sprite that bounces the player away when touched. It can either be stationary or line guided depending on Extra Byte 1, and if line-guided, can move at different speeds. For how to set this, read the Readme/ASM file.<br>\r\n<br>\r\nThe sprite also includes defines for tilemap, bounce speeds, SFX for bouncing and how long to animate the bumper after bouncing the player.<br>\r\n<br>\r\nSprite is compatible with Line Guide Acts-Like Fix patch.",
+    "latest_version": "v1.2",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42816,
+        "title": "Bumper",
+        "version": "v1.2",
+        "upstream_time": 1786222982,
+        "download_url": "https://dl.smwcentral.net/42816/LeBumper%20v1.2.zip",
+        "filename": "LeBumper v1.2.zip",
+        "size": 10947,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-charging-spiny",
     "aliases": [],
     "section": "smwsprites",
@@ -1150,41 +1186,6 @@
         "download_url": "https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip",
         "filename": "mother_dino_rhino_and_egg_asar2.zip",
         "size": 7018,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-moving-midway-point-tape",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41528,
-    "title": "Moving Midway Point Tape",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "lorom",
-      "midway point",
-      "pacifist",
-      "sa-1"
-    ],
-    "description": "It's like a goal tape, but a midway point tape instead. It automatically detects the height of the pole as long as the \"Act as\" settings of the left pole are correct (2F-31) so you can place it comfortably. Extra Byte 1 determines its speed.<br>\r\n<br>\r\nWhen collected, the tape will give some points. The higher the tape is hit, the higher the score. If the tape is hit at the highest possible spot, which is frame perfect, a 1-up will be given. These features can optionally be disabled.<br>\r\n<br>\r\nNot compatible with any multiple midway point patches yet, sorry!",
-    "latest_version": "smwc-41528-1772757509",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41528,
-        "title": "Moving Midway Point Tape",
-        "version": "smwc-41528-1772757509",
-        "upstream_time": 1772757509,
-        "download_url": "https://dl.smwcentral.net/41528/moving_midway_point_tape.zip",
-        "filename": "moving_midway_point_tape.zip",
-        "size": 6034,
         "sha256": null,
         "dependencies": [
           "pixi"
