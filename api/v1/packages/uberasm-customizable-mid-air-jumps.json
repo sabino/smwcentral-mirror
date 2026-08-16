@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-customizable-mid-air-jumps",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42795,
+  "title": "Customizable Mid-Air Jumps",
+  "authors": [
+    "Epharia"
+  ],
+  "tags": [
+    "abilities",
+    "jump",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This gives Mario the ability to perform and store multiple midair jumps.<br>\r\n<br>\r\nThis ASM is customizable:<br>\r\n- Ground, swimming, and climbing reset behavior<br>\r\n- Separate reset amounts for each state<br>\r\n- Upward midair jumps<br>\r\n- B/A or L/R controls<br>\r\n- Spin jumping while holding an item<br>\r\n- Cape-flight jumps, flight preservation, and flight spin jumps<br>\r\n- Normal and spin jump heights<br>\r\n- Number of jumps granted by the custom coin<br>\r\n- Maximum number of stored jump",
+  "latest_version": "1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42795,
+      "title": "Customizable Mid-Air Jumps",
+      "version": "1.1",
+      "upstream_time": 1786748311,
+      "download_url": "https://dl.smwcentral.net/42795/double_jumpV1.1.zip",
+      "filename": "double_jumpV1.1.zip",
+      "size": 3318,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

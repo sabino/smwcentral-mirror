@@ -106,40 +106,6 @@
     ]
   },
   {
-    "name": "uberasm-always-wall-run",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41053,
-    "title": "Always Wall-run",
-    "authors": [
-      "Donut"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "wall-running"
-    ],
-    "description": "Allows the player to wall-run on any wall at pretty much any time. No pink triangle needed!<br>\r\n<br>\r\nInformation on how to use can be found in \"always_wallrun.asm\" (the Uberasm file).<br>\r\n<br>\r\nThis is more or less the same code I used in <span class=\"un-outer\" title=\"zynnoir\"><a href=\"/?p=profile&amp;id=42029\" style=\"color: var(--user-color-1);\" class=\"un\">zynnoir</a></span> and I's <a href=\"https://bin.smwcentral.net/u/42029/donutninj_kldc.bps\" rel=\"nofollow\">KLDCX entry</a>.<br>\r\n<br>\r\nNote: Does not work properly with layer 2.",
-    "latest_version": "smwc-41053-1763340498",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41053,
-        "title": "Always Wall-run",
-        "version": "smwc-41053-1763340498",
-        "upstream_time": 1763340498,
-        "download_url": "https://dl.smwcentral.net/41053/always_wallrun.zip",
-        "filename": "always_wallrun.zip",
-        "size": 2201,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-automatic-alternating-jumps-v1",
     "aliases": [],
     "section": "uberasm",
@@ -311,6 +277,75 @@
         "download_url": "https://dl.smwcentral.net/41069/controller_read_optimize_UAT2.zip",
         "filename": "controller_read_optimize_UAT2.zip",
         "size": 756,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-customizable-high-and-low-tides",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42836,
+    "title": "Customizable \"High and Low\" Tides",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "tides"
+    ],
+    "description": "This UberASM allows you to have a different behavior for the \"high and low\" tides on a level basis. What you can change is: time between tide movements, Y speed, Y acceleration, high and low position. It requires 7 bytes of freeram and to apply the provided patch with Asar. For more info and instructions, check out the readme file.",
+    "latest_version": "V1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42836,
+        "title": "Customizable \"High and Low\" Tides",
+        "version": "V1.0.1",
+        "upstream_time": 1786402014,
+        "download_url": "https://dl.smwcentral.net/42836/custom_high_low_tides_V1.0.1.zip",
+        "filename": "custom_high_low_tides_V1.0.1.zip",
+        "size": 2508,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-customizable-mid-air-jumps",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42795,
+    "title": "Customizable Mid-Air Jumps",
+    "authors": [
+      "Epharia"
+    ],
+    "tags": [
+      "abilities",
+      "jump",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This gives Mario the ability to perform and store multiple midair jumps.<br>\r\n<br>\r\nThis ASM is customizable:<br>\r\n- Ground, swimming, and climbing reset behavior<br>\r\n- Separate reset amounts for each state<br>\r\n- Upward midair jumps<br>\r\n- B/A or L/R controls<br>\r\n- Spin jumping while holding an item<br>\r\n- Cape-flight jumps, flight preservation, and flight spin jumps<br>\r\n- Normal and spin jump heights<br>\r\n- Number of jumps granted by the custom coin<br>\r\n- Maximum number of stored jump",
+    "latest_version": "1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42795,
+        "title": "Customizable Mid-Air Jumps",
+        "version": "1.1",
+        "upstream_time": 1786748311,
+        "download_url": "https://dl.smwcentral.net/42795/double_jumpV1.1.zip",
+        "filename": "double_jumpV1.1.zip",
+        "size": 3318,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -562,6 +597,39 @@
     ]
   },
   {
+    "name": "uberasm-free-7e-0de0-7e-0ef4",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42824,
+    "title": "Free $7E:0DE0-$7E:0EF4",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This simple code frees up the 277 (0x115) bytes of RAM at $7E:0DE0-$7E:0EF4 (a.k.a. $0DE0-$0EF4) for usage in levels, so that it can be used as free RAM without messing up overworld sprites. This can be useful for resources that need a lot of free RAM in the $0000-$1FFF area.",
+    "latest_version": "V1.0.3",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42824,
+        "title": "Free $7E:0DE0-$7E:0EF4",
+        "version": "V1.0.3",
+        "upstream_time": 1786288596,
+        "download_url": "https://dl.smwcentral.net/42824/Free_0DE0.zip",
+        "filename": "Free_0DE0.zip",
+        "size": 1735,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-graphical-air-meter-v2-0",
     "aliases": [],
     "section": "uberasm",
@@ -589,41 +657,6 @@
         "download_url": "https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip",
         "filename": "Air-meter_v2_0_2_.zip",
         "size": 123081,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-ground-pound-yoshi-s-stomp-effect",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41062,
-    "title": "Ground Pound, Yoshi's Stomp Effect",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "ability",
-      "ground pound",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This UberASM allows player to perform a ground pound with a defined button. It acts like Yoshi's stomp upon landing.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"Batata Douce\"><a href=\"/?p=profile&amp;id=35598\" style=\"color: var(--user-color-2);\" class=\"un\">Batata Douce</a></span>.",
-    "latest_version": "smwc-41062-1763490841",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41062,
-        "title": "Ground Pound, Yoshi's Stomp Effect",
-        "version": "smwc-41062-1763490841",
-        "upstream_time": 1763490841,
-        "download_url": "https://dl.smwcentral.net/41062/GroundPoundAsar2.zip",
-        "filename": "GroundPoundAsar2.zip",
-        "size": 4018,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -915,42 +948,6 @@
         "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
         "filename": "No Overworld v1.3.zip",
         "size": 8750,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-on-demand-reserve-powerup",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41060,
-    "title": "On-Demand Reserve Powerup",
-    "authors": [
-      "Oz74"
-    ],
-    "tags": [
-      "counter",
-      "dragon coin",
-      "lorom",
-      "player",
-      "sa-1"
-    ],
-    "description": "Allows the player to fill the reserve item box on the fly for a configurable currency (of lives, coins, or Dragon Coins) and rate. Which powerup given can be determined on a per-level basis with the extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"bandicoot\"><a href=\"/?p=profile&amp;id=21068\" style=\"color: var(--user-color-2);\" class=\"un\">bandicoot</a></span>.<br>\r\nRequires UberASM 2.0 or higher.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Setting Powerup with the Extra Byte</span></div><div class=\"collapse-content\">: 01 gives a Mushroom<br>\r\n: 02 gives a Fire Flower<br>\r\n: 03 gives a Star*<br>\r\n: 04 gives a Cape Feather<br>\r\n<br>\r\n*With the Star, be prepared to address the myriad of sprites that do not have proper kill frames.</div></div><div class=\"collapse\"><div class=\"collapse-header\"><span>Change Log (Revision A)</span></div><div class=\"collapse-content\">- Converted patch to UberASM. (Removed hijack, adapted labels.)<br>\r\n- Function is now operable in Bowser's fight.<br>\r\n- Powerup is now handled by the extra byte<br>\r\n- Prevented code from running while paused, dying, or otherwise frozen.<br>\r\n- Moved configurables higher up for visibility<br>\r\n- Added math for handling deduction of more than one life or Dragon Coin.<br>\r\n- Concurrent powerup sound is disabled by default.<br>\r\n- You can now prevent Mario from buying a powerup with Dragon Coins already redeemed for an extra life.</div></div>",
-    "latest_version": "smwc-41060-1763508727",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41060,
-        "title": "On-Demand Reserve Powerup",
-        "version": "smwc-41060-1763508727",
-        "upstream_time": 1763508727,
-        "download_url": "https://dl.smwcentral.net/41060/On-Demand%20Reserve%20Powerup.zip",
-        "filename": "On-Demand Reserve Powerup.zip",
-        "size": 3103,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1741,7 +1738,7 @@
       "sa-1",
       "spotlight"
     ],
-    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">ILoveSMW</a></span>.",
+    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un\">ILoveSMW</a></span>.",
     "latest_version": "smwc-41600-1773623195",
     "install_kind": "uber_asm",
     "versions": [

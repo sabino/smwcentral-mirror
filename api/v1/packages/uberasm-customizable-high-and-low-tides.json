@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-customizable-high-and-low-tides",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42836,
+  "title": "Customizable \"High and Low\" Tides",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "tides"
+  ],
+  "description": "This UberASM allows you to have a different behavior for the \"high and low\" tides on a level basis. What you can change is: time between tide movements, Y speed, Y acceleration, high and low position. It requires 7 bytes of freeram and to apply the provided patch with Asar. For more info and instructions, check out the readme file.",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42836,
+      "title": "Customizable \"High and Low\" Tides",
+      "version": "V1.0.1",
+      "upstream_time": 1786402014,
+      "download_url": "https://dl.smwcentral.net/42836/custom_high_low_tides_V1.0.1.zip",
+      "filename": "custom_high_low_tides_V1.0.1.zip",
+      "size": 2508,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

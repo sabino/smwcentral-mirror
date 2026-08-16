@@ -178,43 +178,6 @@
     ]
   },
   {
-    "name": "smwmusic-danganronpa-argument-hope-vs-despair-super-metroid-style",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42280,
-    "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
-    "authors": [
-      "JX444444"
-    ],
-    "tags": [
-      "boss",
-      "cave",
-      "dark",
-      "final",
-      "fire",
-      "tense"
-    ],
-    "description": "\"Power Suit MonoKuma\"",
-    "latest_version": "smwc-42280-1782864425",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42280,
-        "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
-        "version": "smwc-42280-1782864425",
-        "upstream_time": 1782864425,
-        "download_url": "https://dl.smwcentral.net/42280/HOPEvsDESPAIR_SM.zip",
-        "filename": "HOPEvsDESPAIR_SM.zip",
-        "size": 72021,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-dinocity-fight",
     "aliases": [],
     "section": "smwmusic",
@@ -535,43 +498,6 @@
     ]
   },
   {
-    "name": "smwmusic-james-bond-jr-snes-minicopter-mission-mmx2-style",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42153,
-    "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "boss",
-      "castle",
-      "chase",
-      "final",
-      "industrial",
-      "tense"
-    ],
-    "description": "The theme played during the Minicopter Mission from James Bond Jr. on the SNES, ported in an MMX2 Style.",
-    "latest_version": "smwc-42153-1782864051",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42153,
-        "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
-        "version": "smwc-42153-1782864051",
-        "upstream_time": 1782864051,
-        "download_url": "https://dl.smwcentral.net/42153/James%20Bond%20Jr.%20-%20Minicopter%20Mission%20%28MMX2%20Style%29.zip",
-        "filename": "James Bond Jr. - Minicopter Mission (MMX2 Style).zip",
-        "size": 73490,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-kirby-s-star-stacker-kawasaki",
     "aliases": [],
     "section": "smwmusic",
@@ -788,6 +714,75 @@
         "download_url": "https://dl.smwcentral.net/42004/Kuwanger_SMAS.zip",
         "filename": "Kuwanger_SMAS.zip",
         "size": 39879,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-mega-man-x7-boss-battle-mega-man-x2-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42130,
+    "title": "Mega Man X7 - Boss Battle (Mega Man X2 Style)",
+    "authors": [
+      "JX444444"
+    ],
+    "tags": [
+      "boss"
+    ],
+    "description": "Based : The Battle Ensues (Boss Theme)<br>\r\n<br>\r\nBurn to the Ground<br>\r\n<br>\r\nBURN",
+    "latest_version": "smwc-42130-1786299234",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42130,
+        "title": "Mega Man X7 - Boss Battle (Mega Man X2 Style)",
+        "version": "smwc-42130-1786299234",
+        "upstream_time": 1786299234,
+        "download_url": "https://dl.smwcentral.net/42130/X7Boss_X2.zip",
+        "filename": "X7Boss_X2.zip",
+        "size": 82959,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-mitsune-ga-tooru-boss-theme",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42323,
+    "title": "Mitsune ga Tooru - Boss Theme",
+    "authors": [
+      "Zavok"
+    ],
+    "tags": [
+      "boss",
+      "castle",
+      "chase",
+      "industrial",
+      "space",
+      "tense"
+    ],
+    "description": "Could fit a boss theme. I discovered thanks to <span class=\"un-outer\" title=\"Teows\"><a href=\"/?p=profile&amp;id=34112\" style=\"color: var(--user-color-1);\" class=\"un\">Teows</a></span> port of the same <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21968\">song</a>.",
+    "latest_version": "smwc-42323-1786807433",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42323,
+        "title": "Mitsune ga Tooru - Boss Theme",
+        "version": "smwc-42323-1786807433",
+        "upstream_time": 1786807433,
+        "download_url": "https://dl.smwcentral.net/42323/Mitsune%20ga%20Tooru%20-%20Boss%20Theme%20%28U%29.zip",
+        "filename": "Mitsune ga Tooru - Boss Theme (U).zip",
+        "size": 32226,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1266,7 +1261,7 @@
       "industrial",
       "tense"
     ],
-    "description": "VS Com Type-B battle theme from the SFC port of Super Bombliss.",
+    "description": "VS Com Type-A battle theme from the SFC port of Super Bombliss.",
     "latest_version": "smwc-42196-1784397398",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1278,6 +1273,20 @@
         "download_url": "https://dl.smwcentral.net/42196/Super%20Bombliss%20-%20Vs.%20Computer%20Player%202.zip",
         "filename": "Super Bombliss - Vs. Computer Player 2.zip",
         "size": 61609,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42171,
+        "title": "Super Bombliss - Vs. Computer Player 1",
+        "version": "smwc-42171-1786732696",
+        "upstream_time": 1786732696,
+        "download_url": "https://dl.smwcentral.net/42171/Super%20Bombliss%20-%20Vs.%20Computer%20Player%201.zip",
+        "filename": "Super Bombliss - Vs. Computer Player 1.zip",
+        "size": 64792,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1451,38 +1460,6 @@
         "download_url": "https://dl.smwcentral.net/42278/The%20Adventures%20of%20Kid%20Kleets%20-%20London.zip",
         "filename": "The Adventures of Kid Kleets - London.zip",
         "size": 52920,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-the-flintstones-the-treasure-of-sierra-madrock-theme-of-the-flintstones",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42222,
-    "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "title"
-    ],
-    "description": "The title screen music from the first 1994 Flintstones platforming title on the SNES, featuring an arrangement of the iconic Flintstones motif here and throughout the soundtrack.",
-    "latest_version": "smwc-42222-1782841615",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42222,
-        "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
-        "version": "smwc-42222-1782841615",
-        "upstream_time": 1782841615,
-        "download_url": "https://dl.smwcentral.net/42222/The%20Treasure%20of%20Sierra%20Madrock%20-%20Theme%20of%20the%20Flintstones.zip",
-        "filename": "The Treasure of Sierra Madrock - Theme of the Flintstones.zip",
-        "size": 59929,
         "sha256": null,
         "dependencies": [
           "addmusick"

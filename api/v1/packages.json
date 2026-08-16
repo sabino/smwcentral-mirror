@@ -1994,71 +1994,6 @@
     ]
   },
   {
-    "name": "smwgraphics-alternative-redrawn-styled-bullet-bill",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42277,
-    "title": "Alternative Redrawn Styled Bullet Bill",
-    "authors": [
-      "Moltz",
-      "SF - The Dark Warrior"
-    ],
-    "tags": [
-      "bullet bill",
-      "redrawn"
-    ],
-    "description": "Originally used in Synthetic Caverns - my CLDC 2023 entry (in its base form), this Bullet Bill was drawn as an alternative to SMW Redrawn's default Bullet Bill graphic for the purposes of contrasting itself more readily from dark backgrounds and having a shape more closely resembling the original SMW Bullet Bill sprite.<br>\r\n<br>\r\nGive credit to me for the base graphic, and Moltz for recently drawing diagonal frames on request.<br>\r\n<br>\r\nUpdate: Added Ex-Animation frames for the Bullet Bills based on how the enemies animate in Super Mario All-Stars: Super Mario Bros.",
-    "latest_version": "1.1",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42277,
-        "title": "Alternative Redrawn Styled Bullet Bill",
-        "version": "1.1",
-        "upstream_time": 1777576835,
-        "download_url": "https://dl.smwcentral.net/42277/alternative%20redrawn%20bullet%20bills%20RC1%201.1.zip",
-        "filename": "alternative redrawn bullet bills RC1 1.1.zip",
-        "size": 8703,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-alternative-redrawn-styled-chucks",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42261,
-    "title": "Alternative Redrawn Styled Chucks",
-    "authors": [
-      "Frattari Gaspar",
-      "icegoom"
-    ],
-    "tags": [
-      "chuck",
-      "patch needed",
-      "redrawn"
-    ],
-    "description": "Alternative graphics for Chucks that have a more 3/4ths perspective, this was inspired by the Modern Redrawn Mario released by <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> and by the 3/4ths perspective Koopalings made by <span class=\"un-outer\" title=\"Moltz\"><a href=\"/?p=profile&amp;id=12420\" style=\"color: var(--user-color-1);\" class=\"un\">Moltz</a></span>, the graphics were made with the blue palette in mind, to change the sprite's palette I would recommend using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4585\">Tweaker</a>, I also included a patch to fix Diggin' Chuck's shoulder.",
-    "latest_version": "smwc-42261-1777226252",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42261,
-        "title": "Alternative Redrawn Styled Chucks",
-        "version": "smwc-42261-1777226252",
-        "upstream_time": 1777226252,
-        "download_url": "https://dl.smwcentral.net/42261/Alternate%20Redrawn%20Chucks.zip",
-        "filename": "Alternate Redrawn Chucks.zip",
-        "size": 15263,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-bandr-s-grassland",
     "aliases": [],
     "section": "smwgraphics",
@@ -2284,6 +2219,97 @@
     ]
   },
   {
+    "name": "smwgraphics-doraemon",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42775,
+    "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "bonus",
+      "castle",
+      "grassland",
+      "mountain",
+      "ruins",
+      "sky"
+    ],
+    "description": "The background seen in the first stage of Doraemon 3: Nobita to Toki no Hougyoku.  <br>\r\n<br>\r\nCompared to the old site version, this one has a saner palette organization and uses less tiles.<br>\r\n<br>\r\nA perfect fit for levels filled with dinosaurs or tropical grasslands.",
+    "latest_version": "smwc-42775-1786377560",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42775,
+        "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
+        "version": "smwc-42775-1786377560",
+        "upstream_time": 1786377560,
+        "download_url": "https://dl.smwcentral.net/42775/Doraemon%203%20%28SFC%29%20-%20Prehistoric%20Grassland.zip",
+        "filename": "Doraemon 3 (SFC) - Prehistoric Grassland.zip",
+        "size": 7636,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 42772,
+        "title": "Doraemon 3: Nobita to Toki no Hougyoku - Ancient Ruins (Exterior)",
+        "version": "smwc-42772-1786376978",
+        "upstream_time": 1786376978,
+        "download_url": "https://dl.smwcentral.net/42772/Doraemon%203%20%28SFC%29%20-%20Ancient%20Ruins%20%28Exterior%29.zip",
+        "filename": "Doraemon 3 (SFC) - Ancient Ruins (Exterior).zip",
+        "size": 5829,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 42771,
+        "title": "Doraemon 3: Nobita to Toki no Hougyoku - Sky",
+        "version": "smwc-42771-1786369639",
+        "upstream_time": 1786369639,
+        "download_url": "https://dl.smwcentral.net/42771/Doraemon%203%20%28SFC%29%20-%20Sky.zip",
+        "filename": "Doraemon 3 (SFC) - Sky.zip",
+        "size": 7589,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-doremi-fantasy-milon-no-dokidoki-daibouken-guardian-s-lair-world",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42799,
+    "title": "DoReMi Fantasy: Milon no DokiDoki Daibouken - Guardian's Lair (World 2)",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "food",
+      "house",
+      "interior"
+    ],
+    "description": "The 2nd dungeon's tasty BG and FG from DoReMi Fantasy, you can use this for a sweets-themed stage (obviously), or you could just use the starry night sky BG for something else (even if I don't know how to animate palettes yet, since in the original game the BG palette was animated). I had to compress 4 of the original game's palettes used for this FG tileset into 1, including the fact that I had to paint the moving ledge platform red.<br>\r\nFor better performance with the ledge hole sprite, use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19572\"> this patch</a>.",
+    "latest_version": "smwc-42799-1786303567",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42799,
+        "title": "DoReMi Fantasy: Milon no DokiDoki Daibouken - Guardian's Lair (World 2)",
+        "version": "smwc-42799-1786303567",
+        "upstream_time": 1786303567,
+        "download_url": "https://dl.smwcentral.net/42799/doremifantasyguardian2.zip",
+        "filename": "doremifantasyguardian2.zip",
+        "size": 11769,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-enemy",
     "aliases": [],
     "section": "smwgraphics",
@@ -2339,6 +2365,113 @@
         "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
         "filename": "fantasyzonegearwoods.zip",
         "size": 5927,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-ganbare-goemon",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 41860,
+    "title": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu - Susonogawa River",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "eastern",
+      "forest",
+      "house",
+      "interior",
+      "mountain"
+    ],
+    "description": "The landscape seen during the second Impact demolition sequence, from Ganbare Goemon 2: Kiteretsu Shougun Magginesu. It depicts another view of Mt. Fuji, this time, directly from the Susonogawa River, where the player must destroy various enemy troops bases and fight another giant robot.<br>\r\n<br>\r\nThe water is palette animated. It benefits a lot from parallax scrolling in certain parts.  <br>\r\n<br>\r\nYou can extend the river easily, if you don't like the perspective of the background.<br>\r\n<br>\r\nA good fit for mountain or forest themed levels.",
+    "latest_version": "smwc-41860-1786309611",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 41860,
+        "title": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu - Susonogawa River",
+        "version": "smwc-41860-1786309611",
+        "upstream_time": 1786309611,
+        "download_url": "https://dl.smwcentral.net/41860/Ganbare%20Goemon%202%20%28SFC%29%20-%20Susonogawa%20River.zip",
+        "filename": "Ganbare Goemon 2 (SFC) - Susonogawa River.zip",
+        "size": 4167,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 41859,
+        "title": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu -  Player Selection",
+        "version": "smwc-41859-1786309575",
+        "upstream_time": 1786309575,
+        "download_url": "https://dl.smwcentral.net/41859/Ganbare%20Goemon%202%20%28SFC%29%20-%20Player_Selection.zip",
+        "filename": "Ganbare Goemon 2 (SFC) - Player_Selection.zip",
+        "size": 6217,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-ghostbusters-ghost-trap-manhattan",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42843,
+    "title": "Ghostbusters: Ghost Trap - Manhattan",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "city",
+      "night"
+    ],
+    "description": "The beautiful night city BG from the J2ME phone game Ghostbusters: Ghost Trap. I had to compress the color palette for this to fit on the SNES, this BG is ripped ripped by Solink on The Spriters Resource, here's the link to the original submission with all the other BG's and FG tilesets:<br>\r\nhttps://www.spriters-resource.com/mobile/ghostbusters/asset/28226/",
+    "latest_version": "smwc-42843-1786844942",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42843,
+        "title": "Ghostbusters: Ghost Trap - Manhattan",
+        "version": "smwc-42843-1786844942",
+        "upstream_time": 1786844942,
+        "download_url": "https://dl.smwcentral.net/42843/ghostbustersghosttrapjavamanhattanBG.zip",
+        "filename": "ghostbustersghosttrapjavamanhattanBG.zip",
+        "size": 9510,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-kirby-s-dream-land",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42855,
+    "title": "Kirby's Dream Land 2 - Gordo",
+    "authors": [
+      "edidari"
+    ],
+    "tags": [
+      "muncher"
+    ],
+    "description": "The Gordo enemy from Kirby's Dream Land 2 that acts similiary to Munchers.<br>\r\n<br>\r\nOriginal SMW palettes are being used.",
+    "latest_version": "smwc-42855-1786845107",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42855,
+        "title": "Kirby's Dream Land 2 - Gordo",
+        "version": "smwc-42855-1786845107",
+        "upstream_time": 1786845107,
+        "download_url": "https://dl.smwcentral.net/42855/Kirby%27s%20Dream%20Land%202%20-%20Gordo.zip",
+        "filename": "Kirby%27s Dream Land 2 - Gordo.zip",
+        "size": 1448,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2468,37 +2601,6 @@
     ]
   },
   {
-    "name": "smwgraphics-moorhuhn-jewel-of-darkness-ds-dirt",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41579,
-    "title": "Moorhuhn: Jewel of Darkness (DS) - Dirt",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "cave",
-      "texture"
-    ],
-    "description": "Some earthy background from Moorhuhn: Jewel of Darkness for the Nintendo DS. Diggin' for coal!",
-    "latest_version": "smwc-41579-1778486576",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41579,
-        "title": "Moorhuhn: Jewel of Darkness (DS) - Dirt",
-        "version": "smwc-41579-1778486576",
-        "upstream_time": 1778486576,
-        "download_url": "https://dl.smwcentral.net/41579/Moorhuhn%20Jewel%20Of%20Darkness%20DS%20-%20Dirt.zip",
-        "filename": "Moorhuhn Jewel Of Darkness DS - Dirt.zip",
-        "size": 7138,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-more-controversial-super-mario-world-platforms",
     "aliases": [],
     "section": "smwgraphics",
@@ -2522,37 +2624,6 @@
         "download_url": "https://dl.smwcentral.net/42667/better%20platforms.zip",
         "filename": "better platforms.zip",
         "size": 7155,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-new-zealand-story-revolution-auckland-monkeys",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42326,
-    "title": "New Zealand Story Revolution - Auckland (Monkeys)",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "jungle"
-    ],
-    "description": "Here's another simple BG from New Zealand Story Revolution on the Nintendo DS, more specifically, the 2nd stage of the 1st world, this world has a lot of different BG's in each level!",
-    "latest_version": "smwc-42326-1778377942",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42326,
-        "title": "New Zealand Story Revolution - Auckland (Monkeys)",
-        "version": "smwc-42326-1778377942",
-        "upstream_time": 1778377942,
-        "download_url": "https://dl.smwcentral.net/42326/nzsraucklandmonkeys.zip",
-        "filename": "nzsraucklandmonkeys.zip",
-        "size": 3060,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2614,101 +2685,6 @@
         "download_url": "https://dl.smwcentral.net/42410/darkskullcastlegenesisbg.zip",
         "filename": "darkskullcastlegenesisbg.zip",
         "size": 6178,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-ghost-guy-snufit",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42256,
-    "title": "Redrawn Styled Ghost Guy & Snufit",
-    "authors": [
-      "Moltz",
-      "icegoom"
-    ],
-    "tags": [
-      "ghost guy",
-      "redrawn",
-      "snufit"
-    ],
-    "description": "Redrawn-styled graphics for the custom sprite recreations of the <a href=\"https://smwc.me/s/16150\">Ghost Guy (bu smkdan)</a> and <a href=\"https://smwc.me/s/34006\">Snufit enemies (by RussianMan)</a> respectively.<br>\r\n<br>\r\nMultiple variations are included depending on what palettes the Snufits look best with (+ one that invokes the enemy's design from Super Mario 64). Similarly, the Ghost Guy has 2 variations based on whether its mask is closer to Icegoom's Shy Guy, or if it uses a custom mask of my own design.<br>\r\n<br>\r\nFinally, the custom palette included also comes with a palette for the Ghoul Guy variation of Ghost Guy seen in Mario & Luigi: Partners in Time. As this one's set in Palette E, using it requires changing Ghost Guy's color through PIXI's CFG editor to apply it.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-42256-1777158201",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42256,
-        "title": "Redrawn Styled Ghost Guy & Snufit",
-        "version": "smwc-42256-1777158201",
-        "upstream_time": 1777158201,
-        "download_url": "https://dl.smwcentral.net/42256/Redrawn%20Ghost%20Guy%20%2B%20Snufit.zip",
-        "filename": "Redrawn Ghost Guy + Snufit.zip",
-        "size": 3467,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-joe-the-shark",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42260,
-    "title": "Redrawn Styled Joe The Shark",
-    "authors": [
-      "Frattari Gaspar"
-    ],
-    "tags": [
-      "joe the shark",
-      "redrawn"
-    ],
-    "description": "A redrawn styled version of this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=36854\">sprite</a>, It comes with two variants for grey and blue palettes and 3 other variants for how the vertical Joe looks, They were based on how they looked in their Super Mario Land 2 artworks. ",
-    "latest_version": "smwc-42260-1777225805",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42260,
-        "title": "Redrawn Styled Joe The Shark",
-        "version": "smwc-42260-1777225805",
-        "upstream_time": 1777225805,
-        "download_url": "https://dl.smwcentral.net/42260/Redrawn%20Joe%20The%20Shark.zip",
-        "filename": "Redrawn Joe The Shark.zip",
-        "size": 19308,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-serpont",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42319,
-    "title": "Redrawn Styled Serpont",
-    "authors": [
-      "Frattari Gaspar"
-    ],
-    "tags": [
-      "redrawn",
-      "serpont"
-    ],
-    "description": "A redrawn version of this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41766\">sprite</a>, the standart version for their graphics uses palette 8 for their pot (to ressemble their design in wonder), but you can use a lot of other palettes as seen in the screenshots, there's also a version of the graphics with an orange pot to ressemble their original graphics and a custom purple palette that goes over palette B.<br>\r\nNote that you should use the sprite's extension to customize the appearence of the pot, for the standart appearence I used: C0 and 21 for the two first values, C0 being the tile for the pot, 2 being the tile priority and 1 the palette the tile should use.",
-    "latest_version": "smwc-42319-1778290470",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42319,
-        "title": "Redrawn Styled Serpont",
-        "version": "smwc-42319-1778290470",
-        "upstream_time": 1778290470,
-        "download_url": "https://dl.smwcentral.net/42319/RedrawnStyled%20Serpont.zip",
-        "filename": "RedrawnStyled Serpont.zip",
-        "size": 7629,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2845,6 +2821,36 @@
     ]
   },
   {
+    "name": "smwgraphics-spike",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42818,
+    "title": "Spike",
+    "authors": [
+      "Weekly"
+    ],
+    "tags": [
+      "spike"
+    ],
+    "description": "A new graphic for Spike, the little enemy that throws spiked balls into you. I tried to make it closer to the one from Super Princess Peach.<br>\r\nUses vanilla palette.",
+    "latest_version": "smwc-42818-1786305647",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42818,
+        "title": "Spike",
+        "version": "smwc-42818-1786305647",
+        "upstream_time": 1786305647,
+        "download_url": "https://dl.smwcentral.net/42818/Weekly-Spike.zip",
+        "filename": "Weekly-Spike.zip",
+        "size": 2455,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-super-e-d-f-earth-defense-force-stage",
     "aliases": [],
     "section": "smwgraphics",
@@ -2869,51 +2875,6 @@
         "download_url": "https://dl.smwcentral.net/42467/%5BGraphics%5D%5BBG%5D%20Super%20E.D.F%20-%20Midnight%20Interceptor%20%28SNES%29.zip",
         "filename": "%5BGraphics%5D%5BBG%5D Super E.D.F - Midnight Interceptor (SNES).zip",
         "size": 8562,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-fantasy-zone-stage",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42316,
-    "title": "Super Fantasy Zone - Stage 4: Risscave",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "cave",
-      "desert",
-      "space",
-      "wild west"
-    ],
-    "description": "The 4th stage in Super Fantasy Zone on the Sega Genesis, I don't really know how to animate palettes but I think it's fine as it is right now. The BG and the FG were on the same layer in the original game but this isn't much of a problem here since this stage is shrouded in darkness and you've gotta buy some super lights to light up the stage, still in the original game. Adding some parallax scrolling (like in the original game) is highly recommended for this BG.",
-    "latest_version": "smwc-42316-1778271690",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42316,
-        "title": "Super Fantasy Zone - Stage 4: Risscave",
-        "version": "smwc-42316-1778271690",
-        "upstream_time": 1778271690,
-        "download_url": "https://dl.smwcentral.net/42316/sfz-stage4.zip",
-        "filename": "sfz-stage4.zip",
-        "size": 8863,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      },
-      {
-        "upstream_id": 42290,
-        "title": "Super Fantasy Zone - Stage 5: Grandiuss",
-        "version": "smwc-42290-1777761207",
-        "upstream_time": 1777761207,
-        "download_url": "https://dl.smwcentral.net/42290/sfzstage5.zip",
-        "filename": "sfzstage5.zip",
-        "size": 5750,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2977,6 +2938,36 @@
         "download_url": "https://dl.smwcentral.net/42601/SMAS%20-%20SMB%20-%20Mario%20%26%20Luigi.zip",
         "filename": "SMAS - SMB - Mario %26 Luigi.zip",
         "size": 69799,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-bros-x-mario-only-and-sprite-only-blocks",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42852,
+    "title": "Super Mario Bros. X - Mario-Only and Sprite-Only Blocks",
+    "authors": [
+      "edidari"
+    ],
+    "tags": [
+      "block"
+    ],
+    "description": "These cool looking Mario-Only and Sprite-Only Blocks from SMBX.<br>\r\n<br>\r\nIt uses original palette 1 and 2<br>\r\n<br>\r\nLink for the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19967\">blocks</a> meant to be used.",
+    "latest_version": "smwc-42852-1786845484",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42852,
+        "title": "Super Mario Bros. X - Mario-Only and Sprite-Only Blocks",
+        "version": "smwc-42852-1786845484",
+        "upstream_time": 1786845484,
+        "download_url": "https://dl.smwcentral.net/42852/SMBX%20-%20MarioSprite-OnlyBlocks.zip",
+        "filename": "SMBX - MarioSprite-OnlyBlocks.zip",
+        "size": 1461,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3347,36 +3338,6 @@
     ]
   },
   {
-    "name": "smwgraphics-the-wizard-of-oz-snes-forest",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41717,
-    "title": "The Wizard of Oz (SNES) - Forest",
-    "authors": [
-      "Roberto zampari"
-    ],
-    "tags": [
-      "forest"
-    ],
-    "description": "<span style=\"font-size: 16pt;\"><b>C3 WINTER 2026 - SISTER EDITION:</b></span><br>\r\n<br>\r\nThe \"Forest\" from <b><u>The Wizard of Oz</u></b> Super Nintendo game.<br>\r\nWhat do you think about this?",
-    "latest_version": "smwc-41717-1778487322",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41717,
-        "title": "The Wizard of Oz (SNES) - Forest",
-        "version": "smwc-41717-1778487322",
-        "upstream_time": 1778487322,
-        "download_url": "https://dl.smwcentral.net/41717/wizardoz_forest.zip",
-        "filename": "wizardoz_forest.zip",
-        "size": 5231,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-wario-land",
     "aliases": [],
     "section": "smwgraphics",
@@ -3638,43 +3599,6 @@
         "download_url": "https://dl.smwcentral.net/42174/fluffbug.zip",
         "filename": "fluffbug.zip",
         "size": 101943,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-danganronpa-argument-hope-vs-despair-super-metroid-style",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42280,
-    "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
-    "authors": [
-      "JX444444"
-    ],
-    "tags": [
-      "boss",
-      "cave",
-      "dark",
-      "final",
-      "fire",
-      "tense"
-    ],
-    "description": "\"Power Suit MonoKuma\"",
-    "latest_version": "smwc-42280-1782864425",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42280,
-        "title": "Danganronpa - Argument (Hope vs Despair) (Super Metroid Style)",
-        "version": "smwc-42280-1782864425",
-        "upstream_time": 1782864425,
-        "download_url": "https://dl.smwcentral.net/42280/HOPEvsDESPAIR_SM.zip",
-        "filename": "HOPEvsDESPAIR_SM.zip",
-        "size": 72021,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4004,43 +3928,6 @@
     ]
   },
   {
-    "name": "smwmusic-james-bond-jr-snes-minicopter-mission-mmx2-style",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42153,
-    "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "boss",
-      "castle",
-      "chase",
-      "final",
-      "industrial",
-      "tense"
-    ],
-    "description": "The theme played during the Minicopter Mission from James Bond Jr. on the SNES, ported in an MMX2 Style.",
-    "latest_version": "smwc-42153-1782864051",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42153,
-        "title": "James Bond Jr. (SNES) - Minicopter Mission (MMX2 Style)",
-        "version": "smwc-42153-1782864051",
-        "upstream_time": 1782864051,
-        "download_url": "https://dl.smwcentral.net/42153/James%20Bond%20Jr.%20-%20Minicopter%20Mission%20%28MMX2%20Style%29.zip",
-        "filename": "James Bond Jr. - Minicopter Mission (MMX2 Style).zip",
-        "size": 73490,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-kirby-s-star-stacker-kawasaki",
     "aliases": [],
     "section": "smwmusic",
@@ -4257,6 +4144,75 @@
         "download_url": "https://dl.smwcentral.net/42004/Kuwanger_SMAS.zip",
         "filename": "Kuwanger_SMAS.zip",
         "size": 39879,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-mega-man-x7-boss-battle-mega-man-x2-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42130,
+    "title": "Mega Man X7 - Boss Battle (Mega Man X2 Style)",
+    "authors": [
+      "JX444444"
+    ],
+    "tags": [
+      "boss"
+    ],
+    "description": "Based : The Battle Ensues (Boss Theme)<br>\r\n<br>\r\nBurn to the Ground<br>\r\n<br>\r\nBURN",
+    "latest_version": "smwc-42130-1786299234",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42130,
+        "title": "Mega Man X7 - Boss Battle (Mega Man X2 Style)",
+        "version": "smwc-42130-1786299234",
+        "upstream_time": 1786299234,
+        "download_url": "https://dl.smwcentral.net/42130/X7Boss_X2.zip",
+        "filename": "X7Boss_X2.zip",
+        "size": 82959,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-mitsune-ga-tooru-boss-theme",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42323,
+    "title": "Mitsune ga Tooru - Boss Theme",
+    "authors": [
+      "Zavok"
+    ],
+    "tags": [
+      "boss",
+      "castle",
+      "chase",
+      "industrial",
+      "space",
+      "tense"
+    ],
+    "description": "Could fit a boss theme. I discovered thanks to <span class=\"un-outer\" title=\"Teows\"><a href=\"/?p=profile&amp;id=34112\" style=\"color: var(--user-color-1);\" class=\"un\">Teows</a></span> port of the same <a href=\"https://www.smwcentral.net/?p=section&a=details&id=21968\">song</a>.",
+    "latest_version": "smwc-42323-1786807433",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42323,
+        "title": "Mitsune ga Tooru - Boss Theme",
+        "version": "smwc-42323-1786807433",
+        "upstream_time": 1786807433,
+        "download_url": "https://dl.smwcentral.net/42323/Mitsune%20ga%20Tooru%20-%20Boss%20Theme%20%28U%29.zip",
+        "filename": "Mitsune ga Tooru - Boss Theme (U).zip",
+        "size": 32226,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4735,7 +4691,7 @@
       "industrial",
       "tense"
     ],
-    "description": "VS Com Type-B battle theme from the SFC port of Super Bombliss.",
+    "description": "VS Com Type-A battle theme from the SFC port of Super Bombliss.",
     "latest_version": "smwc-42196-1784397398",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -4747,6 +4703,20 @@
         "download_url": "https://dl.smwcentral.net/42196/Super%20Bombliss%20-%20Vs.%20Computer%20Player%202.zip",
         "filename": "Super Bombliss - Vs. Computer Player 2.zip",
         "size": 61609,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42171,
+        "title": "Super Bombliss - Vs. Computer Player 1",
+        "version": "smwc-42171-1786732696",
+        "upstream_time": 1786732696,
+        "download_url": "https://dl.smwcentral.net/42171/Super%20Bombliss%20-%20Vs.%20Computer%20Player%201.zip",
+        "filename": "Super Bombliss - Vs. Computer Player 1.zip",
+        "size": 64792,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4920,38 +4890,6 @@
         "download_url": "https://dl.smwcentral.net/42278/The%20Adventures%20of%20Kid%20Kleets%20-%20London.zip",
         "filename": "The Adventures of Kid Kleets - London.zip",
         "size": 52920,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-the-flintstones-the-treasure-of-sierra-madrock-theme-of-the-flintstones",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42222,
-    "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "title"
-    ],
-    "description": "The title screen music from the first 1994 Flintstones platforming title on the SNES, featuring an arrangement of the iconic Flintstones motif here and throughout the soundtrack.",
-    "latest_version": "smwc-42222-1782841615",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42222,
-        "title": "The Flintstones: The Treasure of Sierra Madrock - Theme of the Flintstones",
-        "version": "smwc-42222-1782841615",
-        "upstream_time": 1782841615,
-        "download_url": "https://dl.smwcentral.net/42222/The%20Treasure%20of%20Sierra%20Madrock%20-%20Theme%20of%20the%20Flintstones.zip",
-        "filename": "The Treasure of Sierra Madrock - Theme of the Flintstones.zip",
-        "size": 59929,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -5814,7 +5752,7 @@
       "sa-1",
       "scroll"
     ],
-    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
+    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -7325,7 +7263,7 @@
       "sa-1",
       "swooper"
     ],
-    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
+    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42068-1774966936",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7362,7 +7300,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -10319,40 +10257,6 @@
     ]
   },
   {
-    "name": "uberasm-always-wall-run",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41053,
-    "title": "Always Wall-run",
-    "authors": [
-      "Donut"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "wall-running"
-    ],
-    "description": "Allows the player to wall-run on any wall at pretty much any time. No pink triangle needed!<br>\r\n<br>\r\nInformation on how to use can be found in \"always_wallrun.asm\" (the Uberasm file).<br>\r\n<br>\r\nThis is more or less the same code I used in <span class=\"un-outer\" title=\"zynnoir\"><a href=\"/?p=profile&amp;id=42029\" style=\"color: var(--user-color-1);\" class=\"un\">zynnoir</a></span> and I's <a href=\"https://bin.smwcentral.net/u/42029/donutninj_kldc.bps\" rel=\"nofollow\">KLDCX entry</a>.<br>\r\n<br>\r\nNote: Does not work properly with layer 2.",
-    "latest_version": "smwc-41053-1763340498",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41053,
-        "title": "Always Wall-run",
-        "version": "smwc-41053-1763340498",
-        "upstream_time": 1763340498,
-        "download_url": "https://dl.smwcentral.net/41053/always_wallrun.zip",
-        "filename": "always_wallrun.zip",
-        "size": 2201,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-automatic-alternating-jumps-v1",
     "aliases": [],
     "section": "uberasm",
@@ -10524,6 +10428,75 @@
         "download_url": "https://dl.smwcentral.net/41069/controller_read_optimize_UAT2.zip",
         "filename": "controller_read_optimize_UAT2.zip",
         "size": 756,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-customizable-high-and-low-tides",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42836,
+    "title": "Customizable \"High and Low\" Tides",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "tides"
+    ],
+    "description": "This UberASM allows you to have a different behavior for the \"high and low\" tides on a level basis. What you can change is: time between tide movements, Y speed, Y acceleration, high and low position. It requires 7 bytes of freeram and to apply the provided patch with Asar. For more info and instructions, check out the readme file.",
+    "latest_version": "V1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42836,
+        "title": "Customizable \"High and Low\" Tides",
+        "version": "V1.0.1",
+        "upstream_time": 1786402014,
+        "download_url": "https://dl.smwcentral.net/42836/custom_high_low_tides_V1.0.1.zip",
+        "filename": "custom_high_low_tides_V1.0.1.zip",
+        "size": 2508,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-customizable-mid-air-jumps",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42795,
+    "title": "Customizable Mid-Air Jumps",
+    "authors": [
+      "Epharia"
+    ],
+    "tags": [
+      "abilities",
+      "jump",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This gives Mario the ability to perform and store multiple midair jumps.<br>\r\n<br>\r\nThis ASM is customizable:<br>\r\n- Ground, swimming, and climbing reset behavior<br>\r\n- Separate reset amounts for each state<br>\r\n- Upward midair jumps<br>\r\n- B/A or L/R controls<br>\r\n- Spin jumping while holding an item<br>\r\n- Cape-flight jumps, flight preservation, and flight spin jumps<br>\r\n- Normal and spin jump heights<br>\r\n- Number of jumps granted by the custom coin<br>\r\n- Maximum number of stored jump",
+    "latest_version": "1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42795,
+        "title": "Customizable Mid-Air Jumps",
+        "version": "1.1",
+        "upstream_time": 1786748311,
+        "download_url": "https://dl.smwcentral.net/42795/double_jumpV1.1.zip",
+        "filename": "double_jumpV1.1.zip",
+        "size": 3318,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -10775,6 +10748,39 @@
     ]
   },
   {
+    "name": "uberasm-free-7e-0de0-7e-0ef4",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42824,
+    "title": "Free $7E:0DE0-$7E:0EF4",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This simple code frees up the 277 (0x115) bytes of RAM at $7E:0DE0-$7E:0EF4 (a.k.a. $0DE0-$0EF4) for usage in levels, so that it can be used as free RAM without messing up overworld sprites. This can be useful for resources that need a lot of free RAM in the $0000-$1FFF area.",
+    "latest_version": "V1.0.3",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42824,
+        "title": "Free $7E:0DE0-$7E:0EF4",
+        "version": "V1.0.3",
+        "upstream_time": 1786288596,
+        "download_url": "https://dl.smwcentral.net/42824/Free_0DE0.zip",
+        "filename": "Free_0DE0.zip",
+        "size": 1735,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-graphical-air-meter-v2-0",
     "aliases": [],
     "section": "uberasm",
@@ -10802,41 +10808,6 @@
         "download_url": "https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip",
         "filename": "Air-meter_v2_0_2_.zip",
         "size": 123081,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-ground-pound-yoshi-s-stomp-effect",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41062,
-    "title": "Ground Pound, Yoshi's Stomp Effect",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "ability",
-      "ground pound",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This UberASM allows player to perform a ground pound with a defined button. It acts like Yoshi's stomp upon landing.<br>\r\n<br>\r\nCredit is optional. Requested by <span class=\"un-outer\" title=\"Batata Douce\"><a href=\"/?p=profile&amp;id=35598\" style=\"color: var(--user-color-2);\" class=\"un\">Batata Douce</a></span>.",
-    "latest_version": "smwc-41062-1763490841",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41062,
-        "title": "Ground Pound, Yoshi's Stomp Effect",
-        "version": "smwc-41062-1763490841",
-        "upstream_time": 1763490841,
-        "download_url": "https://dl.smwcentral.net/41062/GroundPoundAsar2.zip",
-        "filename": "GroundPoundAsar2.zip",
-        "size": 4018,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -11128,42 +11099,6 @@
         "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
         "filename": "No Overworld v1.3.zip",
         "size": 8750,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-on-demand-reserve-powerup",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41060,
-    "title": "On-Demand Reserve Powerup",
-    "authors": [
-      "Oz74"
-    ],
-    "tags": [
-      "counter",
-      "dragon coin",
-      "lorom",
-      "player",
-      "sa-1"
-    ],
-    "description": "Allows the player to fill the reserve item box on the fly for a configurable currency (of lives, coins, or Dragon Coins) and rate. Which powerup given can be determined on a per-level basis with the extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"bandicoot\"><a href=\"/?p=profile&amp;id=21068\" style=\"color: var(--user-color-2);\" class=\"un\">bandicoot</a></span>.<br>\r\nRequires UberASM 2.0 or higher.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Setting Powerup with the Extra Byte</span></div><div class=\"collapse-content\">: 01 gives a Mushroom<br>\r\n: 02 gives a Fire Flower<br>\r\n: 03 gives a Star*<br>\r\n: 04 gives a Cape Feather<br>\r\n<br>\r\n*With the Star, be prepared to address the myriad of sprites that do not have proper kill frames.</div></div><div class=\"collapse\"><div class=\"collapse-header\"><span>Change Log (Revision A)</span></div><div class=\"collapse-content\">- Converted patch to UberASM. (Removed hijack, adapted labels.)<br>\r\n- Function is now operable in Bowser's fight.<br>\r\n- Powerup is now handled by the extra byte<br>\r\n- Prevented code from running while paused, dying, or otherwise frozen.<br>\r\n- Moved configurables higher up for visibility<br>\r\n- Added math for handling deduction of more than one life or Dragon Coin.<br>\r\n- Concurrent powerup sound is disabled by default.<br>\r\n- You can now prevent Mario from buying a powerup with Dragon Coins already redeemed for an extra life.</div></div>",
-    "latest_version": "smwc-41060-1763508727",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41060,
-        "title": "On-Demand Reserve Powerup",
-        "version": "smwc-41060-1763508727",
-        "upstream_time": 1763508727,
-        "download_url": "https://dl.smwcentral.net/41060/On-Demand%20Reserve%20Powerup.zip",
-        "filename": "On-Demand Reserve Powerup.zip",
-        "size": 3103,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -12000,7 +11935,7 @@
       "sa-1",
       "spotlight"
     ],
-    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">ILoveSMW</a></span>.",
+    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un\">ILoveSMW</a></span>.",
     "latest_version": "smwc-41600-1773623195",
     "install_kind": "uber_asm",
     "versions": [

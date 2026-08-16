@@ -1,0 +1,33 @@
+{
+  "name": "uberasm-free-7e-0de0-7e-0ef4",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42824,
+  "title": "Free $7E:0DE0-$7E:0EF4",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This simple code frees up the 277 (0x115) bytes of RAM at $7E:0DE0-$7E:0EF4 (a.k.a. $0DE0-$0EF4) for usage in levels, so that it can be used as free RAM without messing up overworld sprites. This can be useful for resources that need a lot of free RAM in the $0000-$1FFF area.",
+  "latest_version": "V1.0.3",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42824,
+      "title": "Free $7E:0DE0-$7E:0EF4",
+      "version": "V1.0.3",
+      "upstream_time": 1786288596,
+      "download_url": "https://dl.smwcentral.net/42824/Free_0DE0.zip",
+      "filename": "Free_0DE0.zip",
+      "size": 1735,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}
