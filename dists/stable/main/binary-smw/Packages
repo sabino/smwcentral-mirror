@@ -226,6 +226,18 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41173/Disappearing%20Block%20Asar%202.zip
 Description: Disappearing Block v2.3
 
+Package: smwblocks-door-entering-animation
+Version: smwc-42864-1786926599
+Section: smwblocks
+Architecture: smw
+Maintainer: HammerBrother
+Filename: pool/smwblocks/42864/Door Animation.zip
+Size: 16945
+X-SMWC-ID: 42864
+X-SMWAPT-Kind: GpsBlock
+X-SMWAPT-URL: https://dl.smwcentral.net/42864/Door%20Animation.zip
+Description: Door entering animation
+
 Package: smwblocks-end-level-coin
 Version: smwc-41210-1765828351
 Section: smwblocks
@@ -273,18 +285,6 @@ X-SMWC-ID: 41269
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41269/Event%20Dependent%20Block%201.21.zip
 Description: Event Dependent Block V.1.21
-
-Package: smwblocks-force-yoshi-dismount
-Version: smwc-41086-1763779809
-Section: smwblocks
-Architecture: smw
-Maintainer: JamesD28
-Filename: pool/smwblocks/41086/Off Yoshi.zip
-Size: 1445
-X-SMWC-ID: 41086
-X-SMWAPT-Kind: GpsBlock
-X-SMWAPT-URL: https://dl.smwcentral.net/41086/Off%20Yoshi.zip
-Description: Force Yoshi Dismount
 
 Package: smwblocks-invincibility-while-ducking
 Version: 1.1.1
@@ -454,17 +454,17 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41217/Stationary%20P-Switch.zip
 Description: Stationary Re-Usable P-Switch
 
-Package: smwblocks-super-mario-bros-3-screen-scrolling-pipes-v4-0
-Version: smwc-41526-1769986469
+Package: smwblocks-super-mario-bros-3-screen-scrolling-pipes
+Version: 4.0.5
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
-Filename: pool/smwblocks/41526/SMB3_ScreenScrollingPipes_v4_0_4.zip
-Size: 195414
-X-SMWC-ID: 41526
+Filename: pool/smwblocks/42862/SMB3_ScreenScrollingPipes_v4_0_5.zip
+Size: 194172
+X-SMWC-ID: 42862
 X-SMWAPT-Kind: GpsBlock
-X-SMWAPT-URL: https://dl.smwcentral.net/41526/SMB3_ScreenScrollingPipes_v4_0_4.zip
-Description: Super Mario Bros. 3 Screen Scrolling Pipes v4.0.4
+X-SMWAPT-URL: https://dl.smwcentral.net/42862/SMB3_ScreenScrollingPipes_v4_0_5.zip
+Description: Super Mario Bros. 3 Screen Scrolling Pipes v4.0.5
 
 Package: smwblocks-super-mario-bros-wonder-marimba-blocks
 Version: smwc-41393-1768070809
@@ -1234,6 +1234,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42314/Brandish%202%20%28SFC%29%20-%20Prison.zip
 Description: Brandish 2: The Planet Buster (SNES) - Prison
 
+Package: smwmusic-captain-blood-ethnicolor
+Version: smwc-41704-1787021735
+Section: smwmusic
+Architecture: smw
+Maintainer: KungFuFurby
+Filename: pool/smwmusic/41704/Captain Blood Ethnicolor.zip
+Size: 328629
+X-SMWC-ID: 41704
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/41704/Captain%20Blood%20Ethnicolor.zip
+Description: Captain Blood - Ethnicolor
+
 Package: smwmusic-castlevania-dracula-x-game-over
 Version: smwc-42158-1784311252
 Section: smwmusic
@@ -1305,6 +1317,18 @@ X-SMWC-ID: 42125
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42125/4main.zip
 Description: Final Fantasy IV - Prologue
+
+Package: smwmusic-final-fantasy-vi-battle-theme
+Version: smwc-42242-1786899888
+Section: smwmusic
+Architecture: smw
+Maintainer: EDIT3333
+Filename: pool/smwmusic/42242/Battle Theme.zip
+Size: 35780
+X-SMWC-ID: 42242
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42242/Battle%20Theme.zip
+Description: Final Fantasy VI - Battle Theme
 
 Package: smwmusic-final-fantasy-vi-shadow-s-theme
 Version: 1.1
@@ -1534,18 +1558,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42338/HockeyMan_X1.zip
 Description: Rokko Chan - Hockey Man (Mega Man X Style)
 
-Package: smwmusic-run-saber-renegade-saber
-Version: smwc-42061-1782864675
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42061/Run Saber - Renegade Saber.zip
-Size: 50185
-X-SMWC-ID: 42061
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42061/Run%20Saber%20-%20Renegade%20Saber.zip
-Description: Run Saber - Renegade Saber
-
 Package: smwmusic-simcity-jr-statistics
 Version: smwc-41883-1782928189
 Section: smwmusic
@@ -1557,18 +1569,6 @@ X-SMWC-ID: 41883
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/41883/SimCity%20Jr.%20-%20Statistics.zip
 Description: SimCity Jr. - Statistics
-
-Package: smwmusic-smart-ball-castle
-Version: smwc-42062-1782864798
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42062/Smart Ball - Castle.zip
-Size: 53104
-X-SMWC-ID: 42062
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42062/Smart%20Ball%20-%20Castle.zip
-Description: Smart Ball - Castle
 
 Package: smwmusic-snes-test-program-sound-channel-test
 Version: smwc-42032-1785508908
@@ -1894,18 +1894,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41355/Different%20Value%20for%201-Up.zip
 Description: Different Values for 1-Up
 
-Package: smwpatches-disable-duck-jumping
-Version: smwc-40954-1764634073
-Section: smwpatches
-Architecture: smw
-Maintainer: Arinsu
-Filename: pool/smwpatches/40954/No Duck Jump.zip
-Size: 756
-X-SMWC-ID: 40954
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40954/No%20Duck%20Jump.zip
-Description: Disable Duck Jumping
-
 Package: smwpatches-display-disclaimer-message-on-boot
 Version: smwc-42275-1778020149
 Section: smwpatches
@@ -2049,6 +2037,18 @@ X-SMWC-ID: 42608
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42608/LYF.zip
 Description: Limited Yoshi Flying
+
+Package: smwpatches-line-guide-acts-like-fix
+Version: 1.2
+Section: smwpatches
+Architecture: smw
+Maintainer: imamelia, worldpeace
+Filename: pool/smwpatches/42293/Line Guide Acts Like Fix.zip
+Size: 1639
+X-SMWC-ID: 42293
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42293/Line%20Guide%20Acts%20Like%20Fix.zip
+Description: Line Guide Acts Like Fix
 
 Package: smwpatches-messagebox-in-minimalist-status-bar-goal-customizer
 Version: smwc-42390-1779420219
@@ -2794,6 +2794,18 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42451/Banzai%20Bill.zip
 Description: Optimized Banzai Bill
 
+Package: smwsprites-p-balloon
+Version: smwc-42877-1787088539
+Section: smwsprites
+Architecture: smw
+Maintainer: Mellonpizza
+Filename: pool/smwsprites/42877/SMWSDIS - 7D - Balloon.zip
+Size: 3441
+X-SMWC-ID: 42877
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42877/SMWSDIS%20-%207D%20-%20Balloon.zip
+Description: P-Balloon
+
 Package: smwsprites-para-spiny-flies-in-an-ellipse-pattern
 Version: V1.0.1
 Section: smwsprites
@@ -2949,18 +2961,6 @@ X-SMWC-ID: 41766
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/41766/Serpont.zip
 Description: Super Mario Bros. Wonder - Serpont
-
-Package: smwsprites-super-mario-maker-swimming-goomba
-Version: smwc-40039-1772944749
-Section: smwsprites
-Architecture: smw
-Maintainer: Luknight
-Filename: pool/smwsprites/40039/swimming_goomba.zip
-Size: 11562
-X-SMWC-ID: 40039
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/40039/swimming_goomba.zip
-Description: Super Mario Maker - Swimming Goomba
 
 Package: snes9x
 Version: smwc-38381-1725783907
@@ -3923,16 +3923,16 @@ X-SMWAPT-URL: https://dl.smwcentral.net/41052/Reset%20If%20Falling%20Offscreen%2
 Description: Reset Level on Falling Down Offscreen V1.1
 
 Package: uberasm-retry-system
-Version: 2.0.3
+Version: 2.2.0
 Section: uberasm
 Architecture: smw
 Maintainer: Kevin
-Filename: pool/uberasm/42270/retry-system_v2.0.3.zip
-Size: 276032
-X-SMWC-ID: 42270
+Filename: pool/uberasm/42938/retry-system_v2.2.0.zip
+Size: 279774
+X-SMWC-ID: 42938
 X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/42270/retry-system_v2.0.3.zip
-Description: Retry System v2.0.3
+X-SMWAPT-URL: https://dl.smwcentral.net/42938/retry-system_v2.2.0.zip
+Description: Retry System v2.2.0
 
 Package: uberasm-reverse-controls
 Version: V1.0.1

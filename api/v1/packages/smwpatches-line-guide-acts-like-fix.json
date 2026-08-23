@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-line-guide-acts-like-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42293,
+  "title": "Line Guide Acts Like Fix",
+  "authors": [
+    "imamelia",
+    "worldpeace"
+  ],
+  "tags": [
+    "line-guided",
+    "lorom",
+    "physics",
+    "sa-1",
+    "sprites"
+  ],
+  "description": "This patch makes the line guide processsing routine use the \"acts like\" setting instead of the Map16 number.  This makes it possible to use ExGFX for line guides without worrying about where the tiles are in the Map16 pages.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>worldpeace's note</span></div><div class=\"collapse-content\">The vanilla code of line guide interaction sometimes tries to restore the sprite's position from backup RAM, even if they aren't properly stored. This results in teleportation of line-guided sprites. (Like other vanilla glitches, this has been regarded as a feature and utilized for vanilla tricks!)<br>\r\n<br>\r\nThe previous version assumed the correctness of Nintendo's code however, and accessed some invalid \"acts like\" values as a result. It caused game freezing in some emulators (e.g. higan v092); for those who're interested, the patch got the map16 value outside of the level area and repeated a loop infinitely.<br>\r\n<br>\r\nMy version fixes the freezing issue, as well as giving some extra option regarding behaviors of line guide. You can choose the frequency of odd behaviors, which are the following:<br>\r\n1) Map16 tiles in the page 1 (or acting like one) work as \"line guide end\".<br>\r\n2) Those tiles let line-guided sprites teleport to certain position.<br>\r\n<br>\r\n(These behaviors have already existed, and can be rarely observed in vanilla; only when the line-guided sprite is at a specific position which is decided by the map16 page of interacting tiles.)<br>\r\n<br>\r\nThis version also supports SA-1.</div></div>",
+  "latest_version": "1.2",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42293,
+      "title": "Line Guide Acts Like Fix",
+      "version": "1.2",
+      "upstream_time": 1787071659,
+      "download_url": "https://dl.smwcentral.net/42293/Line%20Guide%20Acts%20Like%20Fix.zip",
+      "filename": "Line Guide Acts Like Fix.zip",
+      "size": 1639,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

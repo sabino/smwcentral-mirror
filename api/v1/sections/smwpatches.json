@@ -351,41 +351,6 @@
     ]
   },
   {
-    "name": "smwpatches-disable-duck-jumping",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40954,
-    "title": "Disable Duck Jumping",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "abilities",
-      "jump",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "Disables jumping while ducking.<br>\r\nOptionally, allows disabling slide jumping, duck jumping off a Lakitu cloud and, if you're into that, swimming up while ducking.",
-    "latest_version": "smwc-40954-1764634073",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40954,
-        "title": "Disable Duck Jumping",
-        "version": "smwc-40954-1764634073",
-        "upstream_time": 1764634073,
-        "download_url": "https://dl.smwcentral.net/40954/No%20Duck%20Jump.zip",
-        "filename": "No Duck Jump.zip",
-        "size": 756,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-display-disclaimer-message-on-boot",
     "aliases": [],
     "section": "smwpatches",
@@ -821,6 +786,43 @@
     ]
   },
   {
+    "name": "smwpatches-line-guide-acts-like-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42293,
+    "title": "Line Guide Acts Like Fix",
+    "authors": [
+      "imamelia",
+      "worldpeace"
+    ],
+    "tags": [
+      "line-guided",
+      "lorom",
+      "physics",
+      "sa-1",
+      "sprites"
+    ],
+    "description": "This patch makes the line guide processsing routine use the \"acts like\" setting instead of the Map16 number.  This makes it possible to use ExGFX for line guides without worrying about where the tiles are in the Map16 pages.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>worldpeace's note</span></div><div class=\"collapse-content\">The vanilla code of line guide interaction sometimes tries to restore the sprite's position from backup RAM, even if they aren't properly stored. This results in teleportation of line-guided sprites. (Like other vanilla glitches, this has been regarded as a feature and utilized for vanilla tricks!)<br>\r\n<br>\r\nThe previous version assumed the correctness of Nintendo's code however, and accessed some invalid \"acts like\" values as a result. It caused game freezing in some emulators (e.g. higan v092); for those who're interested, the patch got the map16 value outside of the level area and repeated a loop infinitely.<br>\r\n<br>\r\nMy version fixes the freezing issue, as well as giving some extra option regarding behaviors of line guide. You can choose the frequency of odd behaviors, which are the following:<br>\r\n1) Map16 tiles in the page 1 (or acting like one) work as \"line guide end\".<br>\r\n2) Those tiles let line-guided sprites teleport to certain position.<br>\r\n<br>\r\n(These behaviors have already existed, and can be rarely observed in vanilla; only when the line-guided sprite is at a specific position which is decided by the map16 page of interacting tiles.)<br>\r\n<br>\r\nThis version also supports SA-1.</div></div>",
+    "latest_version": "1.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42293,
+        "title": "Line Guide Acts Like Fix",
+        "version": "1.2",
+        "upstream_time": 1787071659,
+        "download_url": "https://dl.smwcentral.net/42293/Line%20Guide%20Acts%20Like%20Fix.zip",
+        "filename": "Line Guide Acts Like Fix.zip",
+        "size": 1639,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-messagebox-in-minimalist-status-bar-goal-customizer",
     "aliases": [],
     "section": "smwpatches",
@@ -1231,7 +1233,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #edad24;\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [

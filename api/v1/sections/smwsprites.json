@@ -1267,6 +1267,48 @@
     ]
   },
   {
+    "name": "smwsprites-p-balloon",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42877,
+    "title": "P-Balloon",
+    "authors": [
+      "Mellonpizza"
+    ],
+    "tags": [
+      "balloon",
+      "carriable",
+      "float",
+      "floating",
+      "inflate",
+      "inflateable",
+      "item",
+      "lorom",
+      "p-balloon",
+      "power-up",
+      "sa-1"
+    ],
+    "description": "This is a disassembly of sprite 7D, the (P-)Balloon.<br>\r\n<br>\r\nExtra bit can make the sprite fly in the other direction.<br>\r\n<br>\r\nSpeed, sound and behavior options are all available.",
+    "latest_version": "smwc-42877-1787088539",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42877,
+        "title": "P-Balloon",
+        "version": "smwc-42877-1787088539",
+        "upstream_time": 1787088539,
+        "download_url": "https://dl.smwcentral.net/42877/SMWSDIS%20-%207D%20-%20Balloon.zip",
+        "filename": "SMWSDIS - 7D - Balloon.zip",
+        "size": 3441,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-para-spiny-flies-in-an-ellipse-pattern",
     "aliases": [],
     "section": "smwsprites",
@@ -1747,41 +1789,6 @@
         "download_url": "https://dl.smwcentral.net/41766/Serpont.zip",
         "filename": "Serpont.zip",
         "size": 7978,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-super-mario-maker-swimming-goomba",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 40039,
-    "title": "Super Mario Maker - Swimming Goomba",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "enemy",
-      "lorom",
-      "sa-1",
-      "underwater"
-    ],
-    "description": "This is a goomba.<br>\r\nIt moves underwater in Mario Maker.<br>\r\nIt will chase player when player enter a certain range.",
-    "latest_version": "smwc-40039-1772944749",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 40039,
-        "title": "Super Mario Maker - Swimming Goomba",
-        "version": "smwc-40039-1772944749",
-        "upstream_time": 1772944749,
-        "download_url": "https://dl.smwcentral.net/40039/swimming_goomba.zip",
-        "filename": "swimming_goomba.zip",
-        "size": 11562,
         "sha256": null,
         "dependencies": [
           "pixi"

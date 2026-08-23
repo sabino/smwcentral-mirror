@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-door-entering-animation",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 42864,
+  "title": "Door entering animation",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "animation",
+    "asar 2 remoderation",
+    "door",
+    "lorom"
+  ],
+  "description": "These block package contains 16x32 (or if you have change the setting, 16x16) and 32x32 doors. Unlike smw's, these doors actually open and Mario will change his pose to perform an entering animation.",
+  "latest_version": "smwc-42864-1786926599",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 42864,
+      "title": "Door entering animation",
+      "version": "smwc-42864-1786926599",
+      "upstream_time": 1786926599,
+      "download_url": "https://dl.smwcentral.net/42864/Door%20Animation.zip",
+      "filename": "Door Animation.zip",
+      "size": 16945,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "smwsprites-p-balloon",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42877,
+  "title": "P-Balloon",
+  "authors": [
+    "Mellonpizza"
+  ],
+  "tags": [
+    "balloon",
+    "carriable",
+    "float",
+    "floating",
+    "inflate",
+    "inflateable",
+    "item",
+    "lorom",
+    "p-balloon",
+    "power-up",
+    "sa-1"
+  ],
+  "description": "This is a disassembly of sprite 7D, the (P-)Balloon.<br>\r\n<br>\r\nExtra bit can make the sprite fly in the other direction.<br>\r\n<br>\r\nSpeed, sound and behavior options are all available.",
+  "latest_version": "smwc-42877-1787088539",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42877,
+      "title": "P-Balloon",
+      "version": "smwc-42877-1787088539",
+      "upstream_time": 1787088539,
+      "download_url": "https://dl.smwcentral.net/42877/SMWSDIS%20-%207D%20-%20Balloon.zip",
+      "filename": "SMWSDIS - 7D - Balloon.zip",
+      "size": 3441,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

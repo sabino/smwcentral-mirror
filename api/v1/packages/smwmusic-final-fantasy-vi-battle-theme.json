@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-final-fantasy-vi-battle-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42242,
+  "title": "Final Fantasy VI - Battle Theme",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "battle",
+    "boss",
+    "castle"
+  ],
+  "description": "It works well in boss battles.",
+  "latest_version": "smwc-42242-1786899888",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42242,
+      "title": "Final Fantasy VI - Battle Theme",
+      "version": "smwc-42242-1786899888",
+      "upstream_time": 1786899888,
+      "download_url": "https://dl.smwcentral.net/42242/Battle%20Theme.zip",
+      "filename": "Battle Theme.zip",
+      "size": 35780,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}
