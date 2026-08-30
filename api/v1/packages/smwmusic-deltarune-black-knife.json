@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-deltarune-black-knife",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41891,
+  "title": "Deltarune - Black Knife",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "boss",
+    "chaotic",
+    "chase",
+    "dark",
+    "night",
+    "tense"
+  ],
+  "description": "The song \"Black Knife\" from Chapter 3 of Deltarune, which plays against the chapter's final boss, originally composed by Toby Fox. Good for tough boss fights, or just really tense moments.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+  "latest_version": "smwc-41891-1787693237",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41891,
+      "title": "Deltarune - Black Knife",
+      "version": "smwc-41891-1787693237",
+      "upstream_time": 1787693237,
+      "download_url": "https://dl.smwcentral.net/41891/Black%20Knife.zip",
+      "filename": "Black Knife.zip",
+      "size": 69327,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

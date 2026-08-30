@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-deltarune-a-dark-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42029,
+  "title": "Deltarune - A DARK ZONE",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "boss",
+    "dark",
+    "ghost house",
+    "night",
+    "spooky"
+  ],
+  "description": "The song \"A DARK ZONE\" from Chapter 4 of Deltarune, which plays in the boss fight against Jackenstein, originally composed by Toby Fox. Would fit in spooky ghost levels and spooky boss fights.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+  "latest_version": "smwc-42029-1787684702",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42029,
+      "title": "Deltarune - A DARK ZONE",
+      "version": "smwc-42029-1787684702",
+      "upstream_time": 1787684702,
+      "download_url": "https://dl.smwcentral.net/42029/A%20DARK%20ZONE.zip",
+      "filename": "A DARK ZONE.zip",
+      "size": 95947,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

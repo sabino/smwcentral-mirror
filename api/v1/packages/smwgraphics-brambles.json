@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-brambles",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43038,
+  "title": "Brambles",
+  "authors": [
+    "Teyla"
+  ],
+  "tags": [
+    "jungle",
+    "sky"
+  ],
+  "description": "Brambles I made for my QLDC 2021 level, Curse of the Keys. They're GBA/DS styled-ish and blend well with my other tilesets. Since they only take 1 slot I would suggest mixing them with the wood/bridge tiles from my <a href=\"https://smwc.me/s/37476\">Radished Cliffside</a> set.<br>\r\n<br>\r\nNote that the sloped tiles are set to act like normal slopes (the upside-down ones as tileset-specifics). They need some kind of patch (Like <a href=\"https://smwc.me/s/27989\">This UberASM</a>) or custom block to achieve the effect.",
+  "latest_version": "smwc-43038-1787609487",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43038,
+      "title": "Brambles",
+      "version": "smwc-43038-1787609487",
+      "upstream_time": 1787609487,
+      "download_url": "https://dl.smwcentral.net/43038/Brambles-Fix.zip",
+      "filename": "Brambles-Fix.zip",
+      "size": 5566,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

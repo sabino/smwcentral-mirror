@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-h0ffman-bbs-intro",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42271,
+  "title": "h0ffman - BBS-Intro",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "industrial"
+  ],
+  "description": "A long and bouncy (and sometimes noisy) song by H0ffman. <b><span style=\"color: #ff0000;\">Incompatible with Bonus End</span></b>.",
+  "latest_version": "smwc-42271-1787838340",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42271,
+      "title": "h0ffman - BBS-Intro",
+      "version": "smwc-42271-1787838340",
+      "upstream_time": 1787838340,
+      "download_url": "https://dl.smwcentral.net/42271/BBS-Intro.zip",
+      "filename": "BBS-Intro.zip",
+      "size": 96937,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

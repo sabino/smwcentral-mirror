@@ -95,29 +95,30 @@
     ]
   },
   {
-    "name": "smwgraphics-burnt-mario",
+    "name": "smwgraphics-brambles",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42621,
-    "title": "Burnt Mario",
+    "upstream_id": 43038,
+    "title": "Brambles",
     "authors": [
-      "16-BitMario94"
+      "Teyla"
     ],
     "tags": [
-      "male"
+      "jungle",
+      "sky"
     ],
-    "description": "This is an expanded version of the castle #5 cutscene sprites in the original game. This also contains overworld sprites for burnt Mario.<br>\r\n<br>\r\nIf you're going to use please be sure to give credit.",
-    "latest_version": "2.0",
+    "description": "Brambles I made for my QLDC 2021 level, Curse of the Keys. They're GBA/DS styled-ish and blend well with my other tilesets. Since they only take 1 slot I would suggest mixing them with the wood/bridge tiles from my <a href=\"https://smwc.me/s/37476\">Radished Cliffside</a> set.<br>\r\n<br>\r\nNote that the sloped tiles are set to act like normal slopes (the upside-down ones as tileset-specifics). They need some kind of patch (Like <a href=\"https://smwc.me/s/27989\">This UberASM</a>) or custom block to achieve the effect.",
+    "latest_version": "smwc-43038-1787609487",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42621,
-        "title": "Burnt Mario",
-        "version": "2.0",
-        "upstream_time": 1784913814,
-        "download_url": "https://dl.smwcentral.net/42621/BurntMario.zip",
-        "filename": "BurntMario.zip",
-        "size": 14647,
+        "upstream_id": 43038,
+        "title": "Brambles",
+        "version": "smwc-43038-1787609487",
+        "upstream_time": 1787609487,
+        "download_url": "https://dl.smwcentral.net/43038/Brambles-Fix.zip",
+        "filename": "Brambles-Fix.zip",
+        "size": 5566,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -125,29 +126,31 @@
     ]
   },
   {
-    "name": "smwgraphics-castle-of-illusion-starring-mickey-mouse-castle-act",
+    "name": "smwgraphics-burnt-mario",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42345,
-    "title": "Castle of Illusion Starring Mickey Mouse - Castle (Act 1)",
+    "upstream_id": 42876,
+    "title": "Burnt Mario",
     "authors": [
-      "Brutapode89"
+      "16-BitMario94"
     ],
     "tags": [
-      "castle"
+      "male",
+      "mario",
+      "player"
     ],
-    "description": "Ripped from the first area of the Castle in Castle of Illusion Starring Mickey Mouse on Genesis/Megadrive. <br>\r\n<br>\r\nObservation: Sacrifices two small grass tiles in the FG2 slot. Uses the last colors of palette row 5.",
-    "latest_version": "1.3",
+    "description": "This is an expanded version of the castle #5 cutscene sprites in the original game. This also contains overworld sprites for burnt Mario.<br>\r\n<br>\r\nIf you're going to use please be sure to give credit.",
+    "latest_version": "2.1",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42345,
-        "title": "Castle of Illusion Starring Mickey Mouse - Castle (Act 1)",
-        "version": "1.3",
-        "upstream_time": 1778626500,
-        "download_url": "https://dl.smwcentral.net/42345/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20-%20Castle%20%28Act%201%29%201.3.zip",
-        "filename": "Castle of Illusion Starring Mickey Mouse - Castle (Act 1) 1.3.zip",
-        "size": 10781,
+        "upstream_id": 42876,
+        "title": "Burnt Mario",
+        "version": "2.1",
+        "upstream_time": 1787877224,
+        "download_url": "https://dl.smwcentral.net/42876/burntmario.zip",
+        "filename": "burntmario.zip",
+        "size": 14976,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -194,7 +197,6 @@
       "Brutapode89"
     ],
     "tags": [
-      "cave",
       "forest",
       "grassland"
     ],
@@ -213,48 +215,6 @@
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
-      },
-      {
-        "upstream_id": 42530,
-        "title": "Chuck Rock 2: Son of Chuck (Genesis) - In the Smelly Sewers",
-        "version": "smwc-42530-1781394576",
-        "upstream_time": 1781394576,
-        "download_url": "https://dl.smwcentral.net/42530/Chuck%20Rock%202%20-%20Son%20of%20Chuck%20-%20In%20the%20Smelly%20Sewers.zip",
-        "filename": "Chuck Rock 2 - Son of Chuck - In the Smelly Sewers.zip",
-        "size": 3128,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-cute-grasslands",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42407,
-    "title": "Cute Grasslands",
-    "authors": [
-      "Insanit"
-    ],
-    "tags": [
-      "grassland"
-    ],
-    "description": "My first original tileset, pretty simple and cute UwU",
-    "latest_version": "1.1",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42407,
-        "title": "Cute Grasslands",
-        "version": "1.1",
-        "upstream_time": 1779558709,
-        "download_url": "https://dl.smwcentral.net/42407/Cute%20Grasslands%20version%201.1.zip",
-        "filename": "Cute Grasslands version 1.1.zip",
-        "size": 3745,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
       }
     ]
   },
@@ -262,8 +222,8 @@
     "name": "smwgraphics-doraemon",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42775,
-    "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
+    "upstream_id": 42949,
+    "title": "Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)",
     "authors": [
       "Anorakun"
     ],
@@ -271,14 +231,28 @@
       "bonus",
       "castle",
       "grassland",
+      "mechanical",
       "mountain",
       "ruins",
-      "sky"
+      "sky",
+      "texture"
     ],
-    "description": "The background seen in the first stage of Doraemon 3: Nobita to Toki no Hougyoku.  <br>\r\n<br>\r\nCompared to the old site version, this one has a saner palette organization and uses less tiles.<br>\r\n<br>\r\nA perfect fit for levels filled with dinosaurs or tropical grasslands.",
-    "latest_version": "smwc-42775-1786377560",
+    "description": "The simple and pleasant Tetris-like background seen in a bonus room from the factory area from Doraemon 3 (SNES).  <br>\r\n<br>\r\nCan fit a variety of level themes.",
+    "latest_version": "smwc-42949-1787462144",
     "install_kind": "asset_only",
     "versions": [
+      {
+        "upstream_id": 42949,
+        "title": "Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)",
+        "version": "smwc-42949-1787462144",
+        "upstream_time": 1787462144,
+        "download_url": "https://dl.smwcentral.net/42949/Doraemon%203%20%28SFC%29%20-%20Factory%20%28Bonus%20Room%29.zip",
+        "filename": "Doraemon 3 (SFC) - Factory (Bonus Room).zip",
+        "size": 1923,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
       {
         "upstream_id": 42775,
         "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
@@ -350,68 +324,6 @@
     ]
   },
   {
-    "name": "smwgraphics-enemy",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42526,
-    "title": "Enemy 585 - Castle",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "castle",
-      "patch needed"
-    ],
-    "description": "The castle BG from Nitrome's Enemy 585 flash game, this is my first ExAnimation, and I couldn't find any other way to record this than by using a potato and converting it into a GIF! I compressed the BG's palette to fit in the lava's palette, but I couldn't fit the King Frog statue, because I'm afraid that will occupy a lot of space in the FG3 GFX file.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
-    "latest_version": "smwc-42526-1781377327",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42526,
-        "title": "Enemy 585 - Castle",
-        "version": "smwc-42526-1781377327",
-        "upstream_time": 1781377327,
-        "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
-        "filename": "enemy-585-castle.zip",
-        "size": 7582,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-fantasy-zone-gear-stage",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42455,
-    "title": "Fantasy Zone Gear - Stage 1: Woods",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "grassland"
-    ],
-    "description": "The Stage 1 BG from Fantasy Zone Gear on the Game Gear of all things, which is genuinely impressive to me because of how colorful this BG is, I must say that the Game Gear was ahead of its time despite eating up so many batteries so fast if I heard correctly!<br>\r\nWell, this background is much busier and complex than I actually thought it would be despite it occupying only 1 BG GFX slot, so, as lazy as I am, I decided to leave the Map16 as messy as you can see here.",
-    "latest_version": "smwc-42455-1780247865",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42455,
-        "title": "Fantasy Zone Gear - Stage 1: Woods",
-        "version": "smwc-42455-1780247865",
-        "upstream_time": 1780247865,
-        "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
-        "filename": "fantasyzonegearwoods.zip",
-        "size": 5927,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-ganbare-goemon",
     "aliases": [],
     "section": "smwgraphics",
@@ -458,6 +370,36 @@
     ]
   },
   {
+    "name": "smwgraphics-gary-de-snake",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43083,
+    "title": "Gary De'Snake",
+    "authors": [
+      "Weekly"
+    ],
+    "tags": [
+      "nyololin"
+    ],
+    "description": "This is Gary from Zootopia 2, he's a blue pit viper. Use him as a reskin for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16223\">Nyololin</a>.<br>\r\n<br>\r\nMore info in the readme.",
+    "latest_version": "smwc-43083-1788030701",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43083,
+        "title": "Gary De'Snake",
+        "version": "smwc-43083-1788030701",
+        "upstream_time": 1788030701,
+        "download_url": "https://dl.smwcentral.net/43083/gary%20de%27snake-.zip",
+        "filename": "gary de%27snake-.zip",
+        "size": 3388,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-ghostbusters-ghost-trap-manhattan",
     "aliases": [],
     "section": "smwgraphics",
@@ -482,6 +424,224 @@
         "download_url": "https://dl.smwcentral.net/42843/ghostbustersghosttrapjavamanhattanBG.zip",
         "filename": "ghostbustersghosttrapjavamanhattanBG.zip",
         "size": 9510,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-goemon-new-age-shutsudou",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43059,
+    "title": "Goemon: New Age Shutsudou! - 100 Demons' Castle",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "castle",
+      "eastern"
+    ],
+    "description": "The background seen in a castle filled with youkais, from Goemon: New Age Shutsudou!. It loops perfectly horizontally and vertically, meaning you can make really big levels with this graphic.<br>\r\n<br>\r\nA good fit for castle levels. ",
+    "latest_version": "smwc-43059-1787609717",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43059,
+        "title": "Goemon: New Age Shutsudou! - 100 Demons' Castle",
+        "version": "smwc-43059-1787609717",
+        "upstream_time": 1787609717,
+        "download_url": "https://dl.smwcentral.net/43059/Goemon%20New%20Age%20Shutsudou%21%20-%20100%20Demons%27%20Castle.zip",
+        "filename": "Goemon New Age Shutsudou%21 - 100 Demons%27 Castle.zip",
+        "size": 6597,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-goemon-new-age-shutsudou-black-impact-battle",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43036,
+    "title": "Goemon: New Age Shutsudou! - Black Impact Battle",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "eastern",
+      "grassland"
+    ],
+    "description": "The distant grassland scenary seen during the Black Impact battle from Goemon: New Age Shutsudou! Unlike the original, I took some creative liberties and looped the background so it can be usable in SMW.  Uses the last few colors of palette row 6, meaning your blocks are safe!<br>\r\n<br>\r\nA good fit for grasslands or \"when you are near a castle\" level.",
+    "latest_version": "smwc-43036-1787766336",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43036,
+        "title": "Goemon: New Age Shutsudou! - Black Impact Battle",
+        "version": "smwc-43036-1787766336",
+        "upstream_time": 1787766336,
+        "download_url": "https://dl.smwcentral.net/43036/Goemon%20New%20Age%20Shutsudou%21%20-%20Black%20Impact%20Battle.zip",
+        "filename": "Goemon New Age Shutsudou%21 - Black Impact Battle.zip",
+        "size": 6031,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-goemon-new-age-shutsudou-file-select",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43069,
+    "title": "Goemon: New Age Shutsudou! - File Select",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "abstract",
+      "bonus"
+    ],
+    "description": "The simple background seen in the file select screen from Goemon: New Age Shutsudou!. It has a digital / futuristic vibe.<br>\r\n<br>\r\nA good fit bonus levels. ",
+    "latest_version": "smwc-43069-1787704246",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43069,
+        "title": "Goemon: New Age Shutsudou! - File Select",
+        "version": "smwc-43069-1787704246",
+        "upstream_time": 1787704246,
+        "download_url": "https://dl.smwcentral.net/43069/Goemon%20New%20Age%20Shutsudou%21%20-%20File%20Select.zip",
+        "filename": "Goemon New Age Shutsudou%21 - File Select.zip",
+        "size": 6716,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-goemon-new-age-shutsudou-hide-impact-battle",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43027,
+    "title": "Goemon: New Age Shutsudou! - Hide Impact Battle",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "city",
+      "eastern",
+      "mechanical"
+    ],
+    "description": "The gorgeous sunset seen during the Hide Impact battle from Goemon: New Age Shutsudou!. Compared to the original version, I added a loop to the background, so it can be easily used in SMW.<br>\r\n<br>\r\nA good fit for city or sunset levels. ",
+    "latest_version": "smwc-43027-1787765910",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43027,
+        "title": "Goemon: New Age Shutsudou! - Hide Impact Battle",
+        "version": "smwc-43027-1787765910",
+        "upstream_time": 1787765910,
+        "download_url": "https://dl.smwcentral.net/43027/Goemon%20New%20Age%20Shutsudou%21%20-%20Hide%20Impact%20Battle.zip",
+        "filename": "Goemon New Age Shutsudou%21 - Hide Impact Battle.zip",
+        "size": 5995,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-goemon-new-age-shutsudou-ice-tower-boss-room",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43070,
+    "title": "Goemon: New Age Shutsudou! - Ice Tower (Boss Room)",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "castle",
+      "ice"
+    ],
+    "description": "The background seen when you fight the boss of the Ice Tower, from Goemon: New Age Shutsudou!.  Despite looking quite detailed, this graphic only uses 12 colors and one EXGFX file.<br>\r\n<br>\r\nA good fit for ice castles.",
+    "latest_version": "smwc-43070-1787704239",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43070,
+        "title": "Goemon: New Age Shutsudou! - Ice Tower (Boss Room)",
+        "version": "smwc-43070-1787704239",
+        "upstream_time": 1787704239,
+        "download_url": "https://dl.smwcentral.net/43070/Goemon%20New%20Age%20Shutsudou%21%20-%20Ice%20Tower%20%28Boss%20Room%29.zip",
+        "filename": "Goemon New Age Shutsudou%21 - Ice Tower (Boss Room).zip",
+        "size": 4521,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-goemon-new-age-shutsudou-winter-withered-water-veil-front",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43058,
+    "title": "Goemon: New Age Shutsudou! - Winter-Withered Water Veil (Front)",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "castle",
+      "eastern"
+    ],
+    "description": "The front portion image of the underwater stages from Goemon: New Age Shutsudou!.  Combine it with a layer 3 background for some amazing results.<br>\r\n<br>\r\nA good fit for temple levels.",
+    "latest_version": "smwc-43058-1787609707",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43058,
+        "title": "Goemon: New Age Shutsudou! - Winter-Withered Water Veil (Front)",
+        "version": "smwc-43058-1787609707",
+        "upstream_time": 1787609707,
+        "download_url": "https://dl.smwcentral.net/43058/Goemon%20New%20Age%20Shutsudou%21%20-%20Winter-Withered%20Water%20Veil%20%28Front%29.zip",
+        "filename": "Goemon New Age Shutsudou%21 - Winter-Withered Water Veil (Front).zip",
+        "size": 4449,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-jumper-vt369-grassland",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43076,
+    "title": "Jumper (VT369) - Grassland",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "grassland",
+      "ruins"
+    ],
+    "description": "The FG from Jumper, a bootleg reskin of Super Mario Bros. on the NES, made on the VT369. I had to compress the palettes into one, plus, I've added many tiles to make this tileset feel more \"complete\", basically turning this trash into something better, right?",
+    "latest_version": "smwc-43076-1787870872",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43076,
+        "title": "Jumper (VT369) - Grassland",
+        "version": "smwc-43076-1787870872",
+        "upstream_time": 1787870872,
+        "download_url": "https://dl.smwcentral.net/43076/jumpervt369grassland.zip",
+        "filename": "jumpervt369grassland.zip",
+        "size": 5073,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -519,29 +679,31 @@
     ]
   },
   {
-    "name": "smwgraphics-madou-monogatari-a-r-s-arle-s-story-cave",
+    "name": "smwgraphics-mario-circuit",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42344,
-    "title": "Madou Monogatari A-R-S: Arle's Story - Cave",
+    "upstream_id": 43060,
+    "title": "Mario Circuit",
     "authors": [
-      "Brutapode89"
+      "Dispace"
     ],
     "tags": [
-      "cave"
+      "city",
+      "mechanical",
+      "night"
     ],
-    "description": "Ripped from the cave in Madou Monogatari A-R-S: Arle's Story on PC-9801.",
-    "latest_version": "smwc-42344-1778627425",
+    "description": "This is C3 Summer 2026 re-published graphics set: \"Mario Circuit\" inspired, could fit on racetrack, racing, or challenge levels<br>\r\nBG variants:<br>\r\n-Fence<br>\r\n-with Garages<br>\r\n-Full \"Stadium\"<br>\r\nFG variant:<br>\r\n-Normal<br>\r\n-Swapped Red & Blue (see \"...swap.pal\" variants)<br>\r\nTime of Day Palette:<br>\r\n-Daytime (with Japan Spring, and Christmas variants)<br>\r\n-Autumn Sunset (swapped yellow & green, evening sky shading)<br>\r\n-Nighttime (only with Halloween variant)",
+    "latest_version": "smwc-43060-1787612931",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42344,
-        "title": "Madou Monogatari A-R-S: Arle's Story - Cave",
-        "version": "smwc-42344-1778627425",
-        "upstream_time": 1778627425,
-        "download_url": "https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip",
-        "filename": "Madou Monogatari A-R-S - Arle%27s Story - Cave.zip",
-        "size": 5961,
+        "upstream_id": 43060,
+        "title": "Mario Circuit",
+        "version": "smwc-43060-1787612931",
+        "upstream_time": 1787612931,
+        "download_url": "https://dl.smwcentral.net/43060/SMWGFXmarioscircuit.zip",
+        "filename": "SMWGFXmarioscircuit.zip",
+        "size": 34013,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -610,6 +772,37 @@
     ]
   },
   {
+    "name": "smwgraphics-mega-man-x2-x-hunter-base",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42948,
+    "title": "Mega Man X2 - X-Hunter Base 4 (Boss Rematch)",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "industrial",
+      "sewer"
+    ],
+    "description": "Background seen during most of the Maverick rematch battles from Mega Man X2.  Unlike the original version, I looped the background, so it fits SMW better.<br>\r\n<br>\r\nA good fit for sewer or industrial levels.",
+    "latest_version": "smwc-42948-1787462091",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42948,
+        "title": "Mega Man X2 - X-Hunter Base 4 (Boss Rematch)",
+        "version": "smwc-42948-1787462091",
+        "upstream_time": 1787462091,
+        "download_url": "https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip",
+        "filename": "Mega Man X2 - X-Hunter Stage 4 (Boss Rematch).zip",
+        "size": 2477,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-minus-galaxy-styled-mario",
     "aliases": [],
     "section": "smwgraphics",
@@ -671,30 +864,30 @@
     ]
   },
   {
-    "name": "smwgraphics-new-zealand-story-revolution-waitomo-caves",
+    "name": "smwgraphics-mushrooms",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42349,
-    "title": "New Zealand Story Revolution - Waitomo Caves",
+    "upstream_id": 43074,
+    "title": "Mushrooms 2026",
     "authors": [
-      "playagmes169"
+      "Broozer"
     ],
     "tags": [
-      "cave",
-      "town"
+      "grassland",
+      "mushroom"
     ],
-    "description": "The world 3 BG and FG from New Zealand Story Revolution on the Nintendo DS, I had to reduce the colors since the FG tiles had 3 separate palettes each, you can use this BG and FG for cave and town stages, you can even re-arrange the BG as you like, but also, the waterfalls aren't supposed to be animated",
-    "latest_version": "smwc-42349-1778701908",
+    "description": "A background with large mushroom platforms which would go well especially in grassland levels. It is a revamped version of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30494\">this submission</a>, 18 years forward, with a glossy, more refined art style, higher tile usage, three different variations and featuring both a Layer 2 and a Layer 3 part. Since the latter takes up the entire screen, if you intend to use it it is expected that you either replace the Layer 3 status bar with a sprite alternative (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">2</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28578\">3</a>) or disable it entirely (<a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">2</a>).<br>\r\n<br>\r\nCredit is optional, but appreciated.",
+    "latest_version": "smwc-43074-1787871298",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42349,
-        "title": "New Zealand Story Revolution - Waitomo Caves",
-        "version": "smwc-42349-1778701908",
-        "upstream_time": 1778701908,
-        "download_url": "https://dl.smwcentral.net/42349/nzsrwaitomocaves.zip",
-        "filename": "nzsrwaitomocaves.zip",
-        "size": 15587,
+        "upstream_id": 43074,
+        "title": "Mushrooms 2026",
+        "version": "smwc-43074-1787871298",
+        "upstream_time": 1787871298,
+        "download_url": "https://dl.smwcentral.net/43074/bg-mushrooms---2026.zip",
+        "filename": "bg-mushrooms---2026.zip",
+        "size": 11487,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -702,60 +895,32 @@
     ]
   },
   {
-    "name": "smwgraphics-puggsy-genesis-darkskull-castle",
+    "name": "smwgraphics-ribbon-toyland",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42410,
-    "title": "Puggsy (Genesis) - Darkskull Castle",
+    "upstream_id": 42922,
+    "title": "Ribbon Toyland",
     "authors": [
-      "playagmes169"
+      "Dispace"
     ],
     "tags": [
-      "castle"
+      "bonus",
+      "house",
+      "interior",
+      "toy"
     ],
-    "description": "The Darkskull Castle BG from Puggsy on the Sega Genesis, I ripped it from Junior stage 3 because I don't know how to disable this game's anti-piracy measures on Gens KMod, which is the emulator I'm using to rip this BG",
-    "latest_version": "smwc-42410-1779658109",
+    "description": "Back to school themed toyland interior level, possible mario house or bonus rooms...<br>\r\nincluding 4 palette variants:<br>\r\nDaytime - Golden<br>\r\nMorning/Evening - Pink<br>\r\nNight - White/Purple<br>\r\nDusk/Dawn - Blue",
+    "latest_version": "smwc-42922-1787462415",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42410,
-        "title": "Puggsy (Genesis) - Darkskull Castle",
-        "version": "smwc-42410-1779658109",
-        "upstream_time": 1779658109,
-        "download_url": "https://dl.smwcentral.net/42410/darkskullcastlegenesisbg.zip",
-        "filename": "darkskullcastlegenesisbg.zip",
-        "size": 6178,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-redrawn-styled-tap-tap",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42296,
-    "title": "Redrawn Styled Tap-Tap",
-    "authors": [
-      "Frattari Gaspar"
-    ],
-    "tags": [
-      "redrawn",
-      "tap-tap"
-    ],
-    "description": "A redrawn version this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32565\">sprite</a>, comes with two versions, the first one is a newer version I made more recently, the second one is an older attempt I did at redrawing the Tap-Taps wich looks closer to the Yoshi's Island graphics.<br>\r\n<br>\r\nThey come with four variants each: blue shoes, red shoes, one that only uses 8 colors and one that's compatible with more common palettes like pal A, B, C or D (the green palette shown here is more so for show since it can also be used with original SMW palettes).",
-    "latest_version": "smwc-42296-1778972115",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42296,
-        "title": "Redrawn Styled Tap-Tap",
-        "version": "smwc-42296-1778972115",
-        "upstream_time": 1778972115,
-        "download_url": "https://dl.smwcentral.net/42296/Redrawn%20Styled%20Tap-Tap.zip",
-        "filename": "Redrawn Styled Tap-Tap.zip",
-        "size": 34733,
+        "upstream_id": 42922,
+        "title": "Ribbon Toyland",
+        "version": "smwc-42922-1787462415",
+        "upstream_time": 1787462415,
+        "download_url": "https://dl.smwcentral.net/42922/SMWGFX-toyland.zip",
+        "filename": "SMWGFX-toyland.zip",
+        "size": 14075,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -891,69 +1056,6 @@
     ]
   },
   {
-    "name": "smwgraphics-super-e-d-f-earth-defense-force-stage",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42467,
-    "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
-    "authors": [
-      "Daizo Dee Von"
-    ],
-    "tags": [
-      "city",
-      "night"
-    ],
-    "description": "A city backdrop from the game Super E.D.F: Earth Defense Force for the SNES. It's been condensed to fit a 512 pixel wide background.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>. Credit would be appreciated, thank you.",
-    "latest_version": "smwc-42467-1780341780",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42467,
-        "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
-        "version": "smwc-42467-1780341780",
-        "upstream_time": 1780341780,
-        "download_url": "https://dl.smwcentral.net/42467/%5BGraphics%5D%5BBG%5D%20Super%20E.D.F%20-%20Midnight%20Interceptor%20%28SNES%29.zip",
-        "filename": "%5BGraphics%5D%5BBG%5D Super E.D.F - Midnight Interceptor (SNES).zip",
-        "size": 8562,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-advance-4-super-mario-bros-3-world-e-minigame",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42478,
-    "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
-    "authors": [
-      "TheOrangeToad"
-    ],
-    "tags": [
-      "2bpp",
-      "bonus",
-      "patch needed"
-    ],
-    "description": "A background used in one of the World-E minigames from Super Mario Advance 4: Super Mario Bros. 3 but now converted into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
-    "latest_version": "smwc-42478-1780430231",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42478,
-        "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
-        "version": "smwc-42478-1780430231",
-        "upstream_time": 1780430231,
-        "download_url": "https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip",
-        "filename": "(Layer 3) SMA4 SMB3 - World-e Minigame 2.zip",
-        "size": 1773,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi",
     "aliases": [],
     "section": "smwgraphics",
@@ -1038,50 +1140,6 @@
         "download_url": "https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip",
         "filename": "SMM2 Firebar Block.zip",
         "size": 2942,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-world",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42468,
-    "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "forest",
-      "grassland",
-      "jungle"
-    ],
-    "description": "The cobbly jungle FG from Yoshi's Island's early builds, I don't remember which build this was from, but I decided to pick it up because I think it looked cool, I added a lot of things here because the original tileset was basically unfinished, unlike the leafy grassland one that looked sort of finished.<br>\r\n<br>\r\nNOTICE: this tileset will use palette slots 3, 4 and 5 for the trees'/bushes' colors, plus the berry tile is already in the game's FG2 files",
-    "latest_version": "smwc-42468-1780361043",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42468,
-        "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
-        "version": "smwc-42468-1780361043",
-        "upstream_time": 1780361043,
-        "download_url": "https://dl.smwcentral.net/42468/yi-betacobblejungle.zip",
-        "filename": "yi-betacobblejungle.zip",
-        "size": 8965,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      },
-      {
-        "upstream_id": 42457,
-        "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Leafy Grassland",
-        "version": "smwc-42457-1780272090",
-        "upstream_time": 1780272090,
-        "download_url": "https://dl.smwcentral.net/42457/yi-betaleafgrassland.zip",
-        "filename": "yi-betaleafgrassland.zip",
-        "size": 9369,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1281,64 +1339,29 @@
     ]
   },
   {
-    "name": "smwgraphics-super-mario-world-styled-western-badlands",
+    "name": "smwgraphics-super-mario-world-styled-super-mario-bros",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42377,
-    "title": "Super Mario World Styled Western Badlands",
+    "upstream_id": 42866,
+    "title": "Super Mario World Styled Super Mario Bros. 2 Grassland",
     "authors": [
-      "Ganbare-Lucifer",
-      "edgar"
+      "RebootedThunder"
     ],
     "tags": [
-      "desert",
-      "mountain",
-      "wild west"
+      "grassland"
     ],
-    "description": "In case you ever wondered what the typical Minecraft badlands would look like in Super Mario World.<br>\r\n<br>\r\n<a href=\"https://www.mfgg.net/?sess=84432e84385d2be7464654ea9bb16506&act=resdb&param=02&c=1&id=41909\" rel=\"nofollow\">Made by Blizzard Buffalo</a>",
-    "latest_version": "smwc-42377-1779061200",
+    "description": "The SMB2 Grassland we all know, but...SMW Styled! This Tileset does not only include regular GFX, but it also has some ExAnimated tiles!",
+    "latest_version": "smwc-42866-1788055137",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42377,
-        "title": "Super Mario World Styled Western Badlands",
-        "version": "smwc-42377-1779061200",
-        "upstream_time": 1779061200,
-        "download_url": "https://dl.smwcentral.net/42377/SMW%20Styled%20Western-Badlands.zip",
-        "filename": "SMW Styled Western-Badlands.zip",
-        "size": 9790,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-the-pigeon",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42413,
-    "title": "The Pigeon",
-    "authors": [
-      "RunninPigeon"
-    ],
-    "tags": [
-      "male",
-      "patch needed",
-      "the pigeon"
-    ],
-    "description": "The Pigeon from \"Don't Let the Pigeon Drive the Bus!\" Books by Mo Willems, in the style of SMW.<br>\r\n<br>\r\nContains:<br>\r\nHUD Graphics<br>\r\nBlush Graphics (Vanilla Bowser Fight)<br>\r\nOverworld Mario<br>\r\nLevel Mario<br>\r\nPalette for Luigi, called \"DOVEY\"<br>\r\n<br>\r\nRequires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 gfx patch</a>.",
-    "latest_version": "1.1",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42413,
-        "title": "The Pigeon",
-        "version": "1.1",
-        "upstream_time": 1779657869,
-        "download_url": "https://dl.smwcentral.net/42413/The%20Pigeon.zip",
-        "filename": "The Pigeon.zip",
-        "size": 26832,
+        "upstream_id": 42866,
+        "title": "Super Mario World Styled Super Mario Bros. 2 Grassland",
+        "version": "smwc-42866-1788055137",
+        "upstream_time": 1788055137,
+        "download_url": "https://dl.smwcentral.net/42866/SMW---Styled%20SMB2%20Grassland.zip",
+        "filename": "SMW---Styled SMB2 Grassland.zip",
+        "size": 6276,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

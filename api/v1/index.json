@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T04:53:59.374431419+00:00",
+  "generated_at": "2026-08-30T09:58:38.299521774+00:00",
   "suite": "stable",
   "component": "main",
   "packages": [
@@ -554,7 +554,7 @@
         "solid",
         "sprite needed"
       ],
-      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #b26cb8;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
       "latest_version": "smwc-41237-1765159682",
       "install_kind": "gps_block",
       "versions": [
@@ -912,7 +912,7 @@
         "sa-1",
         "uberasm needed"
       ],
-      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #b26cb8;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
       "latest_version": "smwc-41209-1765844757",
       "install_kind": "gps_block",
       "versions": [
@@ -1264,7 +1264,7 @@
         "shatter",
         "sprite needed"
       ],
-      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #b26cb8;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
       "latest_version": "smwc-41235-1765916599",
       "install_kind": "gps_block",
       "versions": [
@@ -2060,29 +2060,30 @@
       ]
     },
     {
-      "name": "smwgraphics-burnt-mario",
+      "name": "smwgraphics-brambles",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42621,
-      "title": "Burnt Mario",
+      "upstream_id": 43038,
+      "title": "Brambles",
       "authors": [
-        "16-BitMario94"
+        "Teyla"
       ],
       "tags": [
-        "male"
+        "jungle",
+        "sky"
       ],
-      "description": "This is an expanded version of the castle #5 cutscene sprites in the original game. This also contains overworld sprites for burnt Mario.<br>\r\n<br>\r\nIf you're going to use please be sure to give credit.",
-      "latest_version": "2.0",
+      "description": "Brambles I made for my QLDC 2021 level, Curse of the Keys. They're GBA/DS styled-ish and blend well with my other tilesets. Since they only take 1 slot I would suggest mixing them with the wood/bridge tiles from my <a href=\"https://smwc.me/s/37476\">Radished Cliffside</a> set.<br>\r\n<br>\r\nNote that the sloped tiles are set to act like normal slopes (the upside-down ones as tileset-specifics). They need some kind of patch (Like <a href=\"https://smwc.me/s/27989\">This UberASM</a>) or custom block to achieve the effect.",
+      "latest_version": "smwc-43038-1787609487",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42621,
-          "title": "Burnt Mario",
-          "version": "2.0",
-          "upstream_time": 1784913814,
-          "download_url": "https://dl.smwcentral.net/42621/BurntMario.zip",
-          "filename": "BurntMario.zip",
-          "size": 14647,
+          "upstream_id": 43038,
+          "title": "Brambles",
+          "version": "smwc-43038-1787609487",
+          "upstream_time": 1787609487,
+          "download_url": "https://dl.smwcentral.net/43038/Brambles-Fix.zip",
+          "filename": "Brambles-Fix.zip",
+          "size": 5566,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2090,29 +2091,31 @@
       ]
     },
     {
-      "name": "smwgraphics-castle-of-illusion-starring-mickey-mouse-castle-act",
+      "name": "smwgraphics-burnt-mario",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42345,
-      "title": "Castle of Illusion Starring Mickey Mouse - Castle (Act 1)",
+      "upstream_id": 42876,
+      "title": "Burnt Mario",
       "authors": [
-        "Brutapode89"
+        "16-BitMario94"
       ],
       "tags": [
-        "castle"
+        "male",
+        "mario",
+        "player"
       ],
-      "description": "Ripped from the first area of the Castle in Castle of Illusion Starring Mickey Mouse on Genesis/Megadrive. <br>\r\n<br>\r\nObservation: Sacrifices two small grass tiles in the FG2 slot. Uses the last colors of palette row 5.",
-      "latest_version": "1.3",
+      "description": "This is an expanded version of the castle #5 cutscene sprites in the original game. This also contains overworld sprites for burnt Mario.<br>\r\n<br>\r\nIf you're going to use please be sure to give credit.",
+      "latest_version": "2.1",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42345,
-          "title": "Castle of Illusion Starring Mickey Mouse - Castle (Act 1)",
-          "version": "1.3",
-          "upstream_time": 1778626500,
-          "download_url": "https://dl.smwcentral.net/42345/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20-%20Castle%20%28Act%201%29%201.3.zip",
-          "filename": "Castle of Illusion Starring Mickey Mouse - Castle (Act 1) 1.3.zip",
-          "size": 10781,
+          "upstream_id": 42876,
+          "title": "Burnt Mario",
+          "version": "2.1",
+          "upstream_time": 1787877224,
+          "download_url": "https://dl.smwcentral.net/42876/burntmario.zip",
+          "filename": "burntmario.zip",
+          "size": 14976,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2159,7 +2162,6 @@
         "Brutapode89"
       ],
       "tags": [
-        "cave",
         "forest",
         "grassland"
       ],
@@ -2178,48 +2180,6 @@
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
-        },
-        {
-          "upstream_id": 42530,
-          "title": "Chuck Rock 2: Son of Chuck (Genesis) - In the Smelly Sewers",
-          "version": "smwc-42530-1781394576",
-          "upstream_time": 1781394576,
-          "download_url": "https://dl.smwcentral.net/42530/Chuck%20Rock%202%20-%20Son%20of%20Chuck%20-%20In%20the%20Smelly%20Sewers.zip",
-          "filename": "Chuck Rock 2 - Son of Chuck - In the Smelly Sewers.zip",
-          "size": 3128,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-cute-grasslands",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42407,
-      "title": "Cute Grasslands",
-      "authors": [
-        "Insanit"
-      ],
-      "tags": [
-        "grassland"
-      ],
-      "description": "My first original tileset, pretty simple and cute UwU",
-      "latest_version": "1.1",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42407,
-          "title": "Cute Grasslands",
-          "version": "1.1",
-          "upstream_time": 1779558709,
-          "download_url": "https://dl.smwcentral.net/42407/Cute%20Grasslands%20version%201.1.zip",
-          "filename": "Cute Grasslands version 1.1.zip",
-          "size": 3745,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
         }
       ]
     },
@@ -2227,8 +2187,8 @@
       "name": "smwgraphics-doraemon",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42775,
-      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
+      "upstream_id": 42949,
+      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)",
       "authors": [
         "Anorakun"
       ],
@@ -2236,14 +2196,28 @@
         "bonus",
         "castle",
         "grassland",
+        "mechanical",
         "mountain",
         "ruins",
-        "sky"
+        "sky",
+        "texture"
       ],
-      "description": "The background seen in the first stage of Doraemon 3: Nobita to Toki no Hougyoku.  <br>\r\n<br>\r\nCompared to the old site version, this one has a saner palette organization and uses less tiles.<br>\r\n<br>\r\nA perfect fit for levels filled with dinosaurs or tropical grasslands.",
-      "latest_version": "smwc-42775-1786377560",
+      "description": "The simple and pleasant Tetris-like background seen in a bonus room from the factory area from Doraemon 3 (SNES).  <br>\r\n<br>\r\nCan fit a variety of level themes.",
+      "latest_version": "smwc-42949-1787462144",
       "install_kind": "asset_only",
       "versions": [
+        {
+          "upstream_id": 42949,
+          "title": "Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)",
+          "version": "smwc-42949-1787462144",
+          "upstream_time": 1787462144,
+          "download_url": "https://dl.smwcentral.net/42949/Doraemon%203%20%28SFC%29%20-%20Factory%20%28Bonus%20Room%29.zip",
+          "filename": "Doraemon 3 (SFC) - Factory (Bonus Room).zip",
+          "size": 1923,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        },
         {
           "upstream_id": 42775,
           "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
@@ -2315,68 +2289,6 @@
       ]
     },
     {
-      "name": "smwgraphics-enemy",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42526,
-      "title": "Enemy 585 - Castle",
-      "authors": [
-        "playagmes169"
-      ],
-      "tags": [
-        "castle",
-        "patch needed"
-      ],
-      "description": "The castle BG from Nitrome's Enemy 585 flash game, this is my first ExAnimation, and I couldn't find any other way to record this than by using a potato and converting it into a GIF! I compressed the BG's palette to fit in the lava's palette, but I couldn't fit the King Frog statue, because I'm afraid that will occupy a lot of space in the FG3 GFX file.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
-      "latest_version": "smwc-42526-1781377327",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42526,
-          "title": "Enemy 585 - Castle",
-          "version": "smwc-42526-1781377327",
-          "upstream_time": 1781377327,
-          "download_url": "https://dl.smwcentral.net/42526/enemy-585-castle.zip",
-          "filename": "enemy-585-castle.zip",
-          "size": 7582,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-fantasy-zone-gear-stage",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42455,
-      "title": "Fantasy Zone Gear - Stage 1: Woods",
-      "authors": [
-        "playagmes169"
-      ],
-      "tags": [
-        "forest",
-        "grassland"
-      ],
-      "description": "The Stage 1 BG from Fantasy Zone Gear on the Game Gear of all things, which is genuinely impressive to me because of how colorful this BG is, I must say that the Game Gear was ahead of its time despite eating up so many batteries so fast if I heard correctly!<br>\r\nWell, this background is much busier and complex than I actually thought it would be despite it occupying only 1 BG GFX slot, so, as lazy as I am, I decided to leave the Map16 as messy as you can see here.",
-      "latest_version": "smwc-42455-1780247865",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42455,
-          "title": "Fantasy Zone Gear - Stage 1: Woods",
-          "version": "smwc-42455-1780247865",
-          "upstream_time": 1780247865,
-          "download_url": "https://dl.smwcentral.net/42455/fantasyzonegearwoods.zip",
-          "filename": "fantasyzonegearwoods.zip",
-          "size": 5927,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-ganbare-goemon",
       "aliases": [],
       "section": "smwgraphics",
@@ -2423,6 +2335,36 @@
       ]
     },
     {
+      "name": "smwgraphics-gary-de-snake",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43083,
+      "title": "Gary De'Snake",
+      "authors": [
+        "Weekly"
+      ],
+      "tags": [
+        "nyololin"
+      ],
+      "description": "This is Gary from Zootopia 2, he's a blue pit viper. Use him as a reskin for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16223\">Nyololin</a>.<br>\r\n<br>\r\nMore info in the readme.",
+      "latest_version": "smwc-43083-1788030701",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43083,
+          "title": "Gary De'Snake",
+          "version": "smwc-43083-1788030701",
+          "upstream_time": 1788030701,
+          "download_url": "https://dl.smwcentral.net/43083/gary%20de%27snake-.zip",
+          "filename": "gary de%27snake-.zip",
+          "size": 3388,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
       "name": "smwgraphics-ghostbusters-ghost-trap-manhattan",
       "aliases": [],
       "section": "smwgraphics",
@@ -2447,6 +2389,224 @@
           "download_url": "https://dl.smwcentral.net/42843/ghostbustersghosttrapjavamanhattanBG.zip",
           "filename": "ghostbustersghosttrapjavamanhattanBG.zip",
           "size": 9510,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-goemon-new-age-shutsudou",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43059,
+      "title": "Goemon: New Age Shutsudou! - 100 Demons' Castle",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "castle",
+        "eastern"
+      ],
+      "description": "The background seen in a castle filled with youkais, from Goemon: New Age Shutsudou!. It loops perfectly horizontally and vertically, meaning you can make really big levels with this graphic.<br>\r\n<br>\r\nA good fit for castle levels. ",
+      "latest_version": "smwc-43059-1787609717",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43059,
+          "title": "Goemon: New Age Shutsudou! - 100 Demons' Castle",
+          "version": "smwc-43059-1787609717",
+          "upstream_time": 1787609717,
+          "download_url": "https://dl.smwcentral.net/43059/Goemon%20New%20Age%20Shutsudou%21%20-%20100%20Demons%27%20Castle.zip",
+          "filename": "Goemon New Age Shutsudou%21 - 100 Demons%27 Castle.zip",
+          "size": 6597,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-goemon-new-age-shutsudou-black-impact-battle",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43036,
+      "title": "Goemon: New Age Shutsudou! - Black Impact Battle",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "eastern",
+        "grassland"
+      ],
+      "description": "The distant grassland scenary seen during the Black Impact battle from Goemon: New Age Shutsudou! Unlike the original, I took some creative liberties and looped the background so it can be usable in SMW.  Uses the last few colors of palette row 6, meaning your blocks are safe!<br>\r\n<br>\r\nA good fit for grasslands or \"when you are near a castle\" level.",
+      "latest_version": "smwc-43036-1787766336",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43036,
+          "title": "Goemon: New Age Shutsudou! - Black Impact Battle",
+          "version": "smwc-43036-1787766336",
+          "upstream_time": 1787766336,
+          "download_url": "https://dl.smwcentral.net/43036/Goemon%20New%20Age%20Shutsudou%21%20-%20Black%20Impact%20Battle.zip",
+          "filename": "Goemon New Age Shutsudou%21 - Black Impact Battle.zip",
+          "size": 6031,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-goemon-new-age-shutsudou-file-select",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43069,
+      "title": "Goemon: New Age Shutsudou! - File Select",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "abstract",
+        "bonus"
+      ],
+      "description": "The simple background seen in the file select screen from Goemon: New Age Shutsudou!. It has a digital / futuristic vibe.<br>\r\n<br>\r\nA good fit bonus levels. ",
+      "latest_version": "smwc-43069-1787704246",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43069,
+          "title": "Goemon: New Age Shutsudou! - File Select",
+          "version": "smwc-43069-1787704246",
+          "upstream_time": 1787704246,
+          "download_url": "https://dl.smwcentral.net/43069/Goemon%20New%20Age%20Shutsudou%21%20-%20File%20Select.zip",
+          "filename": "Goemon New Age Shutsudou%21 - File Select.zip",
+          "size": 6716,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-goemon-new-age-shutsudou-hide-impact-battle",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43027,
+      "title": "Goemon: New Age Shutsudou! - Hide Impact Battle",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "city",
+        "eastern",
+        "mechanical"
+      ],
+      "description": "The gorgeous sunset seen during the Hide Impact battle from Goemon: New Age Shutsudou!. Compared to the original version, I added a loop to the background, so it can be easily used in SMW.<br>\r\n<br>\r\nA good fit for city or sunset levels. ",
+      "latest_version": "smwc-43027-1787765910",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43027,
+          "title": "Goemon: New Age Shutsudou! - Hide Impact Battle",
+          "version": "smwc-43027-1787765910",
+          "upstream_time": 1787765910,
+          "download_url": "https://dl.smwcentral.net/43027/Goemon%20New%20Age%20Shutsudou%21%20-%20Hide%20Impact%20Battle.zip",
+          "filename": "Goemon New Age Shutsudou%21 - Hide Impact Battle.zip",
+          "size": 5995,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-goemon-new-age-shutsudou-ice-tower-boss-room",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43070,
+      "title": "Goemon: New Age Shutsudou! - Ice Tower (Boss Room)",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "castle",
+        "ice"
+      ],
+      "description": "The background seen when you fight the boss of the Ice Tower, from Goemon: New Age Shutsudou!.  Despite looking quite detailed, this graphic only uses 12 colors and one EXGFX file.<br>\r\n<br>\r\nA good fit for ice castles.",
+      "latest_version": "smwc-43070-1787704239",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43070,
+          "title": "Goemon: New Age Shutsudou! - Ice Tower (Boss Room)",
+          "version": "smwc-43070-1787704239",
+          "upstream_time": 1787704239,
+          "download_url": "https://dl.smwcentral.net/43070/Goemon%20New%20Age%20Shutsudou%21%20-%20Ice%20Tower%20%28Boss%20Room%29.zip",
+          "filename": "Goemon New Age Shutsudou%21 - Ice Tower (Boss Room).zip",
+          "size": 4521,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-goemon-new-age-shutsudou-winter-withered-water-veil-front",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43058,
+      "title": "Goemon: New Age Shutsudou! - Winter-Withered Water Veil (Front)",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "castle",
+        "eastern"
+      ],
+      "description": "The front portion image of the underwater stages from Goemon: New Age Shutsudou!.  Combine it with a layer 3 background for some amazing results.<br>\r\n<br>\r\nA good fit for temple levels.",
+      "latest_version": "smwc-43058-1787609707",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43058,
+          "title": "Goemon: New Age Shutsudou! - Winter-Withered Water Veil (Front)",
+          "version": "smwc-43058-1787609707",
+          "upstream_time": 1787609707,
+          "download_url": "https://dl.smwcentral.net/43058/Goemon%20New%20Age%20Shutsudou%21%20-%20Winter-Withered%20Water%20Veil%20%28Front%29.zip",
+          "filename": "Goemon New Age Shutsudou%21 - Winter-Withered Water Veil (Front).zip",
+          "size": 4449,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-jumper-vt369-grassland",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43076,
+      "title": "Jumper (VT369) - Grassland",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "grassland",
+        "ruins"
+      ],
+      "description": "The FG from Jumper, a bootleg reskin of Super Mario Bros. on the NES, made on the VT369. I had to compress the palettes into one, plus, I've added many tiles to make this tileset feel more \"complete\", basically turning this trash into something better, right?",
+      "latest_version": "smwc-43076-1787870872",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43076,
+          "title": "Jumper (VT369) - Grassland",
+          "version": "smwc-43076-1787870872",
+          "upstream_time": 1787870872,
+          "download_url": "https://dl.smwcentral.net/43076/jumpervt369grassland.zip",
+          "filename": "jumpervt369grassland.zip",
+          "size": 5073,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2484,29 +2644,31 @@
       ]
     },
     {
-      "name": "smwgraphics-madou-monogatari-a-r-s-arle-s-story-cave",
+      "name": "smwgraphics-mario-circuit",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42344,
-      "title": "Madou Monogatari A-R-S: Arle's Story - Cave",
+      "upstream_id": 43060,
+      "title": "Mario Circuit",
       "authors": [
-        "Brutapode89"
+        "Dispace"
       ],
       "tags": [
-        "cave"
+        "city",
+        "mechanical",
+        "night"
       ],
-      "description": "Ripped from the cave in Madou Monogatari A-R-S: Arle's Story on PC-9801.",
-      "latest_version": "smwc-42344-1778627425",
+      "description": "This is C3 Summer 2026 re-published graphics set: \"Mario Circuit\" inspired, could fit on racetrack, racing, or challenge levels<br>\r\nBG variants:<br>\r\n-Fence<br>\r\n-with Garages<br>\r\n-Full \"Stadium\"<br>\r\nFG variant:<br>\r\n-Normal<br>\r\n-Swapped Red & Blue (see \"...swap.pal\" variants)<br>\r\nTime of Day Palette:<br>\r\n-Daytime (with Japan Spring, and Christmas variants)<br>\r\n-Autumn Sunset (swapped yellow & green, evening sky shading)<br>\r\n-Nighttime (only with Halloween variant)",
+      "latest_version": "smwc-43060-1787612931",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42344,
-          "title": "Madou Monogatari A-R-S: Arle's Story - Cave",
-          "version": "smwc-42344-1778627425",
-          "upstream_time": 1778627425,
-          "download_url": "https://dl.smwcentral.net/42344/Madou%20Monogatari%20A-R-S%20-%20Arle%27s%20Story%20-%20Cave.zip",
-          "filename": "Madou Monogatari A-R-S - Arle%27s Story - Cave.zip",
-          "size": 5961,
+          "upstream_id": 43060,
+          "title": "Mario Circuit",
+          "version": "smwc-43060-1787612931",
+          "upstream_time": 1787612931,
+          "download_url": "https://dl.smwcentral.net/43060/SMWGFXmarioscircuit.zip",
+          "filename": "SMWGFXmarioscircuit.zip",
+          "size": 34013,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2575,6 +2737,37 @@
       ]
     },
     {
+      "name": "smwgraphics-mega-man-x2-x-hunter-base",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42948,
+      "title": "Mega Man X2 - X-Hunter Base 4 (Boss Rematch)",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "industrial",
+        "sewer"
+      ],
+      "description": "Background seen during most of the Maverick rematch battles from Mega Man X2.  Unlike the original version, I looped the background, so it fits SMW better.<br>\r\n<br>\r\nA good fit for sewer or industrial levels.",
+      "latest_version": "smwc-42948-1787462091",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42948,
+          "title": "Mega Man X2 - X-Hunter Base 4 (Boss Rematch)",
+          "version": "smwc-42948-1787462091",
+          "upstream_time": 1787462091,
+          "download_url": "https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip",
+          "filename": "Mega Man X2 - X-Hunter Stage 4 (Boss Rematch).zip",
+          "size": 2477,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
       "name": "smwgraphics-minus-galaxy-styled-mario",
       "aliases": [],
       "section": "smwgraphics",
@@ -2636,30 +2829,30 @@
       ]
     },
     {
-      "name": "smwgraphics-new-zealand-story-revolution-waitomo-caves",
+      "name": "smwgraphics-mushrooms",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42349,
-      "title": "New Zealand Story Revolution - Waitomo Caves",
+      "upstream_id": 43074,
+      "title": "Mushrooms 2026",
       "authors": [
-        "playagmes169"
+        "Broozer"
       ],
       "tags": [
-        "cave",
-        "town"
+        "grassland",
+        "mushroom"
       ],
-      "description": "The world 3 BG and FG from New Zealand Story Revolution on the Nintendo DS, I had to reduce the colors since the FG tiles had 3 separate palettes each, you can use this BG and FG for cave and town stages, you can even re-arrange the BG as you like, but also, the waterfalls aren't supposed to be animated",
-      "latest_version": "smwc-42349-1778701908",
+      "description": "A background with large mushroom platforms which would go well especially in grassland levels. It is a revamped version of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30494\">this submission</a>, 18 years forward, with a glossy, more refined art style, higher tile usage, three different variations and featuring both a Layer 2 and a Layer 3 part. Since the latter takes up the entire screen, if you intend to use it it is expected that you either replace the Layer 3 status bar with a sprite alternative (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">2</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28578\">3</a>) or disable it entirely (<a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">2</a>).<br>\r\n<br>\r\nCredit is optional, but appreciated.",
+      "latest_version": "smwc-43074-1787871298",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42349,
-          "title": "New Zealand Story Revolution - Waitomo Caves",
-          "version": "smwc-42349-1778701908",
-          "upstream_time": 1778701908,
-          "download_url": "https://dl.smwcentral.net/42349/nzsrwaitomocaves.zip",
-          "filename": "nzsrwaitomocaves.zip",
-          "size": 15587,
+          "upstream_id": 43074,
+          "title": "Mushrooms 2026",
+          "version": "smwc-43074-1787871298",
+          "upstream_time": 1787871298,
+          "download_url": "https://dl.smwcentral.net/43074/bg-mushrooms---2026.zip",
+          "filename": "bg-mushrooms---2026.zip",
+          "size": 11487,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2667,60 +2860,32 @@
       ]
     },
     {
-      "name": "smwgraphics-puggsy-genesis-darkskull-castle",
+      "name": "smwgraphics-ribbon-toyland",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42410,
-      "title": "Puggsy (Genesis) - Darkskull Castle",
+      "upstream_id": 42922,
+      "title": "Ribbon Toyland",
       "authors": [
-        "playagmes169"
+        "Dispace"
       ],
       "tags": [
-        "castle"
+        "bonus",
+        "house",
+        "interior",
+        "toy"
       ],
-      "description": "The Darkskull Castle BG from Puggsy on the Sega Genesis, I ripped it from Junior stage 3 because I don't know how to disable this game's anti-piracy measures on Gens KMod, which is the emulator I'm using to rip this BG",
-      "latest_version": "smwc-42410-1779658109",
+      "description": "Back to school themed toyland interior level, possible mario house or bonus rooms...<br>\r\nincluding 4 palette variants:<br>\r\nDaytime - Golden<br>\r\nMorning/Evening - Pink<br>\r\nNight - White/Purple<br>\r\nDusk/Dawn - Blue",
+      "latest_version": "smwc-42922-1787462415",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42410,
-          "title": "Puggsy (Genesis) - Darkskull Castle",
-          "version": "smwc-42410-1779658109",
-          "upstream_time": 1779658109,
-          "download_url": "https://dl.smwcentral.net/42410/darkskullcastlegenesisbg.zip",
-          "filename": "darkskullcastlegenesisbg.zip",
-          "size": 6178,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-redrawn-styled-tap-tap",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42296,
-      "title": "Redrawn Styled Tap-Tap",
-      "authors": [
-        "Frattari Gaspar"
-      ],
-      "tags": [
-        "redrawn",
-        "tap-tap"
-      ],
-      "description": "A redrawn version this <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32565\">sprite</a>, comes with two versions, the first one is a newer version I made more recently, the second one is an older attempt I did at redrawing the Tap-Taps wich looks closer to the Yoshi's Island graphics.<br>\r\n<br>\r\nThey come with four variants each: blue shoes, red shoes, one that only uses 8 colors and one that's compatible with more common palettes like pal A, B, C or D (the green palette shown here is more so for show since it can also be used with original SMW palettes).",
-      "latest_version": "smwc-42296-1778972115",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42296,
-          "title": "Redrawn Styled Tap-Tap",
-          "version": "smwc-42296-1778972115",
-          "upstream_time": 1778972115,
-          "download_url": "https://dl.smwcentral.net/42296/Redrawn%20Styled%20Tap-Tap.zip",
-          "filename": "Redrawn Styled Tap-Tap.zip",
-          "size": 34733,
+          "upstream_id": 42922,
+          "title": "Ribbon Toyland",
+          "version": "smwc-42922-1787462415",
+          "upstream_time": 1787462415,
+          "download_url": "https://dl.smwcentral.net/42922/SMWGFX-toyland.zip",
+          "filename": "SMWGFX-toyland.zip",
+          "size": 14075,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2856,69 +3021,6 @@
       ]
     },
     {
-      "name": "smwgraphics-super-e-d-f-earth-defense-force-stage",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42467,
-      "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
-      "authors": [
-        "Daizo Dee Von"
-      ],
-      "tags": [
-        "city",
-        "night"
-      ],
-      "description": "A city backdrop from the game Super E.D.F: Earth Defense Force for the SNES. It's been condensed to fit a 512 pixel wide background.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"15Tails\"><a href=\"/?p=profile&amp;id=68415\" style=\"color: var(--user-color-2);\" class=\"un\">15Tails</a></span>. Credit would be appreciated, thank you.",
-      "latest_version": "smwc-42467-1780341780",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42467,
-          "title": "Super E.D.F: Earth Defense Force - Stage 2 ~ Midnight Intercept",
-          "version": "smwc-42467-1780341780",
-          "upstream_time": 1780341780,
-          "download_url": "https://dl.smwcentral.net/42467/%5BGraphics%5D%5BBG%5D%20Super%20E.D.F%20-%20Midnight%20Interceptor%20%28SNES%29.zip",
-          "filename": "%5BGraphics%5D%5BBG%5D Super E.D.F - Midnight Interceptor (SNES).zip",
-          "size": 8562,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-super-mario-advance-4-super-mario-bros-3-world-e-minigame",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42478,
-      "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
-      "authors": [
-        "TheOrangeToad"
-      ],
-      "tags": [
-        "2bpp",
-        "bonus",
-        "patch needed"
-      ],
-      "description": "A background used in one of the World-E minigames from Super Mario Advance 4: Super Mario Bros. 3 but now converted into Layer 3.<br>\r\n<br>\r\nNote: It requires a sprite status bar or a patch in order to make it work like the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">RAM Toggled Status Bar (& IRQ) Patch</a> as a example.",
-      "latest_version": "smwc-42478-1780430231",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42478,
-          "title": "Super Mario Advance 4: Super Mario Bros. 3 - World-e Minigame 2",
-          "version": "smwc-42478-1780430231",
-          "upstream_time": 1780430231,
-          "download_url": "https://dl.smwcentral.net/42478/%28Layer%203%29%20SMA4%20SMB3%20-%20World-e%20Minigame%202.zip",
-          "filename": "(Layer 3) SMA4 SMB3 - World-e Minigame 2.zip",
-          "size": 1773,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi",
       "aliases": [],
       "section": "smwgraphics",
@@ -3003,50 +3105,6 @@
           "download_url": "https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip",
           "filename": "SMM2 Firebar Block.zip",
           "size": 2942,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-super-mario-world",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42468,
-      "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
-      "authors": [
-        "playagmes169"
-      ],
-      "tags": [
-        "forest",
-        "grassland",
-        "jungle"
-      ],
-      "description": "The cobbly jungle FG from Yoshi's Island's early builds, I don't remember which build this was from, but I decided to pick it up because I think it looked cool, I added a lot of things here because the original tileset was basically unfinished, unlike the leafy grassland one that looked sort of finished.<br>\r\n<br>\r\nNOTICE: this tileset will use palette slots 3, 4 and 5 for the trees'/bushes' colors, plus the berry tile is already in the game's FG2 files",
-      "latest_version": "smwc-42468-1780361043",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42468,
-          "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Cobbly Jungle",
-          "version": "smwc-42468-1780361043",
-          "upstream_time": 1780361043,
-          "download_url": "https://dl.smwcentral.net/42468/yi-betacobblejungle.zip",
-          "filename": "yi-betacobblejungle.zip",
-          "size": 8965,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        },
-        {
-          "upstream_id": 42457,
-          "title": "Super Mario World 2: Yoshi's Island (Pre-Release) - Leafy Grassland",
-          "version": "smwc-42457-1780272090",
-          "upstream_time": 1780272090,
-          "download_url": "https://dl.smwcentral.net/42457/yi-betaleafgrassland.zip",
-          "filename": "yi-betaleafgrassland.zip",
-          "size": 9369,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3246,64 +3304,29 @@
       ]
     },
     {
-      "name": "smwgraphics-super-mario-world-styled-western-badlands",
+      "name": "smwgraphics-super-mario-world-styled-super-mario-bros",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42377,
-      "title": "Super Mario World Styled Western Badlands",
+      "upstream_id": 42866,
+      "title": "Super Mario World Styled Super Mario Bros. 2 Grassland",
       "authors": [
-        "Ganbare-Lucifer",
-        "edgar"
+        "RebootedThunder"
       ],
       "tags": [
-        "desert",
-        "mountain",
-        "wild west"
+        "grassland"
       ],
-      "description": "In case you ever wondered what the typical Minecraft badlands would look like in Super Mario World.<br>\r\n<br>\r\n<a href=\"https://www.mfgg.net/?sess=84432e84385d2be7464654ea9bb16506&act=resdb&param=02&c=1&id=41909\" rel=\"nofollow\">Made by Blizzard Buffalo</a>",
-      "latest_version": "smwc-42377-1779061200",
+      "description": "The SMB2 Grassland we all know, but...SMW Styled! This Tileset does not only include regular GFX, but it also has some ExAnimated tiles!",
+      "latest_version": "smwc-42866-1788055137",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42377,
-          "title": "Super Mario World Styled Western Badlands",
-          "version": "smwc-42377-1779061200",
-          "upstream_time": 1779061200,
-          "download_url": "https://dl.smwcentral.net/42377/SMW%20Styled%20Western-Badlands.zip",
-          "filename": "SMW Styled Western-Badlands.zip",
-          "size": 9790,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-the-pigeon",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42413,
-      "title": "The Pigeon",
-      "authors": [
-        "RunninPigeon"
-      ],
-      "tags": [
-        "male",
-        "patch needed",
-        "the pigeon"
-      ],
-      "description": "The Pigeon from \"Don't Let the Pigeon Drive the Bus!\" Books by Mo Willems, in the style of SMW.<br>\r\n<br>\r\nContains:<br>\r\nHUD Graphics<br>\r\nBlush Graphics (Vanilla Bowser Fight)<br>\r\nOverworld Mario<br>\r\nLevel Mario<br>\r\nPalette for Luigi, called \"DOVEY\"<br>\r\n<br>\r\nRequires the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 gfx patch</a>.",
-      "latest_version": "1.1",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42413,
-          "title": "The Pigeon",
-          "version": "1.1",
-          "upstream_time": 1779657869,
-          "download_url": "https://dl.smwcentral.net/42413/The%20Pigeon.zip",
-          "filename": "The Pigeon.zip",
-          "size": 26832,
+          "upstream_id": 42866,
+          "title": "Super Mario World Styled Super Mario Bros. 2 Grassland",
+          "version": "smwc-42866-1788055137",
+          "upstream_time": 1788055137,
+          "download_url": "https://dl.smwcentral.net/42866/SMW---Styled%20SMB2%20Grassland.zip",
+          "filename": "SMW---Styled SMB2 Grassland.zip",
+          "size": 6276,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3435,79 +3458,6 @@
       ]
     },
     {
-      "name": "smwmusic-actraiser-all-over-the-world",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42131,
-      "title": "ActRaiser - All over the World",
-      "authors": [
-        "Fullcannon"
-      ],
-      "tags": [
-        "final",
-        "ice",
-        "mountain",
-        "snow",
-        "tense"
-      ],
-      "description": "The final snowy dungeon theme from Northwall Act-2 in ActRaiser.",
-      "latest_version": "smwc-42131-1784137905",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42131,
-          "title": "ActRaiser - All over the World",
-          "version": "smwc-42131-1784137905",
-          "upstream_time": 1784137905,
-          "download_url": "https://dl.smwcentral.net/42131/ActRaiser%20-%20All%20over%20the%20World.zip",
-          "filename": "ActRaiser - All over the World.zip",
-          "size": 66998,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-banshee-amiga-ending",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42175,
-      "title": "Banshee (Amiga) - Ending",
-      "authors": [
-        "Segment1Zone2"
-      ],
-      "tags": [
-        "abstract",
-        "ambient",
-        "cutscene",
-        "mysterious",
-        "sky",
-        "space"
-      ],
-      "description": "Originally ported for <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span> and I's VLDC14 entry, <a href=\"https://bin.smwcentral.net/u/48514/skyway_highway.bps&key=j0BGDKPR\" rel=\"nofollow\">Skyway Highway</a>.",
-      "latest_version": "smwc-42175-1784397548",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42175,
-          "title": "Banshee (Amiga) - Ending",
-          "version": "smwc-42175-1784397548",
-          "upstream_time": 1784397548,
-          "download_url": "https://dl.smwcentral.net/42175/Banshee%20%28Amiga%29%20-%20Ending.zip",
-          "filename": "Banshee (Amiga) - Ending.zip",
-          "size": 115181,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
       "name": "smwmusic-brandish",
       "aliases": [],
       "section": "smwmusic",
@@ -3580,29 +3530,31 @@
       ]
     },
     {
-      "name": "smwmusic-castlevania-dracula-x-game-over",
+      "name": "smwmusic-ch-jin-sentai-jetman-area-a",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42158,
-      "title": "Castlevania: Dracula X - Game Over",
+      "upstream_id": 42343,
+      "title": "Chōjin Sentai Jetman - Area A",
       "authors": [
-        "Kevin"
+        "Segment1Zone2"
       ],
       "tags": [
-        "game over"
+        "industrial",
+        "retro",
+        "upbeat"
       ],
-      "description": "If used for a (local) game over theme, you can remove \"#default\" to make it load faster (if there's no sfx).<br>\r\nYou may need <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40236\">this patch</a> to extend the Game Over screen length.",
-      "latest_version": "smwc-42158-1784311252",
+      "description": "Area A from Choujin Sentai Jetman on the NES.",
+      "latest_version": "smwc-42343-1787711535",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42158,
-          "title": "Castlevania: Dracula X - Game Over",
-          "version": "smwc-42158-1784311252",
-          "upstream_time": 1784311252,
-          "download_url": "https://dl.smwcentral.net/42158/Dracula%20X%20-%20Game%20Over.zip",
-          "filename": "Dracula X - Game Over.zip",
-          "size": 41602,
+          "upstream_id": 42343,
+          "title": "Chōjin Sentai Jetman - Area A",
+          "version": "smwc-42343-1787711535",
+          "upstream_time": 1787711535,
+          "download_url": "https://dl.smwcentral.net/42343/Choujin%20Sentai%20Jetman%20-%20Area%20A.zip",
+          "filename": "Choujin Sentai Jetman - Area A.zip",
+          "size": 76262,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3612,32 +3564,36 @@
       ]
     },
     {
-      "name": "smwmusic-d-xt-r-fluffbug",
+      "name": "smwmusic-cloud-s-c-a-r-y",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42174,
-      "title": "d=xt=r - fluffbug",
+      "upstream_id": 42308,
+      "title": "Cloud - S.C.A.R.Y.",
       "authors": [
-        "Segment1Zone2"
+        "SiameseTwins"
       ],
       "tags": [
-        "athletic",
-        "bonus",
-        "sky",
-        "space"
+        "abstract",
+        "boss",
+        "chaotic",
+        "chase",
+        "final",
+        "fire",
+        "industrial",
+        "sewer"
       ],
-      "description": "Originally ported for <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span> and I's VLDC14 entry, <a href=\"https://bin.smwcentral.net/u/48514/skyway_highway.bps&key=j0BGDKPR\" rel=\"nofollow\">Skyway Highway</a>.<br>\r\n<br>\r\nOmits Thunder.",
-      "latest_version": "smwc-42174-1784312155",
+      "description": "Could be used in industrial final levels.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End, Yoshi and Thunder/Blargg.</span>",
+      "latest_version": "1.1",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42174,
-          "title": "d=xt=r - fluffbug",
-          "version": "smwc-42174-1784312155",
-          "upstream_time": 1784312155,
-          "download_url": "https://dl.smwcentral.net/42174/fluffbug.zip",
-          "filename": "fluffbug.zip",
-          "size": 101943,
+          "upstream_id": 42308,
+          "title": "Cloud - S.C.A.R.Y.",
+          "version": "1.1",
+          "upstream_time": 1787844994,
+          "download_url": "https://dl.smwcentral.net/42308/Cloud%20-%20S.C.A.R.Y..zip",
+          "filename": "Cloud - S.C.A.R.Y..zip",
+          "size": 105287,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3647,34 +3603,108 @@
       ]
     },
     {
-      "name": "smwmusic-dinocity-fight",
+      "name": "smwmusic-deltarune-a-dark-zone",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42210,
-      "title": "DinoCity - Fight!!",
+      "upstream_id": 42029,
+      "title": "Deltarune - A DARK ZONE",
       "authors": [
-        "Segment1Zone2"
+        "Forgado"
       ],
       "tags": [
         "boss",
-        "cave",
-        "industrial",
-        "jungle",
+        "dark",
+        "ghost house",
+        "night",
+        "spooky"
+      ],
+      "description": "The song \"A DARK ZONE\" from Chapter 4 of Deltarune, which plays in the boss fight against Jackenstein, originally composed by Toby Fox. Would fit in spooky ghost levels and spooky boss fights.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+      "latest_version": "smwc-42029-1787684702",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42029,
+          "title": "Deltarune - A DARK ZONE",
+          "version": "smwc-42029-1787684702",
+          "upstream_time": 1787684702,
+          "download_url": "https://dl.smwcentral.net/42029/A%20DARK%20ZONE.zip",
+          "filename": "A DARK ZONE.zip",
+          "size": 95947,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-deltarune-black-knife",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41891,
+      "title": "Deltarune - Black Knife",
+      "authors": [
+        "Forgado"
+      ],
+      "tags": [
+        "boss",
+        "chaotic",
+        "chase",
+        "dark",
+        "night",
+        "tense"
+      ],
+      "description": "The song \"Black Knife\" from Chapter 3 of Deltarune, which plays against the chapter's final boss, originally composed by Toby Fox. Good for tough boss fights, or just really tense moments.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+      "latest_version": "smwc-41891-1787693237",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 41891,
+          "title": "Deltarune - Black Knife",
+          "version": "smwc-41891-1787693237",
+          "upstream_time": 1787693237,
+          "download_url": "https://dl.smwcentral.net/41891/Black%20Knife.zip",
+          "filename": "Black Knife.zip",
+          "size": 69327,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-deltarune-ever-higher",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 41842,
+      "title": "Deltarune - Ever Higher",
+      "authors": [
+        "Forgado"
+      ],
+      "tags": [
+        "airship",
+        "overworld",
+        "retro",
+        "ruins",
+        "sky",
         "temple",
         "upbeat"
       ],
-      "description": "The boss battle theme from Dino City on the SNES.",
-      "latest_version": "smwc-42210-1784489004",
+      "description": "The song \"Ever Higher\" from Chapter 4 of Deltarune, which plays in climbing sections, originally composed by Toby Fox. Would fit in vertical levels, maybe airships too. Could also be fine for overworlds due to its relatively short length?<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+      "latest_version": "smwc-41842-1788005346",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42210,
-          "title": "DinoCity - Fight!!",
-          "version": "smwc-42210-1784489004",
-          "upstream_time": 1784489004,
-          "download_url": "https://dl.smwcentral.net/42210/Dino%20City%20-%20Fight%21%21.zip",
-          "filename": "Dino City - Fight%21%21.zip",
-          "size": 65470,
+          "upstream_id": 41842,
+          "title": "Deltarune - Ever Higher",
+          "version": "smwc-41842-1788005346",
+          "upstream_time": 1788005346,
+          "download_url": "https://dl.smwcentral.net/41842/Ever%20Higher.zip",
+          "filename": "Ever Higher.zip",
+          "size": 68640,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3684,99 +3714,35 @@
       ]
     },
     {
-      "name": "smwmusic-earthbound-halloween-hack-megalovania",
+      "name": "smwmusic-dynamite-headdy-funny-angry",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42007,
-      "title": "Earthbound Halloween Hack - Megalovania",
+      "upstream_id": 42360,
+      "title": "Dynamite Headdy - Funny Angry",
       "authors": [
-        "Fullcannon"
+        "Moose"
       ],
       "tags": [
+        "airship",
+        "athletic",
         "boss",
-        "final"
+        "castle",
+        "chase",
+        "industrial",
+        "tense"
       ],
-      "description": "Final boss theme from Earthbound Halloween Hack, preceding the more widely popular fight from Undertale by years.",
-      "latest_version": "smwc-42007-1784052250",
+      "description": "might fit a late game auto-scroller",
+      "latest_version": "smwc-42360-1787713104",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42007,
-          "title": "Earthbound Halloween Hack - Megalovania",
-          "version": "smwc-42007-1784052250",
-          "upstream_time": 1784052250,
-          "download_url": "https://dl.smwcentral.net/42007/Earthbound%20Halloween%20Hack%20-%20Megalovania.zip",
-          "filename": "Earthbound Halloween Hack - Megalovania.zip",
-          "size": 57689,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-earthbound-the-lost-underworld",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42234,
-      "title": "Earthbound - The Lost Underworld",
-      "authors": [
-        "h.carrell"
-      ],
-      "tags": [
-        "cave",
-        "forest",
-        "jungle",
-        "ruins",
-        "swamp"
-      ],
-      "description": "The theme of the Lost Underworld from Earthbound, can fit a forest or a cave level.<br>\r\n<br>\r\nNote: For any pre 1.0.9 users, set the #define amkversion to 0 for compatibility with 1.0.8 or lower (Insert size will be 0x0761 bytes)<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>",
-      "latest_version": "smwc-42234-1785115824",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42234,
-          "title": "Earthbound - The Lost Underworld",
-          "version": "smwc-42234-1785115824",
-          "upstream_time": 1785115824,
-          "download_url": "https://dl.smwcentral.net/42234/Lost%20Underworld.zip",
-          "filename": "Lost Underworld.zip",
-          "size": 59645,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-final-fantasy-iv-prologue",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42125,
-      "title": "Final Fantasy IV - Prologue",
-      "authors": [
-        "scratch"
-      ],
-      "tags": [
-        "cutscene",
-        "title"
-      ],
-      "description": "It's used on Kitiku Mario (unsampled tho) and Super Wakana Land (it has a Japanese voice tho)<br>\r\nFinal Fantasy Main theme",
-      "latest_version": "smwc-42125-1783611984",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42125,
-          "title": "Final Fantasy IV - Prologue",
-          "version": "smwc-42125-1783611984",
-          "upstream_time": 1783611984,
-          "download_url": "https://dl.smwcentral.net/42125/4main.zip",
-          "filename": "4main.zip",
-          "size": 68663,
+          "upstream_id": 42360,
+          "title": "Dynamite Headdy - Funny Angry",
+          "version": "smwc-42360-1787713104",
+          "upstream_time": 1787713104,
+          "download_url": "https://dl.smwcentral.net/42360/dh-funny%20angry.zip",
+          "filename": "dh-funny angry.zip",
+          "size": 35508,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3811,45 +3777,6 @@
           "download_url": "https://dl.smwcentral.net/42242/Battle%20Theme.zip",
           "filename": "Battle Theme.zip",
           "size": 35780,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-final-fantasy-vi-shadow-s-theme",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42279,
-      "title": "Final Fantasy VI - Shadow's Theme",
-      "authors": [
-        "SiameseTwins"
-      ],
-      "tags": [
-        "calm",
-        "cave",
-        "credits",
-        "cutscene",
-        "forest",
-        "sad",
-        "title",
-        "town"
-      ],
-      "description": "A calm/sad tune that can fit forests, towns and cutscenes.",
-      "latest_version": "1.1",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42279,
-          "title": "Final Fantasy VI - Shadow's Theme",
-          "version": "1.1",
-          "upstream_time": 1785113216,
-          "download_url": "https://dl.smwcentral.net/42279/Final%20Fantasy%20VI%20-%20Shadow%27s%20Theme.zip",
-          "filename": "Final Fantasy VI - Shadow%27s Theme.zip",
-          "size": 66348,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3930,33 +3857,31 @@
       ]
     },
     {
-      "name": "smwmusic-fire-emblem-genealogy-of-the-holy-war-dancer-fights",
+      "name": "smwmusic-fleshbrain-river-side-twist",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42105,
-      "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
+      "upstream_id": 42263,
+      "title": "Fleshbrain - River Side Twist",
       "authors": [
-        "Segment1Zone2"
+        "Samantha"
       ],
       "tags": [
-        "cutscene",
-        "overworld",
-        "sea",
-        "upbeat",
-        "water"
+        "athletic",
+        "beach",
+        "grassland"
       ],
-      "description": "Dancer Fights from Fire Emblem 4.",
-      "latest_version": "smwc-42105-1784480650",
+      "description": "A fun little upbeat song by Fleshbrain",
+      "latest_version": "smwc-42263-1787690221",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42105,
-          "title": "Fire Emblem: Genealogy of the Holy War - Dancer Fights",
-          "version": "smwc-42105-1784480650",
-          "upstream_time": 1784480650,
-          "download_url": "https://dl.smwcentral.net/42105/Fire%20Emblem%204%20-%20Dancer%20Fights.zip",
-          "filename": "Fire Emblem 4 - Dancer Fights.zip",
-          "size": 48449,
+          "upstream_id": 42263,
+          "title": "Fleshbrain - River Side Twist",
+          "version": "smwc-42263-1787690221",
+          "upstream_time": 1787690221,
+          "download_url": "https://dl.smwcentral.net/42263/River%20Side%20Twist.zip",
+          "filename": "River Side Twist.zip",
+          "size": 86177,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -3966,32 +3891,31 @@
       ]
     },
     {
-      "name": "smwmusic-genjuu-ryodan-castle-in-the-sky",
+      "name": "smwmusic-h0ffman-bbs-intro",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42220,
-      "title": "Genjuu Ryodan - Castle in the Sky",
+      "upstream_id": 42271,
+      "title": "h0ffman - BBS-Intro",
       "authors": [
-        "Fullcannon"
+        "Samantha"
       ],
       "tags": [
+        "boss",
         "castle",
-        "sky",
-        "temple",
-        "upbeat"
+        "industrial"
       ],
-      "description": "The floating castle map theme from 13th mission of post-era Genjuu Ryodan.",
-      "latest_version": "smwc-42220-1785112540",
+      "description": "A long and bouncy (and sometimes noisy) song by H0ffman. <b><span style=\"color: #ff0000;\">Incompatible with Bonus End</span></b>.",
+      "latest_version": "smwc-42271-1787838340",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42220,
-          "title": "Genjuu Ryodan - Castle in the Sky",
-          "version": "smwc-42220-1785112540",
-          "upstream_time": 1785112540,
-          "download_url": "https://dl.smwcentral.net/42220/Genjuu%20Ryodan%20-%20Castle%20in%20the%20Sky%20.zip",
-          "filename": "Genjuu Ryodan - Castle in the Sky .zip",
-          "size": 76349,
+          "upstream_id": 42271,
+          "title": "h0ffman - BBS-Intro",
+          "version": "smwc-42271-1787838340",
+          "upstream_time": 1787838340,
+          "download_url": "https://dl.smwcentral.net/42271/BBS-Intro.zip",
+          "filename": "BBS-Intro.zip",
+          "size": 96937,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4001,153 +3925,30 @@
       ]
     },
     {
-      "name": "smwmusic-kirby-s-star-stacker-kawasaki",
+      "name": "smwmusic-hudson-s-adventure-island",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42118,
-      "title": "Kirby's Star Stacker - Kawasaki",
+      "upstream_id": 42871,
+      "title": "Hudson's Adventure Island 2 - Underwater",
       "authors": [
-        "Fullcannon"
-      ],
-      "tags": [
-        "boss",
-        "grassland",
-        "ice",
-        "snow",
-        "upbeat"
-      ],
-      "description": "Stage 5 theme of stacking against Chef Kawasaki in Kirby's Star Stacker.",
-      "latest_version": "smwc-42118-1783611913",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42118,
-          "title": "Kirby's Star Stacker - Kawasaki",
-          "version": "smwc-42118-1783611913",
-          "upstream_time": 1783611913,
-          "download_url": "https://dl.smwcentral.net/42118/Kirby%27s%20Star%20Stacker%20-%20Kawasaki.zip",
-          "filename": "Kirby%27s Star Stacker - Kawasaki.zip",
-          "size": 52548,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-krack-s-kafe-because-they-kicked-me-out-it-s-do-or-die",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42185,
-      "title": "Krack's Kafe: Because They Kicked Me Out! - It's DO or DIE!",
-      "authors": [
-        "Daizo Dee Von"
-      ],
-      "tags": [
-        "bonus",
-        "boss",
-        "dark",
-        "tense"
-      ],
-      "description": "The quick-paced track with an edge perfect for Switch Palaces with a frantic pace.<br>\r\n<br>\r\nOriginally used in <a href=\"https://smwc.me/s/31405\">Krack's Kafe</a>. Credit would be appreciated.<br>\r\n<br>\r\nMod note: Incompatible with miss, thunder, Yoshi, and bonus end",
-      "latest_version": "smwc-42185-1785119416",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42185,
-          "title": "Krack's Kafe: Because They Kicked Me Out! - It's DO or DIE!",
-          "version": "smwc-42185-1785119416",
-          "upstream_time": 1785119416,
-          "download_url": "https://dl.smwcentral.net/42185/%5BS%5D%20Krack%27s%20Kafe%3B%20Because%20They%20Kicked%20Me%20Out%21%20-%20It%27s%20DO%20or%20DIE%21%20.zip",
-          "filename": "%5BS%5D Krack%27s Kafe%3B Because They Kicked Me Out%21 - It%27s DO or DIE%21 .zip",
-          "size": 89607,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-let-s-idle",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42180,
-      "title": "Let's Idle",
-      "authors": [
-        "Segment1Zone2"
-      ],
-      "tags": [
-        "town",
-        "upbeat",
-        "urban"
-      ],
-      "description": "Let's Idle.",
-      "latest_version": "smwc-42180-1784397889",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42180,
-          "title": "Let's Idle",
-          "version": "smwc-42180-1784397889",
-          "upstream_time": 1784397889,
-          "download_url": "https://dl.smwcentral.net/42180/Let%27s%20Idle.zip",
-          "filename": "Let%27s Idle.zip",
-          "size": 130867,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-live-a-live-under-the-fake",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42312,
-      "title": "Live A Live - Under the Fake",
-      "authors": [
-        "EDIT3333"
+        "Zavok"
       ],
       "tags": [
         "calm",
-        "desert",
-        "mountain",
-        "night",
-        "overworld",
-        "town"
+        "water"
       ],
-      "description": "It works well in deserts.",
-      "latest_version": "smwc-42312-1785116362",
+      "description": "Can fit a underwater levels. My Entry for Super Famicompo 8.",
+      "latest_version": "smwc-42871-1787589722",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42312,
-          "title": "Live A Live - Under the Fake",
-          "version": "smwc-42312-1785116362",
-          "upstream_time": 1785116362,
-          "download_url": "https://dl.smwcentral.net/42312/Under%20The%20Fake%20.zip",
-          "filename": "Under The Fake .zip",
-          "size": 32911,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 42306,
-          "title": "Live A Live - Under the Fake",
-          "version": "v1.1",
-          "upstream_time": 1785116359,
-          "download_url": "https://dl.smwcentral.net/42306/Under%20The%20Fake%20.zip",
-          "filename": "Under The Fake .zip",
-          "size": 58502,
+          "upstream_id": 42871,
+          "title": "Hudson's Adventure Island 2 - Underwater",
+          "version": "smwc-42871-1787589722",
+          "upstream_time": 1787589722,
+          "download_url": "https://dl.smwcentral.net/42871/Adventure%20Island%202%20-%20Underwater.zip",
+          "filename": "Adventure Island 2 - Underwater.zip",
+          "size": 31581,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4157,31 +3958,32 @@
       ]
     },
     {
-      "name": "smwmusic-mecarobot-golf-playing-golf-exciting",
+      "name": "smwmusic-mahou-poi-poi-poitto-stage",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42119,
-      "title": "Mecarobot Golf - Playing Golf (Exciting)",
+      "upstream_id": 42870,
+      "title": "Mahou Poi Poi Poitto - Stage 1",
       "authors": [
-        "Fullcannon"
+        "Zavok"
       ],
       "tags": [
         "athletic",
         "grassland",
-        "sea"
+        "mountain",
+        "sky"
       ],
-      "description": "The exciting main in-game golfing tune heard throughout Mecarobot Golf.",
-      "latest_version": "smwc-42119-1783611938",
+      "description": "A cheerful and energetic port of the Stage 1 theme from Mahou Poi Poi Poitto. Can fit a mountain levels. My Entry for Super Famicompo 8.",
+      "latest_version": "smwc-42870-1787589719",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42119,
-          "title": "Mecarobot Golf - Playing Golf (Exciting)",
-          "version": "smwc-42119-1783611938",
-          "upstream_time": 1783611938,
-          "download_url": "https://dl.smwcentral.net/42119/Mecarobot%20Golf%20-%20Playing%20Golf%20%28Exciting%29.zip",
-          "filename": "Mecarobot Golf - Playing Golf (Exciting).zip",
-          "size": 41361,
+          "upstream_id": 42870,
+          "title": "Mahou Poi Poi Poitto - Stage 1",
+          "version": "smwc-42870-1787589719",
+          "upstream_time": 1787589719,
+          "download_url": "https://dl.smwcentral.net/42870/Mahou%20Poi%20Poi%20Poitto%20-%20Stage%201.zip",
+          "filename": "Mahou Poi Poi Poitto - Stage 1.zip",
+          "size": 32881,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4191,32 +3993,64 @@
       ]
     },
     {
-      "name": "smwmusic-mega-man-x-boomer-kuwanger-smas-smb3-style",
+      "name": "smwmusic-mario-no-super-picross-mario-puzzle",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42004,
-      "title": "Mega Man X - Boomer Kuwanger (SMAS SMB3 Style)",
+      "upstream_id": 42365,
+      "title": "Mario no Super Picross - Mario Puzzle 1",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "forest",
+        "mysterious"
+      ],
+      "description": "Mario's nonogram puzzle levels 1-4 from SFC edition of Mario no Super Picross.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"doppleganger\"><a href=\"/?p=profile&amp;id=66588\" style=\"color: var(--user-color-1);\" class=\"un\">doppleganger</a></span>.",
+      "latest_version": "smwc-42365-1787713468",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42365,
+          "title": "Mario no Super Picross - Mario Puzzle 1",
+          "version": "smwc-42365-1787713468",
+          "upstream_time": 1787713468,
+          "download_url": "https://dl.smwcentral.net/42365/Mario%20no%20Super%20Picross%20-%20Mario%20Puzzle%201.zip",
+          "filename": "Mario no Super Picross - Mario Puzzle 1.zip",
+          "size": 50591,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-mega-man-maverick-hunter-x-chill-penguin-mega-man-x-style",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42077,
+      "title": "Mega Man Maverick Hunter X - Chill Penguin (Mega Man X Style)",
       "authors": [
         "JX444444"
       ],
       "tags": [
-        "boss",
-        "industrial",
-        "ruins",
-        "upbeat"
+        "cave",
+        "ice",
+        "snow"
       ],
-      "description": "Based : Super Mario Bros 3 - Enemy Battle<br>\r\n(Boomer Bros)",
-      "latest_version": "smwc-42004-1785080239",
+      "description": "(Demake)",
+      "latest_version": "smwc-42077-1787685696",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42004,
-          "title": "Mega Man X - Boomer Kuwanger (SMAS SMB3 Style)",
-          "version": "smwc-42004-1785080239",
-          "upstream_time": 1785080239,
-          "download_url": "https://dl.smwcentral.net/42004/Kuwanger_SMAS.zip",
-          "filename": "Kuwanger_SMAS.zip",
-          "size": 39879,
+          "upstream_id": 42077,
+          "title": "Mega Man Maverick Hunter X - Chill Penguin (Mega Man X Style)",
+          "version": "smwc-42077-1787685696",
+          "upstream_time": 1787685696,
+          "download_url": "https://dl.smwcentral.net/42077/ChillPenguin_MHX_X1%20.zip",
+          "filename": "ChillPenguin_MHX_X1 .zip",
+          "size": 55459,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4295,69 +4129,32 @@
       ]
     },
     {
-      "name": "smwmusic-pachi-slot-kenkyuu-outside",
+      "name": "smwmusic-nage-libre-seijaku-no-suishin-intermission",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42133,
-      "title": "Pachi-Slot Kenkyuu - Outside",
+      "upstream_id": 42461,
+      "title": "Nage Libre: Seijaku no Suishin - Intermission",
       "authors": [
-        "Fullcannon"
+        "Segment1Zone2"
       ],
       "tags": [
-        "mysterious",
-        "night",
-        "overworld",
-        "town",
-        "urban"
-      ],
-      "description": "The primary urban gambling overworld theme full of parlors and slot machines in Pachi-Slot Kenkyuu.",
-      "latest_version": "smwc-42133-1782927525",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42133,
-          "title": "Pachi-Slot Kenkyuu - Outside",
-          "version": "smwc-42133-1782927525",
-          "upstream_time": 1782927525,
-          "download_url": "https://dl.smwcentral.net/42133/Pachi-Slot%20Kenkyuu%20-%20Outside%20.zip",
-          "filename": "Pachi-Slot Kenkyuu - Outside .zip",
-          "size": 63067,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-parodius-non-sense-fantasy-let-s-get-fever-with-gunkan-march",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42170,
-      "title": "Parodius: Non-Sense Fantasy - Let's Get Fever with Gunkan March",
-      "authors": [
-        "Fullcannon"
-      ],
-      "tags": [
-        "abstract",
         "bonus",
-        "carnival",
-        "ship",
-        "upbeat"
+        "overworld",
+        "upbeat",
+        "urban"
       ],
-      "description": "Stage 6 from Parodius Da!, featuring an arrangement of the Japanese warship Gunkan March.",
-      "latest_version": "smwc-42170-1784311639",
+      "description": "Intermission from Nage Libre on the SNES.",
+      "latest_version": "smwc-42461-1787844603",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42170,
-          "title": "Parodius: Non-Sense Fantasy - Let's Get Fever with Gunkan March",
-          "version": "smwc-42170-1784311639",
-          "upstream_time": 1784311639,
-          "download_url": "https://dl.smwcentral.net/42170/Parodius%20Da%21%20-%20Let%27s%20Get%20Fever%20with%20Gunkan%20March.zip",
-          "filename": "Parodius Da%21 - Let%27s Get Fever with Gunkan March.zip",
-          "size": 97064,
+          "upstream_id": 42461,
+          "title": "Nage Libre: Seijaku no Suishin - Intermission",
+          "version": "smwc-42461-1787844603",
+          "upstream_time": 1787844603,
+          "download_url": "https://dl.smwcentral.net/42461/Nage%20Libre%20-%20Intermission.zip",
+          "filename": "Nage Libre - Intermission.zip",
+          "size": 36010,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4367,33 +4164,163 @@
       ]
     },
     {
-      "name": "smwmusic-plants-vs-zombies-brainiac-maniac-kdl3-style",
+      "name": "smwmusic-pebble-beach-golf-links-saturn-course-bgm",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42056,
-      "title": "Plants vs. Zombies - Brainiac Maniac (KDL3 Style)",
+      "upstream_id": 42422,
+      "title": "Pebble Beach Golf Links (Saturn) - Course BGM 3",
       "authors": [
-        "JX444444"
+        "Fullcannon"
       ],
       "tags": [
-        "desert",
+        "athletic",
         "forest",
-        "ruins",
-        "town",
-        "urban"
+        "grassland",
+        "sea"
       ],
-      "description": "Based : Sand Canyon 2",
-      "latest_version": "smwc-42056-1785086206",
+      "description": "Third of the three in-game golfing tunes heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+      "latest_version": "smwc-42422-1788014822",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42056,
-          "title": "Plants vs. Zombies - Brainiac Maniac (KDL3 Style)",
-          "version": "smwc-42056-1785086206",
-          "upstream_time": 1785086206,
-          "download_url": "https://dl.smwcentral.net/42056/BrainiacManiacXGourmetRace_KDL3.zip",
-          "filename": "BrainiacManiacXGourmetRace_KDL3.zip",
-          "size": 56557,
+          "upstream_id": 42422,
+          "title": "Pebble Beach Golf Links (Saturn) - Course BGM 3",
+          "version": "smwc-42422-1788014822",
+          "upstream_time": 1788014822,
+          "download_url": "https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip",
+          "filename": "Pebble Beach Golf Links (SAT) - Course BGM 3.zip",
+          "size": 59364,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        },
+        {
+          "upstream_id": 42421,
+          "title": "Pebble Beach Golf Links (Saturn) - Course BGM 2",
+          "version": "smwc-42421-1788014440",
+          "upstream_time": 1788014440,
+          "download_url": "https://dl.smwcentral.net/42421/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%202.zip",
+          "filename": "Pebble Beach Golf Links (SAT) - Course BGM 2.zip",
+          "size": 68387,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        },
+        {
+          "upstream_id": 42420,
+          "title": "Pebble Beach Golf Links (Saturn) - Course BGM 1",
+          "version": "smwc-42420-1788013828",
+          "upstream_time": 1788013828,
+          "download_url": "https://dl.smwcentral.net/42420/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%201.zip",
+          "filename": "Pebble Beach Golf Links (SAT) - Course BGM 1.zip",
+          "size": 79817,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-pebble-beach-golf-links-saturn-results",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42423,
+      "title": "Pebble Beach Golf Links (Saturn) - Results",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "cutscene",
+        "menu",
+        "sea",
+        "sky"
+      ],
+      "description": "Course results music after finishing any regular day in a tournament heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+      "latest_version": "smwc-42423-1788013374",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42423,
+          "title": "Pebble Beach Golf Links (Saturn) - Results",
+          "version": "smwc-42423-1788013374",
+          "upstream_time": 1788013374,
+          "download_url": "https://dl.smwcentral.net/42423/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Results.zip",
+          "filename": "Pebble Beach Golf Links (SAT) - Results.zip",
+          "size": 67195,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-pebble-beach-golf-links-saturn-settings",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42418,
+      "title": "Pebble Beach Golf Links (Saturn) - Settings",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "menu",
+        "sea"
+      ],
+      "description": "Settings menu tune heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+      "latest_version": "smwc-42418-1788011249",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42418,
+          "title": "Pebble Beach Golf Links (Saturn) - Settings",
+          "version": "smwc-42418-1788011249",
+          "upstream_time": 1788011249,
+          "download_url": "https://dl.smwcentral.net/42418/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Settings.zip",
+          "filename": "Pebble Beach Golf Links (SAT) - Settings.zip",
+          "size": 72943,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-pebble-beach-golf-links-saturn-tutorial",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42419,
+      "title": "Pebble Beach Golf Links (Saturn) - Tutorial",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "athletic",
+        "grassland",
+        "menu",
+        "mountain"
+      ],
+      "description": "Gameplay tutorial scenes heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+      "latest_version": "smwc-42419-1788012348",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42419,
+          "title": "Pebble Beach Golf Links (Saturn) - Tutorial",
+          "version": "smwc-42419-1788012348",
+          "upstream_time": 1788012348,
+          "download_url": "https://dl.smwcentral.net/42419/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Tutorial.zip",
+          "filename": "Pebble Beach Golf Links (SAT) - Tutorial.zip",
+          "size": 77150,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4437,31 +4364,33 @@
       ]
     },
     {
-      "name": "smwmusic-power-rangers-zeo-battle-racers-select",
+      "name": "smwmusic-quack-shot-duckburg",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42294,
-      "title": "Power Rangers Zeo: Battle Racers - Select",
+      "upstream_id": 42282,
+      "title": "Quack Shot - Duckburg",
       "authors": [
-        "h.carrell"
+        "Dzing"
       ],
       "tags": [
-        "cutscene",
-        "menu",
-        "overworld"
+        "athletic",
+        "grassland",
+        "town",
+        "upbeat",
+        "urban"
       ],
-      "description": "The main menu theme of the Power Rangers racing game on the SNES.",
-      "latest_version": "smwc-42294-1785114348",
+      "description": "Upbeat song. Fits first levels.",
+      "latest_version": "smwc-42282-1788026676",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42294,
-          "title": "Power Rangers Zeo: Battle Racers - Select",
-          "version": "smwc-42294-1785114348",
-          "upstream_time": 1785114348,
-          "download_url": "https://dl.smwcentral.net/42294/ZeoSelect%20.zip",
-          "filename": "ZeoSelect .zip",
-          "size": 56711,
+          "upstream_id": 42282,
+          "title": "Quack Shot - Duckburg",
+          "version": "smwc-42282-1788026676",
+          "upstream_time": 1788026676,
+          "download_url": "https://dl.smwcentral.net/42282/quackshot-duckburg.zip",
+          "filename": "quackshot-duckburg.zip",
+          "size": 96107,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4507,32 +4436,102 @@
       ]
     },
     {
-      "name": "smwmusic-simcity-jr-statistics",
+      "name": "smwmusic-rudra-no-hihou-sword-of-the-valiant",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 41883,
-      "title": "SimCity Jr. - Statistics",
+      "upstream_id": 42273,
+      "title": "Rudra no Hihou - Sword of the Valiant",
+      "authors": [
+        "scratch"
+      ],
+      "tags": [
+        "overworld",
+        "tense",
+        "upbeat"
+      ],
+      "description": "Sion's character song. Such a heroic song.",
+      "latest_version": "smwc-42273-1787944331",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42273,
+          "title": "Rudra no Hihou - Sword of the Valiant",
+          "version": "smwc-42273-1787944331",
+          "upstream_time": 1787944331,
+          "download_url": "https://dl.smwcentral.net/42273/rnh_sword.zip",
+          "filename": "rnh_sword.zip",
+          "size": 81384,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-secret-of-mana-leave-time-for-love",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42067,
+      "title": "Secret of Mana - Leave Time for Love",
+      "authors": [
+        "scratch"
+      ],
+      "tags": [
+        "airship",
+        "castle",
+        "overworld",
+        "tense",
+        "upbeat"
+      ],
+      "description": "Brutal Mario vibe song",
+      "latest_version": "smwc-42067-1787945418",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42067,
+          "title": "Secret of Mana - Leave Time for Love",
+          "version": "smwc-42067-1787945418",
+          "upstream_time": 1787945418,
+          "download_url": "https://dl.smwcentral.net/42067/love.zip",
+          "filename": "love.zip",
+          "size": 82601,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-shigesato-itoi-no-bass-tsuri-no",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42300,
+      "title": "Shigesato Itoi no Bass Tsuri No.1 - Morning at Home",
       "authors": [
         "Fullcannon"
       ],
       "tags": [
         "menu",
-        "mysterious",
-        "town",
-        "urban"
+        "overworld",
+        "sea",
+        "town"
       ],
-      "description": "Town statistical menus from SimCity Jr.'s SFC port.",
-      "latest_version": "smwc-41883-1782928189",
+      "description": "Home navigation theme which plays throughout the morning times of Shigesato Itoi no Bass Tsuri No.1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Ice Man\"><a href=\"/?p=profile&amp;id=63\" style=\"color: var(--user-color-2);\" class=\"un\">Ice Man</a></span>.",
+      "latest_version": "smwc-42300-1787692371",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 41883,
-          "title": "SimCity Jr. - Statistics",
-          "version": "smwc-41883-1782928189",
-          "upstream_time": 1782928189,
-          "download_url": "https://dl.smwcentral.net/41883/SimCity%20Jr.%20-%20Statistics.zip",
-          "filename": "SimCity Jr. - Statistics.zip",
-          "size": 57163,
+          "upstream_id": 42300,
+          "title": "Shigesato Itoi no Bass Tsuri No.1 - Morning at Home",
+          "version": "smwc-42300-1787692371",
+          "upstream_time": 1787692371,
+          "download_url": "https://dl.smwcentral.net/42300/Shigesato%20Itoi%20no%20Bass%20Tsuri%20No.1%20-%20Morning%20at%20Home.zip",
+          "filename": "Shigesato Itoi no Bass Tsuri No.1 - Morning at Home.zip",
+          "size": 41593,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4575,32 +4574,75 @@
       ]
     },
     {
-      "name": "smwmusic-star-fox",
+      "name": "smwmusic-star-fox-space-armada",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42120,
-      "title": "Star Fox 2 - Eladard",
+      "upstream_id": 42398,
+      "title": "Star Fox - Space Armada",
       "authors": [
-        "Fullcannon"
+        "Ahrion"
       ],
       "tags": [
-        "dark",
-        "industrial",
-        "space",
-        "upbeat"
+        "airship",
+        "castle",
+        "cutscene",
+        "final",
+        "space"
       ],
-      "description": "Flying through the dark, purple industrial surface of Eladard in Star Fox 2.",
-      "latest_version": "smwc-42120-1784052976",
+      "description": "Dedicated to <span class=\"un-outer\" title=\"Hazel\"><a href=\"/?p=profile&amp;id=2512\" style=\"color: #e2e78c;\" class=\"un\">Hazel</a></span>",
+      "latest_version": "smwc-42398-1787777416",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42120,
-          "title": "Star Fox 2 - Eladard",
-          "version": "smwc-42120-1784052976",
-          "upstream_time": 1784052976,
-          "download_url": "https://dl.smwcentral.net/42120/Star%20Fox%202%20-%20Eladard.zip",
-          "filename": "Star Fox 2 - Eladard.zip",
-          "size": 44676,
+          "upstream_id": 42398,
+          "title": "Star Fox - Space Armada",
+          "version": "smwc-42398-1787777416",
+          "upstream_time": 1787777416,
+          "download_url": "https://dl.smwcentral.net/42398/Star%20Fox%20Space%20Armada%20.zip",
+          "filename": "Star Fox Space Armada .zip",
+          "size": 50253,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-star-fox-trust-your-instincts-corneria-remix",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42322,
+      "title": "Star Fox - Trust your Instincts 🕶️ ~ Corneria (Remix)",
+      "authors": [
+        "Hooded Edge"
+      ],
+      "tags": [
+        "airship",
+        "athletic",
+        "bonus",
+        "calm",
+        "chase",
+        "credits",
+        "final",
+        "mountain",
+        "space",
+        "title",
+        "upbeat"
+      ],
+      "description": "<span style=\"font-size: 18pt;\"><span style=\"color: #F07E7E;\">❝ <i><b>HIYAAAAAAA</b></i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Fox McCloud, <i>Super Smash Bros. Melee</i> (2001)</span><br>\r\n<br>\r\n<img src=\"https://bin.smwcentral.net/u/23547/Star%2BFox.webp\" alt=\"\"><br>\r\n<br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/oBD3FO6ozXc\" rel=\"nofollow\">Corn</a><a href=\"https://youtu.be/2jsHUd6sRow\" rel=\"nofollow\">eria</a></b> from <i>Star Fox 1</i>. I realized that I haven't even touched a song from this soundtrack at all (that's a crime), and the Mario Galaxy movie made me realize that. Was inspired by an old arrangement of this I heard in Project M YEARS BACK (but can't seem to find online 😭), and wanted to replicate its semi-chill yet upbeat vibe for this mix. Corneria's one of my favorite songs on the SNES, and not having done it for years is an actual crime, but hey! It's better late than never.<br>\r\n<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">Also, HOLY SHIT THAT TIMING AFTER THE REMAKE GOT ANNOUNCED!!!</div></div><br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Lower Volume (LOWER Volume)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ♠  What's disabled:<br>\r\nㅤㅤㅤ -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ -  Thunder SFX<br>\r\nㅤ3. Lower Volume & Decreased Echo Delay (LOWER Echo)<br>\r\nㅤㅤ♠  What's disabled:<br>\r\nㅤㅤㅤ -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F# Minor (Custom Pitch 1)<br>\r\nㅤ3. G Minor (Original Pitch)<br>\r\nㅤ4. G# Minor (Custom Pitch 2)<br>\r\nㅤ5. E Minor (Custom Pitch 3)",
+      "latest_version": "smwc-42322-1788036549",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42322,
+          "title": "Star Fox - Trust your Instincts 🕶️ ~ Corneria (Remix)",
+          "version": "smwc-42322-1788036549",
+          "upstream_time": 1788036549,
+          "download_url": "https://dl.smwcentral.net/42322/Trust%20your%20Instincts.zip",
+          "filename": "Trust your Instincts.zip",
+          "size": 712015,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4644,73 +4686,23 @@
       ]
     },
     {
-      "name": "smwmusic-stunt-race-fx-unused-song",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42221,
-      "title": "Stunt Race FX - Unused Song 2",
-      "authors": [
-        "Fullcannon"
-      ],
-      "tags": [
-        "chase",
-        "upbeat",
-        "urban"
-      ],
-      "description": "An unused racing course theme found in the final version of Stunt Race FX.",
-      "latest_version": "smwc-42221-1785263811",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42221,
-          "title": "Stunt Race FX - Unused Song 2",
-          "version": "smwc-42221-1785263811",
-          "upstream_time": 1785263811,
-          "download_url": "https://dl.smwcentral.net/42221/Stunt%20Race%20FX%20-%20Unused%20Song%202%20.zip",
-          "filename": "Stunt Race FX - Unused Song 2 .zip",
-          "size": 67549,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
       "name": "smwmusic-super-bombliss-vs-computer-player",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42196,
-      "title": "Super Bombliss - Vs. Computer Player 2",
+      "upstream_id": 42171,
+      "title": "Super Bombliss - Vs. Computer Player 1",
       "authors": [
         "Fullcannon"
       ],
       "tags": [
         "boss",
-        "dark",
-        "ghost house",
         "industrial",
         "tense"
       ],
       "description": "VS Com Type-A battle theme from the SFC port of Super Bombliss.",
-      "latest_version": "smwc-42196-1784397398",
+      "latest_version": "smwc-42171-1786732696",
       "install_kind": "add_music_k_music",
       "versions": [
-        {
-          "upstream_id": 42196,
-          "title": "Super Bombliss - Vs. Computer Player 2",
-          "version": "smwc-42196-1784397398",
-          "upstream_time": 1784397398,
-          "download_url": "https://dl.smwcentral.net/42196/Super%20Bombliss%20-%20Vs.%20Computer%20Player%202.zip",
-          "filename": "Super Bombliss - Vs. Computer Player 2.zip",
-          "size": 61609,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
         {
           "upstream_id": 42171,
           "title": "Super Bombliss - Vs. Computer Player 1",
@@ -4728,68 +4720,30 @@
       ]
     },
     {
-      "name": "smwmusic-super-mario-kart-undumped-prototype-vanilla-lake",
+      "name": "smwmusic-super-mario",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42243,
-      "title": "Super Mario Kart (Undumped Prototype) - Vanilla Lake",
+      "upstream_id": 42106,
+      "title": "Super Mario 64 - Cave Dungeon",
       "authors": [
-        "brickblock369"
+        "Pinci"
       ],
       "tags": [
-        "bonus",
-        "ice",
-        "sky",
-        "space"
-      ],
-      "description": "The later prototype version of Super Mario Kart's Vanilla Lake.<br>\r\nThanks to <a href=\"https://www.dropbox.com/s/yohxmxj36ijc9wq/Vanilla%20Lake.mp3?dl=0\" rel=\"nofollow\">this Dropbox link</a> of the recording from the game that Dave Harris/iridescentaudio (the person who transcribed a pretty accurate MIDI of it in 2008) kept, I was able to use that as a reference to help me port this!",
-      "latest_version": "2",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42243,
-          "title": "Super Mario Kart (Undumped Prototype) - Vanilla Lake",
-          "version": "2",
-          "upstream_time": 1785086893,
-          "download_url": "https://dl.smwcentral.net/42243/Super%20Mario%20Kart%20-%20Vanilla%20Lake%20%28Prototype%20v2%29.zip",
-          "filename": "Super Mario Kart - Vanilla Lake (Prototype v2).zip",
-          "size": 45555,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-super-mario-world",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42286,
-      "title": "Super Mario World 2: Yoshi's Island - Underground (MMX Style)",
-      "authors": [
-        "Segment1Zone2"
-      ],
-      "tags": [
-        "calm",
         "cave",
-        "ice",
-        "industrial",
-        "upbeat"
+        "mysterious"
       ],
-      "description": "The theme played during the underground sections from Super Mario World 2: Yoshi's Island on the SNES, remixed in an MMX style.",
-      "latest_version": "smwc-42286-1785087081",
+      "description": "Also known as Hazy Maze Cave.<br>\r\nPitch bends are based on the OST version, there's a little comment on line 55 that tells you how to change them to the N64 version instead.<br>\r\nComes with two sound effects containing ASM to fade channels #0 (slap bass) and #4 (choir boys) in and out dynamically like in the original game. Instructions in the readme file.",
+      "latest_version": "smwc-42106-1787688682",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42286,
-          "title": "Super Mario World 2: Yoshi's Island - Underground (MMX Style)",
-          "version": "smwc-42286-1785087081",
-          "upstream_time": 1785087081,
-          "download_url": "https://dl.smwcentral.net/42286/Yoshi%27s%20Island%20-%20Underground%20%28MMX%20Style%29.zip",
-          "filename": "Yoshi%27s Island - Underground (MMX Style).zip",
-          "size": 68241,
+          "upstream_id": 42106,
+          "title": "Super Mario 64 - Cave Dungeon",
+          "version": "smwc-42106-1787688682",
+          "upstream_time": 1787688682,
+          "download_url": "https://dl.smwcentral.net/42106/cavedungeon%20.zip",
+          "filename": "cavedungeon .zip",
+          "size": 141736,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4864,34 +4818,35 @@
       ]
     },
     {
-      "name": "smwmusic-the-adventures-of-kid-kleets-london",
+      "name": "smwmusic-touhou-chireiden-subterranean-animism-mana-overdrive-solar-sect-of-mystic-wisdom-nuclear-fusion-remix",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42278,
-      "title": "The Adventures of Kid Kleets - London",
+      "upstream_id": 42091,
+      "title": "Touhou Chireiden ~ Subterranean Animism - MANA OVERDRIVE!!! ☢️ ~ Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Remix)",
       "authors": [
-        "SiameseTwins"
+        "Hooded Edge"
       ],
       "tags": [
         "athletic",
-        "bonus",
-        "grassland",
-        "sky",
-        "town",
-        "urban"
+        "boss",
+        "chase",
+        "cutscene",
+        "dark",
+        "tense",
+        "upbeat"
       ],
-      "description": "a.k.a. Soccer Kid. The song from the first level of the game. Very athletic and suits an urban area.",
-      "latest_version": "1.1",
+      "description": "<span style=\"font-size: 18pt;\"><span style=\"color: #00F800;\">❝ <i><b>The sun continues to burn, today as ever.</b></i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Utsuho \"Okuu\" Reiuji, <i>東方非想天則　～ 超弩級ギニョルの謎を追え</i> (2009)</span><br>\r\n<img src=\"https://bin.smwcentral.net/u/23547/Utsuho%2BReiuji.webp\" alt=\"\"><br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/Xy_-7OXophY\" rel=\"nofollow\">Solar Sect of Mystic Wisdom ~ Nuclear Fusion</a></b> from <i>Touhou 11 Chireiden ~ Subterranean Animism</i>. It's been nearly six years since I last arranged this song, and I thought I'd give Touhou 11's version a shot. Very interesting how it kinda sounds like it'd work as a boss theme in a SNES Action RPG only released in Japan that'd get a 3D Remake years later.<br>\r\n<br>\r\n<span style=\"font-size: 14pt;\"><b><span style=\"color: #C784FF;\">Important:</span></b></span><br>\r\nㅤ♠  What's disabled:<br>\r\nㅤㅤ -  \"Bonus End\" (@7)<br>\r\nㅤㅤ -  \"P-Switch\" (@12)<br>\r\nㅤㅤ -  Yoshi SFX (@15)<br>\r\nㅤㅤ -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. D Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. D Minor (<a href=\"https://youtu.be/7u107vJFlFg\" rel=\"nofollow\">Cus</a><a href=\"https://youtu.be/EVQ1j1d4T78\" rel=\"nofollow\">tom</a> Pitch)<br>\r\nㅤ3. C Minor (<a href=\"https://youtu.be/Xy_-7OXophY\" rel=\"nofollow\">Original</a> Pitch)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the voice clip, but sacrifices SMW-Compatibility (VOICE Enabled)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Disables the voice clip & Decreases the Echo (VOICE Disabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\n<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">Happy April Fools... :)</div></div>",
+      "latest_version": "smwc-42091-1787780540",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42278,
-          "title": "The Adventures of Kid Kleets - London",
-          "version": "1.1",
-          "upstream_time": 1785113045,
-          "download_url": "https://dl.smwcentral.net/42278/The%20Adventures%20of%20Kid%20Kleets%20-%20London.zip",
-          "filename": "The Adventures of Kid Kleets - London.zip",
-          "size": 52920,
+          "upstream_id": 42091,
+          "title": "Touhou Chireiden ~ Subterranean Animism - MANA OVERDRIVE!!! ☢️ ~ Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Remix)",
+          "version": "smwc-42091-1787780540",
+          "upstream_time": 1787780540,
+          "download_url": "https://dl.smwcentral.net/42091/MANA%20OVERDRIVE%21%21%21.zip",
+          "filename": "MANA OVERDRIVE%21%21%21.zip",
+          "size": 289312,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4901,31 +4856,82 @@
       ]
     },
     {
-      "name": "smwmusic-treasure-hunter-g-around-the-world",
+      "name": "smwmusic-true-golf-classics-wicked",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42135,
-      "title": "Treasure Hunter G - Around the World",
+      "upstream_id": 42302,
+      "title": "True Golf Classics: Wicked 18 (3DO) - Desert",
       "authors": [
         "Fullcannon"
       ],
       "tags": [
-        "grassland",
-        "overworld",
+        "athletic",
+        "calm",
+        "desert",
+        "menu",
+        "mountain",
         "sea"
       ],
-      "description": "Overworld theme from Treasure Hunter G.",
-      "latest_version": "smwc-42135-1785264541",
+      "description": "In-game golfing tune heard at the desert portions of the aforementioned fictional golf course heard in the 3DO port of True Golf Classics: Wicked 18/Devil's Course.",
+      "latest_version": "smwc-42302-1787712204",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42135,
-          "title": "Treasure Hunter G - Around the World",
-          "version": "smwc-42135-1785264541",
-          "upstream_time": 1785264541,
-          "download_url": "https://dl.smwcentral.net/42135/Treasure%20Hunter%20G%20-%20Around%20the%20World%20.zip",
-          "filename": "Treasure Hunter G - Around the World .zip",
-          "size": 59917,
+          "upstream_id": 42302,
+          "title": "True Golf Classics: Wicked 18 (3DO) - Desert",
+          "version": "smwc-42302-1787712204",
+          "upstream_time": 1787712204,
+          "download_url": "https://dl.smwcentral.net/42302/Wicked%2018%20%283DO%29%20-%20Desert.zip",
+          "filename": "Wicked 18 (3DO) - Desert.zip",
+          "size": 90701,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        },
+        {
+          "upstream_id": 42301,
+          "title": "True Golf Classics: Wicked 18 (3DO) - Tutorial",
+          "version": "smwc-42301-1787711841",
+          "upstream_time": 1787711841,
+          "download_url": "https://dl.smwcentral.net/42301/Wicked%2018%20%283DO%29%20-%20Tutorial.zip",
+          "filename": "Wicked 18 (3DO) - Tutorial.zip",
+          "size": 47027,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki-character-introduction",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42172,
+      "title": "Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki - Character Introduction",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "cutscene",
+        "title",
+        "upbeat"
+      ],
+      "description": "A fully vocalized opening theme presenting the main characters from Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki - Character Introduction.<br>\r\n<br>\r\nNote: Replaces several existing samples including @7, @15, @17, and SMW Thunder.",
+      "latest_version": "smwc-42172-1787686994",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42172,
+          "title": "Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki - Character Introduction",
+          "version": "smwc-42172-1787686994",
+          "upstream_time": 1787686994,
+          "download_url": "https://dl.smwcentral.net/42172/Yokoyama%20Mitsuteru%20Sangokushi%20Bangi%20Sugoroku%20Eiyuuki%20-%20Character%20Introduction%20.zip",
+          "filename": "Yokoyama Mitsuteru Sangokushi Bangi Sugoroku Eiyuuki - Character Introduction .zip",
+          "size": 114302,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -6372,7 +6378,7 @@
         "lorom",
         "sa-1"
       ],
-      "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>.",
+      "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #b26cb8;\" class=\"un\">Arinsu</a></span>.",
       "latest_version": "v1.2.1",
       "install_kind": "asar_patch",
       "versions": [
@@ -7325,6 +7331,41 @@
       ]
     },
     {
+      "name": "smwsprites-coin-game-cloud-s-coin",
+      "aliases": [],
+      "section": "smwsprites",
+      "upstream_id": 42971,
+      "title": "Coin Game Cloud's Coin",
+      "authors": [
+        "RussianMan"
+      ],
+      "tags": [
+        "bonus",
+        "coin",
+        "lorom",
+        "sa-1"
+      ],
+      "description": "This is a disassembly of extended sprite 0A in SMW, Coin Game Cloud's Coin.",
+      "latest_version": "smwc-42971-1787506705",
+      "install_kind": "pixi_sprite",
+      "versions": [
+        {
+          "upstream_id": 42971,
+          "title": "Coin Game Cloud's Coin",
+          "version": "smwc-42971-1787506705",
+          "upstream_time": 1787506705,
+          "download_url": "https://dl.smwcentral.net/42971/Coin%20Cloud%27s%20Coin%20Disassembly.zip",
+          "filename": "Coin Cloud%27s Coin Disassembly.zip",
+          "size": 2793,
+          "sha256": null,
+          "dependencies": [
+            "pixi"
+          ],
+          "install_kind": "pixi_sprite"
+        }
+      ]
+    },
+    {
       "name": "smwsprites-conditional-keyhole",
       "aliases": [],
       "section": "smwsprites",
@@ -8147,42 +8188,6 @@
           "download_url": "https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip",
           "filename": "mother_dino_rhino_and_egg_asar2.zip",
           "size": 7018,
-          "sha256": null,
-          "dependencies": [
-            "pixi"
-          ],
-          "install_kind": "pixi_sprite"
-        }
-      ]
-    },
-    {
-      "name": "smwsprites-new-super-mario-bros-stretch-shroom",
-      "aliases": [],
-      "section": "smwsprites",
-      "upstream_id": 41111,
-      "title": "New Super Mario Bros. - Stretch Shroom",
-      "authors": [
-        "Luknight"
-      ],
-      "tags": [
-        "lorom",
-        "pacifist",
-        "platform",
-        "sa-1",
-        "solid"
-      ],
-      "description": "A mushroom platform which expands and contracts over a certain period of time. When on top, the player moves along with it.",
-      "latest_version": "smwc-41111-1773018736",
-      "install_kind": "pixi_sprite",
-      "versions": [
-        {
-          "upstream_id": 41111,
-          "title": "New Super Mario Bros. - Stretch Shroom",
-          "version": "smwc-41111-1773018736",
-          "upstream_time": 1773018736,
-          "download_url": "https://dl.smwcentral.net/41111/stretch_shroom.zip",
-          "filename": "stretch_shroom.zip",
-          "size": 5348,
           "sha256": null,
           "dependencies": [
             "pixi"
@@ -11912,7 +11917,7 @@
         "sa-1",
         "tile"
       ],
-      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #b26cb8;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
       "latest_version": "1.1.1",
       "install_kind": "uber_asm",
       "versions": [

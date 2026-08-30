@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-pebble-beach-golf-links-saturn-results",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42423,
+  "title": "Pebble Beach Golf Links (Saturn) - Results",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "cutscene",
+    "menu",
+    "sea",
+    "sky"
+  ],
+  "description": "Course results music after finishing any regular day in a tournament heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+  "latest_version": "smwc-42423-1788013374",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42423,
+      "title": "Pebble Beach Golf Links (Saturn) - Results",
+      "version": "smwc-42423-1788013374",
+      "upstream_time": 1788013374,
+      "download_url": "https://dl.smwcentral.net/42423/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Results.zip",
+      "filename": "Pebble Beach Golf Links (SAT) - Results.zip",
+      "size": 67195,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

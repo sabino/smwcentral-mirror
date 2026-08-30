@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42106,
+  "title": "Super Mario 64 - Cave Dungeon",
+  "authors": [
+    "Pinci"
+  ],
+  "tags": [
+    "cave",
+    "mysterious"
+  ],
+  "description": "Also known as Hazy Maze Cave.<br>\r\nPitch bends are based on the OST version, there's a little comment on line 55 that tells you how to change them to the N64 version instead.<br>\r\nComes with two sound effects containing ASM to fade channels #0 (slap bass) and #4 (choir boys) in and out dynamically like in the original game. Instructions in the readme file.",
+  "latest_version": "smwc-42106-1787688682",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42106,
+      "title": "Super Mario 64 - Cave Dungeon",
+      "version": "smwc-42106-1787688682",
+      "upstream_time": 1787688682,
+      "download_url": "https://dl.smwcentral.net/42106/cavedungeon%20.zip",
+      "filename": "cavedungeon .zip",
+      "size": 141736,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

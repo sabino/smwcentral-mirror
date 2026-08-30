@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-star-fox-space-armada",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42398,
+  "title": "Star Fox - Space Armada",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "cutscene",
+    "final",
+    "space"
+  ],
+  "description": "Dedicated to <span class=\"un-outer\" title=\"Hazel\"><a href=\"/?p=profile&amp;id=2512\" style=\"color: #e2e78c;\" class=\"un\">Hazel</a></span>",
+  "latest_version": "smwc-42398-1787777416",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42398,
+      "title": "Star Fox - Space Armada",
+      "version": "smwc-42398-1787777416",
+      "upstream_time": 1787777416,
+      "download_url": "https://dl.smwcentral.net/42398/Star%20Fox%20Space%20Armada%20.zip",
+      "filename": "Star Fox Space Armada .zip",
+      "size": 50253,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

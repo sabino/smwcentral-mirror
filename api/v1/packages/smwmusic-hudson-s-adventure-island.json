@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-hudson-s-adventure-island",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42871,
+  "title": "Hudson's Adventure Island 2 - Underwater",
+  "authors": [
+    "Zavok"
+  ],
+  "tags": [
+    "calm",
+    "water"
+  ],
+  "description": "Can fit a underwater levels. My Entry for Super Famicompo 8.",
+  "latest_version": "smwc-42871-1787589722",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42871,
+      "title": "Hudson's Adventure Island 2 - Underwater",
+      "version": "smwc-42871-1787589722",
+      "upstream_time": 1787589722,
+      "download_url": "https://dl.smwcentral.net/42871/Adventure%20Island%202%20-%20Underwater.zip",
+      "filename": "Adventure Island 2 - Underwater.zip",
+      "size": 31581,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

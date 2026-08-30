@@ -2,8 +2,8 @@
   "name": "smwgraphics-doraemon",
   "aliases": [],
   "section": "smwgraphics",
-  "upstream_id": 42775,
-  "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",
+  "upstream_id": 42949,
+  "title": "Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)",
   "authors": [
     "Anorakun"
   ],
@@ -11,14 +11,28 @@
     "bonus",
     "castle",
     "grassland",
+    "mechanical",
     "mountain",
     "ruins",
-    "sky"
+    "sky",
+    "texture"
   ],
-  "description": "The background seen in the first stage of Doraemon 3: Nobita to Toki no Hougyoku.  <br>\r\n<br>\r\nCompared to the old site version, this one has a saner palette organization and uses less tiles.<br>\r\n<br>\r\nA perfect fit for levels filled with dinosaurs or tropical grasslands.",
-  "latest_version": "smwc-42775-1786377560",
+  "description": "The simple and pleasant Tetris-like background seen in a bonus room from the factory area from Doraemon 3 (SNES).  <br>\r\n<br>\r\nCan fit a variety of level themes.",
+  "latest_version": "smwc-42949-1787462144",
   "install_kind": "asset_only",
   "versions": [
+    {
+      "upstream_id": 42949,
+      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)",
+      "version": "smwc-42949-1787462144",
+      "upstream_time": 1787462144,
+      "download_url": "https://dl.smwcentral.net/42949/Doraemon%203%20%28SFC%29%20-%20Factory%20%28Bonus%20Room%29.zip",
+      "filename": "Doraemon 3 (SFC) - Factory (Bonus Room).zip",
+      "size": 1923,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
     {
       "upstream_id": 42775,
       "title": "Doraemon 3: Nobita to Toki no Hougyoku - Prehistoric Grassland",

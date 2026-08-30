@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-quack-shot-duckburg",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42282,
+  "title": "Quack Shot - Duckburg",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "athletic",
+    "grassland",
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Upbeat song. Fits first levels.",
+  "latest_version": "smwc-42282-1788026676",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42282,
+      "title": "Quack Shot - Duckburg",
+      "version": "smwc-42282-1788026676",
+      "upstream_time": 1788026676,
+      "download_url": "https://dl.smwcentral.net/42282/quackshot-duckburg.zip",
+      "filename": "quackshot-duckburg.zip",
+      "size": 96107,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

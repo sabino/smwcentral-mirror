@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-nage-libre-seijaku-no-suishin-intermission",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42461,
+  "title": "Nage Libre: Seijaku no Suishin - Intermission",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "bonus",
+    "overworld",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Intermission from Nage Libre on the SNES.",
+  "latest_version": "smwc-42461-1787844603",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42461,
+      "title": "Nage Libre: Seijaku no Suishin - Intermission",
+      "version": "smwc-42461-1787844603",
+      "upstream_time": 1787844603,
+      "download_url": "https://dl.smwcentral.net/42461/Nage%20Libre%20-%20Intermission.zip",
+      "filename": "Nage Libre - Intermission.zip",
+      "size": 36010,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-ch-jin-sentai-jetman-area-a",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42343,
+  "title": "Chōjin Sentai Jetman - Area A",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "industrial",
+    "retro",
+    "upbeat"
+  ],
+  "description": "Area A from Choujin Sentai Jetman on the NES.",
+  "latest_version": "smwc-42343-1787711535",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42343,
+      "title": "Chōjin Sentai Jetman - Area A",
+      "version": "smwc-42343-1787711535",
+      "upstream_time": 1787711535,
+      "download_url": "https://dl.smwcentral.net/42343/Choujin%20Sentai%20Jetman%20-%20Area%20A.zip",
+      "filename": "Choujin Sentai Jetman - Area A.zip",
+      "size": 76262,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

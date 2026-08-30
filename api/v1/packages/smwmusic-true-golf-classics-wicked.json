@@ -1,0 +1,51 @@
+{
+  "name": "smwmusic-true-golf-classics-wicked",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42302,
+  "title": "True Golf Classics: Wicked 18 (3DO) - Desert",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "desert",
+    "menu",
+    "mountain",
+    "sea"
+  ],
+  "description": "In-game golfing tune heard at the desert portions of the aforementioned fictional golf course heard in the 3DO port of True Golf Classics: Wicked 18/Devil's Course.",
+  "latest_version": "smwc-42302-1787712204",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42302,
+      "title": "True Golf Classics: Wicked 18 (3DO) - Desert",
+      "version": "smwc-42302-1787712204",
+      "upstream_time": 1787712204,
+      "download_url": "https://dl.smwcentral.net/42302/Wicked%2018%20%283DO%29%20-%20Desert.zip",
+      "filename": "Wicked 18 (3DO) - Desert.zip",
+      "size": 90701,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42301,
+      "title": "True Golf Classics: Wicked 18 (3DO) - Tutorial",
+      "version": "smwc-42301-1787711841",
+      "upstream_time": 1787711841,
+      "download_url": "https://dl.smwcentral.net/42301/Wicked%2018%20%283DO%29%20-%20Tutorial.zip",
+      "filename": "Wicked 18 (3DO) - Tutorial.zip",
+      "size": 47027,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

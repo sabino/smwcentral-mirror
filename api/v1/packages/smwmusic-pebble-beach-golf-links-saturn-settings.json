@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-pebble-beach-golf-links-saturn-settings",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42418,
+  "title": "Pebble Beach Golf Links (Saturn) - Settings",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "menu",
+    "sea"
+  ],
+  "description": "Settings menu tune heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+  "latest_version": "smwc-42418-1788011249",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42418,
+      "title": "Pebble Beach Golf Links (Saturn) - Settings",
+      "version": "smwc-42418-1788011249",
+      "upstream_time": 1788011249,
+      "download_url": "https://dl.smwcentral.net/42418/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Settings.zip",
+      "filename": "Pebble Beach Golf Links (SAT) - Settings.zip",
+      "size": 72943,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

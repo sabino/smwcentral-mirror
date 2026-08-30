@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-deltarune-ever-higher",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 41842,
+  "title": "Deltarune - Ever Higher",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "airship",
+    "overworld",
+    "retro",
+    "ruins",
+    "sky",
+    "temple",
+    "upbeat"
+  ],
+  "description": "The song \"Ever Higher\" from Chapter 4 of Deltarune, which plays in climbing sections, originally composed by Toby Fox. Would fit in vertical levels, maybe airships too. Could also be fine for overworlds due to its relatively short length?<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+  "latest_version": "smwc-41842-1788005346",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 41842,
+      "title": "Deltarune - Ever Higher",
+      "version": "smwc-41842-1788005346",
+      "upstream_time": 1788005346,
+      "download_url": "https://dl.smwcentral.net/41842/Ever%20Higher.zip",
+      "filename": "Ever Higher.zip",
+      "size": 68640,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "smwmusic-pebble-beach-golf-links-saturn-course-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42422,
+  "title": "Pebble Beach Golf Links (Saturn) - Course BGM 3",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "athletic",
+    "forest",
+    "grassland",
+    "sea"
+  ],
+  "description": "Third of the three in-game golfing tunes heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
+  "latest_version": "smwc-42422-1788014822",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42422,
+      "title": "Pebble Beach Golf Links (Saturn) - Course BGM 3",
+      "version": "smwc-42422-1788014822",
+      "upstream_time": 1788014822,
+      "download_url": "https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip",
+      "filename": "Pebble Beach Golf Links (SAT) - Course BGM 3.zip",
+      "size": 59364,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42421,
+      "title": "Pebble Beach Golf Links (Saturn) - Course BGM 2",
+      "version": "smwc-42421-1788014440",
+      "upstream_time": 1788014440,
+      "download_url": "https://dl.smwcentral.net/42421/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%202.zip",
+      "filename": "Pebble Beach Golf Links (SAT) - Course BGM 2.zip",
+      "size": 68387,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42420,
+      "title": "Pebble Beach Golf Links (Saturn) - Course BGM 1",
+      "version": "smwc-42420-1788013828",
+      "upstream_time": 1788013828,
+      "download_url": "https://dl.smwcentral.net/42420/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%201.zip",
+      "filename": "Pebble Beach Golf Links (SAT) - Course BGM 1.zip",
+      "size": 79817,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -364,6 +364,41 @@
     ]
   },
   {
+    "name": "smwsprites-coin-game-cloud-s-coin",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42971,
+    "title": "Coin Game Cloud's Coin",
+    "authors": [
+      "RussianMan"
+    ],
+    "tags": [
+      "bonus",
+      "coin",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This is a disassembly of extended sprite 0A in SMW, Coin Game Cloud's Coin.",
+    "latest_version": "smwc-42971-1787506705",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42971,
+        "title": "Coin Game Cloud's Coin",
+        "version": "smwc-42971-1787506705",
+        "upstream_time": 1787506705,
+        "download_url": "https://dl.smwcentral.net/42971/Coin%20Cloud%27s%20Coin%20Disassembly.zip",
+        "filename": "Coin Cloud%27s Coin Disassembly.zip",
+        "size": 2793,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-conditional-keyhole",
     "aliases": [],
     "section": "smwsprites",
@@ -1186,42 +1221,6 @@
         "download_url": "https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip",
         "filename": "mother_dino_rhino_and_egg_asar2.zip",
         "size": 7018,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-new-super-mario-bros-stretch-shroom",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41111,
-    "title": "New Super Mario Bros. - Stretch Shroom",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "lorom",
-      "pacifist",
-      "platform",
-      "sa-1",
-      "solid"
-    ],
-    "description": "A mushroom platform which expands and contracts over a certain period of time. When on top, the player moves along with it.",
-    "latest_version": "smwc-41111-1773018736",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41111,
-        "title": "New Super Mario Bros. - Stretch Shroom",
-        "version": "smwc-41111-1773018736",
-        "upstream_time": 1773018736,
-        "download_url": "https://dl.smwcentral.net/41111/stretch_shroom.zip",
-        "filename": "stretch_shroom.zip",
-        "size": 5348,
         "sha256": null,
         "dependencies": [
           "pixi"
