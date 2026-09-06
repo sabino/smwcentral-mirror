@@ -1,0 +1,33 @@
+{
+  "name": "smwsprites-piranha-plant-disappears-after-level-beaten",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42801,
+  "title": "Piranha Plant, Disappears After Level Beaten",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "An edit of the vanilla piranha plant overworld sprite which can be made to disappear once the level it's on is beaten.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42801,
+      "title": "Piranha Plant, Disappears After Level Beaten",
+      "version": "V1.0.1",
+      "upstream_time": 1788445018,
+      "download_url": "https://dl.smwcentral.net/42801/Disappearing%20OW%20Piranha%20Plant%20V1.0.1.zip",
+      "filename": "Disappearing OW Piranha Plant V1.0.1.zip",
+      "size": 1363,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

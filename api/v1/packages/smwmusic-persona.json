@@ -1,0 +1,83 @@
+{
+  "name": "smwmusic-persona",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42439,
+  "title": "Persona 2: Innocent Sin - W Slash",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "beach",
+    "calm",
+    "city",
+    "credits",
+    "cutscene",
+    "menu",
+    "mysterious",
+    "overworld",
+    "temple"
+  ],
+  "description": "Note: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Yoshi, Thunder/Firework/Blargg",
+  "latest_version": "smwc-42439-1788142928",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42439,
+      "title": "Persona 2: Innocent Sin - W Slash",
+      "version": "smwc-42439-1788142928",
+      "upstream_time": 1788142928,
+      "download_url": "https://dl.smwcentral.net/42439/W%20Slash.zip",
+      "filename": "W Slash.zip",
+      "size": 102644,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42438,
+      "title": "Persona 2: Innocent Sin - Kaori",
+      "version": "smwc-42438-1788142640",
+      "upstream_time": 1788142640,
+      "download_url": "https://dl.smwcentral.net/42438/Kaori.zip",
+      "filename": "Kaori.zip",
+      "size": 99935,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42437,
+      "title": "Persona 2: Eternal Punishment - Trish's Fountain",
+      "version": "smwc-42437-1788131391",
+      "upstream_time": 1788131391,
+      "download_url": "https://dl.smwcentral.net/42437/Trishs%20Fountain.zip",
+      "filename": "Trishs Fountain.zip",
+      "size": 104871,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42436,
+      "title": "Persona 2: Eternal Punishment - Tony's Shop",
+      "version": "smwc-42436-1788142280",
+      "upstream_time": 1788142280,
+      "download_url": "https://dl.smwcentral.net/42436/Tonys%20Shop.zip",
+      "filename": "Tonys Shop.zip",
+      "size": 102419,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -106,43 +106,6 @@
     ]
   },
   {
-    "name": "uberasm-automatic-alternating-jumps-v1",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40853,
-    "title": "Automatic Alternating Jumps V1.1",
-    "authors": [
-      "Catobat",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "automatic",
-      "jump",
-      "lorom",
-      "sa-1",
-      "spinjump"
-    ],
-    "description": "This makes the player alternate continuously between a normal jump and a spinjump.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Made the sound effects configurable. Especially the jump sound, so it's easy to account for AddmusicK.<br>\r\n- Optimized the code a bit by utilizing tables.<br>\r\n- Added checks so the jump doesn't happen while in a lakitu cloud, P-Balloon, climbing, stunned, doing the victory pose, or while the game is paused.<br>\r\n- Made it so Mario displays the jump pose when doing the regular jump.<br>\r\n- Made it so the auto jump is more of an auto swim while underwater.",
-    "latest_version": "smwc-40853-1763925959",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40853,
-        "title": "Automatic Alternating Jumps V1.1",
-        "version": "smwc-40853-1763925959",
-        "upstream_time": 1763925959,
-        "download_url": "https://dl.smwcentral.net/40853/AutojumpV1_1.zip",
-        "filename": "AutojumpV1_1.zip",
-        "size": 839,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-baby-yoshi-disappears-after-eating-too-much",
     "aliases": [],
     "section": "uberasm",
@@ -168,6 +131,41 @@
         "download_url": "https://dl.smwcentral.net/42641/MaxBabyYoshiEatsV1.1.zip",
         "filename": "MaxBabyYoshiEatsV1.1.zip",
         "size": 2059,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-balloon-trigger",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42819,
+    "title": "Balloon Trigger",
+    "authors": [
+      "Steven Atauchi C.",
+      "anonimzwx"
+    ],
+    "tags": [
+      "lorom",
+      "p-balloon",
+      "sa-1"
+    ],
+    "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: var(--user-color-2);\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42819,
+        "title": "Balloon Trigger",
+        "version": "V1.1",
+        "upstream_time": 1788271842,
+        "download_url": "https://dl.smwcentral.net/42819/BalloonTriggerV1.1.zip",
+        "filename": "BalloonTriggerV1.1.zip",
+        "size": 761,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -252,31 +250,32 @@
     ]
   },
   {
-    "name": "uberasm-controller-read-optimization",
+    "name": "uberasm-custom-overworld-level-names",
     "aliases": [],
     "section": "uberasm",
-    "upstream_id": 41069,
-    "title": "Controller Read Optimization",
+    "upstream_id": 42967,
+    "title": "Custom Overworld Level Names",
     "authors": [
-      "spooonsss"
+      "Kevin"
     ],
     "tags": [
+      "layer 3",
       "lorom",
-      "optimize",
+      "overworld",
       "sa-1"
     ],
-    "description": "Saves a little NMI time by moving the controller read to the start of the game loop.<br>\r\n<br>\r\nUse this if you need more NMI time to change blocks, exanimate, upload dynamic graphics, etc. Running out of NMI time may appear as broken gradients and a black bar at the top of the screen.<br>\r\n<br>\r\nBe sure to use FastROM and '<a href=\"https://www.smwcentral.net/?p=section&a=details&id=28028\">Lunar Magic's \"VRAM Patch\" Optimization</a>' in addition to this.",
-    "latest_version": "smwc-41069-1763568165",
+    "description": "This UberASM is meant as an alternative/replacement to the \"Extended Overworld Level Names\"  patch, allowing you to have longer level names than what Lunar Magic supports. Compared to the patch, it comes with some options to configure the names easily: how many lines they have, how long the lines are and where the names are positioned. It also allows you to change the palette of some parts of the names.",
+    "latest_version": "v1.0",
     "install_kind": "uber_asm",
     "versions": [
       {
-        "upstream_id": 41069,
-        "title": "Controller Read Optimization",
-        "version": "smwc-41069-1763568165",
-        "upstream_time": 1763568165,
-        "download_url": "https://dl.smwcentral.net/41069/controller_read_optimize_UAT2.zip",
-        "filename": "controller_read_optimize_UAT2.zip",
-        "size": 756,
+        "upstream_id": 42967,
+        "title": "Custom Overworld Level Names",
+        "version": "v1.0",
+        "upstream_time": 1788302182,
+        "download_url": "https://dl.smwcentral.net/42967/level_names-v1.0.zip",
+        "filename": "level_names-v1.0.zip",
+        "size": 5829,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -459,6 +458,41 @@
     ]
   },
   {
+    "name": "uberasm-event-based-triggers",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42746,
+    "title": "Event-Based Triggers",
+    "authors": [
+      "Thomas"
+    ],
+    "tags": [
+      "exanimation",
+      "lorom",
+      "map16",
+      "sa-1"
+    ],
+    "description": "This is a simple UberASM to help with controlling the flags for Conditional Direct Map16 and custom ExAnimation triggers on level load, based on whether certain events have been activated.",
+    "latest_version": "V1.0",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42746,
+        "title": "Event-Based Triggers",
+        "version": "V1.0",
+        "upstream_time": 1788274193,
+        "download_url": "https://dl.smwcentral.net/42746/Event-Based-Flags.zip",
+        "filename": "Event-Based-Flags.zip",
+        "size": 594,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-fade-from-title-screen-to-file-select-menu",
     "aliases": [],
     "section": "uberasm",
@@ -630,6 +664,40 @@
     ]
   },
   {
+    "name": "uberasm-gliding-parachute",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42724,
+    "title": "Gliding Parachute",
+    "authors": [
+      "Steven Atauchi C."
+    ],
+    "tags": [
+      "lorom",
+      "parachute",
+      "sa-1"
+    ],
+    "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
+    "latest_version": "V1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42724,
+        "title": "Gliding Parachute",
+        "version": "V1.0.1",
+        "upstream_time": 1788447823,
+        "download_url": "https://dl.smwcentral.net/42724/GlidingParachuteV1.0.1.zip",
+        "filename": "GlidingParachuteV1.0.1.zip",
+        "size": 3266,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-graphical-air-meter-v2-0",
     "aliases": [],
     "section": "uberasm",
@@ -704,32 +772,32 @@
     ]
   },
   {
-    "name": "uberasm-layer",
+    "name": "uberasm-level-timer-air-meter",
     "aliases": [],
     "section": "uberasm",
-    "upstream_id": 41090,
-    "title": "Layer 2 Falls",
+    "upstream_id": 42854,
+    "title": "Level Timer Air Meter",
     "authors": [
-      "Kevin"
+      "MarioFanGamer"
     ],
     "tags": [
-      "layer 2",
       "lorom",
       "sa-1",
-      "scroll"
+      "timer",
+      "water"
     ],
-    "description": "This UberASM is basically a disassembly of the \"Layer 2 Falls\" sprite (sprite ED), with some customization options, such as speed, acceleration, movement direction (vertical up or down, horizontal left or right), etc. You can also change it to move layer 1 instead (basically acting as an autoscroller). With the default parameters it acts the same as the vanilla sprite.",
-    "latest_version": "smwc-41090-1763856619",
+    "description": "This UberASM code reworks the level timer to be used as an air meter for the level it has been inserted, allowing for an easily insertable air meter.<br>\r\n<br>\r\nIncludes a version which is set by extra bytes and a version set by defines in the ASM file.",
+    "latest_version": "v1.1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
-        "upstream_id": 41090,
-        "title": "Layer 2 Falls",
-        "version": "smwc-41090-1763856619",
-        "upstream_time": 1763856619,
-        "download_url": "https://dl.smwcentral.net/41090/Layer2FallsAsar2.zip",
-        "filename": "Layer2FallsAsar2.zip",
-        "size": 1323,
+        "upstream_id": 42854,
+        "title": "Level Timer Air Meter",
+        "version": "v1.1.1",
+        "upstream_time": 1788289314,
+        "download_url": "https://dl.smwcentral.net/42854/Level%20Timer%20Air%20Meter%20V1.1.1.zip",
+        "filename": "Level Timer Air Meter V1.1.1.zip",
+        "size": 5227,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -948,44 +1016,6 @@
         "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
         "filename": "No Overworld v1.3.zip",
         "size": 8750,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-one-time-flower",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41073,
-    "title": "One Time Flower",
-    "authors": [
-      "4thDragon"
-    ],
-    "tags": [
-      "customizable",
-      "flower",
-      "level asm",
-      "lorom",
-      "powerdown",
-      "powerup",
-      "sa-1"
-    ],
-    "description": "An UberASM that allows you to shoot only once when you have a fire flower and makes Mario small again. It's a little customizable.",
-    "latest_version": "smwc-41073-1763747009",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41073,
-        "title": "One Time Flower",
-        "version": "smwc-41073-1763747009",
-        "upstream_time": 1763747009,
-        "download_url": "https://dl.smwcentral.net/41073/onetimeflower.zip",
-        "filename": "onetimeflower.zip",
-        "size": 839,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1323,8 +1353,8 @@
     "name": "uberasm-retry-system",
     "aliases": [],
     "section": "uberasm",
-    "upstream_id": 42270,
-    "title": "Retry System v2.0.3",
+    "upstream_id": 42938,
+    "title": "Retry System v2.2.0",
     "authors": [
       "Kevin"
     ],
@@ -1338,17 +1368,17 @@
       "save"
     ],
     "description": "This is the modern Retry System that extends and improves the <a href=\"https://smwc.me/1657727\">original patch</a> by <span class=\"un-outer\" title=\"worldpeace\"><a href=\"/?p=profile&amp;id=1250\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">worldpeace</a></span>. Its base features are the same as the old patch, but there's a lot of new functionalities and customizations available, which make it an useful tool also for projects where a retry system is not needed. Additionally, being implemented as an UberASM project, it features much less hijacks than the original patch, making it compatible with more resources. UberASM Tool version 2.1 or higher is required.<br>\r\n<br>\r\nThe main features implemented are:<br>\r\n- Level respawn on death without going to the Overworld (with prompt or instant)<br>\r\n- Customizable Retry prompt appearance (box/bar/minimal)<br>\r\n- Multiple midways per level<br>\r\n- Automatic midways when entering a sublevel<br>\r\n- Customizable sprite status bar that replaces the vanilla one<br>\r\n- Death counter<br>\r\n- Integrated save system to retain checkpoints and other things in SRAM<br>\r\n- Title screen death fix<br>\r\n- Counterbreak (state reset when respawning or going to the Overworld)<br>\r\n- Miscellaneous bug fixes<br>\r\n<br>\r\nSee <a href=\"https://kkevinm.github.io/retry-system/\" rel=\"nofollow\">Documentation</a> for more details.<br>\r\n<br>\r\nYou can check out the repository <a href=\"https://github.com/kkevinm/retry-system\" rel=\"nofollow\">here</a>.<br>\r\n<br>\r\nYou can see the changelog <a href=\"https://kkevinm.github.io/retry-system/changelog.html\" rel=\"nofollow\">here</a>.",
-    "latest_version": "2.0.3",
+    "latest_version": "2.2.0",
     "install_kind": "uber_asm",
     "versions": [
       {
-        "upstream_id": 42270,
-        "title": "Retry System v2.0.3",
-        "version": "2.0.3",
-        "upstream_time": 1777243987,
-        "download_url": "https://dl.smwcentral.net/42270/retry-system_v2.0.3.zip",
-        "filename": "retry-system_v2.0.3.zip",
-        "size": 276032,
+        "upstream_id": 42938,
+        "title": "Retry System v2.2.0",
+        "version": "2.2.0",
+        "upstream_time": 1787414609,
+        "download_url": "https://dl.smwcentral.net/42938/retry-system_v2.2.0.zip",
+        "filename": "retry-system_v2.2.0.zip",
+        "size": 279774,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1500,40 +1530,6 @@
         "download_url": "https://dl.smwcentral.net/42506/SuperStarWithCoinsV1.1.zip",
         "filename": "SuperStarWithCoinsV1.1.zip",
         "size": 2932,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-tallying-score",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41072,
-    "title": "Tallying Score",
-    "authors": [
-      "JamesD28"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "score"
-    ],
-    "description": "This UberASM+Patch modifies the score counter so that score is tallied up over a duration of time, instead of being updated instantly. You can control whether the tally adds a fixed constant every frame, adds a fixed fraction, or a variable fraction that updates constantly based on the remaining score to tally. You can also specify the value or fraction that should be added, to control the average duration of the tally.<br>\r\n<br>\r\nRequires a few small helper patches which are automatically applied with the UberASM code. See TallyingScore.asm for customization options and usage notes.<br>\r\n<br>\r\nTo be inserted as GM14 code or level code.",
-    "latest_version": "smwc-41072-1763649286",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41072,
-        "title": "Tallying Score",
-        "version": "smwc-41072-1763649286",
-        "upstream_time": 1763649286,
-        "download_url": "https://dl.smwcentral.net/41072/TallyingScoreAsar2.zip",
-        "filename": "TallyingScoreAsar2.zip",
-        "size": 2651,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1704,7 +1700,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #edad24;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

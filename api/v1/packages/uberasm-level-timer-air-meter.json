@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-level-timer-air-meter",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42854,
+  "title": "Level Timer Air Meter",
+  "authors": [
+    "MarioFanGamer"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "timer",
+    "water"
+  ],
+  "description": "This UberASM code reworks the level timer to be used as an air meter for the level it has been inserted, allowing for an easily insertable air meter.<br>\r\n<br>\r\nIncludes a version which is set by extra bytes and a version set by defines in the ASM file.",
+  "latest_version": "v1.1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42854,
+      "title": "Level Timer Air Meter",
+      "version": "v1.1.1",
+      "upstream_time": 1788289314,
+      "download_url": "https://dl.smwcentral.net/42854/Level%20Timer%20Air%20Meter%20V1.1.1.zip",
+      "filename": "Level Timer Air Meter V1.1.1.zip",
+      "size": 5227,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-sprite-pipes",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41591,
+  "title": "Sprite Pipes",
+  "authors": [
+    "CarlSagan42"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "These are pipes that allow both Mario and sprites to enter. They are designed to be very simple to use, needing only one UberASM and blocks. <br>\r\n<br>\r\nCurrently, the pipes work with vanilla 16x16 sprites, as well as yoshi and kicked sprites, and also with Mario regardless of powerup state. Mario can carry items into the pipes, and if either Mario or a sprite has their exit blocked, they'll simply turn around and go back the other way.<br>\r\n<br>\r\nIn the future, bigger pipes which support larger sprites could be added.<br>\r\n<br>\r\nI have always loved the screen scrolling pipes created by HammerBrother, and I wondered what it would be like if sprites could also enter them. This is my attempt to realize that dream!<br>\r\n<br>\r\nHuge thank you to TheBourgyman for the awesome glass pipe GFx.",
+  "latest_version": "smwc-41591-1788302427",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41591,
+      "title": "Sprite Pipes",
+      "version": "smwc-41591-1788302427",
+      "upstream_time": 1788302427,
+      "download_url": "https://dl.smwcentral.net/41591/Sprite%20Pipes%201.0.zip",
+      "filename": "Sprite Pipes 1.0.zip",
+      "size": 25623,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

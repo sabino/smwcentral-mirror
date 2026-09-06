@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-metroid-zero-mission-ridley-s-lair-mega-man-x3-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42150,
+  "title": "Metroid Zero Mission - Ridley's Lair (Mega Man X3 Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "castle",
+    "mysterious",
+    "ruins",
+    "spooky"
+  ],
+  "description": "Based : Doppler Theme",
+  "latest_version": "smwc-42150-1788236356",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42150,
+      "title": "Metroid Zero Mission - Ridley's Lair (Mega Man X3 Style)",
+      "version": "smwc-42150-1788236356",
+      "upstream_time": 1788236356,
+      "download_url": "https://dl.smwcentral.net/42150/RidleyLair_MZM_X3.zip",
+      "filename": "RidleyLair_MZM_X3.zip",
+      "size": 52924,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

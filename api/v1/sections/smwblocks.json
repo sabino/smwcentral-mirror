@@ -368,7 +368,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -726,7 +726,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -921,40 +921,6 @@
     ]
   },
   {
-    "name": "smwblocks-pipe-cannon",
-    "aliases": [],
-    "section": "smwblocks",
-    "upstream_id": 41114,
-    "title": "Pipe Cannon",
-    "authors": [
-      "HammerBrother"
-    ],
-    "tags": [
-      "lorom",
-      "pipe",
-      "sa-1"
-    ],
-    "description": "This is a pipe cannon similar to the one New Super Mario Bros.<br>\r\nIf the player enters it, instead of warping them to another level, it shoots them straight up into the air, locking their controls during launch.<br>\r\nMario will keep going until he hits a ceiling, or one of 2 custom blocks: <div class=\"code inline filter-noemote filter-nobr\"><pre>PipeCannon_End.asm</pre></div> or <div class=\"code inline filter-noemote filter-nobr\"><pre>PipeCannon_teleport.asm</pre></div>.<br>\r\nAlso included is a variant that will shoot the player when they press A or B instead of waiting for a timer.<br>\r\n<br>\r\nUseful for a gimmick like getting to high areas disguised as a pipe to nowhere.",
-    "latest_version": "smwc-41114-1764221850",
-    "install_kind": "gps_block",
-    "versions": [
-      {
-        "upstream_id": 41114,
-        "title": "Pipe Cannon",
-        "version": "smwc-41114-1764221850",
-        "upstream_time": 1764221850,
-        "download_url": "https://dl.smwcentral.net/41114/Pipe%20Cannon.zip",
-        "filename": "Pipe Cannon.zip",
-        "size": 10672,
-        "sha256": null,
-        "dependencies": [
-          "gps"
-        ],
-        "install_kind": "gps_block"
-      }
-    ]
-  },
-  {
     "name": "smwblocks-powerup-coin",
     "aliases": [],
     "section": "smwblocks",
@@ -1078,7 +1044,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -1090,6 +1056,41 @@
         "download_url": "https://dl.smwcentral.net/41235/Aftertouch%20Shatter.zip",
         "filename": "Aftertouch Shatter.zip",
         "size": 1922,
+        "sha256": null,
+        "dependencies": [
+          "gps"
+        ],
+        "install_kind": "gps_block"
+      }
+    ]
+  },
+  {
+    "name": "smwblocks-sprite-pipes",
+    "aliases": [],
+    "section": "smwblocks",
+    "upstream_id": 41591,
+    "title": "Sprite Pipes",
+    "authors": [
+      "CarlSagan42"
+    ],
+    "tags": [
+      "lorom",
+      "pipe",
+      "sa-1",
+      "uberasm needed"
+    ],
+    "description": "These are pipes that allow both Mario and sprites to enter. They are designed to be very simple to use, needing only one UberASM and blocks. <br>\r\n<br>\r\nCurrently, the pipes work with vanilla 16x16 sprites, as well as yoshi and kicked sprites, and also with Mario regardless of powerup state. Mario can carry items into the pipes, and if either Mario or a sprite has their exit blocked, they'll simply turn around and go back the other way.<br>\r\n<br>\r\nIn the future, bigger pipes which support larger sprites could be added.<br>\r\n<br>\r\nI have always loved the screen scrolling pipes created by HammerBrother, and I wondered what it would be like if sprites could also enter them. This is my attempt to realize that dream!<br>\r\n<br>\r\nHuge thank you to TheBourgyman for the awesome glass pipe GFx.",
+    "latest_version": "smwc-41591-1788302427",
+    "install_kind": "gps_block",
+    "versions": [
+      {
+        "upstream_id": 41591,
+        "title": "Sprite Pipes",
+        "version": "smwc-41591-1788302427",
+        "upstream_time": 1788302427,
+        "download_url": "https://dl.smwcentral.net/41591/Sprite%20Pipes%201.0.zip",
+        "filename": "Sprite Pipes 1.0.zip",
+        "size": 25623,
         "sha256": null,
         "dependencies": [
           "gps"

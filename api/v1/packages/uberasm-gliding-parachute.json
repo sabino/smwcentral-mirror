@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-gliding-parachute",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42724,
+  "title": "Gliding Parachute",
+  "authors": [
+    "Steven Atauchi C."
+  ],
+  "tags": [
+    "lorom",
+    "parachute",
+    "sa-1"
+  ],
+  "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42724,
+      "title": "Gliding Parachute",
+      "version": "V1.0.1",
+      "upstream_time": 1788447823,
+      "download_url": "https://dl.smwcentral.net/42724/GlidingParachuteV1.0.1.zip",
+      "filename": "GlidingParachuteV1.0.1.zip",
+      "size": 3266,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

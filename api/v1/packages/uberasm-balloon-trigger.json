@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-balloon-trigger",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42819,
+  "title": "Balloon Trigger",
+  "authors": [
+    "Steven Atauchi C.",
+    "anonimzwx"
+  ],
+  "tags": [
+    "lorom",
+    "p-balloon",
+    "sa-1"
+  ],
+  "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: var(--user-color-2);\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42819,
+      "title": "Balloon Trigger",
+      "version": "V1.1",
+      "upstream_time": 1788271842,
+      "download_url": "https://dl.smwcentral.net/42819/BalloonTriggerV1.1.zip",
+      "filename": "BalloonTriggerV1.1.zip",
+      "size": 761,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

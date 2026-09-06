@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-castlevania-bloodlines-iron-blue-intention",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42327,
+  "title": "Castlevania: Bloodlines - Iron Blue Intention",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "dark",
+    "night",
+    "ruins",
+    "temple",
+    "urban"
+  ],
+  "description": "Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>.",
+  "latest_version": "smwc-42327-1788109687",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42327,
+      "title": "Castlevania: Bloodlines - Iron Blue Intention",
+      "version": "smwc-42327-1788109687",
+      "upstream_time": 1788109687,
+      "download_url": "https://dl.smwcentral.net/42327/cbl-IBI.zip",
+      "filename": "cbl-IBI.zip",
+      "size": 35513,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-super-mario-bros-game-over",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42088,
+  "title": "Super Mario Bros. - Game Over",
+  "authors": [
+    "7 up"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "game over",
+    "goal",
+    "miss",
+    "sad"
+  ],
+  "description": "Super Mario Bros.' game over theme that you hear a lot, especially in The Lost Levels. Remixed in style of Super Mario World's electric piano theme. I originally made this last year, which marked the 40th anniversary of Super Mario Bros.<br>\r\n<br>\r\nI don't have to tell you what this fits in.",
+  "latest_version": "smwc-42088-1788116401",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42088,
+      "title": "Super Mario Bros. - Game Over",
+      "version": "smwc-42088-1788116401",
+      "upstream_time": 1788116401,
+      "download_url": "https://dl.smwcentral.net/42088/smb1%20gameover.zip",
+      "filename": "smb1 gameover.zip",
+      "size": 30817,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

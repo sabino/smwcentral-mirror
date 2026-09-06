@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-trials-of-mana-frenzy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42240,
+  "title": "Trials of Mana - Frenzy",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "abstract",
+    "boss",
+    "carnival",
+    "industrial",
+    "mountain",
+    "tense",
+    "upbeat"
+  ],
+  "description": "This music plays when you enter Seaside Cavern and fight Mispolm the Wood Benevodon. Enjoy!",
+  "latest_version": "smwc-42240-1788206362",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42240,
+      "title": "Trials of Mana - Frenzy",
+      "version": "smwc-42240-1788206362",
+      "upstream_time": 1788206362,
+      "download_url": "https://dl.smwcentral.net/42240/sd3%20frenzy.zip",
+      "filename": "sd3 frenzy.zip",
+      "size": 115621,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

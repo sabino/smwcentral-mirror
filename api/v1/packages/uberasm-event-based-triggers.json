@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-event-based-triggers",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42746,
+  "title": "Event-Based Triggers",
+  "authors": [
+    "Thomas"
+  ],
+  "tags": [
+    "exanimation",
+    "lorom",
+    "map16",
+    "sa-1"
+  ],
+  "description": "This is a simple UberASM to help with controlling the flags for Conditional Direct Map16 and custom ExAnimation triggers on level load, based on whether certain events have been activated.",
+  "latest_version": "V1.0",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42746,
+      "title": "Event-Based Triggers",
+      "version": "V1.0",
+      "upstream_time": 1788274193,
+      "download_url": "https://dl.smwcentral.net/42746/Event-Based-Flags.zip",
+      "filename": "Event-Based-Flags.zip",
+      "size": 594,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

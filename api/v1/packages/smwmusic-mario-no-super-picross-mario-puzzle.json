@@ -2,8 +2,8 @@
   "name": "smwmusic-mario-no-super-picross-mario-puzzle",
   "aliases": [],
   "section": "smwmusic",
-  "upstream_id": 42365,
-  "title": "Mario no Super Picross - Mario Puzzle 1",
+  "upstream_id": 42414,
+  "title": "Mario no Super Picross - Mario Puzzle 2",
   "authors": [
     "Fullcannon"
   ],
@@ -11,10 +11,24 @@
     "forest",
     "mysterious"
   ],
-  "description": "Mario's nonogram puzzle levels 1-4 from SFC edition of Mario no Super Picross.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"doppleganger\"><a href=\"/?p=profile&amp;id=66588\" style=\"color: var(--user-color-1);\" class=\"un\">doppleganger</a></span>.",
-  "latest_version": "smwc-42365-1787713468",
+  "description": "Mario's nonogram puzzle levels 5-7 from SFC edition of Mario no Super Picross.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"doppleganger\"><a href=\"/?p=profile&amp;id=66588\" style=\"color: var(--user-color-1);\" class=\"un\">doppleganger</a></span>.",
+  "latest_version": "smwc-42414-1788110251",
   "install_kind": "add_music_k_music",
   "versions": [
+    {
+      "upstream_id": 42414,
+      "title": "Mario no Super Picross - Mario Puzzle 2",
+      "version": "smwc-42414-1788110251",
+      "upstream_time": 1788110251,
+      "download_url": "https://dl.smwcentral.net/42414/Mario%20no%20Super%20Picross%20-%20Mario%20Puzzle%202.zip",
+      "filename": "Mario no Super Picross - Mario Puzzle 2.zip",
+      "size": 67317,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
     {
       "upstream_id": 42365,
       "title": "Mario no Super Picross - Mario Puzzle 1",

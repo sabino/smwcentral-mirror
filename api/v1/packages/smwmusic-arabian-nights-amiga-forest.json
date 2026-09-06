@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-arabian-nights-amiga-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42202,
+  "title": "Arabian Nights (Amiga) - Forest",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "cave",
+    "desert",
+    "forest"
+  ],
+  "description": "I modified the mix.",
+  "latest_version": "smwc-42202-1788237681",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42202,
+      "title": "Arabian Nights (Amiga) - Forest",
+      "version": "smwc-42202-1788237681",
+      "upstream_time": 1788237681,
+      "download_url": "https://dl.smwcentral.net/42202/Forest.zip",
+      "filename": "Forest.zip",
+      "size": 42278,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

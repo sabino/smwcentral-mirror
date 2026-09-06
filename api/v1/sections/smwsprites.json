@@ -111,41 +111,6 @@
     ]
   },
   {
-    "name": "smwsprites-bob-omb",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41872,
-    "title": "Bob-omb",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "carriable",
-      "enemy",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "A disassembly of sprite 0D, the Bob-omb. Unlike the old one, this recreates the entirety of states of the vanilla Bob-omb, making it more accurate, not depend on bypassing the sprite status with the second extra property byte, and allowing you to customize stuff related to its carriable form.",
-    "latest_version": "smwc-41872-1773442683",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41872,
-        "title": "Bob-omb",
-        "version": "smwc-41872-1773442683",
-        "upstream_time": 1773442683,
-        "download_url": "https://dl.smwcentral.net/41872/Improved%20Bob-Omb%20Disassembly.zip",
-        "filename": "Improved Bob-Omb Disassembly.zip",
-        "size": 6909,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-bob-omb-leaves-fire-trail",
     "aliases": [],
     "section": "smwsprites",
@@ -507,41 +472,6 @@
     ]
   },
   {
-    "name": "smwsprites-dino-rhino-dino-torch",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41240,
-    "title": "Dino Rhino + Dino Torch",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "dino rhino",
-      "enemy",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "A disassembly of sprites 6E and 6F, the Dino Rhino and the Dino Torch.<br>\r\n<br>\r\nOnly difference from the original code is to check for the extra bit instead of the sprite number, as in reality, the Dinos share pretty much all of their code and are only differentiated by number in some situations.",
-    "latest_version": "smwc-41240-1773242526",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41240,
-        "title": "Dino Rhino + Dino Torch",
-        "version": "smwc-41240-1773242526",
-        "upstream_time": 1773242526,
-        "download_url": "https://dl.smwcentral.net/41240/%5BDisassembly%5D%20Dino%20Rhino%20%2B%20Dino%20Torch.zip",
-        "filename": "%5BDisassembly%5D Dino Rhino + Dino Torch.zip",
-        "size": 4677,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-electricity",
     "aliases": [],
     "section": "smwsprites",
@@ -568,41 +498,6 @@
         "download_url": "https://dl.smwcentral.net/42369/electricity.zip",
         "filename": "electricity.zip",
         "size": 5105,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-expanded-dino-rhino-dino-torch",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41241,
-    "title": "Expanded Dino Rhino + Dino Torch",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "dino rhino",
-      "enemy",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This is an expansion of the Dino Rhino and the Dino Torch, sprites 6E and 6F of Super Mario World. An extra bit of 2 will make this a Dino Rhino, and an extra bit of 3 will make this a Dino Torch.<br>\r\n<br>\r\nThis variant includes some code optimizations from the original, as well as changes, such as:<br>\r\n* The Dino Rhino can now spit two kinds of flame, or spit nothing.<br>\r\n* The Dino Torch can be made to spit nothing.<br>\r\n* The Dino Rhino can turn into a Dino Torch or die instantly.<br>\r\n* The pattern can be random or fixed.",
-    "latest_version": "smwc-41241-1773413981",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41241,
-        "title": "Expanded Dino Rhino + Dino Torch",
-        "version": "smwc-41241-1773413981",
-        "upstream_time": 1773413981,
-        "download_url": "https://dl.smwcentral.net/41241/Dino%20Rhino%20%2B%20Dino%20Torch.zip",
-        "filename": "Dino Rhino + Dino Torch.zip",
-        "size": 11345,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -639,42 +534,6 @@
         "download_url": "https://dl.smwcentral.net/42639/Explosive%20Dry%20Bones%20V1.1.zip",
         "filename": "Explosive Dry Bones V1.1.zip",
         "size": 15207,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-falling-fireball-generator",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41845,
-    "title": "Falling Fireball Generator",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "falling",
-      "fire",
-      "fireball",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "Generates falling fireballs from the top of the screen. The fireballs fall and disappear in a puff of smoke when they encounter the ground. If a fireball encounters certain blocks, it makes them shatter.<br>\r\n<br>\r\nThere are many configuration options in the sprite and generator files, such as which sizes to spawn the fireballs in (16x16, 16x32 or both), the spawning rate per horizontal screen, which map16 tiles should be shattered by the fireballs (by default, they shatter item blocks and derivatives) and more.<br>\r\n<br>\r\n<b>Make sure to set the fireball's sprite number in the generator's .asm file!</b>",
-    "latest_version": "smwc-41845-1773022692",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41845,
-        "title": "Falling Fireball Generator",
-        "version": "smwc-41845-1773022692",
-        "upstream_time": 1773022692,
-        "download_url": "https://dl.smwcentral.net/41845/falling%20fireball%20generator.zip",
-        "filename": "falling fireball generator.zip",
-        "size": 8560,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -837,33 +696,31 @@
     ]
   },
   {
-    "name": "smwsprites-flying-grinder",
+    "name": "smwsprites-football",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 41608,
-    "title": "Flying Grinder",
+    "upstream_id": 42810,
+    "title": "Football",
     "authors": [
       "Arinsu"
     ],
     "tags": [
-      "enemy",
-      "flying",
-      "grinder",
       "lorom",
+      "pacific",
       "sa-1"
     ],
-    "description": "This evil variant of a Grinder has wings! It has two patterns, one where it flies in a determined range or, and a second one where it chases the player around. This, as well as the speed, can be configured as extra bytes.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"GatheringStorm\"><a href=\"/?p=profile&amp;id=72759\" style=\"color: var(--user-color-1);\" class=\"un\">GatheringStorm</a></span>.",
-    "latest_version": "smwc-41608-1773235625",
+    "description": "An overworld football which bounces in place.",
+    "latest_version": "smwc-42810-1788146950",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 41608,
-        "title": "Flying Grinder",
-        "version": "smwc-41608-1773235625",
-        "upstream_time": 1773235625,
-        "download_url": "https://dl.smwcentral.net/41608/Flying%20Grinder.zip",
-        "filename": "Flying Grinder.zip",
-        "size": 3271,
+        "upstream_id": 42810,
+        "title": "Football",
+        "version": "smwc-42810-1788146950",
+        "upstream_time": 1788146950,
+        "download_url": "https://dl.smwcentral.net/42810/OW%20Football.zip",
+        "filename": "OW Football.zip",
+        "size": 1766,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1266,6 +1123,76 @@
     ]
   },
   {
+    "name": "smwsprites-overworld-no-yoshi-sign",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42809,
+    "title": "Overworld No Yoshi Sign",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "A no Yoshi sign, which makes the player lose their Yoshi state when walking close to it.",
+    "latest_version": "V1.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42809,
+        "title": "Overworld No Yoshi Sign",
+        "version": "V1.0.1",
+        "upstream_time": 1788647170,
+        "download_url": "https://dl.smwcentral.net/42809/No%20Yoshi%20SignV1.0.1.zip",
+        "filename": "No Yoshi SignV1.0.1.zip",
+        "size": 2307,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-overworld-yoshi",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42808,
+    "title": "Overworld Yoshi",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "An overworld Yoshi. Place it in a non-enterable tile; when interacting with it, you will collect it, allowing you to carry him over to levels.<br>\r\n<br>\r\nThe extra byte controls the color. It won't appear if the active player already got Yoshi.",
+    "latest_version": "V1.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42808,
+        "title": "Overworld Yoshi",
+        "version": "V1.0.1",
+        "upstream_time": 1788639099,
+        "download_url": "https://dl.smwcentral.net/42808/Overworld%20Yoshi%20V1.0.1.zip",
+        "filename": "Overworld Yoshi V1.0.1.zip",
+        "size": 2180,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-p-balloon",
     "aliases": [],
     "section": "smwsprites",
@@ -1371,6 +1298,73 @@
         "download_url": "https://dl.smwcentral.net/42640/parachute%20thwomp.zip",
         "filename": "parachute thwomp.zip",
         "size": 6597,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-parakoopas",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42800,
+    "title": "Parakoopas",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "sa-1"
+    ],
+    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "latest_version": "V1.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42800,
+        "title": "Parakoopas",
+        "version": "V1.0.1",
+        "upstream_time": 1788383837,
+        "download_url": "https://dl.smwcentral.net/42800/ow_parakoopasV1.0.1.zip",
+        "filename": "ow_parakoopasV1.0.1.zip",
+        "size": 5209,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-piranha-plant-disappears-after-level-beaten",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42801,
+    "title": "Piranha Plant, Disappears After Level Beaten",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "An edit of the vanilla piranha plant overworld sprite which can be made to disappear once the level it's on is beaten.",
+    "latest_version": "V1.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42801,
+        "title": "Piranha Plant, Disappears After Level Beaten",
+        "version": "V1.0.1",
+        "upstream_time": 1788445018,
+        "download_url": "https://dl.smwcentral.net/42801/Disappearing%20OW%20Piranha%20Plant%20V1.0.1.zip",
+        "filename": "Disappearing OW Piranha Plant V1.0.1.zip",
+        "size": 1363,
         "sha256": null,
         "dependencies": [
           "pixi"

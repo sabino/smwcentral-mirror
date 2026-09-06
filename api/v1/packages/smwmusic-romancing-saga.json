@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-romancing-saga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42382,
+  "title": "Romancing Saga 3 - Sailing",
+  "authors": [
+    "scratch"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "overworld",
+    "sea",
+    "town"
+  ],
+  "description": "Such a calm travel theme.",
+  "latest_version": "smwc-42382-1788408986",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42382,
+      "title": "Romancing Saga 3 - Sailing",
+      "version": "smwc-42382-1788408986",
+      "upstream_time": 1788408986,
+      "download_url": "https://dl.smwcentral.net/42382/rs3_sailing.zip",
+      "filename": "rs3_sailing.zip",
+      "size": 55665,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42381,
+      "title": "Romancing Saga 3 - Lance ~ City of the Holy King",
+      "version": "smwc-42381-1788408972",
+      "upstream_time": 1788408972,
+      "download_url": "https://dl.smwcentral.net/42381/rs3_lance.zip",
+      "filename": "rs3_lance.zip",
+      "size": 59814,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

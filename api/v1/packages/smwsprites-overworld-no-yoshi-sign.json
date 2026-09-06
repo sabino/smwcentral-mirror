@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-overworld-no-yoshi-sign",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42809,
+  "title": "Overworld No Yoshi Sign",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "A no Yoshi sign, which makes the player lose their Yoshi state when walking close to it.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42809,
+      "title": "Overworld No Yoshi Sign",
+      "version": "V1.0.1",
+      "upstream_time": 1788647170,
+      "download_url": "https://dl.smwcentral.net/42809/No%20Yoshi%20SignV1.0.1.zip",
+      "filename": "No Yoshi SignV1.0.1.zip",
+      "size": 2307,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

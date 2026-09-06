@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-custom-overworld-level-names",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42967,
+  "title": "Custom Overworld Level Names",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "layer 3",
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "This UberASM is meant as an alternative/replacement to the \"Extended Overworld Level Names\"  patch, allowing you to have longer level names than what Lunar Magic supports. Compared to the patch, it comes with some options to configure the names easily: how many lines they have, how long the lines are and where the names are positioned. It also allows you to change the palette of some parts of the names.",
+  "latest_version": "v1.0",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42967,
+      "title": "Custom Overworld Level Names",
+      "version": "v1.0",
+      "upstream_time": 1788302182,
+      "download_url": "https://dl.smwcentral.net/42967/level_names-v1.0.zip",
+      "filename": "level_names-v1.0.zip",
+      "size": 5829,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

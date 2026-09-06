@@ -706,6 +706,41 @@
     ]
   },
   {
+    "name": "smwpatches-kirby-styled-running",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 41824,
+    "title": "Kirby-styled Running",
+    "authors": [
+      "Pinci"
+    ],
+    "tags": [
+      "controller",
+      "lorom",
+      "player",
+      "sa-1"
+    ],
+    "description": "AKA Forward+forward running (or double tap running). This patch makes Mario run by pressing forward twice instead of pressing X/Y.<br>\r\nComes with a couple of defines for keeping X/Y functionality, letting the player use both methods for running, and another couple for fixing cutscenes and demos if needed.<br>\r\n<br>\r\n<b>Features/quirks:</b><br>\r\n<ul><li>When Mario starts to run he leaves a small dust trail and a customizable SFX is played.</li>\n<li>After starting to run, Mario won't stop running until his speed is 0 and both left and right are not being pressed.</li>\n<li>Flight is now cancelled by pressing down instead of letting go of X/Y (this is always the case even if you have X/Y functionality enabled).</li>\n<li>Mario gets a small forward boost if he starts running while standing still or while having very low speed.</li>\n<li>If you have X/Y functionality disabled, Mario can carry objects and perform attacks without having to run.</li>\n<li>Both running methods do not stack, if you double tap and then press X/Y, Mario will stop running when X/Y is let go.</li></ul><br>\r\n<span style=\"font-size: 4pt;\">the readme comes with this exact same info</span>",
+    "latest_version": "smwc-41824-1788454292",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 41824,
+        "title": "Kirby-styled Running",
+        "version": "smwc-41824-1788454292",
+        "upstream_time": 1788454292,
+        "download_url": "https://dl.smwcentral.net/41824/kirby_styled_running.zip",
+        "filename": "kirby_styled_running.zip",
+        "size": 2083,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-koopaling-palette-changer",
     "aliases": [],
     "section": "smwpatches",
@@ -1199,7 +1234,7 @@
       "sa-1",
       "sound effect"
     ],
-    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
+    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><span title=\"It's Gamer collin's birthday today!\" class=\"icon icon-birthday\"></span><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
     "latest_version": "smwc-41597-1775952549",
     "install_kind": "asar_patch",
     "versions": [
@@ -1233,7 +1268,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #22cccc;\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1325,43 +1360,6 @@
         "download_url": "https://dl.smwcentral.net/42310/poison_mushroom_v1.1.2.zip",
         "filename": "poison_mushroom_v1.1.2.zip",
         "size": 5558,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-proximity-wraparound-fix-2-0",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40897,
-    "title": "Proximity Wraparound Fix 2.0.2",
-    "authors": [
-      "CircleFriendo",
-      "HammerBrother",
-      "JackTheSpades",
-      "RussianMan"
-    ],
-    "tags": [
-      "lorom",
-      "proximity",
-      "sa-1"
-    ],
-    "description": "This patch fixes various sprites using the horizontal and vertical proximity check that wraps around the border of the screen. It includes:<br>\r\n<br>\r\n- Thwomps<br>\r\n- Falling spike<br>\r\n- Yoshi egg<br>\r\n- Chargin Chuck<br>\r\n- Splittin Chuck<br>\r\n- Bouncin Chuck<br>\r\n- Whistlin Chuck<br>\r\n- Rip van fish<br>\r\n- Upside down Piranha plant and its classic.<br>\r\n- Jumping Piranha plant<br>\r\n- Exploding block<br>\r\n- Swooper Bat<br>\r\n- Ledge & Ground Dwelling Monty Moles<br>\r\n- Blargg<br>\r\n<span style=\"color: #ffff00;\"><b>NEW</b></span> - Growing Pipe End<br>\r\n<span style=\"color: #ffff00;\"><b>NEW</b></span> - Pipe Lakitu<br>\r\n<span style=\"color: #ffff00;\"><b>NEW</b></span> - Clappin Chuck<br>\r\n<span style=\"color: #ffff00;\"><b>NEW</b></span> - Pitchin Chuck<br>\r\n<span style=\"color: #ffff00;\"><b>NEW</b></span> - Magikoopa<br>\r\n<span style=\"color: #ffff00;\"><b>NEW</b></span> - Boo & Big Boo<br>\r\n<br>\r\n2.0 fix: <span class=\"un-outer\" title=\"Vitor Vilela\"><a href=\"/?p=profile&amp;id=8251\" style=\"color: #face42;\" class=\"un\">Vitor Vilela</a></span> reported a flaw that several stuff that are meant to load in 8-bit mode were in 16-bit, due to the routine exits out in 16-bit A but forgot to set it back to 8. That is now fixed.<br>\r\n2.0.1 fix: Added Blargg sprite (previously, I forgot this sprite, thanks <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>).<br>\r\n2.0.2 fix: Added Growing Pipe End, Pipe Lakitu, Clappin Chuck, Pitchin Chuck, Magikoopa, Boo, Big Boo",
-    "latest_version": "smwc-40897-1764713595",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40897,
-        "title": "Proximity Wraparound Fix 2.0.2",
-        "version": "smwc-40897-1764713595",
-        "upstream_time": 1764713595,
-        "download_url": "https://dl.smwcentral.net/40897/ProximityWrapFix_2_0_2.zip",
-        "filename": "ProximityWrapFix_2_0_2.zip",
-        "size": 3653,
         "sha256": null,
         "dependencies": [
           "asar"

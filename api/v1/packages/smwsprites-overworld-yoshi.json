@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-overworld-yoshi",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42808,
+  "title": "Overworld Yoshi",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1",
+    "yoshi"
+  ],
+  "description": "An overworld Yoshi. Place it in a non-enterable tile; when interacting with it, you will collect it, allowing you to carry him over to levels.<br>\r\n<br>\r\nThe extra byte controls the color. It won't appear if the active player already got Yoshi.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42808,
+      "title": "Overworld Yoshi",
+      "version": "V1.0.1",
+      "upstream_time": 1788639099,
+      "download_url": "https://dl.smwcentral.net/42808/Overworld%20Yoshi%20V1.0.1.zip",
+      "filename": "Overworld Yoshi V1.0.1.zip",
+      "size": 2180,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

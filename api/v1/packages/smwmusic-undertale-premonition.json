@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-undertale-premonition",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42190,
+  "title": "Undertale - Premonition",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious",
+    "tense"
+  ],
+  "description": "\"have you heard of a <span style=\"color: #fbff00;\">talking flower?</span>\"<br>\r\n<br>\r\nOne of my first FL Studio ports. Based off a <a href=\"https://youtu.be/uUxZ8mWQAh4\" rel=\"nofollow\">recreation by storm</a><br>\r\n<br>\r\nIncludes an option for the OST or the game files speed.",
+  "latest_version": "smwc-42190-1788540184",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42190,
+      "title": "Undertale - Premonition",
+      "version": "smwc-42190-1788540184",
+      "upstream_time": 1788540184,
+      "download_url": "https://dl.smwcentral.net/42190/Premonition.zip",
+      "filename": "Premonition.zip",
+      "size": 71221,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

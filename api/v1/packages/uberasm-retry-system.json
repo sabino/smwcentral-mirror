@@ -2,8 +2,8 @@
   "name": "uberasm-retry-system",
   "aliases": [],
   "section": "uberasm",
-  "upstream_id": 42270,
-  "title": "Retry System v2.0.3",
+  "upstream_id": 42938,
+  "title": "Retry System v2.2.0",
   "authors": [
     "Kevin"
   ],
@@ -17,17 +17,17 @@
     "save"
   ],
   "description": "This is the modern Retry System that extends and improves the <a href=\"https://smwc.me/1657727\">original patch</a> by <span class=\"un-outer\" title=\"worldpeace\"><a href=\"/?p=profile&amp;id=1250\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">worldpeace</a></span>. Its base features are the same as the old patch, but there's a lot of new functionalities and customizations available, which make it an useful tool also for projects where a retry system is not needed. Additionally, being implemented as an UberASM project, it features much less hijacks than the original patch, making it compatible with more resources. UberASM Tool version 2.1 or higher is required.<br>\r\n<br>\r\nThe main features implemented are:<br>\r\n- Level respawn on death without going to the Overworld (with prompt or instant)<br>\r\n- Customizable Retry prompt appearance (box/bar/minimal)<br>\r\n- Multiple midways per level<br>\r\n- Automatic midways when entering a sublevel<br>\r\n- Customizable sprite status bar that replaces the vanilla one<br>\r\n- Death counter<br>\r\n- Integrated save system to retain checkpoints and other things in SRAM<br>\r\n- Title screen death fix<br>\r\n- Counterbreak (state reset when respawning or going to the Overworld)<br>\r\n- Miscellaneous bug fixes<br>\r\n<br>\r\nSee <a href=\"https://kkevinm.github.io/retry-system/\" rel=\"nofollow\">Documentation</a> for more details.<br>\r\n<br>\r\nYou can check out the repository <a href=\"https://github.com/kkevinm/retry-system\" rel=\"nofollow\">here</a>.<br>\r\n<br>\r\nYou can see the changelog <a href=\"https://kkevinm.github.io/retry-system/changelog.html\" rel=\"nofollow\">here</a>.",
-  "latest_version": "2.0.3",
+  "latest_version": "2.2.0",
   "install_kind": "uber_asm",
   "versions": [
     {
-      "upstream_id": 42270,
-      "title": "Retry System v2.0.3",
-      "version": "2.0.3",
-      "upstream_time": 1777243987,
-      "download_url": "https://dl.smwcentral.net/42270/retry-system_v2.0.3.zip",
-      "filename": "retry-system_v2.0.3.zip",
-      "size": 276032,
+      "upstream_id": 42938,
+      "title": "Retry System v2.2.0",
+      "version": "2.2.0",
+      "upstream_time": 1787414609,
+      "download_url": "https://dl.smwcentral.net/42938/retry-system_v2.2.0.zip",
+      "filename": "retry-system_v2.2.0.zip",
+      "size": 279774,
       "sha256": null,
       "dependencies": [
         "uberasm-tool"

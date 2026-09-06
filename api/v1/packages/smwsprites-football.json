@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-football",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42810,
+  "title": "Football",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pacific",
+    "sa-1"
+  ],
+  "description": "An overworld football which bounces in place.",
+  "latest_version": "smwc-42810-1788146950",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42810,
+      "title": "Football",
+      "version": "smwc-42810-1788146950",
+      "upstream_time": 1788146950,
+      "download_url": "https://dl.smwcentral.net/42810/OW%20Football.zip",
+      "filename": "OW Football.zip",
+      "size": 1766,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}
